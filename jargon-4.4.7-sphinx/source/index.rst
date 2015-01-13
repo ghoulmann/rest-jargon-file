@@ -6,11 +6,11 @@
 Welcome to Jargon File's documentation!
 =======================================
 
-Contents:
+Introduction
+-------------
 
 .. toctree::
    :maxdepth: 2
-   :glob:
    
    introduction
    distinctions
@@ -31,6 +31,14 @@ Contents:
    pronunciation
    conventions
    submitting-new-entries
+   
+Lexicon
+---------
+   
+.. toctree::
+   :maxdepth:2
+   :glob:
+   
    0/*
 
 
