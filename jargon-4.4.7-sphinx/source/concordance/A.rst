@@ -1,34 +1,16 @@
-abbrev
-
-`Prev <../A.html>`__ 
-
+====
 A
+====
 
- `Next <ABEND.html>`__
-
---------------
+abbrev
+======
 
 **abbrev**: /@·breev´/, /@·brev´/, n.
 
 Common abbreviation for ‘abbreviation’.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <../A.html>`__    | `Up <../A.html>`__         |  `Next <ABEND.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| A                       | `Home <../index.html>`__   |  ABEND                   |
-+-------------------------+----------------------------+--------------------------+
-
 ABEND
-
-`Prev <abbrev.html>`__ 
-
-A
-
- `Next <accumulator.html>`__
-
---------------
+=====
 
 **ABEND**: /a´bend/, /@·bend´/, n.
 
@@ -50,23 +32,11 @@ provider, moving or illness.) Variants of this also appear: ABVND =
 ‘Absent By Voluntary Net Deprivation’ and ABSEND = ‘Absent By
 Self-Enforced Net Deprivation’ have been sighted.
 
---------------
 
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <abbrev.html>`__    | `Up <../A.html>`__         |  `Next <accumulator.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| abbrev                    | `Home <../index.html>`__   |  accumulator                   |
-+---------------------------+----------------------------+--------------------------------+
 
 accumulator
+============
 
-`Prev <ABEND.html>`__ 
-
-A
-
- `Next <ACK.html>`__
-
---------------
 
 **accumulator**: n. obs.
 
@@ -90,21 +60,15 @@ accumulator.”
 want this reviewed? Sure, just put it in the accumulator.” (See
 `*stack* <../S/stack.html>`__.)
 
---------------
-
-+--------------------------+----------------------------+------------------------+
-| `Prev <ABEND.html>`__    | `Up <../A.html>`__         |  `Next <ACK.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| ABEND                    | `Home <../index.html>`__   |  ACK                   |
-+--------------------------+----------------------------+------------------------+
 
 ACK
+=====
 
-`Prev <accumulator.html>`__ 
+`Prev <accumulator.html>`__ 
 
 A
 
- `Next <Acme.html>`__
+ `Next <Acme.html>`__
 
 --------------
 
@@ -135,18 +99,18 @@ gone away (the standard humorous response is of course
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <accumulator.html>`__    | `Up <../A.html>`__         |  `Next <Acme.html>`__   |
+| `Prev <accumulator.html>`__    | `Up <../A.html>`__         |  `Next <Acme.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| accumulator                    | `Home <../index.html>`__   |  Acme                   |
+| accumulator                    | `Home <../index.html>`__   |  Acme                   |
 +--------------------------------+----------------------------+-------------------------+
 
 Acme
 
-`Prev <ACK.html>`__ 
+`Prev <ACK.html>`__ 
 
 A
 
- `Next <ad-hockery.html>`__
+ `Next <ad-hockery.html>`__
 
 --------------
 
@@ -180,18 +144,18 @@ ways.
 --------------
 
 +------------------------+----------------------------+-------------------------------+
-| `Prev <ACK.html>`__    | `Up <../A.html>`__         |  `Next <ad-hockery.html>`__   |
+| `Prev <ACK.html>`__    | `Up <../A.html>`__         |  `Next <ad-hockery.html>`__   |
 +------------------------+----------------------------+-------------------------------+
-| ACK                    | `Home <../index.html>`__   |  ad-hockery                   |
+| ACK                    | `Home <../index.html>`__   |  ad-hockery                   |
 +------------------------+----------------------------+-------------------------------+
 
 address harvester
 
-`Prev <ad-hockery.html>`__ 
+`Prev <ad-hockery.html>`__ 
 
 A
 
- `Next <adger.html>`__
+ `Next <adger.html>`__
 
 --------------
 
@@ -207,18 +171,18 @@ Address harvesters can be foiled by a
 --------------
 
 +-------------------------------+----------------------------+--------------------------+
-| `Prev <ad-hockery.html>`__    | `Up <../A.html>`__         |  `Next <adger.html>`__   |
+| `Prev <ad-hockery.html>`__    | `Up <../A.html>`__         |  `Next <adger.html>`__   |
 +-------------------------------+----------------------------+--------------------------+
-| ad-hockery                    | `Home <../index.html>`__   |  adger                   |
+| ad-hockery                    | `Home <../index.html>`__   |  adger                   |
 +-------------------------------+----------------------------+--------------------------+
 
 adger
 
-`Prev <address-harvester.html>`__ 
+`Prev <address-harvester.html>`__ 
 
 A
 
- `Next <admin.html>`__
+ `Next <admin.html>`__
 
 --------------
 
@@ -234,18 +198,18 @@ whole project”. Compare `*dumbass attack* <../D/dumbass-attack.html>`__.
 --------------
 
 +--------------------------------------+----------------------------+--------------------------+
-| `Prev <address-harvester.html>`__    | `Up <../A.html>`__         |  `Next <admin.html>`__   |
+| `Prev <address-harvester.html>`__    | `Up <../A.html>`__         |  `Next <admin.html>`__   |
 +--------------------------------------+----------------------------+--------------------------+
-| address harvester                    | `Home <../index.html>`__   |  admin                   |
+| address harvester                    | `Home <../index.html>`__   |  admin                   |
 +--------------------------------------+----------------------------+--------------------------+
 
 ad-hockery
 
-`Prev <Acme.html>`__ 
+`Prev <Acme.html>`__ 
 
 A
 
- `Next <address-harvester.html>`__
+ `Next <address-harvester.html>`__
 
 --------------
 
@@ -277,19 +241,19 @@ is `73-07-29 <../B/bug.html#crunchly73-07-29>`__.)
 --------------
 
 +-------------------------+----------------------------+--------------------------------------+
-| `Prev <Acme.html>`__    | `Up <../A.html>`__         |  `Next <address-harvester.html>`__   |
+| `Prev <Acme.html>`__    | `Up <../A.html>`__         |  `Next <address-harvester.html>`__   |
 +-------------------------+----------------------------+--------------------------------------+
-| Acme                    | `Home <../index.html>`__   |  address harvester                   |
+| Acme                    | `Home <../index.html>`__   |  address harvester                   |
 +-------------------------+----------------------------+--------------------------------------+
 
 .. |image0| image:: ../graphics/73-10-31.png
 admin
 
-`Prev <adger.html>`__ 
+`Prev <adger.html>`__ 
 
 A
 
- `Next <ADVENT.html>`__
+ `Next <ADVENT.html>`__
 
 --------------
 
@@ -306,18 +270,18 @@ administrator's role as a site contact for email and news) or newsadmin
 --------------
 
 +--------------------------+----------------------------+---------------------------+
-| `Prev <adger.html>`__    | `Up <../A.html>`__         |  `Next <ADVENT.html>`__   |
+| `Prev <adger.html>`__    | `Up <../A.html>`__         |  `Next <ADVENT.html>`__   |
 +--------------------------+----------------------------+---------------------------+
-| adger                    | `Home <../index.html>`__   |  ADVENT                   |
+| adger                    | `Home <../index.html>`__   |  ADVENT                   |
 +--------------------------+----------------------------+---------------------------+
 
 ADVENT
 
-`Prev <admin.html>`__ 
+`Prev <admin.html>`__ 
 
 A
 
- `Next <adware.html>`__
+ `Next <adware.html>`__
 
 --------------
 
@@ -334,7 +298,7 @@ six-letter filenames in uppercase. See also
 `*vadding* <../V/vadding.html>`__, `*Zork* <../Z/Zork.html>`__, and
 `*Infocom* <../I/Infocom.html>`__.
 
-**Figure 1. Screen shot of the original ADVENT game**
+**Figure 1. Screen shot of the original ADVENT game**
 
 +--------------------------------------------------------------------------+
 | .. code:: screen                                                         |
@@ -406,18 +370,18 @@ Page <http://www.rickadams.org/adventure/>`__.
 --------------
 
 +--------------------------+----------------------------+---------------------------+
-| `Prev <admin.html>`__    | `Up <../A.html>`__         |  `Next <adware.html>`__   |
+| `Prev <admin.html>`__    | `Up <../A.html>`__         |  `Next <adware.html>`__   |
 +--------------------------+----------------------------+---------------------------+
-| admin                    | `Home <../index.html>`__   |  adware                   |
+| admin                    | `Home <../index.html>`__   |  adware                   |
 +--------------------------+----------------------------+---------------------------+
 
 adware
 
-`Prev <ADVENT.html>`__ 
+`Prev <ADVENT.html>`__ 
 
 A
 
- `Next <AFAIK.html>`__
+ `Next <AFAIK.html>`__
 
 --------------
 
@@ -429,18 +393,18 @@ ads somewhere. See also `*-ware* <../W/suffix-ware.html>`__.
 --------------
 
 +---------------------------+----------------------------+--------------------------+
-| `Prev <ADVENT.html>`__    | `Up <../A.html>`__         |  `Next <AFAIK.html>`__   |
+| `Prev <ADVENT.html>`__    | `Up <../A.html>`__         |  `Next <AFAIK.html>`__   |
 +---------------------------+----------------------------+--------------------------+
-| ADVENT                    | `Home <../index.html>`__   |  AFAIK                   |
+| ADVENT                    | `Home <../index.html>`__   |  AFAIK                   |
 +---------------------------+----------------------------+--------------------------+
 
 AFAIK
 
-`Prev <adware.html>`__ 
+`Prev <adware.html>`__ 
 
 A
 
- `Next <AFJ.html>`__
+ `Next <AFJ.html>`__
 
 --------------
 
@@ -455,18 +419,18 @@ knowledge does not support firm conclusions.
 --------------
 
 +---------------------------+----------------------------+------------------------+
-| `Prev <adware.html>`__    | `Up <../A.html>`__         |  `Next <AFJ.html>`__   |
+| `Prev <adware.html>`__    | `Up <../A.html>`__         |  `Next <AFJ.html>`__   |
 +---------------------------+----------------------------+------------------------+
-| adware                    | `Home <../index.html>`__   |  AFJ                   |
+| adware                    | `Home <../index.html>`__   |  AFJ                   |
 +---------------------------+----------------------------+------------------------+
 
 AFJ
 
-`Prev <AFAIK.html>`__ 
+`Prev <AFAIK.html>`__ 
 
 A
 
- `Next <AFK.html>`__
+ `Next <AFK.html>`__
 
 --------------
 
@@ -481,18 +445,18 @@ customary observances on Internet and other hacker networks.
 --------------
 
 +--------------------------+----------------------------+------------------------+
-| `Prev <AFAIK.html>`__    | `Up <../A.html>`__         |  `Next <AFK.html>`__   |
+| `Prev <AFAIK.html>`__    | `Up <../A.html>`__         |  `Next <AFK.html>`__   |
 +--------------------------+----------------------------+------------------------+
-| AFAIK                    | `Home <../index.html>`__   |  AFK                   |
+| AFAIK                    | `Home <../index.html>`__   |  AFK                   |
 +--------------------------+----------------------------+------------------------+
 
 AFK
 
-`Prev <AFJ.html>`__ 
+`Prev <AFJ.html>`__ 
 
 A
 
- `Next <AI.html>`__
+ `Next <AI.html>`__
 
 --------------
 
@@ -508,18 +472,18 @@ become common in many chat situations, from IRC to Unix talk.
 --------------
 
 +------------------------+----------------------------+-----------------------+
-| `Prev <AFJ.html>`__    | `Up <../A.html>`__         |  `Next <AI.html>`__   |
+| `Prev <AFJ.html>`__    | `Up <../A.html>`__         |  `Next <AI.html>`__   |
 +------------------------+----------------------------+-----------------------+
-| AFJ                    | `Home <../index.html>`__   |  AI                   |
+| AFJ                    | `Home <../index.html>`__   |  AI                   |
 +------------------------+----------------------------+-----------------------+
 
 AI-complete
 
-`Prev <AI.html>`__ 
+`Prev <AI.html>`__ 
 
 A
 
- `Next <airplane-rule.html>`__
+ `Next <airplane-rule.html>`__
 
 --------------
 
@@ -542,18 +506,18 @@ context information and ‘intelligence’ they seem to require. See also
 --------------
 
 +-----------------------+----------------------------+----------------------------------+
-| `Prev <AI.html>`__    | `Up <../A.html>`__         |  `Next <airplane-rule.html>`__   |
+| `Prev <AI.html>`__    | `Up <../A.html>`__         |  `Next <airplane-rule.html>`__   |
 +-----------------------+----------------------------+----------------------------------+
-| AI                    | `Home <../index.html>`__   |  airplane rule                   |
+| AI                    | `Home <../index.html>`__   |  airplane rule                   |
 +-----------------------+----------------------------+----------------------------------+
 
 AI
 
-`Prev <AFK.html>`__ 
+`Prev <AFK.html>`__ 
 
 A
 
- `Next <AI-complete.html>`__
+ `Next <AI-complete.html>`__
 
 --------------
 
@@ -565,18 +529,18 @@ is almost never written or spoken among hackers.
 --------------
 
 +------------------------+----------------------------+--------------------------------+
-| `Prev <AFK.html>`__    | `Up <../A.html>`__         |  `Next <AI-complete.html>`__   |
+| `Prev <AFK.html>`__    | `Up <../A.html>`__         |  `Next <AI-complete.html>`__   |
 +------------------------+----------------------------+--------------------------------+
-| AFK                    | `Home <../index.html>`__   |  AI-complete                   |
+| AFK                    | `Home <../index.html>`__   |  AI-complete                   |
 +------------------------+----------------------------+--------------------------------+
 
 airplane rule
 
-`Prev <AI-complete.html>`__ 
+`Prev <AI-complete.html>`__ 
 
 A
 
- `Next <Alderson-loop.html>`__
+ `Next <Alderson-loop.html>`__
 
 --------------
 
@@ -594,18 +558,18 @@ Principle* <../K/KISS-Principle.html>`__,
 --------------
 
 +--------------------------------+----------------------------+----------------------------------+
-| `Prev <AI-complete.html>`__    | `Up <../A.html>`__         |  `Next <Alderson-loop.html>`__   |
+| `Prev <AI-complete.html>`__    | `Up <../A.html>`__         |  `Next <Alderson-loop.html>`__   |
 +--------------------------------+----------------------------+----------------------------------+
-| AI-complete                    | `Home <../index.html>`__   |  Alderson loop                   |
+| AI-complete                    | `Home <../index.html>`__   |  Alderson loop                   |
 +--------------------------------+----------------------------+----------------------------------+
 
 Alderson loop
 
-`Prev <airplane-rule.html>`__ 
+`Prev <airplane-rule.html>`__ 
 
 A
 
- `Next <aliasing-bug.html>`__
+ `Next <aliasing-bug.html>`__
 
 --------------
 
@@ -628,18 +592,18 @@ non-existent Ok button was pressed the proper code would be called.
 --------------
 
 +----------------------------------+----------------------------+---------------------------------+
-| `Prev <airplane-rule.html>`__    | `Up <../A.html>`__         |  `Next <aliasing-bug.html>`__   |
+| `Prev <airplane-rule.html>`__    | `Up <../A.html>`__         |  `Next <aliasing-bug.html>`__   |
 +----------------------------------+----------------------------+---------------------------------+
-| airplane rule                    | `Home <../index.html>`__   |  aliasing bug                   |
+| airplane rule                    | `Home <../index.html>`__   |  aliasing bug                   |
 +----------------------------------+----------------------------+---------------------------------+
 
 aliasing bug
 
-`Prev <Alderson-loop.html>`__ 
+`Prev <Alderson-loop.html>`__ 
 
 A
 
- `Next <Alice-and-Bob.html>`__
+ `Next <Alice-and-Bob.html>`__
 
 --------------
 
@@ -670,18 +634,18 @@ Algol-60 and FORTRAN communities in the 1960s.
 --------------
 
 +----------------------------------+----------------------------+----------------------------------+
-| `Prev <Alderson-loop.html>`__    | `Up <../A.html>`__         |  `Next <Alice-and-Bob.html>`__   |
+| `Prev <Alderson-loop.html>`__    | `Up <../A.html>`__         |  `Next <Alice-and-Bob.html>`__   |
 +----------------------------------+----------------------------+----------------------------------+
-| Alderson loop                    | `Home <../index.html>`__   |  Alice and Bob                   |
+| Alderson loop                    | `Home <../index.html>`__   |  Alice and Bob                   |
 +----------------------------------+----------------------------+----------------------------------+
 
 Alice and Bob
 
-`Prev <aliasing-bug.html>`__ 
+`Prev <aliasing-bug.html>`__ 
 
 A
 
- `Next <All-hardware-sucks--all-software-sucks-.html>`__
+ `Next <All-hardware-sucks--all-software-sucks-.html>`__
 
 --------------
 
@@ -714,18 +678,18 @@ expected to quickly become so.
 --------------
 
 +---------------------------------+----------------------------+------------------------------------------------------------+
-| `Prev <aliasing-bug.html>`__    | `Up <../A.html>`__         |  `Next <All-hardware-sucks--all-software-sucks-.html>`__   |
+| `Prev <aliasing-bug.html>`__    | `Up <../A.html>`__         |  `Next <All-hardware-sucks--all-software-sucks-.html>`__   |
 +---------------------------------+----------------------------+------------------------------------------------------------+
-| aliasing bug                    | `Home <../index.html>`__   |  All hardware sucks, all software sucks.                   |
+| aliasing bug                    | `Home <../index.html>`__   |  All hardware sucks, all software sucks.                   |
 +---------------------------------+----------------------------+------------------------------------------------------------+
 
 All hardware sucks, all software sucks.
 
-`Prev <Alice-and-Bob.html>`__ 
+`Prev <Alice-and-Bob.html>`__ 
 
 A
 
- `Next <all-your-base-are-belong-to-us.html>`__
+ `Next <all-your-base-are-belong-to-us.html>`__
 
 --------------
 
@@ -742,18 +706,18 @@ appended with, ‘but some suck more than others.’
 --------------
 
 +----------------------------------+----------------------------+---------------------------------------------------+
-| `Prev <Alice-and-Bob.html>`__    | `Up <../A.html>`__         |  `Next <all-your-base-are-belong-to-us.html>`__   |
+| `Prev <Alice-and-Bob.html>`__    | `Up <../A.html>`__         |  `Next <all-your-base-are-belong-to-us.html>`__   |
 +----------------------------------+----------------------------+---------------------------------------------------+
-| Alice and Bob                    | `Home <../index.html>`__   |  all your base are belong to us                   |
+| Alice and Bob                    | `Home <../index.html>`__   |  all your base are belong to us                   |
 +----------------------------------+----------------------------+---------------------------------------------------+
 
 all your base are belong to us
 
-`Prev <All-hardware-sucks--all-software-sucks-.html>`__ 
+`Prev <All-hardware-sucks--all-software-sucks-.html>`__ 
 
 A
 
- `Next <alpha-geek.html>`__
+ `Next <alpha-geek.html>`__
 
 --------------
 
@@ -787,18 +751,18 @@ K.* <../J/Jeff-K-.html>`__ hilarious.
 --------------
 
 +------------------------------------------------------------+----------------------------+-------------------------------+
-| `Prev <All-hardware-sucks--all-software-sucks-.html>`__    | `Up <../A.html>`__         |  `Next <alpha-geek.html>`__   |
+| `Prev <All-hardware-sucks--all-software-sucks-.html>`__    | `Up <../A.html>`__         |  `Next <alpha-geek.html>`__   |
 +------------------------------------------------------------+----------------------------+-------------------------------+
-| All hardware sucks, all software sucks.                    | `Home <../index.html>`__   |  alpha geek                   |
+| All hardware sucks, all software sucks.                    | `Home <../index.html>`__   |  alpha geek                   |
 +------------------------------------------------------------+----------------------------+-------------------------------+
 
 alpha geek
 
-`Prev <all-your-base-are-belong-to-us.html>`__ 
+`Prev <all-your-base-are-belong-to-us.html>`__ 
 
 A
 
- `Next <alpha-particles.html>`__
+ `Next <alpha-particles.html>`__
 
 --------------
 
@@ -811,18 +775,18 @@ geek here.”
 --------------
 
 +---------------------------------------------------+----------------------------+------------------------------------+
-| `Prev <all-your-base-are-belong-to-us.html>`__    | `Up <../A.html>`__         |  `Next <alpha-particles.html>`__   |
+| `Prev <all-your-base-are-belong-to-us.html>`__    | `Up <../A.html>`__         |  `Next <alpha-particles.html>`__   |
 +---------------------------------------------------+----------------------------+------------------------------------+
-| all your base are belong to us                    | `Home <../index.html>`__   |  alpha particles                   |
+| all your base are belong to us                    | `Home <../index.html>`__   |  alpha particles                   |
 +---------------------------------------------------+----------------------------+------------------------------------+
 
 alpha particles
 
-`Prev <alpha-geek.html>`__ 
+`Prev <alpha-geek.html>`__ 
 
 A
 
- `Next <alt.html>`__
+ `Next <alt.html>`__
 
 --------------
 
@@ -833,18 +797,18 @@ See `*bit rot* <../B/bit-rot.html>`__.
 --------------
 
 +-------------------------------+----------------------------+------------------------+
-| `Prev <alpha-geek.html>`__    | `Up <../A.html>`__         |  `Next <alt.html>`__   |
+| `Prev <alpha-geek.html>`__    | `Up <../A.html>`__         |  `Next <alt.html>`__   |
 +-------------------------------+----------------------------+------------------------+
-| alpha geek                    | `Home <../index.html>`__   |  alt                   |
+| alpha geek                    | `Home <../index.html>`__   |  alt                   |
 +-------------------------------+----------------------------+------------------------+
 
 alt bit
 
-`Prev <alt.html>`__ 
+`Prev <alt.html>`__ 
 
 A
 
- `Next <Aluminum-Book.html>`__
+ `Next <Aluminum-Book.html>`__
 
 --------------
 
@@ -855,18 +819,18 @@ See `*meta bit* <../M/meta-bit.html>`__.
 --------------
 
 +------------------------+----------------------------+----------------------------------+
-| `Prev <alt.html>`__    | `Up <../A.html>`__         |  `Next <Aluminum-Book.html>`__   |
+| `Prev <alt.html>`__    | `Up <../A.html>`__         |  `Next <Aluminum-Book.html>`__   |
 +------------------------+----------------------------+----------------------------------+
-| alt                    | `Home <../index.html>`__   |  Aluminum Book                   |
+| alt                    | `Home <../index.html>`__   |  Aluminum Book                   |
 +------------------------+----------------------------+----------------------------------+
 
 alt
 
-`Prev <alpha-particles.html>`__ 
+`Prev <alpha-particles.html>`__ 
 
 A
 
- `Next <alt-bit.html>`__
+ `Next <alt-bit.html>`__
 
 --------------
 
@@ -894,18 +858,18 @@ PDP-10 operating systems, especially `*ITS* <../I/ITS.html>`__.
 --------------
 
 +------------------------------------+----------------------------+----------------------------+
-| `Prev <alpha-particles.html>`__    | `Up <../A.html>`__         |  `Next <alt-bit.html>`__   |
+| `Prev <alpha-particles.html>`__    | `Up <../A.html>`__         |  `Next <alt-bit.html>`__   |
 +------------------------------------+----------------------------+----------------------------+
-| alpha particles                    | `Home <../index.html>`__   |  alt bit                   |
+| alpha particles                    | `Home <../index.html>`__   |  alt bit                   |
 +------------------------------------+----------------------------+----------------------------+
 
 Aluminum Book
 
-`Prev <alt-bit.html>`__ 
+`Prev <alt-bit.html>`__ 
 
 A
 
- `Next <ambimouseterous.html>`__
+ `Next <ambimouseterous.html>`__
 
 --------------
 
@@ -920,18 +884,18 @@ titles* <../B/book-titles.html>`__.
 --------------
 
 +----------------------------+----------------------------+------------------------------------+
-| `Prev <alt-bit.html>`__    | `Up <../A.html>`__         |  `Next <ambimouseterous.html>`__   |
+| `Prev <alt-bit.html>`__    | `Up <../A.html>`__         |  `Next <ambimouseterous.html>`__   |
 +----------------------------+----------------------------+------------------------------------+
-| alt bit                    | `Home <../index.html>`__   |  ambimouseterous                   |
+| alt bit                    | `Home <../index.html>`__   |  ambimouseterous                   |
 +----------------------------+----------------------------+------------------------------------+
 
 ambimouseterous
 
-`Prev <Aluminum-Book.html>`__ 
+`Prev <Aluminum-Book.html>`__ 
 
 A
 
- `Next <Amiga.html>`__
+ `Next <Amiga.html>`__
 
 --------------
 
@@ -942,18 +906,18 @@ A
 --------------
 
 +----------------------------------+----------------------------+--------------------------+
-| `Prev <Aluminum-Book.html>`__    | `Up <../A.html>`__         |  `Next <Amiga.html>`__   |
+| `Prev <Aluminum-Book.html>`__    | `Up <../A.html>`__         |  `Next <Amiga.html>`__   |
 +----------------------------------+----------------------------+--------------------------+
-| Aluminum Book                    | `Home <../index.html>`__   |  Amiga                   |
+| Aluminum Book                    | `Home <../index.html>`__   |  Amiga                   |
 +----------------------------------+----------------------------+--------------------------+
 
 Amiga
 
-`Prev <ambimouseterous.html>`__ 
+`Prev <ambimouseterous.html>`__ 
 
 A
 
- `Next <Amiga-Persecution-Complex.html>`__
+ `Next <Amiga-Persecution-Complex.html>`__
 
 --------------
 
@@ -987,18 +951,18 @@ probably extend the platform's life considerably.
 --------------
 
 +------------------------------------+----------------------------+----------------------------------------------+
-| `Prev <ambimouseterous.html>`__    | `Up <../A.html>`__         |  `Next <Amiga-Persecution-Complex.html>`__   |
+| `Prev <ambimouseterous.html>`__    | `Up <../A.html>`__         |  `Next <Amiga-Persecution-Complex.html>`__   |
 +------------------------------------+----------------------------+----------------------------------------------+
-| ambimouseterous                    | `Home <../index.html>`__   |  Amiga Persecution Complex                   |
+| ambimouseterous                    | `Home <../index.html>`__   |  Amiga Persecution Complex                   |
 +------------------------------------+----------------------------+----------------------------------------------+
 
 Amiga Persecution Complex
 
-`Prev <Amiga.html>`__ 
+`Prev <Amiga.html>`__ 
 
 A
 
- `Next <amp-off.html>`__
+ `Next <amp-off.html>`__
 
 --------------
 
@@ -1024,18 +988,18 @@ life!* <../G/Get-a-life-.html>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------+
-| `Prev <Amiga.html>`__    | `Up <../A.html>`__         |  `Next <amp-off.html>`__   |
+| `Prev <Amiga.html>`__    | `Up <../A.html>`__         |  `Next <amp-off.html>`__   |
 +--------------------------+----------------------------+----------------------------+
-| Amiga                    | `Home <../index.html>`__   |  amp off                   |
+| Amiga                    | `Home <../index.html>`__   |  amp off                   |
 +--------------------------+----------------------------+----------------------------+
 
 amper
 
-`Prev <amp-off.html>`__ 
+`Prev <amp-off.html>`__ 
 
 A
 
- `Next <and-there-was-much-rejoicing.html>`__
+ `Next <and-there-was-much-rejoicing.html>`__
 
 --------------
 
@@ -1047,18 +1011,18 @@ character. See `*ASCII* <ASCII.html>`__ for other synonyms.
 --------------
 
 +----------------------------+----------------------------+-------------------------------------------------+
-| `Prev <amp-off.html>`__    | `Up <../A.html>`__         |  `Next <and-there-was-much-rejoicing.html>`__   |
+| `Prev <amp-off.html>`__    | `Up <../A.html>`__         |  `Next <and-there-was-much-rejoicing.html>`__   |
 +----------------------------+----------------------------+-------------------------------------------------+
-| amp off                    | `Home <../index.html>`__   |  and there was much rejoicing                   |
+| amp off                    | `Home <../index.html>`__   |  and there was much rejoicing                   |
 +----------------------------+----------------------------+-------------------------------------------------+
 
 amp off
 
-`Prev <Amiga-Persecution-Complex.html>`__ 
+`Prev <Amiga-Persecution-Complex.html>`__ 
 
 A
 
- `Next <amper.html>`__
+ `Next <amper.html>`__
 
 --------------
 
@@ -1070,18 +1034,18 @@ Unix shell ‘&’ operator.
 --------------
 
 +----------------------------------------------+----------------------------+--------------------------+
-| `Prev <Amiga-Persecution-Complex.html>`__    | `Up <../A.html>`__         |  `Next <amper.html>`__   |
+| `Prev <Amiga-Persecution-Complex.html>`__    | `Up <../A.html>`__         |  `Next <amper.html>`__   |
 +----------------------------------------------+----------------------------+--------------------------+
-| Amiga Persecution Complex                    | `Home <../index.html>`__   |  amper                   |
+| Amiga Persecution Complex                    | `Home <../index.html>`__   |  amper                   |
 +----------------------------------------------+----------------------------+--------------------------+
 
 and there was much rejoicing
 
-`Prev <amper.html>`__ 
+`Prev <amper.html>`__ 
 
 A
 
- `Next <Angband.html>`__
+ `Next <Angband.html>`__
 
 --------------
 
@@ -1109,18 +1073,18 @@ tree. (And there was much rejoicing)."
 --------------
 
 +--------------------------+----------------------------+----------------------------+
-| `Prev <amper.html>`__    | `Up <../A.html>`__         |  `Next <Angband.html>`__   |
+| `Prev <amper.html>`__    | `Up <../A.html>`__         |  `Next <Angband.html>`__   |
 +--------------------------+----------------------------+----------------------------+
-| amper                    | `Home <../index.html>`__   |  Angband                   |
+| amper                    | `Home <../index.html>`__   |  Angband                   |
 +--------------------------+----------------------------+----------------------------+
 
 Angband
 
-`Prev <and-there-was-much-rejoicing.html>`__ 
+`Prev <and-there-was-much-rejoicing.html>`__ 
 
 A
 
- `Next <angle-brackets.html>`__
+ `Next <angle-brackets.html>`__
 
 --------------
 
@@ -1153,18 +1117,18 @@ and a zangband one at
 --------------
 
 +-------------------------------------------------+----------------------------+-----------------------------------+
-| `Prev <and-there-was-much-rejoicing.html>`__    | `Up <../A.html>`__         |  `Next <angle-brackets.html>`__   |
+| `Prev <and-there-was-much-rejoicing.html>`__    | `Up <../A.html>`__         |  `Next <angle-brackets.html>`__   |
 +-------------------------------------------------+----------------------------+-----------------------------------+
-| and there was much rejoicing                    | `Home <../index.html>`__   |  angle brackets                   |
+| and there was much rejoicing                    | `Home <../index.html>`__   |  angle brackets                   |
 +-------------------------------------------------+----------------------------+-----------------------------------+
 
 angle brackets
 
-`Prev <Angband.html>`__ 
+`Prev <Angband.html>`__ 
 
 A
 
- `Next <angry-fruit-salad.html>`__
+ `Next <angry-fruit-salad.html>`__
 
 --------------
 
@@ -1181,18 +1145,18 @@ and greater-than signs. See `*broket* <../B/broket.html>`__,
 --------------
 
 +----------------------------+----------------------------+--------------------------------------+
-| `Prev <Angband.html>`__    | `Up <../A.html>`__         |  `Next <angry-fruit-salad.html>`__   |
+| `Prev <Angband.html>`__    | `Up <../A.html>`__         |  `Next <angry-fruit-salad.html>`__   |
 +----------------------------+----------------------------+--------------------------------------+
-| Angband                    | `Home <../index.html>`__   |  angry fruit salad                   |
+| Angband                    | `Home <../index.html>`__   |  angry fruit salad                   |
 +----------------------------+----------------------------+--------------------------------------+
 
 angry fruit salad
 
-`Prev <angle-brackets.html>`__ 
+`Prev <angle-brackets.html>`__ 
 
 A
 
- `Next <annoybot.html>`__
+ `Next <annoybot.html>`__
 
 --------------
 
@@ -1208,18 +1172,18 @@ attention-getting but uncomfortable for long-term use.
 --------------
 
 +-----------------------------------+----------------------------+-----------------------------+
-| `Prev <angle-brackets.html>`__    | `Up <../A.html>`__         |  `Next <annoybot.html>`__   |
+| `Prev <angle-brackets.html>`__    | `Up <../A.html>`__         |  `Next <annoybot.html>`__   |
 +-----------------------------------+----------------------------+-----------------------------+
-| angle brackets                    | `Home <../index.html>`__   |  annoybot                   |
+| angle brackets                    | `Home <../index.html>`__   |  annoybot                   |
 +-----------------------------------+----------------------------+-----------------------------+
 
 annoybot
 
-`Prev <angry-fruit-salad.html>`__ 
+`Prev <angry-fruit-salad.html>`__ 
 
 A
 
- `Next <annoyware.html>`__
+ `Next <annoyware.html>`__
 
 --------------
 
@@ -1230,18 +1194,18 @@ A
 --------------
 
 +--------------------------------------+----------------------------+------------------------------+
-| `Prev <angry-fruit-salad.html>`__    | `Up <../A.html>`__         |  `Next <annoyware.html>`__   |
+| `Prev <angry-fruit-salad.html>`__    | `Up <../A.html>`__         |  `Next <annoyware.html>`__   |
 +--------------------------------------+----------------------------+------------------------------+
-| angry fruit salad                    | `Home <../index.html>`__   |  annoyware                   |
+| angry fruit salad                    | `Home <../index.html>`__   |  annoyware                   |
 +--------------------------------------+----------------------------+------------------------------+
 
 annoyware
 
-`Prev <annoybot.html>`__ 
+`Prev <annoybot.html>`__ 
 
 A
 
- `Next <ANSI-standard.html>`__
+ `Next <ANSI-standard.html>`__
 
 --------------
 
@@ -1265,18 +1229,18 @@ most frequently used features of the software. See also
 --------------
 
 +-----------------------------+----------------------------+----------------------------------+
-| `Prev <annoybot.html>`__    | `Up <../A.html>`__         |  `Next <ANSI-standard.html>`__   |
+| `Prev <annoybot.html>`__    | `Up <../A.html>`__         |  `Next <ANSI-standard.html>`__   |
 +-----------------------------+----------------------------+----------------------------------+
-| annoybot                    | `Home <../index.html>`__   |  ANSI standard                   |
+| annoybot                    | `Home <../index.html>`__   |  ANSI standard                   |
 +-----------------------------+----------------------------+----------------------------------+
 
 ANSI standard
 
-`Prev <annoyware.html>`__ 
+`Prev <annoyware.html>`__ 
 
 A
 
- `Next <ANSI-standard-pizza.html>`__
+ `Next <ANSI-standard-pizza.html>`__
 
 --------------
 
@@ -1298,18 +1262,18 @@ software standards.
 --------------
 
 +------------------------------+----------------------------+----------------------------------------+
-| `Prev <annoyware.html>`__    | `Up <../A.html>`__         |  `Next <ANSI-standard-pizza.html>`__   |
+| `Prev <annoyware.html>`__    | `Up <../A.html>`__         |  `Next <ANSI-standard-pizza.html>`__   |
 +------------------------------+----------------------------+----------------------------------------+
-| annoyware                    | `Home <../index.html>`__   |  ANSI standard pizza                   |
+| annoyware                    | `Home <../index.html>`__   |  ANSI standard pizza                   |
 +------------------------------+----------------------------+----------------------------------------+
 
 ANSI standard pizza
 
-`Prev <ANSI-standard.html>`__ 
+`Prev <ANSI-standard.html>`__ 
 
 A
 
- `Next <anti-idiotarianism.html>`__
+ `Next <anti-idiotarianism.html>`__
 
 --------------
 
@@ -1324,18 +1288,18 @@ tea* <../I/ISO-standard-cup-of-tea.html>`__.
 --------------
 
 +----------------------------------+----------------------------+---------------------------------------+
-| `Prev <ANSI-standard.html>`__    | `Up <../A.html>`__         |  `Next <anti-idiotarianism.html>`__   |
+| `Prev <ANSI-standard.html>`__    | `Up <../A.html>`__         |  `Next <anti-idiotarianism.html>`__   |
 +----------------------------------+----------------------------+---------------------------------------+
-| ANSI standard                    | `Home <../index.html>`__   |  anti-idiotarianism                   |
+| ANSI standard                    | `Home <../index.html>`__   |  anti-idiotarianism                   |
 +----------------------------------+----------------------------+---------------------------------------+
 
 anti-idiotarianism
 
-`Prev <ANSI-standard-pizza.html>`__ 
+`Prev <ANSI-standard-pizza.html>`__ 
 
 A
 
- `Next <AOL-.html>`__
+ `Next <AOL-.html>`__
 
 --------------
 
@@ -1355,18 +1319,18 @@ jihad themselves.
 --------------
 
 +----------------------------------------+----------------------------+-------------------------+
-| `Prev <ANSI-standard-pizza.html>`__    | `Up <../A.html>`__         |  `Next <AOL-.html>`__   |
+| `Prev <ANSI-standard-pizza.html>`__    | `Up <../A.html>`__         |  `Next <AOL-.html>`__   |
 +----------------------------------------+----------------------------+-------------------------+
-| ANSI standard pizza                    | `Home <../index.html>`__   |  AOL!                   |
+| ANSI standard pizza                    | `Home <../index.html>`__   |  AOL!                   |
 +----------------------------------------+----------------------------+-------------------------+
 
 AOL!
 
-`Prev <anti-idiotarianism.html>`__ 
+`Prev <anti-idiotarianism.html>`__ 
 
 A
 
- `Next <app.html>`__
+ `Next <app.html>`__
 
 --------------
 
@@ -1385,18 +1349,18 @@ ended* <../S/September-that-never-ended.html>`__.
 --------------
 
 +---------------------------------------+----------------------------+------------------------+
-| `Prev <anti-idiotarianism.html>`__    | `Up <../A.html>`__         |  `Next <app.html>`__   |
+| `Prev <anti-idiotarianism.html>`__    | `Up <../A.html>`__         |  `Next <app.html>`__   |
 +---------------------------------------+----------------------------+------------------------+
-| anti-idiotarianism                    | `Home <../index.html>`__   |  app                   |
+| anti-idiotarianism                    | `Home <../index.html>`__   |  app                   |
 +---------------------------------------+----------------------------+------------------------+
 
 app
 
-`Prev <AOL-.html>`__ 
+`Prev <AOL-.html>`__ 
 
 A
 
- `Next <Archimedes.html>`__
+ `Next <Archimedes.html>`__
 
 --------------
 
@@ -1417,18 +1381,18 @@ app* <../K/killer-app.html>`__; oppose `*tool* <../T/tool.html>`__,
 --------------
 
 +-------------------------+----------------------------+-------------------------------+
-| `Prev <AOL-.html>`__    | `Up <../A.html>`__         |  `Next <Archimedes.html>`__   |
+| `Prev <AOL-.html>`__    | `Up <../A.html>`__         |  `Next <Archimedes.html>`__   |
 +-------------------------+----------------------------+-------------------------------+
-| AOL!                    | `Home <../index.html>`__   |  Archimedes                   |
+| AOL!                    | `Home <../index.html>`__   |  Archimedes                   |
 +-------------------------+----------------------------+-------------------------------+
 
 Archimedes
 
-`Prev <app.html>`__ 
+`Prev <app.html>`__ 
 
 A
 
- `Next <arena.html>`__
+ `Next <arena.html>`__
 
 --------------
 
@@ -1445,18 +1409,18 @@ often still treated with awe and reverence. Familiarly, “archi”.
 --------------
 
 +------------------------+----------------------------+--------------------------+
-| `Prev <app.html>`__    | `Up <../A.html>`__         |  `Next <arena.html>`__   |
+| `Prev <app.html>`__    | `Up <../A.html>`__         |  `Next <arena.html>`__   |
 +------------------------+----------------------------+--------------------------+
-| app                    | `Home <../index.html>`__   |  arena                   |
+| app                    | `Home <../index.html>`__   |  arena                   |
 +------------------------+----------------------------+--------------------------+
 
 arena
 
-`Prev <Archimedes.html>`__ 
+`Prev <Archimedes.html>`__ 
 
 A
 
- `Next <arg.html>`__
+ `Next <arg.html>`__
 
 --------------
 
@@ -1474,18 +1438,18 @@ stack* <../S/smash-the-stack.html>`__.
 --------------
 
 +-------------------------------+----------------------------+------------------------+
-| `Prev <Archimedes.html>`__    | `Up <../A.html>`__         |  `Next <arg.html>`__   |
+| `Prev <Archimedes.html>`__    | `Up <../A.html>`__         |  `Next <arg.html>`__   |
 +-------------------------------+----------------------------+------------------------+
-| Archimedes                    | `Home <../index.html>`__   |  arg                   |
+| Archimedes                    | `Home <../index.html>`__   |  arg                   |
 +-------------------------------+----------------------------+------------------------+
 
 arg
 
-`Prev <arena.html>`__ 
+`Prev <arena.html>`__ 
 
 A
 
- `Next <ARMM.html>`__
+ `Next <ARMM.html>`__
 
 --------------
 
@@ -1500,18 +1464,18 @@ Compare `*param* <../P/param.html>`__, `*parm* <../P/parm.html>`__,
 --------------
 
 +--------------------------+----------------------------+-------------------------+
-| `Prev <arena.html>`__    | `Up <../A.html>`__         |  `Next <ARMM.html>`__   |
+| `Prev <arena.html>`__    | `Up <../A.html>`__         |  `Next <ARMM.html>`__   |
 +--------------------------+----------------------------+-------------------------+
-| arena                    | `Home <../index.html>`__   |  ARMM                   |
+| arena                    | `Home <../index.html>`__   |  ARMM                   |
 +--------------------------+----------------------------+-------------------------+
 
 ARMM
 
-`Prev <arg.html>`__ 
+`Prev <arg.html>`__ 
 
 A
 
- `Next <armor-plated.html>`__
+ `Next <armor-plated.html>`__
 
 --------------
 
@@ -1550,18 +1514,18 @@ meltdown* <../N/network-meltdown.html>`__.
 --------------
 
 +------------------------+----------------------------+---------------------------------+
-| `Prev <arg.html>`__    | `Up <../A.html>`__         |  `Next <armor-plated.html>`__   |
+| `Prev <arg.html>`__    | `Up <../A.html>`__         |  `Next <armor-plated.html>`__   |
 +------------------------+----------------------------+---------------------------------+
-| arg                    | `Home <../index.html>`__   |  armor-plated                   |
+| arg                    | `Home <../index.html>`__   |  armor-plated                   |
 +------------------------+----------------------------+---------------------------------+
 
 armor-plated
 
-`Prev <ARMM.html>`__ 
+`Prev <ARMM.html>`__ 
 
 A
 
- `Next <asbestos.html>`__
+ `Next <asbestos.html>`__
 
 --------------
 
@@ -1572,18 +1536,18 @@ Syn. for `*bulletproof* <../B/bulletproof.html>`__.
 --------------
 
 +-------------------------+----------------------------+-----------------------------+
-| `Prev <ARMM.html>`__    | `Up <../A.html>`__         |  `Next <asbestos.html>`__   |
+| `Prev <ARMM.html>`__    | `Up <../A.html>`__         |  `Next <asbestos.html>`__   |
 +-------------------------+----------------------------+-----------------------------+
-| ARMM                    | `Home <../index.html>`__   |  asbestos                   |
+| ARMM                    | `Home <../index.html>`__   |  asbestos                   |
 +-------------------------+----------------------------+-----------------------------+
 
 asbestos cork award
 
-`Prev <asbestos.html>`__ 
+`Prev <asbestos.html>`__ 
 
 A
 
- `Next <asbestos-longjohns.html>`__
+ `Next <asbestos-longjohns.html>`__
 
 --------------
 
@@ -1601,18 +1565,18 @@ dubious dignity — but there is no agreement on *which* few.
 --------------
 
 +-----------------------------+----------------------------+---------------------------------------+
-| `Prev <asbestos.html>`__    | `Up <../A.html>`__         |  `Next <asbestos-longjohns.html>`__   |
+| `Prev <asbestos.html>`__    | `Up <../A.html>`__         |  `Next <asbestos-longjohns.html>`__   |
 +-----------------------------+----------------------------+---------------------------------------+
-| asbestos                    | `Home <../index.html>`__   |  asbestos longjohns                   |
+| asbestos                    | `Home <../index.html>`__   |  asbestos longjohns                   |
 +-----------------------------+----------------------------+---------------------------------------+
 
 asbestos
 
-`Prev <armor-plated.html>`__ 
+`Prev <armor-plated.html>`__ 
 
 A
 
- `Next <asbestos-cork-award.html>`__
+ `Next <asbestos-cork-award.html>`__
 
 --------------
 
@@ -1627,18 +1591,18 @@ award* <asbestos-cork-award.html>`__.
 --------------
 
 +---------------------------------+----------------------------+----------------------------------------+
-| `Prev <armor-plated.html>`__    | `Up <../A.html>`__         |  `Next <asbestos-cork-award.html>`__   |
+| `Prev <armor-plated.html>`__    | `Up <../A.html>`__         |  `Next <asbestos-cork-award.html>`__   |
 +---------------------------------+----------------------------+----------------------------------------+
-| armor-plated                    | `Home <../index.html>`__   |  asbestos cork award                   |
+| armor-plated                    | `Home <../index.html>`__   |  asbestos cork award                   |
 +---------------------------------+----------------------------+----------------------------------------+
 
 asbestos longjohns
 
-`Prev <asbestos-cork-award.html>`__ 
+`Prev <asbestos-cork-award.html>`__ 
 
 A
 
- `Next <ASCII.html>`__
+ `Next <ASCII.html>`__
 
 --------------
 
@@ -1653,18 +1617,18 @@ asbestos overcoat, etc.
 --------------
 
 +----------------------------------------+----------------------------+--------------------------+
-| `Prev <asbestos-cork-award.html>`__    | `Up <../A.html>`__         |  `Next <ASCII.html>`__   |
+| `Prev <asbestos-cork-award.html>`__    | `Up <../A.html>`__         |  `Next <ASCII.html>`__   |
 +----------------------------------------+----------------------------+--------------------------+
-| asbestos cork award                    | `Home <../index.html>`__   |  ASCII                   |
+| asbestos cork award                    | `Home <../index.html>`__   |  ASCII                   |
 +----------------------------------------+----------------------------+--------------------------+
 
 ASCII art
 
-`Prev <ASCII.html>`__ 
+`Prev <ASCII.html>`__ 
 
 A
 
- `Next <ASCIIbetical-order.html>`__
+ `Next <ASCIIbetical-order.html>`__
 
 --------------
 
@@ -1805,18 +1769,18 @@ see also `*warlording* <../W/warlording.html>`__.
 --------------
 
 +--------------------------+----------------------------+---------------------------------------+
-| `Prev <ASCII.html>`__    | `Up <../A.html>`__         |  `Next <ASCIIbetical-order.html>`__   |
+| `Prev <ASCII.html>`__    | `Up <../A.html>`__         |  `Next <ASCIIbetical-order.html>`__   |
 +--------------------------+----------------------------+---------------------------------------+
-| ASCII                    | `Home <../index.html>`__   |  ASCIIbetical order                   |
+| ASCII                    | `Home <../index.html>`__   |  ASCIIbetical order                   |
 +--------------------------+----------------------------+---------------------------------------+
 
 ASCIIbetical order
 
-`Prev <ASCII-art.html>`__ 
+`Prev <ASCII-art.html>`__ 
 
 A
 
- `Next <astroturfing.html>`__
+ `Next <astroturfing.html>`__
 
 --------------
 
@@ -1830,18 +1794,18 @@ non-alphabetic characters moved to the beginning.
 --------------
 
 +------------------------------+----------------------------+---------------------------------+
-| `Prev <ASCII-art.html>`__    | `Up <../A.html>`__         |  `Next <astroturfing.html>`__   |
+| `Prev <ASCII-art.html>`__    | `Up <../A.html>`__         |  `Next <astroturfing.html>`__   |
 +------------------------------+----------------------------+---------------------------------+
-| ASCII art                    | `Home <../index.html>`__   |  astroturfing                   |
+| ASCII art                    | `Home <../index.html>`__   |  astroturfing                   |
 +------------------------------+----------------------------+---------------------------------+
 
 ASCII
 
-`Prev <asbestos-longjohns.html>`__ 
+`Prev <asbestos-longjohns.html>`__ 
 
 A
 
- `Next <ASCII-art.html>`__
+ `Next <ASCII-art.html>`__
 
 --------------
 
@@ -1987,18 +1951,18 @@ Perversely, though, efforts to solve this problem by proliferating
 --------------
 
 +---------------------------------------+----------------------------+------------------------------+
-| `Prev <asbestos-longjohns.html>`__    | `Up <../A.html>`__         |  `Next <ASCII-art.html>`__   |
+| `Prev <asbestos-longjohns.html>`__    | `Up <../A.html>`__         |  `Next <ASCII-art.html>`__   |
 +---------------------------------------+----------------------------+------------------------------+
-| asbestos longjohns                    | `Home <../index.html>`__   |  ASCII art                   |
+| asbestos longjohns                    | `Home <../index.html>`__   |  ASCII art                   |
 +---------------------------------------+----------------------------+------------------------------+
 
 astroturfing
 
-`Prev <ASCIIbetical-order.html>`__ 
+`Prev <ASCIIbetical-order.html>`__ 
 
 A
 
- `Next <atomic.html>`__
+ `Next <atomic.html>`__
 
 --------------
 
@@ -2025,18 +1989,18 @@ the accusation “You're just astroturfing!”.
 --------------
 
 +---------------------------------------+----------------------------+---------------------------+
-| `Prev <ASCIIbetical-order.html>`__    | `Up <../A.html>`__         |  `Next <atomic.html>`__   |
+| `Prev <ASCIIbetical-order.html>`__    | `Up <../A.html>`__         |  `Next <atomic.html>`__   |
 +---------------------------------------+----------------------------+---------------------------+
-| ASCIIbetical order                    | `Home <../index.html>`__   |  atomic                   |
+| ASCIIbetical order                    | `Home <../index.html>`__   |  atomic                   |
 +---------------------------------------+----------------------------+---------------------------+
 
 atomic
 
-`Prev <astroturfing.html>`__ 
+`Prev <astroturfing.html>`__ 
 
 A
 
- `Next <attoparsec.html>`__
+ `Next <attoparsec.html>`__
 
 --------------
 
@@ -2064,18 +2028,18 @@ of matter, nuclear explosions etc.).
 --------------
 
 +---------------------------------+----------------------------+-------------------------------+
-| `Prev <astroturfing.html>`__    | `Up <../A.html>`__         |  `Next <attoparsec.html>`__   |
+| `Prev <astroturfing.html>`__    | `Up <../A.html>`__         |  `Next <attoparsec.html>`__   |
 +---------------------------------+----------------------------+-------------------------------+
-| astroturfing                    | `Home <../index.html>`__   |  attoparsec                   |
+| astroturfing                    | `Home <../index.html>`__   |  attoparsec                   |
 +---------------------------------+----------------------------+-------------------------------+
 
 attoparsec
 
-`Prev <atomic.html>`__ 
+`Prev <atomic.html>`__ 
 
 A
 
- `Next <Aunt-Tillie.html>`__
+ `Next <Aunt-Tillie.html>`__
 
 --------------
 
@@ -2092,18 +2056,18 @@ not very seriously) among hackers in the U.K. See
 --------------
 
 +---------------------------+----------------------------+--------------------------------+
-| `Prev <atomic.html>`__    | `Up <../A.html>`__         |  `Next <Aunt-Tillie.html>`__   |
+| `Prev <atomic.html>`__    | `Up <../A.html>`__         |  `Next <Aunt-Tillie.html>`__   |
 +---------------------------+----------------------------+--------------------------------+
-| atomic                    | `Home <../index.html>`__   |  Aunt Tillie                   |
+| atomic                    | `Home <../index.html>`__   |  Aunt Tillie                   |
 +---------------------------+----------------------------+--------------------------------+
 
 Aunt Tillie
 
-`Prev <attoparsec.html>`__ 
+`Prev <attoparsec.html>`__ 
 
 A
 
- `Next <AUP.html>`__
+ `Next <AUP.html>`__
 
 --------------
 
@@ -2117,18 +2081,18 @@ to the “Aunt Tillie test”.
 --------------
 
 +-------------------------------+----------------------------+------------------------+
-| `Prev <attoparsec.html>`__    | `Up <../A.html>`__         |  `Next <AUP.html>`__   |
+| `Prev <attoparsec.html>`__    | `Up <../A.html>`__         |  `Next <AUP.html>`__   |
 +-------------------------------+----------------------------+------------------------+
-| attoparsec                    | `Home <../index.html>`__   |  AUP                   |
+| attoparsec                    | `Home <../index.html>`__   |  AUP                   |
 +-------------------------------+----------------------------+------------------------+
 
 AUP
 
-`Prev <Aunt-Tillie.html>`__ 
+`Prev <Aunt-Tillie.html>`__ 
 
 A
 
- `Next <autobogotiphobia.html>`__
+ `Next <autobogotiphobia.html>`__
 
 --------------
 
@@ -2141,18 +2105,18 @@ Internet resources.
 --------------
 
 +--------------------------------+----------------------------+-------------------------------------+
-| `Prev <Aunt-Tillie.html>`__    | `Up <../A.html>`__         |  `Next <autobogotiphobia.html>`__   |
+| `Prev <Aunt-Tillie.html>`__    | `Up <../A.html>`__         |  `Next <autobogotiphobia.html>`__   |
 +--------------------------------+----------------------------+-------------------------------------+
-| Aunt Tillie                    | `Home <../index.html>`__   |  autobogotiphobia                   |
+| Aunt Tillie                    | `Home <../index.html>`__   |  autobogotiphobia                   |
 +--------------------------------+----------------------------+-------------------------------------+
 
 autobogotiphobia
 
-`Prev <AUP.html>`__ 
+`Prev <AUP.html>`__ 
 
 A
 
- `Next <autoconfiscate.html>`__
+ `Next <autoconfiscate.html>`__
 
 --------------
 
@@ -2163,18 +2127,18 @@ n. See `*bogotify* <../B/bogotify.html>`__.
 --------------
 
 +------------------------+----------------------------+-----------------------------------+
-| `Prev <AUP.html>`__    | `Up <../A.html>`__         |  `Next <autoconfiscate.html>`__   |
+| `Prev <AUP.html>`__    | `Up <../A.html>`__         |  `Next <autoconfiscate.html>`__   |
 +------------------------+----------------------------+-----------------------------------+
-| AUP                    | `Home <../index.html>`__   |  autoconfiscate                   |
+| AUP                    | `Home <../index.html>`__   |  autoconfiscate                   |
 +------------------------+----------------------------+-----------------------------------+
 
 autoconfiscate
 
-`Prev <autobogotiphobia.html>`__ 
+`Prev <autobogotiphobia.html>`__ 
 
 A
 
- `Next <automagically.html>`__
+ `Next <automagically.html>`__
 
 --------------
 
@@ -2193,18 +2157,18 @@ without change.
 --------------
 
 +-------------------------------------+----------------------------+----------------------------------+
-| `Prev <autobogotiphobia.html>`__    | `Up <../A.html>`__         |  `Next <automagically.html>`__   |
+| `Prev <autobogotiphobia.html>`__    | `Up <../A.html>`__         |  `Next <automagically.html>`__   |
 +-------------------------------------+----------------------------+----------------------------------+
-| autobogotiphobia                    | `Home <../index.html>`__   |  automagically                   |
+| autobogotiphobia                    | `Home <../index.html>`__   |  automagically                   |
 +-------------------------------------+----------------------------+----------------------------------+
 
 automagically
 
-`Prev <autoconfiscate.html>`__ 
+`Prev <autoconfiscate.html>`__ 
 
 A
 
- `Next <avatar.html>`__
+ `Next <avatar.html>`__
 
 --------------
 
@@ -2223,18 +2187,18 @@ a shirt-ironing gadget) as far back as the late 1940s.
 --------------
 
 +-----------------------------------+----------------------------+---------------------------+
-| `Prev <autoconfiscate.html>`__    | `Up <../A.html>`__         |  `Next <avatar.html>`__   |
+| `Prev <autoconfiscate.html>`__    | `Up <../A.html>`__         |  `Next <avatar.html>`__   |
 +-----------------------------------+----------------------------+---------------------------+
-| autoconfiscate                    | `Home <../index.html>`__   |  avatar                   |
+| autoconfiscate                    | `Home <../index.html>`__   |  avatar                   |
 +-----------------------------------+----------------------------+---------------------------+
 
 avatar
 
-`Prev <automagically.html>`__ 
+`Prev <automagically.html>`__ 
 
 A
 
- `Next <awk.html>`__
+ `Next <awk.html>`__
 
 --------------
 
@@ -2257,18 +2221,18 @@ better impress people with the responsibility they were accepting.
 --------------
 
 +----------------------------------+----------------------------+------------------------+
-| `Prev <automagically.html>`__    | `Up <../A.html>`__         |  `Next <awk.html>`__   |
+| `Prev <automagically.html>`__    | `Up <../A.html>`__         |  `Next <awk.html>`__   |
 +----------------------------------+----------------------------+------------------------+
-| automagically                    | `Home <../index.html>`__   |  awk                   |
+| automagically                    | `Home <../index.html>`__   |  awk                   |
 +----------------------------------+----------------------------+------------------------+
 
 awk
 
-`Prev <avatar.html>`__ 
+`Prev <avatar.html>`__ 
 
 A
 
- `Next <../B.html>`__
+ `Next <../B.html>`__
 
 --------------
 
@@ -2290,8 +2254,8 @@ containing a `*newline* <../N/newline.html>`__).
 --------------
 
 +---------------------------+----------------------------+-------------------------+
-| `Prev <avatar.html>`__    | `Up <../A.html>`__         |  `Next <../B.html>`__   |
+| `Prev <avatar.html>`__    | `Up <../A.html>`__         |  `Next <../B.html>`__   |
 +---------------------------+----------------------------+-------------------------+
-| avatar                    | `Home <../index.html>`__   |  B                      |
+| avatar                    | `Home <../index.html>`__   |  B                      |
 +---------------------------+----------------------------+-------------------------+
 
