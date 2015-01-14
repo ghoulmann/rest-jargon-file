@@ -32,14 +32,14 @@ Introduction
    conventions
    submitting-new-entries
    
-Lexicon
----------
+Concordance
+------------
    
 .. toctree::
    :maxdepth:2
    :glob:
    
-   0/*
+   concordance/*
 
 
 
