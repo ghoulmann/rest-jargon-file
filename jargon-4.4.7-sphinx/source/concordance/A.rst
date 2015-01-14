@@ -17,7 +17,7 @@ ABEND
 [ABnormal END]
 
 1. Abnormal termination (of software); `*crash* <../C/crash.html>`__;
-`*lossage* <../L/lossage.html>`__. Derives from an error message on the
+`lossage <../L/lossage.html>`__. Derives from an error message on the
 IBM 360; used jokingly by hackers but seriously mainly by `*code
 grinder* <../C/code-grinder.html>`__\ s. Usually capitalized, but may
 appear as ‘abend’. Hackers will try to persuade you that ABEND is called
@@ -58,19 +58,13 @@ accumulator.”
 
 3. One's in-basket (esp. among old-timers who might use sense 1). “You
 want this reviewed? Sure, just put it in the accumulator.” (See
-`*stack* <../S/stack.html>`__.)
+`stack <../S/stack.html>`__.)
 
 
 ACK
 =====
 
-`Prev <accumulator.html>`__ 
 
-A
-
- `Next <Acme.html>`__
-
---------------
 
 **ACK**: /ak/, interj.
 
@@ -94,7 +88,7 @@ There is also a usage “ACK?” (from sense 1) meaning “Are you there?”,
 often used in email when earlier mail has produced no reply, or during a
 lull in `*talk mode* <../T/talk-mode.html>`__ to see if the person has
 gone away (the standard humorous response is of course
-`*NAK* <../N/NAK.html>`__, i.e., “I'm not here”).
+`NAK <../N/NAK.html>`__, i.e., “I'm not here”).
 
 --------------
 
@@ -105,6 +99,7 @@ gone away (the standard humorous response is of course
 +--------------------------------+----------------------------+-------------------------+
 
 Acme
+====
 
 `Prev <ACK.html>`__ 
 
