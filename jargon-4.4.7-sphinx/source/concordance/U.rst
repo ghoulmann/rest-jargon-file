@@ -1,10 +1,16 @@
-UBD
+===
+U
+===
 
-`Prev <u-.html>`__ 
+
+UBD
+====
+
+`Prev <u-.html>`__ 
 
 U
 
- `Next <UBE.html>`__
+ `Next <UBE.html>`__
 
 --------------
 
@@ -20,18 +26,19 @@ Compare `*pilot error* <../P/pilot-error.html>`__,
 --------------
 
 +-----------------------+----------------------------+------------------------+
-| `Prev <u-.html>`__    | `Up <../U.html>`__         |  `Next <UBE.html>`__   |
+| `Prev <u-.html>`__    | `Up <../U.html>`__         |  `Next <UBE.html>`__   |
 +-----------------------+----------------------------+------------------------+
-| u-                    | `Home <../index.html>`__   |  UBE                   |
+| u-                    | `Home <../index.html>`__   |  UBE                   |
 +-----------------------+----------------------------+------------------------+
 
 UBE
+==========
 
-`Prev <UBD.html>`__ 
+`Prev <UBD.html>`__ 
 
 U
 
- `Next <ubergeek.html>`__
+ `Next <ubergeek.html>`__
 
 --------------
 
@@ -45,18 +52,19 @@ whose motives are not commercial.
 --------------
 
 +------------------------+----------------------------+-----------------------------+
-| `Prev <UBD.html>`__    | `Up <../U.html>`__         |  `Next <ubergeek.html>`__   |
+| `Prev <UBD.html>`__    | `Up <../U.html>`__         |  `Next <ubergeek.html>`__   |
 +------------------------+----------------------------+-----------------------------+
-| UBD                    | `Home <../index.html>`__   |  ubergeek                   |
+| UBD                    | `Home <../index.html>`__   |  ubergeek                   |
 +------------------------+----------------------------+-----------------------------+
 
 ubergeek
+=============
 
-`Prev <UBE.html>`__ 
+`Prev <UBE.html>`__ 
 
 U
 
- `Next <UCE.html>`__
+ `Next <UCE.html>`__
 
 --------------
 
@@ -72,18 +80,19 @@ virtue. Has partially replaced earlier
 --------------
 
 +------------------------+----------------------------+------------------------+
-| `Prev <UBE.html>`__    | `Up <../U.html>`__         |  `Next <UCE.html>`__   |
+| `Prev <UBE.html>`__    | `Up <../U.html>`__         |  `Next <UCE.html>`__   |
 +------------------------+----------------------------+------------------------+
-| UBE                    | `Home <../index.html>`__   |  UCE                   |
+| UBE                    | `Home <../index.html>`__   |  UCE                   |
 +------------------------+----------------------------+------------------------+
 
 UCE
+=================
 
-`Prev <ubergeek.html>`__ 
+`Prev <ubergeek.html>`__ 
 
 U
 
- `Next <UDP.html>`__
+ `Next <UDP.html>`__
 
 --------------
 
@@ -96,18 +105,19 @@ which may be superseding it.
 --------------
 
 +-----------------------------+----------------------------+------------------------+
-| `Prev <ubergeek.html>`__    | `Up <../U.html>`__         |  `Next <UDP.html>`__   |
+| `Prev <ubergeek.html>`__    | `Up <../U.html>`__         |  `Next <UDP.html>`__   |
 +-----------------------------+----------------------------+------------------------+
-| ubergeek                    | `Home <../index.html>`__   |  UDP                   |
+| ubergeek                    | `Home <../index.html>`__   |  UDP                   |
 +-----------------------------+----------------------------+------------------------+
 
 UDP
+============
 
-`Prev <UCE.html>`__ 
+`Prev <UCE.html>`__ 
 
 U
 
- `Next <UN-asterisk-X.html>`__
+ `Next <UN-asterisk-X.html>`__
 
 --------------
 
@@ -121,18 +131,18 @@ than the full form), and frequently verbed. Compare
 --------------
 
 +------------------------+----------------------------+----------------------------------+
-| `Prev <UCE.html>`__    | `Up <../U.html>`__         |  `Next <UN-asterisk-X.html>`__   |
+| `Prev <UCE.html>`__    | `Up <../U.html>`__         |  `Next <UN-asterisk-X.html>`__   |
 +------------------------+----------------------------+----------------------------------+
-| UCE                    | `Home <../index.html>`__   |  UN\*X                           |
+| UCE                    | `Home <../index.html>`__   |  UN\*X                           |
 +------------------------+----------------------------+----------------------------------+
 
 u-
 
-`Prev <../U.html>`__ 
+`Prev <../U.html>`__ 
 
 U
 
- `Next <UBD.html>`__
+ `Next <UBD.html>`__
 
 --------------
 
@@ -146,20 +156,14 @@ like the English letter “u”).
 --------------
 
 +-------------------------+----------------------------+------------------------+
-| `Prev <../U.html>`__    | `Up <../U.html>`__         |  `Next <UBD.html>`__   |
+| `Prev <../U.html>`__    | `Up <../U.html>`__         |  `Next <UBD.html>`__   |
 +-------------------------+----------------------------+------------------------+
-| U                       | `Home <../index.html>`__   |  UBD                   |
+| U                       | `Home <../index.html>`__   |  UBD                   |
 +-------------------------+----------------------------+------------------------+
 
-UN\*X
+UN*X
 
-`Prev <UDP.html>`__ 
 
-U
-
- `Next <undefined-external-reference.html>`__
-
---------------
 
 **UN\*X**: n.
 
@@ -176,23 +180,10 @@ certain religions (especially Judaism) in which the name of the deity is
 never written out in full, e.g., ‘YHWH’ or ‘G--d’ is used. See also
 `*glob* <../G/glob.html>`__ and `*splat out* <../S/splat-out.html>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------------------------------+
-| `Prev <UDP.html>`__    | `Up <../U.html>`__         |  `Next <undefined-external-reference.html>`__   |
-+------------------------+----------------------------+-------------------------------------------------+
-| UDP                    | `Home <../index.html>`__   |  undefined external reference                   |
-+------------------------+----------------------------+-------------------------------------------------+
 
 undefined external reference
+=============================
 
-`Prev <UN-asterisk-X.html>`__ 
-
-U
-
- `Next <under-the-hood.html>`__
-
---------------
 
 **undefined external reference**: excl.
 
@@ -202,18 +193,19 @@ or dangling references in an argument or discussion.
 --------------
 
 +----------------------------------+----------------------------+-----------------------------------+
-| `Prev <UN-asterisk-X.html>`__    | `Up <../U.html>`__         |  `Next <under-the-hood.html>`__   |
+| `Prev <UN-asterisk-X.html>`__    | `Up <../U.html>`__         |  `Next <under-the-hood.html>`__   |
 +----------------------------------+----------------------------+-----------------------------------+
-| UN\*X                            | `Home <../index.html>`__   |  under the hood                   |
+| UN\*X                            | `Home <../index.html>`__   |  under the hood                   |
 +----------------------------------+----------------------------+-----------------------------------+
 
 under the hood
+==================
 
-`Prev <undefined-external-reference.html>`__ 
+`Prev <undefined-external-reference.html>`__ 
 
 U
 
- `Next <undocumented-feature.html>`__
+ `Next <undocumented-feature.html>`__
 
 --------------
 
@@ -237,18 +229,19 @@ shell.”
 --------------
 
 +-------------------------------------------------+----------------------------+-----------------------------------------+
-| `Prev <undefined-external-reference.html>`__    | `Up <../U.html>`__         |  `Next <undocumented-feature.html>`__   |
+| `Prev <undefined-external-reference.html>`__    | `Up <../U.html>`__         |  `Next <undocumented-feature.html>`__   |
 +-------------------------------------------------+----------------------------+-----------------------------------------+
-| undefined external reference                    | `Home <../index.html>`__   |  undocumented feature                   |
+| undefined external reference                    | `Home <../index.html>`__   |  undocumented feature                   |
 +-------------------------------------------------+----------------------------+-----------------------------------------+
 
 undocumented feature
+=====================
 
-`Prev <under-the-hood.html>`__ 
+`Prev <under-the-hood.html>`__ 
 
 U
 
- `Next <uninteresting.html>`__
+ `Next <uninteresting.html>`__
 
 --------------
 
@@ -259,18 +252,19 @@ See `*feature* <../F/feature.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+----------------------------------+
-| `Prev <under-the-hood.html>`__    | `Up <../U.html>`__         |  `Next <uninteresting.html>`__   |
+| `Prev <under-the-hood.html>`__    | `Up <../U.html>`__         |  `Next <uninteresting.html>`__   |
 +-----------------------------------+----------------------------+----------------------------------+
-| under the hood                    | `Home <../index.html>`__   |  uninteresting                   |
+| under the hood                    | `Home <../index.html>`__   |  uninteresting                   |
 +-----------------------------------+----------------------------+----------------------------------+
 
 uninteresting
+=================
 
-`Prev <undocumented-feature.html>`__ 
+`Prev <undocumented-feature.html>`__ 
 
 U
 
- `Next <Unix.html>`__
+ `Next <Unix.html>`__
 
 --------------
 
@@ -297,18 +291,19 @@ problem* <../T/toy-problem.html>`__, oppose
 --------------
 
 +-----------------------------------------+----------------------------+-------------------------+
-| `Prev <undocumented-feature.html>`__    | `Up <../U.html>`__         |  `Next <Unix.html>`__   |
+| `Prev <undocumented-feature.html>`__    | `Up <../U.html>`__         |  `Next <Unix.html>`__   |
 +-----------------------------------------+----------------------------+-------------------------+
-| undocumented feature                    | `Home <../index.html>`__   |  Unix                   |
+| undocumented feature                    | `Home <../index.html>`__   |  Unix                   |
 +-----------------------------------------+----------------------------+-------------------------+
 
 Unix brain damage
+==================
 
-`Prev <Unix.html>`__ 
+`Prev <Unix.html>`__ 
 
 U
 
- `Next <Unix-conspiracy.html>`__
+ `Next <Unix-conspiracy.html>`__
 
 --------------
 
@@ -332,18 +327,19 @@ return followed by a line feed. Such things can make even a hardened
 --------------
 
 +-------------------------+----------------------------+------------------------------------+
-| `Prev <Unix.html>`__    | `Up <../U.html>`__         |  `Next <Unix-conspiracy.html>`__   |
+| `Prev <Unix.html>`__    | `Up <../U.html>`__         |  `Next <Unix-conspiracy.html>`__   |
 +-------------------------+----------------------------+------------------------------------+
-| Unix                    | `Home <../index.html>`__   |  Unix conspiracy                   |
+| Unix                    | `Home <../index.html>`__   |  Unix conspiracy                   |
 +-------------------------+----------------------------+------------------------------------+
 
 Unix conspiracy
+=================
 
-`Prev <Unix-brain-damage.html>`__ 
+`Prev <Unix-brain-damage.html>`__ 
 
 U
 
- `Next <Unix-weenie.html>`__
+ `Next <Unix-weenie.html>`__
 
 --------------
 
@@ -377,18 +373,19 @@ distributions were beginning to make noise.
 --------------
 
 +--------------------------------------+----------------------------+--------------------------------+
-| `Prev <Unix-brain-damage.html>`__    | `Up <../U.html>`__         |  `Next <Unix-weenie.html>`__   |
+| `Prev <Unix-brain-damage.html>`__    | `Up <../U.html>`__         |  `Next <Unix-weenie.html>`__   |
 +--------------------------------------+----------------------------+--------------------------------+
-| Unix brain damage                    | `Home <../index.html>`__   |  Unix weenie                   |
+| Unix brain damage                    | `Home <../index.html>`__   |  Unix weenie                   |
 +--------------------------------------+----------------------------+--------------------------------+
 
 Unix
+=============
 
-`Prev <uninteresting.html>`__ 
+`Prev <uninteresting.html>`__ 
 
 U
 
- `Next <Unix-brain-damage.html>`__
+ `Next <Unix-brain-damage.html>`__
 
 --------------
 
@@ -433,19 +430,21 @@ File uses ‘Unix’ in deference to dmr's wishes.
 --------------
 
 +----------------------------------+----------------------------+--------------------------------------+
-| `Prev <uninteresting.html>`__    | `Up <../U.html>`__         |  `Next <Unix-brain-damage.html>`__   |
+| `Prev <uninteresting.html>`__    | `Up <../U.html>`__         |  `Next <Unix-brain-damage.html>`__   |
 +----------------------------------+----------------------------+--------------------------------------+
-| uninteresting                    | `Home <../index.html>`__   |  Unix brain damage                   |
+| uninteresting                    | `Home <../index.html>`__   |  Unix brain damage                   |
 +----------------------------------+----------------------------+--------------------------------------+
 
 .. |image0| image:: ../graphics/richiethompson.jpg
-unixism
 
-`Prev <Unix-weenie.html>`__ 
+unixism
+=========
+
+`Prev <Unix-weenie.html>`__ 
 
 U
 
- `Next <unswizzle.html>`__
+ `Next <unswizzle.html>`__
 
 --------------
 
@@ -468,18 +467,19 @@ Jersey* <../N/New-Jersey.html>`__.
 --------------
 
 +--------------------------------+----------------------------+------------------------------+
-| `Prev <Unix-weenie.html>`__    | `Up <../U.html>`__         |  `Next <unswizzle.html>`__   |
+| `Prev <Unix-weenie.html>`__    | `Up <../U.html>`__         |  `Next <unswizzle.html>`__   |
 +--------------------------------+----------------------------+------------------------------+
-| Unix weenie                    | `Home <../index.html>`__   |  unswizzle                   |
+| Unix weenie                    | `Home <../index.html>`__   |  unswizzle                   |
 +--------------------------------+----------------------------+------------------------------+
 
 Unix weenie
+=============
 
-`Prev <Unix-conspiracy.html>`__ 
+`Prev <Unix-conspiracy.html>`__ 
 
 U
 
- `Next <unixism.html>`__
+ `Next <unixism.html>`__
 
 --------------
 
@@ -505,18 +505,19 @@ conspiracy* <Unix-conspiracy.html>`__. See also
 --------------
 
 +------------------------------------+----------------------------+----------------------------+
-| `Prev <Unix-conspiracy.html>`__    | `Up <../U.html>`__         |  `Next <unixism.html>`__   |
+| `Prev <Unix-conspiracy.html>`__    | `Up <../U.html>`__         |  `Next <unixism.html>`__   |
 +------------------------------------+----------------------------+----------------------------+
-| Unix conspiracy                    | `Home <../index.html>`__   |  unixism                   |
+| Unix conspiracy                    | `Home <../index.html>`__   |  unixism                   |
 +------------------------------------+----------------------------+----------------------------+
 
 unswizzle
+============
 
-`Prev <unixism.html>`__ 
+`Prev <unixism.html>`__ 
 
 U
 
- `Next <unwind-the-stack.html>`__
+ `Next <unwind-the-stack.html>`__
 
 --------------
 
@@ -527,18 +528,19 @@ See `*swizzle* <../S/swizzle.html>`__.
 --------------
 
 +----------------------------+----------------------------+-------------------------------------+
-| `Prev <unixism.html>`__    | `Up <../U.html>`__         |  `Next <unwind-the-stack.html>`__   |
+| `Prev <unixism.html>`__    | `Up <../U.html>`__         |  `Next <unwind-the-stack.html>`__   |
 +----------------------------+----------------------------+-------------------------------------+
-| unixism                    | `Home <../index.html>`__   |  unwind the stack                   |
+| unixism                    | `Home <../index.html>`__   |  unwind the stack                   |
 +----------------------------+----------------------------+-------------------------------------+
 
 unwind-protect
+===============
 
-`Prev <unwind-the-stack.html>`__ 
+`Prev <unwind-the-stack.html>`__ 
 
 U
 
- `Next <up.html>`__
+ `Next <up.html>`__
 
 --------------
 
@@ -551,18 +553,19 @@ unwind-protect to call my advisor.”
 --------------
 
 +-------------------------------------+----------------------------+-----------------------+
-| `Prev <unwind-the-stack.html>`__    | `Up <../U.html>`__         |  `Next <up.html>`__   |
+| `Prev <unwind-the-stack.html>`__    | `Up <../U.html>`__         |  `Next <up.html>`__   |
 +-------------------------------------+----------------------------+-----------------------+
-| unwind the stack                    | `Home <../index.html>`__   |  up                   |
+| unwind the stack                    | `Home <../index.html>`__   |  up                   |
 +-------------------------------------+----------------------------+-----------------------+
 
 unwind the stack
+===================
 
-`Prev <unswizzle.html>`__ 
+`Prev <unswizzle.html>`__ 
 
 U
 
- `Next <unwind-protect.html>`__
+ `Next <unwind-protect.html>`__
 
 --------------
 
@@ -582,18 +585,19 @@ stack.”
 --------------
 
 +------------------------------+----------------------------+-----------------------------------+
-| `Prev <unswizzle.html>`__    | `Up <../U.html>`__         |  `Next <unwind-protect.html>`__   |
+| `Prev <unswizzle.html>`__    | `Up <../U.html>`__         |  `Next <unwind-protect.html>`__   |
 +------------------------------+----------------------------+-----------------------------------+
-| unswizzle                    | `Home <../index.html>`__   |  unwind-protect                   |
+| unswizzle                    | `Home <../index.html>`__   |  unwind-protect                   |
 +------------------------------+----------------------------+-----------------------------------+
 
 up
+==========
 
-`Prev <unwind-protect.html>`__ 
+`Prev <unwind-protect.html>`__ 
 
 U
 
- `Next <upload.html>`__
+ `Next <upload.html>`__
 
 --------------
 
@@ -610,18 +614,19 @@ up a down system.”
 --------------
 
 +-----------------------------------+----------------------------+---------------------------+
-| `Prev <unwind-protect.html>`__    | `Up <../U.html>`__         |  `Next <upload.html>`__   |
+| `Prev <unwind-protect.html>`__    | `Up <../U.html>`__         |  `Next <upload.html>`__   |
 +-----------------------------------+----------------------------+---------------------------+
-| unwind-protect                    | `Home <../index.html>`__   |  upload                   |
+| unwind-protect                    | `Home <../index.html>`__   |  upload                   |
 +-----------------------------------+----------------------------+---------------------------+
 
 upload
+===========
 
-`Prev <up.html>`__ 
+`Prev <up.html>`__ 
 
 U
 
- `Next <upstream.html>`__
+ `Next <upstream.html>`__
 
 --------------
 
@@ -641,18 +646,19 @@ of the self view this prospect with pleasant anticipation.
 --------------
 
 +-----------------------+----------------------------+-----------------------------+
-| `Prev <up.html>`__    | `Up <../U.html>`__         |  `Next <upstream.html>`__   |
+| `Prev <up.html>`__    | `Up <../U.html>`__         |  `Next <upstream.html>`__   |
 +-----------------------+----------------------------+-----------------------------+
-| up                    | `Home <../index.html>`__   |  upstream                   |
+| up                    | `Home <../index.html>`__   |  upstream                   |
 +-----------------------+----------------------------+-----------------------------+
 
 upstream
+==============
 
-`Prev <upload.html>`__ 
+`Prev <upload.html>`__ 
 
 U
 
- `Next <upthread.html>`__
+ `Next <upthread.html>`__
 
 --------------
 
@@ -671,18 +677,19 @@ downstream is rare.
 --------------
 
 +---------------------------+----------------------------+-----------------------------+
-| `Prev <upload.html>`__    | `Up <../U.html>`__         |  `Next <upthread.html>`__   |
+| `Prev <upload.html>`__    | `Up <../U.html>`__         |  `Next <upthread.html>`__   |
 +---------------------------+----------------------------+-----------------------------+
-| upload                    | `Home <../index.html>`__   |  upthread                   |
+| upload                    | `Home <../index.html>`__   |  upthread                   |
 +---------------------------+----------------------------+-----------------------------+
 
 upthread
+===========
 
-`Prev <upstream.html>`__ 
+`Prev <upstream.html>`__ 
 
 U
 
- `Next <uptime.html>`__
+ `Next <uptime.html>`__
 
 --------------
 
@@ -695,18 +702,19 @@ Earlier in the discussion (see `*thread* <../T/thread.html>`__), i.e.,
 --------------
 
 +-----------------------------+----------------------------+---------------------------+
-| `Prev <upstream.html>`__    | `Up <../U.html>`__         |  `Next <uptime.html>`__   |
+| `Prev <upstream.html>`__    | `Up <../U.html>`__         |  `Next <uptime.html>`__   |
 +-----------------------------+----------------------------+---------------------------+
-| upstream                    | `Home <../index.html>`__   |  uptime                   |
+| upstream                    | `Home <../index.html>`__   |  uptime                   |
 +-----------------------------+----------------------------+---------------------------+
 
 uptime
+===================
 
-`Prev <upthread.html>`__ 
+`Prev <upthread.html>`__ 
 
 U
 
- `Next <urchin.html>`__
+ `Next <urchin.html>`__
 
 --------------
 
@@ -722,18 +730,19 @@ testament to the stability of the OS and the stamina of the hacker.
 --------------
 
 +-----------------------------+----------------------------+---------------------------+
-| `Prev <upthread.html>`__    | `Up <../U.html>`__         |  `Next <urchin.html>`__   |
+| `Prev <upthread.html>`__    | `Up <../U.html>`__         |  `Next <urchin.html>`__   |
 +-----------------------------+----------------------------+---------------------------+
-| upthread                    | `Home <../index.html>`__   |  urchin                   |
+| upthread                    | `Home <../index.html>`__   |  urchin                   |
 +-----------------------------+----------------------------+---------------------------+
 
 urchin
+==============
 
-`Prev <uptime.html>`__ 
+`Prev <uptime.html>`__ 
 
 U
 
- `Next <URL.html>`__
+ `Next <URL.html>`__
 
 --------------
 
@@ -744,18 +753,19 @@ See `*munchkin* <../M/munchkin.html>`__.
 --------------
 
 +---------------------------+----------------------------+------------------------+
-| `Prev <uptime.html>`__    | `Up <../U.html>`__         |  `Next <URL.html>`__   |
+| `Prev <uptime.html>`__    | `Up <../U.html>`__         |  `Next <URL.html>`__   |
 +---------------------------+----------------------------+------------------------+
-| uptime                    | `Home <../index.html>`__   |  URL                   |
+| uptime                    | `Home <../index.html>`__   |  URL                   |
 +---------------------------+----------------------------+------------------------+
 
 URL
+==============
 
-`Prev <urchin.html>`__ 
+`Prev <urchin.html>`__ 
 
 U
 
- `Next <Usenet.html>`__
+ `Next <Usenet.html>`__
 
 --------------
 
@@ -769,18 +779,19 @@ record the fact that the term is commonly pronounced both /erl/, and
 --------------
 
 +---------------------------+----------------------------+---------------------------+
-| `Prev <urchin.html>`__    | `Up <../U.html>`__         |  `Next <Usenet.html>`__   |
+| `Prev <urchin.html>`__    | `Up <../U.html>`__         |  `Next <Usenet.html>`__   |
 +---------------------------+----------------------------+---------------------------+
-| urchin                    | `Home <../index.html>`__   |  Usenet                   |
+| urchin                    | `Home <../index.html>`__   |  Usenet                   |
 +---------------------------+----------------------------+---------------------------+
 
 Usenet Death Penalty
+=========================
 
-`Prev <Usenet.html>`__ 
+`Prev <Usenet.html>`__ 
 
 U
 
- `Next <user.html>`__
+ `Next <user.html>`__
 
 --------------
 
@@ -798,18 +809,19 @@ with which this term is sometimes confused.
 --------------
 
 +---------------------------+----------------------------+-------------------------+
-| `Prev <Usenet.html>`__    | `Up <../U.html>`__         |  `Next <user.html>`__   |
+| `Prev <Usenet.html>`__    | `Up <../U.html>`__         |  `Next <user.html>`__   |
 +---------------------------+----------------------------+-------------------------+
-| Usenet                    | `Home <../index.html>`__   |  user                   |
+| Usenet                    | `Home <../index.html>`__   |  user                   |
 +---------------------------+----------------------------+-------------------------+
 
 Usenet
+================
 
-`Prev <URL.html>`__ 
+`Prev <URL.html>`__ 
 
 U
 
- `Next <Usenet-Death-Penalty.html>`__
+ `Next <Usenet-Death-Penalty.html>`__
 
 --------------
 
@@ -838,18 +850,19 @@ experienced Usenetters.
 --------------
 
 +------------------------+----------------------------+-----------------------------------------+
-| `Prev <URL.html>`__    | `Up <../U.html>`__         |  `Next <Usenet-Death-Penalty.html>`__   |
+| `Prev <URL.html>`__    | `Up <../U.html>`__         |  `Next <Usenet-Death-Penalty.html>`__   |
 +------------------------+----------------------------+-----------------------------------------+
-| URL                    | `Home <../index.html>`__   |  Usenet Death Penalty                   |
+| URL                    | `Home <../index.html>`__   |  Usenet Death Penalty                   |
 +------------------------+----------------------------+-----------------------------------------+
 
 user-friendly
+===================
 
-`Prev <user.html>`__ 
+`Prev <user.html>`__ 
 
 U
 
- `Next <user-obsequious.html>`__
+ `Next <user-obsequious.html>`__
 
 --------------
 
@@ -866,18 +879,19 @@ paper* <../D/drool-proof-paper.html>`__,
 --------------
 
 +-------------------------+----------------------------+------------------------------------+
-| `Prev <user.html>`__    | `Up <../U.html>`__         |  `Next <user-obsequious.html>`__   |
+| `Prev <user.html>`__    | `Up <../U.html>`__         |  `Next <user-obsequious.html>`__   |
 +-------------------------+----------------------------+------------------------------------+
-| user                    | `Home <../index.html>`__   |  user-obsequious                   |
+| user                    | `Home <../index.html>`__   |  user-obsequious                   |
 +-------------------------+----------------------------+------------------------------------+
 
 user
+================
 
-`Prev <Usenet-Death-Penalty.html>`__ 
+`Prev <Usenet-Death-Penalty.html>`__ 
 
 U
 
- `Next <user-friendly.html>`__
+ `Next <user-friendly.html>`__
 
 --------------
 
@@ -914,18 +928,19 @@ subtle distinctions must be resolved by context.
 --------------
 
 +-----------------------------------------+----------------------------+----------------------------------+
-| `Prev <Usenet-Death-Penalty.html>`__    | `Up <../U.html>`__         |  `Next <user-friendly.html>`__   |
+| `Prev <Usenet-Death-Penalty.html>`__    | `Up <../U.html>`__         |  `Next <user-friendly.html>`__   |
 +-----------------------------------------+----------------------------+----------------------------------+
-| Usenet Death Penalty                    | `Home <../index.html>`__   |  user-friendly                   |
+| Usenet Death Penalty                    | `Home <../index.html>`__   |  user-friendly                   |
 +-----------------------------------------+----------------------------+----------------------------------+
 
 userland
+===============
 
-`Prev <user-obsequious.html>`__ 
+`Prev <user-obsequious.html>`__ 
 
 U
 
- `Next <Utah-teapot.html>`__
+ `Next <Utah-teapot.html>`__
 
 --------------
 
@@ -939,18 +954,19 @@ was reported from the usenet group net.unix-wizards.
 --------------
 
 +------------------------------------+----------------------------+--------------------------------+
-| `Prev <user-obsequious.html>`__    | `Up <../U.html>`__         |  `Next <Utah-teapot.html>`__   |
+| `Prev <user-obsequious.html>`__    | `Up <../U.html>`__         |  `Next <Utah-teapot.html>`__   |
 +------------------------------------+----------------------------+--------------------------------+
-| user-obsequious                    | `Home <../index.html>`__   |  Utah teapot, the              |
+| user-obsequious                    | `Home <../index.html>`__   |  Utah teapot, the              |
 +------------------------------------+----------------------------+--------------------------------+
 
 user-obsequious
+================
 
-`Prev <user-friendly.html>`__ 
+`Prev <user-friendly.html>`__ 
 
 U
 
- `Next <userland.html>`__
+ `Next <userland.html>`__
 
 --------------
 
@@ -966,18 +982,19 @@ environment* <../W/WIMP-environment.html>`__,
 --------------
 
 +----------------------------------+----------------------------+-----------------------------+
-| `Prev <user-friendly.html>`__    | `Up <../U.html>`__         |  `Next <userland.html>`__   |
+| `Prev <user-friendly.html>`__    | `Up <../U.html>`__         |  `Next <userland.html>`__   |
 +----------------------------------+----------------------------+-----------------------------+
-| user-friendly                    | `Home <../index.html>`__   |  userland                   |
+| user-friendly                    | `Home <../index.html>`__   |  userland                   |
 +----------------------------------+----------------------------+-----------------------------+
 
 Utah teapot, the
+=================
 
-`Prev <userland.html>`__ 
+`Prev <userland.html>`__ 
 
 U
 
- `Next <UTSL.html>`__
+ `Next <UTSL.html>`__
 
 --------------
 
@@ -999,18 +1016,19 @@ Bunny* <../S/Stanford-Bunny.html>`__
 --------------
 
 +-----------------------------+----------------------------+-------------------------+
-| `Prev <userland.html>`__    | `Up <../U.html>`__         |  `Next <UTSL.html>`__   |
+| `Prev <userland.html>`__    | `Up <../U.html>`__         |  `Next <UTSL.html>`__   |
 +-----------------------------+----------------------------+-------------------------+
-| userland                    | `Home <../index.html>`__   |  UTSL                   |
+| userland                    | `Home <../index.html>`__   |  UTSL                   |
 +-----------------------------+----------------------------+-------------------------+
 
 UTSL
+=================
 
-`Prev <Utah-teapot.html>`__ 
+`Prev <Utah-teapot.html>`__ 
 
 U
 
- `Next <UUOC.html>`__
+ `Next <UUOC.html>`__
 
 --------------
 
@@ -1041,18 +1059,19 @@ accelerating this trend.
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <Utah-teapot.html>`__    | `Up <../U.html>`__         |  `Next <UUOC.html>`__   |
+| `Prev <Utah-teapot.html>`__    | `Up <../U.html>`__         |  `Next <UUOC.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| Utah teapot, the               | `Home <../index.html>`__   |  UUOC                   |
+| Utah teapot, the               | `Home <../index.html>`__   |  UUOC                   |
 +--------------------------------+----------------------------+-------------------------+
 
 UUOC
+=============
 
-`Prev <UTSL.html>`__ 
+`Prev <UTSL.html>`__ 
 
 U
 
- `Next <../V.html>`__
+ `Next <../V.html>`__
 
 --------------
 
@@ -1066,17 +1085,17 @@ only one file, concatenating it with nothing at all is a waste of time,
 and costs you a process.” Nevertheless one sees people doing
 
 | 
-|  cat file \| some\_command and its args ...
+|  cat file \| some\_command and its args ...
 
 instead of the equivalent and cheaper
 
 | 
-|  <file some\_command and its args ...
+|  <file some\_command and its args ...
 
 or (equivalently and more classically)
 
 | 
-|  some\_command and its args ... <file
+|  some\_command and its args ... <file
 
 Since 1995, occasional awards for UUOC have been given out, usually by
 Perl luminary Randal L. Schwartz. There is a `web
@@ -1086,8 +1105,8 @@ to this and other similar awards.
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <UTSL.html>`__    | `Up <../U.html>`__         |  `Next <../V.html>`__   |
+| `Prev <UTSL.html>`__    | `Up <../U.html>`__         |  `Next <../V.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| UTSL                    | `Home <../index.html>`__   |  V                      |
+| UTSL                    | `Home <../index.html>`__   |  V                      |
 +-------------------------+----------------------------+-------------------------+
 

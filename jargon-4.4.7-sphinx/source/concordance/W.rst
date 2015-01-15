@@ -9,41 +9,7 @@ W
 **-ware**: suff.
 
 [from ‘software’] Commonly used to form jargon terms for classes of
-software. For examples, see 
-
-`annoyware <../A/annoyware.html>`__,
-
-`careware <../C/careware.html>`__,
-
-`crippleware <../C/crippleware.html>`__,
-
-`crudware <../C/crudware.html>`__,
-
-`freeware <../F/freeware.html>`__,
-
-`fritterware <../F/fritterware.html>`__,
-
-`guiltware <../G/guiltware.html>`__,
-
-`liveware <../L/liveware.html>`__,
-
-`meatware <../M/meatware.html>`__, 
-
-`payware <../P/payware.html>`__,
-
-`psychedelicware <../P/psychedelicware.html>`__,
-
-`shareware <../S/shareware.html>`__,
-
-`shelfware <../S/shelfware.html>`__,
-
-`vaporware <../V/vaporware.html>`__, 
-
-`wetware <wetware.html>`__,
-
-`spyware <../S/spyware.html>`__,
-
-`adware <../A/adware.html>`__.
+software. For examples, see `annoyware <../A/annoyware.html>`__, `careware <../C/careware.html>`__, `crippleware <../C/crippleware.html>`__, `crudware <../C/crudware.html>`__, `freeware <../F/freeware.html>`__, `fritterware <../F/fritterware.html>`__, `guiltware <../G/guiltware.html>`__, `liveware <../L/liveware.html>`__, `meatware <../M/meatware.html>`__, `payware <../P/payware.html>`__, `psychedelicware <../P/psychedelicware.html>`__, `shareware <../S/shareware.html>`__, `shelfware <../S/shelfware.html>`__, `vaporware <../V/vaporware.html>`__, `wetware <wetware.html>`__, `spyware <../S/spyware.html>`__, `adware <../A/adware.html>`__.
 
 
 
