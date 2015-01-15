@@ -1,12 +1,12 @@
-sacred
-
-`Prev <S-N-ratio.html>`__ 
-
+=========
 S
+=========
 
- `Next <saga.html>`__
 
---------------
+
+sacred
+==============
+
 
 **sacred**: adj.
 
@@ -18,23 +18,9 @@ program would be interpreted by a hacker to mean that if any *other*
 part of the program changes the contents of register 7, dire
 consequences are likely to ensue.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <S-N-ratio.html>`__    | `Up <../S.html>`__         |  `Next <saga.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| S/N ratio                    | `Home <../index.html>`__   |  saga                   |
-+------------------------------+----------------------------+-------------------------+
-
 saga
+========
 
-`Prev <sacred.html>`__ 
-
-S
-
- `Next <sagan.html>`__
-
---------------
 
 **saga**: n.
 
@@ -200,23 +186,9 @@ ginger was used to cover not rot but the extreme salt taste of meat
 packed in brine, which was the best method available before
 refrigeration. —ESR]
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <sacred.html>`__    | `Up <../S.html>`__         |  `Next <sagan.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| sacred                    | `Home <../index.html>`__   |  sagan                   |
-+---------------------------+----------------------------+--------------------------+
-
 sagan
+================
 
-`Prev <saga.html>`__ 
-
-S
-
- `Next <SAIL.html>`__
-
---------------
 
 **sagan**: /say´gn/, n.
 
@@ -225,23 +197,10 @@ large quantity of anything. “There's a sagan different ways to tweak
 EMACS.” “The U.S. Government spends sagans on bombs and welfare — hard
 to say which is more destructive.”
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <saga.html>`__    | `Up <../S.html>`__         |  `Next <SAIL.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| saga                    | `Home <../index.html>`__   |  SAIL                   |
-+-------------------------+----------------------------+-------------------------+
 
 SAIL
+=================
 
-`Prev <sagan.html>`__ 
-
-S
-
- `Next <salescritter.html>`__
-
---------------
 
 **SAIL**: /sayl/, /S·A·I·L/, n.
 
@@ -257,23 +216,9 @@ cluster was officially decommissioned.
 It was an Algol-60 derivative with a coroutining facility and some new
 data types intended for building search trees and association lists.
 
---------------
-
-+--------------------------+----------------------------+---------------------------------+
-| `Prev <sagan.html>`__    | `Up <../S.html>`__         |  `Next <salescritter.html>`__   |
-+--------------------------+----------------------------+---------------------------------+
-| sagan                    | `Home <../index.html>`__   |  salescritter                   |
-+--------------------------+----------------------------+---------------------------------+
-
 salescritter
+==================
 
-`Prev <SAIL.html>`__ 
-
-S
-
- `Next <salt.html>`__
-
---------------
 
 **salescritter**: /sayls´kri\`tr/, n.
 
@@ -281,10 +226,10 @@ Pejorative hackerism for a computer salesperson. Hackers tell the
 following joke:
 
 | 
-|  Q. What's the difference between a used-car dealer and a
-|     computer salesman?
-|  A. The used-car dealer knows he's lying.  [Some versions add:
-|     ...and probably knows how to drive.]
+|  Q. What's the difference between a used-car dealer and a
+|     computer salesman?
+|  A. The used-car dealer knows he's lying.  [Some versions add:
+|     ...and probably knows how to drive.]
 
 This reflects the widespread hacker belief that salescritters are
 self-selected for stupidity (after all, if they had brains and the
@@ -293,23 +238,11 @@ and salesdroid are also common. Compare
 `*marketroid* <../M/marketroid.html>`__, `*suit* <suit.html>`__,
 `*droid* <../D/droid.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <SAIL.html>`__    | `Up <../S.html>`__         |  `Next <salt.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| SAIL                    | `Home <../index.html>`__   |  salt                   |
-+-------------------------+----------------------------+-------------------------+
 
 salt
+====================
 
-`Prev <salescritter.html>`__ 
 
-S
-
- `Next <salt-mines.html>`__
-
---------------
 
 **salt**: n.
 
@@ -318,23 +251,10 @@ be undesirable; a data `*frob* <../F/frob.html>`__ (sense 1). For
 example, the Unix crypt(3) man page mentions that “the salt string is
 used to perturb the DES algorithm in one of 4096 different ways.”
 
---------------
 
-+---------------------------------+----------------------------+-------------------------------+
-| `Prev <salescritter.html>`__    | `Up <../S.html>`__         |  `Next <salt-mines.html>`__   |
-+---------------------------------+----------------------------+-------------------------------+
-| salescritter                    | `Home <../index.html>`__   |  salt mines                   |
-+---------------------------------+----------------------------+-------------------------------+
 
 salt mines
-
-`Prev <salt.html>`__ 
-
-S
-
- `Next <salt-substrate.html>`__
-
---------------
+===========================
 
 **salt mines**: n.
 
@@ -343,23 +263,11 @@ on grungy projects, with some hope of seeing the end of the tunnel in
 ``N`` years. Noted for their absence of sunshine. Compare
 `*playpen* <../P/playpen.html>`__, `*sandbox* <sandbox.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <salt.html>`__    | `Up <../S.html>`__         |  `Next <salt-substrate.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| salt                    | `Home <../index.html>`__   |  salt substrate                   |
-+-------------------------+----------------------------+-----------------------------------+
 
 salt substrate
+==========================
 
-`Prev <salt-mines.html>`__ 
 
-S
-
- `Next <same-day-service.html>`__
-
---------------
 
 **salt substrate**: n.
 
@@ -369,23 +277,11 @@ sodium chloride. Also sodium substrate. From the technical term chip
 substrate, used to refer to the silicon on the top of which the active
 parts of integrated circuits are deposited.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------------+
-| `Prev <salt-mines.html>`__    | `Up <../S.html>`__         |  `Next <same-day-service.html>`__   |
-+-------------------------------+----------------------------+-------------------------------------+
-| salt mines                    | `Home <../index.html>`__   |  same-day service                   |
-+-------------------------------+----------------------------+-------------------------------------+
 
 same-day service
+=================================
 
-`Prev <salt-substrate.html>`__ 
 
-S
-
- `Next <samizdat.html>`__
-
---------------
 
 **same-day service**: n.
 
@@ -395,23 +291,11 @@ respect to `*MS-DOS* <../M/MS-DOS.html>`__ and Windows system calls
 Such response time is a major incentive for programmers to write
 programs that are not `*well-behaved* <../W/well-behaved.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+-----------------------------+
-| `Prev <salt-substrate.html>`__    | `Up <../S.html>`__         |  `Next <samizdat.html>`__   |
-+-----------------------------------+----------------------------+-----------------------------+
-| salt substrate                    | `Home <../index.html>`__   |  samizdat                   |
-+-----------------------------------+----------------------------+-----------------------------+
 
 samizdat
+==========================
 
-`Prev <same-day-service.html>`__ 
 
-S
-
- `Next <samurai.html>`__
-
---------------
 
 **samizdat**: /sahm·iz·daht/, n.
 
@@ -430,23 +314,10 @@ which are available through normal channels, for which unauthorized
 duplication would be unethical copyright violation. See `*Lions
 Book* <../L/Lions-Book.html>`__ for a historical example.
 
---------------
-
-+-------------------------------------+----------------------------+----------------------------+
-| `Prev <same-day-service.html>`__    | `Up <../S.html>`__         |  `Next <samurai.html>`__   |
-+-------------------------------------+----------------------------+----------------------------+
-| same-day service                    | `Home <../index.html>`__   |  samurai                   |
-+-------------------------------------+----------------------------+----------------------------+
 
 samurai
+===================
 
-`Prev <samizdat.html>`__ 
-
-S
-
- `Next <sandbender.html>`__
-
---------------
 
 **samurai**: n.
 
@@ -469,23 +340,10 @@ engineering* <social-engineering.html>`__,
 ethic* <../H/hacker-ethic.html>`__, and `*dark-side
 hacker* <../D/dark-side-hacker.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------+
-| `Prev <samizdat.html>`__    | `Up <../S.html>`__         |  `Next <sandbender.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
-| samizdat                    | `Home <../index.html>`__   |  sandbender                   |
-+-----------------------------+----------------------------+-------------------------------+
 
 sandbender
+============================
 
-`Prev <samurai.html>`__ 
-
-S
-
- `Next <sandbox.html>`__
-
---------------
 
 **sandbender**: n.
 
@@ -493,23 +351,11 @@ S
 of chips. Compare `*ironmonger* <../I/ironmonger.html>`__, `*polygon
 pusher* <../P/polygon-pusher.html>`__.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <samurai.html>`__    | `Up <../S.html>`__         |  `Next <sandbox.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| samurai                    | `Home <../index.html>`__   |  sandbox                   |
-+----------------------------+----------------------------+----------------------------+
 
 sandbox
+=====================
 
-`Prev <sandbender.html>`__ 
 
-S
-
- `Next <sanity-check.html>`__
-
---------------
 
 **sandbox**: n.
 
@@ -528,23 +374,10 @@ are run. Used esp. in reference to Java implementations.
 4. A checked-out copy of a source tree, on which one may safely perform
 builds without interfereing with others.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------------+
-| `Prev <sandbender.html>`__    | `Up <../S.html>`__         |  `Next <sanity-check.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
-| sandbender                    | `Home <../index.html>`__   |  sanity check                   |
-+-------------------------------+----------------------------+---------------------------------+
 
 sanity check
+=========================
 
-`Prev <sandbox.html>`__ 
-
-S
-
- `Next <Saturday-night-special.html>`__
-
---------------
 
 **sanity check**: n.
 
@@ -566,23 +399,11 @@ hasn't screwed up internally (producing an inconsistent value or state).
 check of your assumptions. “Wait a minute, sanity check, are we talking
 about the same Kevin here?”
 
---------------
 
-+----------------------------+----------------------------+-------------------------------------------+
-| `Prev <sandbox.html>`__    | `Up <../S.html>`__         |  `Next <Saturday-night-special.html>`__   |
-+----------------------------+----------------------------+-------------------------------------------+
-| sandbox                    | `Home <../index.html>`__   |  Saturday-night special                   |
-+----------------------------+----------------------------+-------------------------------------------+
 
 Saturday-night special
+==========================================
 
-`Prev <sanity-check.html>`__ 
-
-S
-
- `Next <say.html>`__
-
---------------
 
 **Saturday-night special**: n.
 
@@ -593,23 +414,11 @@ pressure from a `*salescritter* <salescritter.html>`__. Such hacks are
 dangerously unreliable, but all too often sneak into a production
 release after insufficient review.
 
---------------
 
-+---------------------------------+----------------------------+------------------------+
-| `Prev <sanity-check.html>`__    | `Up <../S.html>`__         |  `Next <say.html>`__   |
-+---------------------------------+----------------------------+------------------------+
-| sanity check                    | `Home <../index.html>`__   |  say                   |
-+---------------------------------+----------------------------+------------------------+
 
 say
+================================
 
-`Prev <Saturday-night-special.html>`__ 
-
-S
-
- `Next <scag.html>`__
-
---------------
 
 **say**: vt.
 
@@ -622,23 +431,11 @@ doesn't have a speech synthesizer, by displaying them on a terminal in
 response to your commands. Hackers find it odd that this usage confuses
 `*mundane* <../M/mundane.html>`__\ s.
 
---------------
 
-+-------------------------------------------+----------------------------+-------------------------+
-| `Prev <Saturday-night-special.html>`__    | `Up <../S.html>`__         |  `Next <scag.html>`__   |
-+-------------------------------------------+----------------------------+-------------------------+
-| Saturday-night special                    | `Home <../index.html>`__   |  scag                   |
-+-------------------------------------------+----------------------------+-------------------------+
 
 scag
+======================
 
-`Prev <say.html>`__ 
-
-S
-
- `Next <scanno.html>`__
-
---------------
 
 **scag**: vt.
 
@@ -646,46 +443,22 @@ To destroy the data on a disk, either by corrupting the filesystem or by
 causing media damage. “That last power hit scagged the system disk.”
 Compare `*scrog* <scrog.html>`__, `*roach* <../R/roach.html>`__.
 
---------------
-
-+------------------------+----------------------------+---------------------------+
-| `Prev <say.html>`__    | `Up <../S.html>`__         |  `Next <scanno.html>`__   |
-+------------------------+----------------------------+---------------------------+
-| say                    | `Home <../index.html>`__   |  scanno                   |
-+------------------------+----------------------------+---------------------------+
 
 scanno
+========================
 
-`Prev <scag.html>`__ 
 
-S
-
- `Next <scary-devil-monastery.html>`__
-
---------------
 
 **scanno**: /skan´oh/, n.
 
 An error in a document caused by a scanner glitch, analogous to a typo
 or `*thinko* <../T/thinko.html>`__.
 
---------------
 
-+-------------------------+----------------------------+------------------------------------------+
-| `Prev <scag.html>`__    | `Up <../S.html>`__         |  `Next <scary-devil-monastery.html>`__   |
-+-------------------------+----------------------------+------------------------------------------+
-| scag                    | `Home <../index.html>`__   |  scary devil monastery                   |
-+-------------------------+----------------------------+------------------------------------------+
 
 scary devil monastery
+============================================
 
-`Prev <scanno.html>`__ 
-
-S
-
- `Next <schroedinbug.html>`__
-
---------------
 
 **scary devil monastery**: n.
 
@@ -693,23 +466,11 @@ Anagram frequently used to refer to the newsgroup
 ``alt.sysadmin.recovery``, which is populated with characters that
 rather justify the reference.
 
---------------
 
-+---------------------------+----------------------------+---------------------------------+
-| `Prev <scanno.html>`__    | `Up <../S.html>`__         |  `Next <schroedinbug.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
-| scanno                    | `Home <../index.html>`__   |  schroedinbug                   |
-+---------------------------+----------------------------+---------------------------------+
 
 schroedinbug
+==========================================
 
-`Prev <scary-devil-monastery.html>`__ 
-
-S
-
- `Next <science-fiction-fandom.html>`__
-
---------------
 
 **schroedinbug**: /shroh´din·buhg/, n.
 
@@ -723,23 +484,10 @@ programs have harbored latent schroedinbugs for years. Compare
 `*heisenbug* <../H/heisenbug.html>`__, `*Bohr
 bug* <../B/Bohr-bug.html>`__, `*mandelbug* <../M/mandelbug.html>`__.
 
---------------
-
-+------------------------------------------+----------------------------+-------------------------------------------+
-| `Prev <scary-devil-monastery.html>`__    | `Up <../S.html>`__         |  `Next <science-fiction-fandom.html>`__   |
-+------------------------------------------+----------------------------+-------------------------------------------+
-| scary devil monastery                    | `Home <../index.html>`__   |  science-fiction fandom                   |
-+------------------------------------------+----------------------------+-------------------------------------------+
 
 science-fiction fandom
+================================
 
-`Prev <schroedinbug.html>`__ 
-
-S
-
- `Next <SCNR.html>`__
-
---------------
 
 **science-fiction fandom**: n.
 
@@ -763,46 +511,23 @@ flatline* <../G/go-flatline.html>`__, `*ice* <../I/ice.html>`__,
 `*wetware* <../W/wetware.html>`__, `*wirehead* <../W/wirehead.html>`__,
 and `*worm* <../W/worm.html>`__ originated in SF stories.
 
---------------
 
-+---------------------------------+----------------------------+-------------------------+
-| `Prev <schroedinbug.html>`__    | `Up <../S.html>`__         |  `Next <SCNR.html>`__   |
-+---------------------------------+----------------------------+-------------------------+
-| schroedinbug                    | `Home <../index.html>`__   |  SCNR                   |
-+---------------------------------+----------------------------+-------------------------+
 
 SCNR
+=============
 
-`Prev <science-fiction-fandom.html>`__ 
-
-S
-
- `Next <scram-switch.html>`__
-
---------------
 
 **SCNR**: abbrev
 
 [common] Sorry, Could Not Resist. Normally used to semi-apologize for an
 obvious wisecrack.
 
---------------
 
-+-------------------------------------------+----------------------------+---------------------------------+
-| `Prev <science-fiction-fandom.html>`__    | `Up <../S.html>`__         |  `Next <scram-switch.html>`__   |
-+-------------------------------------------+----------------------------+---------------------------------+
-| science-fiction fandom                    | `Home <../index.html>`__   |  scram switch                   |
-+-------------------------------------------+----------------------------+---------------------------------+
 
 scram switch
+======================
 
-`Prev <SCNR.html>`__ 
 
-S
-
- `Next <scratch.html>`__
-
---------------
 
 **scram switch**: n.
 
@@ -836,23 +561,9 @@ held closed by current. SCRAM switches are circuit breakers that
 immediately open the circuit to the rod arms, resulting in the rapid
 insertion and subsequent bottoming of the control rods.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <SCNR.html>`__    | `Up <../S.html>`__         |  `Next <scratch.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| SCNR                    | `Home <../index.html>`__   |  scratch                   |
-+-------------------------+----------------------------+----------------------------+
-
 scratch
+=====================
 
-`Prev <scram-switch.html>`__ 
-
-S
-
- `Next <scratch-monkey.html>`__
-
---------------
 
 **scratch**
 
@@ -868,18 +579,18 @@ monkey* <scratch-monkey.html>`__.
 --------------
 
 +---------------------------------+----------------------------+-----------------------------------+
-| `Prev <scram-switch.html>`__    | `Up <../S.html>`__         |  `Next <scratch-monkey.html>`__   |
+| `Prev <scram-switch.html>`__    | `Up <../S.html>`__         |  `Next <scratch-monkey.html>`__   |
 +---------------------------------+----------------------------+-----------------------------------+
-| scram switch                    | `Home <../index.html>`__   |  scratch monkey                   |
+| scram switch                    | `Home <../index.html>`__   |  scratch monkey                   |
 +---------------------------------+----------------------------+-----------------------------------+
 
 scratch monkey
 
-`Prev <scratch.html>`__ 
+`Prev <scratch.html>`__ 
 
 S
 
- `Next <scream-and-die.html>`__
+ `Next <scream-and-die.html>`__
 
 --------------
 
@@ -923,18 +634,18 @@ one has been corrected from an interview with the hapless sysop. —ESR]
 --------------
 
 +----------------------------+----------------------------+-----------------------------------+
-| `Prev <scratch.html>`__    | `Up <../S.html>`__         |  `Next <scream-and-die.html>`__   |
+| `Prev <scratch.html>`__    | `Up <../S.html>`__         |  `Next <scream-and-die.html>`__   |
 +----------------------------+----------------------------+-----------------------------------+
-| scratch                    | `Home <../index.html>`__   |  scream and die                   |
+| scratch                    | `Home <../index.html>`__   |  scream and die                   |
 +----------------------------+----------------------------+-----------------------------------+
 
 scream and die
 
-`Prev <scratch-monkey.html>`__ 
+`Prev <scratch-monkey.html>`__ 
 
 S
 
- `Next <screaming-tty.html>`__
+ `Next <screaming-tty.html>`__
 
 --------------
 
@@ -946,18 +657,18 @@ error message was printed or displayed before the program crashed.
 --------------
 
 +-----------------------------------+----------------------------+----------------------------------+
-| `Prev <scratch-monkey.html>`__    | `Up <../S.html>`__         |  `Next <screaming-tty.html>`__   |
+| `Prev <scratch-monkey.html>`__    | `Up <../S.html>`__         |  `Next <screaming-tty.html>`__   |
 +-----------------------------------+----------------------------+----------------------------------+
-| scratch monkey                    | `Home <../index.html>`__   |  screaming tty                   |
+| scratch monkey                    | `Home <../index.html>`__   |  screaming tty                   |
 +-----------------------------------+----------------------------+----------------------------------+
 
 screaming tty
 
-`Prev <scream-and-die.html>`__ 
+`Prev <scream-and-die.html>`__ 
 
 S
 
- `Next <screen.html>`__
+ `Next <screen.html>`__
 
 --------------
 
@@ -978,18 +689,18 @@ substantial.
 --------------
 
 +-----------------------------------+----------------------------+---------------------------+
-| `Prev <scream-and-die.html>`__    | `Up <../S.html>`__         |  `Next <screen.html>`__   |
+| `Prev <scream-and-die.html>`__    | `Up <../S.html>`__         |  `Next <screen.html>`__   |
 +-----------------------------------+----------------------------+---------------------------+
-| scream and die                    | `Home <../index.html>`__   |  screen                   |
+| scream and die                    | `Home <../index.html>`__   |  screen                   |
 +-----------------------------------+----------------------------+---------------------------+
 
 screen
 
-`Prev <screaming-tty.html>`__ 
+`Prev <screaming-tty.html>`__ 
 
 S
 
- `Next <screen-name.html>`__
+ `Next <screen-name.html>`__
 
 --------------
 
@@ -1003,18 +714,18 @@ one travels from one place to another one screenful at a time.
 --------------
 
 +----------------------------------+----------------------------+--------------------------------+
-| `Prev <screaming-tty.html>`__    | `Up <../S.html>`__         |  `Next <screen-name.html>`__   |
+| `Prev <screaming-tty.html>`__    | `Up <../S.html>`__         |  `Next <screen-name.html>`__   |
 +----------------------------------+----------------------------+--------------------------------+
-| screaming tty                    | `Home <../index.html>`__   |  screen name                   |
+| screaming tty                    | `Home <../index.html>`__   |  screen name                   |
 +----------------------------------+----------------------------+--------------------------------+
 
 screen name
 
-`Prev <screen.html>`__ 
+`Prev <screen.html>`__ 
 
 S
 
- `Next <screen-scraping.html>`__
+ `Next <screen-scraping.html>`__
 
 --------------
 
@@ -1029,18 +740,18 @@ don't generally use it.
 --------------
 
 +---------------------------+----------------------------+------------------------------------+
-| `Prev <screen.html>`__    | `Up <../S.html>`__         |  `Next <screen-scraping.html>`__   |
+| `Prev <screen.html>`__    | `Up <../S.html>`__         |  `Next <screen-scraping.html>`__   |
 +---------------------------+----------------------------+------------------------------------+
-| screen                    | `Home <../index.html>`__   |  screen scraping                   |
+| screen                    | `Home <../index.html>`__   |  screen scraping                   |
 +---------------------------+----------------------------+------------------------------------+
 
 screen scraping
 
-`Prev <screen-name.html>`__ 
+`Prev <screen-name.html>`__ 
 
 S
 
- `Next <screw.html>`__
+ `Next <screw.html>`__
 
 --------------
 
@@ -1059,18 +770,18 @@ to the format of the data being snooped.
 --------------
 
 +--------------------------------+----------------------------+--------------------------+
-| `Prev <screen-name.html>`__    | `Up <../S.html>`__         |  `Next <screw.html>`__   |
+| `Prev <screen-name.html>`__    | `Up <../S.html>`__         |  `Next <screw.html>`__   |
 +--------------------------------+----------------------------+--------------------------+
-| screen name                    | `Home <../index.html>`__   |  screw                   |
+| screen name                    | `Home <../index.html>`__   |  screw                   |
 +--------------------------------+----------------------------+--------------------------+
 
 screwage
 
-`Prev <screw.html>`__ 
+`Prev <screw.html>`__ 
 
 S
 
- `Next <scribble.html>`__
+ `Next <scribble.html>`__
 
 --------------
 
@@ -1083,18 +794,18 @@ mere bug.
 --------------
 
 +--------------------------+----------------------------+-----------------------------+
-| `Prev <screw.html>`__    | `Up <../S.html>`__         |  `Next <scribble.html>`__   |
+| `Prev <screw.html>`__    | `Up <../S.html>`__         |  `Next <scribble.html>`__   |
 +--------------------------+----------------------------+-----------------------------+
-| screw                    | `Home <../index.html>`__   |  scribble                   |
+| screw                    | `Home <../index.html>`__   |  scribble                   |
 +--------------------------+----------------------------+-----------------------------+
 
 screw
 
-`Prev <screen-scraping.html>`__ 
+`Prev <screen-scraping.html>`__ 
 
 S
 
- `Next <screwage.html>`__
+ `Next <screwage.html>`__
 
 --------------
 
@@ -1107,18 +818,18 @@ use has become quite widespread outside MIT.
 --------------
 
 +------------------------------------+----------------------------+-----------------------------+
-| `Prev <screen-scraping.html>`__    | `Up <../S.html>`__         |  `Next <screwage.html>`__   |
+| `Prev <screen-scraping.html>`__    | `Up <../S.html>`__         |  `Next <screwage.html>`__   |
 +------------------------------------+----------------------------+-----------------------------+
-| screen scraping                    | `Home <../index.html>`__   |  screwage                   |
+| screen scraping                    | `Home <../index.html>`__   |  screwage                   |
 +------------------------------------+----------------------------+-----------------------------+
 
 scribble
 
-`Prev <screwage.html>`__ 
+`Prev <screwage.html>`__ 
 
 S
 
- `Next <script-kiddies.html>`__
+ `Next <script-kiddies.html>`__
 
 --------------
 
@@ -1135,18 +846,18 @@ which is more violent and final.
 --------------
 
 +-----------------------------+----------------------------+-----------------------------------+
-| `Prev <screwage.html>`__    | `Up <../S.html>`__         |  `Next <script-kiddies.html>`__   |
+| `Prev <screwage.html>`__    | `Up <../S.html>`__         |  `Next <script-kiddies.html>`__   |
 +-----------------------------+----------------------------+-----------------------------------+
-| screwage                    | `Home <../index.html>`__   |  script kiddies                   |
+| screwage                    | `Home <../index.html>`__   |  script kiddies                   |
 +-----------------------------+----------------------------+-----------------------------------+
 
 script kiddies
 
-`Prev <scribble.html>`__ 
+`Prev <scribble.html>`__ 
 
 S
 
- `Next <scrog.html>`__
+ `Next <scrog.html>`__
 
 --------------
 
@@ -1172,18 +883,18 @@ do I need to type to make this happen?”
 --------------
 
 +-----------------------------+----------------------------+--------------------------+
-| `Prev <scribble.html>`__    | `Up <../S.html>`__         |  `Next <scrog.html>`__   |
+| `Prev <scribble.html>`__    | `Up <../S.html>`__         |  `Next <scrog.html>`__   |
 +-----------------------------+----------------------------+--------------------------+
-| scribble                    | `Home <../index.html>`__   |  scrog                   |
+| scribble                    | `Home <../index.html>`__   |  scrog                   |
 +-----------------------------+----------------------------+--------------------------+
 
 scrog
 
-`Prev <script-kiddies.html>`__ 
+`Prev <script-kiddies.html>`__ 
 
 S
 
- `Next <scrool.html>`__
+ `Next <scrool.html>`__
 
 --------------
 
@@ -1198,18 +909,18 @@ two are related. Equivalent to `*scribble* <scribble.html>`__ or
 --------------
 
 +-----------------------------------+----------------------------+---------------------------+
-| `Prev <script-kiddies.html>`__    | `Up <../S.html>`__         |  `Next <scrool.html>`__   |
+| `Prev <script-kiddies.html>`__    | `Up <../S.html>`__         |  `Next <scrool.html>`__   |
 +-----------------------------------+----------------------------+---------------------------+
-| script kiddies                    | `Home <../index.html>`__   |  scrool                   |
+| script kiddies                    | `Home <../index.html>`__   |  scrool                   |
 +-----------------------------------+----------------------------+---------------------------+
 
 scrool
 
-`Prev <scrog.html>`__ 
+`Prev <scrog.html>`__ 
 
 S
 
- `Next <scrozzle.html>`__
+ `Next <scrozzle.html>`__
 
 --------------
 
@@ -1225,18 +936,18 @@ all 8K of scrool on a user's terminal.
 --------------
 
 +--------------------------+----------------------------+-----------------------------+
-| `Prev <scrog.html>`__    | `Up <../S.html>`__         |  `Next <scrozzle.html>`__   |
+| `Prev <scrog.html>`__    | `Up <../S.html>`__         |  `Next <scrozzle.html>`__   |
 +--------------------------+----------------------------+-----------------------------+
-| scrog                    | `Home <../index.html>`__   |  scrozzle                   |
+| scrog                    | `Home <../index.html>`__   |  scrozzle                   |
 +--------------------------+----------------------------+-----------------------------+
 
 scrozzle
 
-`Prev <scrool.html>`__ 
+`Prev <scrool.html>`__ 
 
 S
 
- `Next <scruffies.html>`__
+ `Next <scruffies.html>`__
 
 --------------
 
@@ -1249,18 +960,18 @@ again!”
 --------------
 
 +---------------------------+----------------------------+------------------------------+
-| `Prev <scrool.html>`__    | `Up <../S.html>`__         |  `Next <scruffies.html>`__   |
+| `Prev <scrool.html>`__    | `Up <../S.html>`__         |  `Next <scruffies.html>`__   |
 +---------------------------+----------------------------+------------------------------+
-| scrool                    | `Home <../index.html>`__   |  scruffies                   |
+| scrool                    | `Home <../index.html>`__   |  scruffies                   |
 +---------------------------+----------------------------+------------------------------+
 
 scruffies
 
-`Prev <scrozzle.html>`__ 
+`Prev <scrozzle.html>`__ 
 
 S
 
- `Next <SCSI.html>`__
+ `Next <SCSI.html>`__
 
 --------------
 
@@ -1271,18 +982,18 @@ See `*neats vs. scruffies* <../N/neats-vs--scruffies.html>`__.
 --------------
 
 +-----------------------------+----------------------------+-------------------------+
-| `Prev <scrozzle.html>`__    | `Up <../S.html>`__         |  `Next <SCSI.html>`__   |
+| `Prev <scrozzle.html>`__    | `Up <../S.html>`__         |  `Next <SCSI.html>`__   |
 +-----------------------------+----------------------------+-------------------------+
-| scrozzle                    | `Home <../index.html>`__   |  SCSI                   |
+| scrozzle                    | `Home <../index.html>`__   |  SCSI                   |
 +-----------------------------+----------------------------+-------------------------+
 
 SCSI
 
-`Prev <scruffies.html>`__ 
+`Prev <scruffies.html>`__ 
 
 S
 
- `Next <SCSI-voodoo.html>`__
+ `Next <SCSI-voodoo.html>`__
 
 --------------
 
@@ -1299,18 +1010,18 @@ person who pronounces it /S-C-S-I/ is clueless.
 --------------
 
 +------------------------------+----------------------------+--------------------------------+
-| `Prev <scruffies.html>`__    | `Up <../S.html>`__         |  `Next <SCSI-voodoo.html>`__   |
+| `Prev <scruffies.html>`__    | `Up <../S.html>`__         |  `Next <SCSI-voodoo.html>`__   |
 +------------------------------+----------------------------+--------------------------------+
-| scruffies                    | `Home <../index.html>`__   |  SCSI voodoo                   |
+| scruffies                    | `Home <../index.html>`__   |  SCSI voodoo                   |
 +------------------------------+----------------------------+--------------------------------+
 
 SCSI voodoo
 
-`Prev <SCSI.html>`__ 
+`Prev <SCSI.html>`__ 
 
 S
 
- `Next <search-and-destroy-mode.html>`__
+ `Next <search-and-destroy-mode.html>`__
 
 --------------
 
@@ -1341,18 +1052,18 @@ garage door.
 --------------
 
 +-------------------------+----------------------------+--------------------------------------------+
-| `Prev <SCSI.html>`__    | `Up <../S.html>`__         |  `Next <search-and-destroy-mode.html>`__   |
+| `Prev <SCSI.html>`__    | `Up <../S.html>`__         |  `Next <search-and-destroy-mode.html>`__   |
 +-------------------------+----------------------------+--------------------------------------------+
-| SCSI                    | `Home <../index.html>`__   |  search-and-destroy mode                   |
+| SCSI                    | `Home <../index.html>`__   |  search-and-destroy mode                   |
 +-------------------------+----------------------------+--------------------------------------------+
 
 search-and-destroy mode
 
-`Prev <SCSI-voodoo.html>`__ 
+`Prev <SCSI-voodoo.html>`__ 
 
 S
 
- `Next <second-system-effect.html>`__
+ `Next <second-system-effect.html>`__
 
 --------------
 
@@ -1365,18 +1076,18 @@ so called because an incautiously chosen match pattern can cause
 --------------
 
 +--------------------------------+----------------------------+-----------------------------------------+
-| `Prev <SCSI-voodoo.html>`__    | `Up <../S.html>`__         |  `Next <second-system-effect.html>`__   |
+| `Prev <SCSI-voodoo.html>`__    | `Up <../S.html>`__         |  `Next <second-system-effect.html>`__   |
 +--------------------------------+----------------------------+-----------------------------------------+
-| SCSI voodoo                    | `Home <../index.html>`__   |  second-system effect                   |
+| SCSI voodoo                    | `Home <../index.html>`__   |  second-system effect                   |
 +--------------------------------+----------------------------+-----------------------------------------+
 
 secondary damage
 
-`Prev <second-system-effect.html>`__ 
+`Prev <second-system-effect.html>`__ 
 
 S
 
- `Next <security-through-obscurity.html>`__
+ `Next <security-through-obscurity.html>`__
 
 --------------
 
@@ -1398,18 +1109,18 @@ presented with an award by his fellows.
 --------------
 
 +-----------------------------------------+----------------------------+-----------------------------------------------+
-| `Prev <second-system-effect.html>`__    | `Up <../S.html>`__         |  `Next <security-through-obscurity.html>`__   |
+| `Prev <second-system-effect.html>`__    | `Up <../S.html>`__         |  `Next <security-through-obscurity.html>`__   |
 +-----------------------------------------+----------------------------+-----------------------------------------------+
-| second-system effect                    | `Home <../index.html>`__   |  security through obscurity                   |
+| second-system effect                    | `Home <../index.html>`__   |  security through obscurity                   |
 +-----------------------------------------+----------------------------+-----------------------------------------------+
 
 second-system effect
 
-`Prev <search-and-destroy-mode.html>`__ 
+`Prev <search-and-destroy-mode.html>`__ 
 
 S
 
- `Next <secondary-damage.html>`__
+ `Next <secondary-damage.html>`__
 
 --------------
 
@@ -1437,18 +1148,18 @@ amok on jargon-1....
 --------------
 
 +--------------------------------------------+----------------------------+-------------------------------------+
-| `Prev <search-and-destroy-mode.html>`__    | `Up <../S.html>`__         |  `Next <secondary-damage.html>`__   |
+| `Prev <search-and-destroy-mode.html>`__    | `Up <../S.html>`__         |  `Next <secondary-damage.html>`__   |
 +--------------------------------------------+----------------------------+-------------------------------------+
-| search-and-destroy mode                    | `Home <../index.html>`__   |  secondary damage                   |
+| search-and-destroy mode                    | `Home <../index.html>`__   |  secondary damage                   |
 +--------------------------------------------+----------------------------+-------------------------------------+
 
 security through obscurity
 
-`Prev <secondary-damage.html>`__ 
+`Prev <secondary-damage.html>`__ 
 
 S
 
- `Next <SED.html>`__
+ `Next <SED.html>`__
 
 --------------
 
@@ -1491,18 +1202,18 @@ prevent patching the system even if you later got it right.
 --------------
 
 +-------------------------------------+----------------------------+------------------------+
-| `Prev <secondary-damage.html>`__    | `Up <../S.html>`__         |  `Next <SED.html>`__   |
+| `Prev <secondary-damage.html>`__    | `Up <../S.html>`__         |  `Next <SED.html>`__   |
 +-------------------------------------+----------------------------+------------------------+
-| secondary damage                    | `Home <../index.html>`__   |  SED                   |
+| secondary damage                    | `Home <../index.html>`__   |  SED                   |
 +-------------------------------------+----------------------------+------------------------+
 
 SED
 
-`Prev <security-through-obscurity.html>`__ 
+`Prev <security-through-obscurity.html>`__ 
 
 S
 
- `Next <See-figure-1.html>`__
+ `Next <See-figure-1.html>`__
 
 --------------
 
@@ -1516,18 +1227,18 @@ stream editor. —ESR]
 --------------
 
 +-----------------------------------------------+----------------------------+---------------------------------+
-| `Prev <security-through-obscurity.html>`__    | `Up <../S.html>`__         |  `Next <See-figure-1.html>`__   |
+| `Prev <security-through-obscurity.html>`__    | `Up <../S.html>`__         |  `Next <See-figure-1.html>`__   |
 +-----------------------------------------------+----------------------------+---------------------------------+
-| security through obscurity                    | `Home <../index.html>`__   |  See figure 1                   |
+| security through obscurity                    | `Home <../index.html>`__   |  See figure 1                   |
 +-----------------------------------------------+----------------------------+---------------------------------+
 
 See figure 1
 
-`Prev <SED.html>`__ 
+`Prev <SED.html>`__ 
 
 S
 
- `Next <segfault.html>`__
+ `Next <segfault.html>`__
 
 --------------
 
@@ -1540,18 +1251,18 @@ depicts the digitus impudicus.
 --------------
 
 +------------------------+----------------------------+-----------------------------+
-| `Prev <SED.html>`__    | `Up <../S.html>`__         |  `Next <segfault.html>`__   |
+| `Prev <SED.html>`__    | `Up <../S.html>`__         |  `Next <segfault.html>`__   |
 +------------------------+----------------------------+-----------------------------+
-| SED                    | `Home <../index.html>`__   |  segfault                   |
+| SED                    | `Home <../index.html>`__   |  segfault                   |
 +------------------------+----------------------------+-----------------------------+
 
 segfault
 
-`Prev <See-figure-1.html>`__ 
+`Prev <See-figure-1.html>`__ 
 
 S
 
- `Next <seggie.html>`__
+ `Next <seggie.html>`__
 
 --------------
 
@@ -1563,18 +1274,18 @@ fault* <segmentation-fault.html>`__.
 --------------
 
 +---------------------------------+----------------------------+---------------------------+
-| `Prev <See-figure-1.html>`__    | `Up <../S.html>`__         |  `Next <seggie.html>`__   |
+| `Prev <See-figure-1.html>`__    | `Up <../S.html>`__         |  `Next <seggie.html>`__   |
 +---------------------------------+----------------------------+---------------------------+
-| See figure 1                    | `Home <../index.html>`__   |  seggie                   |
+| See figure 1                    | `Home <../index.html>`__   |  seggie                   |
 +---------------------------------+----------------------------+---------------------------+
 
 seggie
 
-`Prev <segfault.html>`__ 
+`Prev <segfault.html>`__ 
 
 S
 
- `Next <segment.html>`__
+ `Next <segment.html>`__
 
 --------------
 
@@ -1586,18 +1297,18 @@ reported from Britain.
 --------------
 
 +-----------------------------+----------------------------+----------------------------+
-| `Prev <segfault.html>`__    | `Up <../S.html>`__         |  `Next <segment.html>`__   |
+| `Prev <segfault.html>`__    | `Up <../S.html>`__         |  `Next <segment.html>`__   |
 +-----------------------------+----------------------------+----------------------------+
-| segfault                    | `Home <../index.html>`__   |  segment                   |
+| segfault                    | `Home <../index.html>`__   |  segment                   |
 +-----------------------------+----------------------------+----------------------------+
 
 segmentation fault
 
-`Prev <segment.html>`__ 
+`Prev <segment.html>`__ 
 
 S
 
- `Next <segv.html>`__
+ `Next <segv.html>`__
 
 --------------
 
@@ -1613,8 +1324,8 @@ usage of pointers in the source code, dereferencing a null pointer, or
 classic example is:
 
 | 
-|     int i;
-|     scanf ("%d", i);  /\* should have used &i \*/
+|     int i;
+|     scanf ("%d", i);  /\* should have used &i \*/
 
 2. To lose a train of thought or a line of reasoning. Also uttered as an
 exclamation at the point of befuddlement.
@@ -1622,18 +1333,18 @@ exclamation at the point of befuddlement.
 --------------
 
 +----------------------------+----------------------------+-------------------------+
-| `Prev <segment.html>`__    | `Up <../S.html>`__         |  `Next <segv.html>`__   |
+| `Prev <segment.html>`__    | `Up <../S.html>`__         |  `Next <segv.html>`__   |
 +----------------------------+----------------------------+-------------------------+
-| segment                    | `Home <../index.html>`__   |  segv                   |
+| segment                    | `Home <../index.html>`__   |  segv                   |
 +----------------------------+----------------------------+-------------------------+
 
 segment
 
-`Prev <seggie.html>`__ 
+`Prev <seggie.html>`__ 
 
 S
 
- `Next <segmentation-fault.html>`__
+ `Next <segmentation-fault.html>`__
 
 --------------
 
@@ -1647,18 +1358,18 @@ shorthand that has been verbed.
 --------------
 
 +---------------------------+----------------------------+---------------------------------------+
-| `Prev <seggie.html>`__    | `Up <../S.html>`__         |  `Next <segmentation-fault.html>`__   |
+| `Prev <seggie.html>`__    | `Up <../S.html>`__         |  `Next <segmentation-fault.html>`__   |
 +---------------------------+----------------------------+---------------------------------------+
-| seggie                    | `Home <../index.html>`__   |  segmentation fault                   |
+| seggie                    | `Home <../index.html>`__   |  segmentation fault                   |
 +---------------------------+----------------------------+---------------------------------------+
 
 segv
 
-`Prev <segmentation-fault.html>`__ 
+`Prev <segmentation-fault.html>`__ 
 
 S
 
- `Next <self-reference.html>`__
+ `Next <self-reference.html>`__
 
 --------------
 
@@ -1671,18 +1382,18 @@ fault* <segmentation-fault.html>`__ (actually, in this case,
 --------------
 
 +---------------------------------------+----------------------------+-----------------------------------+
-| `Prev <segmentation-fault.html>`__    | `Up <../S.html>`__         |  `Next <self-reference.html>`__   |
+| `Prev <segmentation-fault.html>`__    | `Up <../S.html>`__         |  `Next <self-reference.html>`__   |
 +---------------------------------------+----------------------------+-----------------------------------+
-| segmentation fault                    | `Home <../index.html>`__   |  self-reference                   |
+| segmentation fault                    | `Home <../index.html>`__   |  self-reference                   |
 +---------------------------------------+----------------------------+-----------------------------------+
 
 self-reference
 
-`Prev <segv.html>`__ 
+`Prev <segv.html>`__ 
 
 S
 
- `Next <selvage.html>`__
+ `Next <selvage.html>`__
 
 --------------
 
@@ -1693,18 +1404,18 @@ See `*self-reference* <self-reference.html>`__.
 --------------
 
 +-------------------------+----------------------------+----------------------------+
-| `Prev <segv.html>`__    | `Up <../S.html>`__         |  `Next <selvage.html>`__   |
+| `Prev <segv.html>`__    | `Up <../S.html>`__         |  `Next <selvage.html>`__   |
 +-------------------------+----------------------------+----------------------------+
-| segv                    | `Home <../index.html>`__   |  selvage                   |
+| segv                    | `Home <../index.html>`__   |  selvage                   |
 +-------------------------+----------------------------+----------------------------+
 
 selvage
 
-`Prev <self-reference.html>`__ 
+`Prev <self-reference.html>`__ 
 
 S
 
- `Next <semi.html>`__
+ `Next <semi.html>`__
 
 --------------
 
@@ -1715,18 +1426,18 @@ S
 --------------
 
 +-----------------------------------+----------------------------+-------------------------+
-| `Prev <self-reference.html>`__    | `Up <../S.html>`__         |  `Next <semi.html>`__   |
+| `Prev <self-reference.html>`__    | `Up <../S.html>`__         |  `Next <semi.html>`__   |
 +-----------------------------------+----------------------------+-------------------------+
-| self-reference                    | `Home <../index.html>`__   |  semi                   |
+| self-reference                    | `Home <../index.html>`__   |  semi                   |
 +-----------------------------------+----------------------------+-------------------------+
 
 semi-automated
 
-`Prev <semi.html>`__ 
+`Prev <semi.html>`__ 
 
 S
 
- `Next <semi-infinite.html>`__
+ `Next <semi-infinite.html>`__
 
 --------------
 
@@ -1742,18 +1453,18 @@ referred to as “semi-automated weapons”.
 --------------
 
 +-------------------------+----------------------------+----------------------------------+
-| `Prev <semi.html>`__    | `Up <../S.html>`__         |  `Next <semi-infinite.html>`__   |
+| `Prev <semi.html>`__    | `Up <../S.html>`__         |  `Next <semi-infinite.html>`__   |
 +-------------------------+----------------------------+----------------------------------+
-| semi                    | `Home <../index.html>`__   |  semi-infinite                   |
+| semi                    | `Home <../index.html>`__   |  semi-infinite                   |
 +-------------------------+----------------------------+----------------------------------+
 
 semi
 
-`Prev <selvage.html>`__ 
+`Prev <selvage.html>`__ 
 
 S
 
- `Next <semi-automated.html>`__
+ `Next <semi-automated.html>`__
 
 --------------
 
@@ -1771,18 +1482,18 @@ hour.) “We did consider that possibility semi-seriously.” See also
 --------------
 
 +----------------------------+----------------------------+-----------------------------------+
-| `Prev <selvage.html>`__    | `Up <../S.html>`__         |  `Next <semi-automated.html>`__   |
+| `Prev <selvage.html>`__    | `Up <../S.html>`__         |  `Next <semi-automated.html>`__   |
 +----------------------------+----------------------------+-----------------------------------+
-| selvage                    | `Home <../index.html>`__   |  semi-automated                   |
+| selvage                    | `Home <../index.html>`__   |  semi-automated                   |
 +----------------------------+----------------------------+-----------------------------------+
 
 semi-infinite
 
-`Prev <semi-automated.html>`__ 
+`Prev <semi-automated.html>`__ 
 
 S
 
- `Next <senior-bit.html>`__
+ `Next <senior-bit.html>`__
 
 --------------
 
@@ -1793,18 +1504,18 @@ See `*infinite* <../I/infinite.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+-------------------------------+
-| `Prev <semi-automated.html>`__    | `Up <../S.html>`__         |  `Next <senior-bit.html>`__   |
+| `Prev <semi-automated.html>`__    | `Up <../S.html>`__         |  `Next <senior-bit.html>`__   |
 +-----------------------------------+----------------------------+-------------------------------+
-| semi-automated                    | `Home <../index.html>`__   |  senior bit                   |
+| semi-automated                    | `Home <../index.html>`__   |  senior bit                   |
 +-----------------------------------+----------------------------+-------------------------------+
 
 senior bit
 
-`Prev <semi-infinite.html>`__ 
+`Prev <semi-infinite.html>`__ 
 
 S
 
- `Next <September-that-never-ended.html>`__
+ `Next <September-that-never-ended.html>`__
 
 --------------
 
@@ -1815,18 +1526,18 @@ S
 --------------
 
 +----------------------------------+----------------------------+-----------------------------------------------+
-| `Prev <semi-infinite.html>`__    | `Up <../S.html>`__         |  `Next <September-that-never-ended.html>`__   |
+| `Prev <semi-infinite.html>`__    | `Up <../S.html>`__         |  `Next <September-that-never-ended.html>`__   |
 +----------------------------------+----------------------------+-----------------------------------------------+
-| semi-infinite                    | `Home <../index.html>`__   |  September that never ended                   |
+| semi-infinite                    | `Home <../index.html>`__   |  September that never ended                   |
 +----------------------------------+----------------------------+-----------------------------------------------+
 
 September that never ended
 
-`Prev <senior-bit.html>`__ 
+`Prev <senior-bit.html>`__ 
 
 S
 
- `Next <server.html>`__
+ `Next <server.html>`__
 
 --------------
 
@@ -1848,18 +1559,18 @@ discussions on newsgroups. Syn. eternal September. See also
 --------------
 
 +-------------------------------+----------------------------+---------------------------+
-| `Prev <senior-bit.html>`__    | `Up <../S.html>`__         |  `Next <server.html>`__   |
+| `Prev <senior-bit.html>`__    | `Up <../S.html>`__         |  `Next <server.html>`__   |
 +-------------------------------+----------------------------+---------------------------+
-| senior bit                    | `Home <../index.html>`__   |  server                   |
+| senior bit                    | `Home <../index.html>`__   |  server                   |
 +-------------------------------+----------------------------+---------------------------+
 
 server
 
-`Prev <September-that-never-ended.html>`__ 
+`Prev <September-that-never-ended.html>`__ 
 
 S
 
- `Next <SEX.html>`__
+ `Next <SEX.html>`__
 
 --------------
 
@@ -1874,18 +1585,18 @@ Internet, which is rife with web servers, name servers, domain servers,
 --------------
 
 +-----------------------------------------------+----------------------------+------------------------+
-| `Prev <September-that-never-ended.html>`__    | `Up <../S.html>`__         |  `Next <SEX.html>`__   |
+| `Prev <September-that-never-ended.html>`__    | `Up <../S.html>`__         |  `Next <SEX.html>`__   |
 +-----------------------------------------------+----------------------------+------------------------+
-| September that never ended                    | `Home <../index.html>`__   |  SEX                   |
+| September that never ended                    | `Home <../index.html>`__   |  SEX                   |
 +-----------------------------------------------+----------------------------+------------------------+
 
 sex changer
 
-`Prev <SEX.html>`__ 
+`Prev <SEX.html>`__ 
 
 S
 
- `Next <shambolic-link.html>`__
+ `Next <shambolic-link.html>`__
 
 --------------
 
@@ -1896,18 +1607,18 @@ Syn. `*gender mender* <../G/gender-mender.html>`__.
 --------------
 
 +------------------------+----------------------------+-----------------------------------+
-| `Prev <SEX.html>`__    | `Up <../S.html>`__         |  `Next <shambolic-link.html>`__   |
+| `Prev <SEX.html>`__    | `Up <../S.html>`__         |  `Next <shambolic-link.html>`__   |
 +------------------------+----------------------------+-----------------------------------+
-| SEX                    | `Home <../index.html>`__   |  shambolic link                   |
+| SEX                    | `Home <../index.html>`__   |  shambolic link                   |
 +------------------------+----------------------------+-----------------------------------+
 
 SEX
 
-`Prev <server.html>`__ 
+`Prev <server.html>`__ 
 
 S
 
- `Next <sex-changer.html>`__
+ `Next <sex-changer.html>`__
 
 --------------
 
@@ -1954,18 +1665,18 @@ with a dragon, but you can't have sex with an apple.
 --------------
 
 +---------------------------+----------------------------+--------------------------------+
-| `Prev <server.html>`__    | `Up <../S.html>`__         |  `Next <sex-changer.html>`__   |
+| `Prev <server.html>`__    | `Up <../S.html>`__         |  `Next <sex-changer.html>`__   |
 +---------------------------+----------------------------+--------------------------------+
-| server                    | `Home <../index.html>`__   |  sex changer                   |
+| server                    | `Home <../index.html>`__   |  sex changer                   |
 +---------------------------+----------------------------+--------------------------------+
 
 shambolic link
 
-`Prev <sex-changer.html>`__ 
+`Prev <sex-changer.html>`__ 
 
 S
 
- `Next <shar-file.html>`__
+ `Next <shar-file.html>`__
 
 --------------
 
@@ -1978,18 +1689,18 @@ unexpected part of the filesystem....
 --------------
 
 +--------------------------------+----------------------------+------------------------------+
-| `Prev <sex-changer.html>`__    | `Up <../S.html>`__         |  `Next <shar-file.html>`__   |
+| `Prev <sex-changer.html>`__    | `Up <../S.html>`__         |  `Next <shar-file.html>`__   |
 +--------------------------------+----------------------------+------------------------------+
-| sex changer                    | `Home <../index.html>`__   |  shar file                   |
+| sex changer                    | `Home <../index.html>`__   |  shar file                   |
 +--------------------------------+----------------------------+------------------------------+
 
 sharchive
 
-`Prev <shar-file.html>`__ 
+`Prev <shar-file.html>`__ 
 
 S
 
- `Next <Share-and-enjoy-.html>`__
+ `Next <Share-and-enjoy-.html>`__
 
 --------------
 
@@ -2017,18 +1728,18 @@ use since the mid-1990s.
 --------------
 
 +------------------------------+----------------------------+-------------------------------------+
-| `Prev <shar-file.html>`__    | `Up <../S.html>`__         |  `Next <Share-and-enjoy-.html>`__   |
+| `Prev <shar-file.html>`__    | `Up <../S.html>`__         |  `Next <Share-and-enjoy-.html>`__   |
 +------------------------------+----------------------------+-------------------------------------+
-| shar file                    | `Home <../index.html>`__   |  Share and enjoy!                   |
+| shar file                    | `Home <../index.html>`__   |  Share and enjoy!                   |
 +------------------------------+----------------------------+-------------------------------------+
 
 Share and enjoy!
 
-`Prev <sharchive.html>`__ 
+`Prev <sharchive.html>`__ 
 
 S
 
- `Next <shareware.html>`__
+ `Next <shareware.html>`__
 
 --------------
 
@@ -2048,18 +1759,18 @@ appeals to hackers.
 --------------
 
 +------------------------------+----------------------------+------------------------------+
-| `Prev <sharchive.html>`__    | `Up <../S.html>`__         |  `Next <shareware.html>`__   |
+| `Prev <sharchive.html>`__    | `Up <../S.html>`__         |  `Next <shareware.html>`__   |
 +------------------------------+----------------------------+------------------------------+
-| sharchive                    | `Home <../index.html>`__   |  shareware                   |
+| sharchive                    | `Home <../index.html>`__   |  shareware                   |
 +------------------------------+----------------------------+------------------------------+
 
 shareware
 
-`Prev <Share-and-enjoy-.html>`__ 
+`Prev <Share-and-enjoy-.html>`__ 
 
 S
 
- `Next <sharing-violation.html>`__
+ `Next <sharing-violation.html>`__
 
 --------------
 
@@ -2080,18 +1791,18 @@ may not buy additional support or functionality. See also
 --------------
 
 +-------------------------------------+----------------------------+--------------------------------------+
-| `Prev <Share-and-enjoy-.html>`__    | `Up <../S.html>`__         |  `Next <sharing-violation.html>`__   |
+| `Prev <Share-and-enjoy-.html>`__    | `Up <../S.html>`__         |  `Next <sharing-violation.html>`__   |
 +-------------------------------------+----------------------------+--------------------------------------+
-| Share and enjoy!                    | `Home <../index.html>`__   |  sharing violation                   |
+| Share and enjoy!                    | `Home <../index.html>`__   |  sharing violation                   |
 +-------------------------------------+----------------------------+--------------------------------------+
 
 shar file
 
-`Prev <shambolic-link.html>`__ 
+`Prev <shambolic-link.html>`__ 
 
 S
 
- `Next <sharchive.html>`__
+ `Next <sharchive.html>`__
 
 --------------
 
@@ -2102,18 +1813,18 @@ Syn. `*sharchive* <sharchive.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+------------------------------+
-| `Prev <shambolic-link.html>`__    | `Up <../S.html>`__         |  `Next <sharchive.html>`__   |
+| `Prev <shambolic-link.html>`__    | `Up <../S.html>`__         |  `Next <sharchive.html>`__   |
 +-----------------------------------+----------------------------+------------------------------+
-| shambolic link                    | `Home <../index.html>`__   |  sharchive                   |
+| shambolic link                    | `Home <../index.html>`__   |  sharchive                   |
 +-----------------------------------+----------------------------+------------------------------+
 
 sharing violation
 
-`Prev <shareware.html>`__ 
+`Prev <shareware.html>`__ 
 
 S
 
- `Next <shebang.html>`__
+ `Next <shebang.html>`__
 
 --------------
 
@@ -2129,18 +1840,18 @@ being given data that you *did* want.
 --------------
 
 +------------------------------+----------------------------+----------------------------+
-| `Prev <shareware.html>`__    | `Up <../S.html>`__         |  `Next <shebang.html>`__   |
+| `Prev <shareware.html>`__    | `Up <../S.html>`__         |  `Next <shebang.html>`__   |
 +------------------------------+----------------------------+----------------------------+
-| shareware                    | `Home <../index.html>`__   |  shebang                   |
+| shareware                    | `Home <../index.html>`__   |  shebang                   |
 +------------------------------+----------------------------+----------------------------+
 
 shebang
 
-`Prev <sharing-violation.html>`__ 
+`Prev <sharing-violation.html>`__ 
 
 S
 
- `Next <shelfware.html>`__
+ `Next <shelfware.html>`__
 
 --------------
 
@@ -2154,18 +1865,18 @@ whole shebang” (everything, the works).
 --------------
 
 +--------------------------------------+----------------------------+------------------------------+
-| `Prev <sharing-violation.html>`__    | `Up <../S.html>`__         |  `Next <shelfware.html>`__   |
+| `Prev <sharing-violation.html>`__    | `Up <../S.html>`__         |  `Next <shelfware.html>`__   |
 +--------------------------------------+----------------------------+------------------------------+
-| sharing violation                    | `Home <../index.html>`__   |  shelfware                   |
+| sharing violation                    | `Home <../index.html>`__   |  shelfware                   |
 +--------------------------------------+----------------------------+------------------------------+
 
 shelfware
 
-`Prev <shebang.html>`__ 
+`Prev <shebang.html>`__ 
 
 S
 
- `Next <shell.html>`__
+ `Next <shell.html>`__
 
 --------------
 
@@ -2179,18 +1890,18 @@ shelf.
 --------------
 
 +----------------------------+----------------------------+--------------------------+
-| `Prev <shebang.html>`__    | `Up <../S.html>`__         |  `Next <shell.html>`__   |
+| `Prev <shebang.html>`__    | `Up <../S.html>`__         |  `Next <shell.html>`__   |
 +----------------------------+----------------------------+--------------------------+
-| shebang                    | `Home <../index.html>`__   |  shell                   |
+| shebang                    | `Home <../index.html>`__   |  shell                   |
 +----------------------------+----------------------------+--------------------------+
 
 shell
 
-`Prev <shelfware.html>`__ 
+`Prev <shelfware.html>`__ 
 
 S
 
- `Next <shell-out.html>`__
+ `Next <shell-out.html>`__
 
 --------------
 
@@ -2226,18 +1937,18 @@ something very like this.
 --------------
 
 +------------------------------+----------------------------+------------------------------+
-| `Prev <shelfware.html>`__    | `Up <../S.html>`__         |  `Next <shell-out.html>`__   |
+| `Prev <shelfware.html>`__    | `Up <../S.html>`__         |  `Next <shell-out.html>`__   |
 +------------------------------+----------------------------+------------------------------+
-| shelfware                    | `Home <../index.html>`__   |  shell out                   |
+| shelfware                    | `Home <../index.html>`__   |  shell out                   |
 +------------------------------+----------------------------+------------------------------+
 
 shell out
 
-`Prev <shell.html>`__ 
+`Prev <shell.html>`__ 
 
 S
 
- `Next <shift-left-or-right-logical.html>`__
+ `Next <shift-left-or-right-logical.html>`__
 
 --------------
 
@@ -2250,18 +1961,18 @@ while bang alone shells out.”
 --------------
 
 +--------------------------+----------------------------+------------------------------------------------+
-| `Prev <shell.html>`__    | `Up <../S.html>`__         |  `Next <shift-left-or-right-logical.html>`__   |
+| `Prev <shell.html>`__    | `Up <../S.html>`__         |  `Next <shift-left-or-right-logical.html>`__   |
 +--------------------------+----------------------------+------------------------------------------------+
-| shell                    | `Home <../index.html>`__   |  shift left (or right) logical                 |
+| shell                    | `Home <../index.html>`__   |  shift left (or right) logical                 |
 +--------------------------+----------------------------+------------------------------------------------+
 
 shift left (or right) logical
 
-`Prev <shell-out.html>`__ 
+`Prev <shell-out.html>`__ 
 
 S
 
- `Next <shim.html>`__
+ `Next <shim.html>`__
 
 --------------
 
@@ -2280,18 +1991,18 @@ Cheer* <../P/Programmers-Cheer.html>`__.
 --------------
 
 +------------------------------+----------------------------+-------------------------+
-| `Prev <shell-out.html>`__    | `Up <../S.html>`__         |  `Next <shim.html>`__   |
+| `Prev <shell-out.html>`__    | `Up <../S.html>`__         |  `Next <shim.html>`__   |
 +------------------------------+----------------------------+-------------------------+
-| shell out                    | `Home <../index.html>`__   |  shim                   |
+| shell out                    | `Home <../index.html>`__   |  shim                   |
 +------------------------------+----------------------------+-------------------------+
 
 shim
 
-`Prev <shift-left-or-right-logical.html>`__ 
+`Prev <shift-left-or-right-logical.html>`__ 
 
 S
 
- `Next <shitogram.html>`__
+ `Next <shitogram.html>`__
 
 --------------
 
@@ -2319,18 +2030,18 @@ if adequate support for CSS were more common).
 --------------
 
 +------------------------------------------------+----------------------------+------------------------------+
-| `Prev <shift-left-or-right-logical.html>`__    | `Up <../S.html>`__         |  `Next <shitogram.html>`__   |
+| `Prev <shift-left-or-right-logical.html>`__    | `Up <../S.html>`__         |  `Next <shitogram.html>`__   |
 +------------------------------------------------+----------------------------+------------------------------+
-| shift left (or right) logical                  | `Home <../index.html>`__   |  shitogram                   |
+| shift left (or right) logical                  | `Home <../index.html>`__   |  shitogram                   |
 +------------------------------------------------+----------------------------+------------------------------+
 
 shitogram
 
-`Prev <shim.html>`__ 
+`Prev <shim.html>`__ 
 
 S
 
- `Next <shotgun-debugging.html>`__
+ `Next <shotgun-debugging.html>`__
 
 --------------
 
@@ -2342,18 +2053,18 @@ A *really* nasty piece of email. Compare
 --------------
 
 +-------------------------+----------------------------+--------------------------------------+
-| `Prev <shim.html>`__    | `Up <../S.html>`__         |  `Next <shotgun-debugging.html>`__   |
+| `Prev <shim.html>`__    | `Up <../S.html>`__         |  `Next <shotgun-debugging.html>`__   |
 +-------------------------+----------------------------+--------------------------------------+
-| shim                    | `Home <../index.html>`__   |  shotgun debugging                   |
+| shim                    | `Home <../index.html>`__   |  shotgun debugging                   |
 +-------------------------+----------------------------+--------------------------------------+
 
 shotgun debugging
 
-`Prev <shitogram.html>`__ 
+`Prev <shitogram.html>`__ 
 
 S
 
- `Next <shovelware.html>`__
+ `Next <shovelware.html>`__
 
 --------------
 
@@ -2368,18 +2079,18 @@ bugs.
 --------------
 
 +------------------------------+----------------------------+-------------------------------+
-| `Prev <shitogram.html>`__    | `Up <../S.html>`__         |  `Next <shovelware.html>`__   |
+| `Prev <shitogram.html>`__    | `Up <../S.html>`__         |  `Next <shovelware.html>`__   |
 +------------------------------+----------------------------+-------------------------------+
-| shitogram                    | `Home <../index.html>`__   |  shovelware                   |
+| shitogram                    | `Home <../index.html>`__   |  shovelware                   |
 +------------------------------+----------------------------+-------------------------------+
 
 shovelware
 
-`Prev <shotgun-debugging.html>`__ 
+`Prev <shotgun-debugging.html>`__ 
 
 S
 
- `Next <showstopper.html>`__
+ `Next <showstopper.html>`__
 
 --------------
 
@@ -2395,18 +2106,18 @@ care for organization or even usability.
 --------------
 
 +--------------------------------------+----------------------------+--------------------------------+
-| `Prev <shotgun-debugging.html>`__    | `Up <../S.html>`__         |  `Next <showstopper.html>`__   |
+| `Prev <shotgun-debugging.html>`__    | `Up <../S.html>`__         |  `Next <showstopper.html>`__   |
 +--------------------------------------+----------------------------+--------------------------------+
-| shotgun debugging                    | `Home <../index.html>`__   |  showstopper                   |
+| shotgun debugging                    | `Home <../index.html>`__   |  showstopper                   |
 +--------------------------------------+----------------------------+--------------------------------+
 
 showstopper
 
-`Prev <shovelware.html>`__ 
+`Prev <shovelware.html>`__ 
 
 S
 
- `Next <shriek.html>`__
+ `Next <shriek.html>`__
 
 --------------
 
@@ -2420,18 +2131,18 @@ theatrical use, which refers to something stunningly *good*.
 --------------
 
 +-------------------------------+----------------------------+---------------------------+
-| `Prev <shovelware.html>`__    | `Up <../S.html>`__         |  `Next <shriek.html>`__   |
+| `Prev <shovelware.html>`__    | `Up <../S.html>`__         |  `Next <shriek.html>`__   |
 +-------------------------------+----------------------------+---------------------------+
-| shovelware                    | `Home <../index.html>`__   |  shriek                   |
+| shovelware                    | `Home <../index.html>`__   |  shriek                   |
 +-------------------------------+----------------------------+---------------------------+
 
 shriek
 
-`Prev <showstopper.html>`__ 
+`Prev <showstopper.html>`__ 
 
 S
 
- `Next <Shub-Internet.html>`__
+ `Next <Shub-Internet.html>`__
 
 --------------
 
@@ -2443,18 +2154,18 @@ use among APL fans and mathematicians, especially category theorists.
 --------------
 
 +--------------------------------+----------------------------+----------------------------------+
-| `Prev <showstopper.html>`__    | `Up <../S.html>`__         |  `Next <Shub-Internet.html>`__   |
+| `Prev <showstopper.html>`__    | `Up <../S.html>`__         |  `Next <Shub-Internet.html>`__   |
 +--------------------------------+----------------------------+----------------------------------+
-| showstopper                    | `Home <../index.html>`__   |  Shub-Internet                   |
+| showstopper                    | `Home <../index.html>`__   |  Shub-Internet                   |
 +--------------------------------+----------------------------+----------------------------------+
 
 Shub-Internet
 
-`Prev <shriek.html>`__ 
+`Prev <shriek.html>`__ 
 
 S
 
- `Next <SIG.html>`__
+ `Next <SIG.html>`__
 
 --------------
 
@@ -2489,18 +2200,18 @@ page <http://www.shub-internet.org/>`__. —ESR]
 --------------
 
 +---------------------------+----------------------------+------------------------+
-| `Prev <shriek.html>`__    | `Up <../S.html>`__         |  `Next <SIG.html>`__   |
+| `Prev <shriek.html>`__    | `Up <../S.html>`__         |  `Next <SIG.html>`__   |
 +---------------------------+----------------------------+------------------------+
-| shriek                    | `Home <../index.html>`__   |  SIG                   |
+| shriek                    | `Home <../index.html>`__   |  SIG                   |
 +---------------------------+----------------------------+------------------------+
 
 sig block
 
-`Prev <SIG.html>`__ 
+`Prev <SIG.html>`__ 
 
 S
 
- `Next <sig-quote.html>`__
+ `Next <sig-quote.html>`__
 
 --------------
 
@@ -2524,18 +2235,18 @@ limit* <../M/McQuary-limit.html>`__.
 --------------
 
 +------------------------+----------------------------+------------------------------+
-| `Prev <SIG.html>`__    | `Up <../S.html>`__         |  `Next <sig-quote.html>`__   |
+| `Prev <SIG.html>`__    | `Up <../S.html>`__         |  `Next <sig-quote.html>`__   |
 +------------------------+----------------------------+------------------------------+
-| SIG                    | `Home <../index.html>`__   |  sig quote                   |
+| SIG                    | `Home <../index.html>`__   |  sig quote                   |
 +------------------------+----------------------------+------------------------------+
 
 SIG
 
-`Prev <Shub-Internet.html>`__ 
+`Prev <Shub-Internet.html>`__ 
 
 S
 
- `Next <sig-block.html>`__
+ `Next <sig-block.html>`__
 
 --------------
 
@@ -2553,18 +2264,18 @@ SIGBEER (at ACM conferences) and SIGFOOD (at University of Illinois).
 --------------
 
 +----------------------------------+----------------------------+------------------------------+
-| `Prev <Shub-Internet.html>`__    | `Up <../S.html>`__         |  `Next <sig-block.html>`__   |
+| `Prev <Shub-Internet.html>`__    | `Up <../S.html>`__         |  `Next <sig-block.html>`__   |
 +----------------------------------+----------------------------+------------------------------+
-| Shub-Internet                    | `Home <../index.html>`__   |  sig block                   |
+| Shub-Internet                    | `Home <../index.html>`__   |  sig block                   |
 +----------------------------------+----------------------------+------------------------------+
 
 sigmonster
 
-`Prev <sig-virus.html>`__ 
+`Prev <sig-virus.html>`__ 
 
 S
 
- `Next <signal-to-noise-ratio.html>`__
+ `Next <signal-to-noise-ratio.html>`__
 
 --------------
 
@@ -2583,18 +2294,18 @@ much caffeine.
 --------------
 
 +------------------------------+----------------------------+------------------------------------------+
-| `Prev <sig-virus.html>`__    | `Up <../S.html>`__         |  `Next <signal-to-noise-ratio.html>`__   |
+| `Prev <sig-virus.html>`__    | `Up <../S.html>`__         |  `Next <signal-to-noise-ratio.html>`__   |
 +------------------------------+----------------------------+------------------------------------------+
-| sig virus                    | `Home <../index.html>`__   |  signal-to-noise ratio                   |
+| sig virus                    | `Home <../index.html>`__   |  signal-to-noise ratio                   |
 +------------------------------+----------------------------+------------------------------------------+
 
 signal-to-noise ratio
 
-`Prev <sigmonster.html>`__ 
+`Prev <sigmonster.html>`__ 
 
 S
 
- `Next <silicon.html>`__
+ `Next <silicon.html>`__
 
 --------------
 
@@ -2614,18 +2325,18 @@ noise* <../L/lost-in-the-noise.html>`__.
 --------------
 
 +-------------------------------+----------------------------+----------------------------+
-| `Prev <sigmonster.html>`__    | `Up <../S.html>`__         |  `Next <silicon.html>`__   |
+| `Prev <sigmonster.html>`__    | `Up <../S.html>`__         |  `Next <silicon.html>`__   |
 +-------------------------------+----------------------------+----------------------------+
-| sigmonster                    | `Home <../index.html>`__   |  silicon                   |
+| sigmonster                    | `Home <../index.html>`__   |  silicon                   |
 +-------------------------------+----------------------------+----------------------------+
 
 sig quote
 
-`Prev <sig-block.html>`__ 
+`Prev <sig-block.html>`__ 
 
 S
 
- `Next <sig-virus.html>`__
+ `Next <sig-virus.html>`__
 
 --------------
 
@@ -2639,18 +2350,18 @@ it's only ones and zeroes.”
 --------------
 
 +------------------------------+----------------------------+------------------------------+
-| `Prev <sig-block.html>`__    | `Up <../S.html>`__         |  `Next <sig-virus.html>`__   |
+| `Prev <sig-block.html>`__    | `Up <../S.html>`__         |  `Next <sig-virus.html>`__   |
 +------------------------------+----------------------------+------------------------------+
-| sig block                    | `Home <../index.html>`__   |  sig virus                   |
+| sig block                    | `Home <../index.html>`__   |  sig virus                   |
 +------------------------------+----------------------------+------------------------------+
 
 sig virus
 
-`Prev <sig-quote.html>`__ 
+`Prev <sig-quote.html>`__ 
 
 S
 
- `Next <sigmonster.html>`__
+ `Next <sigmonster.html>`__
 
 --------------
 
@@ -2670,18 +2381,18 @@ sig virus eater.
 --------------
 
 +------------------------------+----------------------------+-------------------------------+
-| `Prev <sig-quote.html>`__    | `Up <../S.html>`__         |  `Next <sigmonster.html>`__   |
+| `Prev <sig-quote.html>`__    | `Up <../S.html>`__         |  `Next <sigmonster.html>`__   |
 +------------------------------+----------------------------+-------------------------------+
-| sig quote                    | `Home <../index.html>`__   |  sigmonster                   |
+| sig quote                    | `Home <../index.html>`__   |  sigmonster                   |
 +------------------------------+----------------------------+-------------------------------+
 
 silicon
 
-`Prev <signal-to-noise-ratio.html>`__ 
+`Prev <signal-to-noise-ratio.html>`__ 
 
 S
 
- `Next <silly-walk.html>`__
+ `Next <silly-walk.html>`__
 
 --------------
 
@@ -2694,18 +2405,18 @@ Hardware, esp. ICs or microprocessor-based computer systems (compare
 --------------
 
 +------------------------------------------+----------------------------+-------------------------------+
-| `Prev <signal-to-noise-ratio.html>`__    | `Up <../S.html>`__         |  `Next <silly-walk.html>`__   |
+| `Prev <signal-to-noise-ratio.html>`__    | `Up <../S.html>`__         |  `Next <silly-walk.html>`__   |
 +------------------------------------------+----------------------------+-------------------------------+
-| signal-to-noise ratio                    | `Home <../index.html>`__   |  silly walk                   |
+| signal-to-noise ratio                    | `Home <../index.html>`__   |  silly walk                   |
 +------------------------------------------+----------------------------+-------------------------------+
 
 silly walk
 
-`Prev <silicon.html>`__ 
+`Prev <silicon.html>`__ 
 
 S
 
- `Next <silo.html>`__
+ `Next <silo.html>`__
 
 --------------
 
@@ -2723,18 +2434,18 @@ through half the /usr directories to find the maps file.”
 --------------
 
 +----------------------------+----------------------------+-------------------------+
-| `Prev <silicon.html>`__    | `Up <../S.html>`__         |  `Next <silo.html>`__   |
+| `Prev <silicon.html>`__    | `Up <../S.html>`__         |  `Next <silo.html>`__   |
 +----------------------------+----------------------------+-------------------------+
-| silicon                    | `Home <../index.html>`__   |  silo                   |
+| silicon                    | `Home <../index.html>`__   |  silo                   |
 +----------------------------+----------------------------+-------------------------+
 
 silo
 
-`Prev <silly-walk.html>`__ 
+`Prev <silly-walk.html>`__ 
 
 S
 
- `Next <since-time-T-equals-minus-infinity.html>`__
+ `Next <since-time-T-equals-minus-infinity.html>`__
 
 --------------
 
@@ -2749,18 +2460,18 @@ in at the top and came out at the bottom.
 --------------
 
 +-------------------------------+----------------------------+-------------------------------------------------------+
-| `Prev <silly-walk.html>`__    | `Up <../S.html>`__         |  `Next <since-time-T-equals-minus-infinity.html>`__   |
+| `Prev <silly-walk.html>`__    | `Up <../S.html>`__         |  `Next <since-time-T-equals-minus-infinity.html>`__   |
 +-------------------------------+----------------------------+-------------------------------------------------------+
-| silly walk                    | `Home <../index.html>`__   |  since time T equals minus infinity                   |
+| silly walk                    | `Home <../index.html>`__   |  since time T equals minus infinity                   |
 +-------------------------------+----------------------------+-------------------------------------------------------+
 
 since time T equals minus infinity
 
-`Prev <silo.html>`__ 
+`Prev <silo.html>`__ 
 
 S
 
- `Next <sitename.html>`__
+ `Next <sitename.html>`__
 
 --------------
 
@@ -2774,18 +2485,18 @@ omitted. See also `*time T* <../T/time-T.html>`__; contrast
 --------------
 
 +-------------------------+----------------------------+-----------------------------+
-| `Prev <silo.html>`__    | `Up <../S.html>`__         |  `Next <sitename.html>`__   |
+| `Prev <silo.html>`__    | `Up <../S.html>`__         |  `Next <sitename.html>`__   |
 +-------------------------+----------------------------+-----------------------------+
-| silo                    | `Home <../index.html>`__   |  sitename                   |
+| silo                    | `Home <../index.html>`__   |  sitename                   |
 +-------------------------+----------------------------+-----------------------------+
 
 sitename
 
-`Prev <since-time-T-equals-minus-infinity.html>`__ 
+`Prev <since-time-T-equals-minus-infinity.html>`__ 
 
 S
 
- `Next <skrog.html>`__
+ `Next <skrog.html>`__
 
 --------------
 
@@ -2810,18 +2521,18 @@ these is Harris's Lament: “All the good ones are taken!” See also
 --------------
 
 +-------------------------------------------------------+----------------------------+--------------------------+
-| `Prev <since-time-T-equals-minus-infinity.html>`__    | `Up <../S.html>`__         |  `Next <skrog.html>`__   |
+| `Prev <since-time-T-equals-minus-infinity.html>`__    | `Up <../S.html>`__         |  `Next <skrog.html>`__   |
 +-------------------------------------------------------+----------------------------+--------------------------+
-| since time T equals minus infinity                    | `Home <../index.html>`__   |  skrog                   |
+| since time T equals minus infinity                    | `Home <../index.html>`__   |  skrog                   |
 +-------------------------------------------------------+----------------------------+--------------------------+
 
 skrog
 
-`Prev <sitename.html>`__ 
+`Prev <sitename.html>`__ 
 
 S
 
- `Next <skulker.html>`__
+ `Next <skulker.html>`__
 
 --------------
 
@@ -2832,18 +2543,18 @@ Syn. `*scrog* <scrog.html>`__.
 --------------
 
 +-----------------------------+----------------------------+----------------------------+
-| `Prev <sitename.html>`__    | `Up <../S.html>`__         |  `Next <skulker.html>`__   |
+| `Prev <sitename.html>`__    | `Up <../S.html>`__         |  `Next <skulker.html>`__   |
 +-----------------------------+----------------------------+----------------------------+
-| sitename                    | `Home <../index.html>`__   |  skulker                   |
+| sitename                    | `Home <../index.html>`__   |  skulker                   |
 +-----------------------------+----------------------------+----------------------------+
 
 skulker
 
-`Prev <skrog.html>`__ 
+`Prev <skrog.html>`__ 
 
 S
 
- `Next <slab.html>`__
+ `Next <slab.html>`__
 
 --------------
 
@@ -2854,18 +2565,18 @@ Syn. `*prowler* <../P/prowler.html>`__.
 --------------
 
 +--------------------------+----------------------------+-------------------------+
-| `Prev <skrog.html>`__    | `Up <../S.html>`__         |  `Next <slab.html>`__   |
+| `Prev <skrog.html>`__    | `Up <../S.html>`__         |  `Next <slab.html>`__   |
 +--------------------------+----------------------------+-------------------------+
-| skrog                    | `Home <../index.html>`__   |  slab                   |
+| skrog                    | `Home <../index.html>`__   |  slab                   |
 +--------------------------+----------------------------+-------------------------+
 
 slab
 
-`Prev <skulker.html>`__ 
+`Prev <skulker.html>`__ 
 
 S
 
- `Next <slack.html>`__
+ `Next <slack.html>`__
 
 --------------
 
@@ -2882,18 +2593,18 @@ image pixels.
 --------------
 
 +----------------------------+----------------------------+--------------------------+
-| `Prev <skulker.html>`__    | `Up <../S.html>`__         |  `Next <slack.html>`__   |
+| `Prev <skulker.html>`__    | `Up <../S.html>`__         |  `Next <slack.html>`__   |
 +----------------------------+----------------------------+--------------------------+
-| skulker                    | `Home <../index.html>`__   |  slack                   |
+| skulker                    | `Home <../index.html>`__   |  slack                   |
 +----------------------------+----------------------------+--------------------------+
 
 slack
 
-`Prev <slab.html>`__ 
+`Prev <slab.html>`__ 
 
 S
 
- `Next <slash.html>`__
+ `Next <slash.html>`__
 
 --------------
 
@@ -2914,18 +2625,18 @@ no slack”. See `*ha ha only serious* <../H/ha-ha-only-serious.html>`__.
 --------------
 
 +-------------------------+----------------------------+--------------------------+
-| `Prev <slab.html>`__    | `Up <../S.html>`__         |  `Next <slash.html>`__   |
+| `Prev <slab.html>`__    | `Up <../S.html>`__         |  `Next <slash.html>`__   |
 +-------------------------+----------------------------+--------------------------+
-| slab                    | `Home <../index.html>`__   |  slash                   |
+| slab                    | `Home <../index.html>`__   |  slash                   |
 +-------------------------+----------------------------+--------------------------+
 
 slashdot effect
 
-`Prev <slash.html>`__ 
+`Prev <slash.html>`__ 
 
 S
 
- `Next <sleep.html>`__
+ `Next <sleep.html>`__
 
 --------------
 
@@ -2947,18 +2658,18 @@ attack* <../D/DoS-attack.html>`__ in being unintentional.
 --------------
 
 +--------------------------+----------------------------+--------------------------+
-| `Prev <slash.html>`__    | `Up <../S.html>`__         |  `Next <sleep.html>`__   |
+| `Prev <slash.html>`__    | `Up <../S.html>`__         |  `Next <sleep.html>`__   |
 +--------------------------+----------------------------+--------------------------+
-| slash                    | `Home <../index.html>`__   |  sleep                   |
+| slash                    | `Home <../index.html>`__   |  sleep                   |
 +--------------------------+----------------------------+--------------------------+
 
 slash
 
-`Prev <slack.html>`__ 
+`Prev <slack.html>`__ 
 
 S
 
- `Next <slashdot-effect.html>`__
+ `Next <slashdot-effect.html>`__
 
 --------------
 
@@ -2970,18 +2681,18 @@ Common name for the slant (‘/’, ASCII 0101111) character. See
 --------------
 
 +--------------------------+----------------------------+------------------------------------+
-| `Prev <slack.html>`__    | `Up <../S.html>`__         |  `Next <slashdot-effect.html>`__   |
+| `Prev <slack.html>`__    | `Up <../S.html>`__         |  `Next <slashdot-effect.html>`__   |
 +--------------------------+----------------------------+------------------------------------+
-| slack                    | `Home <../index.html>`__   |  slashdot effect                   |
+| slack                    | `Home <../index.html>`__   |  slashdot effect                   |
 +--------------------------+----------------------------+------------------------------------+
 
 sleep
 
-`Prev <slashdot-effect.html>`__ 
+`Prev <slashdot-effect.html>`__ 
 
 S
 
- `Next <slim.html>`__
+ `Next <slim.html>`__
 
 --------------
 
@@ -3002,18 +2713,18 @@ release, then start hassling them again.”
 --------------
 
 +------------------------------------+----------------------------+-------------------------+
-| `Prev <slashdot-effect.html>`__    | `Up <../S.html>`__         |  `Next <slim.html>`__   |
+| `Prev <slashdot-effect.html>`__    | `Up <../S.html>`__         |  `Next <slim.html>`__   |
 +------------------------------------+----------------------------+-------------------------+
-| slashdot effect                    | `Home <../index.html>`__   |  slim                   |
+| slashdot effect                    | `Home <../index.html>`__   |  slim                   |
 +------------------------------------+----------------------------+-------------------------+
 
 slim
 
-`Prev <sleep.html>`__ 
+`Prev <sleep.html>`__ 
 
 S
 
- `Next <slop.html>`__
+ `Next <slop.html>`__
 
 --------------
 
@@ -3024,18 +2735,18 @@ A small, derivative change (e.g., to code).
 --------------
 
 +--------------------------+----------------------------+-------------------------+
-| `Prev <sleep.html>`__    | `Up <../S.html>`__         |  `Next <slop.html>`__   |
+| `Prev <sleep.html>`__    | `Up <../S.html>`__         |  `Next <slop.html>`__   |
 +--------------------------+----------------------------+-------------------------+
-| sleep                    | `Home <../index.html>`__   |  slop                   |
+| sleep                    | `Home <../index.html>`__   |  slop                   |
 +--------------------------+----------------------------+-------------------------+
 
 slop
 
-`Prev <slim.html>`__ 
+`Prev <slim.html>`__ 
 
 S
 
- `Next <slopsucker.html>`__
+ `Next <slopsucker.html>`__
 
 --------------
 
@@ -3064,18 +2775,18 @@ the reasons assembler programming is no longer common.
 --------------
 
 +-------------------------+----------------------------+-------------------------------+
-| `Prev <slim.html>`__    | `Up <../S.html>`__         |  `Next <slopsucker.html>`__   |
+| `Prev <slim.html>`__    | `Up <../S.html>`__         |  `Next <slopsucker.html>`__   |
 +-------------------------+----------------------------+-------------------------------+
-| slim                    | `Home <../index.html>`__   |  slopsucker                   |
+| slim                    | `Home <../index.html>`__   |  slopsucker                   |
 +-------------------------+----------------------------+-------------------------------+
 
 slopsucker
 
-`Prev <slop.html>`__ 
+`Prev <slop.html>`__ 
 
 S
 
- `Next <Slowlaris.html>`__
+ `Next <Slowlaris.html>`__
 
 --------------
 
@@ -3090,18 +2801,18 @@ prime numbers. Compare `*background* <../B/background.html>`__.
 --------------
 
 +-------------------------+----------------------------+------------------------------+
-| `Prev <slop.html>`__    | `Up <../S.html>`__         |  `Next <Slowlaris.html>`__   |
+| `Prev <slop.html>`__    | `Up <../S.html>`__         |  `Next <Slowlaris.html>`__   |
 +-------------------------+----------------------------+------------------------------+
-| slop                    | `Home <../index.html>`__   |  Slowlaris                   |
+| slop                    | `Home <../index.html>`__   |  Slowlaris                   |
 +-------------------------+----------------------------+------------------------------+
 
 Slowlaris
 
-`Prev <slopsucker.html>`__ 
+`Prev <slopsucker.html>`__ 
 
 S
 
- `Next <slurp.html>`__
+ `Next <slurp.html>`__
 
 --------------
 
@@ -3125,18 +2836,18 @@ still lose single-processor benchmarks to Sparc
 --------------
 
 +-------------------------------+----------------------------+--------------------------+
-| `Prev <slopsucker.html>`__    | `Up <../S.html>`__         |  `Next <slurp.html>`__   |
+| `Prev <slopsucker.html>`__    | `Up <../S.html>`__         |  `Next <slurp.html>`__   |
 +-------------------------------+----------------------------+--------------------------+
-| slopsucker                    | `Home <../index.html>`__   |  slurp                   |
+| slopsucker                    | `Home <../index.html>`__   |  slurp                   |
 +-------------------------------+----------------------------+--------------------------+
 
 slurp
 
-`Prev <Slowlaris.html>`__ 
+`Prev <Slowlaris.html>`__ 
 
 S
 
- `Next <slurp-the-robot.html>`__
+ `Next <slurp-the-robot.html>`__
 
 --------------
 
@@ -3151,18 +2862,18 @@ See also `*sponge* <sponge.html>`__.
 --------------
 
 +------------------------------+----------------------------+------------------------------------+
-| `Prev <Slowlaris.html>`__    | `Up <../S.html>`__         |  `Next <slurp-the-robot.html>`__   |
+| `Prev <Slowlaris.html>`__    | `Up <../S.html>`__         |  `Next <slurp-the-robot.html>`__   |
 +------------------------------+----------------------------+------------------------------------+
-| Slowlaris                    | `Home <../index.html>`__   |  slurp the robot                   |
+| Slowlaris                    | `Home <../index.html>`__   |  slurp the robot                   |
 +------------------------------+----------------------------+------------------------------------+
 
 slurp the robot
 
-`Prev <slurp.html>`__ 
+`Prev <slurp.html>`__ 
 
 S
 
- `Next <smart.html>`__
+ `Next <smart.html>`__
 
 --------------
 
@@ -3173,18 +2884,18 @@ See `*STR* <STR.html>`__.
 --------------
 
 +--------------------------+----------------------------+--------------------------+
-| `Prev <slurp.html>`__    | `Up <../S.html>`__         |  `Next <smart.html>`__   |
+| `Prev <slurp.html>`__    | `Up <../S.html>`__         |  `Next <smart.html>`__   |
 +--------------------------+----------------------------+--------------------------+
-| slurp                    | `Home <../index.html>`__   |  smart                   |
+| slurp                    | `Home <../index.html>`__   |  smart                   |
 +--------------------------+----------------------------+--------------------------+
 
 smart
 
-`Prev <slurp-the-robot.html>`__ 
+`Prev <slurp-the-robot.html>`__ 
 
 S
 
- `Next <smart-terminal.html>`__
+ `Next <smart-terminal.html>`__
 
 --------------
 
@@ -3202,18 +2913,18 @@ intelligent programs (yet — see
 --------------
 
 +------------------------------------+----------------------------+-----------------------------------+
-| `Prev <slurp-the-robot.html>`__    | `Up <../S.html>`__         |  `Next <smart-terminal.html>`__   |
+| `Prev <slurp-the-robot.html>`__    | `Up <../S.html>`__         |  `Next <smart-terminal.html>`__   |
 +------------------------------------+----------------------------+-----------------------------------+
-| slurp the robot                    | `Home <../index.html>`__   |  smart terminal                   |
+| slurp the robot                    | `Home <../index.html>`__   |  smart terminal                   |
 +------------------------------------+----------------------------+-----------------------------------+
 
 smart terminal
 
-`Prev <smart.html>`__ 
+`Prev <smart.html>`__ 
 
 S
 
- `Next <smash-case.html>`__
+ `Next <smash-case.html>`__
 
 --------------
 
@@ -3247,18 +2958,18 @@ programmability, on the other hand, are *really* smart. Compare
 --------------
 
 +--------------------------+----------------------------+-------------------------------+
-| `Prev <smart.html>`__    | `Up <../S.html>`__         |  `Next <smash-case.html>`__   |
+| `Prev <smart.html>`__    | `Up <../S.html>`__         |  `Next <smash-case.html>`__   |
 +--------------------------+----------------------------+-------------------------------+
-| smart                    | `Home <../index.html>`__   |  smash case                   |
+| smart                    | `Home <../index.html>`__   |  smash case                   |
 +--------------------------+----------------------------+-------------------------------+
 
 smash case
 
-`Prev <smart-terminal.html>`__ 
+`Prev <smart-terminal.html>`__ 
 
 S
 
- `Next <smash-the-stack.html>`__
+ `Next <smash-the-stack.html>`__
 
 --------------
 
@@ -3271,18 +2982,18 @@ create.” Compare `*fold case* <../F/fold-case.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+------------------------------------+
-| `Prev <smart-terminal.html>`__    | `Up <../S.html>`__         |  `Next <smash-the-stack.html>`__   |
+| `Prev <smart-terminal.html>`__    | `Up <../S.html>`__         |  `Next <smash-the-stack.html>`__   |
 +-----------------------------------+----------------------------+------------------------------------+
-| smart terminal                    | `Home <../index.html>`__   |  smash the stack                   |
+| smart terminal                    | `Home <../index.html>`__   |  smash the stack                   |
 +-----------------------------------+----------------------------+------------------------------------+
 
 smash the stack
 
-`Prev <smash-case.html>`__ 
+`Prev <smash-case.html>`__ 
 
 S
 
- `Next <smiley.html>`__
+ `Next <smiley.html>`__
 
 --------------
 
@@ -3307,18 +3018,18 @@ screw* <../O/overrun-screw.html>`__.
 --------------
 
 +-------------------------------+----------------------------+---------------------------+
-| `Prev <smash-case.html>`__    | `Up <../S.html>`__         |  `Next <smiley.html>`__   |
+| `Prev <smash-case.html>`__    | `Up <../S.html>`__         |  `Next <smiley.html>`__   |
 +-------------------------------+----------------------------+---------------------------+
-| smash case                    | `Home <../index.html>`__   |  smiley                   |
+| smash case                    | `Home <../index.html>`__   |  smiley                   |
 +-------------------------------+----------------------------+---------------------------+
 
 smiley
 
-`Prev <smash-the-stack.html>`__ 
+`Prev <smash-the-stack.html>`__ 
 
 S
 
- `Next <smoke.html>`__
+ `Next <smoke.html>`__
 
 --------------
 
@@ -3329,18 +3040,18 @@ See `*emoticon* <../E/emoticon.html>`__.
 --------------
 
 +------------------------------------+----------------------------+--------------------------+
-| `Prev <smash-the-stack.html>`__    | `Up <../S.html>`__         |  `Next <smoke.html>`__   |
+| `Prev <smash-the-stack.html>`__    | `Up <../S.html>`__         |  `Next <smoke.html>`__   |
 +------------------------------------+----------------------------+--------------------------+
-| smash the stack                    | `Home <../index.html>`__   |  smoke                   |
+| smash the stack                    | `Home <../index.html>`__   |  smoke                   |
 +------------------------------------+----------------------------+--------------------------+
 
 smoke and mirrors
 
-`Prev <smoke.html>`__ 
+`Prev <smoke.html>`__ 
 
 S
 
- `Next <smoke-test.html>`__
+ `Next <smoke-test.html>`__
 
 --------------
 
@@ -3364,18 +3075,18 @@ disheartened. See also `*stealth manager* <stealth-manager.html>`__.
 --------------
 
 +--------------------------+----------------------------+-------------------------------+
-| `Prev <smoke.html>`__    | `Up <../S.html>`__         |  `Next <smoke-test.html>`__   |
+| `Prev <smoke.html>`__    | `Up <../S.html>`__         |  `Next <smoke-test.html>`__   |
 +--------------------------+----------------------------+-------------------------------+
-| smoke                    | `Home <../index.html>`__   |  smoke test                   |
+| smoke                    | `Home <../index.html>`__   |  smoke test                   |
 +--------------------------+----------------------------+-------------------------------+
 
 smoke
 
-`Prev <smiley.html>`__ 
+`Prev <smiley.html>`__ 
 
 S
 
- `Next <smoke-and-mirrors.html>`__
+ `Next <smoke-and-mirrors.html>`__
 
 --------------
 
@@ -3392,18 +3103,18 @@ really smokes.” Compare `*magic smoke* <../M/magic-smoke.html>`__.
 --------------
 
 +---------------------------+----------------------------+--------------------------------------+
-| `Prev <smiley.html>`__    | `Up <../S.html>`__         |  `Next <smoke-and-mirrors.html>`__   |
+| `Prev <smiley.html>`__    | `Up <../S.html>`__         |  `Next <smoke-and-mirrors.html>`__   |
 +---------------------------+----------------------------+--------------------------------------+
-| smiley                    | `Home <../index.html>`__   |  smoke and mirrors                   |
+| smiley                    | `Home <../index.html>`__   |  smoke and mirrors                   |
 +---------------------------+----------------------------+--------------------------------------+
 
 smoke test
 
-`Prev <smoke-and-mirrors.html>`__ 
+`Prev <smoke-and-mirrors.html>`__ 
 
 S
 
- `Next <smoking-clover.html>`__
+ `Next <smoking-clover.html>`__
 
 --------------
 
@@ -3426,18 +3137,18 @@ to check out new dies.
 --------------
 
 +--------------------------------------+----------------------------+-----------------------------------+
-| `Prev <smoke-and-mirrors.html>`__    | `Up <../S.html>`__         |  `Next <smoking-clover.html>`__   |
+| `Prev <smoke-and-mirrors.html>`__    | `Up <../S.html>`__         |  `Next <smoking-clover.html>`__   |
 +--------------------------------------+----------------------------+-----------------------------------+
-| smoke and mirrors                    | `Home <../index.html>`__   |  smoking clover                   |
+| smoke and mirrors                    | `Home <../index.html>`__   |  smoking clover                   |
 +--------------------------------------+----------------------------+-----------------------------------+
 
 smoking clover
 
-`Prev <smoke-test.html>`__ 
+`Prev <smoke-test.html>`__ 
 
 S
 
- `Next <smoot.html>`__
+ `Next <smoot.html>`__
 
 --------------
 
@@ -3456,18 +3167,18 @@ hallucinogenic properties cause it to be banned.
 --------------
 
 +-------------------------------+----------------------------+--------------------------+
-| `Prev <smoke-test.html>`__    | `Up <../S.html>`__         |  `Next <smoot.html>`__   |
+| `Prev <smoke-test.html>`__    | `Up <../S.html>`__         |  `Next <smoot.html>`__   |
 +-------------------------------+----------------------------+--------------------------+
-| smoke test                    | `Home <../index.html>`__   |  smoot                   |
+| smoke test                    | `Home <../index.html>`__   |  smoot                   |
 +-------------------------------+----------------------------+--------------------------+
 
 smoot
 
-`Prev <smoking-clover.html>`__ 
+`Prev <smoking-clover.html>`__ 
 
 S
 
- `Next <SMOP.html>`__
+ `Next <SMOP.html>`__
 
 --------------
 
@@ -3491,18 +3202,18 @@ International Organization for Standardization.
 --------------
 
 +-----------------------------------+----------------------------+-------------------------+
-| `Prev <smoking-clover.html>`__    | `Up <../S.html>`__         |  `Next <SMOP.html>`__   |
+| `Prev <smoking-clover.html>`__    | `Up <../S.html>`__         |  `Next <SMOP.html>`__   |
 +-----------------------------------+----------------------------+-------------------------+
-| smoking clover                    | `Home <../index.html>`__   |  SMOP                   |
+| smoking clover                    | `Home <../index.html>`__   |  SMOP                   |
 +-----------------------------------+----------------------------+-------------------------+
 
 SMOP
 
-`Prev <smoot.html>`__ 
+`Prev <smoot.html>`__ 
 
 S
 
- `Next <smurf.html>`__
+ `Next <smurf.html>`__
 
 --------------
 
@@ -3527,18 +3238,18 @@ detail* <../M/minor-detail.html>`__.
 --------------
 
 +--------------------------+----------------------------+--------------------------+
-| `Prev <smoot.html>`__    | `Up <../S.html>`__         |  `Next <smurf.html>`__   |
+| `Prev <smoot.html>`__    | `Up <../S.html>`__         |  `Next <smurf.html>`__   |
 +--------------------------+----------------------------+--------------------------+
-| smoot                    | `Home <../index.html>`__   |  smurf                   |
+| smoot                    | `Home <../index.html>`__   |  smurf                   |
 +--------------------------+----------------------------+--------------------------+
 
 smurf
 
-`Prev <SMOP.html>`__ 
+`Prev <SMOP.html>`__ 
 
 S
 
- `Next <SNAFU-principle.html>`__
+ `Next <SNAFU-principle.html>`__
 
 --------------
 
@@ -3561,18 +3272,18 @@ of the attacker.
 --------------
 
 +-------------------------+----------------------------+------------------------------------+
-| `Prev <SMOP.html>`__    | `Up <../S.html>`__         |  `Next <SNAFU-principle.html>`__   |
+| `Prev <SMOP.html>`__    | `Up <../S.html>`__         |  `Next <SNAFU-principle.html>`__   |
 +-------------------------+----------------------------+------------------------------------+
-| SMOP                    | `Home <../index.html>`__   |  SNAFU principle                   |
+| SMOP                    | `Home <../index.html>`__   |  SNAFU principle                   |
 +-------------------------+----------------------------+------------------------------------+
 
 SNAFU principle
 
-`Prev <smurf.html>`__ 
+`Prev <smurf.html>`__ 
 
 S
 
- `Next <snail.html>`__
+ `Next <snail.html>`__
 
 --------------
 
@@ -3590,52 +3301,52 @@ version of a fable dating back to the early 1960s illustrates the
 phenomenon perfectly:
 
 | 
-|  In the beginning was the plan,
-|         and then the specification;
-|  And the plan was without form,
-|         and the specification was void.
+|  In the beginning was the plan,
+|         and then the specification;
+|  And the plan was without form,
+|         and the specification was void.
 | 
-|  And darkness
-|         was on the faces of the implementors thereof;
-|  And they spake unto their leader,
-|         saying:
-|  “It is a crock of shit,
-|         and smells as of a sewer.”
+|  And darkness
+|         was on the faces of the implementors thereof;
+|  And they spake unto their leader,
+|         saying:
+|  “It is a crock of shit,
+|         and smells as of a sewer.”
 | 
-|  And the leader took pity on them,
-|         and spoke to the project leader:
-|  “It is a crock of excrement,
-|         and none may abide the odor thereof.”
+|  And the leader took pity on them,
+|         and spoke to the project leader:
+|  “It is a crock of excrement,
+|         and none may abide the odor thereof.”
 | 
-|  And the project leader
-|         spake unto his section head, saying:
-|  “It is a container of excrement,
-|         and it is very strong, such that none may abide it.”
+|  And the project leader
+|         spake unto his section head, saying:
+|  “It is a container of excrement,
+|         and it is very strong, such that none may abide it.”
 | 
-|  The section head then hurried to his department manager,
-|         and informed him thus:
-|  “It is a vessel of fertilizer,
-|         and none may abide its strength.”
+|  The section head then hurried to his department manager,
+|         and informed him thus:
+|  “It is a vessel of fertilizer,
+|         and none may abide its strength.”
 | 
-|  The department manager carried these words
-|        to his general manager,
-|  and spoke unto him
-|        saying:
-|  “It containeth that which aideth the growth of plants,
-|        and it is very strong.”
+|  The department manager carried these words
+|        to his general manager,
+|  and spoke unto him
+|        saying:
+|  “It containeth that which aideth the growth of plants,
+|        and it is very strong.”
 | 
-|  And so it was that the general manager rejoiced
-|        and delivered the good news unto the Vice President.
-|  “It promoteth growth,
-|        and it is very powerful.”
+|  And so it was that the general manager rejoiced
+|        and delivered the good news unto the Vice President.
+|  “It promoteth growth,
+|        and it is very powerful.”
 | 
-|  The Vice President rushed to the President's side,
-|        and joyously exclaimed:
-|  “This powerful new software product
-|        will promote the growth of the company!”
+|  The Vice President rushed to the President's side,
+|        and joyously exclaimed:
+|  “This powerful new software product
+|        will promote the growth of the company!”
 | 
-|  And the President looked upon the product,
-|        and saw that it was very good.
+|  And the President looked upon the product,
+|        and saw that it was very good.
 
 After the subsequent and inevitable disaster, the
 `*suit* <suit.html>`__\ s protect themselves by saying “I was
@@ -3645,18 +3356,18 @@ misinformed!”, and the implementors are demoted or fired. Compare
 --------------
 
 +--------------------------+----------------------------+--------------------------+
-| `Prev <smurf.html>`__    | `Up <../S.html>`__         |  `Next <snail.html>`__   |
+| `Prev <smurf.html>`__    | `Up <../S.html>`__         |  `Next <snail.html>`__   |
 +--------------------------+----------------------------+--------------------------+
-| smurf                    | `Home <../index.html>`__   |  snail                   |
+| smurf                    | `Home <../index.html>`__   |  snail                   |
 +--------------------------+----------------------------+--------------------------+
 
 snail
 
-`Prev <SNAFU-principle.html>`__ 
+`Prev <SNAFU-principle.html>`__ 
 
 S
 
- `Next <snail-mail.html>`__
+ `Next <snail-mail.html>`__
 
 --------------
 
@@ -3668,18 +3379,18 @@ those graphics, will you?”
 --------------
 
 +------------------------------------+----------------------------+-------------------------------+
-| `Prev <SNAFU-principle.html>`__    | `Up <../S.html>`__         |  `Next <snail-mail.html>`__   |
+| `Prev <SNAFU-principle.html>`__    | `Up <../S.html>`__         |  `Next <snail-mail.html>`__   |
 +------------------------------------+----------------------------+-------------------------------+
-| SNAFU principle                    | `Home <../index.html>`__   |  snail-mail                   |
+| SNAFU principle                    | `Home <../index.html>`__   |  snail-mail                   |
 +------------------------------------+----------------------------+-------------------------------+
 
 snail-mail
 
-`Prev <snail.html>`__ 
+`Prev <snail.html>`__ 
 
 S
 
- `Next <snap.html>`__
+ `Next <snap.html>`__
 
 --------------
 
@@ -3703,18 +3414,18 @@ for details.)
 --------------
 
 +--------------------------+----------------------------+-------------------------+
-| `Prev <snail.html>`__    | `Up <../S.html>`__         |  `Next <snap.html>`__   |
+| `Prev <snail.html>`__    | `Up <../S.html>`__         |  `Next <snap.html>`__   |
 +--------------------------+----------------------------+-------------------------+
-| snail                    | `Home <../index.html>`__   |  snap                   |
+| snail                    | `Home <../index.html>`__   |  snap                   |
 +--------------------------+----------------------------+-------------------------+
 
 snap
 
-`Prev <snail-mail.html>`__ 
+`Prev <snail-mail.html>`__ 
 
 S
 
- `Next <snarf.html>`__
+ `Next <snarf.html>`__
 
 --------------
 
@@ -3743,18 +3454,18 @@ instruction with no further overhead.
 --------------
 
 +-------------------------------+----------------------------+--------------------------+
-| `Prev <snail-mail.html>`__    | `Up <../S.html>`__         |  `Next <snarf.html>`__   |
+| `Prev <snail-mail.html>`__    | `Up <../S.html>`__         |  `Next <snarf.html>`__   |
 +-------------------------------+----------------------------+--------------------------+
-| snail-mail                    | `Home <../index.html>`__   |  snarf                   |
+| snail-mail                    | `Home <../index.html>`__   |  snarf                   |
 +-------------------------------+----------------------------+--------------------------+
 
 snarf & barf
 
-`Prev <snarf.html>`__ 
+`Prev <snarf.html>`__ 
 
 S
 
- `Next <snarf-down.html>`__
+ `Next <snarf-down.html>`__
 
 --------------
 
@@ -3769,18 +3480,18 @@ regret it later’ cheap-restaurant expedition.
 --------------
 
 +--------------------------+----------------------------+-------------------------------+
-| `Prev <snarf.html>`__    | `Up <../S.html>`__         |  `Next <snarf-down.html>`__   |
+| `Prev <snarf.html>`__    | `Up <../S.html>`__         |  `Next <snarf-down.html>`__   |
 +--------------------------+----------------------------+-------------------------------+
-| snarf                    | `Home <../index.html>`__   |  snarf down                   |
+| snarf                    | `Home <../index.html>`__   |  snarf down                   |
 +--------------------------+----------------------------+-------------------------------+
 
 snarf down
 
-`Prev <snarf-ampersand-barf.html>`__ 
+`Prev <snarf-ampersand-barf.html>`__ 
 
 S
 
- `Next <snark.html>`__
+ `Next <snark.html>`__
 
 --------------
 
@@ -3794,18 +3505,18 @@ I played last and I don't know what's changed recently.”
 --------------
 
 +-----------------------------------------+----------------------------+--------------------------+
-| `Prev <snarf-ampersand-barf.html>`__    | `Up <../S.html>`__         |  `Next <snark.html>`__   |
+| `Prev <snarf-ampersand-barf.html>`__    | `Up <../S.html>`__         |  `Next <snark.html>`__   |
 +-----------------------------------------+----------------------------+--------------------------+
-| snarf & barf                            | `Home <../index.html>`__   |  snark                   |
+| snarf & barf                            | `Home <../index.html>`__   |  snark                   |
 +-----------------------------------------+----------------------------+--------------------------+
 
 snarf
 
-`Prev <snap.html>`__ 
+`Prev <snap.html>`__ 
 
 S
 
- `Next <snarf-ampersand-barf.html>`__
+ `Next <snarf-ampersand-barf.html>`__
 
 --------------
 
@@ -3840,18 +3551,18 @@ among mundane teenagers —ESR] The sound of snarfing is
 --------------
 
 +-------------------------+----------------------------+-----------------------------------------+
-| `Prev <snap.html>`__    | `Up <../S.html>`__         |  `Next <snarf-ampersand-barf.html>`__   |
+| `Prev <snap.html>`__    | `Up <../S.html>`__         |  `Next <snarf-ampersand-barf.html>`__   |
 +-------------------------+----------------------------+-----------------------------------------+
-| snap                    | `Home <../index.html>`__   |  snarf & barf                           |
+| snap                    | `Home <../index.html>`__   |  snarf & barf                           |
 +-------------------------+----------------------------+-----------------------------------------+
 
 snark
 
-`Prev <snarf-down.html>`__ 
+`Prev <snarf-down.html>`__ 
 
 S
 
- `Next <sneaker.html>`__
+ `Next <sneaker.html>`__
 
 --------------
 
@@ -3873,18 +3584,18 @@ versions from 2.\*.\* on (i.e., this lexicon).
 --------------
 
 +-------------------------------+----------------------------+----------------------------+
-| `Prev <snarf-down.html>`__    | `Up <../S.html>`__         |  `Next <sneaker.html>`__   |
+| `Prev <snarf-down.html>`__    | `Up <../S.html>`__         |  `Next <sneaker.html>`__   |
 +-------------------------------+----------------------------+----------------------------+
-| snarf down                    | `Home <../index.html>`__   |  sneaker                   |
+| snarf down                    | `Home <../index.html>`__   |  sneaker                   |
 +-------------------------------+----------------------------+----------------------------+
 
 sneaker
 
-`Prev <snark.html>`__ 
+`Prev <snark.html>`__ 
 
 S
 
- `Next <sneakernet.html>`__
+ `Next <sneakernet.html>`__
 
 --------------
 
@@ -3897,18 +3608,18 @@ security; analogous to `*tiger team* <../T/tiger-team.html>`__. Compare
 --------------
 
 +--------------------------+----------------------------+-------------------------------+
-| `Prev <snark.html>`__    | `Up <../S.html>`__         |  `Next <sneakernet.html>`__   |
+| `Prev <snark.html>`__    | `Up <../S.html>`__         |  `Next <sneakernet.html>`__   |
 +--------------------------+----------------------------+-------------------------------+
-| snark                    | `Home <../index.html>`__   |  sneakernet                   |
+| snark                    | `Home <../index.html>`__   |  sneakernet                   |
 +--------------------------+----------------------------+-------------------------------+
 
 sneakernet
 
-`Prev <sneaker.html>`__ 
+`Prev <sneaker.html>`__ 
 
 S
 
- `Next <sniff.html>`__
+ `Next <sniff.html>`__
 
 --------------
 
@@ -3924,18 +3635,18 @@ wagon filled with magtape, or a 747 filled with CD-ROMs.” Also called
 --------------
 
 +----------------------------+----------------------------+--------------------------+
-| `Prev <sneaker.html>`__    | `Up <../S.html>`__         |  `Next <sniff.html>`__   |
+| `Prev <sneaker.html>`__    | `Up <../S.html>`__         |  `Next <sniff.html>`__   |
 +----------------------------+----------------------------+--------------------------+
-| sneaker                    | `Home <../index.html>`__   |  sniff                   |
+| sneaker                    | `Home <../index.html>`__   |  sniff                   |
 +----------------------------+----------------------------+--------------------------+
 
 sniff
 
-`Prev <sneakernet.html>`__ 
+`Prev <sneakernet.html>`__ 
 
 S
 
- `Next <snippage.html>`__
+ `Next <snippage.html>`__
 
 --------------
 
@@ -3948,18 +3659,18 @@ packet sniffer, a program for doing same. 2. Synonym for
 --------------
 
 +-------------------------------+----------------------------+-----------------------------+
-| `Prev <sneakernet.html>`__    | `Up <../S.html>`__         |  `Next <snippage.html>`__   |
+| `Prev <sneakernet.html>`__    | `Up <../S.html>`__         |  `Next <snippage.html>`__   |
 +-------------------------------+----------------------------+-----------------------------+
-| sneakernet                    | `Home <../index.html>`__   |  snippage                   |
+| sneakernet                    | `Home <../index.html>`__   |  snippage                   |
 +-------------------------------+----------------------------+-----------------------------+
 
 snippage
 
-`Prev <sniff.html>`__ 
+`Prev <sniff.html>`__ 
 
 S
 
- `Next <SO.html>`__
+ `Next <SO.html>`__
 
 --------------
 
@@ -3972,18 +3683,18 @@ has been snipped when quoting is often indicated with the pseudo-HTML
 --------------
 
 +--------------------------+----------------------------+-----------------------+
-| `Prev <sniff.html>`__    | `Up <../S.html>`__         |  `Next <SO.html>`__   |
+| `Prev <sniff.html>`__    | `Up <../S.html>`__         |  `Next <SO.html>`__   |
 +--------------------------+----------------------------+-----------------------+
-| sniff                    | `Home <../index.html>`__   |  SO                   |
+| sniff                    | `Home <../index.html>`__   |  SO                   |
 +--------------------------+----------------------------+-----------------------+
 
 S/N ratio
 
-`Prev <../S.html>`__ 
+`Prev <../S.html>`__ 
 
 S
 
- `Next <sacred.html>`__
+ `Next <sacred.html>`__
 
 --------------
 
@@ -3995,18 +3706,18 @@ ratio* <signal-to-noise-ratio.html>`__. Often abbreviated SNR.
 --------------
 
 +-------------------------+----------------------------+---------------------------+
-| `Prev <../S.html>`__    | `Up <../S.html>`__         |  `Next <sacred.html>`__   |
+| `Prev <../S.html>`__    | `Up <../S.html>`__         |  `Next <sacred.html>`__   |
 +-------------------------+----------------------------+---------------------------+
-| S                       | `Home <../index.html>`__   |  sacred                   |
+| S                       | `Home <../index.html>`__   |  sacred                   |
 +-------------------------+----------------------------+---------------------------+
 
 social engineering
 
-`Prev <SO.html>`__ 
+`Prev <SO.html>`__ 
 
 S
 
- `Next <social-science-number.html>`__
+ `Next <social-science-number.html>`__
 
 --------------
 
@@ -4026,18 +3737,18 @@ cryptanalysis* <../R/rubber-hose-cryptanalysis.html>`__.
 --------------
 
 +-----------------------+----------------------------+------------------------------------------+
-| `Prev <SO.html>`__    | `Up <../S.html>`__         |  `Next <social-science-number.html>`__   |
+| `Prev <SO.html>`__    | `Up <../S.html>`__         |  `Next <social-science-number.html>`__   |
 +-----------------------+----------------------------+------------------------------------------+
-| SO                    | `Home <../index.html>`__   |  social science number                   |
+| SO                    | `Home <../index.html>`__   |  social science number                   |
 +-----------------------+----------------------------+------------------------------------------+
 
 social science number
 
-`Prev <social-engineering.html>`__ 
+`Prev <social-engineering.html>`__ 
 
 S
 
- `Next <sock-puppet.html>`__
+ `Next <sock-puppet.html>`__
 
 --------------
 
@@ -4055,18 +3766,18 @@ pictures* <../P/pretty-pictures.html>`__.
 --------------
 
 +---------------------------------------+----------------------------+--------------------------------+
-| `Prev <social-engineering.html>`__    | `Up <../S.html>`__         |  `Next <sock-puppet.html>`__   |
+| `Prev <social-engineering.html>`__    | `Up <../S.html>`__         |  `Next <sock-puppet.html>`__   |
 +---------------------------------------+----------------------------+--------------------------------+
-| social engineering                    | `Home <../index.html>`__   |  sock puppet                   |
+| social engineering                    | `Home <../index.html>`__   |  sock puppet                   |
 +---------------------------------------+----------------------------+--------------------------------+
 
 sock puppet
 
-`Prev <social-science-number.html>`__ 
+`Prev <social-science-number.html>`__ 
 
 S
 
- `Next <sodium-substrate.html>`__
+ `Next <sodium-substrate.html>`__
 
 --------------
 
@@ -4083,18 +3794,18 @@ also `*astroturfing* <../A/astroturfing.html>`__,
 --------------
 
 +------------------------------------------+----------------------------+-------------------------------------+
-| `Prev <social-science-number.html>`__    | `Up <../S.html>`__         |  `Next <sodium-substrate.html>`__   |
+| `Prev <social-science-number.html>`__    | `Up <../S.html>`__         |  `Next <sodium-substrate.html>`__   |
 +------------------------------------------+----------------------------+-------------------------------------+
-| social science number                    | `Home <../index.html>`__   |  sodium substrate                   |
+| social science number                    | `Home <../index.html>`__   |  sodium substrate                   |
 +------------------------------------------+----------------------------+-------------------------------------+
 
 sodium substrate
 
-`Prev <sock-puppet.html>`__ 
+`Prev <sock-puppet.html>`__ 
 
 S
 
- `Next <soft-boot.html>`__
+ `Next <soft-boot.html>`__
 
 --------------
 
@@ -4105,18 +3816,18 @@ Syn `*salt substrate* <salt-substrate.html>`__.
 --------------
 
 +--------------------------------+----------------------------+------------------------------+
-| `Prev <sock-puppet.html>`__    | `Up <../S.html>`__         |  `Next <soft-boot.html>`__   |
+| `Prev <sock-puppet.html>`__    | `Up <../S.html>`__         |  `Next <soft-boot.html>`__   |
 +--------------------------------+----------------------------+------------------------------+
-| sock puppet                    | `Home <../index.html>`__   |  soft boot                   |
+| sock puppet                    | `Home <../index.html>`__   |  soft boot                   |
 +--------------------------------+----------------------------+------------------------------+
 
 soft boot
 
-`Prev <sodium-substrate.html>`__ 
+`Prev <sodium-substrate.html>`__ 
 
 S
 
- `Next <softcopy.html>`__
+ `Next <softcopy.html>`__
 
 --------------
 
@@ -4127,18 +3838,18 @@ See `*boot* <../B/boot.html>`__.
 --------------
 
 +-------------------------------------+----------------------------+-----------------------------+
-| `Prev <sodium-substrate.html>`__    | `Up <../S.html>`__         |  `Next <softcopy.html>`__   |
+| `Prev <sodium-substrate.html>`__    | `Up <../S.html>`__         |  `Next <softcopy.html>`__   |
 +-------------------------------------+----------------------------+-----------------------------+
-| sodium substrate                    | `Home <../index.html>`__   |  softcopy                   |
+| sodium substrate                    | `Home <../index.html>`__   |  softcopy                   |
 +-------------------------------------+----------------------------+-----------------------------+
 
 softcopy
 
-`Prev <soft-boot.html>`__ 
+`Prev <soft-boot.html>`__ 
 
 S
 
- `Next <software-bloat.html>`__
+ `Next <software-bloat.html>`__
 
 --------------
 
@@ -4150,18 +3861,18 @@ hardcopy. See `*bits* <../B/bits.html>`__.
 --------------
 
 +------------------------------+----------------------------+-----------------------------------+
-| `Prev <soft-boot.html>`__    | `Up <../S.html>`__         |  `Next <software-bloat.html>`__   |
+| `Prev <soft-boot.html>`__    | `Up <../S.html>`__         |  `Next <software-bloat.html>`__   |
 +------------------------------+----------------------------+-----------------------------------+
-| soft boot                    | `Home <../index.html>`__   |  software bloat                   |
+| soft boot                    | `Home <../index.html>`__   |  software bloat                   |
 +------------------------------+----------------------------+-----------------------------------+
 
 software bloat
 
-`Prev <softcopy.html>`__ 
+`Prev <softcopy.html>`__ 
 
 S
 
- `Next <software-hoarding.html>`__
+ `Next <software-hoarding.html>`__
 
 --------------
 
@@ -4175,18 +3886,18 @@ cited examples include ls(1), `*X* <../X/X.html>`__,
 --------------
 
 +-----------------------------+----------------------------+--------------------------------------+
-| `Prev <softcopy.html>`__    | `Up <../S.html>`__         |  `Next <software-hoarding.html>`__   |
+| `Prev <softcopy.html>`__    | `Up <../S.html>`__         |  `Next <software-hoarding.html>`__   |
 +-----------------------------+----------------------------+--------------------------------------+
-| softcopy                    | `Home <../index.html>`__   |  software hoarding                   |
+| softcopy                    | `Home <../index.html>`__   |  software hoarding                   |
 +-----------------------------+----------------------------+--------------------------------------+
 
 software hoarding
 
-`Prev <software-bloat.html>`__ 
+`Prev <software-bloat.html>`__ 
 
 S
 
- `Next <software-laser.html>`__
+ `Next <software-laser.html>`__
 
 --------------
 
@@ -4203,18 +3914,18 @@ software* <../F/free-software.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+-----------------------------------+
-| `Prev <software-bloat.html>`__    | `Up <../S.html>`__         |  `Next <software-laser.html>`__   |
+| `Prev <software-bloat.html>`__    | `Up <../S.html>`__         |  `Next <software-laser.html>`__   |
 +-----------------------------------+----------------------------+-----------------------------------+
-| software bloat                    | `Home <../index.html>`__   |  software laser                   |
+| software bloat                    | `Home <../index.html>`__   |  software laser                   |
 +-----------------------------------+----------------------------+-----------------------------------+
 
 software laser
 
-`Prev <software-hoarding.html>`__ 
+`Prev <software-hoarding.html>`__ 
 
 S
 
- `Next <software-rot.html>`__
+ `Next <software-rot.html>`__
 
 --------------
 
@@ -4235,18 +3946,18 @@ publicized incidents of this kind.
 --------------
 
 +--------------------------------------+----------------------------+---------------------------------+
-| `Prev <software-hoarding.html>`__    | `Up <../S.html>`__         |  `Next <software-rot.html>`__   |
+| `Prev <software-hoarding.html>`__    | `Up <../S.html>`__         |  `Next <software-rot.html>`__   |
 +--------------------------------------+----------------------------+---------------------------------+
-| software hoarding                    | `Home <../index.html>`__   |  software rot                   |
+| software hoarding                    | `Home <../index.html>`__   |  software rot                   |
 +--------------------------------------+----------------------------+---------------------------------+
 
 software rot
 
-`Prev <software-laser.html>`__ 
+`Prev <software-laser.html>`__ 
 
 S
 
- `Next <softwarily.html>`__
+ `Next <softwarily.html>`__
 
 --------------
 
@@ -4293,18 +4004,18 @@ Compare `*bit rot* <../B/bit-rot.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+-------------------------------+
-| `Prev <software-laser.html>`__    | `Up <../S.html>`__         |  `Next <softwarily.html>`__   |
+| `Prev <software-laser.html>`__    | `Up <../S.html>`__         |  `Next <softwarily.html>`__   |
 +-----------------------------------+----------------------------+-------------------------------+
-| software laser                    | `Home <../index.html>`__   |  softwarily                   |
+| software laser                    | `Home <../index.html>`__   |  softwarily                   |
 +-----------------------------------+----------------------------+-------------------------------+
 
 softwarily
 
-`Prev <software-rot.html>`__ 
+`Prev <software-rot.html>`__ 
 
 S
 
- `Next <softy.html>`__
+ `Next <softy.html>`__
 
 --------------
 
@@ -4317,18 +4028,18 @@ The adjective \*\*‘softwary’ is *not* used. See
 --------------
 
 +---------------------------------+----------------------------+--------------------------+
-| `Prev <software-rot.html>`__    | `Up <../S.html>`__         |  `Next <softy.html>`__   |
+| `Prev <software-rot.html>`__    | `Up <../S.html>`__         |  `Next <softy.html>`__   |
 +---------------------------------+----------------------------+--------------------------+
-| software rot                    | `Home <../index.html>`__   |  softy                   |
+| software rot                    | `Home <../index.html>`__   |  softy                   |
 +---------------------------------+----------------------------+--------------------------+
 
 softy
 
-`Prev <softwarily.html>`__ 
+`Prev <softwarily.html>`__ 
 
 S
 
- `Next <some-random-X.html>`__
+ `Next <some-random-X.html>`__
 
 --------------
 
@@ -4340,18 +4051,18 @@ ignorant of the mysteries of hardware.
 --------------
 
 +-------------------------------+----------------------------+----------------------------------+
-| `Prev <softwarily.html>`__    | `Up <../S.html>`__         |  `Next <some-random-X.html>`__   |
+| `Prev <softwarily.html>`__    | `Up <../S.html>`__         |  `Next <some-random-X.html>`__   |
 +-------------------------------+----------------------------+----------------------------------+
-| softwarily                    | `Home <../index.html>`__   |  some random X                   |
+| softwarily                    | `Home <../index.html>`__   |  some random X                   |
 +-------------------------------+----------------------------+----------------------------------+
 
 SO
 
-`Prev <snippage.html>`__ 
+`Prev <snippage.html>`__ 
 
 S
 
- `Next <social-engineering.html>`__
+ `Next <social-engineering.html>`__
 
 --------------
 
@@ -4369,18 +4080,18 @@ primary relationship, esp. a live-in to whom one is not married. See
 --------------
 
 +-----------------------------+----------------------------+---------------------------------------+
-| `Prev <snippage.html>`__    | `Up <../S.html>`__         |  `Next <social-engineering.html>`__   |
+| `Prev <snippage.html>`__    | `Up <../S.html>`__         |  `Next <social-engineering.html>`__   |
 +-----------------------------+----------------------------+---------------------------------------+
-| snippage                    | `Home <../index.html>`__   |  social engineering                   |
+| snippage                    | `Home <../index.html>`__   |  social engineering                   |
 +-----------------------------+----------------------------+---------------------------------------+
 
 some random X
 
-`Prev <softy.html>`__ 
+`Prev <softy.html>`__ 
 
 S
 
- `Next <sorcerers-apprentice-mode.html>`__
+ `Next <sorcerers-apprentice-mode.html>`__
 
 --------------
 
@@ -4393,18 +4104,18 @@ timeout last night.” See also `*J. Random* <../J/J--Random.html>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------------------------+
-| `Prev <softy.html>`__    | `Up <../S.html>`__         |  `Next <sorcerers-apprentice-mode.html>`__   |
+| `Prev <softy.html>`__    | `Up <../S.html>`__         |  `Next <sorcerers-apprentice-mode.html>`__   |
 +--------------------------+----------------------------+----------------------------------------------+
-| softy                    | `Home <../index.html>`__   |  sorcerer's apprentice mode                  |
+| softy                    | `Home <../index.html>`__   |  sorcerer's apprentice mode                  |
 +--------------------------+----------------------------+----------------------------------------------+
 
 sorcerer's apprentice mode
 
-`Prev <some-random-X.html>`__ 
+`Prev <some-random-X.html>`__ 
 
 S
 
- `Next <source.html>`__
+ `Next <source.html>`__
 
 --------------
 
@@ -4423,18 +4134,18 @@ laser* <software-laser.html>`__, `*ARMM* <../A/ARMM.html>`__.
 --------------
 
 +----------------------------------+----------------------------+---------------------------+
-| `Prev <some-random-X.html>`__    | `Up <../S.html>`__         |  `Next <source.html>`__   |
+| `Prev <some-random-X.html>`__    | `Up <../S.html>`__         |  `Next <source.html>`__   |
 +----------------------------------+----------------------------+---------------------------+
-| some random X                    | `Home <../index.html>`__   |  source                   |
+| some random X                    | `Home <../index.html>`__   |  source                   |
 +----------------------------------+----------------------------+---------------------------+
 
 source
 
-`Prev <sorcerers-apprentice-mode.html>`__ 
+`Prev <sorcerers-apprentice-mode.html>`__ 
 
 S
 
- `Next <source-of-all-good-bits.html>`__
+ `Next <source-of-all-good-bits.html>`__
 
 --------------
 
@@ -4450,18 +4161,18 @@ derivative forms; one may speak of “the sources of a system” or of
 --------------
 
 +----------------------------------------------+----------------------------+--------------------------------------------+
-| `Prev <sorcerers-apprentice-mode.html>`__    | `Up <../S.html>`__         |  `Next <source-of-all-good-bits.html>`__   |
+| `Prev <sorcerers-apprentice-mode.html>`__    | `Up <../S.html>`__         |  `Next <source-of-all-good-bits.html>`__   |
 +----------------------------------------------+----------------------------+--------------------------------------------+
-| sorcerer's apprentice mode                   | `Home <../index.html>`__   |  source of all good bits                   |
+| sorcerer's apprentice mode                   | `Home <../index.html>`__   |  source of all good bits                   |
 +----------------------------------------------+----------------------------+--------------------------------------------+
 
 source of all good bits
 
-`Prev <source.html>`__ 
+`Prev <source.html>`__ 
 
 S
 
- `Next <space-cadet-keyboard.html>`__
+ `Next <space-cadet-keyboard.html>`__
 
 --------------
 
@@ -4475,18 +4186,18 @@ title is often applied to a particularly competent secretary.
 --------------
 
 +---------------------------+----------------------------+-----------------------------------------+
-| `Prev <source.html>`__    | `Up <../S.html>`__         |  `Next <space-cadet-keyboard.html>`__   |
+| `Prev <source.html>`__    | `Up <../S.html>`__         |  `Next <space-cadet-keyboard.html>`__   |
 +---------------------------+----------------------------+-----------------------------------------+
-| source                    | `Home <../index.html>`__   |  space-cadet keyboard                   |
+| source                    | `Home <../index.html>`__   |  space-cadet keyboard                   |
 +---------------------------+----------------------------+-----------------------------------------+
 
 space-cadet keyboard
 
-`Prev <source-of-all-good-bits.html>`__ 
+`Prev <source-of-all-good-bits.html>`__ 
 
 S
 
- `Next <spaceship-operator.html>`__
+ `Next <spaceship-operator.html>`__
 
 --------------
 
@@ -4561,20 +4272,20 @@ An early `*space-cadet keyboard* <space-cadet-keyboard.html>`__
 --------------
 
 +--------------------------------------------+----------------------------+---------------------------------------+
-| `Prev <source-of-all-good-bits.html>`__    | `Up <../S.html>`__         |  `Next <spaceship-operator.html>`__   |
+| `Prev <source-of-all-good-bits.html>`__    | `Up <../S.html>`__         |  `Next <spaceship-operator.html>`__   |
 +--------------------------------------------+----------------------------+---------------------------------------+
-| source of all good bits                    | `Home <../index.html>`__   |  spaceship operator                   |
+| source of all good bits                    | `Home <../index.html>`__   |  spaceship operator                   |
 +--------------------------------------------+----------------------------+---------------------------------------+
 
 .. |image0| image:: ../graphics/symbolics-keyboard.jpg
 .. |image1| image:: ../graphics/73-05-19.png
 spaceship operator
 
-`Prev <space-cadet-keyboard.html>`__ 
+`Prev <space-cadet-keyboard.html>`__ 
 
 S
 
- `Next <SPACEWAR.html>`__
+ `Next <SPACEWAR.html>`__
 
 --------------
 
@@ -4588,18 +4299,18 @@ signum-of-difference operation.
 --------------
 
 +-----------------------------------------+----------------------------+-----------------------------+
-| `Prev <space-cadet-keyboard.html>`__    | `Up <../S.html>`__         |  `Next <SPACEWAR.html>`__   |
+| `Prev <space-cadet-keyboard.html>`__    | `Up <../S.html>`__         |  `Next <SPACEWAR.html>`__   |
 +-----------------------------------------+----------------------------+-----------------------------+
-| space-cadet keyboard                    | `Home <../index.html>`__   |  SPACEWAR                   |
+| space-cadet keyboard                    | `Home <../index.html>`__   |  SPACEWAR                   |
 +-----------------------------------------+----------------------------+-----------------------------+
 
 SPACEWAR
 
-`Prev <spaceship-operator.html>`__ 
+`Prev <spaceship-operator.html>`__ 
 
 S
 
- `Next <spaghetti-code.html>`__
+ `Next <spaghetti-code.html>`__
 
 --------------
 
@@ -4618,18 +4329,18 @@ still `*feep* <../F/feep.html>`__\ ing in video arcades everywhere.
 --------------
 
 +---------------------------------------+----------------------------+-----------------------------------+
-| `Prev <spaceship-operator.html>`__    | `Up <../S.html>`__         |  `Next <spaghetti-code.html>`__   |
+| `Prev <spaceship-operator.html>`__    | `Up <../S.html>`__         |  `Next <spaghetti-code.html>`__   |
 +---------------------------------------+----------------------------+-----------------------------------+
-| spaceship operator                    | `Home <../index.html>`__   |  spaghetti code                   |
+| spaceship operator                    | `Home <../index.html>`__   |  spaghetti code                   |
 +---------------------------------------+----------------------------+-----------------------------------+
 
 spaghetti code
 
-`Prev <SPACEWAR.html>`__ 
+`Prev <SPACEWAR.html>`__ 
 
 S
 
- `Next <spaghetti-inheritance.html>`__
+ `Next <spaghetti-inheritance.html>`__
 
 --------------
 
@@ -4643,18 +4354,18 @@ because such code has so many jumps in it.
 --------------
 
 +-----------------------------+----------------------------+------------------------------------------+
-| `Prev <SPACEWAR.html>`__    | `Up <../S.html>`__         |  `Next <spaghetti-inheritance.html>`__   |
+| `Prev <SPACEWAR.html>`__    | `Up <../S.html>`__         |  `Next <spaghetti-inheritance.html>`__   |
 +-----------------------------+----------------------------+------------------------------------------+
-| SPACEWAR                    | `Home <../index.html>`__   |  spaghetti inheritance                   |
+| SPACEWAR                    | `Home <../index.html>`__   |  spaghetti inheritance                   |
 +-----------------------------+----------------------------+------------------------------------------+
 
 spaghetti inheritance
 
-`Prev <spaghetti-code.html>`__ 
+`Prev <spaghetti-code.html>`__ 
 
 S
 
- `Next <spam.html>`__
+ `Next <spam.html>`__
 
 --------------
 
@@ -4670,18 +4381,18 @@ code* <spaghetti-code.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+-------------------------+
-| `Prev <spaghetti-code.html>`__    | `Up <../S.html>`__         |  `Next <spam.html>`__   |
+| `Prev <spaghetti-code.html>`__    | `Up <../S.html>`__         |  `Next <spam.html>`__   |
 +-----------------------------------+----------------------------+-------------------------+
-| spaghetti code                    | `Home <../index.html>`__   |  spam                   |
+| spaghetti code                    | `Home <../index.html>`__   |  spam                   |
 +-----------------------------------+----------------------------+-------------------------+
 
 spam bait
 
-`Prev <spam.html>`__ 
+`Prev <spam.html>`__ 
 
 S
 
- `Next <spamblock.html>`__
+ `Next <spamblock.html>`__
 
 --------------
 
@@ -4698,18 +4409,18 @@ address of a `*teergrube* <../T/teergrube.html>`__.
 --------------
 
 +-------------------------+----------------------------+------------------------------+
-| `Prev <spam.html>`__    | `Up <../S.html>`__         |  `Next <spamblock.html>`__   |
+| `Prev <spam.html>`__    | `Up <../S.html>`__         |  `Next <spamblock.html>`__   |
 +-------------------------+----------------------------+------------------------------+
-| spam                    | `Home <../index.html>`__   |  spamblock                   |
+| spam                    | `Home <../index.html>`__   |  spamblock                   |
 +-------------------------+----------------------------+------------------------------+
 
 spamblock
 
-`Prev <spam-bait.html>`__ 
+`Prev <spam-bait.html>`__ 
 
 S
 
- `Next <spamhaus.html>`__
+ `Next <spamhaus.html>`__
 
 --------------
 
@@ -4737,18 +4448,18 @@ interest spammers.
 --------------
 
 +------------------------------+----------------------------+-----------------------------+
-| `Prev <spam-bait.html>`__    | `Up <../S.html>`__         |  `Next <spamhaus.html>`__   |
+| `Prev <spam-bait.html>`__    | `Up <../S.html>`__         |  `Next <spamhaus.html>`__   |
 +------------------------------+----------------------------+-----------------------------+
-| spam bait                    | `Home <../index.html>`__   |  spamhaus                   |
+| spam bait                    | `Home <../index.html>`__   |  spamhaus                   |
 +------------------------------+----------------------------+-----------------------------+
 
 spamhaus
 
-`Prev <spamblock.html>`__ 
+`Prev <spamblock.html>`__ 
 
 S
 
- `Next <spamvertize.html>`__
+ `Next <spamvertize.html>`__
 
 --------------
 
@@ -4773,18 +4484,18 @@ account for most of the flow.
 --------------
 
 +------------------------------+----------------------------+--------------------------------+
-| `Prev <spamblock.html>`__    | `Up <../S.html>`__         |  `Next <spamvertize.html>`__   |
+| `Prev <spamblock.html>`__    | `Up <../S.html>`__         |  `Next <spamvertize.html>`__   |
 +------------------------------+----------------------------+--------------------------------+
-| spamblock                    | `Home <../index.html>`__   |  spamvertize                   |
+| spamblock                    | `Home <../index.html>`__   |  spamvertize                   |
 +------------------------------+----------------------------+--------------------------------+
 
 spam
 
-`Prev <spaghetti-inheritance.html>`__ 
+`Prev <spaghetti-inheritance.html>`__ 
 
 S
 
- `Next <spam-bait.html>`__
+ `Next <spam-bait.html>`__
 
 --------------
 
@@ -4843,18 +4554,18 @@ statement <http://www.spam.com/ci/ci_in.htm>`__ on the Internet usage.
 --------------
 
 +------------------------------------------+----------------------------+------------------------------+
-| `Prev <spaghetti-inheritance.html>`__    | `Up <../S.html>`__         |  `Next <spam-bait.html>`__   |
+| `Prev <spaghetti-inheritance.html>`__    | `Up <../S.html>`__         |  `Next <spam-bait.html>`__   |
 +------------------------------------------+----------------------------+------------------------------+
-| spaghetti inheritance                    | `Home <../index.html>`__   |  spam bait                   |
+| spaghetti inheritance                    | `Home <../index.html>`__   |  spam bait                   |
 +------------------------------------------+----------------------------+------------------------------+
 
 spamvertize
 
-`Prev <spamhaus.html>`__ 
+`Prev <spamhaus.html>`__ 
 
 S
 
- `Next <spangle.html>`__
+ `Next <spangle.html>`__
 
 --------------
 
@@ -4865,18 +4576,18 @@ To advertise using `*spam* <spam.html>`__. Pejorative.
 --------------
 
 +-----------------------------+----------------------------+----------------------------+
-| `Prev <spamhaus.html>`__    | `Up <../S.html>`__         |  `Next <spangle.html>`__   |
+| `Prev <spamhaus.html>`__    | `Up <../S.html>`__         |  `Next <spangle.html>`__   |
 +-----------------------------+----------------------------+----------------------------+
-| spamhaus                    | `Home <../index.html>`__   |  spangle                   |
+| spamhaus                    | `Home <../index.html>`__   |  spangle                   |
 +-----------------------------+----------------------------+----------------------------+
 
 spangle
 
-`Prev <spamvertize.html>`__ 
+`Prev <spamvertize.html>`__ 
 
 S
 
- `Next <spawn.html>`__
+ `Next <spawn.html>`__
 
 --------------
 
@@ -4889,18 +4600,18 @@ whistles* <../B/bells-and-whistles.html>`__. See also
 --------------
 
 +--------------------------------+----------------------------+--------------------------+
-| `Prev <spamvertize.html>`__    | `Up <../S.html>`__         |  `Next <spawn.html>`__   |
+| `Prev <spamvertize.html>`__    | `Up <../S.html>`__         |  `Next <spawn.html>`__   |
 +--------------------------------+----------------------------+--------------------------+
-| spamvertize                    | `Home <../index.html>`__   |  spawn                   |
+| spamvertize                    | `Home <../index.html>`__   |  spawn                   |
 +--------------------------------+----------------------------+--------------------------+
 
 spawn
 
-`Prev <spangle.html>`__ 
+`Prev <spangle.html>`__ 
 
 S
 
- `Next <special-case.html>`__
+ `Next <special-case.html>`__
 
 --------------
 
@@ -4918,18 +4629,18 @@ comes to life (or re-spawns) after being killed. Opposite of
 --------------
 
 +----------------------------+----------------------------+---------------------------------+
-| `Prev <spangle.html>`__    | `Up <../S.html>`__         |  `Next <special-case.html>`__   |
+| `Prev <spangle.html>`__    | `Up <../S.html>`__         |  `Next <special-case.html>`__   |
 +----------------------------+----------------------------+---------------------------------+
-| spangle                    | `Home <../index.html>`__   |  special-case                   |
+| spangle                    | `Home <../index.html>`__   |  special-case                   |
 +----------------------------+----------------------------+---------------------------------+
 
 special-case
 
-`Prev <spawn.html>`__ 
+`Prev <spawn.html>`__ 
 
 S
 
- `Next <speed-of-light.html>`__
+ `Next <speed-of-light.html>`__
 
 --------------
 
@@ -4946,18 +4657,18 @@ flag* <../H/hidden-flag.html>`__\ s in the input of a batch program or
 --------------
 
 +--------------------------+----------------------------+-----------------------------------+
-| `Prev <spawn.html>`__    | `Up <../S.html>`__         |  `Next <speed-of-light.html>`__   |
+| `Prev <spawn.html>`__    | `Up <../S.html>`__         |  `Next <speed-of-light.html>`__   |
 +--------------------------+----------------------------+-----------------------------------+
-| spawn                    | `Home <../index.html>`__   |  speed of light                   |
+| spawn                    | `Home <../index.html>`__   |  speed of light                   |
 +--------------------------+----------------------------+-----------------------------------+
 
 speed of light
 
-`Prev <special-case.html>`__ 
+`Prev <special-case.html>`__ 
 
 S
 
- `Next <speedometer.html>`__
+ `Next <speedometer.html>`__
 
 --------------
 
@@ -4973,18 +4684,18 @@ is constant if you can't redesign the universe.”
 --------------
 
 +---------------------------------+----------------------------+--------------------------------+
-| `Prev <special-case.html>`__    | `Up <../S.html>`__         |  `Next <speedometer.html>`__   |
+| `Prev <special-case.html>`__    | `Up <../S.html>`__         |  `Next <speedometer.html>`__   |
 +---------------------------------+----------------------------+--------------------------------+
-| special-case                    | `Home <../index.html>`__   |  speedometer                   |
+| special-case                    | `Home <../index.html>`__   |  speedometer                   |
 +---------------------------------+----------------------------+--------------------------------+
 
 speedometer
 
-`Prev <speed-of-light.html>`__ 
+`Prev <speed-of-light.html>`__ 
 
 S
 
- `Next <spell.html>`__
+ `Next <spell.html>`__
 
 --------------
 
@@ -5006,18 +4717,18 @@ instructions executed per second.
 --------------
 
 +-----------------------------------+----------------------------+--------------------------+
-| `Prev <speed-of-light.html>`__    | `Up <../S.html>`__         |  `Next <spell.html>`__   |
+| `Prev <speed-of-light.html>`__    | `Up <../S.html>`__         |  `Next <spell.html>`__   |
 +-----------------------------------+----------------------------+--------------------------+
-| speed of light                    | `Home <../index.html>`__   |  spell                   |
+| speed of light                    | `Home <../index.html>`__   |  spell                   |
 +-----------------------------------+----------------------------+--------------------------+
 
 spell
 
-`Prev <speedometer.html>`__ 
+`Prev <speedometer.html>`__ 
 
 S
 
- `Next <spelling-flame.html>`__
+ `Next <spelling-flame.html>`__
 
 --------------
 
@@ -5028,18 +4739,18 @@ Syn. `*incantation* <../I/incantation.html>`__.
 --------------
 
 +--------------------------------+----------------------------+-----------------------------------+
-| `Prev <speedometer.html>`__    | `Up <../S.html>`__         |  `Next <spelling-flame.html>`__   |
+| `Prev <speedometer.html>`__    | `Up <../S.html>`__         |  `Next <spelling-flame.html>`__   |
 +--------------------------------+----------------------------+-----------------------------------+
-| speedometer                    | `Home <../index.html>`__   |  spelling flame                   |
+| speedometer                    | `Home <../index.html>`__   |  spelling flame                   |
 +--------------------------------+----------------------------+-----------------------------------+
 
 spelling flame
 
-`Prev <spell.html>`__ 
+`Prev <spell.html>`__ 
 
 S
 
- `Next <spider.html>`__
+ `Next <spider.html>`__
 
 --------------
 
@@ -5056,18 +4767,18 @@ that spelling flames themselves often contain spelling errors.
 --------------
 
 +--------------------------+----------------------------+---------------------------+
-| `Prev <spell.html>`__    | `Up <../S.html>`__         |  `Next <spider.html>`__   |
+| `Prev <spell.html>`__    | `Up <../S.html>`__         |  `Next <spider.html>`__   |
 +--------------------------+----------------------------+---------------------------+
-| spell                    | `Home <../index.html>`__   |  spider                   |
+| spell                    | `Home <../index.html>`__   |  spider                   |
 +--------------------------+----------------------------+---------------------------+
 
 spider food
 
-`Prev <spider.html>`__ 
+`Prev <spider.html>`__ 
 
 S
 
- `Next <spiffy.html>`__
+ `Next <spiffy.html>`__
 
 --------------
 
@@ -5084,18 +4795,18 @@ now detect and ignore the latter).
 --------------
 
 +---------------------------+----------------------------+---------------------------+
-| `Prev <spider.html>`__    | `Up <../S.html>`__         |  `Next <spiffy.html>`__   |
+| `Prev <spider.html>`__    | `Up <../S.html>`__         |  `Next <spiffy.html>`__   |
 +---------------------------+----------------------------+---------------------------+
-| spider                    | `Home <../index.html>`__   |  spiffy                   |
+| spider                    | `Home <../index.html>`__   |  spiffy                   |
 +---------------------------+----------------------------+---------------------------+
 
 spider
 
-`Prev <spelling-flame.html>`__ 
+`Prev <spelling-flame.html>`__ 
 
 S
 
- `Next <spider-food.html>`__
+ `Next <spider-food.html>`__
 
 --------------
 
@@ -5109,18 +4820,18 @@ web-walker for the Alta Vista search engine.
 --------------
 
 +-----------------------------------+----------------------------+--------------------------------+
-| `Prev <spelling-flame.html>`__    | `Up <../S.html>`__         |  `Next <spider-food.html>`__   |
+| `Prev <spelling-flame.html>`__    | `Up <../S.html>`__         |  `Next <spider-food.html>`__   |
 +-----------------------------------+----------------------------+--------------------------------+
-| spelling flame                    | `Home <../index.html>`__   |  spider food                   |
+| spelling flame                    | `Home <../index.html>`__   |  spider food                   |
 +-----------------------------------+----------------------------+--------------------------------+
 
 spiffy
 
-`Prev <spider-food.html>`__ 
+`Prev <spider-food.html>`__ 
 
 S
 
- `Next <spike.html>`__
+ `Next <spike.html>`__
 
 --------------
 
@@ -5138,18 +4849,18 @@ mainstream slang during the 1940s, in a sense close to 1.
 --------------
 
 +--------------------------------+----------------------------+--------------------------+
-| `Prev <spider-food.html>`__    | `Up <../S.html>`__         |  `Next <spike.html>`__   |
+| `Prev <spider-food.html>`__    | `Up <../S.html>`__         |  `Next <spike.html>`__   |
 +--------------------------------+----------------------------+--------------------------+
-| spider food                    | `Home <../index.html>`__   |  spike                   |
+| spider food                    | `Home <../index.html>`__   |  spike                   |
 +--------------------------------+----------------------------+--------------------------+
 
 spike
 
-`Prev <spiffy.html>`__ 
+`Prev <spiffy.html>`__ 
 
 S
 
- `Next <spin.html>`__
+ `Next <spin.html>`__
 
 --------------
 
@@ -5173,18 +4884,18 @@ traffic.
 --------------
 
 +---------------------------+----------------------------+-------------------------+
-| `Prev <spiffy.html>`__    | `Up <../S.html>`__         |  `Next <spin.html>`__   |
+| `Prev <spiffy.html>`__    | `Up <../S.html>`__         |  `Next <spin.html>`__   |
 +---------------------------+----------------------------+-------------------------+
-| spiffy                    | `Home <../index.html>`__   |  spin                   |
+| spiffy                    | `Home <../index.html>`__   |  spin                   |
 +---------------------------+----------------------------+-------------------------+
 
 spin
 
-`Prev <spike.html>`__ 
+`Prev <spike.html>`__ 
 
 S
 
- `Next <Spinning-Pizza-of-Death.html>`__
+ `Next <Spinning-Pizza-of-Death.html>`__
 
 --------------
 
@@ -5197,18 +4908,18 @@ programmers. See the discussion of ‘spinlock’ under
 --------------
 
 +--------------------------+----------------------------+--------------------------------------------+
-| `Prev <spike.html>`__    | `Up <../S.html>`__         |  `Next <Spinning-Pizza-of-Death.html>`__   |
+| `Prev <spike.html>`__    | `Up <../S.html>`__         |  `Next <Spinning-Pizza-of-Death.html>`__   |
 +--------------------------+----------------------------+--------------------------------------------+
-| spike                    | `Home <../index.html>`__   |  Spinning Pizza of Death                   |
+| spike                    | `Home <../index.html>`__   |  Spinning Pizza of Death                   |
 +--------------------------+----------------------------+--------------------------------------------+
 
 Spinning Pizza of Death
 
-`Prev <spin.html>`__ 
+`Prev <spin.html>`__ 
 
 S
 
- `Next <spl.html>`__
+ `Next <spl.html>`__
 
 --------------
 
@@ -5223,18 +4934,18 @@ more evocative. See `*Death, X of* <../D/Death--X-of.html>`__.
 --------------
 
 +-------------------------+----------------------------+------------------------+
-| `Prev <spin.html>`__    | `Up <../S.html>`__         |  `Next <spl.html>`__   |
+| `Prev <spin.html>`__    | `Up <../S.html>`__         |  `Next <spl.html>`__   |
 +-------------------------+----------------------------+------------------------+
-| spin                    | `Home <../index.html>`__   |  spl                   |
+| spin                    | `Home <../index.html>`__   |  spl                   |
 +-------------------------+----------------------------+------------------------+
 
 splash screen
 
-`Prev <spl.html>`__ 
+`Prev <spl.html>`__ 
 
 S
 
- `Next <splat.html>`__
+ `Next <splat.html>`__
 
 --------------
 
@@ -5245,18 +4956,18 @@ S
 --------------
 
 +------------------------+----------------------------+--------------------------+
-| `Prev <spl.html>`__    | `Up <../S.html>`__         |  `Next <splat.html>`__   |
+| `Prev <spl.html>`__    | `Up <../S.html>`__         |  `Next <splat.html>`__   |
 +------------------------+----------------------------+--------------------------+
-| spl                    | `Home <../index.html>`__   |  splat                   |
+| spl                    | `Home <../index.html>`__   |  splat                   |
 +------------------------+----------------------------+--------------------------+
 
 splat
 
-`Prev <splash-screen.html>`__ 
+`Prev <splash-screen.html>`__ 
 
 S
 
- `Next <splat-out.html>`__
+ `Next <splat-out.html>`__
 
 --------------
 
@@ -5283,18 +4994,18 @@ See also `*ASCII* <../A/ASCII.html>`__.
 --------------
 
 +----------------------------------+----------------------------+------------------------------+
-| `Prev <splash-screen.html>`__    | `Up <../S.html>`__         |  `Next <splat-out.html>`__   |
+| `Prev <splash-screen.html>`__    | `Up <../S.html>`__         |  `Next <splat-out.html>`__   |
 +----------------------------------+----------------------------+------------------------------+
-| splash screen                    | `Home <../index.html>`__   |  splat out                   |
+| splash screen                    | `Home <../index.html>`__   |  splat out                   |
 +----------------------------------+----------------------------+------------------------------+
 
 splat out
 
-`Prev <splat.html>`__ 
+`Prev <splat.html>`__ 
 
 S
 
- `Next <splork-.html>`__
+ `Next <splork-.html>`__
 
 --------------
 
@@ -5313,18 +5024,18 @@ Compare `*UN\*X* <../U/UN-asterisk-X.html>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------+
-| `Prev <splat.html>`__    | `Up <../S.html>`__         |  `Next <splork-.html>`__   |
+| `Prev <splat.html>`__    | `Up <../S.html>`__         |  `Next <splork-.html>`__   |
 +--------------------------+----------------------------+----------------------------+
-| splat                    | `Home <../index.html>`__   |  splork!                   |
+| splat                    | `Home <../index.html>`__   |  splork!                   |
 +--------------------------+----------------------------+----------------------------+
 
 spl
 
-`Prev <Spinning-Pizza-of-Death.html>`__ 
+`Prev <Spinning-Pizza-of-Death.html>`__ 
 
 S
 
- `Next <splash-screen.html>`__
+ `Next <splash-screen.html>`__
 
 --------------
 
@@ -5341,18 +5052,18 @@ out* <../I/interrupts-locked-out.html>`__.
 --------------
 
 +--------------------------------------------+----------------------------+----------------------------------+
-| `Prev <Spinning-Pizza-of-Death.html>`__    | `Up <../S.html>`__         |  `Next <splash-screen.html>`__   |
+| `Prev <Spinning-Pizza-of-Death.html>`__    | `Up <../S.html>`__         |  `Next <splash-screen.html>`__   |
 +--------------------------------------------+----------------------------+----------------------------------+
-| Spinning Pizza of Death                    | `Home <../index.html>`__   |  splash screen                   |
+| Spinning Pizza of Death                    | `Home <../index.html>`__   |  splash screen                   |
 +--------------------------------------------+----------------------------+----------------------------------+
 
 splork!
 
-`Prev <splat-out.html>`__ 
+`Prev <splat-out.html>`__ 
 
 S
 
- `Next <spod.html>`__
+ `Next <spod.html>`__
 
 --------------
 
@@ -5366,18 +5077,18 @@ Compare `*snarf* <snarf.html>`__.
 --------------
 
 +------------------------------+----------------------------+-------------------------+
-| `Prev <splat-out.html>`__    | `Up <../S.html>`__         |  `Next <spod.html>`__   |
+| `Prev <splat-out.html>`__    | `Up <../S.html>`__         |  `Next <spod.html>`__   |
 +------------------------------+----------------------------+-------------------------+
-| splat out                    | `Home <../index.html>`__   |  spod                   |
+| splat out                    | `Home <../index.html>`__   |  spod                   |
 +------------------------------+----------------------------+-------------------------+
 
 spod
 
-`Prev <splork-.html>`__ 
+`Prev <splork-.html>`__ 
 
 S
 
- `Next <spoiler.html>`__
+ `Next <spoiler.html>`__
 
 --------------
 
@@ -5428,18 +5139,18 @@ he has himself accepted sense 1.
 --------------
 
 +----------------------------+----------------------------+----------------------------+
-| `Prev <splork-.html>`__    | `Up <../S.html>`__         |  `Next <spoiler.html>`__   |
+| `Prev <splork-.html>`__    | `Up <../S.html>`__         |  `Next <spoiler.html>`__   |
 +----------------------------+----------------------------+----------------------------+
-| splork!                    | `Home <../index.html>`__   |  spoiler                   |
+| splork!                    | `Home <../index.html>`__   |  spoiler                   |
 +----------------------------+----------------------------+----------------------------+
 
 spoiler
 
-`Prev <spod.html>`__ 
+`Prev <spod.html>`__ 
 
 S
 
- `Next <spoiler-space.html>`__
+ `Next <spoiler-space.html>`__
 
 --------------
 
@@ -5467,18 +5178,18 @@ or some combination of these techniques.
 --------------
 
 +-------------------------+----------------------------+----------------------------------+
-| `Prev <spod.html>`__    | `Up <../S.html>`__         |  `Next <spoiler-space.html>`__   |
+| `Prev <spod.html>`__    | `Up <../S.html>`__         |  `Next <spoiler-space.html>`__   |
 +-------------------------+----------------------------+----------------------------------+
-| spod                    | `Home <../index.html>`__   |  spoiler space                   |
+| spod                    | `Home <../index.html>`__   |  spoiler space                   |
 +-------------------------+----------------------------+----------------------------------+
 
 spoiler space
 
-`Prev <spoiler.html>`__ 
+`Prev <spoiler.html>`__ 
 
 S
 
- `Next <sponge.html>`__
+ `Next <sponge.html>`__
 
 --------------
 
@@ -5494,18 +5205,18 @@ which they have no good interpretation.
 --------------
 
 +----------------------------+----------------------------+---------------------------+
-| `Prev <spoiler.html>`__    | `Up <../S.html>`__         |  `Next <sponge.html>`__   |
+| `Prev <spoiler.html>`__    | `Up <../S.html>`__         |  `Next <sponge.html>`__   |
 +----------------------------+----------------------------+---------------------------+
-| spoiler                    | `Home <../index.html>`__   |  sponge                   |
+| spoiler                    | `Home <../index.html>`__   |  sponge                   |
 +----------------------------+----------------------------+---------------------------+
 
 sponge
 
-`Prev <spoiler-space.html>`__ 
+`Prev <spoiler-space.html>`__ 
 
 S
 
- `Next <spoof.html>`__
+ `Next <spoof.html>`__
 
 --------------
 
@@ -5522,18 +5233,18 @@ new version. See also `*slurp* <slurp.html>`__.
 --------------
 
 +----------------------------------+----------------------------+--------------------------+
-| `Prev <spoiler-space.html>`__    | `Up <../S.html>`__         |  `Next <spoof.html>`__   |
+| `Prev <spoiler-space.html>`__    | `Up <../S.html>`__         |  `Next <spoof.html>`__   |
 +----------------------------------+----------------------------+--------------------------+
-| spoiler space                    | `Home <../index.html>`__   |  spoof                   |
+| spoiler space                    | `Home <../index.html>`__   |  spoof                   |
 +----------------------------------+----------------------------+--------------------------+
 
 spoof
 
-`Prev <sponge.html>`__ 
+`Prev <sponge.html>`__ 
 
 S
 
- `Next <spool.html>`__
+ `Next <spool.html>`__
 
 --------------
 
@@ -5550,18 +5261,18 @@ telegraphers; it shows up in Kipling.
 --------------
 
 +---------------------------+----------------------------+--------------------------+
-| `Prev <sponge.html>`__    | `Up <../S.html>`__         |  `Next <spool.html>`__   |
+| `Prev <sponge.html>`__    | `Up <../S.html>`__         |  `Next <spool.html>`__   |
 +---------------------------+----------------------------+--------------------------+
-| sponge                    | `Home <../index.html>`__   |  spool                   |
+| sponge                    | `Home <../index.html>`__   |  spool                   |
 +---------------------------+----------------------------+--------------------------+
 
 spool file
 
-`Prev <spool.html>`__ 
+`Prev <spool.html>`__ 
 
 S
 
- `Next <sporgery.html>`__
+ `Next <sporgery.html>`__
 
 --------------
 
@@ -5578,18 +5289,18 @@ techspeak.
 --------------
 
 +--------------------------+----------------------------+-----------------------------+
-| `Prev <spool.html>`__    | `Up <../S.html>`__         |  `Next <sporgery.html>`__   |
+| `Prev <spool.html>`__    | `Up <../S.html>`__         |  `Next <sporgery.html>`__   |
 +--------------------------+----------------------------+-----------------------------+
-| spool                    | `Home <../index.html>`__   |  sporgery                   |
+| spool                    | `Home <../index.html>`__   |  sporgery                   |
 +--------------------------+----------------------------+-----------------------------+
 
 spool
 
-`Prev <spoof.html>`__ 
+`Prev <spoof.html>`__ 
 
 S
 
- `Next <spool-file.html>`__
+ `Next <spool-file.html>`__
 
 --------------
 
@@ -5607,18 +5318,18 @@ and graphics devices) and occasionally even for input devices. See also
 --------------
 
 +--------------------------+----------------------------+-------------------------------+
-| `Prev <spoof.html>`__    | `Up <../S.html>`__         |  `Next <spool-file.html>`__   |
+| `Prev <spoof.html>`__    | `Up <../S.html>`__         |  `Next <spool-file.html>`__   |
 +--------------------------+----------------------------+-------------------------------+
-| spoof                    | `Home <../index.html>`__   |  spool file                   |
+| spoof                    | `Home <../index.html>`__   |  spool file                   |
 +--------------------------+----------------------------+-------------------------------+
 
 sporgery
 
-`Prev <spool-file.html>`__ 
+`Prev <spool-file.html>`__ 
 
 S
 
- `Next <sport-death.html>`__
+ `Next <sport-death.html>`__
 
 --------------
 
@@ -5635,18 +5346,18 @@ any means confined to that group.
 --------------
 
 +-------------------------------+----------------------------+--------------------------------+
-| `Prev <spool-file.html>`__    | `Up <../S.html>`__         |  `Next <sport-death.html>`__   |
+| `Prev <spool-file.html>`__    | `Up <../S.html>`__         |  `Next <sport-death.html>`__   |
 +-------------------------------+----------------------------+--------------------------------+
-| spool file                    | `Home <../index.html>`__   |  sport death                   |
+| spool file                    | `Home <../index.html>`__   |  sport death                   |
 +-------------------------------+----------------------------+--------------------------------+
 
 sport death
 
-`Prev <sporgery.html>`__ 
+`Prev <sporgery.html>`__ 
 
 S
 
- `Next <spungle.html>`__
+ `Next <spungle.html>`__
 
 --------------
 
@@ -5661,18 +5372,18 @@ and caffeine diets.
 --------------
 
 +-----------------------------+----------------------------+----------------------------+
-| `Prev <sporgery.html>`__    | `Up <../S.html>`__         |  `Next <spungle.html>`__   |
+| `Prev <sporgery.html>`__    | `Up <../S.html>`__         |  `Next <spungle.html>`__   |
 +-----------------------------+----------------------------+----------------------------+
-| sporgery                    | `Home <../index.html>`__   |  spungle                   |
+| sporgery                    | `Home <../index.html>`__   |  spungle                   |
 +-----------------------------+----------------------------+----------------------------+
 
 spungle
 
-`Prev <sport-death.html>`__ 
+`Prev <sport-death.html>`__ 
 
 S
 
- `Next <spyware.html>`__
+ `Next <spyware.html>`__
 
 --------------
 
@@ -5686,18 +5397,18 @@ looks pretty, unless you find creeping featurism ugly.
 --------------
 
 +--------------------------------+----------------------------+----------------------------+
-| `Prev <sport-death.html>`__    | `Up <../S.html>`__         |  `Next <spyware.html>`__   |
+| `Prev <sport-death.html>`__    | `Up <../S.html>`__         |  `Next <spyware.html>`__   |
 +--------------------------------+----------------------------+----------------------------+
-| sport death                    | `Home <../index.html>`__   |  spyware                   |
+| sport death                    | `Home <../index.html>`__   |  spyware                   |
 +--------------------------------+----------------------------+----------------------------+
 
 spyware
 
-`Prev <spungle.html>`__ 
+`Prev <spungle.html>`__ 
 
 S
 
- `Next <squirrelcide.html>`__
+ `Next <squirrelcide.html>`__
 
 --------------
 
@@ -5718,18 +5429,18 @@ Carnivore.
 --------------
 
 +----------------------------+----------------------------+---------------------------------+
-| `Prev <spungle.html>`__    | `Up <../S.html>`__         |  `Next <squirrelcide.html>`__   |
+| `Prev <spungle.html>`__    | `Up <../S.html>`__         |  `Next <squirrelcide.html>`__   |
 +----------------------------+----------------------------+---------------------------------+
-| spungle                    | `Home <../index.html>`__   |  squirrelcide                   |
+| spungle                    | `Home <../index.html>`__   |  squirrelcide                   |
 +----------------------------+----------------------------+---------------------------------+
 
 squirrelcide
 
-`Prev <spyware.html>`__ 
+`Prev <spyware.html>`__ 
 
 S
 
- `Next <stack.html>`__
+ `Next <stack.html>`__
 
 --------------
 
@@ -5745,18 +5456,18 @@ been squirrelcided.
 --------------
 
 +----------------------------+----------------------------+--------------------------+
-| `Prev <spyware.html>`__    | `Up <../S.html>`__         |  `Next <stack.html>`__   |
+| `Prev <spyware.html>`__    | `Up <../S.html>`__         |  `Next <stack.html>`__   |
 +----------------------------+----------------------------+--------------------------+
-| spyware                    | `Home <../index.html>`__   |  stack                   |
+| spyware                    | `Home <../index.html>`__   |  stack                   |
 +----------------------------+----------------------------+--------------------------+
 
 stack
 
-`Prev <squirrelcide.html>`__ 
+`Prev <squirrelcide.html>`__ 
 
 S
 
- `Next <stack-puke.html>`__
+ `Next <stack-puke.html>`__
 
 --------------
 
@@ -5791,18 +5502,18 @@ proud of it.
 --------------
 
 +---------------------------------+----------------------------+-------------------------------+
-| `Prev <squirrelcide.html>`__    | `Up <../S.html>`__         |  `Next <stack-puke.html>`__   |
+| `Prev <squirrelcide.html>`__    | `Up <../S.html>`__         |  `Next <stack-puke.html>`__   |
 +---------------------------------+----------------------------+-------------------------------+
-| squirrelcide                    | `Home <../index.html>`__   |  stack puke                   |
+| squirrelcide                    | `Home <../index.html>`__   |  stack puke                   |
 +---------------------------------+----------------------------+-------------------------------+
 
 stack puke
 
-`Prev <stack.html>`__ 
+`Prev <stack.html>`__ 
 
 S
 
- `Next <stale-pointer-bug.html>`__
+ `Next <stale-pointer-bug.html>`__
 
 --------------
 
@@ -5816,18 +5527,18 @@ On a pipelined machine, this can take a while.
 --------------
 
 +--------------------------+----------------------------+--------------------------------------+
-| `Prev <stack.html>`__    | `Up <../S.html>`__         |  `Next <stale-pointer-bug.html>`__   |
+| `Prev <stack.html>`__    | `Up <../S.html>`__         |  `Next <stale-pointer-bug.html>`__   |
 +--------------------------+----------------------------+--------------------------------------+
-| stack                    | `Home <../index.html>`__   |  stale pointer bug                   |
+| stack                    | `Home <../index.html>`__   |  stale pointer bug                   |
 +--------------------------+----------------------------+--------------------------------------+
 
 stale pointer bug
 
-`Prev <stack-puke.html>`__ 
+`Prev <stack-puke.html>`__ 
 
 S
 
- `Next <Stanford-Bunny.html>`__
+ `Next <Stanford-Bunny.html>`__
 
 --------------
 
@@ -5839,18 +5550,18 @@ microcomputer hackers.
 --------------
 
 +-------------------------------+----------------------------+-----------------------------------+
-| `Prev <stack-puke.html>`__    | `Up <../S.html>`__         |  `Next <Stanford-Bunny.html>`__   |
+| `Prev <stack-puke.html>`__    | `Up <../S.html>`__         |  `Next <Stanford-Bunny.html>`__   |
 +-------------------------------+----------------------------+-----------------------------------+
-| stack puke                    | `Home <../index.html>`__   |  Stanford Bunny                   |
+| stack puke                    | `Home <../index.html>`__   |  Stanford Bunny                   |
 +-------------------------------+----------------------------+-----------------------------------+
 
 Stanford Bunny
 
-`Prev <stale-pointer-bug.html>`__ 
+`Prev <stale-pointer-bug.html>`__ 
 
 S
 
- `Next <star-out.html>`__
+ `Next <star-out.html>`__
 
 --------------
 
@@ -5867,18 +5578,18 @@ page <http://www.cc.gatech.edu/~turk/bunny/bunny.html>`__. Compare
 --------------
 
 +--------------------------------------+----------------------------+-----------------------------+
-| `Prev <stale-pointer-bug.html>`__    | `Up <../S.html>`__         |  `Next <star-out.html>`__   |
+| `Prev <stale-pointer-bug.html>`__    | `Up <../S.html>`__         |  `Next <star-out.html>`__   |
 +--------------------------------------+----------------------------+-----------------------------+
-| stale pointer bug                    | `Home <../index.html>`__   |  star out                   |
+| stale pointer bug                    | `Home <../index.html>`__   |  star out                   |
 +--------------------------------------+----------------------------+-----------------------------+
 
 star out
 
-`Prev <Stanford-Bunny.html>`__ 
+`Prev <Stanford-Bunny.html>`__ 
 
 S
 
- `Next <state.html>`__
+ `Next <state.html>`__
 
 --------------
 
@@ -5897,18 +5608,18 @@ Star...” Compare `*disusered* <../D/disusered.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+--------------------------+
-| `Prev <Stanford-Bunny.html>`__    | `Up <../S.html>`__         |  `Next <state.html>`__   |
+| `Prev <Stanford-Bunny.html>`__    | `Up <../S.html>`__         |  `Next <state.html>`__   |
 +-----------------------------------+----------------------------+--------------------------+
-| Stanford Bunny                    | `Home <../index.html>`__   |  state                   |
+| Stanford Bunny                    | `Home <../index.html>`__   |  state                   |
 +-----------------------------------+----------------------------+--------------------------+
 
 state
 
-`Prev <star-out.html>`__ 
+`Prev <star-out.html>`__ 
 
 S
 
- `Next <stealth-manager.html>`__
+ `Next <stealth-manager.html>`__
 
 --------------
 
@@ -5931,18 +5642,18 @@ human).
 --------------
 
 +-----------------------------+----------------------------+------------------------------------+
-| `Prev <star-out.html>`__    | `Up <../S.html>`__         |  `Next <stealth-manager.html>`__   |
+| `Prev <star-out.html>`__    | `Up <../S.html>`__         |  `Next <stealth-manager.html>`__   |
 +-----------------------------+----------------------------+------------------------------------+
-| star out                    | `Home <../index.html>`__   |  stealth manager                   |
+| star out                    | `Home <../index.html>`__   |  stealth manager                   |
 +-----------------------------+----------------------------+------------------------------------+
 
 stealth manager
 
-`Prev <state.html>`__ 
+`Prev <state.html>`__ 
 
 S
 
- `Next <steam-powered.html>`__
+ `Next <steam-powered.html>`__
 
 --------------
 
@@ -5956,18 +5667,18 @@ mirrors* <smoke-and-mirrors.html>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------------+
-| `Prev <state.html>`__    | `Up <../S.html>`__         |  `Next <steam-powered.html>`__   |
+| `Prev <state.html>`__    | `Up <../S.html>`__         |  `Next <steam-powered.html>`__   |
 +--------------------------+----------------------------+----------------------------------+
-| state                    | `Home <../index.html>`__   |  steam-powered                   |
+| state                    | `Home <../index.html>`__   |  steam-powered                   |
 +--------------------------+----------------------------+----------------------------------+
 
 steam-powered
 
-`Prev <stealth-manager.html>`__ 
+`Prev <stealth-manager.html>`__ 
 
 S
 
- `Next <steved.html>`__
+ `Next <steved.html>`__
 
 --------------
 
@@ -5980,18 +5691,18 @@ that clanks and wheezes a lot but hangs in there doing the job.
 --------------
 
 +------------------------------------+----------------------------+---------------------------+
-| `Prev <stealth-manager.html>`__    | `Up <../S.html>`__         |  `Next <steved.html>`__   |
+| `Prev <stealth-manager.html>`__    | `Up <../S.html>`__         |  `Next <steved.html>`__   |
 +------------------------------------+----------------------------+---------------------------+
-| stealth manager                    | `Home <../index.html>`__   |  steved                   |
+| stealth manager                    | `Home <../index.html>`__   |  steved                   |
 +------------------------------------+----------------------------+---------------------------+
 
 steved
 
-`Prev <steam-powered.html>`__ 
+`Prev <steam-powered.html>`__ 
 
 S
 
- `Next <STFW.html>`__
+ `Next <STFW.html>`__
 
 --------------
 
@@ -6009,18 +5720,18 @@ past-tense and used quasi-adjectivally.
 --------------
 
 +----------------------------------+----------------------------+-------------------------+
-| `Prev <steam-powered.html>`__    | `Up <../S.html>`__         |  `Next <STFW.html>`__   |
+| `Prev <steam-powered.html>`__    | `Up <../S.html>`__         |  `Next <STFW.html>`__   |
 +----------------------------------+----------------------------+-------------------------+
-| steam-powered                    | `Home <../index.html>`__   |  STFW                   |
+| steam-powered                    | `Home <../index.html>`__   |  STFW                   |
 +----------------------------------+----------------------------+-------------------------+
 
 STFW
 
-`Prev <steved.html>`__ 
+`Prev <steved.html>`__ 
 
 S
 
- `Next <stir-fried-random.html>`__
+ `Next <stir-fried-random.html>`__
 
 --------------
 
@@ -6035,18 +5746,18 @@ of `*RTFM* <../R/RTFM.html>`__. A politer equivalent is
 --------------
 
 +---------------------------+----------------------------+--------------------------------------+
-| `Prev <steved.html>`__    | `Up <../S.html>`__         |  `Next <stir-fried-random.html>`__   |
+| `Prev <steved.html>`__    | `Up <../S.html>`__         |  `Next <stir-fried-random.html>`__   |
 +---------------------------+----------------------------+--------------------------------------+
-| steved                    | `Home <../index.html>`__   |  stir-fried random                   |
+| steved                    | `Home <../index.html>`__   |  stir-fried random                   |
 +---------------------------+----------------------------+--------------------------------------+
 
 stir-fried random
 
-`Prev <STFW.html>`__ 
+`Prev <STFW.html>`__ 
 
 S
 
- `Next <stomp-on.html>`__
+ `Next <stomp-on.html>`__
 
 --------------
 
@@ -6064,18 +5775,18 @@ food* <../O/oriental-food.html>`__; see also
 --------------
 
 +-------------------------+----------------------------+-----------------------------+
-| `Prev <STFW.html>`__    | `Up <../S.html>`__         |  `Next <stomp-on.html>`__   |
+| `Prev <STFW.html>`__    | `Up <../S.html>`__         |  `Next <stomp-on.html>`__   |
 +-------------------------+----------------------------+-----------------------------+
-| STFW                    | `Home <../index.html>`__   |  stomp on                   |
+| STFW                    | `Home <../index.html>`__   |  stomp on                   |
 +-------------------------+----------------------------+-----------------------------+
 
 stomp on
 
-`Prev <stir-fried-random.html>`__ 
+`Prev <stir-fried-random.html>`__ 
 
 S
 
- `Next <Stone-Age.html>`__
+ `Next <Stone-Age.html>`__
 
 --------------
 
@@ -6090,18 +5801,18 @@ nightly server script.” Compare `*scribble* <scribble.html>`__,
 --------------
 
 +--------------------------------------+----------------------------+------------------------------+
-| `Prev <stir-fried-random.html>`__    | `Up <../S.html>`__         |  `Next <Stone-Age.html>`__   |
+| `Prev <stir-fried-random.html>`__    | `Up <../S.html>`__         |  `Next <Stone-Age.html>`__   |
 +--------------------------------------+----------------------------+------------------------------+
-| stir-fried random                    | `Home <../index.html>`__   |  Stone Age                   |
+| stir-fried random                    | `Home <../index.html>`__   |  Stone Age                   |
 +--------------------------------------+----------------------------+------------------------------+
 
 Stone Age
 
-`Prev <stomp-on.html>`__ 
+`Prev <stomp-on.html>`__ 
 
 S
 
- `Next <stone-knives-and-bearskins.html>`__
+ `Next <stone-knives-and-bearskins.html>`__
 
 --------------
 
@@ -6132,19 +5843,19 @@ who were there for the `*Stone Age* <Stone-Age.html>`__ (sense 1).
 --------------
 
 +-----------------------------+----------------------------+-----------------------------------------------+
-| `Prev <stomp-on.html>`__    | `Up <../S.html>`__         |  `Next <stone-knives-and-bearskins.html>`__   |
+| `Prev <stomp-on.html>`__    | `Up <../S.html>`__         |  `Next <stone-knives-and-bearskins.html>`__   |
 +-----------------------------+----------------------------+-----------------------------------------------+
-| stomp on                    | `Home <../index.html>`__   |  stone knives and bearskins                   |
+| stomp on                    | `Home <../index.html>`__   |  stone knives and bearskins                   |
 +-----------------------------+----------------------------+-----------------------------------------------+
 
 .. |image0| image:: ../graphics/76-05-01.png
 stone knives and bearskins
 
-`Prev <Stone-Age.html>`__ 
+`Prev <Stone-Age.html>`__ 
 
 S
 
- `Next <stoppage.html>`__
+ `Next <stoppage.html>`__
 
 --------------
 
@@ -6161,18 +5872,18 @@ far as the eye can see”. Compare
 --------------
 
 +------------------------------+----------------------------+-----------------------------+
-| `Prev <Stone-Age.html>`__    | `Up <../S.html>`__         |  `Next <stoppage.html>`__   |
+| `Prev <Stone-Age.html>`__    | `Up <../S.html>`__         |  `Next <stoppage.html>`__   |
 +------------------------------+----------------------------+-----------------------------+
-| Stone Age                    | `Home <../index.html>`__   |  stoppage                   |
+| Stone Age                    | `Home <../index.html>`__   |  stoppage                   |
 +------------------------------+----------------------------+-----------------------------+
 
 stoppage
 
-`Prev <stone-knives-and-bearskins.html>`__ 
+`Prev <stone-knives-and-bearskins.html>`__ 
 
 S
 
- `Next <store.html>`__
+ `Next <store.html>`__
 
 --------------
 
@@ -6185,18 +5896,18 @@ stoppage was caused by a `*fried* <../F/fried.html>`__ transformer.”
 --------------
 
 +-----------------------------------------------+----------------------------+--------------------------+
-| `Prev <stone-knives-and-bearskins.html>`__    | `Up <../S.html>`__         |  `Next <store.html>`__   |
+| `Prev <stone-knives-and-bearskins.html>`__    | `Up <../S.html>`__         |  `Next <store.html>`__   |
 +-----------------------------------------------+----------------------------+--------------------------+
-| stone knives and bearskins                    | `Home <../index.html>`__   |  store                   |
+| stone knives and bearskins                    | `Home <../index.html>`__   |  store                   |
 +-----------------------------------------------+----------------------------+--------------------------+
 
 store
 
-`Prev <stoppage.html>`__ 
+`Prev <stoppage.html>`__ 
 
 S
 
- `Next <STR.html>`__
+ `Next <STR.html>`__
 
 --------------
 
@@ -6211,18 +5922,18 @@ shrink-wrapped software but that a program is being
 --------------
 
 +-----------------------------+----------------------------+------------------------+
-| `Prev <stoppage.html>`__    | `Up <../S.html>`__         |  `Next <STR.html>`__   |
+| `Prev <stoppage.html>`__    | `Up <../S.html>`__         |  `Next <STR.html>`__   |
 +-----------------------------+----------------------------+------------------------+
-| stoppage                    | `Home <../index.html>`__   |  STR                   |
+| stoppage                    | `Home <../index.html>`__   |  STR                   |
 +-----------------------------+----------------------------+------------------------+
 
 STR
 
-`Prev <store.html>`__ 
+`Prev <store.html>`__ 
 
 S
 
- `Next <strided.html>`__
+ `Next <strided.html>`__
 
 --------------
 
@@ -6243,18 +5954,18 @@ slurping”.
 --------------
 
 +--------------------------+----------------------------+----------------------------+
-| `Prev <store.html>`__    | `Up <../S.html>`__         |  `Next <strided.html>`__   |
+| `Prev <store.html>`__    | `Up <../S.html>`__         |  `Next <strided.html>`__   |
 +--------------------------+----------------------------+----------------------------+
-| store                    | `Home <../index.html>`__   |  strided                   |
+| store                    | `Home <../index.html>`__   |  strided                   |
 +--------------------------+----------------------------+----------------------------+
 
 strided
 
-`Prev <STR.html>`__ 
+`Prev <STR.html>`__ 
 
 S
 
- `Next <stroke.html>`__
+ `Next <stroke.html>`__
 
 --------------
 
@@ -6274,18 +5985,18 @@ term memory stride is definitely techspeak.
 --------------
 
 +------------------------+----------------------------+---------------------------+
-| `Prev <STR.html>`__    | `Up <../S.html>`__         |  `Next <stroke.html>`__   |
+| `Prev <STR.html>`__    | `Up <../S.html>`__         |  `Next <stroke.html>`__   |
 +------------------------+----------------------------+---------------------------+
-| STR                    | `Home <../index.html>`__   |  stroke                   |
+| STR                    | `Home <../index.html>`__   |  stroke                   |
 +------------------------+----------------------------+---------------------------+
 
 stroke
 
-`Prev <strided.html>`__ 
+`Prev <strided.html>`__ 
 
 S
 
- `Next <strudel.html>`__
+ `Next <strudel.html>`__
 
 --------------
 
@@ -6297,18 +6008,18 @@ Common name for the slant (‘/’, ASCII 0101111) character. See
 --------------
 
 +----------------------------+----------------------------+----------------------------+
-| `Prev <strided.html>`__    | `Up <../S.html>`__         |  `Next <strudel.html>`__   |
+| `Prev <strided.html>`__    | `Up <../S.html>`__         |  `Next <strudel.html>`__   |
 +----------------------------+----------------------------+----------------------------+
-| strided                    | `Home <../index.html>`__   |  strudel                   |
+| strided                    | `Home <../index.html>`__   |  strudel                   |
 +----------------------------+----------------------------+----------------------------+
 
 strudel
 
-`Prev <stroke.html>`__ 
+`Prev <stroke.html>`__ 
 
 S
 
- `Next <stubroutine.html>`__
+ `Next <stubroutine.html>`__
 
 --------------
 
@@ -6320,18 +6031,18 @@ Common (spoken) name for the at-sign (‘@’, ASCII 1000000) character. See
 --------------
 
 +---------------------------+----------------------------+--------------------------------+
-| `Prev <stroke.html>`__    | `Up <../S.html>`__         |  `Next <stubroutine.html>`__   |
+| `Prev <stroke.html>`__    | `Up <../S.html>`__         |  `Next <stubroutine.html>`__   |
 +---------------------------+----------------------------+--------------------------------+
-| stroke                    | `Home <../index.html>`__   |  stubroutine                   |
+| stroke                    | `Home <../index.html>`__   |  stubroutine                   |
 +---------------------------+----------------------------+--------------------------------+
 
 stubroutine
 
-`Prev <strudel.html>`__ 
+`Prev <strudel.html>`__ 
 
 S
 
- `Next <studly.html>`__
+ `Next <studly.html>`__
 
 --------------
 
@@ -6343,18 +6054,18 @@ subroutine that is to be written or fleshed out later.
 --------------
 
 +----------------------------+----------------------------+---------------------------+
-| `Prev <strudel.html>`__    | `Up <../S.html>`__         |  `Next <studly.html>`__   |
+| `Prev <strudel.html>`__    | `Up <../S.html>`__         |  `Next <studly.html>`__   |
 +----------------------------+----------------------------+---------------------------+
-| strudel                    | `Home <../index.html>`__   |  studly                   |
+| strudel                    | `Home <../index.html>`__   |  studly                   |
 +----------------------------+----------------------------+---------------------------+
 
 studlycaps
 
-`Prev <studly.html>`__ 
+`Prev <studly.html>`__ 
 
 S
 
- `Next <stunning.html>`__
+ `Next <stunning.html>`__
 
 --------------
 
@@ -6368,18 +6079,18 @@ oRigiN and SigNificaNce of thIs pRacTicE iS oBscuRe.
 --------------
 
 +---------------------------+----------------------------+-----------------------------+
-| `Prev <studly.html>`__    | `Up <../S.html>`__         |  `Next <stunning.html>`__   |
+| `Prev <studly.html>`__    | `Up <../S.html>`__         |  `Next <stunning.html>`__   |
 +---------------------------+----------------------------+-----------------------------+
-| studly                    | `Home <../index.html>`__   |  stunning                   |
+| studly                    | `Home <../index.html>`__   |  stunning                   |
 +---------------------------+----------------------------+-----------------------------+
 
 studly
 
-`Prev <stubroutine.html>`__ 
+`Prev <stubroutine.html>`__ 
 
 S
 
- `Next <studlycaps.html>`__
+ `Next <studlycaps.html>`__
 
 --------------
 
@@ -6394,18 +6105,18 @@ configuration parser is most studly.”
 --------------
 
 +--------------------------------+----------------------------+-------------------------------+
-| `Prev <stubroutine.html>`__    | `Up <../S.html>`__         |  `Next <studlycaps.html>`__   |
+| `Prev <stubroutine.html>`__    | `Up <../S.html>`__         |  `Next <studlycaps.html>`__   |
 +--------------------------------+----------------------------+-------------------------------+
-| stubroutine                    | `Home <../index.html>`__   |  studlycaps                   |
+| stubroutine                    | `Home <../index.html>`__   |  studlycaps                   |
 +--------------------------------+----------------------------+-------------------------------+
 
 stunning
 
-`Prev <studlycaps.html>`__ 
+`Prev <studlycaps.html>`__ 
 
 S
 
- `Next <stupid-sort.html>`__
+ `Next <stupid-sort.html>`__
 
 --------------
 
@@ -6417,18 +6128,18 @@ Mind-bogglingly stupid. Usually used in sarcasm. “You want to code
 --------------
 
 +-------------------------------+----------------------------+--------------------------------+
-| `Prev <studlycaps.html>`__    | `Up <../S.html>`__         |  `Next <stupid-sort.html>`__   |
+| `Prev <studlycaps.html>`__    | `Up <../S.html>`__         |  `Next <stupid-sort.html>`__   |
 +-------------------------------+----------------------------+--------------------------------+
-| studlycaps                    | `Home <../index.html>`__   |  stupid-sort                   |
+| studlycaps                    | `Home <../index.html>`__   |  stupid-sort                   |
 +-------------------------------+----------------------------+--------------------------------+
 
 Stupids
 
-`Prev <stupid-sort.html>`__ 
+`Prev <stupid-sort.html>`__ 
 
 S
 
- `Next <Sturgeons-Law.html>`__
+ `Next <Sturgeons-Law.html>`__
 
 --------------
 
@@ -6446,18 +6157,18 @@ and a minority of ‘Tweens’, the merely ordinary geniuses.
 --------------
 
 +--------------------------------+----------------------------+----------------------------------+
-| `Prev <stupid-sort.html>`__    | `Up <../S.html>`__         |  `Next <Sturgeons-Law.html>`__   |
+| `Prev <stupid-sort.html>`__    | `Up <../S.html>`__         |  `Next <Sturgeons-Law.html>`__   |
 +--------------------------------+----------------------------+----------------------------------+
-| stupid-sort                    | `Home <../index.html>`__   |  Sturgeon's Law                  |
+| stupid-sort                    | `Home <../index.html>`__   |  Sturgeon's Law                  |
 +--------------------------------+----------------------------+----------------------------------+
 
 stupid-sort
 
-`Prev <stunning.html>`__ 
+`Prev <stunning.html>`__ 
 
 S
 
- `Next <Stupids.html>`__
+ `Next <Stupids.html>`__
 
 --------------
 
@@ -6468,18 +6179,18 @@ Syn. `*bogo-sort* <../B/bogo-sort.html>`__.
 --------------
 
 +-----------------------------+----------------------------+----------------------------+
-| `Prev <stunning.html>`__    | `Up <../S.html>`__         |  `Next <Stupids.html>`__   |
+| `Prev <stunning.html>`__    | `Up <../S.html>`__         |  `Next <Stupids.html>`__   |
 +-----------------------------+----------------------------+----------------------------+
-| stunning                    | `Home <../index.html>`__   |  Stupids                   |
+| stunning                    | `Home <../index.html>`__   |  Stupids                   |
 +-----------------------------+----------------------------+----------------------------+
 
 Sturgeon's Law
 
-`Prev <Stupids.html>`__ 
+`Prev <Stupids.html>`__ 
 
 S
 
- `Next <sucking-mud.html>`__
+ `Next <sucking-mud.html>`__
 
 --------------
 
@@ -6500,18 +6211,18 @@ aware of its truth.
 --------------
 
 +----------------------------+----------------------------+--------------------------------+
-| `Prev <Stupids.html>`__    | `Up <../S.html>`__         |  `Next <sucking-mud.html>`__   |
+| `Prev <Stupids.html>`__    | `Up <../S.html>`__         |  `Next <sucking-mud.html>`__   |
 +----------------------------+----------------------------+--------------------------------+
-| Stupids                    | `Home <../index.html>`__   |  sucking mud                   |
+| Stupids                    | `Home <../index.html>`__   |  sucking mud                   |
 +----------------------------+----------------------------+--------------------------------+
 
 sucking mud
 
-`Prev <Sturgeons-Law.html>`__ 
+`Prev <Sturgeons-Law.html>`__ 
 
 S
 
- `Next <sufficiently-small.html>`__
+ `Next <sufficiently-small.html>`__
 
 --------------
 
@@ -6527,18 +6238,18 @@ reconfigure the network, are you ready to suck mud?”
 --------------
 
 +----------------------------------+----------------------------+---------------------------------------+
-| `Prev <Sturgeons-Law.html>`__    | `Up <../S.html>`__         |  `Next <sufficiently-small.html>`__   |
+| `Prev <Sturgeons-Law.html>`__    | `Up <../S.html>`__         |  `Next <sufficiently-small.html>`__   |
 +----------------------------------+----------------------------+---------------------------------------+
-| Sturgeon's Law                   | `Home <../index.html>`__   |  sufficiently small                   |
+| Sturgeon's Law                   | `Home <../index.html>`__   |  sufficiently small                   |
 +----------------------------------+----------------------------+---------------------------------------+
 
 sufficiently small
 
-`Prev <sucking-mud.html>`__ 
+`Prev <sucking-mud.html>`__ 
 
 S
 
- `Next <suit.html>`__
+ `Next <suit.html>`__
 
 --------------
 
@@ -6549,18 +6260,18 @@ Syn. `*suitably small* <suitably-small.html>`__.
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <sucking-mud.html>`__    | `Up <../S.html>`__         |  `Next <suit.html>`__   |
+| `Prev <sucking-mud.html>`__    | `Up <../S.html>`__         |  `Next <suit.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| sucking mud                    | `Home <../index.html>`__   |  suit                   |
+| sucking mud                    | `Home <../index.html>`__   |  suit                   |
 +--------------------------------+----------------------------+-------------------------+
 
 suitable win
 
-`Prev <suit.html>`__ 
+`Prev <suit.html>`__ 
 
 S
 
- `Next <suitably-small.html>`__
+ `Next <suitably-small.html>`__
 
 --------------
 
@@ -6571,18 +6282,18 @@ See `*win* <../W/win.html>`__.
 --------------
 
 +-------------------------+----------------------------+-----------------------------------+
-| `Prev <suit.html>`__    | `Up <../S.html>`__         |  `Next <suitably-small.html>`__   |
+| `Prev <suit.html>`__    | `Up <../S.html>`__         |  `Next <suitably-small.html>`__   |
 +-------------------------+----------------------------+-----------------------------------+
-| suit                    | `Home <../index.html>`__   |  suitably small                   |
+| suit                    | `Home <../index.html>`__   |  suitably small                   |
 +-------------------------+----------------------------+-----------------------------------+
 
 suitably small
 
-`Prev <suitable-win.html>`__ 
+`Prev <suitable-win.html>`__ 
 
 S
 
- `Next <Sun.html>`__
+ `Next <Sun.html>`__
 
 --------------
 
@@ -6598,18 +6309,18 @@ might add: “Well, for suitably small values of ‘works’.”
 --------------
 
 +---------------------------------+----------------------------+------------------------+
-| `Prev <suitable-win.html>`__    | `Up <../S.html>`__         |  `Next <Sun.html>`__   |
+| `Prev <suitable-win.html>`__    | `Up <../S.html>`__         |  `Next <Sun.html>`__   |
 +---------------------------------+----------------------------+------------------------+
-| suitable win                    | `Home <../index.html>`__   |  Sun                   |
+| suitable win                    | `Home <../index.html>`__   |  Sun                   |
 +---------------------------------+----------------------------+------------------------+
 
 suit
 
-`Prev <sufficiently-small.html>`__ 
+`Prev <sufficiently-small.html>`__ 
 
 S
 
- `Next <suitable-win.html>`__
+ `Next <suitable-win.html>`__
 
 --------------
 
@@ -6631,18 +6342,18 @@ and `*brain-damaged* <../B/brain-damaged.html>`__.
 --------------
 
 +---------------------------------------+----------------------------+---------------------------------+
-| `Prev <sufficiently-small.html>`__    | `Up <../S.html>`__         |  `Next <suitable-win.html>`__   |
+| `Prev <sufficiently-small.html>`__    | `Up <../S.html>`__         |  `Next <suitable-win.html>`__   |
 +---------------------------------------+----------------------------+---------------------------------+
-| sufficiently small                    | `Home <../index.html>`__   |  suitable win                   |
+| sufficiently small                    | `Home <../index.html>`__   |  suitable win                   |
 +---------------------------------------+----------------------------+---------------------------------+
 
 Sun
 
-`Prev <suitably-small.html>`__ 
+`Prev <suitably-small.html>`__ 
 
 S
 
- `Next <sun-lounge.html>`__
+ `Next <sun-lounge.html>`__
 
 --------------
 
@@ -6665,18 +6376,18 @@ Linux), it's still considered within the family in much the same way
 --------------
 
 +-----------------------------------+----------------------------+-------------------------------+
-| `Prev <suitably-small.html>`__    | `Up <../S.html>`__         |  `Next <sun-lounge.html>`__   |
+| `Prev <suitably-small.html>`__    | `Up <../S.html>`__         |  `Next <sun-lounge.html>`__   |
 +-----------------------------------+----------------------------+-------------------------------+
-| suitably small                    | `Home <../index.html>`__   |  sun lounge                   |
+| suitably small                    | `Home <../index.html>`__   |  sun lounge                   |
 +-----------------------------------+----------------------------+-------------------------------+
 
 sun lounge
 
-`Prev <Sun.html>`__ 
+`Prev <Sun.html>`__ 
 
 S
 
- `Next <sun-stools.html>`__
+ `Next <sun-stools.html>`__
 
 --------------
 
@@ -6690,18 +6401,18 @@ amazing amount of heat.
 --------------
 
 +------------------------+----------------------------+-------------------------------+
-| `Prev <Sun.html>`__    | `Up <../S.html>`__         |  `Next <sun-stools.html>`__   |
+| `Prev <Sun.html>`__    | `Up <../S.html>`__         |  `Next <sun-stools.html>`__   |
 +------------------------+----------------------------+-------------------------------+
-| Sun                    | `Home <../index.html>`__   |  sun-stools                   |
+| Sun                    | `Home <../index.html>`__   |  sun-stools                   |
 +------------------------+----------------------------+-------------------------------+
 
 sunspots
 
-`Prev <sun-stools.html>`__ 
+`Prev <sun-stools.html>`__ 
 
 S
 
- `Next <super-source-quench.html>`__
+ `Next <super-source-quench.html>`__
 
 --------------
 
@@ -6718,18 +6429,18 @@ moon* <../P/phase-of-the-moon.html>`__.
 --------------
 
 +-------------------------------+----------------------------+----------------------------------------+
-| `Prev <sun-stools.html>`__    | `Up <../S.html>`__         |  `Next <super-source-quench.html>`__   |
+| `Prev <sun-stools.html>`__    | `Up <../S.html>`__         |  `Next <super-source-quench.html>`__   |
 +-------------------------------+----------------------------+----------------------------------------+
-| sun-stools                    | `Home <../index.html>`__   |  super source quench                   |
+| sun-stools                    | `Home <../index.html>`__   |  super source quench                   |
 +-------------------------------+----------------------------+----------------------------------------+
 
 sun-stools
 
-`Prev <sun-lounge.html>`__ 
+`Prev <sun-lounge.html>`__ 
 
 S
 
- `Next <sunspots.html>`__
+ `Next <sunspots.html>`__
 
 --------------
 
@@ -6743,18 +6454,18 @@ notorious in its day for size, slowness, and misfeatures.
 --------------
 
 +-------------------------------+----------------------------+-----------------------------+
-| `Prev <sun-lounge.html>`__    | `Up <../S.html>`__         |  `Next <sunspots.html>`__   |
+| `Prev <sun-lounge.html>`__    | `Up <../S.html>`__         |  `Next <sunspots.html>`__   |
 +-------------------------------+----------------------------+-----------------------------+
-| sun lounge                    | `Home <../index.html>`__   |  sunspots                   |
+| sun lounge                    | `Home <../index.html>`__   |  sunspots                   |
 +-------------------------------+----------------------------+-----------------------------+
 
 superloser
 
-`Prev <super-source-quench.html>`__ 
+`Prev <super-source-quench.html>`__ 
 
 S
 
- `Next <superprogrammer.html>`__
+ `Next <superprogrammer.html>`__
 
 --------------
 
@@ -6769,18 +6480,18 @@ uncommon situation reckons without the territorial urges of
 --------------
 
 +----------------------------------------+----------------------------+------------------------------------+
-| `Prev <super-source-quench.html>`__    | `Up <../S.html>`__         |  `Next <superprogrammer.html>`__   |
+| `Prev <super-source-quench.html>`__    | `Up <../S.html>`__         |  `Next <superprogrammer.html>`__   |
 +----------------------------------------+----------------------------+------------------------------------+
-| super source quench                    | `Home <../index.html>`__   |  superprogrammer                   |
+| super source quench                    | `Home <../index.html>`__   |  superprogrammer                   |
 +----------------------------------------+----------------------------+------------------------------------+
 
 superprogrammer
 
-`Prev <superloser.html>`__ 
+`Prev <superloser.html>`__ 
 
 S
 
- `Next <superuser.html>`__
+ `Next <superuser.html>`__
 
 --------------
 
@@ -6804,18 +6515,18 @@ Hackers tend to prefer the terms `*hacker* <../H/hacker.html>`__ and
 --------------
 
 +-------------------------------+----------------------------+------------------------------+
-| `Prev <superloser.html>`__    | `Up <../S.html>`__         |  `Next <superuser.html>`__   |
+| `Prev <superloser.html>`__    | `Up <../S.html>`__         |  `Next <superuser.html>`__   |
 +-------------------------------+----------------------------+------------------------------+
-| superloser                    | `Home <../index.html>`__   |  superuser                   |
+| superloser                    | `Home <../index.html>`__   |  superuser                   |
 +-------------------------------+----------------------------+------------------------------+
 
 super source quench
 
-`Prev <sunspots.html>`__ 
+`Prev <sunspots.html>`__ 
 
 S
 
- `Next <superloser.html>`__
+ `Next <superloser.html>`__
 
 --------------
 
@@ -6836,18 +6547,18 @@ packet* <../B/breath-of-life-packet.html>`__.
 --------------
 
 +-----------------------------+----------------------------+-------------------------------+
-| `Prev <sunspots.html>`__    | `Up <../S.html>`__         |  `Next <superloser.html>`__   |
+| `Prev <sunspots.html>`__    | `Up <../S.html>`__         |  `Next <superloser.html>`__   |
 +-----------------------------+----------------------------+-------------------------------+
-| sunspots                    | `Home <../index.html>`__   |  superloser                   |
+| sunspots                    | `Home <../index.html>`__   |  superloser                   |
 +-----------------------------+----------------------------+-------------------------------+
 
 superuser
 
-`Prev <superprogrammer.html>`__ 
+`Prev <superprogrammer.html>`__ 
 
 S
 
- `Next <support.html>`__
+ `Next <support.html>`__
 
 --------------
 
@@ -6862,18 +6573,18 @@ environments; the superuser is any account with all
 --------------
 
 +------------------------------------+----------------------------+----------------------------+
-| `Prev <superprogrammer.html>`__    | `Up <../S.html>`__         |  `Next <support.html>`__   |
+| `Prev <superprogrammer.html>`__    | `Up <../S.html>`__         |  `Next <support.html>`__   |
 +------------------------------------+----------------------------+----------------------------+
-| superprogrammer                    | `Home <../index.html>`__   |  support                   |
+| superprogrammer                    | `Home <../index.html>`__   |  support                   |
 +------------------------------------+----------------------------+----------------------------+
 
 support
 
-`Prev <superuser.html>`__ 
+`Prev <superuser.html>`__ 
 
 S
 
- `Next <surf.html>`__
+ `Next <surf.html>`__
 
 --------------
 
@@ -6889,18 +6600,18 @@ the relevant manuals better than the support people (sadly, this is
 --------------
 
 +------------------------------+----------------------------+-------------------------+
-| `Prev <superuser.html>`__    | `Up <../S.html>`__         |  `Next <surf.html>`__   |
+| `Prev <superuser.html>`__    | `Up <../S.html>`__         |  `Next <surf.html>`__   |
 +------------------------------+----------------------------+-------------------------+
-| superuser                    | `Home <../index.html>`__   |  surf                   |
+| superuser                    | `Home <../index.html>`__   |  surf                   |
 +------------------------------+----------------------------+-------------------------+
 
 surf
 
-`Prev <support.html>`__ 
+`Prev <support.html>`__ 
 
 S
 
- `Next <Suzie-COBOL.html>`__
+ `Next <Suzie-COBOL.html>`__
 
 --------------
 
@@ -6921,18 +6632,18 @@ ignorami.
 --------------
 
 +----------------------------+----------------------------+--------------------------------+
-| `Prev <support.html>`__    | `Up <../S.html>`__         |  `Next <Suzie-COBOL.html>`__   |
+| `Prev <support.html>`__    | `Up <../S.html>`__         |  `Next <Suzie-COBOL.html>`__   |
 +----------------------------+----------------------------+--------------------------------+
-| support                    | `Home <../index.html>`__   |  Suzie COBOL                   |
+| support                    | `Home <../index.html>`__   |  Suzie COBOL                   |
 +----------------------------+----------------------------+--------------------------------+
 
 Suzie COBOL
 
-`Prev <surf.html>`__ 
+`Prev <surf.html>`__ 
 
 S
 
- `Next <swab.html>`__
+ `Next <swab.html>`__
 
 --------------
 
@@ -6951,18 +6662,18 @@ Hacker* <../J/J--Random-Hacker.html>`__.
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <surf.html>`__    | `Up <../S.html>`__         |  `Next <swab.html>`__   |
+| `Prev <surf.html>`__    | `Up <../S.html>`__         |  `Next <swab.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| surf                    | `Home <../index.html>`__   |  swab                   |
+| surf                    | `Home <../index.html>`__   |  swab                   |
 +-------------------------+----------------------------+-------------------------+
 
 swab
 
-`Prev <Suzie-COBOL.html>`__ 
+`Prev <Suzie-COBOL.html>`__ 
 
 S
 
- `Next <swap.html>`__
+ `Next <swap.html>`__
 
 --------------
 
@@ -6985,18 +6696,18 @@ functionally equivalent to it. See also
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <Suzie-COBOL.html>`__    | `Up <../S.html>`__         |  `Next <swap.html>`__   |
+| `Prev <Suzie-COBOL.html>`__    | `Up <../S.html>`__         |  `Next <swap.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| Suzie COBOL                    | `Home <../index.html>`__   |  swap                   |
+| Suzie COBOL                    | `Home <../index.html>`__   |  swap                   |
 +--------------------------------+----------------------------+-------------------------+
 
 swap
 
-`Prev <swab.html>`__ 
+`Prev <swab.html>`__ 
 
 S
 
- `Next <swap-space.html>`__
+ `Next <swap-space.html>`__
 
 --------------
 
@@ -7024,18 +6735,18 @@ out* <../P/page-out.html>`__.
 --------------
 
 +-------------------------+----------------------------+-------------------------------+
-| `Prev <swab.html>`__    | `Up <../S.html>`__         |  `Next <swap-space.html>`__   |
+| `Prev <swab.html>`__    | `Up <../S.html>`__         |  `Next <swap-space.html>`__   |
 +-------------------------+----------------------------+-------------------------------+
-| swab                    | `Home <../index.html>`__   |  swap space                   |
+| swab                    | `Home <../index.html>`__   |  swap space                   |
 +-------------------------+----------------------------+-------------------------------+
 
 swapped in
 
-`Prev <swap-space.html>`__ 
+`Prev <swap-space.html>`__ 
 
 S
 
- `Next <swapped-out.html>`__
+ `Next <swapped-out.html>`__
 
 --------------
 
@@ -7046,18 +6757,18 @@ See `*swap* <swap.html>`__. See also `*page in* <../P/page-in.html>`__.
 --------------
 
 +-------------------------------+----------------------------+--------------------------------+
-| `Prev <swap-space.html>`__    | `Up <../S.html>`__         |  `Next <swapped-out.html>`__   |
+| `Prev <swap-space.html>`__    | `Up <../S.html>`__         |  `Next <swapped-out.html>`__   |
 +-------------------------------+----------------------------+--------------------------------+
-| swap space                    | `Home <../index.html>`__   |  swapped out                   |
+| swap space                    | `Home <../index.html>`__   |  swapped out                   |
 +-------------------------------+----------------------------+--------------------------------+
 
 swapped out
 
-`Prev <swapped-in.html>`__ 
+`Prev <swapped-in.html>`__ 
 
 S
 
- `Next <Swiss-Army-chainsaw.html>`__
+ `Next <Swiss-Army-chainsaw.html>`__
 
 --------------
 
@@ -7069,18 +6780,18 @@ out* <../P/page-out.html>`__.
 --------------
 
 +-------------------------------+----------------------------+----------------------------------------+
-| `Prev <swapped-in.html>`__    | `Up <../S.html>`__         |  `Next <Swiss-Army-chainsaw.html>`__   |
+| `Prev <swapped-in.html>`__    | `Up <../S.html>`__         |  `Next <Swiss-Army-chainsaw.html>`__   |
 +-------------------------------+----------------------------+----------------------------------------+
-| swapped in                    | `Home <../index.html>`__   |  Swiss-Army chainsaw                   |
+| swapped in                    | `Home <../index.html>`__   |  Swiss-Army chainsaw                   |
 +-------------------------------+----------------------------+----------------------------------------+
 
 swap space
 
-`Prev <swap.html>`__ 
+`Prev <swap.html>`__ 
 
 S
 
- `Next <swapped-in.html>`__
+ `Next <swapped-in.html>`__
 
 --------------
 
@@ -7093,18 +6804,18 @@ swap space.”
 --------------
 
 +-------------------------+----------------------------+-------------------------------+
-| `Prev <swap.html>`__    | `Up <../S.html>`__         |  `Next <swapped-in.html>`__   |
+| `Prev <swap.html>`__    | `Up <../S.html>`__         |  `Next <swapped-in.html>`__   |
 +-------------------------+----------------------------+-------------------------------+
-| swap                    | `Home <../index.html>`__   |  swapped in                   |
+| swap                    | `Home <../index.html>`__   |  swapped in                   |
 +-------------------------+----------------------------+-------------------------------+
 
 Swiss-Army chainsaw
 
-`Prev <swapped-out.html>`__ 
+`Prev <swapped-out.html>`__ 
 
 S
 
- `Next <swizzle.html>`__
+ `Next <swizzle.html>`__
 
 --------------
 
@@ -7125,18 +6836,18 @@ software that is highly versatile but distressingly inelegant.
 --------------
 
 +--------------------------------+----------------------------+----------------------------+
-| `Prev <swapped-out.html>`__    | `Up <../S.html>`__         |  `Next <swizzle.html>`__   |
+| `Prev <swapped-out.html>`__    | `Up <../S.html>`__         |  `Next <swizzle.html>`__   |
 +--------------------------------+----------------------------+----------------------------+
-| swapped out                    | `Home <../index.html>`__   |  swizzle                   |
+| swapped out                    | `Home <../index.html>`__   |  swizzle                   |
 +--------------------------------+----------------------------+----------------------------+
 
 swizzle
 
-`Prev <Swiss-Army-chainsaw.html>`__ 
+`Prev <Swiss-Army-chainsaw.html>`__ 
 
 S
 
- `Next <sync.html>`__
+ `Next <sync.html>`__
 
 --------------
 
@@ -7153,18 +6864,18 @@ operation is sometimes termed unswizzling. See also
 --------------
 
 +----------------------------------------+----------------------------+-------------------------+
-| `Prev <Swiss-Army-chainsaw.html>`__    | `Up <../S.html>`__         |  `Next <sync.html>`__   |
+| `Prev <Swiss-Army-chainsaw.html>`__    | `Up <../S.html>`__         |  `Next <sync.html>`__   |
 +----------------------------------------+----------------------------+-------------------------+
-| Swiss-Army chainsaw                    | `Home <../index.html>`__   |  sync                   |
+| Swiss-Army chainsaw                    | `Home <../index.html>`__   |  sync                   |
 +----------------------------------------+----------------------------+-------------------------+
 
 sync
 
-`Prev <swizzle.html>`__ 
+`Prev <swizzle.html>`__ 
 
 S
 
- `Next <syntactic-salt.html>`__
+ `Next <syntactic-salt.html>`__
 
 --------------
 
@@ -7184,18 +6895,18 @@ checkpoint (in the database-theory sense).
 --------------
 
 +----------------------------+----------------------------+-----------------------------------+
-| `Prev <swizzle.html>`__    | `Up <../S.html>`__         |  `Next <syntactic-salt.html>`__   |
+| `Prev <swizzle.html>`__    | `Up <../S.html>`__         |  `Next <syntactic-salt.html>`__   |
 +----------------------------+----------------------------+-----------------------------------+
-| swizzle                    | `Home <../index.html>`__   |  syntactic salt                   |
+| swizzle                    | `Home <../index.html>`__   |  syntactic salt                   |
 +----------------------------+----------------------------+-----------------------------------+
 
 syntactic salt
 
-`Prev <sync.html>`__ 
+`Prev <sync.html>`__ 
 
 S
 
- `Next <syntactic-sugar.html>`__
+ `Next <syntactic-sugar.html>`__
 
 --------------
 
@@ -7216,18 +6927,18 @@ in an unhealthy way. Compare
 --------------
 
 +-------------------------+----------------------------+------------------------------------+
-| `Prev <sync.html>`__    | `Up <../S.html>`__         |  `Next <syntactic-sugar.html>`__   |
+| `Prev <sync.html>`__    | `Up <../S.html>`__         |  `Next <syntactic-sugar.html>`__   |
 +-------------------------+----------------------------+------------------------------------+
-| sync                    | `Home <../index.html>`__   |  syntactic sugar                   |
+| sync                    | `Home <../index.html>`__   |  syntactic sugar                   |
 +-------------------------+----------------------------+------------------------------------+
 
 syntactic sugar
 
-`Prev <syntactic-salt.html>`__ 
+`Prev <syntactic-salt.html>`__ 
 
 S
 
- `Next <sys-frog.html>`__
+ `Next <sys-frog.html>`__
 
 --------------
 
@@ -7252,18 +6963,18 @@ salt* <syntactic-salt.html>`__.
 --------------
 
 +-----------------------------------+----------------------------+-----------------------------+
-| `Prev <syntactic-salt.html>`__    | `Up <../S.html>`__         |  `Next <sys-frog.html>`__   |
+| `Prev <syntactic-salt.html>`__    | `Up <../S.html>`__         |  `Next <sys-frog.html>`__   |
 +-----------------------------------+----------------------------+-----------------------------+
-| syntactic salt                    | `Home <../index.html>`__   |  sys-frog                   |
+| syntactic salt                    | `Home <../index.html>`__   |  sys-frog                   |
 +-----------------------------------+----------------------------+-----------------------------+
 
 sysadmin
 
-`Prev <sys-frog.html>`__ 
+`Prev <sys-frog.html>`__ 
 
 S
 
- `Next <sysape.html>`__
+ `Next <sysape.html>`__
 
 --------------
 
@@ -7274,18 +6985,18 @@ Common contraction of ‘system admin’; see `*admin* <../A/admin.html>`__.
 --------------
 
 +-----------------------------+----------------------------+---------------------------+
-| `Prev <sys-frog.html>`__    | `Up <../S.html>`__         |  `Next <sysape.html>`__   |
+| `Prev <sys-frog.html>`__    | `Up <../S.html>`__         |  `Next <sysape.html>`__   |
 +-----------------------------+----------------------------+---------------------------+
-| sys-frog                    | `Home <../index.html>`__   |  sysape                   |
+| sys-frog                    | `Home <../index.html>`__   |  sysape                   |
 +-----------------------------+----------------------------+---------------------------+
 
 sysape
 
-`Prev <sysadmin.html>`__ 
+`Prev <sysadmin.html>`__ 
 
 S
 
- `Next <sysop.html>`__
+ `Next <sysop.html>`__
 
 --------------
 
@@ -7299,18 +7010,18 @@ problem* <../O/one-banana-problem.html>`__).
 --------------
 
 +-----------------------------+----------------------------+--------------------------+
-| `Prev <sysadmin.html>`__    | `Up <../S.html>`__         |  `Next <sysop.html>`__   |
+| `Prev <sysadmin.html>`__    | `Up <../S.html>`__         |  `Next <sysop.html>`__   |
 +-----------------------------+----------------------------+--------------------------+
-| sysadmin                    | `Home <../index.html>`__   |  sysop                   |
+| sysadmin                    | `Home <../index.html>`__   |  sysop                   |
 +-----------------------------+----------------------------+--------------------------+
 
 sys-frog
 
-`Prev <syntactic-sugar.html>`__ 
+`Prev <syntactic-sugar.html>`__ 
 
 S
 
- `Next <sysadmin.html>`__
+ `Next <sysadmin.html>`__
 
 --------------
 
@@ -7322,18 +7033,18 @@ for ‘systems programmer’.
 --------------
 
 +------------------------------------+----------------------------+-----------------------------+
-| `Prev <syntactic-sugar.html>`__    | `Up <../S.html>`__         |  `Next <sysadmin.html>`__   |
+| `Prev <syntactic-sugar.html>`__    | `Up <../S.html>`__         |  `Next <sysadmin.html>`__   |
 +------------------------------------+----------------------------+-----------------------------+
-| syntactic sugar                    | `Home <../index.html>`__   |  sysadmin                   |
+| syntactic sugar                    | `Home <../index.html>`__   |  sysadmin                   |
 +------------------------------------+----------------------------+-----------------------------+
 
 sysop
 
-`Prev <sysape.html>`__ 
+`Prev <sysape.html>`__ 
 
 S
 
- `Next <system.html>`__
+ `Next <system.html>`__
 
 --------------
 
@@ -7348,18 +7059,18 @@ around the world.
 --------------
 
 +---------------------------+----------------------------+---------------------------+
-| `Prev <sysape.html>`__    | `Up <../S.html>`__         |  `Next <system.html>`__   |
+| `Prev <sysape.html>`__    | `Up <../S.html>`__         |  `Next <system.html>`__   |
 +---------------------------+----------------------------+---------------------------+
-| sysape                    | `Home <../index.html>`__   |  system                   |
+| sysape                    | `Home <../index.html>`__   |  system                   |
 +---------------------------+----------------------------+---------------------------+
 
 system
 
-`Prev <sysop.html>`__ 
+`Prev <sysop.html>`__ 
 
 S
 
- `Next <system-mangler.html>`__
+ `Next <system-mangler.html>`__
 
 --------------
 
@@ -7380,18 +7091,18 @@ sense 3 one mentions the particular program: e.g., LISP hacker)
 --------------
 
 +--------------------------+----------------------------+-----------------------------------+
-| `Prev <sysop.html>`__    | `Up <../S.html>`__         |  `Next <system-mangler.html>`__   |
+| `Prev <sysop.html>`__    | `Up <../S.html>`__         |  `Next <system-mangler.html>`__   |
 +--------------------------+----------------------------+-----------------------------------+
-| sysop                    | `Home <../index.html>`__   |  system mangler                   |
+| sysop                    | `Home <../index.html>`__   |  system mangler                   |
 +--------------------------+----------------------------+-----------------------------------+
 
 system mangler
 
-`Prev <system.html>`__ 
+`Prev <system.html>`__ 
 
 S
 
- `Next <systems-jock.html>`__
+ `Next <systems-jock.html>`__
 
 --------------
 
@@ -7407,18 +7118,18 @@ the skills involved.
 --------------
 
 +---------------------------+----------------------------+---------------------------------+
-| `Prev <system.html>`__    | `Up <../S.html>`__         |  `Next <systems-jock.html>`__   |
+| `Prev <system.html>`__    | `Up <../S.html>`__         |  `Next <systems-jock.html>`__   |
 +---------------------------+----------------------------+---------------------------------+
-| system                    | `Home <../index.html>`__   |  systems jock                   |
+| system                    | `Home <../index.html>`__   |  systems jock                   |
 +---------------------------+----------------------------+---------------------------------+
 
 systems jock
 
-`Prev <system-mangler.html>`__ 
+`Prev <system-mangler.html>`__ 
 
 S
 
- `Next <../T.html>`__
+ `Next <../T.html>`__
 
 --------------
 
@@ -7429,8 +7140,8 @@ See `*jock* <../J/jock.html>`__, sense 2.
 --------------
 
 +-----------------------------------+----------------------------+-------------------------+
-| `Prev <system-mangler.html>`__    | `Up <../S.html>`__         |  `Next <../T.html>`__   |
+| `Prev <system-mangler.html>`__    | `Up <../S.html>`__         |  `Next <../T.html>`__   |
 +-----------------------------------+----------------------------+-------------------------+
-| system mangler                    | `Home <../index.html>`__   |  T                      |
+| system mangler                    | `Home <../index.html>`__   |  T                      |
 +-----------------------------------+----------------------------+-------------------------+
 
