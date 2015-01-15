@@ -3,27 +3,21 @@ Other
 ==============
 
 @-party
-=======
+==========
 
-`Prev <code-404-compliant.html>`__ 
 
-0
-
- `Next <../A.html>`__
-
---------------
 
 **@-party**: /at´par\`tee/, n.
 
 [from the @-sign in an Internet address] (alt.: ‘@-sign party’ /at´si:n
 par\`tee/) A semi-closed party thrown for hackers at a science-fiction
 convention (esp. the annual World Science Fiction Convention or
-“Worldcon”); one must have a `*network
-address* <../N/network-address.html>`__ to get in, or at least be in
+“Worldcon”); one must have a `network
+address <../N/network-address.html>`__ to get in, or at least be in
 company with someone who does. One of the most reliable opportunities
 for hackers to meet face to face with people who might otherwise be
 represented by mere phosphor dots on their screens. Compare
-`*boink* <../B/boink.html>`__.
+`boink <../B/boink.html>`__.
 
 The first recorded @-party was held at the Westercon (a U.S. western
 regional SF convention) over the July 4th weekend in 1980. It is not
@@ -36,24 +30,11 @@ pin.
 We are informed, however, that ``rec.skydiving`` members have maintained
 a tradition of formation jumps in the shape of an @.
 
---------------
-
-+---------------------------------------+----------------------------+-------------------------+
-| `Prev <code-404-compliant.html>`__    | `Up <../0.html>`__         |  `Next <../A.html>`__   |
-+---------------------------------------+----------------------------+-------------------------+
-| 404 compliant                         | `Home <../index.html>`__   |  A                      |
-+---------------------------------------+----------------------------+-------------------------+
 
 404 compliant
 ==============
 
-`Prev <code-404.html>`__\ Â 
 
-0
-
-Â \ `Next <at-party.html>`__
-
---------------
 
 **404 compliant**: adj.
 
@@ -61,27 +42,12 @@ The status of a website which has been completely removed, usually by
 the administrators of the hosting site as a result of net abuse by the
 website operators. The term is a tongue-in-cheek reference to the
 standard “301 compliant” Murkowski Bill disclaimer used by spammers. See
-also: `*spam* <../S/spam.html>`__,
-`*spamvertize* <../S/spamvertize.html>`__.
+also: `spam <../S/spam.html>`__,
+`spamvertize <../S/spamvertize.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <code-404.html>`__\ Â    | `Up <../0.html>`__         | Â \ `Next <at-party.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| 404Â                           | `Home <../index.html>`__   | Â @-party                      |
-+--------------------------------+----------------------------+--------------------------------+
 
 404
 ======
-
-`Prev <infix-2.html>`__\ Â 
-
-0
-
-Â \ `Next <code-404-compliant.html>`__
-
---------------
 
 **404**: //, n.
 
@@ -89,51 +55,28 @@ also: `*spam* <../S/spam.html>`__,
 convey that the subject has no idea or no clue -- sapience not found.
 May be used reflexively; “Uh, I'm 404ing” means “I'm drawing a blank”.
 
---------------
 
-+-------------------------------+----------------------------+------------------------------------------+
-| `Prev <infix-2.html>`__\ Â    | `Up <../0.html>`__         | Â \ `Next <code-404-compliant.html>`__   |
-+-------------------------------+----------------------------+------------------------------------------+
-| 2Â                            | `Home <../index.html>`__   | Â 404 compliant                          |
-+-------------------------------+----------------------------+------------------------------------------+
 
 /dev/null
 ===========
 
-`Prev <TM.html>`__ 
 
-0
-
- `Next <me.html>`__
-
---------------
 
 **/dev/null**: /dev·nuhl/, n.
 
 [from the Unix null device, used as a data sink] A notional ‘black hole’
 in any information space being discussed, used, or referred to. A
 controversial posting, for example, might end “Kudos to
-rasputin@kremlin.org, flames to /dev/null”. See `*bit
-bucket* <../B/bit-bucket.html>`__.
+rasputin@kremlin.org, flames to /dev/null”. See `bit
+bucket <../B/bit-bucket.html>`__.
 
---------------
 
-+-----------------------+----------------------------+-----------------------+
-| `Prev <TM.html>`__    | `Up <../0.html>`__         |  `Next <me.html>`__   |
-+-----------------------+----------------------------+-----------------------+
-| (TM)                  | `Home <../index.html>`__   |  /me                  |
-+-----------------------+----------------------------+-----------------------+
 
 2
 ==========
 
-`Prev <one-TBS.html>`__ 
 
-0
 
- `Next <code-404.html>`__
-
---------------
 
 **2**: infix.
 
@@ -145,24 +88,11 @@ PostScript), int2string (integer to string), and texi2roff (Texinfo to
 in which some idiot programmer fixes the Y2K bug by changing all the Y's
 in something to K's, as in Januark, Februark, etc.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <one-TBS.html>`__    | `Up <../0.html>`__         |  `Next <code-404.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| 1TBS                       | `Home <../index.html>`__   |  404                        |
-+----------------------------+----------------------------+-----------------------------+
 
 /me
 =====
 
-`Prev <dev-null.html>`__ 
-
-0
-
- `Next <numeral-zero.html>`__
-
---------------
 
 **/me**: //
 
@@ -172,24 +102,12 @@ will see “\* Joe Foonly laughs”. This usage has been carried over to
 mail and news, where the reader is expected to perform the same
 expansion in his or her head.
 
---------------
 
-+-----------------------------+----------------------------+---------------------------------+
-| `Prev <dev-null.html>`__    | `Up <../0.html>`__         |  `Next <numeral-zero.html>`__   |
-+-----------------------------+----------------------------+---------------------------------+
-| /dev/null                   | `Home <../index.html>`__   |  0                              |
-+-----------------------------+----------------------------+---------------------------------+
 
 0
 =========
 
-`Prev <me.html>`__ 
 
-0
-
- `Next <one-TBS.html>`__
-
---------------
 
 **0**
 
@@ -220,48 +138,22 @@ by a draft ANSI standard for how to draw ASCII characters, but the final
 standard changed the distinguisher to a tick-mark in the upper-left
 corner). Are we sufficiently confused yet?
 
---------------
 
-+-----------------------+----------------------------+----------------------------+
-| `Prev <me.html>`__    | `Up <../0.html>`__         |  `Next <one-TBS.html>`__   |
-+-----------------------+----------------------------+----------------------------+
-| /me                   | `Home <../index.html>`__   |  1TBS                      |
-+-----------------------+----------------------------+----------------------------+
 
 1TBS
 ======
 
-`Prev <numeral-zero.html>`__ 
 
-0
-
- `Next <infix-2.html>`__
-
---------------
 
 **1TBS**: //, n.
 
-The “One True Brace Style”; see `*indent
-style* <../I/indent-style.html>`__.
+The “One True Brace Style”; see `indent
+style <../I/indent-style.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+----------------------------+
-| `Prev <numeral-zero.html>`__    | `Up <../0.html>`__         |  `Next <infix-2.html>`__   |
-+---------------------------------+----------------------------+----------------------------+
-| 0                               | `Home <../index.html>`__   |  2                         |
-+---------------------------------+----------------------------+----------------------------+
 
 (TM)
 ========
 
-`Prev <../0.html>`__ 
-
-0
-
- `Next <dev-null.html>`__
-
---------------
 
 **(TM)**: //
 
@@ -269,13 +161,5 @@ style* <../I/indent-style.html>`__.
 feels should be recorded for posterity, perhaps in future editions of
 this lexicon. Sometimes used ironically as a form of protest against the
 recent spate of software and algorithm patents and look and feel
-lawsuits. See also `*UN\*X* <../U/UN-asterisk-X.html>`__.
-
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <../0.html>`__    | `Up <../0.html>`__         |  `Next <dev-null.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| 0                       | `Home <../index.html>`__   |  /dev/null                  |
-+-------------------------+----------------------------+-----------------------------+
+lawsuits. See also `UN\*X <../U/UN-asterisk-X.html>`__.
 

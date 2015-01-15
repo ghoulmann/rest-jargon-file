@@ -1,34 +1,20 @@
-V7
-
-`Prev <../V.html>`__ 
-
+===
 V
+===
 
- `Next <vadding.html>`__
+V7
+====
 
---------------
+
 
 **V7**: /V´sev´en/, n.
 
 See `*Version 7* <Version-7.html>`__.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <../V.html>`__    | `Up <../V.html>`__         |  `Next <vadding.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| V                       | `Home <../index.html>`__   |  vadding                   |
-+-------------------------+----------------------------+----------------------------+
 
 vadding
+=========
 
-`Prev <V7.html>`__ 
-
-V
-
- `Next <vanilla.html>`__
-
---------------
 
 **vadding**: /vad´ing/, n.
 
@@ -51,23 +37,9 @@ mastery in various stimulating ways (such as elevator hopping, shaft
 exploration, rat-racing, and the ever-popular drop experiments). Kids,
 don't try this at home!
 
---------------
-
-+-----------------------+----------------------------+----------------------------+
-| `Prev <V7.html>`__    | `Up <../V.html>`__         |  `Next <vanilla.html>`__   |
-+-----------------------+----------------------------+----------------------------+
-| V7                    | `Home <../index.html>`__   |  vanilla                   |
-+-----------------------+----------------------------+----------------------------+
-
 vanilla
+================
 
-`Prev <vadding.html>`__ 
-
-V
-
- `Next <vanity-domain.html>`__
-
---------------
 
 **vanilla**: adj.
 
@@ -86,23 +58,16 @@ soup is the `*canonical* <../C/canonical.html>`__ soup to get (because
 that is what most of them usually order) even though it isn't the
 vanilla (wonton) soup.
 
---------------
 
-+----------------------------+----------------------------+----------------------------------+
-| `Prev <vadding.html>`__    | `Up <../V.html>`__         |  `Next <vanity-domain.html>`__   |
-+----------------------------+----------------------------+----------------------------------+
-| vadding                    | `Home <../index.html>`__   |  vanity domain                   |
-+----------------------------+----------------------------+----------------------------------+
 
 vanity domain
+==================================
 
-`Prev <vanilla.html>`__ 
+`Prev <vanilla.html>`__ 
 
 V
 
- `Next <vannevar.html>`__
-
---------------
+ `Next <vannevar.html>`__
 
 **vanity domain**: n.
 
@@ -110,23 +75,14 @@ V
 domain, particularly in the .com or .org top-level domains, apparently
 created for no reason other than boosting the creator's ego.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <vanilla.html>`__    | `Up <../V.html>`__         |  `Next <vannevar.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| vanilla                    | `Home <../index.html>`__   |  vannevar                   |
-+----------------------------+----------------------------+-----------------------------+
 
 vannevar
+==================
 
-`Prev <vanity-domain.html>`__ 
 
-V
 
- `Next <vaporware.html>`__
 
---------------
 
 **vannevar**: /van'@·var/, n.
 
@@ -144,69 +100,35 @@ and a paper from the late 1970s that computed a purported ultimate limit
 on areal density for ICs that was in fact less than the routine
 densities of 5 years later.
 
---------------
 
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <vanity-domain.html>`__    | `Up <../V.html>`__         |  `Next <vaporware.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| vanity domain                    | `Home <../index.html>`__   |  vaporware                   |
-+----------------------------------+----------------------------+------------------------------+
 
 vaporware
+===========================
 
-`Prev <vannevar.html>`__ 
 
-V
-
- `Next <var.html>`__
-
---------------
 
 **vaporware**: /vay´pr·weir/, n.
 
 Products announced far in advance of any release (which may or may not
 actually take place).
 
---------------
 
-+-----------------------------+----------------------------+------------------------+
-| `Prev <vannevar.html>`__    | `Up <../V.html>`__         |  `Next <var.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| vannevar                    | `Home <../index.html>`__   |  var                   |
-+-----------------------------+----------------------------+------------------------+
 
 var
+===========
 
-`Prev <vaporware.html>`__ 
 
-V
-
- `Next <vaston.html>`__
-
---------------
 
 **var**: /veir/, /var/, n.
 
-Short for variable. Compare `*arg* <../A/arg.html>`__,
-`*param* <../P/param.html>`__.
+Short for variable. Compare `arg <../A/arg.html>`__,
+`param <../P/param.html>`__.
 
---------------
 
-+------------------------------+----------------------------+---------------------------+
-| `Prev <vaporware.html>`__    | `Up <../V.html>`__         |  `Next <vaston.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| vaporware                    | `Home <../index.html>`__   |  vaston                   |
-+------------------------------+----------------------------+---------------------------+
 
 vaston
+================================
 
-`Prev <var.html>`__ 
-
-V
-
- `Next <VAX.html>`__
-
---------------
 
 **vaston**: n.
 
@@ -215,23 +137,11 @@ computer is doing. A meter displaying this as a function of time is
 known as a vastometer. First used during a computing practical in
 December 1996.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <var.html>`__    | `Up <../V.html>`__         |  `Next <VAX.html>`__   |
-+------------------------+----------------------------+------------------------+
-| var                    | `Home <../index.html>`__   |  VAX                   |
-+------------------------+----------------------------+------------------------+
 
 VAXen
+===========================
 
-`Prev <VAX.html>`__ 
 
-V
-
- `Next <vaxocentrism.html>`__
-
---------------
 
 **VAXen**: /vak´sn/, n.
 
@@ -240,23 +150,12 @@ canonically used among hackers for the `*DEC* <../D/DEC.html>`__ VAX
 computers. “Our installation has four PDP-10s and twenty vaxen.” See
 `*boxen* <../B/boxen.html>`__.
 
---------------
 
-+------------------------+----------------------------+---------------------------------+
-| `Prev <VAX.html>`__    | `Up <../V.html>`__         |  `Next <vaxocentrism.html>`__   |
-+------------------------+----------------------------+---------------------------------+
-| VAX                    | `Home <../index.html>`__   |  vaxocentrism                   |
-+------------------------+----------------------------+---------------------------------+
 
 VAX
+=======================================
 
-`Prev <vaston.html>`__ 
 
-V
-
- `Next <VAXen.html>`__
-
---------------
 
 **VAX**: /vaks/, n.
 
@@ -294,23 +193,9 @@ report that VAX's promotions used it in 1986--1987, and we have one
 report from a New Zealander that the infamous slogan surfaced there in
 TV ads for the product in 1992.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <vaston.html>`__    | `Up <../V.html>`__         |  `Next <VAXen.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| vaston                    | `Home <../index.html>`__   |  VAXen                   |
-+---------------------------+----------------------------+--------------------------+
-
 vaxocentrism
+==========================================
 
-`Prev <VAXen.html>`__ 
-
-V
-
- `Next <vdiff.html>`__
-
---------------
 
 **vaxocentrism**: /vak\`soh·sen´trizm/, n.
 
@@ -400,23 +285,13 @@ original C machine, and became endemic years before the VAX. The terms
 vaxocentricity and all-the-world's-a-VAX syndrome have been used
 synonymously.
 
---------------
-
-+--------------------------+----------------------------+--------------------------+
-| `Prev <VAXen.html>`__    | `Up <../V.html>`__         |  `Next <vdiff.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| VAXen                    | `Home <../index.html>`__   |  vdiff                   |
-+--------------------------+----------------------------+--------------------------+
 
 vdiff
+========================
 
-`Prev <vaxocentrism.html>`__ 
 
-V
 
- `Next <veeblefester.html>`__
 
---------------
 
 **vdiff**: /vee´dif/, v.,n.
 
@@ -438,23 +313,10 @@ for depth perception) and differences stand out almost immediately. This
 technique is good for finding edits in graphical images, or for
 comparing an image with a compressed version to spot artifacts.
 
---------------
-
-+---------------------------------+----------------------------+---------------------------------+
-| `Prev <vaxocentrism.html>`__    | `Up <../V.html>`__         |  `Next <veeblefester.html>`__   |
-+---------------------------------+----------------------------+---------------------------------+
-| vaxocentrism                    | `Home <../index.html>`__   |  veeblefester                   |
-+---------------------------------+----------------------------+---------------------------------+
 
 veeblefester
+========================================
 
-`Prev <vdiff.html>`__ 
-
-V
-
- `Next <velveeta.html>`__
-
---------------
 
 **veeblefester**: /vee´b@l·fes\`tr/, n.
 
@@ -464,23 +326,10 @@ person engaged in the (alleged) professions of marketing or management.
 Antonym of `*hacker* <../H/hacker.html>`__. Compare
 `*suit* <../S/suit.html>`__, `*marketroid* <../M/marketroid.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <vdiff.html>`__    | `Up <../V.html>`__         |  `Next <velveeta.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| vdiff                    | `Home <../index.html>`__   |  velveeta                   |
-+--------------------------+----------------------------+-----------------------------+
 
 velveeta
+===========================================
 
-`Prev <veeblefester.html>`__ 
-
-V
-
- `Next <Venus-flytrap.html>`__
-
---------------
 
 **velveeta**: n.
 
@@ -492,46 +341,23 @@ message that is excessively cross-posted, as opposed to
 widely recognized but not commonly used; most people refer to both kinds
 of abuse as spam. Compare `*jello* <../J/jello.html>`__.
 
---------------
 
-+---------------------------------+----------------------------+----------------------------------+
-| `Prev <veeblefester.html>`__    | `Up <../V.html>`__         |  `Next <Venus-flytrap.html>`__   |
-+---------------------------------+----------------------------+----------------------------------+
-| veeblefester                    | `Home <../index.html>`__   |  Venus flytrap                   |
-+---------------------------------+----------------------------+----------------------------------+
 
 Venus flytrap
+===========================================
 
-`Prev <velveeta.html>`__ 
-
-V
-
- `Next <verbage.html>`__
-
---------------
 
 **Venus flytrap**: n.
 
-[after the insect-eating plant] See `*firewall
-machine* <../F/firewall-machine.html>`__.
+[after the insect-eating plant] See `firewall
+machine <../F/firewall-machine.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <velveeta.html>`__    | `Up <../V.html>`__         |  `Next <verbage.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| velveeta                    | `Home <../index.html>`__   |  verbage                   |
-+-----------------------------+----------------------------+----------------------------+
 
 verbage
+==========================
 
-`Prev <Venus-flytrap.html>`__ 
 
-V
-
- `Next <verbiage.html>`__
-
---------------
 
 **verbage**: /ver´b@j/, n.
 
@@ -540,23 +366,11 @@ A deliberate misspelling and mispronunciation of
 ‘garbage’. Compare `*content-free* <../C/content-free.html>`__. More
 pejorative than ‘verbiage’.
 
---------------
 
-+----------------------------------+----------------------------+-----------------------------+
-| `Prev <Venus-flytrap.html>`__    | `Up <../V.html>`__         |  `Next <verbiage.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
-| Venus flytrap                    | `Home <../index.html>`__   |  verbiage                   |
-+----------------------------------+----------------------------+-----------------------------+
 
 verbiage
+===========
 
-`Prev <verbage.html>`__ 
-
-V
-
- `Next <Version-7.html>`__
-
---------------
 
 **verbiage**: n.
 
@@ -566,23 +380,11 @@ connotations of mainstream ‘verbiage’ to suggest that the documentation
 is of marginal utility and that the motives behind its production have
 little to do with the ostensible subject.
 
---------------
 
-+----------------------------+----------------------------+------------------------------+
-| `Prev <verbage.html>`__    | `Up <../V.html>`__         |  `Next <Version-7.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| verbage                    | `Home <../index.html>`__   |  Version 7                   |
-+----------------------------+----------------------------+------------------------------+
 
 Version 7
+=====================
 
-`Prev <verbiage.html>`__ 
-
-V
-
- `Next <vgrep.html>`__
-
---------------
 
 **Version 7**: /vee´ se´vn/, n.
 
@@ -603,23 +405,10 @@ See `*BSD* <../B/BSD.html>`__, `*Unix* <../U/Unix.html>`__. Some
 old-timers impatient with commercialization and kernel bloat still
 maintain that V7 was the Last True Unix.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <verbiage.html>`__    | `Up <../V.html>`__         |  `Next <vgrep.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| verbiage                    | `Home <../index.html>`__   |  vgrep                   |
-+-----------------------------+----------------------------+--------------------------+
-
 vgrep
+==================================
 
-`Prev <Version-7.html>`__ 
 
-V
-
- `Next <vi.html>`__
-
---------------
 
 **vgrep**: /vee´grep/, v.,n.
 
@@ -627,23 +416,9 @@ Visual grep. The operation of finding patterns in a file optically
 rather than digitally (also called an optical grep). See
 `*grep* <../G/grep.html>`__; compare `*vdiff* <vdiff.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------+
-| `Prev <Version-7.html>`__    | `Up <../V.html>`__         |  `Next <vi.html>`__   |
-+------------------------------+----------------------------+-----------------------+
-| Version 7                    | `Home <../index.html>`__   |  vi                   |
-+------------------------------+----------------------------+-----------------------+
-
 videotex
+======================================
 
-`Prev <video-toaster.html>`__ 
-
-V
-
- `Next <virgin.html>`__
-
---------------
 
 **videotex**: n. obs.
 
@@ -659,21 +434,16 @@ the cost of local intelligence at the user's end. Like the `*gorilla
 arm* <../G/gorilla-arm.html>`__ effect, this has been a cautionary tale
 to hackers ever since. See also `*vannevar* <vannevar.html>`__.
 
---------------
 
-+----------------------------------+----------------------------+---------------------------+
-| `Prev <video-toaster.html>`__    | `Up <../V.html>`__         |  `Next <virgin.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
-| video toaster                    | `Home <../index.html>`__   |  virgin                   |
-+----------------------------------+----------------------------+---------------------------+
 
 video toaster
+===================================================
 
-`Prev <vi.html>`__ 
+`Prev <vi.html>`__ 
 
 V
 
- `Next <videotex.html>`__
+ `Next <videotex.html>`__
 
 --------------
 
@@ -689,18 +459,19 @@ manipulation. Compare `*web toaster* <../W/web-toaster.html>`__ and see
 --------------
 
 +-----------------------+----------------------------+-----------------------------+
-| `Prev <vi.html>`__    | `Up <../V.html>`__         |  `Next <videotex.html>`__   |
+| `Prev <vi.html>`__    | `Up <../V.html>`__         |  `Next <videotex.html>`__   |
 +-----------------------+----------------------------+-----------------------------+
-| vi                    | `Home <../index.html>`__   |  videotex                   |
+| vi                    | `Home <../index.html>`__   |  videotex                   |
 +-----------------------+----------------------------+-----------------------------+
 
 vi
+====================
 
-`Prev <vgrep.html>`__ 
+`Prev <vgrep.html>`__ 
 
 V
 
- `Next <video-toaster.html>`__
+ `Next <video-toaster.html>`__
 
 --------------
 
@@ -724,18 +495,19 @@ versions of EMACS). See `*holy wars* <../H/holy-wars.html>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------------+
-| `Prev <vgrep.html>`__    | `Up <../V.html>`__         |  `Next <video-toaster.html>`__   |
+| `Prev <vgrep.html>`__    | `Up <../V.html>`__         |  `Next <video-toaster.html>`__   |
 +--------------------------+----------------------------+----------------------------------+
-| vgrep                    | `Home <../index.html>`__   |  video toaster                   |
+| vgrep                    | `Home <../index.html>`__   |  video toaster                   |
 +--------------------------+----------------------------+----------------------------------+
 
 virgin
+==================
 
-`Prev <videotex.html>`__ 
+`Prev <videotex.html>`__ 
 
 V
 
- `Next <virtual.html>`__
+ `Next <virtual.html>`__
 
 --------------
 
@@ -747,21 +519,16 @@ system and see if it crashes again.” (Esp.: useful after contracting a
 extension, buffers and the like within a program that have not yet been
 used.
 
---------------
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <videotex.html>`__    | `Up <../V.html>`__         |  `Next <virtual.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| videotex                    | `Home <../index.html>`__   |  virtual                   |
-+-----------------------------+----------------------------+----------------------------+
 
 virtual beer
+==============================================
 
-`Prev <virtual.html>`__ 
+`Prev <virtual.html>`__ 
 
 V
 
- `Next <virtual-Friday.html>`__
+ `Next <virtual-Friday.html>`__
 
 --------------
 
@@ -772,21 +539,16 @@ this term signified cash, after a famous incident in which some
 Britishers who wanted to buy Linus a beer sent him money to Finland to
 do so.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <virtual.html>`__    | `Up <../V.html>`__         |  `Next <virtual-Friday.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| virtual                    | `Home <../index.html>`__   |  virtual Friday                   |
-+----------------------------+----------------------------+-----------------------------------+
 
 virtual Friday
+================================================
 
-`Prev <virtual-beer.html>`__ 
+`Prev <virtual-beer.html>`__ 
 
 V
 
- `Next <virtual-reality.html>`__
+ `Next <virtual-reality.html>`__
 
 --------------
 
@@ -803,18 +565,19 @@ weekends associated with many national holidays in the U.S.
 --------------
 
 +---------------------------------+----------------------------+------------------------------------+
-| `Prev <virtual-beer.html>`__    | `Up <../V.html>`__         |  `Next <virtual-reality.html>`__   |
+| `Prev <virtual-beer.html>`__    | `Up <../V.html>`__         |  `Next <virtual-reality.html>`__   |
 +---------------------------------+----------------------------+------------------------------------+
-| virtual beer                    | `Home <../index.html>`__   |  virtual reality                   |
+| virtual beer                    | `Home <../index.html>`__   |  virtual reality                   |
 +---------------------------------+----------------------------+------------------------------------+
 
 virtual
+========================
 
-`Prev <virgin.html>`__ 
+`Prev <virgin.html>`__ 
 
 V
 
- `Next <virtual-beer.html>`__
+ `Next <virtual-beer.html>`__
 
 --------------
 
@@ -835,18 +598,19 @@ there. An imaginative child's doll may be a virtual playmate. Oppose
 --------------
 
 +---------------------------+----------------------------+---------------------------------+
-| `Prev <virgin.html>`__    | `Up <../V.html>`__         |  `Next <virtual-beer.html>`__   |
+| `Prev <virgin.html>`__    | `Up <../V.html>`__         |  `Next <virtual-beer.html>`__   |
 +---------------------------+----------------------------+---------------------------------+
-| virgin                    | `Home <../index.html>`__   |  virtual beer                   |
+| virgin                    | `Home <../index.html>`__   |  virtual beer                   |
 +---------------------------+----------------------------+---------------------------------+
 
 virtual reality
+===============================
 
-`Prev <virtual-Friday.html>`__ 
+`Prev <virtual-Friday.html>`__ 
 
 V
 
- `Next <virtual-shredder.html>`__
+ `Next <virtual-shredder.html>`__
 
 --------------
 
@@ -872,18 +636,19 @@ person who ‘owns’ it. Otherwise anything goes. See
 --------------
 
 +-----------------------------------+----------------------------+-------------------------------------+
-| `Prev <virtual-Friday.html>`__    | `Up <../V.html>`__         |  `Next <virtual-shredder.html>`__   |
+| `Prev <virtual-Friday.html>`__    | `Up <../V.html>`__         |  `Next <virtual-shredder.html>`__   |
 +-----------------------------------+----------------------------+-------------------------------------+
-| virtual Friday                    | `Home <../index.html>`__   |  virtual shredder                   |
+| virtual Friday                    | `Home <../index.html>`__   |  virtual shredder                   |
 +-----------------------------------+----------------------------+-------------------------------------+
 
 virtual shredder
+==========================
 
-`Prev <virtual-reality.html>`__ 
+`Prev <virtual-reality.html>`__ 
 
 V
 
- `Next <virus.html>`__
+ `Next <virus.html>`__
 
 --------------
 
@@ -898,18 +663,19 @@ Unix gets from pipes and I/O redirection.
 --------------
 
 +------------------------------------+----------------------------+--------------------------+
-| `Prev <virtual-reality.html>`__    | `Up <../V.html>`__         |  `Next <virus.html>`__   |
+| `Prev <virtual-reality.html>`__    | `Up <../V.html>`__         |  `Next <virus.html>`__   |
 +------------------------------------+----------------------------+--------------------------+
-| virtual reality                    | `Home <../index.html>`__   |  virus                   |
+| virtual reality                    | `Home <../index.html>`__   |  virus                   |
 +------------------------------------+----------------------------+--------------------------+
 
 virus
+=======================================
 
-`Prev <virtual-shredder.html>`__ 
+`Prev <virtual-shredder.html>`__ 
 
 V
 
- `Next <visionary.html>`__
+ `Next <visionary.html>`__
 
 --------------
 
@@ -948,21 +714,18 @@ horse* <../T/Trojan-horse.html>`__). See `*phage* <../P/phage.html>`__;
 compare `*back door* <../B/back-door.html>`__; see also `*Unix
 conspiracy* <../U/Unix-conspiracy.html>`__.
 
---------------
 
-+-------------------------------------+----------------------------+------------------------------+
-| `Prev <virtual-shredder.html>`__    | `Up <../V.html>`__         |  `Next <visionary.html>`__   |
-+-------------------------------------+----------------------------+------------------------------+
-| virtual shredder                    | `Home <../index.html>`__   |  visionary                   |
-+-------------------------------------+----------------------------+------------------------------+
+
+
 
 visionary
+===================================
 
-`Prev <virus.html>`__ 
+`Prev <virus.html>`__ 
 
 V
 
- `Next <Visual-Fred.html>`__
+ `Next <Visual-Fred.html>`__
 
 --------------
 
@@ -981,18 +744,19 @@ a penchant is viewed with awe and wonder.
 --------------
 
 +--------------------------+----------------------------+--------------------------------+
-| `Prev <virus.html>`__    | `Up <../V.html>`__         |  `Next <Visual-Fred.html>`__   |
+| `Prev <virus.html>`__    | `Up <../V.html>`__         |  `Next <Visual-Fred.html>`__   |
 +--------------------------+----------------------------+--------------------------------+
-| virus                    | `Home <../index.html>`__   |  Visual Fred                   |
+| virus                    | `Home <../index.html>`__   |  Visual Fred                   |
 +--------------------------+----------------------------+--------------------------------+
 
 Visual Fred
+==============================
 
-`Prev <visionary.html>`__ 
+`Prev <visionary.html>`__ 
 
 V
 
- `Next <VMS.html>`__
+ `Next <VMS.html>`__
 
 --------------
 
@@ -1011,18 +775,19 @@ completely different name — Visual Fred. This rapidly caught on.
 --------------
 
 +------------------------------+----------------------------+------------------------+
-| `Prev <visionary.html>`__    | `Up <../V.html>`__         |  `Next <VMS.html>`__   |
+| `Prev <visionary.html>`__    | `Up <../V.html>`__         |  `Next <VMS.html>`__   |
 +------------------------------+----------------------------+------------------------+
-| visionary                    | `Home <../index.html>`__   |  VMS                   |
+| visionary                    | `Home <../index.html>`__   |  VMS                   |
 +------------------------------+----------------------------+------------------------+
 
 VMS
+==================
 
-`Prev <Visual-Fred.html>`__ 
+`Prev <Visual-Fred.html>`__ 
 
 V
 
- `Next <voice.html>`__
+ `Next <voice.html>`__
 
 --------------
 
@@ -1036,12 +801,12 @@ didn't exist; though true, this makes VMS fans furious. One major hacker
 gripe with VMS concerns its slowness — thus the following limerick:
 
 | 
-|     There once was a system called VMS
-|     Of cycles by no means abstemious.
-|          It's chock-full of hacks
-|          And runs on a VAX
-|     And makes my poor stomach all squeamious.
-|                                      — The Great Quux
+|     There once was a system called VMS
+|     Of cycles by no means abstemious.
+|          It's chock-full of hacks
+|          And runs on a VAX
+|     And makes my poor stomach all squeamious.
+|                                      — The Great Quux
 
 See also `*VAX* <VAX.html>`__, `*TOPS-10* <../T/TOPS-10.html>`__,
 `*TOPS-20* <../T/TOPS-20.html>`__, `*Unix* <../U/Unix.html>`__,
@@ -1050,18 +815,19 @@ See also `*VAX* <VAX.html>`__, `*TOPS-10* <../T/TOPS-10.html>`__,
 --------------
 
 +--------------------------------+----------------------------+--------------------------+
-| `Prev <Visual-Fred.html>`__    | `Up <../V.html>`__         |  `Next <voice.html>`__   |
+| `Prev <Visual-Fred.html>`__    | `Up <../V.html>`__         |  `Next <voice.html>`__   |
 +--------------------------------+----------------------------+--------------------------+
-| Visual Fred                    | `Home <../index.html>`__   |  voice                   |
+| Visual Fred                    | `Home <../index.html>`__   |  voice                   |
 +--------------------------------+----------------------------+--------------------------+
 
 voice
+====================
 
-`Prev <VMS.html>`__ 
+`Prev <VMS.html>`__ 
 
 V
 
- `Next <voice-net.html>`__
+ `Next <voice-net.html>`__
 
 --------------
 
@@ -1073,18 +839,19 @@ mode* <../T/talk-mode.html>`__. “I'm busy now; I'll voice you later.”
 --------------
 
 +------------------------+----------------------------+------------------------------+
-| `Prev <VMS.html>`__    | `Up <../V.html>`__         |  `Next <voice-net.html>`__   |
+| `Prev <VMS.html>`__    | `Up <../V.html>`__         |  `Next <voice-net.html>`__   |
 +------------------------+----------------------------+------------------------------+
-| VMS                    | `Home <../index.html>`__   |  voice-net                   |
+| VMS                    | `Home <../index.html>`__   |  voice-net                   |
 +------------------------+----------------------------+------------------------------+
 
 voice-net
+=================================
 
-`Prev <voice.html>`__ 
+`Prev <voice.html>`__ 
 
 V
 
- `Next <voodoo-programming.html>`__
+ `Next <voodoo-programming.html>`__
 
 --------------
 
@@ -1100,18 +867,19 @@ header; common variants of this are “Voicenet” and “V-Net”. Compare
 --------------
 
 +--------------------------+----------------------------+---------------------------------------+
-| `Prev <voice.html>`__    | `Up <../V.html>`__         |  `Next <voodoo-programming.html>`__   |
+| `Prev <voice.html>`__    | `Up <../V.html>`__         |  `Next <voodoo-programming.html>`__   |
 +--------------------------+----------------------------+---------------------------------------+
-| voice                    | `Home <../index.html>`__   |  voodoo programming                   |
+| voice                    | `Home <../index.html>`__   |  voodoo programming                   |
 +--------------------------+----------------------------+---------------------------------------+
 
 voodoo programming
+=================================
 
-`Prev <voice-net.html>`__ 
+`Prev <voice-net.html>`__ 
 
 V
 
- `Next <VR.html>`__
+ `Next <VR.html>`__
 
 --------------
 
@@ -1136,21 +904,15 @@ voodoo* <../S/SCSI-voodoo.html>`__.
 anyway, and which sometimes actually work, such as recompiling
 everything.
 
---------------
-
-+------------------------------+----------------------------+-----------------------+
-| `Prev <voice-net.html>`__    | `Up <../V.html>`__         |  `Next <VR.html>`__   |
-+------------------------------+----------------------------+-----------------------+
-| voice-net                    | `Home <../index.html>`__   |  VR                   |
-+------------------------------+----------------------------+-----------------------+
 
 VR
+==============
 
-`Prev <voodoo-programming.html>`__ 
+`Prev <voodoo-programming.html>`__ 
 
 V
 
- `Next <Vulcan-nerve-pinch.html>`__
+ `Next <Vulcan-nerve-pinch.html>`__
 
 --------------
 
@@ -1159,21 +921,14 @@ V
 On-line abbrev for `*virtual reality* <virtual-reality.html>`__, as
 opposed to `*RL* <../R/RL.html>`__.
 
---------------
-
-+---------------------------------------+----------------------------+---------------------------------------+
-| `Prev <voodoo-programming.html>`__    | `Up <../V.html>`__         |  `Next <Vulcan-nerve-pinch.html>`__   |
-+---------------------------------------+----------------------------+---------------------------------------+
-| voodoo programming                    | `Home <../index.html>`__   |  Vulcan nerve pinch                   |
-+---------------------------------------+----------------------------+---------------------------------------+
 
 Vulcan nerve pinch
 
-`Prev <VR.html>`__ 
+`Prev <VR.html>`__ 
 
 V
 
- `Next <vulture-capitalist.html>`__
+ `Next <vulture-capitalist.html>`__
 
 --------------
 
@@ -1196,20 +951,17 @@ with which Microsoft's unreliable software requires it. Compare
 --------------
 
 +-----------------------+----------------------------+---------------------------------------+
-| `Prev <VR.html>`__    | `Up <../V.html>`__         |  `Next <vulture-capitalist.html>`__   |
+| `Prev <VR.html>`__    | `Up <../V.html>`__         |  `Next <vulture-capitalist.html>`__   |
 +-----------------------+----------------------------+---------------------------------------+
-| VR                    | `Home <../index.html>`__   |  vulture capitalist                   |
+| VR                    | `Home <../index.html>`__   |  vulture capitalist                   |
 +-----------------------+----------------------------+---------------------------------------+
 
 vulture capitalist
+======================
 
-`Prev <Vulcan-nerve-pinch.html>`__ 
+`Prev <Vulcan-nerve-pinch.html>`__ 
 
-V
 
- `Next <../W.html>`__
-
---------------
 
 **vulture capitalist**: n.
 
@@ -1218,11 +970,4 @@ practice of pushing contracts that deprive inventors of control over
 their own innovations and most of the money they ought to have made from
 them.
 
---------------
-
-+---------------------------------------+----------------------------+-------------------------+
-| `Prev <Vulcan-nerve-pinch.html>`__    | `Up <../V.html>`__         |  `Next <../W.html>`__   |
-+---------------------------------------+----------------------------+-------------------------+
-| Vulcan nerve pinch                    | `Home <../index.html>`__   |  W                      |
-+---------------------------------------+----------------------------+-------------------------+
 
