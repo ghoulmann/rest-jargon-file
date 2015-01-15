@@ -8,8 +8,8 @@ tail recursion
 
 **tail recursion**: n.
 
-If you aren't sick of it already, see `*tail
-recursion* <tail-recursion.html>`__.
+If you aren't sick of it already, see `tail
+recursion <tail-recursion.html>`__.
 
 
 talker system
@@ -18,8 +18,8 @@ talker system
 
 **talker system**: n.
 
-British hackerism for software that enables real-time chat or `*talk
-mode* <talk-mode.html>`__.
+British hackerism for software that enables real-time chat or `talk
+mode <talk-mode.html>`__.
 
 
 talk mode
@@ -334,16 +334,15 @@ taste
 the number of features, hacks, and kluges programmed into it. Also
 tasty, tasteful, tastefulness. “This feature comes in ``N`` tasty
 flavors.” Although tasty and flavorful are essentially synonyms, taste
-and `*flavor* <../F/flavor.html>`__ are not. Taste refers to sound
+and `flavor <../F/flavor.html>`__ are not. Taste refers to sound
 judgment on the part of the creator; a program or feature can *exhibit*
 taste but cannot *have* taste. On the other hand, a feature can have
-`*flavor* <../F/flavor.html>`__. Also, `*flavor* <../F/flavor.html>`__
+`flavor <../F/flavor.html>`__. Also, `flavor <../F/flavor.html>`__
 has the additional meaning of ‘kind’ or ‘variety’ not shared by taste.
-The marked sense of `*flavor* <../F/flavor.html>`__ is more popular than
-taste, though both are widely used. See also
-`*elegant* <../E/elegant.html>`__.
+The marked sense of `flavor <../F/flavor.html>`__ is more popular than
+taste, though both are widely used. See also `elegant <../E/elegant.html>`__.
 
-2. Alt. sp. of `*tayste* <tayste.html>`__.
+2. Alt. sp. of `tayste <tayste.html>`__.
 
 
 tayste
@@ -352,49 +351,29 @@ tayste
 
 **tayste**: /tayst/
 
-n. Two bits; also as `*taste* <taste.html>`__. Syn.
-`*crumb* <../C/crumb.html>`__, `*quarter* <../Q/quarter.html>`__. See
-`*nybble* <../N/nybble.html>`__.
+n. Two bits; also as `taste <taste.html>`__. Syn.
+`crumb <../C/crumb.html>`__, `quarter <../Q/quarter.html>`__. See
+`nybble <../N/nybble.html>`__.
 
 TCB
 =============
 
-`Prev <tayste.html>`__ 
 
-T
-
- `Next <TCP-IP.html>`__
-
---------------
 
 **TCB**: /T·C·B/, n.
 
 [IBM] 1. Trouble Came Back. An intermittent or difficult-to-reproduce
-problem that has failed to respond to neglect or `*shotgun
-debugging* <../S/shotgun-debugging.html>`__. Compare
-`*heisenbug* <../H/heisenbug.html>`__. Not to be confused with:
+problem that has failed to respond to neglect or `shotgun
+debugging <../S/shotgun-debugging.html>`__. Compare
+`heisenbug <../H/heisenbug.html>`__. Not to be confused with:
 
-2. Trusted Computing Base, an ‘official’ jargon term from the `*Orange
-Book* <../O/Orange-Book.html>`__.
+2. Trusted Computing Base, an ‘official’ jargon term from the `Orange
+Book <../O/Orange-Book.html>`__.
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <tayste.html>`__    | `Up <../T.html>`__         |  `Next <TCP-IP.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| tayste                    | `Home <../index.html>`__   |  TCP/IP                   |
-+---------------------------+----------------------------+---------------------------+
 
 TCP/IP
 =============
 
-`Prev <TCB.html>`__ 
-
-T
-
- `Next <TECO.html>`__
-
---------------
 
 **TCP/IP**: /T´C·P I´P/, n.
 
@@ -408,31 +387,17 @@ heavily-politicized standards committee. Consequently, it (a) works, (b)
 actually promotes cheap cross-platform connectivity, and (c) annoys the
 hell out of corporate and governmental empire-builders everywhere.
 Hackers value all three of these properties. See
-`*creationism* <../C/creationism.html>`__.
+`creationism <../C/creationism.html>`__.
 
 2. [Amateur Packet Radio] Formerly expanded as “The Crap Phil Is
 Pushing”. The reference is to Phil Karn, KA9Q, and the context was an
 ongoing technical/political war between the majority of sites still
 running AX.25 and the TCP/IP relays. TCP/IP won.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <TCB.html>`__    | `Up <../T.html>`__         |  `Next <TECO.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| TCB                    | `Home <../index.html>`__   |  TECO                   |
-+------------------------+----------------------------+-------------------------+
-
 TECO
 ===========
 
-`Prev <TCP-IP.html>`__ 
 
-T
-
- `Next <tee.html>`__
-
---------------
 
 **TECO**: /tee´koh/, n.,v. obs.
 
@@ -440,9 +405,9 @@ T
 later, ‘Text Editor and COrrector’] n. A text editor developed at MIT
 and modified by just about everybody. With all the dialects included,
 TECO may have been the most prolific editor in use before
-`*EMACS* <../E/EMACS.html>`__, to which it was directly ancestral. Noted
+`EMACS <../E/EMACS.html>`__, to which it was directly ancestral. Noted
 for its powerful programming-language-like features and its unspeakably
-`*hairy* <../H/hairy.html>`__ syntax. It is literally the case that
+`hairy <../H/hairy.html>`__ syntax. It is literally the case that
 every string of characters is a valid TECO program (though probably not
 a useful one); one common game used to be mentally working out what the
 TECO commands corresponding to human names did.
@@ -476,72 +441,43 @@ The program is
 |  J <.-Z; .,(S,$ -D .)FX1 @F^B $K :L I $ G1 L>$$
 
 (where ^B means ‘Control-B’ (ASCII 0000010) and $ is actually an
-`*alt* <../A/alt.html>`__ or escape (ASCII 0011011) character).
+`alt <../A/alt.html>`__ or escape (ASCII 0011011) character).
 
 In fact, this very program was used to produce the second, sorted list
 from the first list. The first hack at it had a
-`*bug* <../B/bug.html>`__: GLS (the author) had accidentally omitted the
+`bug <../B/bug.html>`__: GLS (the author) had accidentally omitted the
 **@** in front of **F^B**, which as anyone can see is clearly the
-`*Wrong Thing* <../W/Wrong-Thing.html>`__. It worked fine the second
+`Wrong Thing <../W/Wrong-Thing.html>`__. It worked fine the second
 time. There is no space to describe all the features of TECO, but it may
 be of interest that **^P** means ‘sort’ and **J<.-Z; ... L>** is an
 idiomatic series of commands for ‘do once for every line’.
 
 In mid-1991, TECO is pretty much one with the dust of history, having
 been replaced in the affections of hackerdom by
-`*EMACS* <../E/EMACS.html>`__. Descendants of an early (and somewhat
+`EMACS <../E/EMACS.html>`__. Descendants of an early (and somewhat
 lobotomized) version adopted by DEC can still be found lurking on VMS
-and a couple of crufty `*PDP-11* <../P/PDP-11.html>`__ operating
+and a couple of crufty `PDP-11 <../P/PDP-11.html>`__ operating
 systems, however, and ports of the more advanced MIT versions remain the
 focus of some antiquarian interest. See also
-`*retrocomputing* <../R/retrocomputing.html>`__, `*write-only
-language* <../W/write-only-language.html>`__.
+`retrocomputing <../R/retrocomputing.html>`__, `write-only
+language <../W/write-only-language.html>`__.
 
---------------
-
-+---------------------------+----------------------------+------------------------+
-| `Prev <TCP-IP.html>`__    | `Up <../T.html>`__         |  `Next <tee.html>`__   |
-+---------------------------+----------------------------+------------------------+
-| TCP/IP                    | `Home <../index.html>`__   |  tee                   |
-+---------------------------+----------------------------+------------------------+
 
 tee
 ======================
 
-`Prev <TECO.html>`__ 
-
-T
-
- `Next <teergrube.html>`__
-
---------------
 
 **tee**: n.,vt.
 
 [Purdue] A carbon copy of an electronic transmission. “Oh, you're
-sending him the `*bits* <../B/bits.html>`__ to that? Slap on a tee for
+sending him the `bits <../B/bits.html>`__ to that? Slap on a tee for
 me.” From the Unix command tee(1), itself named after a pipe fitting
-(see `*plumbing* <../P/plumbing.html>`__). Can also mean ‘save one for
+(see `plumbing <../P/plumbing.html>`__). Can also mean ‘save one for
 me’, as in “Tee a slice for me!” Also spelled ‘T’.
-
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <TECO.html>`__    | `Up <../T.html>`__         |  `Next <teergrube.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| TECO                    | `Home <../index.html>`__   |  teergrube                   |
-+-------------------------+----------------------------+------------------------------+
 
 teergrube
 ============
 
-`Prev <tee.html>`__ 
-
-T
-
- `Next <teledildonics.html>`__
-
---------------
 
 **teergrube**: /teer´groob·@/, n.
 
@@ -554,55 +490,26 @@ in a Usenet sig block next to a human-readable warning not to send mail
 to it). The address harvester will dutifully collect the address. When
 the spammer tries to mailbomb it, his mailer will get stuck.
 
---------------
-
-+------------------------+----------------------------+----------------------------------+
-| `Prev <tee.html>`__    | `Up <../T.html>`__         |  `Next <teledildonics.html>`__   |
-+------------------------+----------------------------+----------------------------------+
-| tee                    | `Home <../index.html>`__   |  teledildonics                   |
-+------------------------+----------------------------+----------------------------------+
-
 teledildonics
 ===============
 
-`Prev <teergrube.html>`__ 
-
-T
-
- `Next <ten-finger-interface.html>`__
-
---------------
 
 **teledildonics**: /tel\`@·dil·do'·niks/, n.
 
 Sex in a computer simulated virtual reality, esp. computer-mediated
-sexual interaction between the `*VR* <../V/VR.html>`__ presences of two
+sexual interaction between the `VR <../V/VR.html>`__ presences of two
 humans. This practice is not yet possible except in the rather limited
-form of erotic conversation on `*MUD* <../M/MUD.html>`__\ s and the
+form of erotic conversation on `MUD <../M/MUD.html>`__\ s and the
 like. The term, however, is widely recognized in the VR community as a
-`*ha ha only serious* <../H/ha-ha-only-serious.html>`__ projection of
+`ha ha only serious <../H/ha-ha-only-serious.html>`__ projection of
 things to come. “When we can sustain a multi-sensory surround good
 enough for teledildonics, *then* we'll know we're getting somewhere.”
-See also `*hot chat* <../H/hot-chat.html>`__.
+See also `hot chat <../H/hot-chat.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------------------+
-| `Prev <teergrube.html>`__    | `Up <../T.html>`__         |  `Next <ten-finger-interface.html>`__   |
-+------------------------------+----------------------------+-----------------------------------------+
-| teergrube                    | `Home <../index.html>`__   |  ten-finger interface                   |
-+------------------------------+----------------------------+-----------------------------------------+
 
 ten-finger interface
 =================================
 
-`Prev <teledildonics.html>`__ 
-
-T
-
- `Next <tense.html>`__
-
---------------
 
 **ten-finger interface**: n.
 
@@ -610,24 +517,11 @@ The interface between two networks that cannot be directly connected for
 security reasons; refers to the practice of placing two terminals side
 by side and having an operator read from one and type into the other.
 
---------------
-
-+----------------------------------+----------------------------+--------------------------+
-| `Prev <teledildonics.html>`__    | `Up <../T.html>`__         |  `Next <tense.html>`__   |
-+----------------------------------+----------------------------+--------------------------+
-| teledildonics                    | `Home <../index.html>`__   |  tense                   |
-+----------------------------------+----------------------------+--------------------------+
-
 tense
 ===================
 
-`Prev <ten-finger-interface.html>`__ 
 
-T
 
- `Next <tentacle.html>`__
-
---------------
 
 **tense**: adj.
 
@@ -637,29 +531,14 @@ a great idea. A comment in a clever routine by Mike Kazar, once a
 grad-student hacker at CMU: “This routine is so tense it will bring
 tears to your eyes.” A tense programmer is one who produces tense code.
 
---------------
-
-+-----------------------------------------+----------------------------+-----------------------------+
-| `Prev <ten-finger-interface.html>`__    | `Up <../T.html>`__         |  `Next <tentacle.html>`__   |
-+-----------------------------------------+----------------------------+-----------------------------+
-| ten-finger interface                    | `Home <../index.html>`__   |  tentacle                   |
-+-----------------------------------------+----------------------------+-----------------------------+
 
 tentacle
 =================
 
 
-`Prev <tense.html>`__ 
-
-T
-
- `Next <tenured-graduate-student.html>`__
-
---------------
-
 **tentacle**: n.
 
-A covert `*pseudo* <../P/pseudo.html>`__, sense 1. An artificial
+A covert `pseudo <../P/pseudo.html>`__, sense 1. An artificial
 identity created in cyberspace for nefarious and deceptive purposes. The
 implication is that a single person may have multiple tentacles. This
 term was originally floated in some paranoid ravings on the cypherpunks
@@ -667,27 +546,13 @@ list (see `*cypherpunk* <../C/cypherpunk.html>`__), and adopted in a
 spirit of irony by other, saner members. It has since shown up, used
 seriously, in the documentation for some remailer software, and is now
 (1994) widely recognized on the net. Compare
-`*astroturfing* <../A/astroturfing.html>`__, `*sock
-puppet* <../S/sock-puppet.html>`__.
+`astroturfing <../A/astroturfing.html>`__, `sock
+puppet <../S/sock-puppet.html>`__.
 
---------------
-
-+--------------------------+----------------------------+---------------------------------------------+
-| `Prev <tense.html>`__    | `Up <../T.html>`__         |  `Next <tenured-graduate-student.html>`__   |
-+--------------------------+----------------------------+---------------------------------------------+
-| tense                    | `Home <../index.html>`__   |  tenured graduate student                   |
-+--------------------------+----------------------------+---------------------------------------------+
 
 tenured graduate student
 ==============================
 
-`Prev <tentacle.html>`__ 
-
-T
-
- `Next <tera-.html>`__
-
---------------
 
 **tenured graduate student**: n.
 
@@ -698,24 +563,10 @@ get tenure, of course, the way professors do, but a tenth-year graduate
 student has probably been around the university longer than any
 untenured professor.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <tentacle.html>`__    | `Up <../T.html>`__         |  `Next <tera-.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| tentacle                    | `Home <../index.html>`__   |  tera-                   |
-+-----------------------------+----------------------------+--------------------------+
 
 teraflop club
 ====================
 
-`Prev <tera-.html>`__ 
-
-T
-
- `Next <terminak.html>`__
-
---------------
 
 **teraflop club**: /te´r@·flop kluhb/, n.
 
@@ -723,102 +574,48 @@ T
 consume outrageous amounts of computer time in order to produce a few
 simple pictures of glass balls with intricate ray-tracing techniques.
 Caltech professor James Kajiya is said to have been the founder. Compare
-`*Knights of the Lambda
-Calculus* <../K/Knights-of-the-Lambda-Calculus.html>`__.
+`Knights of the Lambda
+Calculus <../K/Knights-of-the-Lambda-Calculus.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <tera-.html>`__    | `Up <../T.html>`__         |  `Next <terminak.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| tera-                    | `Home <../index.html>`__   |  terminak                   |
-+--------------------------+----------------------------+-----------------------------+
 
 tera-
 ===========
 
-`Prev <tenured-graduate-student.html>`__ 
-
-T
-
- `Next <teraflop-club.html>`__
-
---------------
 
 **tera-**: /te´r@/, pref.
 
 [SI] See `*quantifiers* <../Q/quantifiers.html>`__.
 
---------------
-
-+---------------------------------------------+----------------------------+----------------------------------+
-| `Prev <tenured-graduate-student.html>`__    | `Up <../T.html>`__         |  `Next <teraflop-club.html>`__   |
-+---------------------------------------------+----------------------------+----------------------------------+
-| tenured graduate student                    | `Home <../index.html>`__   |  teraflop club                   |
-+---------------------------------------------+----------------------------+----------------------------------+
-
 terminak
+============
 
-`Prev <teraflop-club.html>`__ 
 
-T
-
- `Next <terminal-brain-death.html>`__
-
---------------
 
 **terminak**: /ter´mi·nak\`/, n.
 
 [Caltech, ca. 1979] Any malfunctioning computer terminal. A common
 failure mode of Lear-Siegler ADM 3a terminals caused the ‘L’ key to
 produce the ‘K’ code instead; complaints about this tended to look like
-“Terminak #3 has a bad keyboard. Pkease fix.” Compare `*dread high-bit
-disease* <../D/dread-high-bit-disease.html>`__,
-`*frogging* <../F/frogging.html>`__; see also
-`*sun-stools* <../S/sun-stools.html>`__,
-`*HP-SUX* <../H/HP-SUX.html>`__, `*Slowlaris* <../S/Slowlaris.html>`__.
+“Terminak #3 has a bad keyboard. Pkease fix.” Compare `dread high-bit
+disease <../D/dread-high-bit-disease.html>`__,
+`frogging <../F/frogging.html>`__; see also
+`sun-stools <../S/sun-stools.html>`__,
+`HP-SUX <../H/HP-SUX.html>`__, `Slowlaris <../S/Slowlaris.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------------------+
-| `Prev <teraflop-club.html>`__    | `Up <../T.html>`__         |  `Next <terminal-brain-death.html>`__   |
-+----------------------------------+----------------------------+-----------------------------------------+
-| teraflop club                    | `Home <../index.html>`__   |  terminal brain death                   |
-+----------------------------------+----------------------------+-----------------------------------------+
 
 terminal brain death
+=======================
 
-`Prev <terminak.html>`__ 
-
-T
-
- `Next <terminal-illness.html>`__
-
---------------
 
 **terminal brain death**: n.
 
-The extreme form of `*terminal illness* <terminal-illness.html>`__
+The extreme form of `terminal illness <terminal-illness.html>`__
 (sense 1). What someone who has obviously been hacking continuously for
 far too long is said to be suffering from.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------------+
-| `Prev <terminak.html>`__    | `Up <../T.html>`__         |  `Next <terminal-illness.html>`__   |
-+-----------------------------+----------------------------+-------------------------------------+
-| terminak                    | `Home <../index.html>`__   |  terminal illness                   |
-+-----------------------------+----------------------------+-------------------------------------+
-
 terminal illness
+======================
 
-`Prev <terminal-brain-death.html>`__ 
-
-T
-
- `Next <terminal-junkie.html>`__
-
---------------
 
 **terminal illness**: n.
 
@@ -827,56 +624,28 @@ T
 2. The ‘burn-in’ condition your CRT tends to get if you don't have a
 screen saver.
 
---------------
-
-+-----------------------------------------+----------------------------+------------------------------------+
-| `Prev <terminal-brain-death.html>`__    | `Up <../T.html>`__         |  `Next <terminal-junkie.html>`__   |
-+-----------------------------------------+----------------------------+------------------------------------+
-| terminal brain death                    | `Home <../index.html>`__   |  terminal junkie                   |
-+-----------------------------------------+----------------------------+------------------------------------+
-
 terminal junkie
+====================================
 
-`Prev <terminal-illness.html>`__ 
-
-T
-
- `Next <test.html>`__
-
---------------
 
 **terminal junkie**: n.
 
-[UK] A `*wannabee* <../W/wannabee.html>`__ or early `*larval
-stage* <../L/larval-stage.html>`__ hacker who spends most of his or her
+[UK] A `*wannabee* <../W/wannabee.html>`__ or early `larval
+stage <../L/larval-stage.html>`__ hacker who spends most of his or her
 time wandering the directory tree and writing
-`*noddy* <../N/noddy.html>`__ programs just to get a fix of computer
-time. Variants include terminal jockey, console junkie, and `*console
-jockey* <../C/console-jockey.html>`__. The term console jockey seems to
+`noddy <../N/noddy.html>`__ programs just to get a fix of computer
+time. Variants include terminal jockey, console junkie, and `console
+jockey <../C/console-jockey.html>`__. The term console jockey seems to
 imply more expertise than the other three (possibly because of the
-exalted status of the `*console* <../C/console.html>`__ relative to an
-ordinary terminal). See also `*twink* <twink.html>`__, `*read-only
-user* <../R/read-only-user.html>`__. Appropriately, this term was used
+exalted status of the `console <../C/console.html>`__ relative to an
+ordinary terminal). See also `twink <twink.html>`__, `*ead-only
+user <../R/read-only-user.html>`__. Appropriately, this term was used
 in the works of William S. Burroughs to describe a heroin addict with an
 unlimited supply.
 
---------------
-
-+-------------------------------------+----------------------------+-------------------------+
-| `Prev <terminal-illness.html>`__    | `Up <../T.html>`__         |  `Next <test.html>`__   |
-+-------------------------------------+----------------------------+-------------------------+
-| terminal illness                    | `Home <../index.html>`__   |  test                   |
-+-------------------------------------+----------------------------+-------------------------+
-
 test
+=============
 
-`Prev <terminal-junkie.html>`__ 
-
-T
-
- `Next <TeX.html>`__
-
---------------
 
 **test**: n.
 
@@ -887,25 +656,11 @@ acquainted with it, with careful monitoring and followup of the results.
 developer looking over his or her shoulder, ready to pounce on mistakes.
 
 Judging by the quality of most software, the second definition is far
-more prevalent. See also `*demo* <../D/demo.html>`__.
-
---------------
-
-+------------------------------------+----------------------------+------------------------+
-| `Prev <terminal-junkie.html>`__    | `Up <../T.html>`__         |  `Next <TeX.html>`__   |
-+------------------------------------+----------------------------+------------------------+
-| terminal junkie                    | `Home <../index.html>`__   |  TeX                   |
-+------------------------------------+----------------------------+------------------------+
+more prevalent. See also `demo <../D/demo.html>`__.
 
 TeX
+===========
 
-`Prev <test.html>`__ 
-
-T
-
- `Next <text.html>`__
-
---------------
 
 **TeX**: /tekh/, n.
 
@@ -943,23 +698,11 @@ the bribe went up. Though well-written, TeX is so large (and so full of
 cutting edge technique) that it is said to have unearthed at least one
 bug in every Pascal system it has been compiled with.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <test.html>`__    | `Up <../T.html>`__         |  `Next <text.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| test                    | `Home <../index.html>`__   |  text                   |
-+-------------------------+----------------------------+-------------------------+
 
 text
+=============
 
-`Prev <TeX.html>`__ 
 
-T
-
- `Next <thanks-in-advance.html>`__
-
---------------
 
 **text**: n.
 
@@ -974,23 +717,11 @@ text files; you can review them using the editor.”
 
 These two contradictory senses confuse hackers, too.
 
---------------
-
-+------------------------+----------------------------+--------------------------------------+
-| `Prev <TeX.html>`__    | `Up <../T.html>`__         |  `Next <thanks-in-advance.html>`__   |
-+------------------------+----------------------------+--------------------------------------+
-| TeX                    | `Home <../index.html>`__   |  thanks in advance                   |
-+------------------------+----------------------------+--------------------------------------+
 
 thanks in advance
+============================
 
-`Prev <text.html>`__ 
 
-T
-
- `Next <Thats-not-a-bug--thats-a-feature-.html>`__
-
---------------
 
 **thanks in advance**
 
@@ -999,23 +730,10 @@ information or assistance. Sometimes written ‘advTHANKSance’ or
 ‘aTdHvAaNnKcSe’ or abbreviated ‘TIA’. See `*net.-* <../N/net--.html>`__,
 `*netiquette* <../N/netiquette.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------------------------------+
-| `Prev <text.html>`__    | `Up <../T.html>`__         |  `Next <Thats-not-a-bug--thats-a-feature-.html>`__   |
-+-------------------------+----------------------------+------------------------------------------------------+
-| text                    | `Home <../index.html>`__   |  That's not a bug, that's a feature!                 |
-+-------------------------+----------------------------+------------------------------------------------------+
 
 That's not a bug, that's a feature!
+==========================================
 
-`Prev <thanks-in-advance.html>`__ 
-
-T
-
- `Next <the-literature.html>`__
-
---------------
 
 **That's not a bug, that's a feature!**
 
@@ -1024,23 +742,9 @@ a purported bug. The complainant, if unconvinced, is likely to retort
 that the bug is then at best a `*misfeature* <../M/misfeature.html>`__.
 See also `*feature* <../F/feature.html>`__.
 
---------------
-
-+--------------------------------------+----------------------------+-----------------------------------+
-| `Prev <thanks-in-advance.html>`__    | `Up <../T.html>`__         |  `Next <the-literature.html>`__   |
-+--------------------------------------+----------------------------+-----------------------------------+
-| thanks in advance                    | `Home <../index.html>`__   |  the literature                   |
-+--------------------------------------+----------------------------+-----------------------------------+
-
 the literature
+==========================
 
-`Prev <Thats-not-a-bug--thats-a-feature-.html>`__ 
-
-T
-
- `Next <the-network.html>`__
-
---------------
 
 **the literature**: n.
 
@@ -1050,23 +754,10 @@ answer a question that the speaker believes is
 question by saying “It's in the literature.” Oppose
 `*Knuth* <../K/Knuth.html>`__, which has no connotation of triviality.
 
---------------
-
-+------------------------------------------------------+----------------------------+--------------------------------+
-| `Prev <Thats-not-a-bug--thats-a-feature-.html>`__    | `Up <../T.html>`__         |  `Next <the-network.html>`__   |
-+------------------------------------------------------+----------------------------+--------------------------------+
-| That's not a bug, that's a feature!                  | `Home <../index.html>`__   |  the network                   |
-+------------------------------------------------------+----------------------------+--------------------------------+
-
 the network
+===================
 
-`Prev <the-literature.html>`__ 
 
-T
-
- `Next <the-X-that-can-be-Y-is-not-the-true-X.html>`__
-
---------------
 
 **the network**: n.
 
@@ -1096,23 +787,10 @@ In sense 1, the network is often abbreviated to the net. “Are you on the
 net?” is a frequent question when hackers first meet face to face, and
 “See you on the net!” is a frequent goodbye.
 
---------------
-
-+-----------------------------------+----------------------------+----------------------------------------------------------+
-| `Prev <the-literature.html>`__    | `Up <../T.html>`__         |  `Next <the-X-that-can-be-Y-is-not-the-true-X.html>`__   |
-+-----------------------------------+----------------------------+----------------------------------------------------------+
-| the literature                    | `Home <../index.html>`__   |  the X that can be Y is not the true X                   |
-+-----------------------------------+----------------------------+----------------------------------------------------------+
 
 theology
+============
 
-`Prev <the-X-that-can-be-Y-is-not-the-true-X.html>`__ 
-
-T
-
- `Next <theory.html>`__
-
---------------
 
 **theology**: n.
 
@@ -1126,23 +804,10 @@ design or system. Used esp. around software issues with a heavy AI or
 language-design component, such as the smart-data vs. smart-programs
 dispute in AI.
 
---------------
-
-+----------------------------------------------------------+----------------------------+---------------------------+
-| `Prev <the-X-that-can-be-Y-is-not-the-true-X.html>`__    | `Up <../T.html>`__         |  `Next <theory.html>`__   |
-+----------------------------------------------------------+----------------------------+---------------------------+
-| the X that can be Y is not the true X                    | `Home <../index.html>`__   |  theory                   |
-+----------------------------------------------------------+----------------------------+---------------------------+
 
 theory
+==============
 
-`Prev <theology.html>`__ 
-
-T
-
- `Next <thinko.html>`__
-
---------------
 
 **theory**: n.
 
@@ -1154,23 +819,11 @@ fixing this TECO loss?” “What's the theory on dinner tonight?”
 during the day?” “The theory behind this change is to fix the following
 well-known screw....”
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <theology.html>`__    | `Up <../T.html>`__         |  `Next <thinko.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| theology                    | `Home <../index.html>`__   |  thinko                   |
-+-----------------------------+----------------------------+---------------------------+
 
 the X that can be Y is not the true X
+=========================================
 
-`Prev <the-network.html>`__ 
 
-T
-
- `Next <theology.html>`__
-
---------------
 
 **the X that can be Y is not the true X**
 
@@ -1182,23 +835,11 @@ that the X is a mystery accessible only to the enlightened. See the
 `*trampoline* <trampoline.html>`__ entry for an example, and compare
 `*has the X nature* <../H/has-the-X-nature.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-----------------------------+
-| `Prev <the-network.html>`__    | `Up <../T.html>`__         |  `Next <theology.html>`__   |
-+--------------------------------+----------------------------+-----------------------------+
-| the network                    | `Home <../index.html>`__   |  theology                   |
-+--------------------------------+----------------------------+-----------------------------+
 
 thinko
+================
 
-`Prev <theory.html>`__ 
 
-T
-
- `Next <This-can-t-happen.html>`__
-
---------------
 
 **thinko**: /thing´koh/, n.
 
@@ -1208,45 +849,20 @@ rote; a bubble in the stream of consciousness. Syn.
 `*braino* <../B/braino.html>`__; see also `*brain
 fart* <../B/brain-fart.html>`__. Compare `*mouso* <../M/mouso.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------------+
-| `Prev <theory.html>`__    | `Up <../T.html>`__         |  `Next <This-can-t-happen.html>`__   |
-+---------------------------+----------------------------+--------------------------------------+
-| theory                    | `Home <../index.html>`__   |  This can't happen                   |
-+---------------------------+----------------------------+--------------------------------------+
 
 This can't happen
+====================
 
-`Prev <thinko.html>`__ 
-
-T
-
- `Next <This-time--for-sure-.html>`__
-
---------------
 
 **This can't happen**
 
 Less clipped variant of `*can't happen* <../C/can-t-happen.html>`__.
 
---------------
 
-+---------------------------+----------------------------+-----------------------------------------+
-| `Prev <thinko.html>`__    | `Up <../T.html>`__         |  `Next <This-time--for-sure-.html>`__   |
-+---------------------------+----------------------------+-----------------------------------------+
-| thinko                    | `Home <../index.html>`__   |  This time, for sure!                   |
-+---------------------------+----------------------------+-----------------------------------------+
 
 This time, for sure!
+==========================
 
-`Prev <This-can-t-happen.html>`__ 
-
-T
-
- `Next <thrash.html>`__
-
---------------
 
 **This time, for sure!**: excl.
 
@@ -1258,23 +874,10 @@ me pull a rabbit out of my hat!” The
 `*canonical* <../C/canonical.html>`__ response is, of course, “But that
 trick *never* works!” See `*hacker humor* <../H/hacker-humor.html>`__.
 
---------------
-
-+--------------------------------------+----------------------------+---------------------------+
-| `Prev <This-can-t-happen.html>`__    | `Up <../T.html>`__         |  `Next <thrash.html>`__   |
-+--------------------------------------+----------------------------+---------------------------+
-| This can't happen                    | `Home <../index.html>`__   |  thrash                   |
-+--------------------------------------+----------------------------+---------------------------+
-
 thrash
+===================
 
-`Prev <This-time--for-sure-.html>`__ 
 
-T
-
- `Next <thread.html>`__
-
---------------
 
 **thrash**: vi.
 
@@ -1287,23 +890,11 @@ thrashing. A person frantically trying to execute too many tasks at once
 (and not spending enough time on any single task) may also be described
 as thrashing. Compare `*multitask* <../M/multitask.html>`__.
 
---------------
-
-+-----------------------------------------+----------------------------+---------------------------+
-| `Prev <This-time--for-sure-.html>`__    | `Up <../T.html>`__         |  `Next <thread.html>`__   |
-+-----------------------------------------+----------------------------+---------------------------+
-| This time, for sure!                    | `Home <../index.html>`__   |  thread                   |
-+-----------------------------------------+----------------------------+---------------------------+
 
 thread
+===============
 
-`Prev <thrash.html>`__ 
 
-T
-
- `Next <three-finger-salute.html>`__
-
---------------
 
 **thread**: n.
 
@@ -1321,45 +912,19 @@ thought, or the like; the sequence of events or ideas continuing
 throughout the whole course of anything;” Citations are given going back
 to 1642!
 
---------------
-
-+---------------------------+----------------------------+----------------------------------------+
-| `Prev <thrash.html>`__    | `Up <../T.html>`__         |  `Next <three-finger-salute.html>`__   |
-+---------------------------+----------------------------+----------------------------------------+
-| thrash                    | `Home <../index.html>`__   |  three-finger salute                   |
-+---------------------------+----------------------------+----------------------------------------+
 
 three-finger salute
+===========================
 
-`Prev <thread.html>`__ 
-
-T
-
- `Next <throwaway-account.html>`__
-
---------------
 
 **three-finger salute**: n.
 
 Syn. `*Vulcan nerve pinch* <../V/Vulcan-nerve-pinch.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------------+
-| `Prev <thread.html>`__    | `Up <../T.html>`__         |  `Next <throwaway-account.html>`__   |
-+---------------------------+----------------------------+--------------------------------------+
-| thread                    | `Home <../index.html>`__   |  throwaway account                   |
-+---------------------------+----------------------------+--------------------------------------+
 
 throwaway account
+==========================
 
-`Prev <three-finger-salute.html>`__ 
-
-T
-
- `Next <thud.html>`__
-
---------------
 
 **throwaway account**: n.
 
@@ -1371,23 +936,9 @@ T
 doing something which requires a valid email address but being able to
 ignore spam since the user will not look at the account again.
 
---------------
-
-+----------------------------------------+----------------------------+-------------------------+
-| `Prev <three-finger-salute.html>`__    | `Up <../T.html>`__         |  `Next <thud.html>`__   |
-+----------------------------------------+----------------------------+-------------------------+
-| three-finger salute                    | `Home <../index.html>`__   |  thud                   |
-+----------------------------------------+----------------------------+-------------------------+
 
 T
-
-`Prev <../T.html>`__ 
-
-T
-
- `Next <tail-recursion.html>`__
-
---------------
+=========
 
 **T**: /T/
 
@@ -1415,23 +966,9 @@ the noun ‘transaction’.
 an intended allusion to NIL, “New Implementation of Lisp”, another
 dialect of Lisp developed for the `*VAX* <../V/VAX.html>`__)
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <../T.html>`__    | `Up <../T.html>`__         |  `Next <tail-recursion.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| T                       | `Home <../index.html>`__   |  tail recursion                   |
-+-------------------------+----------------------------+-----------------------------------+
 
 thud
-
-`Prev <throwaway-account.html>`__ 
-
-T
-
- `Next <thumb.html>`__
-
---------------
+==============
 
 **thud**: n.
 
@@ -1444,23 +981,10 @@ mid-1970s the canonical series of these was ‘foo’, ‘bar’, ‘thud’,
 2. Rare term for the hash character, ‘#’ (ASCII 0100011). See
 `*ASCII* <../A/ASCII.html>`__ for other synonyms.
 
---------------
-
-+--------------------------------------+----------------------------+--------------------------+
-| `Prev <throwaway-account.html>`__    | `Up <../T.html>`__         |  `Next <thumb.html>`__   |
-+--------------------------------------+----------------------------+--------------------------+
-| throwaway account                    | `Home <../index.html>`__   |  thumb                   |
-+--------------------------------------+----------------------------+--------------------------+
-
 thumb
+=========
 
-`Prev <thud.html>`__ 
 
-T
-
- `Next <thundering-herd-problem.html>`__
-
---------------
 
 **thumb**: n.
 
@@ -1468,23 +992,11 @@ The slider on a window-system scrollbar. So called because moving it
 allows you to browse through the contents of a text window in a way
 analogous to thumbing through a book.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------------------+
-| `Prev <thud.html>`__    | `Up <../T.html>`__         |  `Next <thundering-herd-problem.html>`__   |
-+-------------------------+----------------------------+--------------------------------------------+
-| thud                    | `Home <../index.html>`__   |  thundering herd problem                   |
-+-------------------------+----------------------------+--------------------------------------------+
 
 thundering herd problem
+===========================
 
-`Prev <thumb.html>`__ 
 
-T
-
- `Next <thunk.html>`__
-
---------------
 
 **thundering herd problem**
 
@@ -1498,23 +1010,11 @@ sleep. Thus the system thrashes briefly while a herd of processes
 thunders through. If this starts to happen many times per second, the
 performance impact can be significant.
 
---------------
-
-+--------------------------+----------------------------+--------------------------+
-| `Prev <thumb.html>`__    | `Up <../T.html>`__         |  `Next <thunk.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| thumb                    | `Home <../index.html>`__   |  thunk                   |
-+--------------------------+----------------------------+--------------------------+
 
 thunk
+========
 
-`Prev <thundering-herd-problem.html>`__ 
 
-T
-
- `Next <tick.html>`__
-
---------------
 
 **thunk**: /thuhnk/, n.
 
@@ -1561,23 +1061,11 @@ thought, simplifying the evaluation machinery. In other words, it had
 ‘already been thought of’; thus it was christened a thunk, which is “the
 past tense of ‘think’ at two in the morning”.
 
---------------
-
-+--------------------------------------------+----------------------------+-------------------------+
-| `Prev <thundering-herd-problem.html>`__    | `Up <../T.html>`__         |  `Next <tick.html>`__   |
-+--------------------------------------------+----------------------------+-------------------------+
-| thundering herd problem                    | `Home <../index.html>`__   |  tick                   |
-+--------------------------------------------+----------------------------+-------------------------+
 
 tick
+==========
 
-`Prev <thunk.html>`__ 
 
-T
-
- `Next <tick-list-features.html>`__
-
---------------
 
 **tick**: n.
 
@@ -1593,23 +1081,11 @@ causes is `*handwave* <../H/handwave.html>`__\ d.
 
 3. In the FORTH language, a single quote character.
 
---------------
-
-+--------------------------+----------------------------+---------------------------------------+
-| `Prev <thunk.html>`__    | `Up <../T.html>`__         |  `Next <tick-list-features.html>`__   |
-+--------------------------+----------------------------+---------------------------------------+
-| thunk                    | `Home <../index.html>`__   |  tick-list features                   |
-+--------------------------+----------------------------+---------------------------------------+
 
 tickle a bug
+================
 
-`Prev <tick-list-features.html>`__ 
 
-T
-
- `Next <tiger-team.html>`__
-
---------------
 
 **tickle a bug**: vt.
 
@@ -1618,23 +1094,10 @@ series of inputs or operations. “You can tickle the bug in the Paradise
 VGA card's highlight handling by trying to set bright yellow reverse
 video.”
 
---------------
-
-+---------------------------------------+----------------------------+-------------------------------+
-| `Prev <tick-list-features.html>`__    | `Up <../T.html>`__         |  `Next <tiger-team.html>`__   |
-+---------------------------------------+----------------------------+-------------------------------+
-| tick-list features                    | `Home <../index.html>`__   |  tiger team                   |
-+---------------------------------------+----------------------------+-------------------------------+
-
 tick-list features
+=========================
 
-`Prev <tick.html>`__ 
 
-T
-
- `Next <tickle-a-bug.html>`__
-
---------------
 
 **tick-list features**: n.
 
@@ -1643,23 +1106,11 @@ on but never use (calculators in desktop TSRs and that sort of thing).
 The American equivalent would be checklist features, but this jargon
 sense of the phrase has not been reported.
 
---------------
-
-+-------------------------+----------------------------+---------------------------------+
-| `Prev <tick.html>`__    | `Up <../T.html>`__         |  `Next <tickle-a-bug.html>`__   |
-+-------------------------+----------------------------+---------------------------------+
-| tick                    | `Home <../index.html>`__   |  tickle a bug                   |
-+-------------------------+----------------------------+---------------------------------+
 
 tiger team
+================
 
-`Prev <tickle-a-bug.html>`__ 
 
-T
-
- `Next <time-bomb.html>`__
-
---------------
 
 **tiger team**: n.
 
@@ -1689,23 +1140,11 @@ declassified, would probably rank among the greatest hacks of all times.
 The term has been adopted in commercial computer-security circles in
 this more specific sense.
 
---------------
-
-+---------------------------------+----------------------------+------------------------------+
-| `Prev <tickle-a-bug.html>`__    | `Up <../T.html>`__         |  `Next <time-bomb.html>`__   |
-+---------------------------------+----------------------------+------------------------------+
-| tickle a bug                    | `Home <../index.html>`__   |  time bomb                   |
-+---------------------------------+----------------------------+------------------------------+
 
 time bomb
+===================
 
-`Prev <tiger-team.html>`__ 
 
-T
-
- `Next <time-sink.html>`__
-
---------------
 
 **time bomb**: n.
 
@@ -1726,23 +1165,10 @@ was the first cracking case to make it to court there. The perpetrator
 got a suspended sentence of 3 years in jail and was barred from future
 work as a programmer.
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <tiger-team.html>`__    | `Up <../T.html>`__         |  `Next <time-sink.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| tiger team                    | `Home <../index.html>`__   |  time sink                   |
-+-------------------------------+----------------------------+------------------------------+
-
 timesharing
+======================
 
-`Prev <times-or-divided-by.html>`__ 
 
-T
-
- `Next <TINC.html>`__
-
---------------
 
 **timesharing**
 
@@ -1793,46 +1219,17 @@ was complete. It is no coincidence that the last stages of this
 migration coincided with the development of the first open-source
 operating systems.
 
---------------
-
-+----------------------------------------+----------------------------+-------------------------+
-| `Prev <times-or-divided-by.html>`__    | `Up <../T.html>`__         |  `Next <TINC.html>`__   |
-+----------------------------------------+----------------------------+-------------------------+
-| times-or-divided-by                    | `Home <../index.html>`__   |  TINC                   |
-+----------------------------------------+----------------------------+-------------------------+
-
 time sink
-
-`Prev <time-bomb.html>`__ 
-
-T
-
- `Next <time-T.html>`__
-
---------------
+=============
 
 **time sink**: n.
 
 [poss.: by analogy with heat sink or current sink] A project that
 consumes unbounded amounts of time.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <time-bomb.html>`__    | `Up <../T.html>`__         |  `Next <time-T.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| time bomb                    | `Home <../index.html>`__   |  time T                   |
-+------------------------------+----------------------------+---------------------------+
 
 times-or-divided-by
-
-`Prev <time-T.html>`__ 
-
-T
-
- `Next <timesharing.html>`__
-
---------------
+=====================
 
 **times-or-divided-by**: quant.
 
@@ -1841,23 +1238,10 @@ the uncertainty associated with a scheduling estimate, for either
 humorous or brutally honest effect. For a software project, the
 scheduling uncertainty factor is usually at least 2.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <time-T.html>`__    | `Up <../T.html>`__         |  `Next <timesharing.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| time T                    | `Home <../index.html>`__   |  timesharing                   |
-+---------------------------+----------------------------+--------------------------------+
 
 time T
+===============
 
-`Prev <time-sink.html>`__ 
-
-T
-
- `Next <times-or-divided-by.html>`__
-
---------------
 
 **time T**: /ti:m T/, n.
 
@@ -1874,23 +1258,11 @@ you could on campus and end up eating at the same time. See also `*since
 time T equals minus
 infinity* <../S/since-time-T-equals-minus-infinity.html>`__.
 
---------------
-
-+------------------------------+----------------------------+----------------------------------------+
-| `Prev <time-sink.html>`__    | `Up <../T.html>`__         |  `Next <times-or-divided-by.html>`__   |
-+------------------------------+----------------------------+----------------------------------------+
-| time sink                    | `Home <../index.html>`__   |  times-or-divided-by                   |
-+------------------------------+----------------------------+----------------------------------------+
 
 TINC
+============
 
-`Prev <timesharing.html>`__ 
 
-T
-
- `Next <Tinkerbell-program.html>`__
-
---------------
 
 **TINC**: //
 
@@ -1899,23 +1271,11 @@ cabal* <../B/backbone-cabal.html>`__ and `*NANA* <../N/NANA.html>`__,
 but note that this abbreviation did not enter use until long after the
 dispersal of the backbone cabal.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------------------+
-| `Prev <timesharing.html>`__    | `Up <../T.html>`__         |  `Next <Tinkerbell-program.html>`__   |
-+--------------------------------+----------------------------+---------------------------------------+
-| timesharing                    | `Home <../index.html>`__   |  Tinkerbell program                   |
-+--------------------------------+----------------------------+---------------------------------------+
 
 Tinkerbell program
+======================
 
-`Prev <TINC.html>`__ 
 
-T
-
- `Next <TINLC.html>`__
-
---------------
 
 **Tinkerbell program**: n.
 
@@ -1925,23 +1285,11 @@ when logins are attempted using certain IDs. Named after ‘Project
 Tinkerbell’, an experimental phone-tapping program developed by British
 Telecom in the early 1980s.
 
---------------
 
-+-------------------------+----------------------------+--------------------------+
-| `Prev <TINC.html>`__    | `Up <../T.html>`__         |  `Next <TINLC.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| TINC                    | `Home <../index.html>`__   |  TINLC                   |
-+-------------------------+----------------------------+--------------------------+
 
 TINLC
+==========
 
-`Prev <Tinkerbell-program.html>`__ 
-
-T
-
- `Next <tip-of-the-ice-cube.html>`__
-
---------------
 
 **TINLC**: //
 
@@ -1949,23 +1297,10 @@ Abbreviation: “There Is No Lumber Cartel”. See `*Lumber
 Cartel* <../L/Lumber-Cartel.html>`__. TINLC is a takeoff on
 `*TINC* <TINC.html>`__.
 
---------------
-
-+---------------------------------------+----------------------------+----------------------------------------+
-| `Prev <Tinkerbell-program.html>`__    | `Up <../T.html>`__         |  `Next <tip-of-the-ice-cube.html>`__   |
-+---------------------------------------+----------------------------+----------------------------------------+
-| Tinkerbell program                    | `Home <../index.html>`__   |  tip of the ice-cube                   |
-+---------------------------------------+----------------------------+----------------------------------------+
 
 tip of the ice-cube
+=======================
 
-`Prev <TINLC.html>`__ 
-
-T
-
- `Next <tired-iron.html>`__
-
---------------
 
 **tip of the ice-cube**: n., //
 
@@ -1973,23 +1308,9 @@ T
 ironic comment in situations where ‘tip of the iceberg’ might be
 appropriate if the subject were at all important.
 
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <TINLC.html>`__    | `Up <../T.html>`__         |  `Next <tired-iron.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| TINLC                    | `Home <../index.html>`__   |  tired iron                   |
-+--------------------------+----------------------------+-------------------------------+
-
 tired iron
+===============
 
-`Prev <tip-of-the-ice-cube.html>`__ 
-
-T
-
- `Next <tits-on-a-keyboard.html>`__
-
---------------
 
 **tired iron**: n.
 
@@ -1998,23 +1319,11 @@ state of the art to have been superseded by new products, presumably
 with sufficient improvement in bang-per-buck that the old stuff is
 starting to look a bit like a `*dinosaur* <../D/dinosaur.html>`__.
 
---------------
-
-+----------------------------------------+----------------------------+---------------------------------------+
-| `Prev <tip-of-the-ice-cube.html>`__    | `Up <../T.html>`__         |  `Next <tits-on-a-keyboard.html>`__   |
-+----------------------------------------+----------------------------+---------------------------------------+
-| tip of the ice-cube                    | `Home <../index.html>`__   |  tits on a keyboard                   |
-+----------------------------------------+----------------------------+---------------------------------------+
 
 tits on a keyboard
+====================
 
-`Prev <tired-iron.html>`__ 
 
-T
-
- `Next <TLA.html>`__
-
---------------
 
 **tits on a keyboard**: n.
 
@@ -2024,23 +1333,9 @@ on the ``5`` of a numeric keypad, and on the ``F`` and ``J`` of a
 electric typewriters) had them on the ``D`` and ``K`` keys (this changed
 in 1999).
 
---------------
-
-+-------------------------------+----------------------------+------------------------+
-| `Prev <tired-iron.html>`__    | `Up <../T.html>`__         |  `Next <TLA.html>`__   |
-+-------------------------------+----------------------------+------------------------+
-| tired iron                    | `Home <../index.html>`__   |  TLA                   |
-+-------------------------------+----------------------------+------------------------+
-
 TLA
+======
 
-`Prev <tits-on-a-keyboard.html>`__ 
-
-T
-
- `Next <TMRC.html>`__
-
---------------
 
 **TLA**: /T·L·A/, n.
 
@@ -2066,23 +1361,11 @@ response: “There are only 17,000 three-letter acronyms.” (To be exact,
 there are ``26^3    = 17,576``.) There is probably some karmic justice
 in the fact that Paul Boutin subsequently became a journalist.
 
---------------
-
-+---------------------------------------+----------------------------+-------------------------+
-| `Prev <tits-on-a-keyboard.html>`__    | `Up <../T.html>`__         |  `Next <TMRC.html>`__   |
-+---------------------------------------+----------------------------+-------------------------+
-| tits on a keyboard                    | `Home <../index.html>`__   |  TMRC                   |
-+---------------------------------------+----------------------------+-------------------------+
 
 TMRC
+==============
 
-`Prev <TLA.html>`__ 
 
-T
-
- `Next <TMRCie.html>`__
-
---------------
 
 **TMRC**: /tmerk´/, n.
 
@@ -2121,45 +1404,19 @@ TMRC has a web page at
 Dictionary is available there, at
 `http://tmrc-www.mit.edu/dictionary.html <http://tmrc-www.mit.edu/dictionary.html>`__.
 
---------------
-
-+------------------------+----------------------------+---------------------------+
-| `Prev <TLA.html>`__    | `Up <../T.html>`__         |  `Next <TMRCie.html>`__   |
-+------------------------+----------------------------+---------------------------+
-| TLA                    | `Home <../index.html>`__   |  TMRCie                   |
-+------------------------+----------------------------+---------------------------+
 
 TMRCie
+===========
 
-`Prev <TMRC.html>`__ 
-
-T
-
- `Next <TMTOWTDI.html>`__
-
---------------
 
 **TMRCie**: /tmerk´ee/, n.
 
 [MIT] A denizen of `*TMRC* <TMRC.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <TMRC.html>`__    | `Up <../T.html>`__         |  `Next <TMTOWTDI.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| TMRC                    | `Home <../index.html>`__   |  TMTOWTDI                   |
-+-------------------------+----------------------------+-----------------------------+
 
 TMTOWTDI
+===============
 
-`Prev <TMRCie.html>`__ 
-
-T
-
- `Next <to-a-first-approximation.html>`__
-
---------------
 
 **TMTOWTDI**: /tim·toh'·dee/, abbrev.
 
@@ -2167,23 +1424,11 @@ There's More Than One Way To Do It. This abbreviation of the official
 motto of `*Perl* <../P/Perl.html>`__ is frequently used on newsgroups
 and mailing lists related to that language.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------------------+
-| `Prev <TMRCie.html>`__    | `Up <../T.html>`__         |  `Next <to-a-first-approximation.html>`__   |
-+---------------------------+----------------------------+---------------------------------------------+
-| TMRCie                    | `Home <../index.html>`__   |  to a first approximation                   |
-+---------------------------+----------------------------+---------------------------------------------+
 
 toad
+==========
 
-`Prev <to-a-zeroth-approximation.html>`__ 
 
-T
-
- `Next <toast.html>`__
-
---------------
 
 **toad**: vt.
 
@@ -2195,23 +1440,10 @@ serious action, which can only be done by a MUD
 the other characters first. See also `*frog* <../F/frog.html>`__,
 `*FOD* <../F/FOD.html>`__.
 
---------------
-
-+----------------------------------------------+----------------------------+--------------------------+
-| `Prev <to-a-zeroth-approximation.html>`__    | `Up <../T.html>`__         |  `Next <toast.html>`__   |
-+----------------------------------------------+----------------------------+--------------------------+
-| to a zeroth approximation                    | `Home <../index.html>`__   |  toast                   |
-+----------------------------------------------+----------------------------+--------------------------+
-
 to a first approximation
+==============================
 
-`Prev <TMTOWTDI.html>`__ 
 
-T
-
- `Next <to-a-zeroth-approximation.html>`__
-
---------------
 
 **to a first approximation**: adj.
 
@@ -2226,23 +1458,9 @@ is only approximately true. The remark “To a first approximation, I feel
 good” might indicate that deeper questioning would reveal that not all
 is perfect (e.g., a nagging cough still remains after an illness).
 
---------------
-
-+-----------------------------+----------------------------+----------------------------------------------+
-| `Prev <TMTOWTDI.html>`__    | `Up <../T.html>`__         |  `Next <to-a-zeroth-approximation.html>`__   |
-+-----------------------------+----------------------------+----------------------------------------------+
-| TMTOWTDI                    | `Home <../index.html>`__   |  to a zeroth approximation                   |
-+-----------------------------+----------------------------+----------------------------------------------+
 
 toaster
-
-`Prev <toast.html>`__ 
-
-T
-
- `Next <toeprint.html>`__
-
---------------
+=====================
 
 **toaster**: n.
 
@@ -2268,23 +1486,10 @@ then I've added two boards and a second disk drive.”
 toaster* <../W/web-toaster.html>`__, `*video
 toaster* <../V/video-toaster.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <toast.html>`__    | `Up <../T.html>`__         |  `Next <toeprint.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| toast                    | `Home <../index.html>`__   |  toeprint                   |
-+--------------------------+----------------------------+-----------------------------+
 
 toast
+=============
 
-`Prev <toad.html>`__ 
-
-T
-
- `Next <toaster.html>`__
-
---------------
 
 **toast**
 
@@ -2297,23 +1502,11 @@ that requires manual rebooting. “Rick just toasted the `*firewall
 machine* <../F/firewall-machine.html>`__ again.” Compare
 `*fried* <../F/fried.html>`__.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <toad.html>`__    | `Up <../T.html>`__         |  `Next <toaster.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| toad                    | `Home <../index.html>`__   |  toaster                   |
-+-------------------------+----------------------------+----------------------------+
 
 to a zeroth approximation
+==============================================
 
-`Prev <to-a-first-approximation.html>`__ 
 
-T
-
- `Next <toad.html>`__
-
---------------
 
 **to a zeroth approximation**
 
@@ -2321,67 +1514,30 @@ T
 wild guess. Compare `*social science
 number* <../S/social-science-number.html>`__.
 
---------------
-
-+---------------------------------------------+----------------------------+-------------------------+
-| `Prev <to-a-first-approximation.html>`__    | `Up <../T.html>`__         |  `Next <toad.html>`__   |
-+---------------------------------------------+----------------------------+-------------------------+
-| to a first approximation                    | `Home <../index.html>`__   |  toad                   |
-+---------------------------------------------+----------------------------+-------------------------+
 
 toeprint
+================
 
-`Prev <toaster.html>`__ 
-
-T
-
- `Next <TOFU.html>`__
-
---------------
 
 **toeprint**: n.
 
 A `*footprint* <../F/footprint.html>`__ of especially small size.
 
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <toaster.html>`__    | `Up <../T.html>`__         |  `Next <TOFU.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| toaster                    | `Home <../index.html>`__   |  TOFU                   |
-+----------------------------+----------------------------+-------------------------+
-
 TOFU
+===========================
 
-`Prev <toeprint.html>`__ 
 
-T
-
- `Next <toggle.html>`__
-
---------------
 
 **TOFU**
 
 Text Over, Fullquote Under; see `*top-post* <top-post.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <toeprint.html>`__    | `Up <../T.html>`__         |  `Next <toggle.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| toeprint                    | `Home <../index.html>`__   |  toggle                   |
-+-----------------------------+----------------------------+---------------------------+
 
 toggle
+=================================
 
-`Prev <TOFU.html>`__ 
 
-T
-
- `Next <tool.html>`__
-
---------------
 
 **toggle**: vt.
 
@@ -2397,23 +1553,10 @@ toggle it. (Mathematically, one would say that there are four distinct
 boolean-valued functions of one boolean argument, but saying that is
 much less fun than talking about toggling bits.)
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <TOFU.html>`__    | `Up <../T.html>`__         |  `Next <tool.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| TOFU                    | `Home <../index.html>`__   |  tool                   |
-+-------------------------+----------------------------+-------------------------+
 
 toolchain
+======================
 
-`Prev <tool.html>`__ 
-
-T
-
- `Next <toolsmith.html>`__
-
---------------
 
 **toolchain**
 
@@ -2431,23 +1574,12 @@ implies that each of the parts is a serial stage in a rather tightly
 bound pipeline. Seems to have become current in early 1999 and 2000; now
 common.
 
---------------
 
-+-------------------------+----------------------------+------------------------------+
-| `Prev <tool.html>`__    | `Up <../T.html>`__         |  `Next <toolsmith.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| tool                    | `Home <../index.html>`__   |  toolsmith                   |
-+-------------------------+----------------------------+------------------------------+
 
 tool
+================
 
-`Prev <toggle.html>`__ 
 
-T
-
- `Next <toolchain.html>`__
-
---------------
 
 **tool**
 
@@ -2469,23 +1601,11 @@ grindstone”. See `*hack* <../H/hack.html>`__.
 4. n. [MIT] A student who studies too much and hacks too little. (MIT's
 student humor magazine rejoices in the name *Tool and Die*.)
 
---------------
-
-+---------------------------+----------------------------+------------------------------+
-| `Prev <toggle.html>`__    | `Up <../T.html>`__         |  `Next <toolchain.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| toggle                    | `Home <../index.html>`__   |  toolchain                   |
-+---------------------------+----------------------------+------------------------------+
 
 toolsmith
+===================
 
-`Prev <toolchain.html>`__ 
 
-T
-
- `Next <toor.html>`__
-
---------------
 
 **toolsmith**: n.
 
@@ -2498,23 +1618,11 @@ than applications per se; to understand why, see
 Pearls*, quotes Dick Sites from `*DEC* <../D/DEC.html>`__ as saying “I'd
 rather write programs to write programs than write programs”.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <toolchain.html>`__    | `Up <../T.html>`__         |  `Next <toor.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| toolchain                    | `Home <../index.html>`__   |  toor                   |
-+------------------------------+----------------------------+-------------------------+
 
 toor
+============
 
-`Prev <toolsmith.html>`__ 
 
-T
-
- `Next <top-post.html>`__
-
---------------
 
 **toor**: n.
 
@@ -2522,23 +1630,11 @@ The Bourne-Again Super-user. An alternate account with UID of 0, created
 on Unix machines where the root user has an inconvenient choice of
 shell. Compare `*avatar* <../A/avatar.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <toolsmith.html>`__    | `Up <../T.html>`__         |  `Next <top-post.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| toolsmith                    | `Home <../index.html>`__   |  top-post                   |
-+------------------------------+----------------------------+-----------------------------+
 
 topic drift
+========================
 
-`Prev <top-post.html>`__ 
 
-T
-
- `Next <topic-group.html>`__
-
---------------
 
 **topic drift**: n.
 
@@ -2563,45 +1659,20 @@ discussion has strayed off any useful track. “I think we started with a
 question about Niven's last book, but we've ended up discussing the
 sexual habits of the common marmoset. Now *that's* topic drift!”
 
---------------
-
-+-----------------------------+----------------------------+--------------------------------+
-| `Prev <top-post.html>`__    | `Up <../T.html>`__         |  `Next <topic-group.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
-| top-post                    | `Home <../index.html>`__   |  topic group                   |
-+-----------------------------+----------------------------+--------------------------------+
-
 topic group
+======================
 
-`Prev <topic-drift.html>`__ 
 
-T
-
- `Next <TOPS-10.html>`__
-
---------------
 
 **topic group**: n.
 
 Syn. `*forum* <../F/forum.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <topic-drift.html>`__    | `Up <../T.html>`__         |  `Next <TOPS-10.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| topic drift                    | `Home <../index.html>`__   |  TOPS-10                   |
-+--------------------------------+----------------------------+----------------------------+
 
 top-post
+===============
 
-`Prev <toor.html>`__ 
 
-T
-
- `Next <topic-drift.html>`__
-
---------------
 
 **top-post**: n., v.
 
@@ -2634,23 +1705,9 @@ that you just read the previous message, even though their perversity
 has put it further down the page than you have yet read. Oppose
 `*bottom-post* <../B/bottom-post.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <toor.html>`__    | `Up <../T.html>`__         |  `Next <topic-drift.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| toor                    | `Home <../index.html>`__   |  topic drift                   |
-+-------------------------+----------------------------+--------------------------------+
-
 TOPS-10
+=======================================
 
-`Prev <topic-group.html>`__ 
-
-T
-
- `Next <TOPS-20.html>`__
-
---------------
 
 **TOPS-10**: /tops·ten/, n.
 
@@ -2663,45 +1720,19 @@ system* <../O/operating-system.html>`__. TOPS-10 was sometimes called
 BOTS-10 (from ‘bottoms-ten’) as a comment on the inappropriateness of
 describing it as the top of anything.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <topic-group.html>`__    | `Up <../T.html>`__         |  `Next <TOPS-20.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| topic group                    | `Home <../index.html>`__   |  TOPS-20                   |
-+--------------------------------+----------------------------+----------------------------+
-
 TOPS-20
+=====================
 
-`Prev <TOPS-10.html>`__ 
 
-T
-
- `Next <TOS.html>`__
-
---------------
 
 **TOPS-20**: /tops·twen´tee/, n.
 
 See `*TWENEX* <TWENEX.html>`__.
 
---------------
-
-+----------------------------+----------------------------+------------------------+
-| `Prev <TOPS-10.html>`__    | `Up <../T.html>`__         |  `Next <TOS.html>`__   |
-+----------------------------+----------------------------+------------------------+
-| TOPS-10                    | `Home <../index.html>`__   |  TOS                   |
-+----------------------------+----------------------------+------------------------+
 
 TOS
+======================================
 
-`Prev <TOPS-20.html>`__ 
-
-T
-
- `Next <tourist.html>`__
-
---------------
 
 **TOS**: vt.
 
@@ -2713,23 +1744,10 @@ breached the terms of service (e.g. by spamming).
 2. To successfully complain to the ISP for that reason so that they then
 close the account.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <TOPS-20.html>`__    | `Up <../T.html>`__         |  `Next <tourist.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| TOPS-20                    | `Home <../index.html>`__   |  tourist                   |
-+----------------------------+----------------------------+----------------------------+
 
 tourist
+==============
 
-`Prev <TOS.html>`__ 
-
-T
-
- `Next <tourist-information.html>`__
-
---------------
 
 **tourist**: n.
 
@@ -2748,23 +1766,10 @@ user* <../R/read-only-user.html>`__.
 channel without saying anything; see `*channel
 hopping* <../C/channel-hopping.html>`__.
 
---------------
-
-+------------------------+----------------------------+----------------------------------------+
-| `Prev <TOS.html>`__    | `Up <../T.html>`__         |  `Next <tourist-information.html>`__   |
-+------------------------+----------------------------+----------------------------------------+
-| TOS                    | `Home <../index.html>`__   |  tourist information                   |
-+------------------------+----------------------------+----------------------------------------+
-
 touristic
+==================
 
-`Prev <tourist-information.html>`__ 
 
-T
-
- `Next <toy.html>`__
-
---------------
 
 **touristic**: adj.
 
@@ -2773,23 +1778,9 @@ pejorative, as in ‘losing touristic scum’. Often spelled ‘turistic’ or
 ‘turistik’, so that phrase might be more properly rendered ‘lusing
 turistic scum’.
 
---------------
-
-+----------------------------------------+----------------------------+------------------------+
-| `Prev <tourist-information.html>`__    | `Up <../T.html>`__         |  `Next <toy.html>`__   |
-+----------------------------------------+----------------------------+------------------------+
-| tourist information                    | `Home <../index.html>`__   |  toy                   |
-+----------------------------------------+----------------------------+------------------------+
 
 tourist information
-
-`Prev <tourist.html>`__ 
-
-T
-
- `Next <touristic.html>`__
-
---------------
+=====================
 
 **tourist information**: n.
 
@@ -2801,23 +1792,10 @@ time. The ‘bytes free’ information at the bottom of an MS-DOS or Windows
 **dir** display is tourist information; so (most of the time) is the
 TIME information in a Unix ps(1) display.
 
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <tourist.html>`__    | `Up <../T.html>`__         |  `Next <touristic.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| tourist                    | `Home <../index.html>`__   |  touristic                   |
-+----------------------------+----------------------------+------------------------------+
-
 toy
+=================
 
-`Prev <touristic.html>`__ 
 
-T
-
- `Next <toy-language.html>`__
-
---------------
 
 **toy**: n.
 
@@ -2834,23 +1812,9 @@ consider the Cray-1 a toy, and certainly all RISC boxes and mainframes
 are toys by their standards. See also `*Get a real
 computer!* <../G/Get-a-real-computer-.html>`__.
 
---------------
-
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <touristic.html>`__    | `Up <../T.html>`__         |  `Next <toy-language.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| touristic                    | `Home <../index.html>`__   |  toy language                   |
-+------------------------------+----------------------------+---------------------------------+
 
 toy language
-
-`Prev <toy.html>`__ 
-
-T
-
- `Next <toy-problem.html>`__
-
---------------
+================
 
 **toy language**: n.
 
@@ -2865,23 +1829,10 @@ well-known formalisms for conceptual tasks such as programming Turing
 machines also qualify as toy languages in a less negative sense. See
 also `*MFTL* <../M/MFTL.html>`__.
 
---------------
-
-+------------------------+----------------------------+--------------------------------+
-| `Prev <toy.html>`__    | `Up <../T.html>`__         |  `Next <toy-problem.html>`__   |
-+------------------------+----------------------------+--------------------------------+
-| toy                    | `Home <../index.html>`__   |  toy problem                   |
-+------------------------+----------------------------+--------------------------------+
 
 toy problem
+=========================
 
-`Prev <toy-language.html>`__ 
-
-T
-
- `Next <toy-program.html>`__
-
---------------
 
 **toy problem**: n.
 
@@ -2890,23 +1841,10 @@ investigate, prototype, or test algorithms for a real problem. Sometimes
 used pejoratively. See also `*gedanken* <../G/gedanken.html>`__, `*toy
 program* <toy-program.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <toy-language.html>`__    | `Up <../T.html>`__         |  `Next <toy-program.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| toy language                    | `Home <../index.html>`__   |  toy program                   |
-+---------------------------------+----------------------------+--------------------------------+
 
 toy program
+==================
 
-`Prev <toy-problem.html>`__ 
-
-T
-
- `Next <trampoline.html>`__
-
---------------
 
 **toy program**: n.
 
@@ -2916,23 +1854,10 @@ T
 2. One for which the effort of initial coding dominates the costs
 through its life cycle. See also `*noddy* <../N/noddy.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <toy-problem.html>`__    | `Up <../T.html>`__         |  `Next <trampoline.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| toy problem                    | `Home <../index.html>`__   |  trampoline                   |
-+--------------------------------+----------------------------+-------------------------------+
 
 trampoline
+==============================
 
-`Prev <toy-program.html>`__ 
-
-T
-
- `Next <trap.html>`__
-
---------------
 
 **trampoline**: n.
 
@@ -2949,23 +1874,11 @@ in action; in fact, it is said by those who use this term that the
 trampoline that doesn't bend your brain is not the true trampoline. See
 also `*snap* <../S/snap.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <toy-program.html>`__    | `Up <../T.html>`__         |  `Next <trap.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| toy program                    | `Home <../index.html>`__   |  trap                   |
-+--------------------------------+----------------------------+-------------------------+
 
 trap door
+==================
 
-`Prev <trap.html>`__ 
 
-T
-
- `Next <trash.html>`__
-
---------------
 
 **trap door**: n.
 
@@ -2980,23 +1893,10 @@ Thing* <../G/Good-Thing.html>`__\ s with important applications in
 cryptography, specifically in the construction of public-key
 cryptosystems.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <trap.html>`__    | `Up <../T.html>`__         |  `Next <trash.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| trap                    | `Home <../index.html>`__   |  trash                   |
-+-------------------------+----------------------------+--------------------------+
 
 trap
+=====================
 
-`Prev <trampoline.html>`__ 
-
-T
-
- `Next <trap-door.html>`__
-
---------------
 
 **trap**
 
@@ -3017,23 +1917,10 @@ computer architects and systems hackers (see
 deterministically repeatable exceptions from timing-dependent ones (such
 as I/O interrupts).
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <trampoline.html>`__    | `Up <../T.html>`__         |  `Next <trap-door.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| trampoline                    | `Home <../index.html>`__   |  trap door                   |
-+-------------------------------+----------------------------+------------------------------+
-
 trash
+==============================
 
-`Prev <trap-door.html>`__ 
 
-T
-
- `Next <trawl.html>`__
-
---------------
 
 **trash**: vt.
 
@@ -3042,46 +1929,21 @@ of the family of near-synonyms including `*mung* <../M/mung.html>`__,
 `*mangle* <../M/mangle.html>`__, `*scribble* <../S/scribble.html>`__,
 and `*roach* <../R/roach.html>`__.
 
---------------
-
-+------------------------------+----------------------------+--------------------------+
-| `Prev <trap-door.html>`__    | `Up <../T.html>`__         |  `Next <trawl.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| trap door                    | `Home <../index.html>`__   |  trawl                   |
-+------------------------------+----------------------------+--------------------------+
-
 trawl
+================================
 
-`Prev <trash.html>`__ 
 
-T
-
- `Next <tree-killer.html>`__
-
---------------
 
 **trawl**: v.
 
 To sift through large volumes of data (e.g., Usenet postings, FTP
 archives, or the Jargon File) looking for something of interest.
 
---------------
-
-+--------------------------+----------------------------+--------------------------------+
-| `Prev <trash.html>`__    | `Up <../T.html>`__         |  `Next <tree-killer.html>`__   |
-+--------------------------+----------------------------+--------------------------------+
-| trash                    | `Home <../index.html>`__   |  tree-killer                   |
-+--------------------------+----------------------------+--------------------------------+
 
 tree-killer
+==================================
 
-`Prev <trawl.html>`__ 
 
-T
-
- `Next <treeware.html>`__
-
---------------
 
 **tree-killer**: n.
 
@@ -3101,21 +1963,10 @@ Tolkien's *Lord of the Rings*. See also `*elvish* <../E/elvish.html>`__,
 `*elder days* <../E/elder-days.html>`__, and especially `*dead-tree
 version* <../D/dead-tree-version.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <trawl.html>`__    | `Up <../T.html>`__         |  `Next <treeware.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| trawl                    | `Home <../index.html>`__   |  treeware                   |
-+--------------------------+----------------------------+-----------------------------+
 
 treeware
+==============================
 
-`Prev <tree-killer.html>`__ 
-
-T
-
- `Next <trit.html>`__
 
 --------------
 
@@ -3125,23 +1976,11 @@ Printouts, books, and other information media made from pulped dead
 trees. Compare `*tree-killer* <tree-killer.html>`__, see
 `*documentation* <../D/documentation.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <tree-killer.html>`__    | `Up <../T.html>`__         |  `Next <trit.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| tree-killer                    | `Home <../index.html>`__   |  trit                   |
-+--------------------------------+----------------------------+-------------------------+
 
 trit
+===============
 
-`Prev <treeware.html>`__ 
 
-T
-
- `Next <trivial.html>`__
-
---------------
 
 **trit**: /trit/, n.
 
@@ -3154,23 +1993,11 @@ jokingly called 3-state bits. A trit may be semi-seriously referred to
 as a bit and a half, although it is linearly equivalent to 1.5849625
 bits (that is, log\_{2$(3)} bits).
 
---------------
-
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <treeware.html>`__    | `Up <../T.html>`__         |  `Next <trivial.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| treeware                    | `Home <../index.html>`__   |  trivial                   |
-+-----------------------------+----------------------------+----------------------------+
 
 trivial
+=========================
 
-`Prev <trit.html>`__ 
 
-T
-
- `Next <troff.html>`__
-
---------------
 
 **trivial**: adj.
 
@@ -3193,23 +2020,11 @@ degree (see his essay “Los Alamos From Below” in *Surely You're Joking,
 Mr. Feynman!*), defined trivial theorem as “one that has already been
 proved”.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <trit.html>`__    | `Up <../T.html>`__         |  `Next <troff.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| trit                    | `Home <../index.html>`__   |  troff                   |
-+-------------------------+----------------------------+--------------------------+
 
 troff
+====================
 
-`Prev <trivial.html>`__ 
 
-T
-
- `Next <troglodyte.html>`__
-
---------------
 
 **troff**: /T´rof/, /trof/, n.
 
@@ -3244,23 +2059,10 @@ folklore; indeed, it could be taken more generally as an indication of
 those qualities of good programs that, in the long run, hackers most
 admire.
 
---------------
-
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <trivial.html>`__    | `Up <../T.html>`__         |  `Next <troglodyte.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| trivial                    | `Home <../index.html>`__   |  troglodyte                   |
-+----------------------------+----------------------------+-------------------------------+
 
 troglodyte
+=====================
 
-`Prev <troff.html>`__ 
-
-T
-
- `Next <troglodyte-mode.html>`__
-
---------------
 
 **troglodyte**: n.
 
@@ -3275,23 +2077,11 @@ email wringle-wrangle attending the 2.x.x revision of the Jargon File;
 at least one of the people it was intended to describe adopted it with
 pride.
 
---------------
-
-+--------------------------+----------------------------+------------------------------------+
-| `Prev <troff.html>`__    | `Up <../T.html>`__         |  `Next <troglodyte-mode.html>`__   |
-+--------------------------+----------------------------+------------------------------------+
-| troff                    | `Home <../index.html>`__   |  troglodyte mode                   |
-+--------------------------+----------------------------+------------------------------------+
 
 troglodyte mode
+======================================
 
-`Prev <troglodyte.html>`__ 
 
-T
-
- `Next <Trojan-horse.html>`__
-
---------------
 
 **troglodyte mode**: n.
 
@@ -3303,23 +2093,11 @@ stacked in the corner is optional but recommended. See `*larval
 stage* <../L/larval-stage.html>`__, `*hack
 mode* <../H/hack-mode.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------------+
-| `Prev <troglodyte.html>`__    | `Up <../T.html>`__         |  `Next <Trojan-horse.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
-| troglodyte                    | `Home <../index.html>`__   |  Trojan horse                   |
-+-------------------------------+----------------------------+---------------------------------+
 
 Trojan horse
+=========================
 
-`Prev <troglodyte-mode.html>`__ 
 
-T
-
- `Next <troll.html>`__
-
---------------
 
 **Trojan horse**: n.
 
@@ -3331,23 +2109,11 @@ door* <../B/back-door.html>`__, `*virus* <../V/virus.html>`__,
 `*worm* <../W/worm.html>`__, `*phage* <../P/phage.html>`__,
 `*mockingbird* <../M/mockingbird.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+--------------------------+
-| `Prev <troglodyte-mode.html>`__    | `Up <../T.html>`__         |  `Next <troll.html>`__   |
-+------------------------------------+----------------------------+--------------------------+
-| troglodyte mode                    | `Home <../index.html>`__   |  troll                   |
-+------------------------------------+----------------------------+--------------------------+
 
 troll
+========================
 
-`Prev <Trojan-horse.html>`__ 
 
-T
-
- `Next <Troll-O-Meter.html>`__
-
---------------
 
 **troll**
 
@@ -3389,23 +2155,11 @@ readily produces elaborations and combining forms. For example, one not
 infrequently sees the warning “Do not feed the troll” as part of a
 followup to troll postings.
 
---------------
-
-+---------------------------------+----------------------------+----------------------------------+
-| `Prev <Trojan-horse.html>`__    | `Up <../T.html>`__         |  `Next <Troll-O-Meter.html>`__   |
-+---------------------------------+----------------------------+----------------------------------+
-| Trojan horse                    | `Home <../index.html>`__   |  Troll-O-Meter                   |
-+---------------------------------+----------------------------+----------------------------------+
 
 Troll-O-Meter
+====================================
 
-`Prev <troll.html>`__ 
 
-T
-
- `Next <tron.html>`__
-
---------------
 
 **Troll-O-Meter**: n.
 
@@ -3420,23 +2174,11 @@ pointing at a numeric scale. Compare
 `*bogometer* <../B/bogometer.html>`__,
 `*Indent-o-Meter* <../I/Indent-o-Meter.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <troll.html>`__    | `Up <../T.html>`__         |  `Next <tron.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| troll                    | `Home <../index.html>`__   |  tron                   |
-+--------------------------+----------------------------+-------------------------+
 
 tron
+===================
 
-`Prev <Troll-O-Meter.html>`__ 
 
-T
-
- `Next <troughie.html>`__
-
---------------
 
 **tron**: v.
 
@@ -3451,46 +2193,21 @@ Note that many dialects of BASIC have a TRON/TROFF command pair that
 enables/disables line number tracing; this has no obvious relationship
 to the slang usage.
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------+
-| `Prev <Troll-O-Meter.html>`__    | `Up <../T.html>`__         |  `Next <troughie.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
-| Troll-O-Meter                    | `Home <../index.html>`__   |  troughie                   |
-+----------------------------------+----------------------------+-----------------------------+
 
 troughie
+==========================
 
-`Prev <tron.html>`__ 
 
-T
-
- `Next <true-hacker.html>`__
-
---------------
 
 **troughie**: /traw´fee/, n.
 
 [British BBS scene] Synonym for `*leech* <../L/leech.html>`__, sense 1.
 The implied metaphor is that of a pig at a trough.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <tron.html>`__    | `Up <../T.html>`__         |  `Next <true-hacker.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| tron                    | `Home <../index.html>`__   |  true-hacker                   |
-+-------------------------+----------------------------+--------------------------------+
-
 true-hacker
+===================
 
-`Prev <troughie.html>`__ 
 
-T
-
- `Next <tty.html>`__
-
---------------
 
 **true-hacker**: n.
 
@@ -3501,23 +2218,10 @@ and netnews on my FOOBAR 4000 last week — manifestly the act of a
 true-hacker.” Compare `*demigod* <../D/demigod.html>`__, oppose
 `*munchkin* <../M/munchkin.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+------------------------+
-| `Prev <troughie.html>`__    | `Up <../T.html>`__         |  `Next <tty.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| troughie                    | `Home <../index.html>`__   |  tty                   |
-+-----------------------------+----------------------------+------------------------+
 
 tty
+==============
 
-`Prev <true-hacker.html>`__ 
-
-T
-
- `Next <tube.html>`__
-
---------------
 
 **tty**: /T·T·Y/, /tit´ee/, n.
 
@@ -3538,23 +2242,10 @@ a terminal; so called because under Unix such devices have names of the
 form tty\*. Ambiguity between senses 2 and 3 is common but seldom
 bothersome.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <true-hacker.html>`__    | `Up <../T.html>`__         |  `Next <tube.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| true-hacker                    | `Home <../index.html>`__   |  tube                   |
-+--------------------------------+----------------------------+-------------------------+
 
 tube
+========================
 
-`Prev <tty.html>`__ 
-
-T
-
- `Next <tube-time.html>`__
-
---------------
 
 **tube**
 
@@ -3566,23 +2257,11 @@ swashbuckler movie.
 2. [IBM] To send a copy of something to someone else's terminal. “Tube
 me that note?”
 
---------------
-
-+------------------------+----------------------------+------------------------------+
-| `Prev <tty.html>`__    | `Up <../T.html>`__         |  `Next <tube-time.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| tty                    | `Home <../index.html>`__   |  tube time                   |
-+------------------------+----------------------------+------------------------------+
 
 tube time
+====================
 
-`Prev <tube.html>`__ 
 
-T
-
- `Next <tumbler.html>`__
-
---------------
 
 **tube time**: n.
 
@@ -3591,23 +2270,12 @@ commonly used in discussions of what parts of one's environment one uses
 most heavily. “I find I'm spending too much of my tube time reading mail
 since I started this revision.”
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <tube.html>`__    | `Up <../T.html>`__         |  `Next <tumbler.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| tube                    | `Home <../index.html>`__   |  tumbler                   |
-+-------------------------+----------------------------+----------------------------+
 
 tumbler
+==================
 
-`Prev <tube-time.html>`__ 
 
-T
 
- `Next <tunafish.html>`__
-
---------------
 
 **tumbler**: n.
 
@@ -3628,23 +2296,10 @@ check an exact hash of an incoming message against known spam
 signatures; it also compromises some kinds of statistical spam
 recognition.
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <tube-time.html>`__    | `Up <../T.html>`__         |  `Next <tunafish.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| tube time                    | `Home <../index.html>`__   |  tunafish                   |
-+------------------------------+----------------------------+-----------------------------+
 
 tunafish
-
-`Prev <tumbler.html>`__ 
-
-T
-
- `Next <tune.html>`__
-
---------------
+================
 
 **tunafish**: n.
 
@@ -3665,24 +2320,12 @@ wrap around.”
 
 [It has since been pointed out that indeed you can tunafish. Usually at
 a canning factory... —ESR]
-
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <tumbler.html>`__    | `Up <../T.html>`__         |  `Next <tune.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| tumbler                    | `Home <../index.html>`__   |  tune                   |
-+----------------------------+----------------------------+-------------------------+
+---+----------------------------+-------------------------+
 
 tune
+================
 
-`Prev <tunafish.html>`__ 
 
-T
-
- `Next <turbo-nerd.html>`__
-
---------------
 
 **tune**: vt.
 
@@ -3694,45 +2337,20 @@ for space (least memory use), or tune for configuration (most efficient
 use of hardware). See `*hot spot* <../H/hot-spot.html>`__,
 `*hand-hacking* <../H/hand-hacking.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------+
-| `Prev <tunafish.html>`__    | `Up <../T.html>`__         |  `Next <turbo-nerd.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
-| tunafish                    | `Home <../index.html>`__   |  turbo nerd                   |
-+-----------------------------+----------------------------+-------------------------------+
 
 turbo nerd
+====================
 
-`Prev <tune.html>`__ 
 
-T
-
- `Next <Turing-tar-pit.html>`__
-
---------------
 
 **turbo nerd**: n.
 
 See `*geek* <../G/geek.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <tune.html>`__    | `Up <../T.html>`__         |  `Next <Turing-tar-pit.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| tune                    | `Home <../index.html>`__   |  Turing tar-pit                   |
-+-------------------------+----------------------------+-----------------------------------+
 
 Turing tar-pit
+==========================
 
-`Prev <turbo-nerd.html>`__ 
-
-T
-
- `Next <turist.html>`__
-
---------------
 
 **Turing tar-pit**: n.
 
@@ -3754,23 +2372,11 @@ language* <../B/bondage-and-discipline-language.html>`__.
 2. The perennial `*holy wars* <../H/holy-wars.html>`__ over whether
 language A or B is the “most powerful”.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <turbo-nerd.html>`__    | `Up <../T.html>`__         |  `Next <turist.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| turbo nerd                    | `Home <../index.html>`__   |  turist                   |
-+-------------------------------+----------------------------+---------------------------+
 
 turist
+=====================
 
-`Prev <Turing-tar-pit.html>`__ 
 
-T
-
- `Next <Tux.html>`__
-
---------------
 
 **turist**: /too´rist/, n.
 
@@ -3778,23 +2384,10 @@ Var. sp. of `*tourist* <tourist.html>`__, q.v. Also in adjectival form,
 ‘turistic’. Poss. influenced by `*luser* <../L/luser.html>`__ and
 ‘Turing’.
 
---------------
-
-+-----------------------------------+----------------------------+------------------------+
-| `Prev <Turing-tar-pit.html>`__    | `Up <../T.html>`__         |  `Next <Tux.html>`__   |
-+-----------------------------------+----------------------------+------------------------+
-| Turing tar-pit                    | `Home <../index.html>`__   |  Tux                   |
-+-----------------------------------+----------------------------+------------------------+
-
 Tux
+============================
 
-`Prev <turist.html>`__ 
 
-T
-
- `Next <tweak.html>`__
-
---------------
 
 **Tux**
 
@@ -3820,23 +2413,11 @@ There is a ‘real’ Tux — a black-footed penguin resident at the Bristol
 Zoo. Several friends of Linux bought a zoo sponsorship for Linus as a
 birthday present in 1996.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <turist.html>`__    | `Up <../T.html>`__         |  `Next <tweak.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| turist                    | `Home <../index.html>`__   |  tweak                   |
-+---------------------------+----------------------------+--------------------------+
 
 tweak
+===============================
 
-`Prev <Tux.html>`__ 
 
-T
-
- `Next <TWENEX.html>`__
-
---------------
 
 **tweak**: vt.
 
@@ -3849,23 +2430,9 @@ debugging* <../S/shotgun-debugging.html>`__.
 
 2. To `*tune* <tune.html>`__ a program; preferred usage in the U.K.
 
---------------
-
-+------------------------+----------------------------+---------------------------+
-| `Prev <Tux.html>`__    | `Up <../T.html>`__         |  `Next <TWENEX.html>`__   |
-+------------------------+----------------------------+---------------------------+
-| Tux                    | `Home <../index.html>`__   |  TWENEX                   |
-+------------------------+----------------------------+---------------------------+
-
 TWENEX
+======================
 
-`Prev <tweak.html>`__ 
-
-T
-
- `Next <twiddle.html>`__
-
---------------
 
 **TWENEX**: /twe´neks/, n.
 
@@ -3901,23 +2468,10 @@ DEC attempted to convince TOPS-20 users to convert to
 TOPS-20 hackers had migrated to Unix. There is a `TOPS-20 home
 page <http://panda.com/tops-20/>`__.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <tweak.html>`__    | `Up <../T.html>`__         |  `Next <twiddle.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| tweak                    | `Home <../index.html>`__   |  twiddle                   |
-+--------------------------+----------------------------+----------------------------+
 
 twiddle
+====================
 
-`Prev <TWENEX.html>`__ 
-
-T
-
- `Next <twilight-zone.html>`__
-
---------------
 
 **twiddle**: n.
 
@@ -3937,23 +2491,11 @@ the bit; ‘toggling a bit’ has a more specific meaning (see `*bit
 twiddling* <../B/bit-twiddling.html>`__, `*toggle* <toggle.html>`__). 4.
 Uncommon name for the `*twirling baton* <twirling-baton.html>`__ prompt.
 
---------------
-
-+---------------------------+----------------------------+----------------------------------+
-| `Prev <TWENEX.html>`__    | `Up <../T.html>`__         |  `Next <twilight-zone.html>`__   |
-+---------------------------+----------------------------+----------------------------------+
-| TWENEX                    | `Home <../index.html>`__   |  twilight zone                   |
-+---------------------------+----------------------------+----------------------------------+
 
 twilight zone
+==============================
 
-`Prev <twiddle.html>`__ 
 
-T
-
- `Next <twink.html>`__
-
---------------
 
 **twilight zone**: n., //
 
@@ -3961,23 +2503,10 @@ T
 operators live. An `*op* <../O/op.html>`__ is said to have a “connection
 to the twilight zone”.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <twiddle.html>`__    | `Up <../T.html>`__         |  `Next <twink.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| twiddle                    | `Home <../index.html>`__   |  twink                   |
-+----------------------------+----------------------------+--------------------------+
-
 twink
+=================
 
-`Prev <twilight-zone.html>`__ 
 
-T
-
- `Next <twirling-baton.html>`__
-
---------------
 
 **twink**: /twink/, n.
 
@@ -4001,23 +2530,11 @@ black hair, wearing swimsuits to powwows, Cherokee princess grandmas, a
 love of *Dances with Wolves*, and a fear of AIM and the NCAI. The twink
 nature is everywhere.
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------------+
-| `Prev <twilight-zone.html>`__    | `Up <../T.html>`__         |  `Next <twirling-baton.html>`__   |
-+----------------------------------+----------------------------+-----------------------------------+
-| twilight zone                    | `Home <../index.html>`__   |  twirling baton                   |
-+----------------------------------+----------------------------+-----------------------------------+
 
 twirling baton
+===============================
 
-`Prev <twink.html>`__ 
 
-T
-
- `Next <two-pi.html>`__
-
---------------
 
 **twirling baton**: n.
 
@@ -4036,46 +2553,21 @@ a query. The twirling baton is also used as a boot progress indicator on
 several BSD variants of Unix; if it stops, you're probably going to have
 a long and trying day.
 
---------------
-
-+--------------------------+----------------------------+---------------------------+
-| `Prev <twink.html>`__    | `Up <../T.html>`__         |  `Next <two-pi.html>`__   |
-+--------------------------+----------------------------+---------------------------+
-| twink                    | `Home <../index.html>`__   |  two pi                   |
-+--------------------------+----------------------------+---------------------------+
 
 two pi
+====================
 
-`Prev <twirling-baton.html>`__ 
-
-T
-
- `Next <two-to-the-N.html>`__
-
---------------
 
 **two pi**: quant.
 
 The number of years it takes to finish one's thesis. Occurs in stories
 in the following form: “He started on his thesis; 2 pi years later...”
 
---------------
-
-+-----------------------------------+----------------------------+---------------------------------+
-| `Prev <twirling-baton.html>`__    | `Up <../T.html>`__         |  `Next <two-to-the-N.html>`__   |
-+-----------------------------------+----------------------------+---------------------------------+
-| twirling baton                    | `Home <../index.html>`__   |  two-to-the-N                   |
-+-----------------------------------+----------------------------+---------------------------------+
 
 two-to-the-N
+=========================
 
-`Prev <two-pi.html>`__ 
 
-T
-
- `Next <tyop.html>`__
-
---------------
 
 **two-to-the-N**: quant.
 
@@ -4083,35 +2575,12 @@ An amount much larger than `*N* <../N/N.html>`__ but smaller than
 `*infinity* <../I/infinity.html>`__. “I have 2-to-the-``N`` things to do
 before I can go out for lunch” means you probably won't show up.
 
---------------
-
-+---------------------------+----------------------------+-------------------------+
-| `Prev <two-pi.html>`__    | `Up <../T.html>`__         |  `Next <tyop.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| two pi                    | `Home <../index.html>`__   |  tyop                   |
-+---------------------------+----------------------------+-------------------------+
 
 tyop
-
-`Prev <two-to-the-N.html>`__ 
-
-T
-
- `Next <../U.html>`__
-
---------------
+==========================
 
 **tyop**: n.
 
 [USENET] A deliberate typo for ‘typo’. Used in satirical reference.
 “There's a tyop in your posting”. Compare `*grilf* <../G/grilf.html>`__,
 `*hing* <../H/hing.html>`__.
-
---------------
-
-+---------------------------------+----------------------------+-------------------------+
-| `Prev <two-to-the-N.html>`__    | `Up <../T.html>`__         |  `Next <../U.html>`__   |
-+---------------------------------+----------------------------+-------------------------+
-| two-to-the-N                    | `Home <../index.html>`__   |  U                      |
-+---------------------------------+----------------------------+-------------------------+
-
