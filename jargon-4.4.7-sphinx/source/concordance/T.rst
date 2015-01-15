@@ -1,58 +1,29 @@
-tail recursion
-
-`Prev <T.html>`__ 
-
+=====
 T
+=====
 
- `Next <talk-mode.html>`__
+tail recursion
+==============
 
---------------
 
 **tail recursion**: n.
 
 If you aren't sick of it already, see `*tail
 recursion* <tail-recursion.html>`__.
 
---------------
-
-+----------------------+----------------------------+------------------------------+
-| `Prev <T.html>`__    | `Up <../T.html>`__         |  `Next <talk-mode.html>`__   |
-+----------------------+----------------------------+------------------------------+
-| T                    | `Home <../index.html>`__   |  talk mode                   |
-+----------------------+----------------------------+------------------------------+
 
 talker system
+==============
 
-`Prev <talk-mode.html>`__ 
-
-T
-
- `Next <TAN.html>`__
-
---------------
 
 **talker system**: n.
 
 British hackerism for software that enables real-time chat or `*talk
 mode* <talk-mode.html>`__.
 
---------------
-
-+------------------------------+----------------------------+------------------------+
-| `Prev <talk-mode.html>`__    | `Up <../T.html>`__         |  `Next <TAN.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| talk mode                    | `Home <../index.html>`__   |  TAN                   |
-+------------------------------+----------------------------+------------------------+
 
 talk mode
-
-`Prev <tail-recursion.html>`__ 
-
-T
-
- `Next <talker-system.html>`__
-
---------------
+=========
 
 **talk mode**: n.
 
@@ -238,23 +209,10 @@ fastest just to type “xxx” and start over from before the mistake.
 See also `*hakspek* <../H/hakspek.html>`__,
 `*emoticon* <../E/emoticon.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+----------------------------------+
-| `Prev <tail-recursion.html>`__    | `Up <../T.html>`__         |  `Next <talker-system.html>`__   |
-+-----------------------------------+----------------------------+----------------------------------+
-| tail recursion                    | `Home <../index.html>`__   |  talker system                   |
-+-----------------------------------+----------------------------+----------------------------------+
 
 TAN
+=======
 
-`Prev <talker-system.html>`__ 
-
-T
-
- `Next <tanked.html>`__
-
---------------
 
 **TAN**: adj.
 
@@ -269,23 +227,11 @@ Usenet post, (b) written in ALL CAPS, and (c) followed immediately by a
 colon. Usage: “OFF-WHITE: 2000 Presidential candidates” on an SF
 newsgroup.
 
---------------
 
-+----------------------------------+----------------------------+---------------------------+
-| `Prev <talker-system.html>`__    | `Up <../T.html>`__         |  `Next <tanked.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
-| talker system                    | `Home <../index.html>`__   |  tanked                   |
-+----------------------------------+----------------------------+---------------------------+
 
 tanked
+===========
 
-`Prev <TAN.html>`__ 
-
-T
-
- `Next <TANSTAAFL.html>`__
-
---------------
 
 **tanked**: adj.
 
@@ -293,23 +239,9 @@ Same as `*down* <../D/down.html>`__, used primarily by Unix hackers. See
 also `*hosed* <../H/hosed.html>`__. Popularized as a synonym for ‘drunk’
 by Steve Dallas in the late lamented *Bloom County* comic strip.
 
---------------
-
-+------------------------+----------------------------+------------------------------+
-| `Prev <TAN.html>`__    | `Up <../T.html>`__         |  `Next <TANSTAAFL.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| TAN                    | `Home <../index.html>`__   |  TANSTAAFL                   |
-+------------------------+----------------------------+------------------------------+
-
 TANSTAAFL
+================
 
-`Prev <tanked.html>`__ 
-
-T
-
- `Next <tape-monkey.html>`__
-
---------------
 
 **TANSTAAFL**: /tan´stah·fl/
 
@@ -330,23 +262,11 @@ Thing...”) is apparently more common, and can be traced back to 1952 in
 the writings of ethicist Alvin Hansen. TANSTAAFL may well have arisen
 from it by mutation.
 
---------------
 
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <tanked.html>`__    | `Up <../T.html>`__         |  `Next <tape-monkey.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| tanked                    | `Home <../index.html>`__   |  tape monkey                   |
-+---------------------------+----------------------------+--------------------------------+
 
 tape monkey
+==================
 
-`Prev <TANSTAAFL.html>`__ 
-
-T
-
- `Next <tar-and-feather.html>`__
-
---------------
 
 **tape monkey**: n.
 
@@ -357,23 +277,10 @@ problem* <../O/one-banana-problem.html>`__) Also used to dismiss jobs
 not worthy of a highly trained sysadmin's ineffable talents: “Cable up
 her PC? You must be joking — I'm no tape monkey.”
 
---------------
-
-+------------------------------+----------------------------+------------------------------------+
-| `Prev <TANSTAAFL.html>`__    | `Up <../T.html>`__         |  `Next <tar-and-feather.html>`__   |
-+------------------------------+----------------------------+------------------------------------+
-| TANSTAAFL                    | `Home <../index.html>`__   |  tar and feather                   |
-+------------------------------+----------------------------+------------------------------------+
-
 tar and feather
+======================
 
-`Prev <tape-monkey.html>`__ 
 
-T
-
- `Next <tarball.html>`__
-
---------------
 
 **tar and feather**: vi.
 
@@ -391,23 +298,9 @@ whilst the tar was still sticky, having a pillow full of feathers - or
 other material — thrown at them. See
 `http://www.nwta.com/Spy/spring99/tar.html <http://www.nwta.com/Spy/spring99/tar.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <tape-monkey.html>`__    | `Up <../T.html>`__         |  `Next <tarball.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| tape monkey                    | `Home <../index.html>`__   |  tarball                   |
-+--------------------------------+----------------------------+----------------------------+
-
 tarball
+============
 
-`Prev <tar-and-feather.html>`__ 
-
-T
-
- `Next <tardegy.html>`__
-
---------------
 
 **tarball**: n.
 
@@ -418,23 +311,10 @@ project.” Tarballs have been the standard way to ship around source-code
 distributions since the mid-1980s; in retrospect it seems odd that this
 term did not enter common usage until the late 1990s.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <tar-and-feather.html>`__    | `Up <../T.html>`__         |  `Next <tardegy.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| tar and feather                    | `Home <../index.html>`__   |  tardegy                   |
-+------------------------------------+----------------------------+----------------------------+
 
 tardegy
+=============
 
-`Prev <tarball.html>`__ 
-
-T
-
- `Next <taste.html>`__
-
---------------
 
 **tardegy**: tar´d­jee, n.
 
@@ -444,23 +324,9 @@ extreme stupidity meets with a messy end. Coined on the Darwin list,
 which is dedicated to chronicling such incidents; but almost all hackers
 would instantly recognize the intention of the term and laugh.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <tarball.html>`__    | `Up <../T.html>`__         |  `Next <taste.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| tarball                    | `Home <../index.html>`__   |  taste                   |
-+----------------------------+----------------------------+--------------------------+
-
 taste
+=================
 
-`Prev <tardegy.html>`__ 
-
-T
-
- `Next <tayste.html>`__
-
---------------
 
 **taste**: n.
 
@@ -479,23 +345,10 @@ taste, though both are widely used. See also
 
 2. Alt. sp. of `*tayste* <tayste.html>`__.
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <tardegy.html>`__    | `Up <../T.html>`__         |  `Next <tayste.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| tardegy                    | `Home <../index.html>`__   |  tayste                   |
-+----------------------------+----------------------------+---------------------------+
 
 tayste
+===========
 
-`Prev <taste.html>`__ 
-
-T
-
- `Next <TCB.html>`__
-
---------------
 
 **tayste**: /tayst/
 
@@ -503,21 +356,14 @@ n. Two bits; also as `*taste* <taste.html>`__. Syn.
 `*crumb* <../C/crumb.html>`__, `*quarter* <../Q/quarter.html>`__. See
 `*nybble* <../N/nybble.html>`__.
 
---------------
-
-+--------------------------+----------------------------+------------------------+
-| `Prev <taste.html>`__    | `Up <../T.html>`__         |  `Next <TCB.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| taste                    | `Home <../index.html>`__   |  TCB                   |
-+--------------------------+----------------------------+------------------------+
-
 TCB
+=============
 
-`Prev <tayste.html>`__ 
+`Prev <tayste.html>`__ 
 
 T
 
- `Next <TCP-IP.html>`__
+ `Next <TCP-IP.html>`__
 
 --------------
 
@@ -534,18 +380,19 @@ Book* <../O/Orange-Book.html>`__.
 --------------
 
 +---------------------------+----------------------------+---------------------------+
-| `Prev <tayste.html>`__    | `Up <../T.html>`__         |  `Next <TCP-IP.html>`__   |
+| `Prev <tayste.html>`__    | `Up <../T.html>`__         |  `Next <TCP-IP.html>`__   |
 +---------------------------+----------------------------+---------------------------+
-| tayste                    | `Home <../index.html>`__   |  TCP/IP                   |
+| tayste                    | `Home <../index.html>`__   |  TCP/IP                   |
 +---------------------------+----------------------------+---------------------------+
 
 TCP/IP
+=============
 
-`Prev <TCB.html>`__ 
+`Prev <TCB.html>`__ 
 
 T
 
- `Next <TECO.html>`__
+ `Next <TECO.html>`__
 
 --------------
 
@@ -571,18 +418,19 @@ running AX.25 and the TCP/IP relays. TCP/IP won.
 --------------
 
 +------------------------+----------------------------+-------------------------+
-| `Prev <TCB.html>`__    | `Up <../T.html>`__         |  `Next <TECO.html>`__   |
+| `Prev <TCB.html>`__    | `Up <../T.html>`__         |  `Next <TECO.html>`__   |
 +------------------------+----------------------------+-------------------------+
-| TCB                    | `Home <../index.html>`__   |  TECO                   |
+| TCB                    | `Home <../index.html>`__   |  TECO                   |
 +------------------------+----------------------------+-------------------------+
 
 TECO
+===========
 
-`Prev <TCP-IP.html>`__ 
+`Prev <TCP-IP.html>`__ 
 
 T
 
- `Next <tee.html>`__
+ `Next <tee.html>`__
 
 --------------
 
@@ -609,23 +457,23 @@ As an example of TECO's obscurity, here is a TECO program that takes a
 list of names such as:
 
 | 
-|  Loser, J. Random
-|  Quux, The Great
-|  Dick, Moby
+|  Loser, J. Random
+|  Quux, The Great
+|  Dick, Moby
 
 sorts them alphabetically according to surname, and then puts the
 surname last, removing the comma, to produce the following:
 
 | 
-|  Moby Dick
-|  J. Random Loser
-|  The Great Quux
+|  Moby Dick
+|  J. Random Loser
+|  The Great Quux
 
 The program is
 
 | 
-|  [1 J^P$L$$
-|  J <.-Z; .,(S,$ -D .)FX1 @F^B $K :L I $ G1 L>$$
+|  [1 J^P$L$$
+|  J <.-Z; .,(S,$ -D .)FX1 @F^B $K :L I $ G1 L>$$
 
 (where ^B means ‘Control-B’ (ASCII 0000010) and $ is actually an
 `*alt* <../A/alt.html>`__ or escape (ASCII 0011011) character).
@@ -652,18 +500,19 @@ language* <../W/write-only-language.html>`__.
 --------------
 
 +---------------------------+----------------------------+------------------------+
-| `Prev <TCP-IP.html>`__    | `Up <../T.html>`__         |  `Next <tee.html>`__   |
+| `Prev <TCP-IP.html>`__    | `Up <../T.html>`__         |  `Next <tee.html>`__   |
 +---------------------------+----------------------------+------------------------+
-| TCP/IP                    | `Home <../index.html>`__   |  tee                   |
+| TCP/IP                    | `Home <../index.html>`__   |  tee                   |
 +---------------------------+----------------------------+------------------------+
 
 tee
+======================
 
-`Prev <TECO.html>`__ 
+`Prev <TECO.html>`__ 
 
 T
 
- `Next <teergrube.html>`__
+ `Next <teergrube.html>`__
 
 --------------
 
@@ -678,18 +527,19 @@ me’, as in “Tee a slice for me!” Also spelled ‘T’.
 --------------
 
 +-------------------------+----------------------------+------------------------------+
-| `Prev <TECO.html>`__    | `Up <../T.html>`__         |  `Next <teergrube.html>`__   |
+| `Prev <TECO.html>`__    | `Up <../T.html>`__         |  `Next <teergrube.html>`__   |
 +-------------------------+----------------------------+------------------------------+
-| TECO                    | `Home <../index.html>`__   |  teergrube                   |
+| TECO                    | `Home <../index.html>`__   |  teergrube                   |
 +-------------------------+----------------------------+------------------------------+
 
 teergrube
+============
 
-`Prev <tee.html>`__ 
+`Prev <tee.html>`__ 
 
 T
 
- `Next <teledildonics.html>`__
+ `Next <teledildonics.html>`__
 
 --------------
 
@@ -707,18 +557,19 @@ the spammer tries to mailbomb it, his mailer will get stuck.
 --------------
 
 +------------------------+----------------------------+----------------------------------+
-| `Prev <tee.html>`__    | `Up <../T.html>`__         |  `Next <teledildonics.html>`__   |
+| `Prev <tee.html>`__    | `Up <../T.html>`__         |  `Next <teledildonics.html>`__   |
 +------------------------+----------------------------+----------------------------------+
-| tee                    | `Home <../index.html>`__   |  teledildonics                   |
+| tee                    | `Home <../index.html>`__   |  teledildonics                   |
 +------------------------+----------------------------+----------------------------------+
 
 teledildonics
+===============
 
-`Prev <teergrube.html>`__ 
+`Prev <teergrube.html>`__ 
 
 T
 
- `Next <ten-finger-interface.html>`__
+ `Next <ten-finger-interface.html>`__
 
 --------------
 
@@ -737,18 +588,19 @@ See also `*hot chat* <../H/hot-chat.html>`__.
 --------------
 
 +------------------------------+----------------------------+-----------------------------------------+
-| `Prev <teergrube.html>`__    | `Up <../T.html>`__         |  `Next <ten-finger-interface.html>`__   |
+| `Prev <teergrube.html>`__    | `Up <../T.html>`__         |  `Next <ten-finger-interface.html>`__   |
 +------------------------------+----------------------------+-----------------------------------------+
-| teergrube                    | `Home <../index.html>`__   |  ten-finger interface                   |
+| teergrube                    | `Home <../index.html>`__   |  ten-finger interface                   |
 +------------------------------+----------------------------+-----------------------------------------+
 
 ten-finger interface
+=================================
 
-`Prev <teledildonics.html>`__ 
+`Prev <teledildonics.html>`__ 
 
 T
 
- `Next <tense.html>`__
+ `Next <tense.html>`__
 
 --------------
 
@@ -761,18 +613,19 @@ by side and having an operator read from one and type into the other.
 --------------
 
 +----------------------------------+----------------------------+--------------------------+
-| `Prev <teledildonics.html>`__    | `Up <../T.html>`__         |  `Next <tense.html>`__   |
+| `Prev <teledildonics.html>`__    | `Up <../T.html>`__         |  `Next <tense.html>`__   |
 +----------------------------------+----------------------------+--------------------------+
-| teledildonics                    | `Home <../index.html>`__   |  tense                   |
+| teledildonics                    | `Home <../index.html>`__   |  tense                   |
 +----------------------------------+----------------------------+--------------------------+
 
 tense
+===================
 
-`Prev <ten-finger-interface.html>`__ 
+`Prev <ten-finger-interface.html>`__ 
 
 T
 
- `Next <tentacle.html>`__
+ `Next <tentacle.html>`__
 
 --------------
 
@@ -787,18 +640,20 @@ tears to your eyes.” A tense programmer is one who produces tense code.
 --------------
 
 +-----------------------------------------+----------------------------+-----------------------------+
-| `Prev <ten-finger-interface.html>`__    | `Up <../T.html>`__         |  `Next <tentacle.html>`__   |
+| `Prev <ten-finger-interface.html>`__    | `Up <../T.html>`__         |  `Next <tentacle.html>`__   |
 +-----------------------------------------+----------------------------+-----------------------------+
-| ten-finger interface                    | `Home <../index.html>`__   |  tentacle                   |
+| ten-finger interface                    | `Home <../index.html>`__   |  tentacle                   |
 +-----------------------------------------+----------------------------+-----------------------------+
 
 tentacle
+=================
 
-`Prev <tense.html>`__ 
+
+`Prev <tense.html>`__ 
 
 T
 
- `Next <tenured-graduate-student.html>`__
+ `Next <tenured-graduate-student.html>`__
 
 --------------
 
@@ -818,18 +673,19 @@ puppet* <../S/sock-puppet.html>`__.
 --------------
 
 +--------------------------+----------------------------+---------------------------------------------+
-| `Prev <tense.html>`__    | `Up <../T.html>`__         |  `Next <tenured-graduate-student.html>`__   |
+| `Prev <tense.html>`__    | `Up <../T.html>`__         |  `Next <tenured-graduate-student.html>`__   |
 +--------------------------+----------------------------+---------------------------------------------+
-| tense                    | `Home <../index.html>`__   |  tenured graduate student                   |
+| tense                    | `Home <../index.html>`__   |  tenured graduate student                   |
 +--------------------------+----------------------------+---------------------------------------------+
 
 tenured graduate student
+==============================
 
-`Prev <tentacle.html>`__ 
+`Prev <tentacle.html>`__ 
 
 T
 
- `Next <tera-.html>`__
+ `Next <tera-.html>`__
 
 --------------
 
@@ -845,18 +701,19 @@ untenured professor.
 --------------
 
 +-----------------------------+----------------------------+--------------------------+
-| `Prev <tentacle.html>`__    | `Up <../T.html>`__         |  `Next <tera-.html>`__   |
+| `Prev <tentacle.html>`__    | `Up <../T.html>`__         |  `Next <tera-.html>`__   |
 +-----------------------------+----------------------------+--------------------------+
-| tentacle                    | `Home <../index.html>`__   |  tera-                   |
+| tentacle                    | `Home <../index.html>`__   |  tera-                   |
 +-----------------------------+----------------------------+--------------------------+
 
 teraflop club
+====================
 
-`Prev <tera-.html>`__ 
+`Prev <tera-.html>`__ 
 
 T
 
- `Next <terminak.html>`__
+ `Next <terminak.html>`__
 
 --------------
 
@@ -872,18 +729,19 @@ Calculus* <../K/Knights-of-the-Lambda-Calculus.html>`__.
 --------------
 
 +--------------------------+----------------------------+-----------------------------+
-| `Prev <tera-.html>`__    | `Up <../T.html>`__         |  `Next <terminak.html>`__   |
+| `Prev <tera-.html>`__    | `Up <../T.html>`__         |  `Next <terminak.html>`__   |
 +--------------------------+----------------------------+-----------------------------+
-| tera-                    | `Home <../index.html>`__   |  terminak                   |
+| tera-                    | `Home <../index.html>`__   |  terminak                   |
 +--------------------------+----------------------------+-----------------------------+
 
 tera-
+===========
 
-`Prev <tenured-graduate-student.html>`__ 
+`Prev <tenured-graduate-student.html>`__ 
 
 T
 
- `Next <teraflop-club.html>`__
+ `Next <teraflop-club.html>`__
 
 --------------
 
@@ -894,18 +752,18 @@ T
 --------------
 
 +---------------------------------------------+----------------------------+----------------------------------+
-| `Prev <tenured-graduate-student.html>`__    | `Up <../T.html>`__         |  `Next <teraflop-club.html>`__   |
+| `Prev <tenured-graduate-student.html>`__    | `Up <../T.html>`__         |  `Next <teraflop-club.html>`__   |
 +---------------------------------------------+----------------------------+----------------------------------+
-| tenured graduate student                    | `Home <../index.html>`__   |  teraflop club                   |
+| tenured graduate student                    | `Home <../index.html>`__   |  teraflop club                   |
 +---------------------------------------------+----------------------------+----------------------------------+
 
 terminak
 
-`Prev <teraflop-club.html>`__ 
+`Prev <teraflop-club.html>`__ 
 
 T
 
- `Next <terminal-brain-death.html>`__
+ `Next <terminal-brain-death.html>`__
 
 --------------
 
@@ -923,18 +781,18 @@ disease* <../D/dread-high-bit-disease.html>`__,
 --------------
 
 +----------------------------------+----------------------------+-----------------------------------------+
-| `Prev <teraflop-club.html>`__    | `Up <../T.html>`__         |  `Next <terminal-brain-death.html>`__   |
+| `Prev <teraflop-club.html>`__    | `Up <../T.html>`__         |  `Next <terminal-brain-death.html>`__   |
 +----------------------------------+----------------------------+-----------------------------------------+
-| teraflop club                    | `Home <../index.html>`__   |  terminal brain death                   |
+| teraflop club                    | `Home <../index.html>`__   |  terminal brain death                   |
 +----------------------------------+----------------------------+-----------------------------------------+
 
 terminal brain death
 
-`Prev <terminak.html>`__ 
+`Prev <terminak.html>`__ 
 
 T
 
- `Next <terminal-illness.html>`__
+ `Next <terminal-illness.html>`__
 
 --------------
 
@@ -947,18 +805,18 @@ far too long is said to be suffering from.
 --------------
 
 +-----------------------------+----------------------------+-------------------------------------+
-| `Prev <terminak.html>`__    | `Up <../T.html>`__         |  `Next <terminal-illness.html>`__   |
+| `Prev <terminak.html>`__    | `Up <../T.html>`__         |  `Next <terminal-illness.html>`__   |
 +-----------------------------+----------------------------+-------------------------------------+
-| terminak                    | `Home <../index.html>`__   |  terminal illness                   |
+| terminak                    | `Home <../index.html>`__   |  terminal illness                   |
 +-----------------------------+----------------------------+-------------------------------------+
 
 terminal illness
 
-`Prev <terminal-brain-death.html>`__ 
+`Prev <terminal-brain-death.html>`__ 
 
 T
 
- `Next <terminal-junkie.html>`__
+ `Next <terminal-junkie.html>`__
 
 --------------
 
@@ -972,18 +830,18 @@ screen saver.
 --------------
 
 +-----------------------------------------+----------------------------+------------------------------------+
-| `Prev <terminal-brain-death.html>`__    | `Up <../T.html>`__         |  `Next <terminal-junkie.html>`__   |
+| `Prev <terminal-brain-death.html>`__    | `Up <../T.html>`__         |  `Next <terminal-junkie.html>`__   |
 +-----------------------------------------+----------------------------+------------------------------------+
-| terminal brain death                    | `Home <../index.html>`__   |  terminal junkie                   |
+| terminal brain death                    | `Home <../index.html>`__   |  terminal junkie                   |
 +-----------------------------------------+----------------------------+------------------------------------+
 
 terminal junkie
 
-`Prev <terminal-illness.html>`__ 
+`Prev <terminal-illness.html>`__ 
 
 T
 
- `Next <test.html>`__
+ `Next <test.html>`__
 
 --------------
 
@@ -1005,18 +863,18 @@ unlimited supply.
 --------------
 
 +-------------------------------------+----------------------------+-------------------------+
-| `Prev <terminal-illness.html>`__    | `Up <../T.html>`__         |  `Next <test.html>`__   |
+| `Prev <terminal-illness.html>`__    | `Up <../T.html>`__         |  `Next <test.html>`__   |
 +-------------------------------------+----------------------------+-------------------------+
-| terminal illness                    | `Home <../index.html>`__   |  test                   |
+| terminal illness                    | `Home <../index.html>`__   |  test                   |
 +-------------------------------------+----------------------------+-------------------------+
 
 test
 
-`Prev <terminal-junkie.html>`__ 
+`Prev <terminal-junkie.html>`__ 
 
 T
 
- `Next <TeX.html>`__
+ `Next <TeX.html>`__
 
 --------------
 
@@ -1034,18 +892,18 @@ more prevalent. See also `*demo* <../D/demo.html>`__.
 --------------
 
 +------------------------------------+----------------------------+------------------------+
-| `Prev <terminal-junkie.html>`__    | `Up <../T.html>`__         |  `Next <TeX.html>`__   |
+| `Prev <terminal-junkie.html>`__    | `Up <../T.html>`__         |  `Next <TeX.html>`__   |
 +------------------------------------+----------------------------+------------------------+
-| terminal junkie                    | `Home <../index.html>`__   |  TeX                   |
+| terminal junkie                    | `Home <../index.html>`__   |  TeX                   |
 +------------------------------------+----------------------------+------------------------+
 
 TeX
 
-`Prev <test.html>`__ 
+`Prev <test.html>`__ 
 
 T
 
- `Next <text.html>`__
+ `Next <text.html>`__
 
 --------------
 
@@ -1088,18 +946,18 @@ bug in every Pascal system it has been compiled with.
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <test.html>`__    | `Up <../T.html>`__         |  `Next <text.html>`__   |
+| `Prev <test.html>`__    | `Up <../T.html>`__         |  `Next <text.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| test                    | `Home <../index.html>`__   |  text                   |
+| test                    | `Home <../index.html>`__   |  text                   |
 +-------------------------+----------------------------+-------------------------+
 
 text
 
-`Prev <TeX.html>`__ 
+`Prev <TeX.html>`__ 
 
 T
 
- `Next <thanks-in-advance.html>`__
+ `Next <thanks-in-advance.html>`__
 
 --------------
 
@@ -1119,18 +977,18 @@ These two contradictory senses confuse hackers, too.
 --------------
 
 +------------------------+----------------------------+--------------------------------------+
-| `Prev <TeX.html>`__    | `Up <../T.html>`__         |  `Next <thanks-in-advance.html>`__   |
+| `Prev <TeX.html>`__    | `Up <../T.html>`__         |  `Next <thanks-in-advance.html>`__   |
 +------------------------+----------------------------+--------------------------------------+
-| TeX                    | `Home <../index.html>`__   |  thanks in advance                   |
+| TeX                    | `Home <../index.html>`__   |  thanks in advance                   |
 +------------------------+----------------------------+--------------------------------------+
 
 thanks in advance
 
-`Prev <text.html>`__ 
+`Prev <text.html>`__ 
 
 T
 
- `Next <Thats-not-a-bug--thats-a-feature-.html>`__
+ `Next <Thats-not-a-bug--thats-a-feature-.html>`__
 
 --------------
 
@@ -1144,18 +1002,18 @@ information or assistance. Sometimes written ‘advTHANKSance’ or
 --------------
 
 +-------------------------+----------------------------+------------------------------------------------------+
-| `Prev <text.html>`__    | `Up <../T.html>`__         |  `Next <Thats-not-a-bug--thats-a-feature-.html>`__   |
+| `Prev <text.html>`__    | `Up <../T.html>`__         |  `Next <Thats-not-a-bug--thats-a-feature-.html>`__   |
 +-------------------------+----------------------------+------------------------------------------------------+
-| text                    | `Home <../index.html>`__   |  That's not a bug, that's a feature!                 |
+| text                    | `Home <../index.html>`__   |  That's not a bug, that's a feature!                 |
 +-------------------------+----------------------------+------------------------------------------------------+
 
 That's not a bug, that's a feature!
 
-`Prev <thanks-in-advance.html>`__ 
+`Prev <thanks-in-advance.html>`__ 
 
 T
 
- `Next <the-literature.html>`__
+ `Next <the-literature.html>`__
 
 --------------
 
@@ -1169,18 +1027,18 @@ See also `*feature* <../F/feature.html>`__.
 --------------
 
 +--------------------------------------+----------------------------+-----------------------------------+
-| `Prev <thanks-in-advance.html>`__    | `Up <../T.html>`__         |  `Next <the-literature.html>`__   |
+| `Prev <thanks-in-advance.html>`__    | `Up <../T.html>`__         |  `Next <the-literature.html>`__   |
 +--------------------------------------+----------------------------+-----------------------------------+
-| thanks in advance                    | `Home <../index.html>`__   |  the literature                   |
+| thanks in advance                    | `Home <../index.html>`__   |  the literature                   |
 +--------------------------------------+----------------------------+-----------------------------------+
 
 the literature
 
-`Prev <Thats-not-a-bug--thats-a-feature-.html>`__ 
+`Prev <Thats-not-a-bug--thats-a-feature-.html>`__ 
 
 T
 
- `Next <the-network.html>`__
+ `Next <the-network.html>`__
 
 --------------
 
@@ -1195,18 +1053,18 @@ question by saying “It's in the literature.” Oppose
 --------------
 
 +------------------------------------------------------+----------------------------+--------------------------------+
-| `Prev <Thats-not-a-bug--thats-a-feature-.html>`__    | `Up <../T.html>`__         |  `Next <the-network.html>`__   |
+| `Prev <Thats-not-a-bug--thats-a-feature-.html>`__    | `Up <../T.html>`__         |  `Next <the-network.html>`__   |
 +------------------------------------------------------+----------------------------+--------------------------------+
-| That's not a bug, that's a feature!                  | `Home <../index.html>`__   |  the network                   |
+| That's not a bug, that's a feature!                  | `Home <../index.html>`__   |  the network                   |
 +------------------------------------------------------+----------------------------+--------------------------------+
 
 the network
 
-`Prev <the-literature.html>`__ 
+`Prev <the-literature.html>`__ 
 
 T
 
- `Next <the-X-that-can-be-Y-is-not-the-true-X.html>`__
+ `Next <the-X-that-can-be-Y-is-not-the-true-X.html>`__
 
 --------------
 
@@ -1241,18 +1099,18 @@ net?” is a frequent question when hackers first meet face to face, and
 --------------
 
 +-----------------------------------+----------------------------+----------------------------------------------------------+
-| `Prev <the-literature.html>`__    | `Up <../T.html>`__         |  `Next <the-X-that-can-be-Y-is-not-the-true-X.html>`__   |
+| `Prev <the-literature.html>`__    | `Up <../T.html>`__         |  `Next <the-X-that-can-be-Y-is-not-the-true-X.html>`__   |
 +-----------------------------------+----------------------------+----------------------------------------------------------+
-| the literature                    | `Home <../index.html>`__   |  the X that can be Y is not the true X                   |
+| the literature                    | `Home <../index.html>`__   |  the X that can be Y is not the true X                   |
 +-----------------------------------+----------------------------+----------------------------------------------------------+
 
 theology
 
-`Prev <the-X-that-can-be-Y-is-not-the-true-X.html>`__ 
+`Prev <the-X-that-can-be-Y-is-not-the-true-X.html>`__ 
 
 T
 
- `Next <theory.html>`__
+ `Next <theory.html>`__
 
 --------------
 
@@ -1271,18 +1129,18 @@ dispute in AI.
 --------------
 
 +----------------------------------------------------------+----------------------------+---------------------------+
-| `Prev <the-X-that-can-be-Y-is-not-the-true-X.html>`__    | `Up <../T.html>`__         |  `Next <theory.html>`__   |
+| `Prev <the-X-that-can-be-Y-is-not-the-true-X.html>`__    | `Up <../T.html>`__         |  `Next <theory.html>`__   |
 +----------------------------------------------------------+----------------------------+---------------------------+
-| the X that can be Y is not the true X                    | `Home <../index.html>`__   |  theory                   |
+| the X that can be Y is not the true X                    | `Home <../index.html>`__   |  theory                   |
 +----------------------------------------------------------+----------------------------+---------------------------+
 
 theory
 
-`Prev <theology.html>`__ 
+`Prev <theology.html>`__ 
 
 T
 
- `Next <thinko.html>`__
+ `Next <thinko.html>`__
 
 --------------
 
@@ -1299,18 +1157,18 @@ well-known screw....”
 --------------
 
 +-----------------------------+----------------------------+---------------------------+
-| `Prev <theology.html>`__    | `Up <../T.html>`__         |  `Next <thinko.html>`__   |
+| `Prev <theology.html>`__    | `Up <../T.html>`__         |  `Next <thinko.html>`__   |
 +-----------------------------+----------------------------+---------------------------+
-| theology                    | `Home <../index.html>`__   |  thinko                   |
+| theology                    | `Home <../index.html>`__   |  thinko                   |
 +-----------------------------+----------------------------+---------------------------+
 
 the X that can be Y is not the true X
 
-`Prev <the-network.html>`__ 
+`Prev <the-network.html>`__ 
 
 T
 
- `Next <theology.html>`__
+ `Next <theology.html>`__
 
 --------------
 
@@ -1327,18 +1185,18 @@ that the X is a mystery accessible only to the enlightened. See the
 --------------
 
 +--------------------------------+----------------------------+-----------------------------+
-| `Prev <the-network.html>`__    | `Up <../T.html>`__         |  `Next <theology.html>`__   |
+| `Prev <the-network.html>`__    | `Up <../T.html>`__         |  `Next <theology.html>`__   |
 +--------------------------------+----------------------------+-----------------------------+
-| the network                    | `Home <../index.html>`__   |  theology                   |
+| the network                    | `Home <../index.html>`__   |  theology                   |
 +--------------------------------+----------------------------+-----------------------------+
 
 thinko
 
-`Prev <theory.html>`__ 
+`Prev <theory.html>`__ 
 
 T
 
- `Next <This-can-t-happen.html>`__
+ `Next <This-can-t-happen.html>`__
 
 --------------
 
@@ -1353,18 +1211,18 @@ fart* <../B/brain-fart.html>`__. Compare `*mouso* <../M/mouso.html>`__.
 --------------
 
 +---------------------------+----------------------------+--------------------------------------+
-| `Prev <theory.html>`__    | `Up <../T.html>`__         |  `Next <This-can-t-happen.html>`__   |
+| `Prev <theory.html>`__    | `Up <../T.html>`__         |  `Next <This-can-t-happen.html>`__   |
 +---------------------------+----------------------------+--------------------------------------+
-| theory                    | `Home <../index.html>`__   |  This can't happen                   |
+| theory                    | `Home <../index.html>`__   |  This can't happen                   |
 +---------------------------+----------------------------+--------------------------------------+
 
 This can't happen
 
-`Prev <thinko.html>`__ 
+`Prev <thinko.html>`__ 
 
 T
 
- `Next <This-time--for-sure-.html>`__
+ `Next <This-time--for-sure-.html>`__
 
 --------------
 
@@ -1375,18 +1233,18 @@ Less clipped variant of `*can't happen* <../C/can-t-happen.html>`__.
 --------------
 
 +---------------------------+----------------------------+-----------------------------------------+
-| `Prev <thinko.html>`__    | `Up <../T.html>`__         |  `Next <This-time--for-sure-.html>`__   |
+| `Prev <thinko.html>`__    | `Up <../T.html>`__         |  `Next <This-time--for-sure-.html>`__   |
 +---------------------------+----------------------------+-----------------------------------------+
-| thinko                    | `Home <../index.html>`__   |  This time, for sure!                   |
+| thinko                    | `Home <../index.html>`__   |  This time, for sure!                   |
 +---------------------------+----------------------------+-----------------------------------------+
 
 This time, for sure!
 
-`Prev <This-can-t-happen.html>`__ 
+`Prev <This-can-t-happen.html>`__ 
 
 T
 
- `Next <thrash.html>`__
+ `Next <thrash.html>`__
 
 --------------
 
@@ -1403,18 +1261,18 @@ trick *never* works!” See `*hacker humor* <../H/hacker-humor.html>`__.
 --------------
 
 +--------------------------------------+----------------------------+---------------------------+
-| `Prev <This-can-t-happen.html>`__    | `Up <../T.html>`__         |  `Next <thrash.html>`__   |
+| `Prev <This-can-t-happen.html>`__    | `Up <../T.html>`__         |  `Next <thrash.html>`__   |
 +--------------------------------------+----------------------------+---------------------------+
-| This can't happen                    | `Home <../index.html>`__   |  thrash                   |
+| This can't happen                    | `Home <../index.html>`__   |  thrash                   |
 +--------------------------------------+----------------------------+---------------------------+
 
 thrash
 
-`Prev <This-time--for-sure-.html>`__ 
+`Prev <This-time--for-sure-.html>`__ 
 
 T
 
- `Next <thread.html>`__
+ `Next <thread.html>`__
 
 --------------
 
@@ -1432,18 +1290,18 @@ as thrashing. Compare `*multitask* <../M/multitask.html>`__.
 --------------
 
 +-----------------------------------------+----------------------------+---------------------------+
-| `Prev <This-time--for-sure-.html>`__    | `Up <../T.html>`__         |  `Next <thread.html>`__   |
+| `Prev <This-time--for-sure-.html>`__    | `Up <../T.html>`__         |  `Next <thread.html>`__   |
 +-----------------------------------------+----------------------------+---------------------------+
-| This time, for sure!                    | `Home <../index.html>`__   |  thread                   |
+| This time, for sure!                    | `Home <../index.html>`__   |  thread                   |
 +-----------------------------------------+----------------------------+---------------------------+
 
 thread
 
-`Prev <thrash.html>`__ 
+`Prev <thrash.html>`__ 
 
 T
 
- `Next <three-finger-salute.html>`__
+ `Next <three-finger-salute.html>`__
 
 --------------
 
@@ -1466,18 +1324,18 @@ to 1642!
 --------------
 
 +---------------------------+----------------------------+----------------------------------------+
-| `Prev <thrash.html>`__    | `Up <../T.html>`__         |  `Next <three-finger-salute.html>`__   |
+| `Prev <thrash.html>`__    | `Up <../T.html>`__         |  `Next <three-finger-salute.html>`__   |
 +---------------------------+----------------------------+----------------------------------------+
-| thrash                    | `Home <../index.html>`__   |  three-finger salute                   |
+| thrash                    | `Home <../index.html>`__   |  three-finger salute                   |
 +---------------------------+----------------------------+----------------------------------------+
 
 three-finger salute
 
-`Prev <thread.html>`__ 
+`Prev <thread.html>`__ 
 
 T
 
- `Next <throwaway-account.html>`__
+ `Next <throwaway-account.html>`__
 
 --------------
 
@@ -1488,18 +1346,18 @@ Syn. `*Vulcan nerve pinch* <../V/Vulcan-nerve-pinch.html>`__.
 --------------
 
 +---------------------------+----------------------------+--------------------------------------+
-| `Prev <thread.html>`__    | `Up <../T.html>`__         |  `Next <throwaway-account.html>`__   |
+| `Prev <thread.html>`__    | `Up <../T.html>`__         |  `Next <throwaway-account.html>`__   |
 +---------------------------+----------------------------+--------------------------------------+
-| thread                    | `Home <../index.html>`__   |  throwaway account                   |
+| thread                    | `Home <../index.html>`__   |  throwaway account                   |
 +---------------------------+----------------------------+--------------------------------------+
 
 throwaway account
 
-`Prev <three-finger-salute.html>`__ 
+`Prev <three-finger-salute.html>`__ 
 
 T
 
- `Next <thud.html>`__
+ `Next <thud.html>`__
 
 --------------
 
@@ -1516,18 +1374,18 @@ ignore spam since the user will not look at the account again.
 --------------
 
 +----------------------------------------+----------------------------+-------------------------+
-| `Prev <three-finger-salute.html>`__    | `Up <../T.html>`__         |  `Next <thud.html>`__   |
+| `Prev <three-finger-salute.html>`__    | `Up <../T.html>`__         |  `Next <thud.html>`__   |
 +----------------------------------------+----------------------------+-------------------------+
-| three-finger salute                    | `Home <../index.html>`__   |  thud                   |
+| three-finger salute                    | `Home <../index.html>`__   |  thud                   |
 +----------------------------------------+----------------------------+-------------------------+
 
 T
 
-`Prev <../T.html>`__ 
+`Prev <../T.html>`__ 
 
 T
 
- `Next <tail-recursion.html>`__
+ `Next <tail-recursion.html>`__
 
 --------------
 
@@ -1560,18 +1418,18 @@ dialect of Lisp developed for the `*VAX* <../V/VAX.html>`__)
 --------------
 
 +-------------------------+----------------------------+-----------------------------------+
-| `Prev <../T.html>`__    | `Up <../T.html>`__         |  `Next <tail-recursion.html>`__   |
+| `Prev <../T.html>`__    | `Up <../T.html>`__         |  `Next <tail-recursion.html>`__   |
 +-------------------------+----------------------------+-----------------------------------+
-| T                       | `Home <../index.html>`__   |  tail recursion                   |
+| T                       | `Home <../index.html>`__   |  tail recursion                   |
 +-------------------------+----------------------------+-----------------------------------+
 
 thud
 
-`Prev <throwaway-account.html>`__ 
+`Prev <throwaway-account.html>`__ 
 
 T
 
- `Next <thumb.html>`__
+ `Next <thumb.html>`__
 
 --------------
 
@@ -1589,18 +1447,18 @@ mid-1970s the canonical series of these was ‘foo’, ‘bar’, ‘thud’,
 --------------
 
 +--------------------------------------+----------------------------+--------------------------+
-| `Prev <throwaway-account.html>`__    | `Up <../T.html>`__         |  `Next <thumb.html>`__   |
+| `Prev <throwaway-account.html>`__    | `Up <../T.html>`__         |  `Next <thumb.html>`__   |
 +--------------------------------------+----------------------------+--------------------------+
-| throwaway account                    | `Home <../index.html>`__   |  thumb                   |
+| throwaway account                    | `Home <../index.html>`__   |  thumb                   |
 +--------------------------------------+----------------------------+--------------------------+
 
 thumb
 
-`Prev <thud.html>`__ 
+`Prev <thud.html>`__ 
 
 T
 
- `Next <thundering-herd-problem.html>`__
+ `Next <thundering-herd-problem.html>`__
 
 --------------
 
@@ -1613,18 +1471,18 @@ analogous to thumbing through a book.
 --------------
 
 +-------------------------+----------------------------+--------------------------------------------+
-| `Prev <thud.html>`__    | `Up <../T.html>`__         |  `Next <thundering-herd-problem.html>`__   |
+| `Prev <thud.html>`__    | `Up <../T.html>`__         |  `Next <thundering-herd-problem.html>`__   |
 +-------------------------+----------------------------+--------------------------------------------+
-| thud                    | `Home <../index.html>`__   |  thundering herd problem                   |
+| thud                    | `Home <../index.html>`__   |  thundering herd problem                   |
 +-------------------------+----------------------------+--------------------------------------------+
 
 thundering herd problem
 
-`Prev <thumb.html>`__ 
+`Prev <thumb.html>`__ 
 
 T
 
- `Next <thunk.html>`__
+ `Next <thunk.html>`__
 
 --------------
 
@@ -1643,18 +1501,18 @@ performance impact can be significant.
 --------------
 
 +--------------------------+----------------------------+--------------------------+
-| `Prev <thumb.html>`__    | `Up <../T.html>`__         |  `Next <thunk.html>`__   |
+| `Prev <thumb.html>`__    | `Up <../T.html>`__         |  `Next <thunk.html>`__   |
 +--------------------------+----------------------------+--------------------------+
-| thumb                    | `Home <../index.html>`__   |  thunk                   |
+| thumb                    | `Home <../index.html>`__   |  thunk                   |
 +--------------------------+----------------------------+--------------------------+
 
 thunk
 
-`Prev <thundering-herd-problem.html>`__ 
+`Prev <thundering-herd-problem.html>`__ 
 
 T
 
- `Next <tick.html>`__
+ `Next <tick.html>`__
 
 --------------
 
@@ -1706,18 +1564,18 @@ past tense of ‘think’ at two in the morning”.
 --------------
 
 +--------------------------------------------+----------------------------+-------------------------+
-| `Prev <thundering-herd-problem.html>`__    | `Up <../T.html>`__         |  `Next <tick.html>`__   |
+| `Prev <thundering-herd-problem.html>`__    | `Up <../T.html>`__         |  `Next <tick.html>`__   |
 +--------------------------------------------+----------------------------+-------------------------+
-| thundering herd problem                    | `Home <../index.html>`__   |  tick                   |
+| thundering herd problem                    | `Home <../index.html>`__   |  tick                   |
 +--------------------------------------------+----------------------------+-------------------------+
 
 tick
 
-`Prev <thunk.html>`__ 
+`Prev <thunk.html>`__ 
 
 T
 
- `Next <tick-list-features.html>`__
+ `Next <tick-list-features.html>`__
 
 --------------
 
@@ -1738,18 +1596,18 @@ causes is `*handwave* <../H/handwave.html>`__\ d.
 --------------
 
 +--------------------------+----------------------------+---------------------------------------+
-| `Prev <thunk.html>`__    | `Up <../T.html>`__         |  `Next <tick-list-features.html>`__   |
+| `Prev <thunk.html>`__    | `Up <../T.html>`__         |  `Next <tick-list-features.html>`__   |
 +--------------------------+----------------------------+---------------------------------------+
-| thunk                    | `Home <../index.html>`__   |  tick-list features                   |
+| thunk                    | `Home <../index.html>`__   |  tick-list features                   |
 +--------------------------+----------------------------+---------------------------------------+
 
 tickle a bug
 
-`Prev <tick-list-features.html>`__ 
+`Prev <tick-list-features.html>`__ 
 
 T
 
- `Next <tiger-team.html>`__
+ `Next <tiger-team.html>`__
 
 --------------
 
@@ -1763,18 +1621,18 @@ video.”
 --------------
 
 +---------------------------------------+----------------------------+-------------------------------+
-| `Prev <tick-list-features.html>`__    | `Up <../T.html>`__         |  `Next <tiger-team.html>`__   |
+| `Prev <tick-list-features.html>`__    | `Up <../T.html>`__         |  `Next <tiger-team.html>`__   |
 +---------------------------------------+----------------------------+-------------------------------+
-| tick-list features                    | `Home <../index.html>`__   |  tiger team                   |
+| tick-list features                    | `Home <../index.html>`__   |  tiger team                   |
 +---------------------------------------+----------------------------+-------------------------------+
 
 tick-list features
 
-`Prev <tick.html>`__ 
+`Prev <tick.html>`__ 
 
 T
 
- `Next <tickle-a-bug.html>`__
+ `Next <tickle-a-bug.html>`__
 
 --------------
 
@@ -1788,18 +1646,18 @@ sense of the phrase has not been reported.
 --------------
 
 +-------------------------+----------------------------+---------------------------------+
-| `Prev <tick.html>`__    | `Up <../T.html>`__         |  `Next <tickle-a-bug.html>`__   |
+| `Prev <tick.html>`__    | `Up <../T.html>`__         |  `Next <tickle-a-bug.html>`__   |
 +-------------------------+----------------------------+---------------------------------+
-| tick                    | `Home <../index.html>`__   |  tickle a bug                   |
+| tick                    | `Home <../index.html>`__   |  tickle a bug                   |
 +-------------------------+----------------------------+---------------------------------+
 
 tiger team
 
-`Prev <tickle-a-bug.html>`__ 
+`Prev <tickle-a-bug.html>`__ 
 
 T
 
- `Next <time-bomb.html>`__
+ `Next <time-bomb.html>`__
 
 --------------
 
@@ -1834,18 +1692,18 @@ this more specific sense.
 --------------
 
 +---------------------------------+----------------------------+------------------------------+
-| `Prev <tickle-a-bug.html>`__    | `Up <../T.html>`__         |  `Next <time-bomb.html>`__   |
+| `Prev <tickle-a-bug.html>`__    | `Up <../T.html>`__         |  `Next <time-bomb.html>`__   |
 +---------------------------------+----------------------------+------------------------------+
-| tickle a bug                    | `Home <../index.html>`__   |  time bomb                   |
+| tickle a bug                    | `Home <../index.html>`__   |  time bomb                   |
 +---------------------------------+----------------------------+------------------------------+
 
 time bomb
 
-`Prev <tiger-team.html>`__ 
+`Prev <tiger-team.html>`__ 
 
 T
 
- `Next <time-sink.html>`__
+ `Next <time-sink.html>`__
 
 --------------
 
@@ -1871,18 +1729,18 @@ work as a programmer.
 --------------
 
 +-------------------------------+----------------------------+------------------------------+
-| `Prev <tiger-team.html>`__    | `Up <../T.html>`__         |  `Next <time-sink.html>`__   |
+| `Prev <tiger-team.html>`__    | `Up <../T.html>`__         |  `Next <time-sink.html>`__   |
 +-------------------------------+----------------------------+------------------------------+
-| tiger team                    | `Home <../index.html>`__   |  time sink                   |
+| tiger team                    | `Home <../index.html>`__   |  time sink                   |
 +-------------------------------+----------------------------+------------------------------+
 
 timesharing
 
-`Prev <times-or-divided-by.html>`__ 
+`Prev <times-or-divided-by.html>`__ 
 
 T
 
- `Next <TINC.html>`__
+ `Next <TINC.html>`__
 
 --------------
 
@@ -1938,18 +1796,18 @@ operating systems.
 --------------
 
 +----------------------------------------+----------------------------+-------------------------+
-| `Prev <times-or-divided-by.html>`__    | `Up <../T.html>`__         |  `Next <TINC.html>`__   |
+| `Prev <times-or-divided-by.html>`__    | `Up <../T.html>`__         |  `Next <TINC.html>`__   |
 +----------------------------------------+----------------------------+-------------------------+
-| times-or-divided-by                    | `Home <../index.html>`__   |  TINC                   |
+| times-or-divided-by                    | `Home <../index.html>`__   |  TINC                   |
 +----------------------------------------+----------------------------+-------------------------+
 
 time sink
 
-`Prev <time-bomb.html>`__ 
+`Prev <time-bomb.html>`__ 
 
 T
 
- `Next <time-T.html>`__
+ `Next <time-T.html>`__
 
 --------------
 
@@ -1961,18 +1819,18 @@ consumes unbounded amounts of time.
 --------------
 
 +------------------------------+----------------------------+---------------------------+
-| `Prev <time-bomb.html>`__    | `Up <../T.html>`__         |  `Next <time-T.html>`__   |
+| `Prev <time-bomb.html>`__    | `Up <../T.html>`__         |  `Next <time-T.html>`__   |
 +------------------------------+----------------------------+---------------------------+
-| time bomb                    | `Home <../index.html>`__   |  time T                   |
+| time bomb                    | `Home <../index.html>`__   |  time T                   |
 +------------------------------+----------------------------+---------------------------+
 
 times-or-divided-by
 
-`Prev <time-T.html>`__ 
+`Prev <time-T.html>`__ 
 
 T
 
- `Next <timesharing.html>`__
+ `Next <timesharing.html>`__
 
 --------------
 
@@ -1986,18 +1844,18 @@ scheduling uncertainty factor is usually at least 2.
 --------------
 
 +---------------------------+----------------------------+--------------------------------+
-| `Prev <time-T.html>`__    | `Up <../T.html>`__         |  `Next <timesharing.html>`__   |
+| `Prev <time-T.html>`__    | `Up <../T.html>`__         |  `Next <timesharing.html>`__   |
 +---------------------------+----------------------------+--------------------------------+
-| time T                    | `Home <../index.html>`__   |  timesharing                   |
+| time T                    | `Home <../index.html>`__   |  timesharing                   |
 +---------------------------+----------------------------+--------------------------------+
 
 time T
 
-`Prev <time-sink.html>`__ 
+`Prev <time-sink.html>`__ 
 
 T
 
- `Next <times-or-divided-by.html>`__
+ `Next <times-or-divided-by.html>`__
 
 --------------
 
@@ -2019,18 +1877,18 @@ infinity* <../S/since-time-T-equals-minus-infinity.html>`__.
 --------------
 
 +------------------------------+----------------------------+----------------------------------------+
-| `Prev <time-sink.html>`__    | `Up <../T.html>`__         |  `Next <times-or-divided-by.html>`__   |
+| `Prev <time-sink.html>`__    | `Up <../T.html>`__         |  `Next <times-or-divided-by.html>`__   |
 +------------------------------+----------------------------+----------------------------------------+
-| time sink                    | `Home <../index.html>`__   |  times-or-divided-by                   |
+| time sink                    | `Home <../index.html>`__   |  times-or-divided-by                   |
 +------------------------------+----------------------------+----------------------------------------+
 
 TINC
 
-`Prev <timesharing.html>`__ 
+`Prev <timesharing.html>`__ 
 
 T
 
- `Next <Tinkerbell-program.html>`__
+ `Next <Tinkerbell-program.html>`__
 
 --------------
 
@@ -2044,18 +1902,18 @@ dispersal of the backbone cabal.
 --------------
 
 +--------------------------------+----------------------------+---------------------------------------+
-| `Prev <timesharing.html>`__    | `Up <../T.html>`__         |  `Next <Tinkerbell-program.html>`__   |
+| `Prev <timesharing.html>`__    | `Up <../T.html>`__         |  `Next <Tinkerbell-program.html>`__   |
 +--------------------------------+----------------------------+---------------------------------------+
-| timesharing                    | `Home <../index.html>`__   |  Tinkerbell program                   |
+| timesharing                    | `Home <../index.html>`__   |  Tinkerbell program                   |
 +--------------------------------+----------------------------+---------------------------------------+
 
 Tinkerbell program
 
-`Prev <TINC.html>`__ 
+`Prev <TINC.html>`__ 
 
 T
 
- `Next <TINLC.html>`__
+ `Next <TINLC.html>`__
 
 --------------
 
@@ -2070,18 +1928,18 @@ Telecom in the early 1980s.
 --------------
 
 +-------------------------+----------------------------+--------------------------+
-| `Prev <TINC.html>`__    | `Up <../T.html>`__         |  `Next <TINLC.html>`__   |
+| `Prev <TINC.html>`__    | `Up <../T.html>`__         |  `Next <TINLC.html>`__   |
 +-------------------------+----------------------------+--------------------------+
-| TINC                    | `Home <../index.html>`__   |  TINLC                   |
+| TINC                    | `Home <../index.html>`__   |  TINLC                   |
 +-------------------------+----------------------------+--------------------------+
 
 TINLC
 
-`Prev <Tinkerbell-program.html>`__ 
+`Prev <Tinkerbell-program.html>`__ 
 
 T
 
- `Next <tip-of-the-ice-cube.html>`__
+ `Next <tip-of-the-ice-cube.html>`__
 
 --------------
 
@@ -2094,18 +1952,18 @@ Cartel* <../L/Lumber-Cartel.html>`__. TINLC is a takeoff on
 --------------
 
 +---------------------------------------+----------------------------+----------------------------------------+
-| `Prev <Tinkerbell-program.html>`__    | `Up <../T.html>`__         |  `Next <tip-of-the-ice-cube.html>`__   |
+| `Prev <Tinkerbell-program.html>`__    | `Up <../T.html>`__         |  `Next <tip-of-the-ice-cube.html>`__   |
 +---------------------------------------+----------------------------+----------------------------------------+
-| Tinkerbell program                    | `Home <../index.html>`__   |  tip of the ice-cube                   |
+| Tinkerbell program                    | `Home <../index.html>`__   |  tip of the ice-cube                   |
 +---------------------------------------+----------------------------+----------------------------------------+
 
 tip of the ice-cube
 
-`Prev <TINLC.html>`__ 
+`Prev <TINLC.html>`__ 
 
 T
 
- `Next <tired-iron.html>`__
+ `Next <tired-iron.html>`__
 
 --------------
 
@@ -2118,18 +1976,18 @@ appropriate if the subject were at all important.
 --------------
 
 +--------------------------+----------------------------+-------------------------------+
-| `Prev <TINLC.html>`__    | `Up <../T.html>`__         |  `Next <tired-iron.html>`__   |
+| `Prev <TINLC.html>`__    | `Up <../T.html>`__         |  `Next <tired-iron.html>`__   |
 +--------------------------+----------------------------+-------------------------------+
-| TINLC                    | `Home <../index.html>`__   |  tired iron                   |
+| TINLC                    | `Home <../index.html>`__   |  tired iron                   |
 +--------------------------+----------------------------+-------------------------------+
 
 tired iron
 
-`Prev <tip-of-the-ice-cube.html>`__ 
+`Prev <tip-of-the-ice-cube.html>`__ 
 
 T
 
- `Next <tits-on-a-keyboard.html>`__
+ `Next <tits-on-a-keyboard.html>`__
 
 --------------
 
@@ -2143,18 +2001,18 @@ starting to look a bit like a `*dinosaur* <../D/dinosaur.html>`__.
 --------------
 
 +----------------------------------------+----------------------------+---------------------------------------+
-| `Prev <tip-of-the-ice-cube.html>`__    | `Up <../T.html>`__         |  `Next <tits-on-a-keyboard.html>`__   |
+| `Prev <tip-of-the-ice-cube.html>`__    | `Up <../T.html>`__         |  `Next <tits-on-a-keyboard.html>`__   |
 +----------------------------------------+----------------------------+---------------------------------------+
-| tip of the ice-cube                    | `Home <../index.html>`__   |  tits on a keyboard                   |
+| tip of the ice-cube                    | `Home <../index.html>`__   |  tits on a keyboard                   |
 +----------------------------------------+----------------------------+---------------------------------------+
 
 tits on a keyboard
 
-`Prev <tired-iron.html>`__ 
+`Prev <tired-iron.html>`__ 
 
 T
 
- `Next <TLA.html>`__
+ `Next <TLA.html>`__
 
 --------------
 
@@ -2169,18 +2027,18 @@ in 1999).
 --------------
 
 +-------------------------------+----------------------------+------------------------+
-| `Prev <tired-iron.html>`__    | `Up <../T.html>`__         |  `Next <TLA.html>`__   |
+| `Prev <tired-iron.html>`__    | `Up <../T.html>`__         |  `Next <TLA.html>`__   |
 +-------------------------------+----------------------------+------------------------+
-| tired iron                    | `Home <../index.html>`__   |  TLA                   |
+| tired iron                    | `Home <../index.html>`__   |  TLA                   |
 +-------------------------------+----------------------------+------------------------+
 
 TLA
 
-`Prev <tits-on-a-keyboard.html>`__ 
+`Prev <tits-on-a-keyboard.html>`__ 
 
 T
 
- `Next <TMRC.html>`__
+ `Next <TMRC.html>`__
 
 --------------
 
@@ -2211,18 +2069,18 @@ in the fact that Paul Boutin subsequently became a journalist.
 --------------
 
 +---------------------------------------+----------------------------+-------------------------+
-| `Prev <tits-on-a-keyboard.html>`__    | `Up <../T.html>`__         |  `Next <TMRC.html>`__   |
+| `Prev <tits-on-a-keyboard.html>`__    | `Up <../T.html>`__         |  `Next <TMRC.html>`__   |
 +---------------------------------------+----------------------------+-------------------------+
-| tits on a keyboard                    | `Home <../index.html>`__   |  TMRC                   |
+| tits on a keyboard                    | `Home <../index.html>`__   |  TMRC                   |
 +---------------------------------------+----------------------------+-------------------------+
 
 TMRC
 
-`Prev <TLA.html>`__ 
+`Prev <TLA.html>`__ 
 
 T
 
- `Next <TMRCie.html>`__
+ `Next <TMRCie.html>`__
 
 --------------
 
@@ -2266,18 +2124,18 @@ Dictionary is available there, at
 --------------
 
 +------------------------+----------------------------+---------------------------+
-| `Prev <TLA.html>`__    | `Up <../T.html>`__         |  `Next <TMRCie.html>`__   |
+| `Prev <TLA.html>`__    | `Up <../T.html>`__         |  `Next <TMRCie.html>`__   |
 +------------------------+----------------------------+---------------------------+
-| TLA                    | `Home <../index.html>`__   |  TMRCie                   |
+| TLA                    | `Home <../index.html>`__   |  TMRCie                   |
 +------------------------+----------------------------+---------------------------+
 
 TMRCie
 
-`Prev <TMRC.html>`__ 
+`Prev <TMRC.html>`__ 
 
 T
 
- `Next <TMTOWTDI.html>`__
+ `Next <TMTOWTDI.html>`__
 
 --------------
 
@@ -2288,18 +2146,18 @@ T
 --------------
 
 +-------------------------+----------------------------+-----------------------------+
-| `Prev <TMRC.html>`__    | `Up <../T.html>`__         |  `Next <TMTOWTDI.html>`__   |
+| `Prev <TMRC.html>`__    | `Up <../T.html>`__         |  `Next <TMTOWTDI.html>`__   |
 +-------------------------+----------------------------+-----------------------------+
-| TMRC                    | `Home <../index.html>`__   |  TMTOWTDI                   |
+| TMRC                    | `Home <../index.html>`__   |  TMTOWTDI                   |
 +-------------------------+----------------------------+-----------------------------+
 
 TMTOWTDI
 
-`Prev <TMRCie.html>`__ 
+`Prev <TMRCie.html>`__ 
 
 T
 
- `Next <to-a-first-approximation.html>`__
+ `Next <to-a-first-approximation.html>`__
 
 --------------
 
@@ -2312,18 +2170,18 @@ and mailing lists related to that language.
 --------------
 
 +---------------------------+----------------------------+---------------------------------------------+
-| `Prev <TMRCie.html>`__    | `Up <../T.html>`__         |  `Next <to-a-first-approximation.html>`__   |
+| `Prev <TMRCie.html>`__    | `Up <../T.html>`__         |  `Next <to-a-first-approximation.html>`__   |
 +---------------------------+----------------------------+---------------------------------------------+
-| TMRCie                    | `Home <../index.html>`__   |  to a first approximation                   |
+| TMRCie                    | `Home <../index.html>`__   |  to a first approximation                   |
 +---------------------------+----------------------------+---------------------------------------------+
 
 toad
 
-`Prev <to-a-zeroth-approximation.html>`__ 
+`Prev <to-a-zeroth-approximation.html>`__ 
 
 T
 
- `Next <toast.html>`__
+ `Next <toast.html>`__
 
 --------------
 
@@ -2340,18 +2198,18 @@ the other characters first. See also `*frog* <../F/frog.html>`__,
 --------------
 
 +----------------------------------------------+----------------------------+--------------------------+
-| `Prev <to-a-zeroth-approximation.html>`__    | `Up <../T.html>`__         |  `Next <toast.html>`__   |
+| `Prev <to-a-zeroth-approximation.html>`__    | `Up <../T.html>`__         |  `Next <toast.html>`__   |
 +----------------------------------------------+----------------------------+--------------------------+
-| to a zeroth approximation                    | `Home <../index.html>`__   |  toast                   |
+| to a zeroth approximation                    | `Home <../index.html>`__   |  toast                   |
 +----------------------------------------------+----------------------------+--------------------------+
 
 to a first approximation
 
-`Prev <TMTOWTDI.html>`__ 
+`Prev <TMTOWTDI.html>`__ 
 
 T
 
- `Next <to-a-zeroth-approximation.html>`__
+ `Next <to-a-zeroth-approximation.html>`__
 
 --------------
 
@@ -2371,18 +2229,18 @@ is perfect (e.g., a nagging cough still remains after an illness).
 --------------
 
 +-----------------------------+----------------------------+----------------------------------------------+
-| `Prev <TMTOWTDI.html>`__    | `Up <../T.html>`__         |  `Next <to-a-zeroth-approximation.html>`__   |
+| `Prev <TMTOWTDI.html>`__    | `Up <../T.html>`__         |  `Next <to-a-zeroth-approximation.html>`__   |
 +-----------------------------+----------------------------+----------------------------------------------+
-| TMTOWTDI                    | `Home <../index.html>`__   |  to a zeroth approximation                   |
+| TMTOWTDI                    | `Home <../index.html>`__   |  to a zeroth approximation                   |
 +-----------------------------+----------------------------+----------------------------------------------+
 
 toaster
 
-`Prev <toast.html>`__ 
+`Prev <toast.html>`__ 
 
 T
 
- `Next <toeprint.html>`__
+ `Next <toeprint.html>`__
 
 --------------
 
@@ -2413,18 +2271,18 @@ toaster* <../V/video-toaster.html>`__.
 --------------
 
 +--------------------------+----------------------------+-----------------------------+
-| `Prev <toast.html>`__    | `Up <../T.html>`__         |  `Next <toeprint.html>`__   |
+| `Prev <toast.html>`__    | `Up <../T.html>`__         |  `Next <toeprint.html>`__   |
 +--------------------------+----------------------------+-----------------------------+
-| toast                    | `Home <../index.html>`__   |  toeprint                   |
+| toast                    | `Home <../index.html>`__   |  toeprint                   |
 +--------------------------+----------------------------+-----------------------------+
 
 toast
 
-`Prev <toad.html>`__ 
+`Prev <toad.html>`__ 
 
 T
 
- `Next <toaster.html>`__
+ `Next <toaster.html>`__
 
 --------------
 
@@ -2442,18 +2300,18 @@ machine* <../F/firewall-machine.html>`__ again.” Compare
 --------------
 
 +-------------------------+----------------------------+----------------------------+
-| `Prev <toad.html>`__    | `Up <../T.html>`__         |  `Next <toaster.html>`__   |
+| `Prev <toad.html>`__    | `Up <../T.html>`__         |  `Next <toaster.html>`__   |
 +-------------------------+----------------------------+----------------------------+
-| toad                    | `Home <../index.html>`__   |  toaster                   |
+| toad                    | `Home <../index.html>`__   |  toaster                   |
 +-------------------------+----------------------------+----------------------------+
 
 to a zeroth approximation
 
-`Prev <to-a-first-approximation.html>`__ 
+`Prev <to-a-first-approximation.html>`__ 
 
 T
 
- `Next <toad.html>`__
+ `Next <toad.html>`__
 
 --------------
 
@@ -2466,18 +2324,18 @@ number* <../S/social-science-number.html>`__.
 --------------
 
 +---------------------------------------------+----------------------------+-------------------------+
-| `Prev <to-a-first-approximation.html>`__    | `Up <../T.html>`__         |  `Next <toad.html>`__   |
+| `Prev <to-a-first-approximation.html>`__    | `Up <../T.html>`__         |  `Next <toad.html>`__   |
 +---------------------------------------------+----------------------------+-------------------------+
-| to a first approximation                    | `Home <../index.html>`__   |  toad                   |
+| to a first approximation                    | `Home <../index.html>`__   |  toad                   |
 +---------------------------------------------+----------------------------+-------------------------+
 
 toeprint
 
-`Prev <toaster.html>`__ 
+`Prev <toaster.html>`__ 
 
 T
 
- `Next <TOFU.html>`__
+ `Next <TOFU.html>`__
 
 --------------
 
@@ -2488,18 +2346,18 @@ A `*footprint* <../F/footprint.html>`__ of especially small size.
 --------------
 
 +----------------------------+----------------------------+-------------------------+
-| `Prev <toaster.html>`__    | `Up <../T.html>`__         |  `Next <TOFU.html>`__   |
+| `Prev <toaster.html>`__    | `Up <../T.html>`__         |  `Next <TOFU.html>`__   |
 +----------------------------+----------------------------+-------------------------+
-| toaster                    | `Home <../index.html>`__   |  TOFU                   |
+| toaster                    | `Home <../index.html>`__   |  TOFU                   |
 +----------------------------+----------------------------+-------------------------+
 
 TOFU
 
-`Prev <toeprint.html>`__ 
+`Prev <toeprint.html>`__ 
 
 T
 
- `Next <toggle.html>`__
+ `Next <toggle.html>`__
 
 --------------
 
@@ -2510,18 +2368,18 @@ Text Over, Fullquote Under; see `*top-post* <top-post.html>`__.
 --------------
 
 +-----------------------------+----------------------------+---------------------------+
-| `Prev <toeprint.html>`__    | `Up <../T.html>`__         |  `Next <toggle.html>`__   |
+| `Prev <toeprint.html>`__    | `Up <../T.html>`__         |  `Next <toggle.html>`__   |
 +-----------------------------+----------------------------+---------------------------+
-| toeprint                    | `Home <../index.html>`__   |  toggle                   |
+| toeprint                    | `Home <../index.html>`__   |  toggle                   |
 +-----------------------------+----------------------------+---------------------------+
 
 toggle
 
-`Prev <TOFU.html>`__ 
+`Prev <TOFU.html>`__ 
 
 T
 
- `Next <tool.html>`__
+ `Next <tool.html>`__
 
 --------------
 
@@ -2542,18 +2400,18 @@ much less fun than talking about toggling bits.)
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <TOFU.html>`__    | `Up <../T.html>`__         |  `Next <tool.html>`__   |
+| `Prev <TOFU.html>`__    | `Up <../T.html>`__         |  `Next <tool.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| TOFU                    | `Home <../index.html>`__   |  tool                   |
+| TOFU                    | `Home <../index.html>`__   |  tool                   |
 +-------------------------+----------------------------+-------------------------+
 
 toolchain
 
-`Prev <tool.html>`__ 
+`Prev <tool.html>`__ 
 
 T
 
- `Next <toolsmith.html>`__
+ `Next <toolsmith.html>`__
 
 --------------
 
@@ -2576,18 +2434,18 @@ common.
 --------------
 
 +-------------------------+----------------------------+------------------------------+
-| `Prev <tool.html>`__    | `Up <../T.html>`__         |  `Next <toolsmith.html>`__   |
+| `Prev <tool.html>`__    | `Up <../T.html>`__         |  `Next <toolsmith.html>`__   |
 +-------------------------+----------------------------+------------------------------+
-| tool                    | `Home <../index.html>`__   |  toolsmith                   |
+| tool                    | `Home <../index.html>`__   |  toolsmith                   |
 +-------------------------+----------------------------+------------------------------+
 
 tool
 
-`Prev <toggle.html>`__ 
+`Prev <toggle.html>`__ 
 
 T
 
- `Next <toolchain.html>`__
+ `Next <toolchain.html>`__
 
 --------------
 
@@ -2614,18 +2472,18 @@ student humor magazine rejoices in the name *Tool and Die*.)
 --------------
 
 +---------------------------+----------------------------+------------------------------+
-| `Prev <toggle.html>`__    | `Up <../T.html>`__         |  `Next <toolchain.html>`__   |
+| `Prev <toggle.html>`__    | `Up <../T.html>`__         |  `Next <toolchain.html>`__   |
 +---------------------------+----------------------------+------------------------------+
-| toggle                    | `Home <../index.html>`__   |  toolchain                   |
+| toggle                    | `Home <../index.html>`__   |  toolchain                   |
 +---------------------------+----------------------------+------------------------------+
 
 toolsmith
 
-`Prev <toolchain.html>`__ 
+`Prev <toolchain.html>`__ 
 
 T
 
- `Next <toor.html>`__
+ `Next <toor.html>`__
 
 --------------
 
@@ -2643,18 +2501,18 @@ rather write programs to write programs than write programs”.
 --------------
 
 +------------------------------+----------------------------+-------------------------+
-| `Prev <toolchain.html>`__    | `Up <../T.html>`__         |  `Next <toor.html>`__   |
+| `Prev <toolchain.html>`__    | `Up <../T.html>`__         |  `Next <toor.html>`__   |
 +------------------------------+----------------------------+-------------------------+
-| toolchain                    | `Home <../index.html>`__   |  toor                   |
+| toolchain                    | `Home <../index.html>`__   |  toor                   |
 +------------------------------+----------------------------+-------------------------+
 
 toor
 
-`Prev <toolsmith.html>`__ 
+`Prev <toolsmith.html>`__ 
 
 T
 
- `Next <top-post.html>`__
+ `Next <top-post.html>`__
 
 --------------
 
@@ -2667,18 +2525,18 @@ shell. Compare `*avatar* <../A/avatar.html>`__.
 --------------
 
 +------------------------------+----------------------------+-----------------------------+
-| `Prev <toolsmith.html>`__    | `Up <../T.html>`__         |  `Next <top-post.html>`__   |
+| `Prev <toolsmith.html>`__    | `Up <../T.html>`__         |  `Next <top-post.html>`__   |
 +------------------------------+----------------------------+-----------------------------+
-| toolsmith                    | `Home <../index.html>`__   |  top-post                   |
+| toolsmith                    | `Home <../index.html>`__   |  top-post                   |
 +------------------------------+----------------------------+-----------------------------+
 
 topic drift
 
-`Prev <top-post.html>`__ 
+`Prev <top-post.html>`__ 
 
 T
 
- `Next <topic-group.html>`__
+ `Next <topic-group.html>`__
 
 --------------
 
@@ -2708,18 +2566,18 @@ sexual habits of the common marmoset. Now *that's* topic drift!”
 --------------
 
 +-----------------------------+----------------------------+--------------------------------+
-| `Prev <top-post.html>`__    | `Up <../T.html>`__         |  `Next <topic-group.html>`__   |
+| `Prev <top-post.html>`__    | `Up <../T.html>`__         |  `Next <topic-group.html>`__   |
 +-----------------------------+----------------------------+--------------------------------+
-| top-post                    | `Home <../index.html>`__   |  topic group                   |
+| top-post                    | `Home <../index.html>`__   |  topic group                   |
 +-----------------------------+----------------------------+--------------------------------+
 
 topic group
 
-`Prev <topic-drift.html>`__ 
+`Prev <topic-drift.html>`__ 
 
 T
 
- `Next <TOPS-10.html>`__
+ `Next <TOPS-10.html>`__
 
 --------------
 
@@ -2730,18 +2588,18 @@ Syn. `*forum* <../F/forum.html>`__.
 --------------
 
 +--------------------------------+----------------------------+----------------------------+
-| `Prev <topic-drift.html>`__    | `Up <../T.html>`__         |  `Next <TOPS-10.html>`__   |
+| `Prev <topic-drift.html>`__    | `Up <../T.html>`__         |  `Next <TOPS-10.html>`__   |
 +--------------------------------+----------------------------+----------------------------+
-| topic drift                    | `Home <../index.html>`__   |  TOPS-10                   |
+| topic drift                    | `Home <../index.html>`__   |  TOPS-10                   |
 +--------------------------------+----------------------------+----------------------------+
 
 top-post
 
-`Prev <toor.html>`__ 
+`Prev <toor.html>`__ 
 
 T
 
- `Next <topic-drift.html>`__
+ `Next <topic-drift.html>`__
 
 --------------
 
@@ -2779,18 +2637,18 @@ has put it further down the page than you have yet read. Oppose
 --------------
 
 +-------------------------+----------------------------+--------------------------------+
-| `Prev <toor.html>`__    | `Up <../T.html>`__         |  `Next <topic-drift.html>`__   |
+| `Prev <toor.html>`__    | `Up <../T.html>`__         |  `Next <topic-drift.html>`__   |
 +-------------------------+----------------------------+--------------------------------+
-| toor                    | `Home <../index.html>`__   |  topic drift                   |
+| toor                    | `Home <../index.html>`__   |  topic drift                   |
 +-------------------------+----------------------------+--------------------------------+
 
 TOPS-10
 
-`Prev <topic-group.html>`__ 
+`Prev <topic-group.html>`__ 
 
 T
 
- `Next <TOPS-20.html>`__
+ `Next <TOPS-20.html>`__
 
 --------------
 
@@ -2808,18 +2666,18 @@ describing it as the top of anything.
 --------------
 
 +--------------------------------+----------------------------+----------------------------+
-| `Prev <topic-group.html>`__    | `Up <../T.html>`__         |  `Next <TOPS-20.html>`__   |
+| `Prev <topic-group.html>`__    | `Up <../T.html>`__         |  `Next <TOPS-20.html>`__   |
 +--------------------------------+----------------------------+----------------------------+
-| topic group                    | `Home <../index.html>`__   |  TOPS-20                   |
+| topic group                    | `Home <../index.html>`__   |  TOPS-20                   |
 +--------------------------------+----------------------------+----------------------------+
 
 TOPS-20
 
-`Prev <TOPS-10.html>`__ 
+`Prev <TOPS-10.html>`__ 
 
 T
 
- `Next <TOS.html>`__
+ `Next <TOS.html>`__
 
 --------------
 
@@ -2830,18 +2688,18 @@ See `*TWENEX* <TWENEX.html>`__.
 --------------
 
 +----------------------------+----------------------------+------------------------+
-| `Prev <TOPS-10.html>`__    | `Up <../T.html>`__         |  `Next <TOS.html>`__   |
+| `Prev <TOPS-10.html>`__    | `Up <../T.html>`__         |  `Next <TOS.html>`__   |
 +----------------------------+----------------------------+------------------------+
-| TOPS-10                    | `Home <../index.html>`__   |  TOS                   |
+| TOPS-10                    | `Home <../index.html>`__   |  TOS                   |
 +----------------------------+----------------------------+------------------------+
 
 TOS
 
-`Prev <TOPS-20.html>`__ 
+`Prev <TOPS-20.html>`__ 
 
 T
 
- `Next <tourist.html>`__
+ `Next <tourist.html>`__
 
 --------------
 
@@ -2858,18 +2716,18 @@ close the account.
 --------------
 
 +----------------------------+----------------------------+----------------------------+
-| `Prev <TOPS-20.html>`__    | `Up <../T.html>`__         |  `Next <tourist.html>`__   |
+| `Prev <TOPS-20.html>`__    | `Up <../T.html>`__         |  `Next <tourist.html>`__   |
 +----------------------------+----------------------------+----------------------------+
-| TOPS-20                    | `Home <../index.html>`__   |  tourist                   |
+| TOPS-20                    | `Home <../index.html>`__   |  tourist                   |
 +----------------------------+----------------------------+----------------------------+
 
 tourist
 
-`Prev <TOS.html>`__ 
+`Prev <TOS.html>`__ 
 
 T
 
- `Next <tourist-information.html>`__
+ `Next <tourist-information.html>`__
 
 --------------
 
@@ -2893,18 +2751,18 @@ hopping* <../C/channel-hopping.html>`__.
 --------------
 
 +------------------------+----------------------------+----------------------------------------+
-| `Prev <TOS.html>`__    | `Up <../T.html>`__         |  `Next <tourist-information.html>`__   |
+| `Prev <TOS.html>`__    | `Up <../T.html>`__         |  `Next <tourist-information.html>`__   |
 +------------------------+----------------------------+----------------------------------------+
-| TOS                    | `Home <../index.html>`__   |  tourist information                   |
+| TOS                    | `Home <../index.html>`__   |  tourist information                   |
 +------------------------+----------------------------+----------------------------------------+
 
 touristic
 
-`Prev <tourist-information.html>`__ 
+`Prev <tourist-information.html>`__ 
 
 T
 
- `Next <toy.html>`__
+ `Next <toy.html>`__
 
 --------------
 
@@ -2918,18 +2776,18 @@ turistic scum’.
 --------------
 
 +----------------------------------------+----------------------------+------------------------+
-| `Prev <tourist-information.html>`__    | `Up <../T.html>`__         |  `Next <toy.html>`__   |
+| `Prev <tourist-information.html>`__    | `Up <../T.html>`__         |  `Next <toy.html>`__   |
 +----------------------------------------+----------------------------+------------------------+
-| tourist information                    | `Home <../index.html>`__   |  toy                   |
+| tourist information                    | `Home <../index.html>`__   |  toy                   |
 +----------------------------------------+----------------------------+------------------------+
 
 tourist information
 
-`Prev <tourist.html>`__ 
+`Prev <tourist.html>`__ 
 
 T
 
- `Next <touristic.html>`__
+ `Next <touristic.html>`__
 
 --------------
 
@@ -2946,18 +2804,18 @@ TIME information in a Unix ps(1) display.
 --------------
 
 +----------------------------+----------------------------+------------------------------+
-| `Prev <tourist.html>`__    | `Up <../T.html>`__         |  `Next <touristic.html>`__   |
+| `Prev <tourist.html>`__    | `Up <../T.html>`__         |  `Next <touristic.html>`__   |
 +----------------------------+----------------------------+------------------------------+
-| tourist                    | `Home <../index.html>`__   |  touristic                   |
+| tourist                    | `Home <../index.html>`__   |  touristic                   |
 +----------------------------+----------------------------+------------------------------+
 
 toy
 
-`Prev <touristic.html>`__ 
+`Prev <touristic.html>`__ 
 
 T
 
- `Next <toy-language.html>`__
+ `Next <toy-language.html>`__
 
 --------------
 
@@ -2979,18 +2837,18 @@ computer!* <../G/Get-a-real-computer-.html>`__.
 --------------
 
 +------------------------------+----------------------------+---------------------------------+
-| `Prev <touristic.html>`__    | `Up <../T.html>`__         |  `Next <toy-language.html>`__   |
+| `Prev <touristic.html>`__    | `Up <../T.html>`__         |  `Next <toy-language.html>`__   |
 +------------------------------+----------------------------+---------------------------------+
-| touristic                    | `Home <../index.html>`__   |  toy language                   |
+| touristic                    | `Home <../index.html>`__   |  toy language                   |
 +------------------------------+----------------------------+---------------------------------+
 
 toy language
 
-`Prev <toy.html>`__ 
+`Prev <toy.html>`__ 
 
 T
 
- `Next <toy-problem.html>`__
+ `Next <toy-problem.html>`__
 
 --------------
 
@@ -3010,18 +2868,18 @@ also `*MFTL* <../M/MFTL.html>`__.
 --------------
 
 +------------------------+----------------------------+--------------------------------+
-| `Prev <toy.html>`__    | `Up <../T.html>`__         |  `Next <toy-problem.html>`__   |
+| `Prev <toy.html>`__    | `Up <../T.html>`__         |  `Next <toy-problem.html>`__   |
 +------------------------+----------------------------+--------------------------------+
-| toy                    | `Home <../index.html>`__   |  toy problem                   |
+| toy                    | `Home <../index.html>`__   |  toy problem                   |
 +------------------------+----------------------------+--------------------------------+
 
 toy problem
 
-`Prev <toy-language.html>`__ 
+`Prev <toy-language.html>`__ 
 
 T
 
- `Next <toy-program.html>`__
+ `Next <toy-program.html>`__
 
 --------------
 
@@ -3035,18 +2893,18 @@ program* <toy-program.html>`__.
 --------------
 
 +---------------------------------+----------------------------+--------------------------------+
-| `Prev <toy-language.html>`__    | `Up <../T.html>`__         |  `Next <toy-program.html>`__   |
+| `Prev <toy-language.html>`__    | `Up <../T.html>`__         |  `Next <toy-program.html>`__   |
 +---------------------------------+----------------------------+--------------------------------+
-| toy language                    | `Home <../index.html>`__   |  toy program                   |
+| toy language                    | `Home <../index.html>`__   |  toy program                   |
 +---------------------------------+----------------------------+--------------------------------+
 
 toy program
 
-`Prev <toy-problem.html>`__ 
+`Prev <toy-problem.html>`__ 
 
 T
 
- `Next <trampoline.html>`__
+ `Next <trampoline.html>`__
 
 --------------
 
@@ -3061,18 +2919,18 @@ through its life cycle. See also `*noddy* <../N/noddy.html>`__.
 --------------
 
 +--------------------------------+----------------------------+-------------------------------+
-| `Prev <toy-problem.html>`__    | `Up <../T.html>`__         |  `Next <trampoline.html>`__   |
+| `Prev <toy-problem.html>`__    | `Up <../T.html>`__         |  `Next <trampoline.html>`__   |
 +--------------------------------+----------------------------+-------------------------------+
-| toy problem                    | `Home <../index.html>`__   |  trampoline                   |
+| toy problem                    | `Home <../index.html>`__   |  trampoline                   |
 +--------------------------------+----------------------------+-------------------------------+
 
 trampoline
 
-`Prev <toy-program.html>`__ 
+`Prev <toy-program.html>`__ 
 
 T
 
- `Next <trap.html>`__
+ `Next <trap.html>`__
 
 --------------
 
@@ -3094,18 +2952,18 @@ also `*snap* <../S/snap.html>`__.
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <toy-program.html>`__    | `Up <../T.html>`__         |  `Next <trap.html>`__   |
+| `Prev <toy-program.html>`__    | `Up <../T.html>`__         |  `Next <trap.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| toy program                    | `Home <../index.html>`__   |  trap                   |
+| toy program                    | `Home <../index.html>`__   |  trap                   |
 +--------------------------------+----------------------------+-------------------------+
 
 trap door
 
-`Prev <trap.html>`__ 
+`Prev <trap.html>`__ 
 
 T
 
- `Next <trash.html>`__
+ `Next <trash.html>`__
 
 --------------
 
@@ -3125,18 +2983,18 @@ cryptosystems.
 --------------
 
 +-------------------------+----------------------------+--------------------------+
-| `Prev <trap.html>`__    | `Up <../T.html>`__         |  `Next <trash.html>`__   |
+| `Prev <trap.html>`__    | `Up <../T.html>`__         |  `Next <trash.html>`__   |
 +-------------------------+----------------------------+--------------------------+
-| trap                    | `Home <../index.html>`__   |  trash                   |
+| trap                    | `Home <../index.html>`__   |  trash                   |
 +-------------------------+----------------------------+--------------------------+
 
 trap
 
-`Prev <trampoline.html>`__ 
+`Prev <trampoline.html>`__ 
 
 T
 
- `Next <trap-door.html>`__
+ `Next <trap-door.html>`__
 
 --------------
 
@@ -3162,18 +3020,18 @@ as I/O interrupts).
 --------------
 
 +-------------------------------+----------------------------+------------------------------+
-| `Prev <trampoline.html>`__    | `Up <../T.html>`__         |  `Next <trap-door.html>`__   |
+| `Prev <trampoline.html>`__    | `Up <../T.html>`__         |  `Next <trap-door.html>`__   |
 +-------------------------------+----------------------------+------------------------------+
-| trampoline                    | `Home <../index.html>`__   |  trap door                   |
+| trampoline                    | `Home <../index.html>`__   |  trap door                   |
 +-------------------------------+----------------------------+------------------------------+
 
 trash
 
-`Prev <trap-door.html>`__ 
+`Prev <trap-door.html>`__ 
 
 T
 
- `Next <trawl.html>`__
+ `Next <trawl.html>`__
 
 --------------
 
@@ -3187,18 +3045,18 @@ and `*roach* <../R/roach.html>`__.
 --------------
 
 +------------------------------+----------------------------+--------------------------+
-| `Prev <trap-door.html>`__    | `Up <../T.html>`__         |  `Next <trawl.html>`__   |
+| `Prev <trap-door.html>`__    | `Up <../T.html>`__         |  `Next <trawl.html>`__   |
 +------------------------------+----------------------------+--------------------------+
-| trap door                    | `Home <../index.html>`__   |  trawl                   |
+| trap door                    | `Home <../index.html>`__   |  trawl                   |
 +------------------------------+----------------------------+--------------------------+
 
 trawl
 
-`Prev <trash.html>`__ 
+`Prev <trash.html>`__ 
 
 T
 
- `Next <tree-killer.html>`__
+ `Next <tree-killer.html>`__
 
 --------------
 
@@ -3210,18 +3068,18 @@ archives, or the Jargon File) looking for something of interest.
 --------------
 
 +--------------------------+----------------------------+--------------------------------+
-| `Prev <trash.html>`__    | `Up <../T.html>`__         |  `Next <tree-killer.html>`__   |
+| `Prev <trash.html>`__    | `Up <../T.html>`__         |  `Next <tree-killer.html>`__   |
 +--------------------------+----------------------------+--------------------------------+
-| trash                    | `Home <../index.html>`__   |  tree-killer                   |
+| trash                    | `Home <../index.html>`__   |  tree-killer                   |
 +--------------------------+----------------------------+--------------------------------+
 
 tree-killer
 
-`Prev <trawl.html>`__ 
+`Prev <trawl.html>`__ 
 
 T
 
- `Next <treeware.html>`__
+ `Next <treeware.html>`__
 
 --------------
 
@@ -3246,18 +3104,18 @@ version* <../D/dead-tree-version.html>`__.
 --------------
 
 +--------------------------+----------------------------+-----------------------------+
-| `Prev <trawl.html>`__    | `Up <../T.html>`__         |  `Next <treeware.html>`__   |
+| `Prev <trawl.html>`__    | `Up <../T.html>`__         |  `Next <treeware.html>`__   |
 +--------------------------+----------------------------+-----------------------------+
-| trawl                    | `Home <../index.html>`__   |  treeware                   |
+| trawl                    | `Home <../index.html>`__   |  treeware                   |
 +--------------------------+----------------------------+-----------------------------+
 
 treeware
 
-`Prev <tree-killer.html>`__ 
+`Prev <tree-killer.html>`__ 
 
 T
 
- `Next <trit.html>`__
+ `Next <trit.html>`__
 
 --------------
 
@@ -3270,18 +3128,18 @@ trees. Compare `*tree-killer* <tree-killer.html>`__, see
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <tree-killer.html>`__    | `Up <../T.html>`__         |  `Next <trit.html>`__   |
+| `Prev <tree-killer.html>`__    | `Up <../T.html>`__         |  `Next <trit.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| tree-killer                    | `Home <../index.html>`__   |  trit                   |
+| tree-killer                    | `Home <../index.html>`__   |  trit                   |
 +--------------------------------+----------------------------+-------------------------+
 
 trit
 
-`Prev <treeware.html>`__ 
+`Prev <treeware.html>`__ 
 
 T
 
- `Next <trivial.html>`__
+ `Next <trivial.html>`__
 
 --------------
 
@@ -3299,18 +3157,18 @@ bits (that is, log\_{2$(3)} bits).
 --------------
 
 +-----------------------------+----------------------------+----------------------------+
-| `Prev <treeware.html>`__    | `Up <../T.html>`__         |  `Next <trivial.html>`__   |
+| `Prev <treeware.html>`__    | `Up <../T.html>`__         |  `Next <trivial.html>`__   |
 +-----------------------------+----------------------------+----------------------------+
-| treeware                    | `Home <../index.html>`__   |  trivial                   |
+| treeware                    | `Home <../index.html>`__   |  trivial                   |
 +-----------------------------+----------------------------+----------------------------+
 
 trivial
 
-`Prev <trit.html>`__ 
+`Prev <trit.html>`__ 
 
 T
 
- `Next <troff.html>`__
+ `Next <troff.html>`__
 
 --------------
 
@@ -3338,18 +3196,18 @@ proved”.
 --------------
 
 +-------------------------+----------------------------+--------------------------+
-| `Prev <trit.html>`__    | `Up <../T.html>`__         |  `Next <troff.html>`__   |
+| `Prev <trit.html>`__    | `Up <../T.html>`__         |  `Next <troff.html>`__   |
 +-------------------------+----------------------------+--------------------------+
-| trit                    | `Home <../index.html>`__   |  troff                   |
+| trit                    | `Home <../index.html>`__   |  troff                   |
 +-------------------------+----------------------------+--------------------------+
 
 troff
 
-`Prev <trivial.html>`__ 
+`Prev <trivial.html>`__ 
 
 T
 
- `Next <troglodyte.html>`__
+ `Next <troglodyte.html>`__
 
 --------------
 
@@ -3389,18 +3247,18 @@ admire.
 --------------
 
 +----------------------------+----------------------------+-------------------------------+
-| `Prev <trivial.html>`__    | `Up <../T.html>`__         |  `Next <troglodyte.html>`__   |
+| `Prev <trivial.html>`__    | `Up <../T.html>`__         |  `Next <troglodyte.html>`__   |
 +----------------------------+----------------------------+-------------------------------+
-| trivial                    | `Home <../index.html>`__   |  troglodyte                   |
+| trivial                    | `Home <../index.html>`__   |  troglodyte                   |
 +----------------------------+----------------------------+-------------------------------+
 
 troglodyte
 
-`Prev <troff.html>`__ 
+`Prev <troff.html>`__ 
 
 T
 
- `Next <troglodyte-mode.html>`__
+ `Next <troglodyte-mode.html>`__
 
 --------------
 
@@ -3420,18 +3278,18 @@ pride.
 --------------
 
 +--------------------------+----------------------------+------------------------------------+
-| `Prev <troff.html>`__    | `Up <../T.html>`__         |  `Next <troglodyte-mode.html>`__   |
+| `Prev <troff.html>`__    | `Up <../T.html>`__         |  `Next <troglodyte-mode.html>`__   |
 +--------------------------+----------------------------+------------------------------------+
-| troff                    | `Home <../index.html>`__   |  troglodyte mode                   |
+| troff                    | `Home <../index.html>`__   |  troglodyte mode                   |
 +--------------------------+----------------------------+------------------------------------+
 
 troglodyte mode
 
-`Prev <troglodyte.html>`__ 
+`Prev <troglodyte.html>`__ 
 
 T
 
- `Next <Trojan-horse.html>`__
+ `Next <Trojan-horse.html>`__
 
 --------------
 
@@ -3448,18 +3306,18 @@ mode* <../H/hack-mode.html>`__.
 --------------
 
 +-------------------------------+----------------------------+---------------------------------+
-| `Prev <troglodyte.html>`__    | `Up <../T.html>`__         |  `Next <Trojan-horse.html>`__   |
+| `Prev <troglodyte.html>`__    | `Up <../T.html>`__         |  `Next <Trojan-horse.html>`__   |
 +-------------------------------+----------------------------+---------------------------------+
-| troglodyte                    | `Home <../index.html>`__   |  Trojan horse                   |
+| troglodyte                    | `Home <../index.html>`__   |  Trojan horse                   |
 +-------------------------------+----------------------------+---------------------------------+
 
 Trojan horse
 
-`Prev <troglodyte-mode.html>`__ 
+`Prev <troglodyte-mode.html>`__ 
 
 T
 
- `Next <troll.html>`__
+ `Next <troll.html>`__
 
 --------------
 
@@ -3476,18 +3334,18 @@ door* <../B/back-door.html>`__, `*virus* <../V/virus.html>`__,
 --------------
 
 +------------------------------------+----------------------------+--------------------------+
-| `Prev <troglodyte-mode.html>`__    | `Up <../T.html>`__         |  `Next <troll.html>`__   |
+| `Prev <troglodyte-mode.html>`__    | `Up <../T.html>`__         |  `Next <troll.html>`__   |
 +------------------------------------+----------------------------+--------------------------+
-| troglodyte mode                    | `Home <../index.html>`__   |  troll                   |
+| troglodyte mode                    | `Home <../index.html>`__   |  troll                   |
 +------------------------------------+----------------------------+--------------------------+
 
 troll
 
-`Prev <Trojan-horse.html>`__ 
+`Prev <Trojan-horse.html>`__ 
 
 T
 
- `Next <Troll-O-Meter.html>`__
+ `Next <Troll-O-Meter.html>`__
 
 --------------
 
@@ -3534,18 +3392,18 @@ followup to troll postings.
 --------------
 
 +---------------------------------+----------------------------+----------------------------------+
-| `Prev <Trojan-horse.html>`__    | `Up <../T.html>`__         |  `Next <Troll-O-Meter.html>`__   |
+| `Prev <Trojan-horse.html>`__    | `Up <../T.html>`__         |  `Next <Troll-O-Meter.html>`__   |
 +---------------------------------+----------------------------+----------------------------------+
-| Trojan horse                    | `Home <../index.html>`__   |  Troll-O-Meter                   |
+| Trojan horse                    | `Home <../index.html>`__   |  Troll-O-Meter                   |
 +---------------------------------+----------------------------+----------------------------------+
 
 Troll-O-Meter
 
-`Prev <troll.html>`__ 
+`Prev <troll.html>`__ 
 
 T
 
- `Next <tron.html>`__
+ `Next <tron.html>`__
 
 --------------
 
@@ -3565,18 +3423,18 @@ pointing at a numeric scale. Compare
 --------------
 
 +--------------------------+----------------------------+-------------------------+
-| `Prev <troll.html>`__    | `Up <../T.html>`__         |  `Next <tron.html>`__   |
+| `Prev <troll.html>`__    | `Up <../T.html>`__         |  `Next <tron.html>`__   |
 +--------------------------+----------------------------+-------------------------+
-| troll                    | `Home <../index.html>`__   |  tron                   |
+| troll                    | `Home <../index.html>`__   |  tron                   |
 +--------------------------+----------------------------+-------------------------+
 
 tron
 
-`Prev <Troll-O-Meter.html>`__ 
+`Prev <Troll-O-Meter.html>`__ 
 
 T
 
- `Next <troughie.html>`__
+ `Next <troughie.html>`__
 
 --------------
 
@@ -3596,18 +3454,18 @@ to the slang usage.
 --------------
 
 +----------------------------------+----------------------------+-----------------------------+
-| `Prev <Troll-O-Meter.html>`__    | `Up <../T.html>`__         |  `Next <troughie.html>`__   |
+| `Prev <Troll-O-Meter.html>`__    | `Up <../T.html>`__         |  `Next <troughie.html>`__   |
 +----------------------------------+----------------------------+-----------------------------+
-| Troll-O-Meter                    | `Home <../index.html>`__   |  troughie                   |
+| Troll-O-Meter                    | `Home <../index.html>`__   |  troughie                   |
 +----------------------------------+----------------------------+-----------------------------+
 
 troughie
 
-`Prev <tron.html>`__ 
+`Prev <tron.html>`__ 
 
 T
 
- `Next <true-hacker.html>`__
+ `Next <true-hacker.html>`__
 
 --------------
 
@@ -3619,18 +3477,18 @@ The implied metaphor is that of a pig at a trough.
 --------------
 
 +-------------------------+----------------------------+--------------------------------+
-| `Prev <tron.html>`__    | `Up <../T.html>`__         |  `Next <true-hacker.html>`__   |
+| `Prev <tron.html>`__    | `Up <../T.html>`__         |  `Next <true-hacker.html>`__   |
 +-------------------------+----------------------------+--------------------------------+
-| tron                    | `Home <../index.html>`__   |  true-hacker                   |
+| tron                    | `Home <../index.html>`__   |  true-hacker                   |
 +-------------------------+----------------------------+--------------------------------+
 
 true-hacker
 
-`Prev <troughie.html>`__ 
+`Prev <troughie.html>`__ 
 
 T
 
- `Next <tty.html>`__
+ `Next <tty.html>`__
 
 --------------
 
@@ -3646,18 +3504,18 @@ true-hacker.” Compare `*demigod* <../D/demigod.html>`__, oppose
 --------------
 
 +-----------------------------+----------------------------+------------------------+
-| `Prev <troughie.html>`__    | `Up <../T.html>`__         |  `Next <tty.html>`__   |
+| `Prev <troughie.html>`__    | `Up <../T.html>`__         |  `Next <tty.html>`__   |
 +-----------------------------+----------------------------+------------------------+
-| troughie                    | `Home <../index.html>`__   |  tty                   |
+| troughie                    | `Home <../index.html>`__   |  tty                   |
 +-----------------------------+----------------------------+------------------------+
 
 tty
 
-`Prev <true-hacker.html>`__ 
+`Prev <true-hacker.html>`__ 
 
 T
 
- `Next <tube.html>`__
+ `Next <tube.html>`__
 
 --------------
 
@@ -3683,18 +3541,18 @@ bothersome.
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <true-hacker.html>`__    | `Up <../T.html>`__         |  `Next <tube.html>`__   |
+| `Prev <true-hacker.html>`__    | `Up <../T.html>`__         |  `Next <tube.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| true-hacker                    | `Home <../index.html>`__   |  tube                   |
+| true-hacker                    | `Home <../index.html>`__   |  tube                   |
 +--------------------------------+----------------------------+-------------------------+
 
 tube
 
-`Prev <tty.html>`__ 
+`Prev <tty.html>`__ 
 
 T
 
- `Next <tube-time.html>`__
+ `Next <tube-time.html>`__
 
 --------------
 
@@ -3711,18 +3569,18 @@ me that note?”
 --------------
 
 +------------------------+----------------------------+------------------------------+
-| `Prev <tty.html>`__    | `Up <../T.html>`__         |  `Next <tube-time.html>`__   |
+| `Prev <tty.html>`__    | `Up <../T.html>`__         |  `Next <tube-time.html>`__   |
 +------------------------+----------------------------+------------------------------+
-| tty                    | `Home <../index.html>`__   |  tube time                   |
+| tty                    | `Home <../index.html>`__   |  tube time                   |
 +------------------------+----------------------------+------------------------------+
 
 tube time
 
-`Prev <tube.html>`__ 
+`Prev <tube.html>`__ 
 
 T
 
- `Next <tumbler.html>`__
+ `Next <tumbler.html>`__
 
 --------------
 
@@ -3736,18 +3594,18 @@ since I started this revision.”
 --------------
 
 +-------------------------+----------------------------+----------------------------+
-| `Prev <tube.html>`__    | `Up <../T.html>`__         |  `Next <tumbler.html>`__   |
+| `Prev <tube.html>`__    | `Up <../T.html>`__         |  `Next <tumbler.html>`__   |
 +-------------------------+----------------------------+----------------------------+
-| tube                    | `Home <../index.html>`__   |  tumbler                   |
+| tube                    | `Home <../index.html>`__   |  tumbler                   |
 +-------------------------+----------------------------+----------------------------+
 
 tumbler
 
-`Prev <tube-time.html>`__ 
+`Prev <tube-time.html>`__ 
 
 T
 
- `Next <tunafish.html>`__
+ `Next <tunafish.html>`__
 
 --------------
 
@@ -3773,18 +3631,18 @@ recognition.
 --------------
 
 +------------------------------+----------------------------+-----------------------------+
-| `Prev <tube-time.html>`__    | `Up <../T.html>`__         |  `Next <tunafish.html>`__   |
+| `Prev <tube-time.html>`__    | `Up <../T.html>`__         |  `Next <tunafish.html>`__   |
 +------------------------------+----------------------------+-----------------------------+
-| tube time                    | `Home <../index.html>`__   |  tunafish                   |
+| tube time                    | `Home <../index.html>`__   |  tunafish                   |
 +------------------------------+----------------------------+-----------------------------+
 
 tunafish
 
-`Prev <tumbler.html>`__ 
+`Prev <tumbler.html>`__ 
 
 T
 
- `Next <tune.html>`__
+ `Next <tune.html>`__
 
 --------------
 
@@ -3811,18 +3669,18 @@ a canning factory... —ESR]
 --------------
 
 +----------------------------+----------------------------+-------------------------+
-| `Prev <tumbler.html>`__    | `Up <../T.html>`__         |  `Next <tune.html>`__   |
+| `Prev <tumbler.html>`__    | `Up <../T.html>`__         |  `Next <tune.html>`__   |
 +----------------------------+----------------------------+-------------------------+
-| tumbler                    | `Home <../index.html>`__   |  tune                   |
+| tumbler                    | `Home <../index.html>`__   |  tune                   |
 +----------------------------+----------------------------+-------------------------+
 
 tune
 
-`Prev <tunafish.html>`__ 
+`Prev <tunafish.html>`__ 
 
 T
 
- `Next <turbo-nerd.html>`__
+ `Next <turbo-nerd.html>`__
 
 --------------
 
@@ -3839,18 +3697,18 @@ use of hardware). See `*hot spot* <../H/hot-spot.html>`__,
 --------------
 
 +-----------------------------+----------------------------+-------------------------------+
-| `Prev <tunafish.html>`__    | `Up <../T.html>`__         |  `Next <turbo-nerd.html>`__   |
+| `Prev <tunafish.html>`__    | `Up <../T.html>`__         |  `Next <turbo-nerd.html>`__   |
 +-----------------------------+----------------------------+-------------------------------+
-| tunafish                    | `Home <../index.html>`__   |  turbo nerd                   |
+| tunafish                    | `Home <../index.html>`__   |  turbo nerd                   |
 +-----------------------------+----------------------------+-------------------------------+
 
 turbo nerd
 
-`Prev <tune.html>`__ 
+`Prev <tune.html>`__ 
 
 T
 
- `Next <Turing-tar-pit.html>`__
+ `Next <Turing-tar-pit.html>`__
 
 --------------
 
@@ -3861,18 +3719,18 @@ See `*geek* <../G/geek.html>`__.
 --------------
 
 +-------------------------+----------------------------+-----------------------------------+
-| `Prev <tune.html>`__    | `Up <../T.html>`__         |  `Next <Turing-tar-pit.html>`__   |
+| `Prev <tune.html>`__    | `Up <../T.html>`__         |  `Next <Turing-tar-pit.html>`__   |
 +-------------------------+----------------------------+-----------------------------------+
-| tune                    | `Home <../index.html>`__   |  Turing tar-pit                   |
+| tune                    | `Home <../index.html>`__   |  Turing tar-pit                   |
 +-------------------------+----------------------------+-----------------------------------+
 
 Turing tar-pit
 
-`Prev <turbo-nerd.html>`__ 
+`Prev <turbo-nerd.html>`__ 
 
 T
 
- `Next <turist.html>`__
+ `Next <turist.html>`__
 
 --------------
 
@@ -3899,18 +3757,18 @@ language A or B is the “most powerful”.
 --------------
 
 +-------------------------------+----------------------------+---------------------------+
-| `Prev <turbo-nerd.html>`__    | `Up <../T.html>`__         |  `Next <turist.html>`__   |
+| `Prev <turbo-nerd.html>`__    | `Up <../T.html>`__         |  `Next <turist.html>`__   |
 +-------------------------------+----------------------------+---------------------------+
-| turbo nerd                    | `Home <../index.html>`__   |  turist                   |
+| turbo nerd                    | `Home <../index.html>`__   |  turist                   |
 +-------------------------------+----------------------------+---------------------------+
 
 turist
 
-`Prev <Turing-tar-pit.html>`__ 
+`Prev <Turing-tar-pit.html>`__ 
 
 T
 
- `Next <Tux.html>`__
+ `Next <Tux.html>`__
 
 --------------
 
@@ -3923,18 +3781,18 @@ Var. sp. of `*tourist* <tourist.html>`__, q.v. Also in adjectival form,
 --------------
 
 +-----------------------------------+----------------------------+------------------------+
-| `Prev <Turing-tar-pit.html>`__    | `Up <../T.html>`__         |  `Next <Tux.html>`__   |
+| `Prev <Turing-tar-pit.html>`__    | `Up <../T.html>`__         |  `Next <Tux.html>`__   |
 +-----------------------------------+----------------------------+------------------------+
-| Turing tar-pit                    | `Home <../index.html>`__   |  Tux                   |
+| Turing tar-pit                    | `Home <../index.html>`__   |  Tux                   |
 +-----------------------------------+----------------------------+------------------------+
 
 Tux
 
-`Prev <turist.html>`__ 
+`Prev <turist.html>`__ 
 
 T
 
- `Next <tweak.html>`__
+ `Next <tweak.html>`__
 
 --------------
 
@@ -3965,18 +3823,18 @@ birthday present in 1996.
 --------------
 
 +---------------------------+----------------------------+--------------------------+
-| `Prev <turist.html>`__    | `Up <../T.html>`__         |  `Next <tweak.html>`__   |
+| `Prev <turist.html>`__    | `Up <../T.html>`__         |  `Next <tweak.html>`__   |
 +---------------------------+----------------------------+--------------------------+
-| turist                    | `Home <../index.html>`__   |  tweak                   |
+| turist                    | `Home <../index.html>`__   |  tweak                   |
 +---------------------------+----------------------------+--------------------------+
 
 tweak
 
-`Prev <Tux.html>`__ 
+`Prev <Tux.html>`__ 
 
 T
 
- `Next <TWENEX.html>`__
+ `Next <TWENEX.html>`__
 
 --------------
 
@@ -3994,18 +3852,18 @@ debugging* <../S/shotgun-debugging.html>`__.
 --------------
 
 +------------------------+----------------------------+---------------------------+
-| `Prev <Tux.html>`__    | `Up <../T.html>`__         |  `Next <TWENEX.html>`__   |
+| `Prev <Tux.html>`__    | `Up <../T.html>`__         |  `Next <TWENEX.html>`__   |
 +------------------------+----------------------------+---------------------------+
-| Tux                    | `Home <../index.html>`__   |  TWENEX                   |
+| Tux                    | `Home <../index.html>`__   |  TWENEX                   |
 +------------------------+----------------------------+---------------------------+
 
 TWENEX
 
-`Prev <tweak.html>`__ 
+`Prev <tweak.html>`__ 
 
 T
 
- `Next <twiddle.html>`__
+ `Next <twiddle.html>`__
 
 --------------
 
@@ -4046,18 +3904,18 @@ page <http://panda.com/tops-20/>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------+
-| `Prev <tweak.html>`__    | `Up <../T.html>`__         |  `Next <twiddle.html>`__   |
+| `Prev <tweak.html>`__    | `Up <../T.html>`__         |  `Next <twiddle.html>`__   |
 +--------------------------+----------------------------+----------------------------+
-| tweak                    | `Home <../index.html>`__   |  twiddle                   |
+| tweak                    | `Home <../index.html>`__   |  twiddle                   |
 +--------------------------+----------------------------+----------------------------+
 
 twiddle
 
-`Prev <TWENEX.html>`__ 
+`Prev <TWENEX.html>`__ 
 
 T
 
- `Next <twilight-zone.html>`__
+ `Next <twilight-zone.html>`__
 
 --------------
 
@@ -4082,18 +3940,18 @@ Uncommon name for the `*twirling baton* <twirling-baton.html>`__ prompt.
 --------------
 
 +---------------------------+----------------------------+----------------------------------+
-| `Prev <TWENEX.html>`__    | `Up <../T.html>`__         |  `Next <twilight-zone.html>`__   |
+| `Prev <TWENEX.html>`__    | `Up <../T.html>`__         |  `Next <twilight-zone.html>`__   |
 +---------------------------+----------------------------+----------------------------------+
-| TWENEX                    | `Home <../index.html>`__   |  twilight zone                   |
+| TWENEX                    | `Home <../index.html>`__   |  twilight zone                   |
 +---------------------------+----------------------------+----------------------------------+
 
 twilight zone
 
-`Prev <twiddle.html>`__ 
+`Prev <twiddle.html>`__ 
 
 T
 
- `Next <twink.html>`__
+ `Next <twink.html>`__
 
 --------------
 
@@ -4106,18 +3964,18 @@ to the twilight zone”.
 --------------
 
 +----------------------------+----------------------------+--------------------------+
-| `Prev <twiddle.html>`__    | `Up <../T.html>`__         |  `Next <twink.html>`__   |
+| `Prev <twiddle.html>`__    | `Up <../T.html>`__         |  `Next <twink.html>`__   |
 +----------------------------+----------------------------+--------------------------+
-| twiddle                    | `Home <../index.html>`__   |  twink                   |
+| twiddle                    | `Home <../index.html>`__   |  twink                   |
 +----------------------------+----------------------------+--------------------------+
 
 twink
 
-`Prev <twilight-zone.html>`__ 
+`Prev <twilight-zone.html>`__ 
 
 T
 
- `Next <twirling-baton.html>`__
+ `Next <twirling-baton.html>`__
 
 --------------
 
@@ -4146,18 +4004,18 @@ nature is everywhere.
 --------------
 
 +----------------------------------+----------------------------+-----------------------------------+
-| `Prev <twilight-zone.html>`__    | `Up <../T.html>`__         |  `Next <twirling-baton.html>`__   |
+| `Prev <twilight-zone.html>`__    | `Up <../T.html>`__         |  `Next <twirling-baton.html>`__   |
 +----------------------------------+----------------------------+-----------------------------------+
-| twilight zone                    | `Home <../index.html>`__   |  twirling baton                   |
+| twilight zone                    | `Home <../index.html>`__   |  twirling baton                   |
 +----------------------------------+----------------------------+-----------------------------------+
 
 twirling baton
 
-`Prev <twink.html>`__ 
+`Prev <twink.html>`__ 
 
 T
 
- `Next <two-pi.html>`__
+ `Next <two-pi.html>`__
 
 --------------
 
@@ -4181,18 +4039,18 @@ a long and trying day.
 --------------
 
 +--------------------------+----------------------------+---------------------------+
-| `Prev <twink.html>`__    | `Up <../T.html>`__         |  `Next <two-pi.html>`__   |
+| `Prev <twink.html>`__    | `Up <../T.html>`__         |  `Next <two-pi.html>`__   |
 +--------------------------+----------------------------+---------------------------+
-| twink                    | `Home <../index.html>`__   |  two pi                   |
+| twink                    | `Home <../index.html>`__   |  two pi                   |
 +--------------------------+----------------------------+---------------------------+
 
 two pi
 
-`Prev <twirling-baton.html>`__ 
+`Prev <twirling-baton.html>`__ 
 
 T
 
- `Next <two-to-the-N.html>`__
+ `Next <two-to-the-N.html>`__
 
 --------------
 
@@ -4204,18 +4062,18 @@ in the following form: “He started on his thesis; 2 pi years later...”
 --------------
 
 +-----------------------------------+----------------------------+---------------------------------+
-| `Prev <twirling-baton.html>`__    | `Up <../T.html>`__         |  `Next <two-to-the-N.html>`__   |
+| `Prev <twirling-baton.html>`__    | `Up <../T.html>`__         |  `Next <two-to-the-N.html>`__   |
 +-----------------------------------+----------------------------+---------------------------------+
-| twirling baton                    | `Home <../index.html>`__   |  two-to-the-N                   |
+| twirling baton                    | `Home <../index.html>`__   |  two-to-the-N                   |
 +-----------------------------------+----------------------------+---------------------------------+
 
 two-to-the-N
 
-`Prev <two-pi.html>`__ 
+`Prev <two-pi.html>`__ 
 
 T
 
- `Next <tyop.html>`__
+ `Next <tyop.html>`__
 
 --------------
 
@@ -4228,18 +4086,18 @@ before I can go out for lunch” means you probably won't show up.
 --------------
 
 +---------------------------+----------------------------+-------------------------+
-| `Prev <two-pi.html>`__    | `Up <../T.html>`__         |  `Next <tyop.html>`__   |
+| `Prev <two-pi.html>`__    | `Up <../T.html>`__         |  `Next <tyop.html>`__   |
 +---------------------------+----------------------------+-------------------------+
-| two pi                    | `Home <../index.html>`__   |  tyop                   |
+| two pi                    | `Home <../index.html>`__   |  tyop                   |
 +---------------------------+----------------------------+-------------------------+
 
 tyop
 
-`Prev <two-to-the-N.html>`__ 
+`Prev <two-to-the-N.html>`__ 
 
 T
 
- `Next <../U.html>`__
+ `Next <../U.html>`__
 
 --------------
 
@@ -4252,8 +4110,8 @@ T
 --------------
 
 +---------------------------------+----------------------------+-------------------------+
-| `Prev <two-to-the-N.html>`__    | `Up <../T.html>`__         |  `Next <../U.html>`__   |
+| `Prev <two-to-the-N.html>`__    | `Up <../T.html>`__         |  `Next <../U.html>`__   |
 +---------------------------------+----------------------------+-------------------------+
-| two-to-the-N                    | `Home <../index.html>`__   |  U                      |
+| two-to-the-N                    | `Home <../index.html>`__   |  U                      |
 +---------------------------------+----------------------------+-------------------------+
 
