@@ -1,12 +1,11 @@
-XEROX PARC
-
-`Prev <X.html>`__ 
-
+=============
 X
+=============
 
- `Next <XOFF.html>`__
 
---------------
+XEROX PARC
+============
+
 
 **XEROX PARC**: /zee´roks park´/, n.
 
@@ -21,105 +20,56 @@ company, so much so that it became a standard joke to describe PARC as a
 place that specialized in developing brilliant ideas for everyone else.
 
 The stunning shortsightedness and obtusity of XEROX's top-level
-`*suit* <../S/suit.html>`__\ s has been well anatomized in *Fumbling The
+`suits <../S/suit.html>`__  has been well anatomized in *Fumbling The
 Future: How XEROX Invented, Then Ignored, the First Personal Computer*
 by Douglas K. Smith and Robert C. Alexander (William Morrow & Co., 1988,
 ISBN 0-688-09511-9).
 
---------------
-
-+----------------------+----------------------------+-------------------------+
-| `Prev <X.html>`__    | `Up <../X.html>`__         |  `Next <XOFF.html>`__   |
-+----------------------+----------------------------+-------------------------+
-| X                    | `Home <../index.html>`__   |  XOFF                   |
-+----------------------+----------------------------+-------------------------+
-
 X
+=====
 
-`Prev <../X.html>`__ 
 
-X
 
- `Next <XEROX-PARC.html>`__
-
---------------
 
 **X**: /X/, n.
 
 1. Used in various speech and writing contexts (also in lowercase) in
 roughly its algebraic sense of ‘unknown within a set defined by context’
-(compare `*N* <../N/N.html>`__). Thus, the abbreviation 680x0 stands for
+(compare `N <../N/N.html>`__). Thus, the abbreviation 680x0 stands for
 68000, 68010, 68020, 68030, or 68040, and 80x86 stands for 80186, 80286,
 80386, 80486, 80586 or 80686 (note that a Unix hacker might write these
 as 680[0-6]0 and 80[1-6]86 or 680?0 and 80?86 respectively; see
-`*glob* <../G/glob.html>`__).
+`glob <../G/glob.html>`__).
 
 2. [after the name of an earlier window system called ‘W’] An
 over-sized, over-featured, over-engineered and incredibly
 over-complicated window system developed at MIT and widely used on Unix
 systems.
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <../X.html>`__    | `Up <../X.html>`__         |  `Next <XEROX-PARC.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| X                       | `Home <../index.html>`__   |  XEROX PARC                   |
-+-------------------------+----------------------------+-------------------------------+
 
 XOFF
+======
 
-`Prev <XEROX-PARC.html>`__ 
-
-X
-
- `Next <XON.html>`__
-
---------------
 
 **XOFF**: /X·of/, n.
 
-Syn. `*control-S* <../C/control-S.html>`__.
-
---------------
-
-+-------------------------------+----------------------------+------------------------+
-| `Prev <XEROX-PARC.html>`__    | `Up <../X.html>`__         |  `Next <XON.html>`__   |
-+-------------------------------+----------------------------+------------------------+
-| XEROX PARC                    | `Home <../index.html>`__   |  XON                   |
-+-------------------------------+----------------------------+------------------------+
+Syn. `control-S <../C/control-S.html>`__.
 
 XON
+======
 
-`Prev <XOFF.html>`__ 
 
-X
 
- `Next <xor.html>`__
-
---------------
 
 **XON**: /X·on/, n.
 
 Syn. `*control-Q* <../C/control-Q.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------+
-| `Prev <XOFF.html>`__    | `Up <../X.html>`__         |  `Next <xor.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| XOFF                    | `Home <../index.html>`__   |  xor                   |
-+-------------------------+----------------------------+------------------------+
 
 xor
+=====
 
-`Prev <XON.html>`__ 
 
-X
-
- `Next <xref.html>`__
-
---------------
 
 **xor**: /X´or/, /kzor/, conj.
 
@@ -128,88 +78,55 @@ cherry pie xor a banana split.” This derives from the technical use of
 the term as a function on truth-values that is true if exactly one of
 its two arguments is true.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <XON.html>`__    | `Up <../X.html>`__         |  `Next <xref.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| XON                    | `Home <../index.html>`__   |  xref                   |
-+------------------------+----------------------------+-------------------------+
 
 xref
+======
 
-`Prev <xor.html>`__ 
 
-X
 
- `Next <XXX.html>`__
 
---------------
 
 **xref**: /X´ref/, v.,n.
 
 Hackish standard abbreviation for cross-reference.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <xor.html>`__    | `Up <../X.html>`__         |  `Next <XXX.html>`__   |
-+------------------------+----------------------------+------------------------+
-| xor                    | `Home <../index.html>`__   |  XXX                   |
-+------------------------+----------------------------+------------------------+
-
 XXX
+====
 
-`Prev <xref.html>`__ 
 
-X
 
- `Next <xyzzy.html>`__
 
---------------
 
 **XXX**: /X·X·X/, n.
 
 A marker that attention is needed. Commonly used in program comments to
 indicate areas that are kluged up or need to be. Some hackers liken
 ‘XXX’ to the notional heavy-porn movie rating. Compare
-`*FIXME* <../F/FIXME.html>`__.
+`FIXME <../F/FIXME.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <xref.html>`__    | `Up <../X.html>`__         |  `Next <xyzzy.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| xref                    | `Home <../index.html>`__   |  xyzzy                   |
-+-------------------------+----------------------------+--------------------------+
 
 xyzzy
+========
 
-`Prev <XXX.html>`__ 
 
-X
-
- `Next <../Y.html>`__
-
---------------
 
 **xyzzy**: /X·Y·Z·Z·Y/, /X·Y·ziz´ee/, /ziz´ee/, /ik·ziz´ee/, adj.
 
-[from the ADVENT game] The `*canonical* <../C/canonical.html>`__ ‘magic
-word’. This comes from `*ADVENT* <../A/ADVENT.html>`__, in which the
+[from the ADVENT game] The `canonical <../C/canonical.html>`__ ‘magic
+word’. This comes from `ADVENT <../A/ADVENT.html>`__, in which the
 idea is to explore an underground cave with many rooms and to collect
 the treasures you find there. If you type xyzzy at the appropriate time,
 you can move instantly between two otherwise distant points. If,
-therefore, you encounter some bit of `*magic* <../M/magic.html>`__, you
+therefore, you encounter some bit of `magic <../M/magic.html>`__, you
 might remark on this quite succinctly by saying simply “Xyzzy!”
 “Ordinarily you can't look at someone else's screen if he has protected
 it, but if you type quadruple-bucky-clear the system will let you do it
-anyway.” “Xyzzy!” It's traditional for xyzzy to be an `*Easter
-egg* <../E/Easter-egg.html>`__ in games with text interfaces.
+anyway.” “Xyzzy!” It's traditional for xyzzy to be an `Easter
+egg <../E/Easter-egg.html>`__ in games with text interfaces.
 
 Xyzzy has actually been implemented as an undocumented no-op command on
 several OSes; in Data General's AOS/VS, for example, it would typically
-respond “Nothing happens”, just as `*ADVENT* <../A/ADVENT.html>`__ did
+respond “Nothing happens”, just as `ADVENT <../A/ADVENT.html>`__ did
 if the magic was invoked at the wrong spot or before a player had
 performed the action that enabled the word. In more recent 32-bit
 versions, by the way, AOS/VS responds “Twice as much happens”.
@@ -230,11 +147,4 @@ to them.
 The text can be viewed at `Project
 Gutenberg <%20%20%20%20ftp://metalab.unc.edu/pub/docs/books/gutenberg/etext93/wizoz10.txt>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <XXX.html>`__    | `Up <../X.html>`__         |  `Next <../Y.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| XXX                    | `Home <../index.html>`__   |  Y                      |
-+------------------------+----------------------------+-------------------------+
 

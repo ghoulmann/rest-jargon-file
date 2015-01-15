@@ -1,48 +1,55 @@
--ware
-
-`Prev <war-chalking.html>`__ 
-
+==
 W
+==
 
- `Next <warez.html>`__
+-ware
+======
 
---------------
 
 **-ware**: suff.
 
 [from ‘software’] Commonly used to form jargon terms for classes of
-software. For examples, see `*annoyware* <../A/annoyware.html>`__,
-`*careware* <../C/careware.html>`__,
-`*crippleware* <../C/crippleware.html>`__,
-`*crudware* <../C/crudware.html>`__,
-`*freeware* <../F/freeware.html>`__,
-`*fritterware* <../F/fritterware.html>`__,
-`*guiltware* <../G/guiltware.html>`__,
-`*liveware* <../L/liveware.html>`__,
-`*meatware* <../M/meatware.html>`__, `*payware* <../P/payware.html>`__,
-`*psychedelicware* <../P/psychedelicware.html>`__,
-`*shareware* <../S/shareware.html>`__,
-`*shelfware* <../S/shelfware.html>`__,
-`*vaporware* <../V/vaporware.html>`__, `*wetware* <wetware.html>`__,
-`*spyware* <../S/spyware.html>`__, `*adware* <../A/adware.html>`__.
+software. For examples, see 
 
---------------
+`annoyware <../A/annoyware.html>`__,
 
-+---------------------------------+----------------------------+--------------------------+
-| `Prev <war-chalking.html>`__    | `Up <../W.html>`__         |  `Next <warez.html>`__   |
-+---------------------------------+----------------------------+--------------------------+
-| war-chalking                    | `Home <../index.html>`__   |  warez                   |
-+---------------------------------+----------------------------+--------------------------+
+`careware <../C/careware.html>`__,
+
+`crippleware <../C/crippleware.html>`__,
+
+`crudware <../C/crudware.html>`__,
+
+`freeware <../F/freeware.html>`__,
+
+`fritterware <../F/fritterware.html>`__,
+
+`guiltware <../G/guiltware.html>`__,
+
+`liveware <../L/liveware.html>`__,
+
+`meatware <../M/meatware.html>`__, 
+
+`payware <../P/payware.html>`__,
+
+`psychedelicware <../P/psychedelicware.html>`__,
+
+`shareware <../S/shareware.html>`__,
+
+`shelfware <../S/shelfware.html>`__,
+
+`vaporware <../V/vaporware.html>`__, 
+
+`wetware <wetware.html>`__,
+
+`spyware <../S/spyware.html>`__,
+
+`adware <../A/adware.html>`__.
+
+
 
 w00t
+============
 
-`Prev <../W.html>`__ 
-
-W
-
- `Next <wabbit.html>`__
-
---------------
 
 **w00t**
 
@@ -58,23 +65,10 @@ victory cheer”] Adj. w00table has the sense of “cool” or “nifty”. This
 is one of the few leet-speak coinages to have crossed over into
 non-ironic use among hackers.
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <../W.html>`__    | `Up <../W.html>`__         |  `Next <wabbit.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| W                       | `Home <../index.html>`__   |  wabbit                   |
-+-------------------------+----------------------------+---------------------------+
-
 wabbit
+============
 
-`Prev <w00t.html>`__ 
 
-W
-
- `Next <WAITS.html>`__
-
---------------
 
 **wabbit**: /wab´it/, n.
 
@@ -88,39 +82,27 @@ University of Washington Computer Center. The program would make two
 copies of itself every time it was run, eventually crashing the system.
 
 2. By extension, any hack that includes infinite self-replication but is
-not a `*virus* <../V/virus.html>`__ or `*worm* <worm.html>`__. See
-`*fork bomb* <../F/fork-bomb.html>`__ and `*rabbit
-job* <../R/rabbit-job.html>`__, see also `*cookie
-monster* <../C/cookie-monster.html>`__.
+not a `virus <../V/virus.html>`__ or `worm <worm.html>`__. See
+`fork bomb <../F/fork-bomb.html>`__ and `rabbit
+job <../R/rabbit-job.html>`__, see also `cookie
+monster <../C/cookie-monster.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <w00t.html>`__    | `Up <../W.html>`__         |  `Next <WAITS.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| w00t                    | `Home <../index.html>`__   |  WAITS                   |
-+-------------------------+----------------------------+--------------------------+
 
 WAITS
+=======
 
-`Prev <wabbit.html>`__ 
 
-W
-
- `Next <waldo.html>`__
-
---------------
 
 **WAITS**: /wayts/, n.
 
-The mutant cousin of `*TOPS-10* <../T/TOPS-10.html>`__ used on a handful
-of systems at `*SAIL* <../S/SAIL.html>`__ up to 1990. There was never an
+The mutant cousin of `TOPS-10 <../T/TOPS-10.html>`__ used on a handful
+of systems at `SAIL <../S/SAIL.html>`__ up to 1990. There was never an
 ‘official’ expansion of WAITS (the name itself having been arrived at by
 a rather sideways process), but it was frequently glossed as ‘West-coast
 Alternative to ITS’. Though WAITS was less visible than ITS, there was
 frequent exchange of people and ideas between the two communities, and
 innovations pioneered at WAITS exerted enormous indirect influence. The
-early screen modes of `*EMACS* <../E/EMACS.html>`__, for example, were
+early screen modes of `EMACS <../E/EMACS.html>`__, for example, were
 directly inspired by WAITS's ‘E’ editor — one of a family of editors
 that were the first to do ‘real-time editing’, in which the editing
 commands were invisible and where one typed text at the point of
@@ -128,7 +110,7 @@ insertion/overwriting. The modern style of multi-region windowing is
 said to have originated there, and WAITS alumni at XEROX PARC and
 elsewhere played major roles in the developments that led to the XEROX
 Star, the Macintosh, and the Sun workstations. Also invented there were
-`*bucky bits* <../B/bucky-bits.html>`__ — thus, the ALT key on every IBM
+`bucky bits <../B/bucky-bits.html>`__ — thus, the ALT key on every IBM
 PC is a WAITS legacy. One WAITS feature very notable in pre-Web days was
 a news-wire interface that allowed WAITS hackers to read, store, and
 filter AP and UPI dispatches from their terminals; the system also
@@ -136,23 +118,11 @@ featured a still-unusual level of support for what is now called
 multimedia computing, allowing analog audio and video signals to be
 switched to programming terminals.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <wabbit.html>`__    | `Up <../W.html>`__         |  `Next <waldo.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| wabbit                    | `Home <../index.html>`__   |  waldo                   |
-+---------------------------+----------------------------+--------------------------+
 
 waldo
+===========
 
-`Prev <WAITS.html>`__ 
 
-W
-
- `Next <walk.html>`__
-
---------------
 
 **waldo**: /wol´doh/, n.
 
@@ -166,59 +136,36 @@ telefactoring, this technology is of intense interest to NASA for tasks
 like space station maintenance.
 
 2. At Harvard (particularly by Tom Cheatham and students), this is used
-instead of `*foobar* <../F/foobar.html>`__ as a metasyntactic variable
-and general nonsense word. See `*foo* <../F/foo.html>`__,
-`*bar* <../B/bar.html>`__, `*foobar* <../F/foobar.html>`__,
-`*quux* <../Q/quux.html>`__.
+instead of `foobar <../F/foobar.html>`__ as a metasyntactic variable
+and general nonsense word. See `foo <../F/foo.html>`__,
+`bar <../B/bar.html>`__, `foobar <../F/foobar.html>`__,
+`quux <../Q/quux.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <WAITS.html>`__    | `Up <../W.html>`__         |  `Next <walk.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| WAITS                    | `Home <../index.html>`__   |  walk                   |
-+--------------------------+----------------------------+-------------------------+
 
 walk
+=======
 
-`Prev <waldo.html>`__ 
 
-W
-
- `Next <walk-off-the-end-of.html>`__
-
---------------
 
 **walk**: n.,vt.
 
 Traversal of a data structure, especially an array or linked-list data
-structure in `*core* <../C/core.html>`__. See also
-`*codewalker* <../C/codewalker.html>`__, `*silly
-walk* <../S/silly-walk.html>`__, `*clobber* <../C/clobber.html>`__.
+structure in `core <../C/core.html>`__. See also
+`codewalker <../C/codewalker.html>`__, `silly
+walk <../S/silly-walk.html>`__, `clobber <../C/clobber.html>`__.
 
---------------
 
-+--------------------------+----------------------------+----------------------------------------+
-| `Prev <waldo.html>`__    | `Up <../W.html>`__         |  `Next <walk-off-the-end-of.html>`__   |
-+--------------------------+----------------------------+----------------------------------------+
-| waldo                    | `Home <../index.html>`__   |  walk off the end of                   |
-+--------------------------+----------------------------+----------------------------------------+
 
 walking drives
+==============
 
-`Prev <walk-off-the-end-of.html>`__ 
 
-W
-
- `Next <wall.html>`__
-
---------------
 
 **walking drives**: n.
 
 An occasional failure mode of magnetic-disk drives back in the days when
-they were huge, clunky `*washing machine* <washing-machine.html>`__\ s.
-Those old `*dinosaur* <../D/dinosaur.html>`__ parts carried terrific
+they were huge, clunky `washing machines <washing-machine.html>`__ .
+Those old `dinosaur <../D/dinosaur.html>`__ parts carried terrific
 angular momentum; the combination of a misaligned spindle or worn
 bearings and stick-slip interactions with the floor could cause them to
 ‘walk’ across a room, lurching alternate corners forward a couple of
@@ -231,49 +178,25 @@ direction). Some bands of old-time hackers figured out how to induce
 disk-accessing patterns that would do this to particular drive models
 and held disk-drive races.
 
---------------
 
-+----------------------------------------+----------------------------+-------------------------+
-| `Prev <walk-off-the-end-of.html>`__    | `Up <../W.html>`__         |  `Next <wall.html>`__   |
-+----------------------------------------+----------------------------+-------------------------+
-| walk off the end of                    | `Home <../index.html>`__   |  wall                   |
-+----------------------------------------+----------------------------+-------------------------+
 
 walk off the end of
+====================
 
-`Prev <walk.html>`__ 
 
-W
-
- `Next <walking-drives.html>`__
-
---------------
 
 **walk off the end of**: vt.
 
 To run past the end of an array, list, or medium after stepping through
-it — a good way to land in trouble. Often the result of an `*off-by-one
-error* <../O/off-by-one-error.html>`__. Compare
-`*clobber* <../C/clobber.html>`__, `*roach* <../R/roach.html>`__,
-`*smash the stack* <../S/smash-the-stack.html>`__.
+it — a good way to land in trouble. Often the result of an `off-by-one
+error <../O/off-by-one-error.html>`__. Compare
+`clobber <../C/clobber.html>`__, `roach <../R/roach.html>`__,
+`smash the stack <../S/smash-the-stack.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <walk.html>`__    | `Up <../W.html>`__         |  `Next <walking-drives.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| walk                    | `Home <../index.html>`__   |  walking drives                   |
-+-------------------------+----------------------------+-----------------------------------+
 
 wall follower
+=================
 
-`Prev <wall.html>`__ 
-
-W
-
- `Next <wall-time.html>`__
-
---------------
 
 **wall follower**: n.
 
@@ -288,27 +211,13 @@ mathematically guaranteed to work on simply-connected mazes — and, in
 fact, Harvey outperformed more sophisticated robots that tried to
 ‘learn’ each maze by building an internal representation of it. Used of
 humans, the term *is* pejorative and implies an uncreative,
-bureaucratic, by-the-book mentality. See also `*code
-grinder* <../C/code-grinder.html>`__; compare
-`*droid* <../D/droid.html>`__.
-
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <wall.html>`__    | `Up <../W.html>`__         |  `Next <wall-time.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| wall                    | `Home <../index.html>`__   |  wall time                   |
-+-------------------------+----------------------------+------------------------------+
+bureaucratic, by-the-book mentality. See also `code
+grinder <../C/code-grinder.html>`__; compare
+`droid <../D/droid.html>`__.
 
 wallhack
+================
 
-`Prev <wall-wart.html>`__ 
-
-W
-
- `Next <wango.html>`__
-
---------------
 
 **wallhack**
 
@@ -321,23 +230,11 @@ problems that stem from the fact that a server cannot trust client
 software, and server authors must assume that all computation farmed out
 to a client is exposed to and can be interfered with by the user.
 
---------------
-
-+------------------------------+----------------------------+--------------------------+
-| `Prev <wall-wart.html>`__    | `Up <../W.html>`__         |  `Next <wango.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| wall wart                    | `Home <../index.html>`__   |  wango                   |
-+------------------------------+----------------------------+--------------------------+
 
 wall
+=======
 
-`Prev <walking-drives.html>`__ 
 
-W
-
- `Next <wall-follower.html>`__
-
---------------
 
 **wall**: interj.
 
@@ -346,8 +243,8 @@ W
 1. An indication of confusion, usually spoken with a quizzical tone:
 “Wall??”
 
-2. A request for further explication. Compare `*octal
-forty* <../O/octal-forty.html>`__.
+2. A request for further explication. Compare `octal
+forty <../O/octal-forty.html>`__.
 
 3. [Unix, from ‘write all’] v. To send a message to everyone currently
 logged in, esp. with the wall(8) utility.
@@ -360,23 +257,11 @@ throw out a “Hello, wall?” to elicit some sort of response from the
 questioner. Later, confused questioners began voicing “Wall?”
 themselves.
 
---------------
 
-+-----------------------------------+----------------------------+----------------------------------+
-| `Prev <walking-drives.html>`__    | `Up <../W.html>`__         |  `Next <wall-follower.html>`__   |
-+-----------------------------------+----------------------------+----------------------------------+
-| walking drives                    | `Home <../index.html>`__   |  wall follower                   |
-+-----------------------------------+----------------------------+----------------------------------+
 
 wall time
+=============
 
-`Prev <wall-follower.html>`__ 
-
-W
-
- `Next <wall-wart.html>`__
-
---------------
 
 **wall time**: n.
 
@@ -386,28 +271,17 @@ W
 the system clock's idea of time.
 
 2. The real running time of a program, as opposed to the number of
-`*tick* <../T/tick.html>`__\ s required to execute it (on a timesharing
+`ticks <../T/tick.html>`__ required to execute it (on a timesharing
 system these always differ, as no one program gets all the ticks, and on
 multiprocessor systems with good thread support one may get more
 processor time than real time).
 
---------------
 
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <wall-follower.html>`__    | `Up <../W.html>`__         |  `Next <wall-wart.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| wall follower                    | `Home <../index.html>`__   |  wall wart                   |
-+----------------------------------+----------------------------+------------------------------+
 
 wall wart
+==========
 
-`Prev <wall-time.html>`__ 
 
-W
-
- `Next <wallhack.html>`__
-
---------------
 
 **wall wart**: n.
 
@@ -419,86 +293,53 @@ devices which would become unacceptably bulky or hot if they had power
 supplies on board (there are other reasons as well having to do with the
 cost of UL certification).
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <wall-time.html>`__    | `Up <../W.html>`__         |  `Next <wallhack.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| wall time                    | `Home <../index.html>`__   |  wallhack                   |
-+------------------------------+----------------------------+-----------------------------+
 
 wango
+==========
 
-`Prev <wallhack.html>`__ 
 
-W
-
- `Next <wank.html>`__
-
---------------
 
 **wango**: /wang´goh/, n.
 
-Random bit-level `*grovel* <../G/grovel.html>`__\ ling going on in a
+Random bit-level `grovelling <../G/grovel.html>`__ going on in a
 system during some unspecified operation. Often used in combination with
-`*mumble* <../M/mumble.html>`__. For example: “You start with the ‘.o’
+`mumble <../M/mumble.html>`__. For example: “You start with the ‘.o’
 file, run it through this postprocessor that does mumble-wango — and it
 comes out a snazzy object-oriented executable.”
 
---------------
-
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <wallhack.html>`__    | `Up <../W.html>`__         |  `Next <wank.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| wallhack                    | `Home <../index.html>`__   |  wank                   |
-+-----------------------------+----------------------------+-------------------------+
 
 wank
+=======
 
-`Prev <wango.html>`__ 
 
-W
 
- `Next <wannabee.html>`__
 
---------------
 
 **wank**: /wangk/, n.,v.,adj.
 
 [Columbia University: prob.: by mutation from Commonwealth slang v.
-wank, to masturbate] Used much as `*hack* <../H/hack.html>`__ is
+wank, to masturbate] Used much as `hack <../H/hack.html>`__ is
 elsewhere, as a noun denoting a clever technique or person or the result
 of such cleverness. May describe (negatively) the act of hacking for
 hacking's sake (“Quit wanking, let's go get supper!”) or (more
-positively) a `*wizard* <wizard.html>`__. Adj. wanky describes something
+positively) a `wizard <wizard.html>`__. Adj. wanky describes something
 particularly clever (a person, program, or algorithm). Conversations can
 also get wanky when there are too many wanks involved. This excess
 wankiness is signalled by an overload of the wankometer (compare
-`*bogometer* <../B/bogometer.html>`__). When the wankometer overloads,
+`bogometer <../B/bogometer.html>`__). When the wankometer overloads,
 the conversation's subject must be changed, or all non-wanks will leave.
-Compare neep-neeping (under `*neep-neep* <../N/neep-neep.html>`__).
+Compare neep-neeping (under `neep-neep <../N/neep-neep.html>`__).
 Usage: U.S. only. In Britain and the Commonwealth this word is
 *extremely* rude and is best avoided unless one intends to give offense.
 Adjectival wanky is less offensive and simply means ‘stupid’ or ‘broken’
 (this is mainstream in Great Britain).
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <wango.html>`__    | `Up <../W.html>`__         |  `Next <wannabee.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| wango                    | `Home <../index.html>`__   |  wannabee                   |
-+--------------------------+----------------------------+-----------------------------+
-
 wannabee
+============
 
-`Prev <wank.html>`__ 
 
-W
 
- `Next <war-dialer.html>`__
-
---------------
 
 **wannabee**: /won'@·bee/, n.
 
@@ -507,20 +348,20 @@ describe Madonna fans who dress, talk, and act like their idol; prob.:
 originally from biker slang] A would-be `*hacker* <../H/hacker.html>`__.
 The connotations of this term differ sharply depending on the age and
 exposure of the subject. Used of a person who is in or might be entering
-`*larval stage* <../L/larval-stage.html>`__, it is semi-approving; such
+`larval stage <../L/larval-stage.html>`__, it is semi-approving; such
 wannabees can be annoying but most hackers remember that they, too, were
 once such creatures. When used of any professional programmer, CS
-academic, writer, or `*suit* <../S/suit.html>`__, it is derogatory,
+academic, writer, or `suit <../S/suit.html>`__, it is derogatory,
 implying that said person is trying to cuddle up to the hacker mystique
 but doesn't, fundamentally, have a prayer of understanding what it is
 all about. Overuse of terms from this lexicon is often an indication of
-the `*wannabee* <wannabee.html>`__ nature. Compare
-`*newbie* <../N/newbie.html>`__.
+the `wannabee <wannabee.html>`__ nature. Compare
+`newbie <../N/newbie.html>`__.
 
 Historical note: The wannabee phenomenon has a slightly different flavor
 now (1993) than it did ten or fifteen years ago. When the people who are
-now hackerdom's tribal elders were in `*larval
-stage* <../L/larval-stage.html>`__, the process of becoming a hacker was
+now hackerdom's tribal elders were in `larval
+stage <../L/larval-stage.html>`__, the process of becoming a hacker was
 largely unconscious and unaffected by models known in popular culture —
 communities formed spontaneously around people who, *as individuals*,
 felt irresistibly drawn to do hackerly things, and what wannabees
@@ -535,27 +376,17 @@ old-time hackers tend to share a poorly articulated disquiet about the
 change; among other things, it gives them mixed feelings about the
 effects of public compendia of lore like this one.
 
---------------
 
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <wank.html>`__    | `Up <../W.html>`__         |  `Next <war-dialer.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| wank                    | `Home <../index.html>`__   |  war dialer                   |
-+-------------------------+----------------------------+-------------------------------+
 
 war-chalking
+===============
 
-`Prev <war-driving.html>`__ 
 
-W
 
- `Next <suffix-ware.html>`__
-
---------------
 
 **war-chalking**
 
-[play on `*war-driving* <war-driving.html>`__; the first syllable has
+[play on `war-driving <war-driving.html>`__; the first syllable has
 since been reinterpreted as an acronym for “wireless access revolution”]
 The practice of using chalk marks similar to hobo signs to indicate the
 nearby presence of a wireless Internet access point, a boon to strolling
@@ -566,23 +397,11 @@ points. The process rather recalls the explosive spread of heraldry in
 the medieval Europe of the 1120s. There is a site that `explains the
 symbology <http://www.warchalking.org/>`__;.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <war-driving.html>`__    | `Up <../W.html>`__         |  `Next <suffix-ware.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| war-driving                    | `Home <../index.html>`__   |  -ware                         |
-+--------------------------------+----------------------------+--------------------------------+
 
 war dialer
+=============
 
-`Prev <wannabee.html>`__ 
-
-W
-
- `Next <war-driving.html>`__
-
---------------
 
 **war dialer**: n.
 
@@ -593,58 +412,35 @@ so might be entry points to computer or telecommunications systems).
 Some of these programs have become quite sophisticated, and can now
 detect modem, fax, or PBX tones and log each one separately. The war
 dialer is one of the most important tools in the
-`*phreaker* <../P/phreaker.html>`__'s kit. These programs evolved from
-early `*demon dialer* <../D/demon-dialer.html>`__\ s.
+`phreaker's <../P/phreaker.html>`__ kit. These programs evolved from
+early `demon dialer <../D/demon-dialer.html>`__\ s.
 
---------------
 
-+-----------------------------+----------------------------+--------------------------------+
-| `Prev <wannabee.html>`__    | `Up <../W.html>`__         |  `Next <war-driving.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
-| wannabee                    | `Home <../index.html>`__   |  war-driving                   |
-+-----------------------------+----------------------------+--------------------------------+
 
 war-driving
+=============
 
-`Prev <war-dialer.html>`__ 
-
-W
-
- `Next <war-chalking.html>`__
-
---------------
 
 **war-driving**
 
-[play on `*war dialer* <war-dialer.html>`__; also as single word
+[play on `war dialer <war-dialer.html>`__; also as single word
 wardriving] Driving around looking for unsecured wireless Internet
 access points to connect to. More at the `War Driving home
 page <http://www.personaltelco.net/index.cgi/WarDriving>`__. Compare
-`*war-chalking* <war-chalking.html>`__.
+`war-chalking <war-chalking.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+---------------------------------+
-| `Prev <war-dialer.html>`__    | `Up <../W.html>`__         |  `Next <war-chalking.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
-| war dialer                    | `Home <../index.html>`__   |  war-chalking                   |
-+-------------------------------+----------------------------+---------------------------------+
 
 warez d00dz
+===============
 
-`Prev <warez.html>`__ 
 
-W
-
- `Next <warez-kiddies.html>`__
-
---------------
 
 **warez d00dz**: /weirz doodz/, n.
 
-A substantial subculture of `*cracker* <../C/cracker.html>`__\ s refer
+A substantial subculture of `crackers <../C/cracker.html>`__ refer
 to themselves as warez d00dz; there is evidently some connection with
-`*B1FF* <../B/B1FF.html>`__ here. As ‘Ozone Pilot’, one former warez
+`B1FF <../B/B1FF.html>`__ here. As ‘Ozone Pilot’, one former warez
 d00d, wrote:
 
     Warez d00dz get illegal copies of copyrighted software. If it has
@@ -681,165 +477,90 @@ Pilot acutely observes:
     Hellraiser is the last person you'd associate with the name.
 
 The contrast with Internet hackers is stark and instructive. See
-`*cracker* <../C/cracker.html>`__, `*wannabee* <wannabee.html>`__,
-`*handle* <../H/handle.html>`__, `*elite* <../E/elite.html>`__,
-`*courier* <../C/courier.html>`__, `*leech* <../L/leech.html>`__;
-compare `*weenie* <weenie.html>`__, `*spod* <../S/spod.html>`__.
 
---------------
+`cracker <../C/cracker.html>`__, `wannabee <wannabee.html>`__, `handle <../H/handle.html>`__, `elite <../E/elite.html>`__, `courier <../C/courier.html>`__, `leech <../L/leech.html>`__; compare `weenie <weenie.html>`__, `spod <../S/spod.html>`__.
 
-+--------------------------+----------------------------+----------------------------------+
-| `Prev <warez.html>`__    | `Up <../W.html>`__         |  `Next <warez-kiddies.html>`__   |
-+--------------------------+----------------------------+----------------------------------+
-| warez                    | `Home <../index.html>`__   |  warez kiddies                   |
-+--------------------------+----------------------------+----------------------------------+
+
 
 warez
+==========
 
-`Prev <suffix-ware.html>`__ 
 
-W
-
- `Next <warez-d00dz.html>`__
-
---------------
 
 **warez**: /weirz/, n.
 
-Widely used in `*cracker* <../C/cracker.html>`__ subcultures to denote
+Widely used in `cracker <../C/cracker.html>`__ subcultures to denote
 cracked version of commercial software, that is versions from which
 copy-protection has been stripped. Hackers recognize this term but don't
-use it themselves. See `*warez d00dz* <warez-d00dz.html>`__,
-`*courier* <../C/courier.html>`__, `*leech* <../L/leech.html>`__,
-`*elite* <../E/elite.html>`__.
+use it themselves. See `warez d00dz <warez-d00dz.html>`__,
+`courier <../C/courier.html>`__, `leech <../L/leech.html>`__, `elite <../E/elite.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <suffix-ware.html>`__    | `Up <../W.html>`__         |  `Next <warez-d00dz.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| -ware                          | `Home <../index.html>`__   |  warez d00dz                   |
-+--------------------------------+----------------------------+--------------------------------+
 
 warez kiddies
+==============
 
-`Prev <warez-d00dz.html>`__ 
-
-W
-
- `Next <warlording.html>`__
-
---------------
 
 **warez kiddies**: n.
 
-Even more derogatory way of referring to `*warez
-d00dz* <warez-d00dz.html>`__; refers to the fact that most warez d00dz
-are around the age of puberty. Compare `*script
-kiddies* <../S/script-kiddies.html>`__.
+Even more derogatory way of referring to `warez
+d00dz <warez-d00dz.html>`__; refers to the fact that most warez d00dz
+are around the age of puberty. Compare `script
+kiddies <../S/script-kiddies.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <warez-d00dz.html>`__    | `Up <../W.html>`__         |  `Next <warlording.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| warez d00dz                    | `Home <../index.html>`__   |  warlording                   |
-+--------------------------------+----------------------------+-------------------------------+
 
 warlording
+================
 
-`Prev <warez-kiddies.html>`__ 
-
-W
-
- `Next <warm-boot.html>`__
-
---------------
 
 **warlording**: v.
 
 [from the Usenet group ``alt.fan.warlord``] The act of excoriating a
-bloated, ugly, or derivative `*sig block* <../S/sig-block.html>`__.
+bloated, ugly, or derivative `sig block <../S/sig-block.html>`__.
 Common grounds for warlording include the presence of a signature
-rendered in a `*BUAF* <../B/BUAF.html>`__, over-used or cliched `*sig
-quote* <../S/sig-quote.html>`__\ s, ugly `*ASCII
-art* <../A/ASCII-art.html>`__, or simply excessive size. The original
-‘Warlord’ was a `*B1FF* <../B/B1FF.html>`__-like
-`*newbie* <../N/newbie.html>`__ c.1991 who featured in his sig a
+rendered in a `BUAF <../B/BUAF.html>`__, over-used or cliched `sig
+quotes <../S/sig-quote.html>`__, ugly `ASCII
+art <../A/ASCII-art.html>`__, or simply excessive size. The original
+‘Warlord’ was a `B1FF <../B/B1FF.html>`__-like
+`newbie <../N/newbie.html>`__ c.1991 who featured in his sig a
 particularly large and obnoxious ASCII graphic resembling the sword of
 Conan the Barbarian in the 1981 John Milius movie; the group name
 ``alt.fan.warlord`` was sarcasm, and the characteristic mode of
-warlording is devastatingly sarcastic praise. See also `*McQuary
-limit* <../M/McQuary-limit.html>`__.
+warlording is devastatingly sarcastic praise. See also `McQuary
+limit <../M/McQuary-limit.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <warez-kiddies.html>`__    | `Up <../W.html>`__         |  `Next <warm-boot.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| warez kiddies                    | `Home <../index.html>`__   |  warm boot                   |
-+----------------------------------+----------------------------+------------------------------+
 
 warm boot
+=============
 
-`Prev <warlording.html>`__ 
 
-W
-
- `Next <wart.html>`__
-
---------------
 
 **warm boot**: n.
 
-See `*boot* <../B/boot.html>`__.
+See `boot <../B/boot.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <warlording.html>`__    | `Up <../W.html>`__         |  `Next <wart.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| warlording                    | `Home <../index.html>`__   |  wart                   |
-+-------------------------------+----------------------------+-------------------------+
 
 wart
+=========
 
-`Prev <warm-boot.html>`__ 
 
-W
-
- `Next <washing-machine.html>`__
-
---------------
 
 **wart**: n.
 
-A small, `*crock* <../C/crock.html>`__\ y
-`*feature* <../F/feature.html>`__ that sticks out of an otherwise
-`*clean* <../C/clean.html>`__ design. Something conspicuous for
+A small, `crocky <../C/crock.html>`__ `feature <../F/feature.html>`__ that sticks out of an otherwise `clean <../C/clean.html>`__ design. Something conspicuous for
 localized ugliness, especially a special-case exception to a general
 rule. For example, in some versions of csh(1), single quotes literalize
 every character inside them except ``!``. In ANSI C, the ``??`` syntax
 used for obtaining ASCII characters in a foreign environment is a wart.
-See also `*miswart* <../M/miswart.html>`__.
+See also `miswart <../M/miswart.html>`__.
 
---------------
 
-+------------------------------+----------------------------+------------------------------------+
-| `Prev <warm-boot.html>`__    | `Up <../W.html>`__         |  `Next <washing-machine.html>`__   |
-+------------------------------+----------------------------+------------------------------------+
-| warm boot                    | `Home <../index.html>`__   |  washing machine                   |
-+------------------------------+----------------------------+------------------------------------+
 
 washing machine
+================
 
-`Prev <wart.html>`__ 
-
-W
-
- `Next <washing-software.html>`__
-
---------------
 
 **washing machine**: n.
 
@@ -847,37 +568,25 @@ W
 because of the size of the cabinet and the ‘top-loading’ access to the
 media packs — and, of course, they were always set on ‘spin cycle’. The
 washing-machine idiom transcends language barriers; it is even used in
-Russian hacker jargon. See also `*walking
-drives* <walking-drives.html>`__. The thick channel cables connecting
-these were called bit hoses (see `*hose* <../H/hose.html>`__, sense 3).
+Russian hacker jargon. See also `walking
+drives <walking-drives.html>`__. The thick channel cables connecting
+these were called bit hoses (see `hose <../H/hose.html>`__, sense 3).
 
 |image0|
 
-(The next cartoon in the Crunchly saga is
-`76-02-20:2 <../B/batch.html#crunchly-2>`__. The previous cartoon was
-`75-10-04 <../B/bit-bucket.html#crunchly75-10-04>`__.)
 
-2. [CMU] A machine used exclusively for `*washing
-software* <washing-software.html>`__. CMU has clusters of these.
 
---------------
+2. [CMU] A machine used exclusively for `washing
+software <washing-software.html>`__. CMU has clusters of these.
 
-+-------------------------+----------------------------+-------------------------------------+
-| `Prev <wart.html>`__    | `Up <../W.html>`__         |  `Next <washing-software.html>`__   |
-+-------------------------+----------------------------+-------------------------------------+
-| wart                    | `Home <../index.html>`__   |  washing software                   |
-+-------------------------+----------------------------+-------------------------------------+
 
 .. |image0| image:: ../graphics/76-02-14.png
+
 washing software
+=================
 
-`Prev <washing-machine.html>`__ 
 
-W
 
- `Next <water-MIPS.html>`__
-
---------------
 
 **washing software**: n.
 
@@ -885,56 +594,29 @@ The process of recompiling a software distribution (used more often when
 the recompilation is occuring from scratch) to pick up and merge
 together all of the various changes that have been made to the source.
 
---------------
-
-+------------------------------------+----------------------------+-------------------------------+
-| `Prev <washing-machine.html>`__    | `Up <../W.html>`__         |  `Next <water-MIPS.html>`__   |
-+------------------------------------+----------------------------+-------------------------------+
-| washing machine                    | `Home <../index.html>`__   |  water MIPS                   |
-+------------------------------------+----------------------------+-------------------------------+
-
 water MIPS
+===========
 
-`Prev <washing-software.html>`__ 
 
-W
-
- `Next <wave-a-dead-chicken.html>`__
-
---------------
 
 **water MIPS**: n.
 
-(see `*MIPS* <../M/MIPS.html>`__, sense 2) Large, water-cooled machines
+(see `MIPS <../M/MIPS.html>`__, sense 2) Large, water-cooled machines
 of either today's ECL-supercomputer flavor or yesterday's traditional
-`*mainframe* <../M/mainframe.html>`__ type.
+`mainframe <../M/mainframe.html>`__ type.
 
 |image0|
 
-A really unusual kind of `*water MIPS* <water-MIPS.html>`__.
+A really unusual kind of `water MIPS <water-MIPS.html>`__.
 
-(The next cartoon in the Crunchly saga is
-`74-12-25 <../N/number-crunching.html#crunchly74-12-25>`__. The previous
-cartoon was `73-10-31 <../A/ad-hockery.html#crunchly73-10-31>`__.)
 
---------------
-
-+-------------------------------------+----------------------------+----------------------------------------+
-| `Prev <washing-software.html>`__    | `Up <../W.html>`__         |  `Next <wave-a-dead-chicken.html>`__   |
-+-------------------------------------+----------------------------+----------------------------------------+
-| washing software                    | `Home <../index.html>`__   |  wave a dead chicken                   |
-+-------------------------------------+----------------------------+----------------------------------------+
 
 .. |image0| image:: ../graphics/74-08-18.png
+
 wave a dead chicken
+=====================
 
-`Prev <water-MIPS.html>`__ 
 
-W
-
- `Next <weasel.html>`__
-
---------------
 
 **wave a dead chicken**: v.
 
@@ -942,52 +624,28 @@ To perform a ritual in the direction of crashed software or hardware
 that one believes to be futile but is nevertheless necessary so that
 others are satisfied that an appropriate degree of effort has been
 expended. “I'll wave a dead chicken over the source code, but I really
-think we've run into an OS bug.” Compare `*voodoo
-programming* <../V/voodoo-programming.html>`__, `*rain
-dance* <../R/rain-dance.html>`__; see also `*casting the
-runes* <../C/casting-the-runes.html>`__.
+think we've run into an OS bug.” Compare `voodoo
+programming <../V/voodoo-programming.html>`__, `rain dance <../R/rain-dance.html>`__; see also `casting the runes <../C/casting-the-runes.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <water-MIPS.html>`__    | `Up <../W.html>`__         |  `Next <weasel.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| water MIPS                    | `Home <../index.html>`__   |  weasel                   |
-+-------------------------------+----------------------------+---------------------------+
 
 weasel
+============
 
-`Prev <wave-a-dead-chicken.html>`__ 
 
-W
-
- `Next <web-pointer.html>`__
-
---------------
 
 **weasel**: n.
 
 [Cambridge] A naive user, one who deliberately or accidentally does
 things that are stupid or ill-advised. Roughly synonymous with
-`*loser* <../L/loser.html>`__.
+`loser <../L/loser.html>`__.
 
---------------
 
-+----------------------------------------+----------------------------+--------------------------------+
-| `Prev <wave-a-dead-chicken.html>`__    | `Up <../W.html>`__         |  `Next <web-pointer.html>`__   |
-+----------------------------------------+----------------------------+--------------------------------+
-| wave a dead chicken                    | `Home <../index.html>`__   |  web pointer                   |
-+----------------------------------------+----------------------------+--------------------------------+
 
 webify
+===========
 
-`Prev <web-toaster.html>`__ 
 
-W
-
- `Next <webmaster.html>`__
-
---------------
 
 **webify**: n.
 
@@ -997,72 +655,39 @@ publications?”) or for demos (“They webified their 6.866 final
 project”). This term seems to have been (rather logically) independently
 invented multiple times in the early 1990s.
 
---------------
 
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <web-toaster.html>`__    | `Up <../W.html>`__         |  `Next <webmaster.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| web toaster                    | `Home <../index.html>`__   |  webmaster                   |
-+--------------------------------+----------------------------+------------------------------+
 
 webmaster
+==============
 
-`Prev <webify.html>`__ 
-
-W
-
- `Next <wedged.html>`__
-
---------------
 
 **webmaster**: n.
 
-[WWW: from `*postmaster* <../P/postmaster.html>`__] The person at a site
+[WWW: from `postmaster <../P/postmaster.html>`__] The person at a site
 providing World Wide Web information who is responsible for maintaining
 the public pages and keeping the Web server running and properly
 configured.
 
---------------
 
-+---------------------------+----------------------------+---------------------------+
-| `Prev <webify.html>`__    | `Up <../W.html>`__         |  `Next <wedged.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| webify                    | `Home <../index.html>`__   |  wedged                   |
-+---------------------------+----------------------------+---------------------------+
 
 web pointer
+=============
 
-`Prev <weasel.html>`__ 
 
-W
 
- `Next <web-ring.html>`__
-
---------------
 
 **web pointer**: n.
 
-A World Wide Web `*URL* <../U/URL.html>`__. See also
-`*hotlink* <../H/hotlink.html>`__, which has slightly different
+A World Wide Web `URL <../U/URL.html>`__. See also
+`hotlink <../H/hotlink.html>`__, which has slightly different
 connotations.
 
---------------
 
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <weasel.html>`__    | `Up <../W.html>`__         |  `Next <web-ring.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| weasel                    | `Home <../index.html>`__   |  web ring                   |
-+---------------------------+----------------------------+-----------------------------+
 
 web ring
+===========
 
-`Prev <web-pointer.html>`__ 
 
-W
-
- `Next <web-toaster.html>`__
-
---------------
 
 **web ring**: n.
 
@@ -1071,23 +696,12 @@ a common interest or theme. Usually such cliques have the topology of a
 ring, in order to make it easy for visitors to navigate through all of
 them.
 
---------------
-
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <web-pointer.html>`__    | `Up <../W.html>`__         |  `Next <web-toaster.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| web pointer                    | `Home <../index.html>`__   |  web toaster                   |
-+--------------------------------+----------------------------+--------------------------------+
 
 web toaster
+=============
 
-`Prev <web-ring.html>`__ 
 
-W
 
- `Next <webify.html>`__
-
---------------
 
 **web toaster**: n.
 
@@ -1095,26 +709,14 @@ A small specialized computer, shipped with no monitor or keyboard or any
 other external peripherals, pre-configured to be controlled through an
 Ethernet port and function as a WWW server. Products of this kind (for
 example the Cobalt Qube) are often about the size of a toaster. See
-`*toaster* <../T/toaster.html>`__; compare `*video
-toaster* <../V/video-toaster.html>`__.
-
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <web-ring.html>`__    | `Up <../W.html>`__         |  `Next <webify.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| web ring                    | `Home <../index.html>`__   |  webify                   |
-+-----------------------------+----------------------------+---------------------------+
+`toaster <../T/toaster.html>`__; compare `video
+toaster <../V/video-toaster.html>`__.
 
 wedged
+============
 
-`Prev <webmaster.html>`__ 
 
-W
 
- `Next <wedgie.html>`__
-
---------------
 
 **wedged**: adj.
 
@@ -1123,10 +725,10 @@ from having crashed. If the system has crashed, it has become totally
 non-functioning. If the system is wedged, it is trying to do something
 but cannot make progress; it may be capable of doing a few things, but
 not be fully operational. For example, a process may become wedged if it
-`*deadlock* <../D/deadlock.html>`__\ s with another (but not all
+`deadlocks <../D/deadlock.html>`__ with another (but not all
 instances of wedging are deadlocks). See also
-`*gronk* <../G/gronk.html>`__, `*locked up* <../L/locked-up.html>`__,
-`*hosed* <../H/hosed.html>`__, `*hung* <../H/hung.html>`__ (wedged is
+`gronk <../G/gronk.html>`__, `locked up <../L/locked-up.html>`__,
+`hosed <../H/hosed.html>`__, `hung <../H/hung.html>`__ (wedged is
 more severe than `*hung* <../H/hung.html>`__).
 
 2. Often refers to humans suffering misconceptions. “He's totally wedged
@@ -1143,21 +745,15 @@ technology in which physical type elements were locked into type frames
 with wedges driven in by mallets. Once this had been done, no changes in
 the typesetting for that page could be made.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <webmaster.html>`__    | `Up <../W.html>`__         |  `Next <wedgie.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| webmaster                    | `Home <../index.html>`__   |  wedgie                   |
-+------------------------------+----------------------------+---------------------------+
 
 wedgie
+===========
 
-`Prev <wedged.html>`__ 
+`Prev <wedged.html>`__ 
 
 W
 
- `Next <wedgitude.html>`__
+ `Next <wedgitude.html>`__
 
 --------------
 
@@ -1168,18 +764,19 @@ W
 --------------
 
 +---------------------------+----------------------------+------------------------------+
-| `Prev <wedged.html>`__    | `Up <../W.html>`__         |  `Next <wedgitude.html>`__   |
+| `Prev <wedged.html>`__    | `Up <../W.html>`__         |  `Next <wedgitude.html>`__   |
 +---------------------------+----------------------------+------------------------------+
-| wedged                    | `Home <../index.html>`__   |  wedgitude                   |
+| wedged                    | `Home <../index.html>`__   |  wedgitude                   |
 +---------------------------+----------------------------+------------------------------+
 
 wedgitude
+==============
 
-`Prev <wedgie.html>`__ 
+`Prev <wedgie.html>`__ 
 
 W
 
- `Next <weeble.html>`__
+ `Next <weeble.html>`__
 
 --------------
 
@@ -1190,18 +787,19 @@ The quality or state of being `*wedged* <wedged.html>`__.
 --------------
 
 +---------------------------+----------------------------+---------------------------+
-| `Prev <wedgie.html>`__    | `Up <../W.html>`__         |  `Next <weeble.html>`__   |
+| `Prev <wedgie.html>`__    | `Up <../W.html>`__         |  `Next <weeble.html>`__   |
 +---------------------------+----------------------------+---------------------------+
-| wedgie                    | `Home <../index.html>`__   |  weeble                   |
+| wedgie                    | `Home <../index.html>`__   |  weeble                   |
 +---------------------------+----------------------------+---------------------------+
 
 weeble
+======================
 
-`Prev <wedgitude.html>`__ 
+`Prev <wedgitude.html>`__ 
 
 W
 
- `Next <weeds.html>`__
+ `Next <weeds.html>`__
 
 --------------
 
@@ -1213,18 +811,19 @@ stuck the disk in upside down.” “Weeble....”.
 --------------
 
 +------------------------------+----------------------------+--------------------------+
-| `Prev <wedgitude.html>`__    | `Up <../W.html>`__         |  `Next <weeds.html>`__   |
+| `Prev <wedgitude.html>`__    | `Up <../W.html>`__         |  `Next <weeds.html>`__   |
 +------------------------------+----------------------------+--------------------------+
-| wedgitude                    | `Home <../index.html>`__   |  weeds                   |
+| wedgitude                    | `Home <../index.html>`__   |  weeds                   |
 +------------------------------+----------------------------+--------------------------+
 
 weeds
+==================
 
-`Prev <weeble.html>`__ 
+`Prev <weeble.html>`__ 
 
 W
 
- `Next <weenie.html>`__
+ `Next <weenie.html>`__
 
 --------------
 
@@ -1241,18 +840,19 @@ land* <../J/jump-off-into-never-never-land.html>`__.
 --------------
 
 +---------------------------+----------------------------+---------------------------+
-| `Prev <weeble.html>`__    | `Up <../W.html>`__         |  `Next <weenie.html>`__   |
+| `Prev <weeble.html>`__    | `Up <../W.html>`__         |  `Next <weenie.html>`__   |
 +---------------------------+----------------------------+---------------------------+
-| weeble                    | `Home <../index.html>`__   |  weenie                   |
+| weeble                    | `Home <../index.html>`__   |  weenie                   |
 +---------------------------+----------------------------+---------------------------+
 
 weenie
+=============
 
-`Prev <weeds.html>`__ 
+`Prev <weeds.html>`__ 
 
 W
 
- `Next <Weenix.html>`__
+ `Next <Weenix.html>`__
 
 --------------
 
@@ -1285,18 +885,19 @@ of how the speaker feels about that area. See also
 --------------
 
 +--------------------------+----------------------------+---------------------------+
-| `Prev <weeds.html>`__    | `Up <../W.html>`__         |  `Next <Weenix.html>`__   |
+| `Prev <weeds.html>`__    | `Up <../W.html>`__         |  `Next <Weenix.html>`__   |
 +--------------------------+----------------------------+---------------------------+
-| weeds                    | `Home <../index.html>`__   |  Weenix                   |
+| weeds                    | `Home <../index.html>`__   |  Weenix                   |
 +--------------------------+----------------------------+---------------------------+
 
 Weenix
+===========
 
-`Prev <weenie.html>`__ 
+`Prev <weenie.html>`__ 
 
 W
 
- `Next <well-behaved.html>`__
+ `Next <well-behaved.html>`__
 
 --------------
 
@@ -1319,20 +920,20 @@ Named independently of the ITS usage.
 --------------
 
 +---------------------------+----------------------------+---------------------------------+
-| `Prev <weenie.html>`__    | `Up <../W.html>`__         |  `Next <well-behaved.html>`__   |
+| `Prev <weenie.html>`__    | `Up <../W.html>`__         |  `Next <well-behaved.html>`__   |
 +---------------------------+----------------------------+---------------------------------+
-| weenie                    | `Home <../index.html>`__   |  well-behaved                   |
+| weenie                    | `Home <../index.html>`__   |  well-behaved                   |
 +---------------------------+----------------------------+---------------------------------+
 
 well-behaved
+==================
 
-`Prev <Weenix.html>`__ 
+`Prev <Weenix.html>`__ 
 
 W
 
- `Next <well-connected.html>`__
+ `Next <well-connected.html>`__
 
---------------
 
 **well-behaved**: adj.
 
@@ -1351,18 +952,19 @@ different from `*bulletproof* <../B/bulletproof.html>`__.
 --------------
 
 +---------------------------+----------------------------+-----------------------------------+
-| `Prev <Weenix.html>`__    | `Up <../W.html>`__         |  `Next <well-connected.html>`__   |
+| `Prev <Weenix.html>`__    | `Up <../W.html>`__         |  `Next <well-connected.html>`__   |
 +---------------------------+----------------------------+-----------------------------------+
-| Weenix                    | `Home <../index.html>`__   |  well-connected                   |
+| Weenix                    | `Home <../index.html>`__   |  well-connected                   |
 +---------------------------+----------------------------+-----------------------------------+
 
 well-connected
+====================
 
-`Prev <well-behaved.html>`__ 
+`Prev <well-behaved.html>`__ 
 
 W
 
- `Next <wetware.html>`__
+ `Next <wetware.html>`__
 
 --------------
 
@@ -1377,20 +979,14 @@ many (due perhaps to an archive service or active Usenet users).
 --------------
 
 +---------------------------------+----------------------------+----------------------------+
-| `Prev <well-behaved.html>`__    | `Up <../W.html>`__         |  `Next <wetware.html>`__   |
+| `Prev <well-behaved.html>`__    | `Up <../W.html>`__         |  `Next <wetware.html>`__   |
 +---------------------------------+----------------------------+----------------------------+
-| well-behaved                    | `Home <../index.html>`__   |  wetware                   |
+| well-behaved                    | `Home <../index.html>`__   |  wetware                   |
 +---------------------------------+----------------------------+----------------------------+
 
 wetware
+==============
 
-`Prev <well-connected.html>`__ 
-
-W
-
- `Next <whack.html>`__
-
---------------
 
 **wetware**: /wet´weir/, n.
 
@@ -1407,18 +1003,19 @@ computer system, as opposed to the system's hardware or software. See
 --------------
 
 +-----------------------------------+----------------------------+--------------------------+
-| `Prev <well-connected.html>`__    | `Up <../W.html>`__         |  `Next <whack.html>`__   |
+| `Prev <well-connected.html>`__    | `Up <../W.html>`__         |  `Next <whack.html>`__   |
 +-----------------------------------+----------------------------+--------------------------+
-| well-connected                    | `Home <../index.html>`__   |  whack                   |
+| well-connected                    | `Home <../index.html>`__   |  whack                   |
 +-----------------------------------+----------------------------+--------------------------+
 
 whack-a-mole
+=============================
 
-`Prev <whack.html>`__ 
+`Prev <whack.html>`__ 
 
 W
 
- `Next <whacker.html>`__
+ `Next <whacker.html>`__
 
 --------------
 
@@ -1441,18 +1038,19 @@ Lycos.
 --------------
 
 +--------------------------+----------------------------+----------------------------+
-| `Prev <whack.html>`__    | `Up <../W.html>`__         |  `Next <whacker.html>`__   |
+| `Prev <whack.html>`__    | `Up <../W.html>`__         |  `Next <whacker.html>`__   |
 +--------------------------+----------------------------+----------------------------+
-| whack                    | `Home <../index.html>`__   |  whacker                   |
+| whack                    | `Home <../index.html>`__   |  whacker                   |
 +--------------------------+----------------------------+----------------------------+
 
 whacker
+=================
 
-`Prev <whack-a-mole.html>`__ 
+`Prev <whack-a-mole.html>`__ 
 
 W
 
- `Next <whales.html>`__
+ `Next <whales.html>`__
 
 --------------
 
@@ -1470,76 +1068,39 @@ status, regardless of the views of their peers.
 2. A person who is good at programming quickly, though rather poorly and
 ineptly.
 
---------------
-
-+---------------------------------+----------------------------+---------------------------+
-| `Prev <whack-a-mole.html>`__    | `Up <../W.html>`__         |  `Next <whales.html>`__   |
-+---------------------------------+----------------------------+---------------------------+
-| whack-a-mole                    | `Home <../index.html>`__   |  whales                   |
-+---------------------------------+----------------------------+---------------------------+
 
 whack
 
-`Prev <wetware.html>`__ 
 
-W
 
- `Next <whack-a-mole.html>`__
-
---------------
 
 **whack**: v.
 
 According to arch-hacker James Gosling (designer of
-`*NeWS* <../N/NeWS.html>`__, `*GOSMACS* <../G/GOSMACS.html>`__ and
+`NeWS <../N/NeWS.html>`__, `GOSMACS <../G/GOSMACS.html>`__ and
 Java), to “...modify a program with no idea whatsoever how it works.”
-(See `*whacker* <whacker.html>`__.) It is actually possible to do this
+(See `whacker <whacker.html>`__.) It is actually possible to do this
 in nontrivial circumstances if the change is small and well-defined and
-you are very good at `*glark* <../G/glark.html>`__\ ing things from
+you are very good at `glarking <../G/glark.html>`__\ ing things from
 context. As a trivial example, it is relatively easy to change all
 **stderr** writes to **stdout** writes in a piece of C filter code which
 remains otherwise mysterious.
 
---------------
 
-+----------------------------+----------------------------+---------------------------------+
-| `Prev <wetware.html>`__    | `Up <../W.html>`__         |  `Next <whack-a-mole.html>`__   |
-+----------------------------+----------------------------+---------------------------------+
-| wetware                    | `Home <../index.html>`__   |  whack-a-mole                   |
-+----------------------------+----------------------------+---------------------------------+
 
 whales
+=========
 
-`Prev <whacker.html>`__ 
-
-W
-
- `Next <Whats-a-spline.html>`__
-
---------------
 
 **whales**: n.
 
 See `*like kicking dead whales down the
 beach* <../L/like-kicking-dead-whales-down-the-beach.html>`__.
 
---------------
-
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <whacker.html>`__    | `Up <../W.html>`__         |  `Next <Whats-a-spline.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| whacker                    | `Home <../index.html>`__   |  What's a spline?                 |
-+----------------------------+----------------------------+-----------------------------------+
 
 What's a spline?
+====================
 
-`Prev <whales.html>`__ 
-
-W
-
- `Next <wheel.html>`__
-
---------------
 
 **What's a spline?**
 
@@ -1548,23 +1109,12 @@ I've heard for a year and a half, and I feel I should know, but don't.
 My curiosity has finally overcome my guilt.” The PARC lexicon adds
 “Moral: don't hesitate to ask questions, even if they seem obvious.”
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <whales.html>`__    | `Up <../W.html>`__         |  `Next <wheel.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| whales                    | `Home <../index.html>`__   |  wheel                   |
-+---------------------------+----------------------------+--------------------------+
-
 wheel bit
+=============
 
-`Prev <wheel.html>`__ 
 
-W
 
- `Next <wheel-of-reincarnation.html>`__
 
---------------
 
 **wheel bit**: n.
 
@@ -1577,23 +1127,18 @@ carried over to TOPS-20, XEROX-IFS, and others. The state of being in a
 privileged logon is sometimes called wheel mode. This term entered the
 Unix culture from TWENEX in the mid-1980s and has been gaining
 popularity there (esp. at university sites). See also
-`*root* <../R/root.html>`__.
+`root <../R/root.html>`__.
 
---------------
 
-+--------------------------+----------------------------+-------------------------------------------+
-| `Prev <wheel.html>`__    | `Up <../W.html>`__         |  `Next <wheel-of-reincarnation.html>`__   |
-+--------------------------+----------------------------+-------------------------------------------+
-| wheel                    | `Home <../index.html>`__   |  wheel of reincarnation                   |
-+--------------------------+----------------------------+-------------------------------------------+
 
 wheel
+===========
 
-`Prev <Whats-a-spline.html>`__ 
+`Prev <Whats-a-spline.html>`__ 
 
 W
 
- `Next <wheel-bit.html>`__
+ `Next <wheel-bit.html>`__
 
 --------------
 
@@ -1601,30 +1146,20 @@ W
 
 [from slang ‘big wheel’ for a powerful person] A person who has an
 active `*wheel bit* <wheel-bit.html>`__. “We need to find a wheel to
-unwedge the hung tape drives.” (See `*wedged* <wedged.html>`__, sense
+unwedge the hung tape drives.” (See `wedged <wedged.html>`__, sense
 1.) The traditional name of security group zero in
-`*BSD* <../B/BSD.html>`__ (to which the major system-internal users like
-`*root* <../R/root.html>`__ belong) is ‘wheel’. Some vendors have
+`BSD <../B/BSD.html>`__ (to which the major system-internal users like
+`root <../R/root.html>`__ belong) is ‘wheel’. Some vendors have
 expanded on this usage, modifying Unix so that only members of group
-‘wheel’ can `*go root* <../G/go-root.html>`__.
+‘wheel’ can `go root <../G/go-root.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+------------------------------+
-| `Prev <Whats-a-spline.html>`__    | `Up <../W.html>`__         |  `Next <wheel-bit.html>`__   |
-+-----------------------------------+----------------------------+------------------------------+
-| What's a spline?                  | `Home <../index.html>`__   |  wheel bit                   |
-+-----------------------------------+----------------------------+------------------------------+
 
 wheel of reincarnation
+========================
 
-`Prev <wheel-bit.html>`__ 
 
-W
 
- `Next <wheel-wars.html>`__
-
---------------
 
 **wheel of reincarnation**
 
@@ -1641,73 +1176,38 @@ Several iterations of this cycle have been observed in
 graphics-processor design, and at least one or two in communications and
 floating-point processors. Also known as the Wheel of Life, the Wheel of
 Samsara, and other variations of the basic Hindu/Buddhist theological
-idea. See also `*blitter* <../B/blitter.html>`__.
+idea. See also `blitter <../B/blitter.html>`__.
 
---------------
 
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <wheel-bit.html>`__    | `Up <../W.html>`__         |  `Next <wheel-wars.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| wheel bit                    | `Home <../index.html>`__   |  wheel wars                   |
-+------------------------------+----------------------------+-------------------------------+
 
 wheel wars
+==============
 
-`Prev <wheel-of-reincarnation.html>`__ 
 
-W
-
- `Next <white-hat.html>`__
-
---------------
 
 **wheel wars**: n.
 
-[Stanford University] A period in `*larval
-stage* <../L/larval-stage.html>`__ during which student hackers hassle
+[Stanford University] A period in `larval
+stage <../L/larval-stage.html>`__ during which student hackers hassle
 each other by attempting to log each other out of the system, delete
 each other's files, and otherwise wreak havoc, usually at the expense of
 the lesser users.
 
---------------
 
-+-------------------------------------------+----------------------------+------------------------------+
-| `Prev <wheel-of-reincarnation.html>`__    | `Up <../W.html>`__         |  `Next <white-hat.html>`__   |
-+-------------------------------------------+----------------------------+------------------------------+
-| wheel of reincarnation                    | `Home <../index.html>`__   |  white hat                   |
-+-------------------------------------------+----------------------------+------------------------------+
 
 white hat
-
-`Prev <wheel-wars.html>`__ 
-
-W
-
- `Next <whitelist.html>`__
-
---------------
+===============
 
 **white hat**
 
-See `*black hat* <../B/black-hat.html>`__.
+See `black hat <../B/black-hat.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <wheel-wars.html>`__    | `Up <../W.html>`__         |  `Next <whitelist.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| wheel wars                    | `Home <../index.html>`__   |  whitelist                   |
-+-------------------------------+----------------------------+------------------------------+
 
 whitelist
+===========
 
-`Prev <white-hat.html>`__ 
 
-W
-
- `Next <whizzy.html>`__
-
---------------
 
 **whitelist**: n.
 
@@ -1716,46 +1216,23 @@ of people who are banned, it's an explicit list of people who are to be
 admitted. Hackers use this especially of lists of email addresses that
 are explicitly enabled to get past strict anti-spam filters.
 
---------------
 
-+------------------------------+----------------------------+---------------------------+
-| `Prev <white-hat.html>`__    | `Up <../W.html>`__         |  `Next <whizzy.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| white hat                    | `Home <../index.html>`__   |  whizzy                   |
-+------------------------------+----------------------------+---------------------------+
 
 whizzy
+=========
 
-`Prev <whitelist.html>`__ 
-
-W
-
- `Next <Whorfian-mind-lock.html>`__
-
---------------
 
 **whizzy**: adj.
 
-(alt.: wizzy) [Sun] Describes a `*cuspy* <../C/cuspy.html>`__ program;
+(alt.: wizzy) [Sun] Describes a `cuspy <../C/cuspy.html>`__ program;
 one that is feature-rich and well presented.
 
---------------
 
-+------------------------------+----------------------------+---------------------------------------+
-| `Prev <whitelist.html>`__    | `Up <../W.html>`__         |  `Next <Whorfian-mind-lock.html>`__   |
-+------------------------------+----------------------------+---------------------------------------+
-| whitelist                    | `Home <../index.html>`__   |  Whorfian mind-lock                   |
-+------------------------------+----------------------------+---------------------------------------+
 
 Whorfian mind-lock
+=====================
 
-`Prev <whizzy.html>`__ 
 
-W
-
- `Next <wibble.html>`__
-
---------------
 
 **Whorfian mind-lock**
 
@@ -1778,23 +1255,10 @@ virtual memory works poorly if at all. Detecting Whorfian mind-lock is
 important, because it tends to introduce unnecessary complexity and
 bugs.
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <whizzy.html>`__    | `Up <../W.html>`__         |  `Next <wibble.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| whizzy                    | `Home <../index.html>`__   |  wibble                   |
-+---------------------------+----------------------------+---------------------------+
-
 wibble
+=============
 
-`Prev <Whorfian-mind-lock.html>`__ 
 
-W
-
- `Next <WIBNI.html>`__
-
---------------
 
 **wibble**
 
@@ -1809,55 +1273,32 @@ other essentially meaningless contributions to threads in newsgroups.
 2. [UK IRC] An explicit on-line no-op.
 
 3. One of the preferred `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__\ s in the UK, forming a
+variables* <../M/metasyntactic-variable.html>`__ in the UK, forming a
 series with **wobble**, **wubble**, and **flob** (attributed to the
 hilarious historical comedy *Blackadder*).
 
 4. A pronunciation of the letters “www”, as seen in URLs; i.e.,
-www.\ `*foo* <../F/foo.html>`__.com may be pronounced “wibble dot foo
-dot com” (compare `*dub dub dub* <../D/dub-dub-dub.html>`__).
+www.`foo.com <../F/foo.html>`__ may be pronounced “wibble dot foo
+dot com” (compare `dub dub dub <../D/dub-dub-dub.html>`__).
 
---------------
 
-+---------------------------------------+----------------------------+--------------------------+
-| `Prev <Whorfian-mind-lock.html>`__    | `Up <../W.html>`__         |  `Next <WIBNI.html>`__   |
-+---------------------------------------+----------------------------+--------------------------+
-| Whorfian mind-lock                    | `Home <../index.html>`__   |  WIBNI                   |
-+---------------------------------------+----------------------------+--------------------------+
 
 WIBNI
+===========
 
-`Prev <wibble.html>`__ 
 
-W
-
- `Next <widget.html>`__
-
---------------
 
 **WIBNI**: //, n.
 
 [Bell Labs: Wouldn't It Be Nice If] What most requirements documents and
 specifications consist entirely of. Compare
-`*IWBNI* <../I/IWBNI.html>`__.
-
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <wibble.html>`__    | `Up <../W.html>`__         |  `Next <widget.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| wibble                    | `Home <../index.html>`__   |  widget                   |
-+---------------------------+----------------------------+---------------------------+
+`IWBNI <../I/IWBNI.html>`__.
 
 widget
+=========
 
-`Prev <WIBNI.html>`__ 
 
-W
 
- `Next <wiggles.html>`__
-
---------------
 
 **widget**: n.
 
@@ -1867,25 +1308,13 @@ were holders for buggy whips. “But suppose the parts list for a widget
 has 52 entries....”
 
 2. [poss.: evoking ‘window gadget’] A user interface object in
-`*X* <../X/X.html>`__ graphical user interfaces.
+`X <../X/X.html>`__ graphical user interfaces.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <WIBNI.html>`__    | `Up <../W.html>`__         |  `Next <wiggles.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| WIBNI                    | `Home <../index.html>`__   |  wiggles                   |
-+--------------------------+----------------------------+----------------------------+
 
 wiggles
+================
 
-`Prev <widget.html>`__ 
 
-W
-
- `Next <wild-side.html>`__
-
---------------
 
 **wiggles**: n.
 
@@ -1897,46 +1326,22 @@ unstable waveform, so it grows to dominate the solution. Alternatively,
 stable (though inaccurate) wiggles can be generated near a discontinuity
 by a Gibbs phenomenon.
 
---------------
-
-+---------------------------+----------------------------+------------------------------+
-| `Prev <widget.html>`__    | `Up <../W.html>`__         |  `Next <wild-side.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| widget                    | `Home <../index.html>`__   |  wild side                   |
-+---------------------------+----------------------------+------------------------------+
 
 wild side
+===========
 
-`Prev <wiggles.html>`__ 
 
-W
-
- `Next <WIMP-environment.html>`__
-
---------------
 
 **wild side**
 
-The public or uncontrolled side of a `*firewall
-machine* <../F/firewall-machine.html>`__.
+The public or uncontrolled side of a `firewall
+machine <../F/firewall-machine.html>`__.
 
---------------
 
-+----------------------------+----------------------------+-------------------------------------+
-| `Prev <wiggles.html>`__    | `Up <../W.html>`__         |  `Next <WIMP-environment.html>`__   |
-+----------------------------+----------------------------+-------------------------------------+
-| wiggles                    | `Home <../index.html>`__   |  WIMP environment                   |
-+----------------------------+----------------------------+-------------------------------------+
 
 WIMP environment
+======================
 
-`Prev <wild-side.html>`__ 
-
-W
-
- `Next <win.html>`__
-
---------------
 
 **WIMP environment**: n.
 
@@ -1946,49 +1351,25 @@ the Macintosh interface, esp. as described by a hacker who prefers
 command-line interfaces for their superior flexibility and
 extensibility. However, it is also used without negative connotations;
 one must pay attention to voice tone and other signals to interpret
-correctly. See `*menuitis* <../M/menuitis.html>`__,
-`*user-obsequious* <../U/user-obsequious.html>`__.
+correctly. See `menuitis <../M/menuitis.html>`__,
+`user-obsequious <../U/user-obsequious.html>`__.
 
---------------
-
-+------------------------------+----------------------------+------------------------+
-| `Prev <wild-side.html>`__    | `Up <../W.html>`__         |  `Next <win.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| wild side                    | `Home <../index.html>`__   |  win                   |
-+------------------------------+----------------------------+------------------------+
 
 win big
+========
 
-`Prev <win.html>`__ 
 
-W
 
- `Next <win-win.html>`__
-
---------------
 
 **win big**: vi.
 
 To experience serendipity. “I went shopping and won big; there was a
-2-for-1 sale.” See `*big win* <../B/big-win.html>`__.
-
---------------
-
-+------------------------+----------------------------+----------------------------+
-| `Prev <win.html>`__    | `Up <../W.html>`__         |  `Next <win-win.html>`__   |
-+------------------------+----------------------------+----------------------------+
-| win                    | `Home <../index.html>`__   |  win win                   |
-+------------------------+----------------------------+----------------------------+
+2-for-1 sale.” See `big win <../B/big-win.html>`__.
 
 Winchester
+==============
 
-`Prev <win-win.html>`__ 
 
-W
-
- `Next <windoid.html>`__
-
---------------
 
 **Winchester**: n.
 
@@ -2002,51 +1383,29 @@ latter, the first 30 referred to caliber and the second to the grain
 weight of the charge). (It is sometimes incorrectly claimed that
 Winchester was the laboratory in which the technology was developed.)
 
---------------
 
-+----------------------------+----------------------------+----------------------------+
-| `Prev <win-win.html>`__    | `Up <../W.html>`__         |  `Next <windoid.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| win win                    | `Home <../index.html>`__   |  windoid                   |
-+----------------------------+----------------------------+----------------------------+
 
 windoid
+=============
 
-`Prev <Winchester.html>`__ 
 
-W
-
- `Next <window-shopping.html>`__
-
---------------
 
 **windoid**: n.
 
 In the Macintosh world, a style of window with much less adornment
 (smaller or missing title bar, zoom box, etc.) than a standard window.
 
---------------
 
-+-------------------------------+----------------------------+------------------------------------+
-| `Prev <Winchester.html>`__    | `Up <../W.html>`__         |  `Next <window-shopping.html>`__   |
-+-------------------------------+----------------------------+------------------------------------+
-| Winchester                    | `Home <../index.html>`__   |  window shopping                   |
-+-------------------------------+----------------------------+------------------------------------+
 
 window shopping
+=====================================
 
-`Prev <windoid.html>`__ 
 
-W
-
- `Next <Windowsitis.html>`__
-
---------------
 
 **window shopping**: n.
 
-[US Geological Survey] Among users of `*WIMP
-environment* <WIMP-environment.html>`__\ s like `*X* <../X/X.html>`__ or
+[US Geological Survey] Among users of `WIMP
+environments <WIMP-environment.html>`__ like `X <../X/X.html>`__ or
 the Macintosh, extended experimentation with new window colors, fonts,
 and icon shapes. This activity can take up hours of what might otherwise
 have been productive working time. “I spent the afternoon window
@@ -2055,26 +1414,15 @@ borders — now they perfectly match my medium slate blue background.”
 Serious window shoppers will spend their days with bitmap editors,
 creating new and different icons and background patterns for all to see.
 Also: window dressing, the act of applying new fonts, colors, etc. See
-`*fritterware* <../F/fritterware.html>`__, compare
-`*macdink* <../M/macdink.html>`__.
+`fritterware <../F/fritterware.html>`__, compare
+`macdink <../M/macdink.html>`__.
 
---------------
 
-+----------------------------+----------------------------+--------------------------------+
-| `Prev <windoid.html>`__    | `Up <../W.html>`__         |  `Next <Windowsitis.html>`__   |
-+----------------------------+----------------------------+--------------------------------+
-| windoid                    | `Home <../index.html>`__   |  Windowsitis                   |
-+----------------------------+----------------------------+--------------------------------+
 
 Windowsitis
+================
 
-`Prev <window-shopping.html>`__ 
 
-W
-
- `Next <Windoze.html>`__
-
---------------
 
 **Windowsitis**
 
@@ -2085,114 +1433,62 @@ rather than the correct forward slashes.
 2. As a disease of programs: to be a rigid, clunky, bug-prone
 monstrosity, all glossy surface with a hollow interior.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <window-shopping.html>`__    | `Up <../W.html>`__         |  `Next <Windoze.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| window shopping                    | `Home <../index.html>`__   |  Windoze                   |
-+------------------------------------+----------------------------+----------------------------+
-
 Windoze
+=========
 
-`Prev <Windowsitis.html>`__ 
 
-W
 
- `Next <winged-comments.html>`__
-
---------------
 
 **Windoze**: /win´dohz/, n.
 
-See `*Microsloth Windows* <../M/Microsloth-Windows.html>`__. (Also
+See `Microsloth Windows <../M/Microsloth-Windows.html>`__. (Also
 Losedoze.)
 
---------------
-
-+--------------------------------+----------------------------+------------------------------------+
-| `Prev <Windowsitis.html>`__    | `Up <../W.html>`__         |  `Next <winged-comments.html>`__   |
-+--------------------------------+----------------------------+------------------------------------+
-| Windowsitis                    | `Home <../index.html>`__   |  winged comments                   |
-+--------------------------------+----------------------------+------------------------------------+
-
 winged comments
-
-`Prev <Windoze.html>`__ 
-
-W
-
- `Next <winkey.html>`__
-
---------------
+==================
 
 **winged comments**: n.
 
-Comments set on the same line as code, as opposed to `*boxed
-comments* <../B/boxed-comments.html>`__. In C, for example:
+Comments set on the same line as code, as opposed to *boxed
+comments <../B/boxed-comments.html>`__. In C, for example:
 
 | 
-|  d = sqrt(x\*x + y\*y);  /\* distance from origin \*/
+|  d = sqrt(x\*x + y\*y);  /\* distance from origin \*/
 
 Generally these refer only to the action(s) taken on that line.
 
 |image0|
 
-(The next cartoon in the Crunchly saga is
-`75-10-04 <../B/bit-bucket.html#crunchly75-10-04>`__. The previous
-cartoon was `74-12-25 <../N/number-crunching.html#crunchly74-12-25>`__.)
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <Windoze.html>`__    | `Up <../W.html>`__         |  `Next <winkey.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| Windoze                    | `Home <../index.html>`__   |  winkey                   |
-+----------------------------+----------------------------+---------------------------+
+-------------------------+----------------------------+---------------------------+
 
 .. |image0| image:: ../graphics/74-12-29.png
+
 win
+========
 
-`Prev <WIMP-environment.html>`__ 
-
-W
-
- `Next <win-big.html>`__
-
---------------
 
 **win**
 
 [MIT; now common everywhere]
 
 1. vi. To succeed. A program wins if no unexpected conditions arise, or
-(especially) if it is sufficiently `*robust* <../R/robust.html>`__ to
+(especially) if it is sufficiently `robust <../R/robust.html>`__ to
 take exceptions in stride.
 
 2. n. Success, or a specific instance thereof. A pleasing outcome. “So
-it turned out I could use a `*lexer* <../L/lexer.html>`__ generator
+it turned out I could use a `lexer <../L/lexer.html>`__ generator
 instead of hand-coding my own pattern recognizer. What a win!” Emphatic
 forms: moby win, super win, hyper-win (often used interjectively as a
 reply). For some reason suitable win is also common at MIT, usually in
 reference to a satisfactory solution to a problem. Oppose
-`*lose* <../L/lose.html>`__; see also `*big win* <../B/big-win.html>`__,
+`lose <../L/lose.html>`__; see also `big win <../B/big-win.html>`__,
 which isn't quite just an intensification of win.
 
---------------
 
-+-------------------------------------+----------------------------+----------------------------+
-| `Prev <WIMP-environment.html>`__    | `Up <../W.html>`__         |  `Next <win-big.html>`__   |
-+-------------------------------------+----------------------------+----------------------------+
-| WIMP environment                    | `Home <../index.html>`__   |  win big                   |
-+-------------------------------------+----------------------------+----------------------------+
 
 winkey
-
-`Prev <winged-comments.html>`__ 
-
-W
-
- `Next <winnage.html>`__
+===========
 
 --------------
 
@@ -2200,98 +1496,48 @@ W
 
 (alt.: winkey face) See `*emoticon* <../E/emoticon.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <winged-comments.html>`__    | `Up <../W.html>`__         |  `Next <winnage.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| winged comments                    | `Home <../index.html>`__   |  winnage                   |
-+------------------------------------+----------------------------+----------------------------+
 
 winnage
+==============
 
-`Prev <winkey.html>`__ 
-
-W
-
- `Next <winner.html>`__
-
---------------
 
 **winnage**: /win'@j/, n.
 
 The situation when a lossage is corrected, or when something is winning.
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <winkey.html>`__    | `Up <../W.html>`__         |  `Next <winner.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| winkey                    | `Home <../index.html>`__   |  winner                   |
-+---------------------------+----------------------------+---------------------------+
-
 winner
+=============
 
-`Prev <winnage.html>`__ 
 
-W
-
- `Next <winnitude.html>`__
-
---------------
 
 **winner**
 
 1. n. An unexpectedly good situation, program, programmer, or person.
 
 2. real winner: Often sarcastic, but also used as high praise (see also
-the note under `*user* <../U/user.html>`__). “He's a real winner — never
+the note under `user <../U/user.html>`__). “He's a real winner — never
 reports a bug till he can duplicate it and send in an example.”
 
---------------
 
-+----------------------------+----------------------------+------------------------------+
-| `Prev <winnage.html>`__    | `Up <../W.html>`__         |  `Next <winnitude.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| winnage                    | `Home <../index.html>`__   |  winnitude                   |
-+----------------------------+----------------------------+------------------------------+
 
 winnitude
+============
 
-`Prev <winner.html>`__ 
-
-W
-
- `Next <Wintel.html>`__
-
---------------
 
 **winnitude**: /win'@·t[y]ood/, n.
 
-The quality of winning (as opposed to `*winnage* <winnage.html>`__,
+The quality of winning (as opposed to `winnage <winnage.html>`__,
 which is the result of winning). “Guess what? They tweaked the microcode
 and now the LISP interpreter runs twice as fast as it used to.” “That's
 really great! Boy, what winnitude!” “Yup. I'll probably get a
 half-hour's winnage on the next run of my program.” Perhaps curiously,
 the obvious antonym ‘lossitude’ is rare.
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <winner.html>`__    | `Up <../W.html>`__         |  `Next <Wintel.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| winner                    | `Home <../index.html>`__   |  Wintel                   |
-+---------------------------+----------------------------+---------------------------+
 
 Wintel
+=========
 
-`Prev <winnitude.html>`__ 
 
-W
-
- `Next <Wintendo.html>`__
-
---------------
 
 **Wintel**: n.
 
@@ -2299,92 +1545,47 @@ Microsoft Windows plus Intel — the tacit alliance that dominated desktop
 computing in the 1990s. After 1999 it began to break up under pressure
 from `*Linux* <../L/Linux.html>`__; see `*Lintel* <../L/Lintel.html>`__.
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <winnitude.html>`__    | `Up <../W.html>`__         |  `Next <Wintendo.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| winnitude                    | `Home <../index.html>`__   |  Wintendo                   |
-+------------------------------+----------------------------+-----------------------------+
 
 Wintendo
+===========
 
-`Prev <Wintel.html>`__ 
 
-W
-
- `Next <wired.html>`__
-
---------------
 
 **Wintendo**: /win·ten´doh/, n.
 
 [Play on “Nintendo”] A PC running the Windows operating system kept
 primarily for the purpose of viewing multimedia and playing games. The
-implication is that the speaker uses a Linux or \*BSD box for everything
+implication is that the speaker uses a Linux or *BSD box for everything
 else.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <Wintel.html>`__    | `Up <../W.html>`__         |  `Next <wired.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| Wintel                    | `Home <../index.html>`__   |  wired                   |
-+---------------------------+----------------------------+--------------------------+
 
 win win
 
-`Prev <win-big.html>`__ 
 
-W
-
- `Next <Winchester.html>`__
-
---------------
 
 **win win**: excl.
 
-Expresses pleasure at a `*win* <win.html>`__.
+Expresses pleasure at a `win <win.html>`__.
 
---------------
 
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <win-big.html>`__    | `Up <../W.html>`__         |  `Next <Winchester.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| win big                    | `Home <../index.html>`__   |  Winchester                   |
-+----------------------------+----------------------------+-------------------------------+
+
 
 wired
+===============
 
-`Prev <Wintendo.html>`__ 
 
-W
-
- `Next <wirehead.html>`__
-
---------------
 
 **wired**: n.
 
-See `*hardwired* <../H/hardwired.html>`__.
+See `hardwired <../H/hardwired.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+-----------------------------+
-| `Prev <Wintendo.html>`__    | `Up <../W.html>`__         |  `Next <wirehead.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
-| Wintendo                    | `Home <../index.html>`__   |  wirehead                   |
-+-----------------------------+----------------------------+-----------------------------+
 
 wirehead
+==============
 
-`Prev <wired.html>`__ 
 
-W
-
- `Next <wirewater.html>`__
-
---------------
 
 **wirehead**: /wi:r´hed/, n.
 
@@ -2399,48 +1600,25 @@ network hardware, down to the smallest component. Wireheads are known
 for their ability to lash up an Ethernet terminator from spare
 resistors, for example.
 
---------------
 
-+--------------------------+----------------------------+------------------------------+
-| `Prev <wired.html>`__    | `Up <../W.html>`__         |  `Next <wirewater.html>`__   |
-+--------------------------+----------------------------+------------------------------+
-| wired                    | `Home <../index.html>`__   |  wirewater                   |
-+--------------------------+----------------------------+------------------------------+
 
 wirewater
+===========
 
-`Prev <wirehead.html>`__ 
 
-W
-
- `Next <wish-list.html>`__
-
---------------
 
 **wirewater**: n.
 
-Syn. `*programming fluid* <../P/programming-fluid.html>`__. This melds
+Syn. `programming fluid <../P/programming-fluid.html>`__. This melds
 the mainstream slang adjective ‘wired’ (stimulated, up, hyperactive)
 with ‘firewater’; however, it refers to caffeinacious rather than
 alcoholic beverages.
 
---------------
-
-+-----------------------------+----------------------------+------------------------------+
-| `Prev <wirehead.html>`__    | `Up <../W.html>`__         |  `Next <wish-list.html>`__   |
-+-----------------------------+----------------------------+------------------------------+
-| wirehead                    | `Home <../index.html>`__   |  wish list                   |
-+-----------------------------+----------------------------+------------------------------+
 
 wish list
+=============
 
-`Prev <wirewater.html>`__ 
 
-W
-
- `Next <within-delta-of.html>`__
-
---------------
 
 **wish list**: n.
 
@@ -2448,69 +1626,37 @@ A list of desired features or bug fixes that probably won't get done for
 a long time, usually because the person responsible for the code is too
 busy or can't think of a clean way to do it. “OK, I'll add automatic
 filename completion to the wish list for the new interface.” Compare
-`*tick-list features* <../T/tick-list-features.html>`__.
+`tick-list features <../T/tick-list-features.html>`__.
 
---------------
 
-+------------------------------+----------------------------+------------------------------------+
-| `Prev <wirewater.html>`__    | `Up <../W.html>`__         |  `Next <within-delta-of.html>`__   |
-+------------------------------+----------------------------+------------------------------------+
-| wirewater                    | `Home <../index.html>`__   |  within delta of                   |
-+------------------------------+----------------------------+------------------------------------+
+
+
 
 within delta of
+=================
 
-`Prev <wish-list.html>`__ 
 
-W
-
- `Next <within-epsilon-of.html>`__
-
---------------
 
 **within delta of**: adj.
 
-See `*delta* <../D/delta.html>`__.
+See `delta <../D/delta.html>`__.
 
---------------
-
-+------------------------------+----------------------------+--------------------------------------+
-| `Prev <wish-list.html>`__    | `Up <../W.html>`__         |  `Next <within-epsilon-of.html>`__   |
-+------------------------------+----------------------------+--------------------------------------+
-| wish list                    | `Home <../index.html>`__   |  within epsilon of                   |
-+------------------------------+----------------------------+--------------------------------------+
 
 within epsilon of
-
-`Prev <within-delta-of.html>`__ 
-
-W
-
- `Next <wizard.html>`__
+=====================
 
 --------------
 
 **within epsilon of**: adj.
 
-See `*epsilon* <../E/epsilon.html>`__.
+See `epsilon <../E/epsilon.html>`__.
 
---------------
 
-+------------------------------------+----------------------------+---------------------------+
-| `Prev <within-delta-of.html>`__    | `Up <../W.html>`__         |  `Next <wizard.html>`__   |
-+------------------------------------+----------------------------+---------------------------+
-| within delta of                    | `Home <../index.html>`__   |  wizard                   |
-+------------------------------------+----------------------------+---------------------------+
 
 Wizard Book
+============
 
-`Prev <wizard.html>`__ 
 
-W
-
- `Next <wizard-hat.html>`__
-
---------------
 
 **Wizard Book**: n.
 
@@ -2518,64 +1664,43 @@ W
 Sussman and Julie Sussman; MIT Press, 1984, 1996; ISBN 0-262-01153-0),
 an excellent computer science text used in introductory courses at MIT.
 So called because of the wizard on the jacket. One of the
-`*bible* <../B/bible.html>`__\ s of the LISP/Scheme world. Also, less
-commonly, known as the `*Purple Book* <../P/Purple-Book.html>`__. Now
-available on the
-`http://mitpress.mit.edu/sicp/ <http://mitpress.mit.edu/sicp/>`__
+`bibles <../B/bible.html>`__ of the LISP/Scheme world. Also, less
+commonly, known as the `Purple Book <../P/Purple-Book.html>`__. Now
+available on the `http://mitpress.mit.edu/sicp/ <http://mitpress.mit.edu/sicp/>`__
 
---------------
 
-+---------------------------+----------------------------+-------------------------------+
-| `Prev <wizard.html>`__    | `Up <../W.html>`__         |  `Next <wizard-hat.html>`__   |
-+---------------------------+----------------------------+-------------------------------+
-| wizard                    | `Home <../index.html>`__   |  wizard hat                   |
-+---------------------------+----------------------------+-------------------------------+
+
 
 wizard hat
+==============
 
-`Prev <Wizard-Book.html>`__ 
-
-W
-
- `Next <wizard-mode.html>`__
-
---------------
 
 **wizard hat**: n.
 
 [also, after Terry Pratchett, pointy hat] Notional headgear worn by
-whoever is the `*wizard* <wizard.html>`__ in a particular context. The
+whoever is the `wizard <wizard.html>`__ in a particular context. The
 implication is that it's a transferable role. “Talk to Alice, she's
 wearing the TCP/IP wizard hat while Bob is on vacation.” This metaphor
 is sufficiently live that one may actually see hackers miming the act of
-putting on, taking off, or transferring a phantom hat. See also `*pointy
-hat* <../P/pointy-hat.html>`__, compare `*patch
-pumpkin* <../P/patch-pumpkin.html>`__.
+putting on, taking off, or transferring a phantom hat. See also `pointy
+hat <../P/pointy-hat.html>`__, compare `patch
+pumpkin <../P/patch-pumpkin.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <Wizard-Book.html>`__    | `Up <../W.html>`__         |  `Next <wizard-mode.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| Wizard Book                    | `Home <../index.html>`__   |  wizard mode                   |
-+--------------------------------+----------------------------+--------------------------------+
 
 wizard
+============
 
-`Prev <within-epsilon-of.html>`__ 
 
-W
 
- `Next <Wizard-Book.html>`__
 
---------------
 
 **wizard**: n.
 
 1. Transitively, a person who knows how a complex piece of software or
-hardware works (that is, who `*grok* <../G/grok.html>`__\ s it); esp.
+hardware works (that is, who `groks <../G/grok.html>`__ it); esp.
 someone who can find and fix bugs quickly in an emergency. Someone is a
-`*hacker* <../H/hacker.html>`__ if he or she has general hacking
+`hacker <../H/hacker.html>`__ if he or she has general hacking
 ability, but is a wizard with respect to something only if he or she has
 specific detailed knowledge of that thing. A good hacker could become a
 wizard for something given the time to study it.
@@ -2584,62 +1709,36 @@ wizard for something given the time to study it.
 extremely high-level hacking or problem-solving ability.
 
 3. A person who is permitted to do things forbidden to ordinary people;
-one who has `*wheel* <wheel.html>`__ privileges on a system.
+one who has `wheel <wheel.html>`__ privileges on a system.
 
 4. A Unix expert, esp. a Unix systems programmer. This usage is well
 enough established that ‘Unix Wizard’ is a recognized job title at some
 corporations and to most headhunters.
 
-See `*guru* <../G/guru.html>`__, `*lord high
-fixer* <../L/lord-high-fixer.html>`__. See also `*deep
-magic* <../D/deep-magic.html>`__, `*heavy
-wizardry* <../H/heavy-wizardry.html>`__,
-`*incantation* <../I/incantation.html>`__,
-`*magic* <../M/magic.html>`__, `*mutter* <../M/mutter.html>`__, `*rain
-dance* <../R/rain-dance.html>`__, `*voodoo
-programming* <../V/voodoo-programming.html>`__, `*wave a dead
-chicken* <wave-a-dead-chicken.html>`__.
+See `guru <../G/guru.html>`__, `lord high fixer <../L/lord-high-fixer.html>`__. See also `deep
+magic <../D/deep-magic.html>`__, `heavy
+wizardry <../H/heavy-wizardry.html>`__,
+`incantation <../I/incantation.html>`__,
+`magic <../M/magic.html>`__, `mutter <../M/mutter.html>`__, `rain
+dance <../R/rain-dance.html>`__, `voodoo
+programming <../V/voodoo-programming.html>`__, `wave a dead
+chicken <wave-a-dead-chicken.html>`__.
 
---------------
-
-+--------------------------------------+----------------------------+--------------------------------+
-| `Prev <within-epsilon-of.html>`__    | `Up <../W.html>`__         |  `Next <Wizard-Book.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------+
-| within epsilon of                    | `Home <../index.html>`__   |  Wizard Book                   |
-+--------------------------------------+----------------------------+--------------------------------+
 
 wizardly
+============
 
-`Prev <wizard-mode.html>`__ 
-
-W
-
- `Next <wok-on-the-wall.html>`__
-
---------------
 
 **wizardly**: adj.
 
-Pertaining to wizards. A wizardly `*feature* <../F/feature.html>`__ is
+Pertaining to wizards. A wizardly `feature <../F/feature.html>`__ is
 one that only a wizard could understand or use properly.
 
---------------
 
-+--------------------------------+----------------------------+------------------------------------+
-| `Prev <wizard-mode.html>`__    | `Up <../W.html>`__         |  `Next <wok-on-the-wall.html>`__   |
-+--------------------------------+----------------------------+------------------------------------+
-| wizard mode                    | `Home <../index.html>`__   |  wok-on-the-wall                   |
-+--------------------------------+----------------------------+------------------------------------+
 
 wizard mode
+==============
 
-`Prev <wizard-hat.html>`__ 
-
-W
-
- `Next <wizardly.html>`__
-
---------------
 
 **wizard mode**: n.
 
@@ -2649,21 +1748,11 @@ privileges. Generally not used for operating systems themselves (root
 mode or wheel mode would be used instead). This term is often used with
 respect to games that have editable state.
 
---------------
 
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <wizard-hat.html>`__    | `Up <../W.html>`__         |  `Next <wizardly.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| wizard hat                    | `Home <../index.html>`__   |  wizardly                   |
-+-------------------------------+----------------------------+-----------------------------+
+
 
 wok-on-the-wall
-
-`Prev <wizardly.html>`__ 
-
-W
-
- `Next <womb-box.html>`__
+==================
 
 --------------
 
@@ -2673,57 +1762,33 @@ A small microwave dish antenna used for cross-campus private network
 circuits, from the obvious resemblance between a microwave dish and the
 Chinese culinary utensil.
 
---------------
-
-+-----------------------------+----------------------------+-----------------------------+
-| `Prev <wizardly.html>`__    | `Up <../W.html>`__         |  `Next <womb-box.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
-| wizardly                    | `Home <../index.html>`__   |  womb box                   |
-+-----------------------------+----------------------------+-----------------------------+
 
 WOMBAT
+========
 
-`Prev <womb-box.html>`__ 
 
-W
-
- `Next <womble.html>`__
-
---------------
 
 **WOMBAT**: /wom´bat/, adj.
 
 [acronym: Waste Of Money, Brains, And Time] Applied to problems which
-are both profoundly `*uninteresting* <../U/uninteresting.html>`__ in
+are both profoundly `uninteresting <../U/uninteresting.html>`__ in
 themselves and unlikely to benefit anyone interesting even if solved.
 Often used in fanciful constructions such as wrestling with a wombat.
-See also `*crawling horror* <../C/crawling-horror.html>`__,
-`*SMOP* <../S/SMOP.html>`__. Also note the rather different usage as a
-metasyntactic variable in `*Commonwealth
-Hackish* <../C/Commonwealth-Hackish.html>`__.
+See also `crawling horror <../C/crawling-horror.html>`__,
+`SMOP <../S/SMOP.html>`__. Also note the rather different usage as a
+metasyntactic variable in `Commonwealth
+Hackish <../C/Commonwealth-Hackish.html>`__.
 
-Users of the `*PDP-11* <../P/PDP-11.html>`__ database program DATATRIEVE
+Users of the `PDP-11 <../P/PDP-11.html>`__ database program DATATRIEVE
 adopted the wombat as their notional mascot; the program's help file
 responded to “HELP WOMBAT” with factual information about Real World
 wombats.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <womb-box.html>`__    | `Up <../W.html>`__         |  `Next <womble.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| womb box                    | `Home <../index.html>`__   |  womble                   |
-+-----------------------------+----------------------------+---------------------------+
 
 womb box
+==================
 
-`Prev <wok-on-the-wall.html>`__ 
 
-W
-
- `Next <WOMBAT.html>`__
-
---------------
 
 **womb box**: n.
 
@@ -2734,23 +1799,9 @@ padding and/or shaped carrier cutouts in a foam-rubber matrix; mundanely
 called a flight case. Used for delicate test equipment, electronics, and
 musical instruments.
 
---------------
-
-+------------------------------------+----------------------------+---------------------------+
-| `Prev <wok-on-the-wall.html>`__    | `Up <../W.html>`__         |  `Next <WOMBAT.html>`__   |
-+------------------------------------+----------------------------+---------------------------+
-| wok-on-the-wall                    | `Home <../index.html>`__   |  WOMBAT                   |
-+------------------------------------+----------------------------+---------------------------+
 
 womble
-
-`Prev <WOMBAT.html>`__ 
-
-W
-
- `Next <wonky.html>`__
-
---------------
+=========
 
 **womble**: n.
 
@@ -2760,23 +1811,10 @@ resulting software. Extreme case of `*luser* <../L/luser.html>`__. An
 especially senior or high-ranking womble is referred to as Great-Uncle
 Bulgaria. Compare `*Aunt Tillie* <../A/Aunt-Tillie.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <WOMBAT.html>`__    | `Up <../W.html>`__         |  `Next <wonky.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| WOMBAT                    | `Home <../index.html>`__   |  wonky                   |
-+---------------------------+----------------------------+--------------------------+
-
 wonky
+===========
 
-`Prev <womble.html>`__ 
 
-W
-
- `Next <workaround.html>`__
-
---------------
 
 **wonky**: /wong´kee/, adj.
 
@@ -2788,23 +1826,12 @@ listings came out in Tengwar.” Also in wonked out. See
 `*funky* <../F/funky.html>`__, `*demented* <../D/demented.html>`__,
 `*bozotic* <../B/bozotic.html>`__.
 
---------------
 
-+---------------------------+----------------------------+-------------------------------+
-| `Prev <womble.html>`__    | `Up <../W.html>`__         |  `Next <workaround.html>`__   |
-+---------------------------+----------------------------+-------------------------------+
-| womble                    | `Home <../index.html>`__   |  workaround                   |
-+---------------------------+----------------------------+-------------------------------+
 
 workaround
+===============
 
-`Prev <wonky.html>`__ 
 
-W
-
- `Next <working-as-designed.html>`__
-
---------------
 
 **workaround**: n.
 
@@ -2823,21 +1850,15 @@ META-F7 `*crash* <../C/crash.html>`__\ es the 4.43 build of Weemax, but
 as a workaround you can type CTRL-R, then SHIFT-F5, and delete the
 remaining `*cruft* <../C/cruft.html>`__ by hand.”
 
---------------
-
-+--------------------------+----------------------------+----------------------------------------+
-| `Prev <wonky.html>`__    | `Up <../W.html>`__         |  `Next <working-as-designed.html>`__   |
-+--------------------------+----------------------------+----------------------------------------+
-| wonky                    | `Home <../index.html>`__   |  working as designed                   |
-+--------------------------+----------------------------+----------------------------------------+
 
 working as designed
+==========================
 
-`Prev <workaround.html>`__ 
+`Prev <workaround.html>`__ 
 
 W
 
- `Next <worm.html>`__
+ `Next <worm.html>`__
 
 --------------
 
@@ -2857,18 +1878,19 @@ used in official documents! See `*BAD* <../B/BAD.html>`__.
 --------------
 
 +-------------------------------+----------------------------+-------------------------+
-| `Prev <workaround.html>`__    | `Up <../W.html>`__         |  `Next <worm.html>`__   |
+| `Prev <workaround.html>`__    | `Up <../W.html>`__         |  `Next <worm.html>`__   |
 +-------------------------------+----------------------------+-------------------------+
-| workaround                    | `Home <../index.html>`__   |  worm                   |
+| workaround                    | `Home <../index.html>`__   |  worm                   |
 +-------------------------------+----------------------------+-------------------------+
 
 wormhole
+==================
 
-`Prev <worm.html>`__ 
+`Prev <worm.html>`__ 
 
 W
 
- `Next <wound-around-the-axle.html>`__
+ `Next <wound-around-the-axle.html>`__
 
 --------------
 
@@ -2895,18 +1917,19 @@ hole* <../G/gopher-hole.html>`__ (sense 2).
 --------------
 
 +-------------------------+----------------------------+------------------------------------------+
-| `Prev <worm.html>`__    | `Up <../W.html>`__         |  `Next <wound-around-the-axle.html>`__   |
+| `Prev <worm.html>`__    | `Up <../W.html>`__         |  `Next <wound-around-the-axle.html>`__   |
 +-------------------------+----------------------------+------------------------------------------+
-| worm                    | `Home <../index.html>`__   |  wound around the axle                   |
+| worm                    | `Home <../index.html>`__   |  wound around the axle                   |
 +-------------------------+----------------------------+------------------------------------------+
 
 worm
+=============
 
-`Prev <working-as-designed.html>`__ 
+`Prev <working-as-designed.html>`__ 
 
 W
 
- `Next <wormhole.html>`__
+ `Next <wormhole.html>`__
 
 --------------
 
@@ -2926,18 +1949,19 @@ horse* <../T/Trojan-horse.html>`__, `*ice* <../I/ice.html>`__.
 --------------
 
 +----------------------------------------+----------------------------+-----------------------------+
-| `Prev <working-as-designed.html>`__    | `Up <../W.html>`__         |  `Next <wormhole.html>`__   |
+| `Prev <working-as-designed.html>`__    | `Up <../W.html>`__         |  `Next <wormhole.html>`__   |
 +----------------------------------------+----------------------------+-----------------------------+
-| working as designed                    | `Home <../index.html>`__   |  wormhole                   |
+| working as designed                    | `Home <../index.html>`__   |  wormhole                   |
 +----------------------------------------+----------------------------+-----------------------------+
 
 wound around the axle
+========================
 
-`Prev <wormhole.html>`__ 
+`Prev <wormhole.html>`__ 
 
 W
 
- `Next <wrap-around.html>`__
+ `Next <wrap-around.html>`__
 
 --------------
 
@@ -2948,18 +1972,19 @@ In an infinite loop. Often used by older computer types.
 --------------
 
 +-----------------------------+----------------------------+--------------------------------+
-| `Prev <wormhole.html>`__    | `Up <../W.html>`__         |  `Next <wrap-around.html>`__   |
+| `Prev <wormhole.html>`__    | `Up <../W.html>`__         |  `Next <wrap-around.html>`__   |
 +-----------------------------+----------------------------+--------------------------------+
-| wormhole                    | `Home <../index.html>`__   |  wrap around                   |
+| wormhole                    | `Home <../index.html>`__   |  wrap around                   |
 +-----------------------------+----------------------------+--------------------------------+
 
 wrap around
+================
 
-`Prev <wound-around-the-axle.html>`__ 
+`Prev <wound-around-the-axle.html>`__ 
 
 W
 
- `Next <write-only-code.html>`__
+ `Next <write-only-code.html>`__
 
 --------------
 
@@ -2982,18 +2007,19 @@ sleeping at the rate of 10 microhertz). This sense is also called
 --------------
 
 +------------------------------------------+----------------------------+------------------------------------+
-| `Prev <wound-around-the-axle.html>`__    | `Up <../W.html>`__         |  `Next <write-only-code.html>`__   |
+| `Prev <wound-around-the-axle.html>`__    | `Up <../W.html>`__         |  `Next <write-only-code.html>`__   |
 +------------------------------------------+----------------------------+------------------------------------+
-| wound around the axle                    | `Home <../index.html>`__   |  write-only code                   |
+| wound around the axle                    | `Home <../index.html>`__   |  write-only code                   |
 +------------------------------------------+----------------------------+------------------------------------+
 
 write-only code
+==================
 
-`Prev <wrap-around.html>`__ 
+`Prev <wrap-around.html>`__ 
 
 W
 
- `Next <write-only-language.html>`__
+ `Next <write-only-language.html>`__
 
 --------------
 
@@ -3007,18 +2033,19 @@ Thing* <../B/Bad-Thing.html>`__.
 --------------
 
 +--------------------------------+----------------------------+----------------------------------------+
-| `Prev <wrap-around.html>`__    | `Up <../W.html>`__         |  `Next <write-only-language.html>`__   |
+| `Prev <wrap-around.html>`__    | `Up <../W.html>`__         |  `Next <write-only-language.html>`__   |
 +--------------------------------+----------------------------+----------------------------------------+
-| wrap around                    | `Home <../index.html>`__   |  write-only language                   |
+| wrap around                    | `Home <../index.html>`__   |  write-only language                   |
 +--------------------------------+----------------------------+----------------------------------------+
 
 write-only language
+=======================
 
-`Prev <write-only-code.html>`__ 
+`Prev <write-only-code.html>`__ 
 
 W
 
- `Next <write-only-memory.html>`__
+ `Next <write-only-memory.html>`__
 
 --------------
 
@@ -3031,23 +2058,11 @@ and often to APL, though `*INTERCAL* <../I/INTERCAL.html>`__ and
 `*TECO* <../T/TECO.html>`__ certainly deserve it more. See also
 `*Befunge* <../B/Befunge.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+--------------------------------------+
-| `Prev <write-only-code.html>`__    | `Up <../W.html>`__         |  `Next <write-only-memory.html>`__   |
-+------------------------------------+----------------------------+--------------------------------------+
-| write-only code                    | `Home <../index.html>`__   |  write-only memory                   |
-+------------------------------------+----------------------------+--------------------------------------+
 
 write-only memory
+==================
 
-`Prev <write-only-language.html>`__ 
 
-W
-
- `Next <Wrong-Thing.html>`__
-
---------------
 
 **write-only memory**: n.
 
@@ -3069,50 +2084,29 @@ Vff”, “Number of pins remaining vs.: number of socket insertions”, and
 “AQL vs.: selling price”. The 25120 required a 6.3 VAC VFF supply, a
 +10V VCC, and VDD of 0V, ``±2%``.
 
---------------
-
-+----------------------------------------+----------------------------+--------------------------------+
-| `Prev <write-only-language.html>`__    | `Up <../W.html>`__         |  `Next <Wrong-Thing.html>`__   |
-+----------------------------------------+----------------------------+--------------------------------+
-| write-only language                    | `Home <../index.html>`__   |  Wrong Thing                   |
-+----------------------------------------+----------------------------+--------------------------------+
 
 Wrong Thing
+===============
 
-`Prev <write-only-memory.html>`__ 
-
-W
-
- `Next <wugga-wugga.html>`__
-
---------------
 
 **Wrong Thing**: n.
 
 A design, action, or decision that is clearly incorrect or
 inappropriate. Often capitalized; always emphasized in speech as if
-capitalized. The opposite of the `*Right
-Thing* <../R/Right-Thing.html>`__; more generally, anything that is not
-the Right Thing. In cases where ‘the good is the enemy of the best’, the
+capitalized. The opposite of the `Right Thing <../R/Right-Thing.html>`__; more generally, anything that is not the Right Thing. In cases where ‘the good is the enemy of the best’, the
 merely good — although good — is nevertheless the Wrong Thing. “In C,
 the default is for module-level declarations to be visible everywhere,
 rather than just within the module. This is clearly the Wrong Thing.”
 
---------------
-
-+--------------------------------------+----------------------------+--------------------------------+
-| `Prev <write-only-memory.html>`__    | `Up <../W.html>`__         |  `Next <wugga-wugga.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------+
-| write-only memory                    | `Home <../index.html>`__   |  wugga wugga                   |
-+--------------------------------------+----------------------------+--------------------------------+
 
 wugga wugga
+=================
 
-`Prev <Wrong-Thing.html>`__ 
+`Prev <Wrong-Thing.html>`__ 
 
 W
 
- `Next <wumpus.html>`__
+ `Next <wumpus.html>`__
 
 --------------
 
@@ -3121,21 +2115,15 @@ W
 Imaginary sound that a computer program makes as it labors with a
 tedious or difficult task.\ `*grind* <../G/grind.html>`__ (sense 4).
 
---------------
-
-+--------------------------------+----------------------------+---------------------------+
-| `Prev <Wrong-Thing.html>`__    | `Up <../W.html>`__         |  `Next <wumpus.html>`__   |
-+--------------------------------+----------------------------+---------------------------+
-| Wrong Thing                    | `Home <../index.html>`__   |  wumpus                   |
-+--------------------------------+----------------------------+---------------------------+
 
 wumpus
+=================
 
-`Prev <wugga-wugga.html>`__ 
+`Prev <wugga-wugga.html>`__ 
 
 W
 
- `Next <WYSIAYG.html>`__
+ `Next <WYSIAYG.html>`__
 
 --------------
 
@@ -3167,21 +2155,15 @@ including a super-bat colony). A C emulation of the original Basic game
 is available at the Retrocomputing Museum,
 `http://www.catb.org/retro/ <http://www.catb.org/retro/>`__.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <wugga-wugga.html>`__    | `Up <../W.html>`__         |  `Next <WYSIAYG.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| wugga wugga                    | `Home <../index.html>`__   |  WYSIAYG                   |
-+--------------------------------+----------------------------+----------------------------+
 
 WYSIAYG
+========
 
-`Prev <wumpus.html>`__ 
+`Prev <wumpus.html>`__ 
 
 W
 
- `Next <WYSIWYG.html>`__
+ `Next <WYSIWYG.html>`__
 
 --------------
 
@@ -3204,23 +2186,10 @@ power and flexibility of a command-driven formatter like
 becomes not just desirable but a necessity. Compare
 `*YAFIYGI* <../Y/YAFIYGI.html>`__.
 
---------------
-
-+---------------------------+----------------------------+----------------------------+
-| `Prev <wumpus.html>`__    | `Up <../W.html>`__         |  `Next <WYSIWYG.html>`__   |
-+---------------------------+----------------------------+----------------------------+
-| wumpus                    | `Home <../index.html>`__   |  WYSIWYG                   |
-+---------------------------+----------------------------+----------------------------+
-
 WYSIWYG
+=============
 
-`Prev <WYSIAYG.html>`__ 
 
-W
-
- `Next <../X.html>`__
-
---------------
 
 **WYSIWYG**: /wiz´ee·wig/, /wiss´ee·wig/, adj.
 
@@ -3241,11 +2210,4 @@ command-based `*TECO* <../T/TECO.html>`__. See also `*WIMP
 environment* <WIMP-environment.html>`__. [Oddly enough, WYSIWYG made it
 into the 1986 supplement to the OED, in lower case yet. —ESR]
 
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <WYSIAYG.html>`__    | `Up <../W.html>`__         |  `Next <../X.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| WYSIAYG                    | `Home <../index.html>`__   |  X                      |
-+----------------------------+----------------------------+-------------------------+
 
