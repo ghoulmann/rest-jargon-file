@@ -1,12 +1,10 @@
-rabbit job
-
-`Prev <../R.html>`__ 
-
+===========
 R
+===========
 
- `Next <rain-dance.html>`__
+rabbit job
+==============
 
---------------
 
 **rabbit job**: n.
 
@@ -14,23 +12,10 @@ R
 one or more copies of itself, breeding like rabbits. Compare
 `*wabbit* <../W/wabbit.html>`__, `*fork bomb* <../F/fork-bomb.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <../R.html>`__    | `Up <../R.html>`__         |  `Next <rain-dance.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| R                       | `Home <../index.html>`__   |  rain dance                   |
-+-------------------------+----------------------------+-------------------------------+
 
 rainbow series
+=================
 
-`Prev <rain-dance.html>`__ 
-
-R
-
- `Next <random.html>`__
-
---------------
 
 **rainbow series**: n.
 
@@ -42,23 +27,9 @@ also been commonly applied to the PostScript reference set. Which books
 are meant by “\ *the* rainbow series” unqualified is thus dependent on
 one's local technical culture.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <rain-dance.html>`__    | `Up <../R.html>`__         |  `Next <random.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| rain dance                    | `Home <../index.html>`__   |  random                   |
-+-------------------------------+----------------------------+---------------------------+
 
 rain dance
-
-`Prev <rabbit-job.html>`__ 
-
-R
-
- `Next <rainbow-series.html>`__
-
---------------
+==============
 
 **rain dance**: n.
 
@@ -77,23 +48,10 @@ programming* <../C/cargo-cult-programming.html>`__, `*wave a dead
 chicken* <../W/wave-a-dead-chicken.html>`__; see also `*casting the
 runes* <../C/casting-the-runes.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------------------+
-| `Prev <rabbit-job.html>`__    | `Up <../R.html>`__         |  `Next <rainbow-series.html>`__   |
-+-------------------------------+----------------------------+-----------------------------------+
-| rabbit job                    | `Home <../index.html>`__   |  rainbow series                   |
-+-------------------------------+----------------------------+-----------------------------------+
 
 random
+=============
 
-`Prev <rainbow-series.html>`__ 
-
-R
-
- `Next <Random-Number-God.html>`__
-
---------------
 
 **random**: adj.
 
@@ -139,23 +97,9 @@ out-of-the-blue. As in: “Stop being so random!” This sense equates to
 ‘hatstand’, taken from the Viz comic character “Roger Irrelevant - He's
 completely Hatstand.”
 
---------------
-
-+-----------------------------------+----------------------------+--------------------------------------+
-| `Prev <rainbow-series.html>`__    | `Up <../R.html>`__         |  `Next <Random-Number-God.html>`__   |
-+-----------------------------------+----------------------------+--------------------------------------+
-| rainbow series                    | `Home <../index.html>`__   |  Random Number God                   |
-+-----------------------------------+----------------------------+--------------------------------------+
-
 randomness
+==================
 
-`Prev <random-numbers.html>`__ 
-
-R
-
- `Next <rape.html>`__
-
---------------
 
 **randomness**: n.
 
@@ -189,23 +133,9 @@ Originally, the latter site got its random bits by doing photometry on
 lava lamps. Hackers invariably found this hilarious. If you have to ask
 why, you'll never get it.)
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <random-numbers.html>`__    | `Up <../R.html>`__         |  `Next <rape.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| random numbers                    | `Home <../index.html>`__   |  rape                   |
-+-----------------------------------+----------------------------+-------------------------+
 
 Random Number God
-
-`Prev <random.html>`__ 
-
-R
-
- `Next <random-numbers.html>`__
-
---------------
+===================
 
 **Random Number God**
 
@@ -219,23 +149,9 @@ in a repetition, so you get something with a 3% chance happening 8 times
 in a row. Improbable, but far too common to be pure chance. Compare
 `*Shub-Internet* <../S/Shub-Internet.html>`__.
 
---------------
-
-+---------------------------+----------------------------+-----------------------------------+
-| `Prev <random.html>`__    | `Up <../R.html>`__         |  `Next <random-numbers.html>`__   |
-+---------------------------+----------------------------+-----------------------------------+
-| random                    | `Home <../index.html>`__   |  random numbers                   |
-+---------------------------+----------------------------+-----------------------------------+
-
 random numbers
-
-`Prev <Random-Number-God.html>`__ 
-
-R
-
- `Next <randomness.html>`__
-
---------------
+================
+ 
 
 **random numbers**: n.
 
@@ -265,24 +181,11 @@ Hitchhiker's Guide to the Galaxy*, *The Joy of Sex*, and the Christian
 Bible (Revelation 13:18). See also
 `*Discordianism* <../D/Discordianism.html>`__ or consult your pineal
 gland. See also `*for values of* <../F/for-values-of.html>`__.
-
---------------
-
-+--------------------------------------+----------------------------+-------------------------------+
-| `Prev <Random-Number-God.html>`__    | `Up <../R.html>`__         |  `Next <randomness.html>`__   |
-+--------------------------------------+----------------------------+-------------------------------+
-| Random Number God                    | `Home <../index.html>`__   |  randomness                   |
-+--------------------------------------+----------------------------+-------------------------------+
-
+ 
 rape
+========
 
-`Prev <randomness.html>`__ 
 
-R
-
- `Next <rare-mode.html>`__
-
---------------
 
 **rape**: vt.
 
@@ -296,23 +199,11 @@ that did absolute disk I/O and ended up raping the master directory.”
 3. [CMU/Pitt] To mass-copy files from an anonymous ftp site. “Last night
 I raped Simtel's dskutl directory.”
 
---------------
 
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <randomness.html>`__    | `Up <../R.html>`__         |  `Next <rare-mode.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| randomness                    | `Home <../index.html>`__   |  rare mode                   |
-+-------------------------------+----------------------------+------------------------------+
 
 rare mode
+============
 
-`Prev <rape.html>`__ 
-
-R
-
- `Next <raster-blaster.html>`__
-
---------------
 
 **rare mode**: adj.
 
@@ -322,23 +213,10 @@ mode* <../C/cooked-mode.html>`__; the phrase “a sort of half-cooked
 (rare?) mode” is used in the V7/BSD manuals to describe the mode. Usage:
 rare.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <rape.html>`__    | `Up <../R.html>`__         |  `Next <raster-blaster.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| rape                    | `Home <../index.html>`__   |  raster blaster                   |
-+-------------------------+----------------------------+-----------------------------------+
 
 rasterbation
+=================
 
-`Prev <raster-burn.html>`__ 
-
-R
-
- `Next <rat-belt.html>`__
-
---------------
 
 **rasterbation**: n.
 
@@ -346,24 +224,11 @@ R
 computer-generated images and effects in movies and graphic art which
 would have been better without them. Especially employed as a term of
 abuse by Photoshop/GIMP users and graphic artists.
-
---------------
-
-+--------------------------------+----------------------------+-----------------------------+
-| `Prev <raster-burn.html>`__    | `Up <../R.html>`__         |  `Next <rat-belt.html>`__   |
-+--------------------------------+----------------------------+-----------------------------+
-| raster burn                    | `Home <../index.html>`__   |  rat belt                   |
-+--------------------------------+----------------------------+-----------------------------+
+ 
 
 raster blaster
-
-`Prev <rare-mode.html>`__ 
-
-R
-
- `Next <raster-burn.html>`__
-
---------------
+=================
+ 
 
 **raster blaster**: n.
 
@@ -371,48 +236,21 @@ R
 operations (a `*blitter* <../B/blitter.html>`__). Allegedly inspired by
 ‘Rasta Blasta’, British slang for the sort of portable stereo Americans
 call a ‘boom box’ or ‘ghetto blaster’.
-
---------------
-
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <rare-mode.html>`__    | `Up <../R.html>`__         |  `Next <raster-burn.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| rare mode                    | `Home <../index.html>`__   |  raster burn                   |
-+------------------------------+----------------------------+--------------------------------+
-
+ 
 raster burn
-
-`Prev <raster-blaster.html>`__ 
-
-R
-
- `Next <rasterbation.html>`__
-
---------------
+==============
+ 
 
 **raster burn**: n.
 
 Eyestrain brought on by too many hours of looking at low-res, poorly
 tuned, or glare-ridden monitors, esp. graphics monitors. See `*terminal
 illness* <../T/terminal-illness.html>`__.
-
---------------
-
-+-----------------------------------+----------------------------+---------------------------------+
-| `Prev <raster-blaster.html>`__    | `Up <../R.html>`__         |  `Next <rasterbation.html>`__   |
-+-----------------------------------+----------------------------+---------------------------------+
-| raster blaster                    | `Home <../index.html>`__   |  rasterbation                   |
-+-----------------------------------+----------------------------+---------------------------------+
+ 
 
 rat belt
-
-`Prev <rasterbation.html>`__ 
-
-R
-
- `Next <rat-dance.html>`__
-
---------------
+==================
+ 
 
 **rat belt**: n.
 
@@ -420,24 +258,11 @@ A cable tie, esp. the sawtoothed, self-locking plastic kind that you can
 remove only by cutting (as opposed to a random twist of wire or a twist
 tie or one of those humongous metal clip frobs). Small cable ties are
 mouse belts.
-
---------------
-
-+---------------------------------+----------------------------+------------------------------+
-| `Prev <rasterbation.html>`__    | `Up <../R.html>`__         |  `Next <rat-dance.html>`__   |
-+---------------------------------+----------------------------+------------------------------+
-| rasterbation                    | `Home <../index.html>`__   |  rat dance                   |
-+---------------------------------+----------------------------+------------------------------+
+ 
 
 rat dance
-
-`Prev <rat-belt.html>`__ 
-
-R
-
- `Next <rathole.html>`__
-
---------------
+=====================
+ 
 
 **rat dance**: n.
 
@@ -456,24 +281,11 @@ original strip, a fact which testifies to Dilbert's huge popularity
 among hackers. All too many find the perverse incentives and Kafkaesque
 atmosphere of Dilbert's mythical workplace reflective of their own
 experiences.
-
---------------
-
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <rat-belt.html>`__    | `Up <../R.html>`__         |  `Next <rathole.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| rat belt                    | `Home <../index.html>`__   |  rathole                   |
-+-----------------------------+----------------------------+----------------------------+
+ 
 
 rathole
-
-`Prev <rat-dance.html>`__ 
-
-R
-
- `Next <ratio-site.html>`__
-
---------------
+===============
+ 
 
 **rathole**
 
@@ -486,24 +298,11 @@ difference between ratholes and `*religious
 issues* <religious-issues.html>`__ is that a holy war cannot be
 pre-empted in this way. Canonical examples are XML namespaces and
 open-source licensing.
-
---------------
-
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <rat-dance.html>`__    | `Up <../R.html>`__         |  `Next <ratio-site.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| rat dance                    | `Home <../index.html>`__   |  ratio site                   |
-+------------------------------+----------------------------+-------------------------------+
+ 
 
 ratio site
-
-`Prev <rathole.html>`__ 
-
-R
-
- `Next <rave.html>`__
-
---------------
+================
+  
 
 **ratio site**
 
@@ -518,24 +317,11 @@ magically breaks after one has uploaded a large amount of files, just
 before the downloading phase begins. See also `*banner
 site* <../B/banner-site.html>`__, `*leech
 mode* <../L/leech-mode.html>`__.
-
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <rathole.html>`__    | `Up <../R.html>`__         |  `Next <rave.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| rathole                    | `Home <../index.html>`__   |  rave                   |
-+----------------------------+----------------------------+-------------------------+
+ 
 
 rave
-
-`Prev <ratio-site.html>`__ 
-
-R
-
- `Next <rave-on-.html>`__
-
---------------
+=============
+ 
 
 **rave**: vi.
 
@@ -560,47 +346,24 @@ persistence or obliviousness of the person speaking that is annoying,
 while `*flame* <../F/flame.html>`__ implies somewhat more strongly that
 the tone or content is offensive as well.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <ratio-site.html>`__    | `Up <../R.html>`__         |  `Next <rave-on-.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| ratio site                    | `Home <../index.html>`__   |  rave on!                   |
-+-------------------------------+----------------------------+-----------------------------+
+ 
 
 rave on!
-
-`Prev <rave.html>`__ 
-
-R
-
- `Next <ravs.html>`__
-
---------------
+================
+ 
+ 
 
 **rave on!**: imp.
 
 Sarcastic invitation to continue a `*rave* <rave.html>`__, often by
 someone who wishes the raver would get a clue but realizes this is
 unlikely.
-
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <rave.html>`__    | `Up <../R.html>`__         |  `Next <ravs.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| rave                    | `Home <../index.html>`__   |  ravs                   |
-+-------------------------+----------------------------+-------------------------+
+ 
 
 ravs
+======================
 
-`Prev <rave-on-.html>`__ 
-
-R
-
- `Next <raw-mode.html>`__
-
---------------
+ 
 
 **ravs**: /ravz/, Chinese ravs, n.
 
@@ -617,24 +380,11 @@ potsticker is always the pan-fried kind (so called because it sticks to
 the frying pot and has to be scraped off). “Let's get hot-and-sour soup
 and three orders of ravs.” See also `*oriental
 food* <../O/oriental-food.html>`__.
-
---------------
-
-+-----------------------------+----------------------------+-----------------------------+
-| `Prev <rave-on-.html>`__    | `Up <../R.html>`__         |  `Next <raw-mode.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
-| rave on!                    | `Home <../index.html>`__   |  raw mode                   |
-+-----------------------------+----------------------------+-----------------------------+
+ 
 
 raw mode
-
-`Prev <ravs.html>`__ 
-
-R
-
- `Next <RBL.html>`__
-
---------------
+==================
+ 
 
 **raw mode**: n.
 
@@ -644,24 +394,10 @@ make a distinction, a disk file) without any processing, abstraction, or
 interpretation by the operating system. Compare `*rare
 mode* <rare-mode.html>`__, `*cooked mode* <../C/cooked-mode.html>`__.
 This is techspeak under Unix, jargon elsewhere.
-
---------------
-
-+-------------------------+----------------------------+------------------------+
-| `Prev <ravs.html>`__    | `Up <../R.html>`__         |  `Next <RBL.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| ravs                    | `Home <../index.html>`__   |  RBL                   |
-+-------------------------+----------------------------+------------------------+
+ 
 
 RBL
-
-`Prev <raw-mode.html>`__ 
-
-R
-
- `Next <rc-file.html>`__
-
---------------
+=====
 
 **RBL**: /R·B·L/
 
@@ -672,23 +408,11 @@ that know how to use RBL so they can filter out mail from those sites.
 Drastic (and controversial) but effective. There is an `RBL home
 page <http://mail-abuse.org/rbl/usage.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <raw-mode.html>`__    | `Up <../R.html>`__         |  `Next <rc-file.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| raw mode                    | `Home <../index.html>`__   |  rc file                   |
-+-----------------------------+----------------------------+----------------------------+
+ 
 
 rc file
-
-`Prev <RBL.html>`__ 
-
-R
-
- `Next <RE.html>`__
-
---------------
+=============
+ 
 
 **rc file**: /R·C fi:l/, n.
 
@@ -700,24 +424,11 @@ have been invoked manually once the system was running but are to be
 executed automatically each time the system starts up. See also `*dot
 file* <../D/dot-file.html>`__, `*profile* <../P/profile.html>`__ (sense
 1).
-
---------------
-
-+------------------------+----------------------------+-----------------------+
-| `Prev <RBL.html>`__    | `Up <../R.html>`__         |  `Next <RE.html>`__   |
-+------------------------+----------------------------+-----------------------+
-| RBL                    | `Home <../index.html>`__   |  RE                   |
-+------------------------+----------------------------+-----------------------+
+ 
 
 README file
-
-`Prev <read-only-user.html>`__ 
-
-R
-
- `Next <real.html>`__
-
---------------
+=====================
+ 
 
 **README file**: n.
 
@@ -739,24 +450,10 @@ files have all-lowercase names and all-uppercase is reserved for
 metadata, comments, and grafitti. This is functional; because 'A' sorts
 before 'a' in ASCII, the README will appear in directory listings before
 any source file.
-
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <read-only-user.html>`__    | `Up <../R.html>`__         |  `Next <real.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| read-only user                    | `Home <../index.html>`__   |  real                   |
-+-----------------------------------+----------------------------+-------------------------+
-
+ 
 read-only user
-
-`Prev <RE.html>`__ 
-
-R
-
- `Next <README-file.html>`__
-
---------------
+================
+ 
 
 **read-only user**: n.
 
@@ -765,24 +462,9 @@ exclusively for reading Usenet, bulletin boards, and/or email, rather
 than writing code or purveying useful information. See
 `*twink* <../T/twink.html>`__, `*terminal
 junkie* <../T/terminal-junkie.html>`__, `*lurker* <../L/lurker.html>`__.
-
---------------
-
-+-----------------------+----------------------------+--------------------------------+
-| `Prev <RE.html>`__    | `Up <../R.html>`__         |  `Next <README-file.html>`__   |
-+-----------------------+----------------------------+--------------------------------+
-| RE                    | `Home <../index.html>`__   |  README file                   |
-+-----------------------+----------------------------+--------------------------------+
-
+ 
 real estate
-
-`Prev <real.html>`__ 
-
-R
-
- `Next <real-hack.html>`__
-
---------------
+==============
 
 **real estate**: n.
 
@@ -793,69 +475,30 @@ surface of an integrated circuit (see also
 a `*dinosaur pen* <../D/dinosaur-pen.html>`__, or even space on a
 crowded desktop (whether physical or electronic).
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <real.html>`__    | `Up <../R.html>`__         |  `Next <real-hack.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| real                    | `Home <../index.html>`__   |  real hack                   |
-+-------------------------+----------------------------+------------------------------+
+ 
 
 real hack
-
-`Prev <real-estate.html>`__ 
-
-R
-
- `Next <real-operating-system.html>`__
-
---------------
+==================
+ 
 
 **real hack**: n.
 
 A `*crock* <../C/crock.html>`__. This is sometimes used affectionately;
 see `*hack* <../H/hack.html>`__.
-
---------------
-
-+--------------------------------+----------------------------+------------------------------------------+
-| `Prev <real-estate.html>`__    | `Up <../R.html>`__         |  `Next <real-operating-system.html>`__   |
-+--------------------------------+----------------------------+------------------------------------------+
-| real estate                    | `Home <../index.html>`__   |  real operating system                   |
-+--------------------------------+----------------------------+------------------------------------------+
+ 
 
 real
-
-`Prev <README-file.html>`__ 
-
-R
-
- `Next <real-estate.html>`__
-
---------------
+================
+ 
 
 **real**: adj.
 
 Not simulated. Often used as a specific antonym to
 `*virtual* <../V/virtual.html>`__ in any of its jargon senses.
-
---------------
-
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <README-file.html>`__    | `Up <../R.html>`__         |  `Next <real-estate.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| README file                    | `Home <../index.html>`__   |  real estate                   |
-+--------------------------------+----------------------------+--------------------------------+
-
+ 
 reality check
-
-`Prev <Real-World.html>`__ 
-
-R
-
- `Next <reality-distortion-field.html>`__
-
---------------
+==================
+ 
 
 **reality check**: n.
 
@@ -866,23 +509,11 @@ software equivalent of a `*smoke test* <../S/smoke-test.html>`__.
 2. The act of letting a `*real user* <real-user.html>`__ try out
 prototype software. Compare `*sanity check* <../S/sanity-check.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------------------------+
-| `Prev <Real-World.html>`__    | `Up <../R.html>`__         |  `Next <reality-distortion-field.html>`__   |
-+-------------------------------+----------------------------+---------------------------------------------+
-| Real World                    | `Home <../index.html>`__   |  reality-distortion field                   |
-+-------------------------------+----------------------------+---------------------------------------------+
+ 
 
 reality-distortion field
-
-`Prev <reality-check.html>`__ 
-
-R
-
- `Next <reaper.html>`__
-
---------------
+==============================
+ 
 
 **reality-distortion field**: n.
 
@@ -892,24 +523,11 @@ peculiar charisma). Those close to these managers become passionately
 committed to possibly insane projects, without regard to the
 practicality of their implementation or competitive forces in the
 marketplace.
-
---------------
-
-+----------------------------------+----------------------------+---------------------------+
-| `Prev <reality-check.html>`__    | `Up <../R.html>`__         |  `Next <reaper.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
-| reality check                    | `Home <../index.html>`__   |  reaper                   |
-+----------------------------------+----------------------------+---------------------------+
+ 
 
 real operating system
-
-`Prev <real-hack.html>`__ 
-
-R
-
- `Next <Real-Programmer.html>`__
-
---------------
+==========================
+ 
 
 **real operating system**: n.
 
@@ -923,24 +541,11 @@ considered unreal. See `*holy wars* <../H/holy-wars.html>`__,
 `*religious issues* <religious-issues.html>`__,
 `*proprietary* <../P/proprietary.html>`__, `*Get a real
 computer!* <../G/Get-a-real-computer-.html>`__
-
---------------
-
-+------------------------------+----------------------------+------------------------------------+
-| `Prev <real-hack.html>`__    | `Up <../R.html>`__         |  `Next <Real-Programmer.html>`__   |
-+------------------------------+----------------------------+------------------------------------+
-| real hack                    | `Home <../index.html>`__   |  Real Programmer                   |
-+------------------------------+----------------------------+------------------------------------+
+ 
 
 Real Programmer
-
-`Prev <real-operating-system.html>`__ 
-
-R
-
- `Next <Real-Soon-Now.html>`__
-
---------------
+==================
+ 
 
 **Real Programmer**: n.
 
@@ -972,24 +577,11 @@ Ed Post, still circulating on Usenet and Internet in on-line form.
 
 Typing *Real Programmers Don't Use Pascal* into a web search engine
 should turn up a copy.
-
---------------
-
-+------------------------------------------+----------------------------+----------------------------------+
-| `Prev <real-operating-system.html>`__    | `Up <../R.html>`__         |  `Next <Real-Soon-Now.html>`__   |
-+------------------------------------------+----------------------------+----------------------------------+
-| real operating system                    | `Home <../index.html>`__   |  Real Soon Now                   |
-+------------------------------------------+----------------------------+----------------------------------+
+ 
 
 Real Soon Now
-
-`Prev <Real-Programmer.html>`__ 
-
-R
-
- `Next <real-time.html>`__
-
---------------
+=================
+ 
 
 **Real Soon Now**: adv.
 
@@ -1002,24 +594,11 @@ now according to somebody, but the speaker is quite skeptical.
 2. When one's gods, fates, or other time commitments permit one to get
 to it (in other words, don't hold your breath). Often abbreviated RSN.
 Compare `*copious free time* <../C/copious-free-time.html>`__.
-
---------------
-
-+------------------------------------+----------------------------+------------------------------+
-| `Prev <Real-Programmer.html>`__    | `Up <../R.html>`__         |  `Next <real-time.html>`__   |
-+------------------------------------+----------------------------+------------------------------+
-| Real Programmer                    | `Home <../index.html>`__   |  real time                   |
-+------------------------------------+----------------------------+------------------------------+
+ 
 
 real time
-
-`Prev <Real-Soon-Now.html>`__ 
-
-R
-
- `Next <real-user.html>`__
-
---------------
+================
+ 
 
 **real time**
 
@@ -1033,24 +612,11 @@ take a back seat to response time) and speed-tuned hardware.
 2. adv. In jargon, refers to doing something while people are watching
 or waiting. “I asked her how to find the calling procedure's program
 counter on the stack and she came up with an algorithm in real time.”
-
---------------
-
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <Real-Soon-Now.html>`__    | `Up <../R.html>`__         |  `Next <real-user.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| Real Soon Now                    | `Home <../index.html>`__   |  real user                   |
-+----------------------------------+----------------------------+------------------------------+
+ 
 
 real user
-
-`Prev <real-time.html>`__ 
-
-R
-
- `Next <Real-World.html>`__
-
---------------
+==================
+ 
 
 **real user**: n.
 
@@ -1064,23 +630,11 @@ real users. “I need this fixed so I can do a problem set. I'm not
 complaining out of randomness, but as a real user.” See also
 `*luser* <../L/luser.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <real-time.html>`__    | `Up <../R.html>`__         |  `Next <Real-World.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| real time                    | `Home <../index.html>`__   |  Real World                   |
-+------------------------------+----------------------------+-------------------------------+
+ 
 
 Real World
-
-`Prev <real-user.html>`__ 
-
-R
-
- `Next <reality-check.html>`__
-
---------------
+=================
+ 
 
 **Real World**: n.
 
@@ -1114,47 +668,22 @@ also `*fear and loathing* <../F/fear-and-loathing.html>`__,
 
 ()
 
---------------
-
-+------------------------------+----------------------------+----------------------------------+
-| `Prev <real-user.html>`__    | `Up <../R.html>`__         |  `Next <reality-check.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
-| real user                    | `Home <../index.html>`__   |  reality check                   |
-+------------------------------+----------------------------+----------------------------------+
+ 
 
 .. |image0| image:: ../graphics/cobol.png
+
 reaper
-
-`Prev <reality-distortion-field.html>`__ 
-
-R
-
- `Next <recompile-the-world.html>`__
-
---------------
+=======
 
 **reaper**: n.
 
 A `*prowler* <../P/prowler.html>`__ that removes files. A file removed
 in this way is said to have been reaped.
-
---------------
-
-+---------------------------------------------+----------------------------+----------------------------------------+
-| `Prev <reality-distortion-field.html>`__    | `Up <../R.html>`__         |  `Next <recompile-the-world.html>`__   |
-+---------------------------------------------+----------------------------+----------------------------------------+
-| reality-distortion field                    | `Home <../index.html>`__   |  recompile the world                   |
-+---------------------------------------------+----------------------------+----------------------------------------+
+ 
 
 recompile the world
-
-`Prev <reaper.html>`__ 
-
-R
-
- `Next <rectangle-slinger.html>`__
-
---------------
+====================
+ 
 
 **recompile the world**
 
@@ -1170,68 +699,32 @@ practice, you may not actually have to recompile the world, but the
 implication is that some human cleverness is required to figure out what
 parts can be safely left out.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------------+
-| `Prev <reaper.html>`__    | `Up <../R.html>`__         |  `Next <rectangle-slinger.html>`__   |
-+---------------------------+----------------------------+--------------------------------------+
-| reaper                    | `Home <../index.html>`__   |  rectangle slinger                   |
-+---------------------------+----------------------------+--------------------------------------+
+ 
 
 rectangle slinger
-
-`Prev <recompile-the-world.html>`__ 
-
-R
-
- `Next <recursion.html>`__
-
---------------
+======================
+ 
 
 **rectangle slinger**: n.
 
 See `*polygon pusher* <../P/polygon-pusher.html>`__.
 
---------------
-
-+----------------------------------------+----------------------------+------------------------------+
-| `Prev <recompile-the-world.html>`__    | `Up <../R.html>`__         |  `Next <recursion.html>`__   |
-+----------------------------------------+----------------------------+------------------------------+
-| recompile the world                    | `Home <../index.html>`__   |  recursion                   |
-+----------------------------------------+----------------------------+------------------------------+
+ 
 
 recursion
-
-`Prev <rectangle-slinger.html>`__ 
-
-R
-
- `Next <recursive-acronym.html>`__
-
---------------
+================
+ 
 
 **recursion**: n.
 
 See `*recursion* <recursion.html>`__. See also `*tail
 recursion* <../T/tail-recursion.html>`__.
-
---------------
-
-+--------------------------------------+----------------------------+--------------------------------------+
-| `Prev <rectangle-slinger.html>`__    | `Up <../R.html>`__         |  `Next <recursive-acronym.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------------+
-| rectangle slinger                    | `Home <../index.html>`__   |  recursive acronym                   |
-+--------------------------------------+----------------------------+--------------------------------------+
+ 
 
 recursive acronym
+====================
 
-`Prev <recursion.html>`__ 
-
-R
-
- `Next <red-wire.html>`__
-
---------------
+ 
 
 **recursive acronym**: n.
 
@@ -1250,23 +743,11 @@ example because it is a mirror image, a backronym, and a recursive
 acronym. See also `*mung* <../M/mung.html>`__,
 `*EMACS* <../E/EMACS.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <recursion.html>`__    | `Up <../R.html>`__         |  `Next <red-wire.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| recursion                    | `Home <../index.html>`__   |  red wire                   |
-+------------------------------+----------------------------+-----------------------------+
+ 
 
 red wire
-
-`Prev <recursive-acronym.html>`__ 
-
-R
-
- `Next <regexp.html>`__
-
---------------
+==============
+ 
 
 **red wire**: n.
 
@@ -1276,24 +757,11 @@ hardware guy with a code patch is a `*softy* <../S/softy.html>`__ with a
 soldering iron.... Compare `*blue wire* <../B/blue-wire.html>`__,
 `*yellow wire* <../Y/yellow-wire.html>`__, `*purple
 wire* <../P/purple-wire.html>`__.
-
---------------
-
-+--------------------------------------+----------------------------+---------------------------+
-| `Prev <recursive-acronym.html>`__    | `Up <../R.html>`__         |  `Next <regexp.html>`__   |
-+--------------------------------------+----------------------------+---------------------------+
-| recursive acronym                    | `Home <../index.html>`__   |  regexp                   |
-+--------------------------------------+----------------------------+---------------------------+
+ 
 
 regexp
-
-`Prev <red-wire.html>`__ 
-
-R
-
- `Next <register-dancing.html>`__
-
---------------
+=============
+ 
 
 **regexp**: /reg´eksp/, n.
 
@@ -1309,24 +777,10 @@ non-alphabetic character’ with **[^A-Za-z]**.
 
 2. Name of a well-known PD regexp-handling package in portable C,
 written by revered Usenetter Henry Spencer.
-
---------------
-
-+-----------------------------+----------------------------+-------------------------------------+
-| `Prev <red-wire.html>`__    | `Up <../R.html>`__         |  `Next <register-dancing.html>`__   |
-+-----------------------------+----------------------------+-------------------------------------+
-| red wire                    | `Home <../index.html>`__   |  register dancing                   |
-+-----------------------------+----------------------------+-------------------------------------+
+ 
 
 register dancing
-
-`Prev <regexp.html>`__ 
-
-R
-
- `Next <rehi.html>`__
-
---------------
+=================
 
 **register dancing**: n.
 
@@ -1342,92 +796,41 @@ register is being used to hold an intermediate value, a delicate minuet
 is required in which the previous value of the register is saved and
 then restored just before the official function (and value) of the
 special-purpose register is again needed.
-
---------------
-
-+---------------------------+----------------------------+-------------------------+
-| `Prev <regexp.html>`__    | `Up <../R.html>`__         |  `Next <rehi.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| regexp                    | `Home <../index.html>`__   |  rehi                   |
-+---------------------------+----------------------------+-------------------------+
+ 
 
 rehi
-
-`Prev <register-dancing.html>`__ 
-
-R
-
- `Next <reincarnation--cycle-of.html>`__
-
---------------
+===========
+ 
 
 **rehi**
 
 [IRC, MUD] “Hello again.” Very commonly used to greet people upon
 returning to an IRC channel after `*channel
 hopping* <../C/channel-hopping.html>`__.
-
---------------
-
-+-------------------------------------+----------------------------+--------------------------------------------+
-| `Prev <register-dancing.html>`__    | `Up <../R.html>`__         |  `Next <reincarnation--cycle-of.html>`__   |
-+-------------------------------------+----------------------------+--------------------------------------------+
-| register dancing                    | `Home <../index.html>`__   |  reincarnation, cycle of                   |
-+-------------------------------------+----------------------------+--------------------------------------------+
+ 
 
 RE
+=======
 
-`Prev <rc-file.html>`__ 
-
-R
-
- `Next <read-only-user.html>`__
-
---------------
+ 
 
 **RE**: /R·E/, n.
 
 Common spoken and written shorthand for `*regexp* <regexp.html>`__.
-
---------------
-
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <rc-file.html>`__    | `Up <../R.html>`__         |  `Next <read-only-user.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| rc file                    | `Home <../index.html>`__   |  read-only user                   |
-+----------------------------+----------------------------+-----------------------------------+
+ 
 
 reincarnation, cycle of
-
-`Prev <rehi.html>`__ 
-
-R
-
- `Next <reinvent-the-wheel.html>`__
-
---------------
+========================
+ 
 
 **reincarnation, cycle of**: n.
 
 See `*cycle of reincarnation* <../C/cycle-of-reincarnation.html>`__.
-
---------------
-
-+-------------------------+----------------------------+---------------------------------------+
-| `Prev <rehi.html>`__    | `Up <../R.html>`__         |  `Next <reinvent-the-wheel.html>`__   |
-+-------------------------+----------------------------+---------------------------------------+
-| rehi                    | `Home <../index.html>`__   |  reinvent the wheel                   |
-+-------------------------+----------------------------+---------------------------------------+
+ 
 
 reinvent the wheel
-
-`Prev <reincarnation--cycle-of.html>`__ 
-
-R
-
- `Next <relay-rape.html>`__
-
---------------
+====================
+ 
 
 **reinvent the wheel**: v.
 
@@ -1438,47 +841,23 @@ use wooden rollers, and some kinds of wheel have to be reinvented many
 times before you get them right. On the third hand, people reinventing
 the wheel do tend to come up with the moral equivalent of a trapezoid
 with an offset axle.
-
---------------
-
-+--------------------------------------------+----------------------------+-------------------------------+
-| `Prev <reincarnation--cycle-of.html>`__    | `Up <../R.html>`__         |  `Next <relay-rape.html>`__   |
-+--------------------------------------------+----------------------------+-------------------------------+
-| reincarnation, cycle of                    | `Home <../index.html>`__   |  relay rape                   |
-+--------------------------------------------+----------------------------+-------------------------------+
+ 
 
 relay rape
+==============
 
-`Prev <reinvent-the-wheel.html>`__ 
-
-R
-
- `Next <religion-of-CHI.html>`__
-
---------------
+ 
 
 **relay rape**: n.
 
 The hijacking of a third party's unsecured mail server to deliver
 `*spam* <../S/spam.html>`__.
-
---------------
-
-+---------------------------------------+----------------------------+------------------------------------+
-| `Prev <reinvent-the-wheel.html>`__    | `Up <../R.html>`__         |  `Next <religion-of-CHI.html>`__   |
-+---------------------------------------+----------------------------+------------------------------------+
-| reinvent the wheel                    | `Home <../index.html>`__   |  religion of CHI                   |
-+---------------------------------------+----------------------------+------------------------------------+
+ 
 
 religion of CHI
+=================
 
-`Prev <relay-rape.html>`__ 
-
-R
-
- `Next <religious-issues.html>`__
-
---------------
+ 
 
 **religion of CHI**: /ki:/, n.
 
@@ -1497,24 +876,10 @@ manual; note the special pronunciations /obz/ and /ark´sin/ rather than
 the more common /ahbz/ and /ark´si:n/. Using an alarm clock to warn of
 11:08's arrival was `*considered
 harmful* <../C/considered-harmful.html>`__.
-
---------------
-
-+-------------------------------+----------------------------+-------------------------------------+
-| `Prev <relay-rape.html>`__    | `Up <../R.html>`__         |  `Next <religious-issues.html>`__   |
-+-------------------------------+----------------------------+-------------------------------------+
-| relay rape                    | `Home <../index.html>`__   |  religious issues                   |
-+-------------------------------+----------------------------+-------------------------------------+
+ 
 
 religious issues
-
-`Prev <religion-of-CHI.html>`__ 
-
-R
-
- `Next <replicator.html>`__
-
---------------
+===================
 
 **religious issues**: n.
 
@@ -1535,23 +900,10 @@ life!* <../G/Get-a-life-.html>`__ and leave — unless, of course, one's
 *own* unassailably rational and obviously correct choices are being
 slammed.
 
---------------
-
-+------------------------------------+----------------------------+-------------------------------+
-| `Prev <religion-of-CHI.html>`__    | `Up <../R.html>`__         |  `Next <replicator.html>`__   |
-+------------------------------------+----------------------------+-------------------------------+
-| religion of CHI                    | `Home <../index.html>`__   |  replicator                   |
-+------------------------------------+----------------------------+-------------------------------+
+ 
 
 replicator
-
-`Prev <religious-issues.html>`__ 
-
-R
-
- `Next <reply.html>`__
-
---------------
+===============
 
 **replicator**: n.
 
@@ -1565,46 +917,18 @@ or `*nanobot* <../N/nanobot.html>`__. It is even claimed by some that
 `*Unix* <../U/Unix.html>`__ and `*C* <../C/C.html>`__ are the symbiotic
 halves of an extremely successful replicator; see `*Unix
 conspiracy* <../U/Unix-conspiracy.html>`__.
-
---------------
-
-+-------------------------------------+----------------------------+--------------------------+
-| `Prev <religious-issues.html>`__    | `Up <../R.html>`__         |  `Next <reply.html>`__   |
-+-------------------------------------+----------------------------+--------------------------+
-| religious issues                    | `Home <../index.html>`__   |  reply                   |
-+-------------------------------------+----------------------------+--------------------------+
+ 
 
 reply
-
-`Prev <replicator.html>`__ 
-
-R
-
- `Next <restriction.html>`__
-
---------------
+============
 
 **reply**: n.
 
 See `*followup* <../F/followup.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------------+
-| `Prev <replicator.html>`__    | `Up <../R.html>`__         |  `Next <restriction.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
-| replicator                    | `Home <../index.html>`__   |  restriction                   |
-+-------------------------------+----------------------------+--------------------------------+
 
 restriction
-
-`Prev <reply.html>`__ 
-
-R
-
- `Next <retcon.html>`__
-
---------------
+=============
 
 **restriction**: n.
 
@@ -1627,23 +951,11 @@ indexing in binary) and you will get less
 `*flamage* <../F/flamage.html>`__ for it. Limits which are round numbers
 in base 10 are always especially suspect.
 
---------------
-
-+--------------------------+----------------------------+---------------------------+
-| `Prev <reply.html>`__    | `Up <../R.html>`__         |  `Next <retcon.html>`__   |
-+--------------------------+----------------------------+---------------------------+
-| reply                    | `Home <../index.html>`__   |  retcon                   |
-+--------------------------+----------------------------+---------------------------+
+ 
 
 retcon
-
-`Prev <restriction.html>`__ 
-
-R
-
- `Next <RETI.html>`__
-
---------------
+=================
+ 
 
 **retcon**: /ret´kon/
 
@@ -1673,45 +985,21 @@ independently in use in comics fandom before ``rec.arts.comics``, and
 have citations from around 1981. In lexicography, nothing is ever
 simple. —ESR]
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <restriction.html>`__    | `Up <../R.html>`__         |  `Next <RETI.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| restriction                    | `Home <../index.html>`__   |  RETI                   |
-+--------------------------------+----------------------------+-------------------------+
+ 
 
 RETI
+===============
 
-`Prev <retcon.html>`__ 
-
-R
-
- `Next <retrocomputing.html>`__
-
---------------
+ 
 
 **RETI**: v.
 
 Syn. `*RTI* <RTI.html>`__
 
---------------
-
-+---------------------------+----------------------------+-----------------------------------+
-| `Prev <retcon.html>`__    | `Up <../R.html>`__         |  `Next <retrocomputing.html>`__   |
-+---------------------------+----------------------------+-----------------------------------+
-| retcon                    | `Home <../index.html>`__   |  retrocomputing                   |
-+---------------------------+----------------------------+-----------------------------------+
+ 
 
 retrocomputing
-
-`Prev <RETI.html>`__ 
-
-R
-
- `Next <return-from-the-dead.html>`__
-
---------------
+=================
 
 **retrocomputing**: /ret'·roh·k@m·pyoo´ting/, n.
 
@@ -1735,46 +1023,19 @@ A tasty selection of retrocomputing programs are made available at the
 Retrocomputing Museum,
 `http://www.catb.org/retro/ <http://www.catb.org/retro/>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------------+
-| `Prev <RETI.html>`__    | `Up <../R.html>`__         |  `Next <return-from-the-dead.html>`__   |
-+-------------------------+----------------------------+-----------------------------------------+
-| RETI                    | `Home <../index.html>`__   |  return from the dead                   |
-+-------------------------+----------------------------+-----------------------------------------+
 
 return from the dead
-
-`Prev <retrocomputing.html>`__ 
-
-R
-
- `Next <RFC.html>`__
-
---------------
+=======================
 
 **return from the dead**: v.
 
 To regain access to the net after a long absence. Compare `*person of no
 account* <../P/person-of-no-account.html>`__.
-
---------------
-
-+-----------------------------------+----------------------------+------------------------+
-| `Prev <retrocomputing.html>`__    | `Up <../R.html>`__         |  `Next <RFC.html>`__   |
-+-----------------------------------+----------------------------+------------------------+
-| retrocomputing                    | `Home <../index.html>`__   |  RFC                   |
-+-----------------------------------+----------------------------+------------------------+
+ 
 
 RFC
-
-`Prev <return-from-the-dead.html>`__ 
-
-R
-
- `Next <RFE.html>`__
-
---------------
+====================
+ 
 
 **RFC**: /R·F·C/, n.
 
@@ -1809,50 +1070,23 @@ manage to have neither the ambiguities that are usually rife in informal
 specifications, nor the committee-perpetrated misfeatures that often
 haunt formal standards, and they define a network that has grown to
 truly worldwide proportions.
-
---------------
-
-+-----------------------------------------+----------------------------+------------------------+
-| `Prev <return-from-the-dead.html>`__    | `Up <../R.html>`__         |  `Next <RFE.html>`__   |
-+-----------------------------------------+----------------------------+------------------------+
-| return from the dead                    | `Home <../index.html>`__   |  RFE                   |
-+-----------------------------------------+----------------------------+------------------------+
+ 
 
 RFE
-
-`Prev <RFC.html>`__ 
-
-R
-
- `Next <Right-Thing.html>`__
-
---------------
+================
+ 
 
 **RFE**: /R·F·E/, n.
 
-1. [techspeak] Request For Enhancement (compare `*RFC* <RFC.html>`__).
+1. [techspeak] Request For Enhancement (compare `RFC <RFC.html>`__).
 
 2. [from ‘Radio Free Europe’, Bellcore and Sun] Radio Free Ethernet, a
 system (originated by Peter Langston) for broadcasting audio among Sun
 SPARCstations over the ethernet.
-
---------------
-
-+------------------------+----------------------------+--------------------------------+
-| `Prev <RFC.html>`__    | `Up <../R.html>`__         |  `Next <Right-Thing.html>`__   |
-+------------------------+----------------------------+--------------------------------+
-| RFC                    | `Home <../index.html>`__   |  Right Thing                   |
-+------------------------+----------------------------+--------------------------------+
+ 
 
 Right Thing
-
-`Prev <RFE.html>`__ 
-
-R
-
- `Next <rip.html>`__
-
---------------
+================
 
 **Right Thing**: n.
 
@@ -1862,24 +1096,9 @@ capitalized. Use of this term often implies that in fact reasonable
 people may disagree. “What's the right thing for LISP to do when it sees
 (mod a 0)? Should it return **a**, or give a divide-by-0 error?” Oppose
 `*Wrong Thing* <../W/Wrong-Thing.html>`__.
-
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <RFE.html>`__    | `Up <../R.html>`__         |  `Next <rip.html>`__   |
-+------------------------+----------------------------+------------------------+
-| RFE                    | `Home <../index.html>`__   |  rip                   |
-+------------------------+----------------------------+------------------------+
-
+ 
 rip
-
-`Prev <Right-Thing.html>`__ 
-
-R
-
- `Next <ripoff.html>`__
-
---------------
+============== 
 
 **rip**: v.
 
@@ -1892,45 +1111,18 @@ In the case of older Amiga games this entails searching through memory
 shortly after a reboot. This sense has been in use for many years and
 probably gave rise to the (now more common) sense 1.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------+
-| `Prev <Right-Thing.html>`__    | `Up <../R.html>`__         |  `Next <ripoff.html>`__   |
-+--------------------------------+----------------------------+---------------------------+
-| Right Thing                    | `Home <../index.html>`__   |  ripoff                   |
-+--------------------------------+----------------------------+---------------------------+
+ 
 
 ripoff
-
-`Prev <rip.html>`__ 
-
-R
-
- `Next <RL.html>`__
-
---------------
+=======
 
 **ripoff**: n.
 
 Synonym for `*chad* <../C/chad.html>`__, sense 1.
 
---------------
-
-+------------------------+----------------------------+-----------------------+
-| `Prev <rip.html>`__    | `Up <../R.html>`__         |  `Next <RL.html>`__   |
-+------------------------+----------------------------+-----------------------+
-| rip                    | `Home <../index.html>`__   |  RL                   |
-+------------------------+----------------------------+-----------------------+
 
 RL
-
-`Prev <ripoff.html>`__ 
-
-R
-
- `Next <roach.html>`__
-
---------------
+============
 
 **RL**: //, n.
 
@@ -1938,23 +1130,10 @@ R
 player is laughing. Compare `*meatspace* <../M/meatspace.html>`__;
 oppose `*VR* <../V/VR.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <ripoff.html>`__    | `Up <../R.html>`__         |  `Next <roach.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| ripoff                    | `Home <../index.html>`__   |  roach                   |
-+---------------------------+----------------------------+--------------------------+
+ 
 
 roach
-
-`Prev <RL.html>`__ 
-
-R
-
- `Next <robocanceller.html>`__
-
---------------
+========
 
 **roach**: vt.
 
@@ -1963,24 +1142,10 @@ R
 software gets roached. Probably derived from '70s and '80s drug slang;
 marijuana smokers used ‘roach’ to refer to the unsmokable remnant of a
 joint, and to ‘roach’ a joint was therefore to destroy it.
-
---------------
-
-+-----------------------+----------------------------+----------------------------------+
-| `Prev <RL.html>`__    | `Up <../R.html>`__         |  `Next <robocanceller.html>`__   |
-+-----------------------+----------------------------+----------------------------------+
-| RL                    | `Home <../index.html>`__   |  robocanceller                   |
-+-----------------------+----------------------------+----------------------------------+
+ 
 
 robocanceller
-
-`Prev <roach.html>`__ 
-
-R
-
- `Next <robot.html>`__
-
---------------
+===============
 
 **robocanceller**: /roh·boh·kan´sel·@r/
 
@@ -1991,45 +1156,18 @@ Index* <../B/Breidbart-Index.html>`__ as a trigger. Programming them is
 not a game for amateurs; see `*ARMM* <../A/ARMM.html>`__. See also
 `*Dave the Resurrector* <../D/Dave-the-Resurrector.html>`__.
 
---------------
-
-+--------------------------+----------------------------+--------------------------+
-| `Prev <roach.html>`__    | `Up <../R.html>`__         |  `Next <robot.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| roach                    | `Home <../index.html>`__   |  robot                   |
-+--------------------------+----------------------------+--------------------------+
+ 
 
 robot
-
-`Prev <robocanceller.html>`__ 
-
-R
-
- `Next <robust.html>`__
-
---------------
+========
 
 **robot**: n.
 
 See `*bot* <../B/bot.html>`__.
-
---------------
-
-+----------------------------------+----------------------------+---------------------------+
-| `Prev <robocanceller.html>`__    | `Up <../R.html>`__         |  `Next <robust.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
-| robocanceller                    | `Home <../index.html>`__   |  robust                   |
-+----------------------------------+----------------------------+---------------------------+
+ 
 
 robust
-
-`Prev <robot.html>`__ 
-
-R
-
- `Next <rococo.html>`__
-
---------------
+==========
 
 **robust**: adj.
 
@@ -2040,23 +1178,10 @@ Carries the additional connotation of elegance in addition to just
 careful attention to detail. Compare `*smart* <../S/smart.html>`__,
 oppose `*brittle* <../B/brittle.html>`__.
 
---------------
-
-+--------------------------+----------------------------+---------------------------+
-| `Prev <robot.html>`__    | `Up <../R.html>`__         |  `Next <rococo.html>`__   |
-+--------------------------+----------------------------+---------------------------+
-| robot                    | `Home <../index.html>`__   |  rococo                   |
-+--------------------------+----------------------------+---------------------------+
+ 
 
 rococo
-
-`Prev <robust.html>`__ 
-
-R
-
- `Next <rogue.html>`__
-
---------------
+=========
 
 **rococo**: adj.
 
@@ -2068,23 +1193,10 @@ architecture and decoration prevalent during the mid-1700s in Europe.
 Alan Perlis said: “Every program eventually becomes rococo, and then
 rubble.” Compare `*critical mass* <../C/critical-mass.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <robust.html>`__    | `Up <../R.html>`__         |  `Next <rogue.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| robust                    | `Home <../index.html>`__   |  rogue                   |
-+---------------------------+----------------------------+--------------------------+
+ 
 
 rogue
-
-`Prev <rococo.html>`__ 
-
-R
-
- `Next <room-temperature-IQ.html>`__
-
---------------
+===========
 
 **rogue**
 
@@ -2106,24 +1218,10 @@ customers, or which itself engages in such activities. Rogue ISPs are
 sometimes subject to `*IDP* <../I/IDP.html>`__\ s or
 `*UDP* <../U/UDP.html>`__\ s. Sometimes deliberately misspelled as
 “rouge”.
-
---------------
-
-+---------------------------+----------------------------+----------------------------------------+
-| `Prev <rococo.html>`__    | `Up <../R.html>`__         |  `Next <room-temperature-IQ.html>`__   |
-+---------------------------+----------------------------+----------------------------------------+
-| rococo                    | `Home <../index.html>`__   |  room-temperature IQ                   |
-+---------------------------+----------------------------+----------------------------------------+
+ 
 
 room-temperature IQ
-
-`Prev <rogue.html>`__ 
-
-R
-
- `Next <root.html>`__
-
---------------
+=====================
 
 **room-temperature IQ**: quant.
 
@@ -2134,23 +1232,10 @@ to play with the room-temperature IQ crowd?” See `*drool-proof
 paper* <../D/drool-proof-paper.html>`__. This is a much more insulting
 phrase in countries that use Celsius thermometers.
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <rogue.html>`__    | `Up <../R.html>`__         |  `Next <root.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| rogue                    | `Home <../index.html>`__   |  root                   |
-+--------------------------+----------------------------+-------------------------+
+ 
 
 root
-
-`Prev <room-temperature-IQ.html>`__ 
-
-R
-
- `Next <root-mode.html>`__
-
---------------
+==========
 
 **root**: n.
 
@@ -2166,23 +1251,10 @@ directory of the root user, but probably named after the root of an
 `*root mode* <root-mode.html>`__, `*go root* <../G/go-root.html>`__, see
 also `*wheel* <../W/wheel.html>`__.
 
---------------
-
-+----------------------------------------+----------------------------+------------------------------+
-| `Prev <room-temperature-IQ.html>`__    | `Up <../R.html>`__         |  `Next <root-mode.html>`__   |
-+----------------------------------------+----------------------------+------------------------------+
-| room-temperature IQ                    | `Home <../index.html>`__   |  root mode                   |
-+----------------------------------------+----------------------------+------------------------------+
+ 
 
 rootkit
-
-`Prev <root-mode.html>`__ 
-
-R
-
- `Next <rot13.html>`__
-
---------------
+=========
 
 **rootkit**: /root´kit/, n.
 
@@ -2192,24 +1264,10 @@ kiddies* <../S/script-kiddies.html>`__ use. After a cracker has first
 broken in and gained root access, he or she will install modified
 binaries such as a modified version login with a backdoor, or a version
 of ps that will not report the cracker's processes). This is a rootkit.
-
---------------
-
-+------------------------------+----------------------------+--------------------------+
-| `Prev <root-mode.html>`__    | `Up <../R.html>`__         |  `Next <rot13.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| root mode                    | `Home <../index.html>`__   |  rot13                   |
-+------------------------------+----------------------------+--------------------------+
+ 
 
 root mode
-
-`Prev <root.html>`__ 
-
-R
-
- `Next <rootkit.html>`__
-
---------------
+===========
 
 **root mode**: n.
 
@@ -2217,23 +1275,11 @@ Syn. with `*wizard mode* <../W/wizard-mode.html>`__ or wheel mode. Like
 these, it is often generalized to describe privileged states in systems
 other than OSes.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <root.html>`__    | `Up <../R.html>`__         |  `Next <rootkit.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| root                    | `Home <../index.html>`__   |  rootkit                   |
-+-------------------------+----------------------------+----------------------------+
+ 
 
 rot13
-
-`Prev <rootkit.html>`__ 
-
-R
-
- `Next <rotary-debugger.html>`__
-
---------------
+=========
+ 
 
 **rot13**: /rot ther´teen/, n.,v.
 
@@ -2249,23 +1295,10 @@ is self-inverse, so the same code can be used for encoding and decoding.
 See also `*spoiler space* <../S/spoiler-space.html>`__, which has partly
 displaced rot13 since non-Unix-based newsreaders became common.
 
---------------
-
-+----------------------------+----------------------------+------------------------------------+
-| `Prev <rootkit.html>`__    | `Up <../R.html>`__         |  `Next <rotary-debugger.html>`__   |
-+----------------------------+----------------------------+------------------------------------+
-| rootkit                    | `Home <../index.html>`__   |  rotary debugger                   |
-+----------------------------+----------------------------+------------------------------------+
+ 
 
 rotary debugger
-
-`Prev <rot13.html>`__ 
-
-R
-
- `Next <RSN.html>`__
-
---------------
+=================
 
 **rotary debugger**: n.
 
@@ -2274,45 +1307,17 @@ debugging sessions. Mainly used as sustenance for the hacker. Comes in
 many decorator colors, such as Sausage, Pepperoni, and Garbage. See
 `*ANSI standard pizza* <../A/ANSI-standard-pizza.html>`__.
 
---------------
-
-+--------------------------+----------------------------+------------------------+
-| `Prev <rot13.html>`__    | `Up <../R.html>`__         |  `Next <RSN.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| rot13                    | `Home <../index.html>`__   |  RSN                   |
-+--------------------------+----------------------------+------------------------+
-
 RSN
-
-`Prev <rotary-debugger.html>`__ 
-
-R
-
- `Next <RTBM.html>`__
-
---------------
+==========
 
 **RSN**: /R·S·N/, adj.
 
 See `*Real Soon Now* <Real-Soon-Now.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+-------------------------+
-| `Prev <rotary-debugger.html>`__    | `Up <../R.html>`__         |  `Next <RTBM.html>`__   |
-+------------------------------------+----------------------------+-------------------------+
-| rotary debugger                    | `Home <../index.html>`__   |  RTBM                   |
-+------------------------------------+----------------------------+-------------------------+
+ 
 
 RTBM
-
-`Prev <RSN.html>`__ 
-
-R
-
- `Next <RTFAQ.html>`__
-
---------------
+=======
 
 **RTBM**: /R·T·B·M/, imp.
 
@@ -2321,23 +1326,9 @@ to ‘Read The Bloody Manual’. RTBM is often the entire text of the first
 reply to a question from a `*newbie* <../N/newbie.html>`__; the *second*
 would escalate to “RTFM”.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <RSN.html>`__    | `Up <../R.html>`__         |  `Next <RTFAQ.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| RSN                    | `Home <../index.html>`__   |  RTFAQ                   |
-+------------------------+----------------------------+--------------------------+
-
 RTFAQ
-
-`Prev <RTBM.html>`__ 
-
-R
-
- `Next <RTFB.html>`__
-
---------------
+===========
+ 
 
 **RTFAQ**: /R·T·F·A·Q/, imp.
 
@@ -2346,23 +1337,9 @@ Abbrev. for ‘Read the FAQ!’, an exhortation that the person addressed
 ought to read the newsgroup's `*FAQ list* <../F/FAQ-list.html>`__ before
 posting questions.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <RTBM.html>`__    | `Up <../R.html>`__         |  `Next <RTFB.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| RTBM                    | `Home <../index.html>`__   |  RTFB                   |
-+-------------------------+----------------------------+-------------------------+
-
 RTFB
-
-`Prev <RTFAQ.html>`__ 
-
-R
-
- `Next <RTFM.html>`__
-
---------------
+=============
+ 
 
 **RTFB**: /R·T·F·B/, imp.
 
@@ -2376,23 +1353,10 @@ Of the various RTF? forms, ‘RTFB’ is the least pejorative against anyone
 asking a question for which RTFB is the answer; the anger here is
 directed at the absence of both source *and* adequate documentation.
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <RTFAQ.html>`__    | `Up <../R.html>`__         |  `Next <RTFM.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| RTFAQ                    | `Home <../index.html>`__   |  RTFM                   |
-+--------------------------+----------------------------+-------------------------+
+ 
 
 RTFM
-
-`Prev <RTFB.html>`__ 
-
-R
-
- `Next <RTFS.html>`__
-
---------------
+=========
 
 **RTFM**: /R·T·F·M/, imp.
 
@@ -2411,23 +1375,9 @@ this use is considered polite. See also `*FM* <../F/FM.html>`__,
 `*RTM* <RTM.html>`__, all of which mutated from RTFM, and compare
 `*UTSL* <../U/UTSL.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <RTFB.html>`__    | `Up <../R.html>`__         |  `Next <RTFS.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| RTFB                    | `Home <../index.html>`__   |  RTFS                   |
-+-------------------------+----------------------------+-------------------------+
-
+ 
 RTFS
-
-`Prev <RTFM.html>`__ 
-
-R
-
- `Next <RTI.html>`__
-
---------------
+=======
 
 **RTFS**: /R·T·F·S/
 
@@ -2459,23 +1409,8 @@ standards document is both unnecessary and technically deficient, the
 deprecation inherent in this term may be directed as much against the
 standard as against the person who ought to read it.
 
---------------
-
-+-------------------------+----------------------------+------------------------+
-| `Prev <RTFM.html>`__    | `Up <../R.html>`__         |  `Next <RTI.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| RTFM                    | `Home <../index.html>`__   |  RTI                   |
-+-------------------------+----------------------------+------------------------+
-
 RTI
-
-`Prev <RTFS.html>`__ 
-
-R
-
- `Next <RTM.html>`__
-
---------------
+=========
 
 **RTI**: /R·T·I/, interj.
 
@@ -2483,24 +1418,9 @@ The mnemonic for the ‘return from interrupt’ instruction on many
 computers including the 6502 and 6800. The variant RETI is found among
 Z80 hackers. Equivalent to “Now, where was I?” or used to end a
 conversational digression. See `*pop* <../P/pop.html>`__.
-
---------------
-
-+-------------------------+----------------------------+------------------------+
-| `Prev <RTFS.html>`__    | `Up <../R.html>`__         |  `Next <RTM.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| RTFS                    | `Home <../index.html>`__   |  RTM                   |
-+-------------------------+----------------------------+------------------------+
-
+ 
 RTM
-
-`Prev <RTI.html>`__ 
-
-R
-
- `Next <RTS.html>`__
-
---------------
+ 
 
 **RTM**: /R·T·M/
 
@@ -2515,23 +1435,9 @@ control as the result of a coding error. After the storm of negative
 publicity that followed this blunder, Morris's username on ITS was
 hacked from RTM to `*RTFM* <RTFM.html>`__.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <RTI.html>`__    | `Up <../R.html>`__         |  `Next <RTS.html>`__   |
-+------------------------+----------------------------+------------------------+
-| RTI                    | `Home <../index.html>`__   |  RTS                   |
-+------------------------+----------------------------+------------------------+
-
+ 
 RTS
-
-`Prev <RTM.html>`__ 
-
-R
-
- `Next <rubber-hose-cryptanalysis.html>`__
-
---------------
+===============
 
 **RTS**: /R·T·S/, imp.
 
@@ -2542,23 +1448,10 @@ application to. Particularly appropriate when the suit failed to notice
 the ‘Press any key to continue’ prompt, and wishes to know ‘why won't it
 do anything’. Also seen as ‘RTFS’ in especially deserving cases.
 
---------------
-
-+------------------------+----------------------------+----------------------------------------------+
-| `Prev <RTM.html>`__    | `Up <../R.html>`__         |  `Next <rubber-hose-cryptanalysis.html>`__   |
-+------------------------+----------------------------+----------------------------------------------+
-| RTM                    | `Home <../index.html>`__   |  rubber-hose cryptanalysis                   |
-+------------------------+----------------------------+----------------------------------------------+
+ 
 
 rubber-hose cryptanalysis
-
-`Prev <RTS.html>`__ 
-
-R
-
- `Next <rude.html>`__
-
---------------
+==============================
 
 **rubber-hose cryptanalysis**: n.
 
@@ -2572,23 +1465,8 @@ methods. Compare `*social
 engineering* <../S/social-engineering.html>`__, `*brute
 force* <../B/brute-force.html>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <RTS.html>`__    | `Up <../R.html>`__         |  `Next <rude.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| RTS                    | `Home <../index.html>`__   |  rude                   |
-+------------------------+----------------------------+-------------------------+
-
 rude
-
-`Prev <rubber-hose-cryptanalysis.html>`__ 
-
-R
-
- `Next <runes.html>`__
-
---------------
+=====================
 
 **rude**: adj.
 
@@ -2603,24 +1481,10 @@ other users in such a way as to cause a (non-fatal) problem. Examples:
 programs that change tty modes without resetting them on exit, or
 windowing programs that keep forcing themselves to the top of the window
 stack.
-
---------------
-
-+----------------------------------------------+----------------------------+--------------------------+
-| `Prev <rubber-hose-cryptanalysis.html>`__    | `Up <../R.html>`__         |  `Next <runes.html>`__   |
-+----------------------------------------------+----------------------------+--------------------------+
-| rubber-hose cryptanalysis                    | `Home <../index.html>`__   |  runes                   |
-+----------------------------------------------+----------------------------+--------------------------+
+ 
 
 runes
-
-`Prev <rude.html>`__ 
-
-R
-
- `Next <runic.html>`__
-
---------------
+================
 
 **runes**: pl.n.
 
@@ -2638,24 +1502,10 @@ IBM PC).
 
 3. [borderline techspeak] 16-bit characters from the Unicode
 multilingual character set.
-
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <rude.html>`__    | `Up <../R.html>`__         |  `Next <runic.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| rude                    | `Home <../index.html>`__   |  runic                   |
-+-------------------------+----------------------------+--------------------------+
+ 
 
 runic
-
-`Prev <runes.html>`__ 
-
-R
-
- `Next <rusty-iron.html>`__
-
---------------
+=================
 
 **runic**: adj.
 
@@ -2663,47 +1513,20 @@ Syn. `*obscure* <../O/obscure.html>`__. VMS fans sometimes refer to Unix
 as ‘Runix’; Unix fans return the compliment by expanding VMS to ‘Very
 Messy Syntax’ or ‘Vachement Mauvais Système’ (French idiom, “Hugely Bad
 System”).
-
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <runes.html>`__    | `Up <../R.html>`__         |  `Next <rusty-iron.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| runes                    | `Home <../index.html>`__   |  rusty iron                   |
-+--------------------------+----------------------------+-------------------------------+
+ 
 
 rusty iron
-
-`Prev <runic.html>`__ 
-
-R
-
- `Next <rusty-wire.html>`__
-
---------------
+================
 
 **rusty iron**: n.
 
 Syn. `*tired iron* <../T/tired-iron.html>`__. It has been claimed that
 this is the inevitable fate of `*water MIPS* <../W/water-MIPS.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <runic.html>`__    | `Up <../R.html>`__         |  `Next <rusty-wire.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| runic                    | `Home <../index.html>`__   |  rusty wire                   |
-+--------------------------+----------------------------+-------------------------------+
+ 
 
 rusty wire
-
-`Prev <rusty-iron.html>`__ 
-
-R
-
- `Next <../S.html>`__
-
---------------
+==================
 
 **rusty wire**: n.
 
@@ -2713,11 +1536,5 @@ to wireless links subject to all the vagaries of RF noise and marginal
 propagation conditions. “Yes, but how good is your whizbang new protocol
 on really rusty wire?”.
 
---------------
 
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <rusty-iron.html>`__    | `Up <../R.html>`__         |  `Next <../S.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| rusty iron                    | `Home <../index.html>`__   |  S                      |
-+-------------------------------+----------------------------+-------------------------+
 
