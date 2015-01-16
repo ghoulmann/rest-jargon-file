@@ -86,7 +86,7 @@ zen
 To figure out something by meditation or by a sudden flash of
 enlightenment. Originally applied to bugs, but occasionally applied to
 problems of life in general. “How'd you figure out the buffer allocation
-problem?” “Oh, I zenned it.” Contrast `*grok* <../G/grok.html>`__, which
+problem?” “Oh, I zenned it.” Contrast `grok<../G/grok.html>`__, which
 connotes a time-extended version of zenning a system. Compare `hack
 mode <../H/hack-mode.html>`__. See also `guru <../G/guru.html>`__.
 
@@ -96,7 +96,7 @@ zero-content
 
 **zero-content**: adj.
 
-Syn. `*content-free* <../C/content-free.html>`__.
+Syn. `content-free<../C/content-free.html>`__.
 
 
 
@@ -160,7 +160,7 @@ known as counters count in this way.
 Hackers and computer scientists often like to call the first chapter of
 a publication ‘Chapter 0’, especially if it is of an introductory nature
 (one of the classic instances was in the First Edition of
-`*K&R* <../K/K-ampersand-R.html>`__). In recent years this trait has
+`K&R<../K/K-ampersand-R.html>`__). In recent years this trait has
 also been observed among many pure mathematicians (who have an
 independent tradition of numbering from 0). Zero-based numbering tends
 to reduce `fencepost error <../F/fencepost-error.html>`__\ s, though

@@ -35,9 +35,9 @@ Here is a classic example of the saga form, as told by Guy L. Steele:
     Gabriel (RPG).
 
     RPG picked us up at the San Francisco airport and drove us back to
-    Palo Alto (going `*logical* <../L/logical.html>`__ south on route
-    101, parallel to `*El Camino
-    Bignum* <../E/El-Camino-Bignum.html>`__). Palo Alto is adjacent to
+    Palo Alto (going `logical <../L/logical.html>`__ south on route
+    101, parallel to `El Camino
+    Bignum <../E/El-Camino-Bignum.html>`__). Palo Alto is adjacent to
     Stanford University and about 40 miles south of San Francisco. We
     ate at The Good Earth, a ‘health food’ restaurant, very popular, the
     sort whose milkshakes all contain honey and protein powder. JONL
@@ -177,7 +177,7 @@ Here is a classic example of the saga form, as told by Guy L. Steele:
 [My spies on the West Coast inform me that there is a close relative of
 the raspberry found out there called an ‘ollalieberry’ —ESR]
 
-[Ironic footnote: the `*meme* <../M/meme.html>`__ about ginger vs.
+[Ironic footnote: the `meme <../M/meme.html>`__ about ginger vs.
 rotting meat is an urban legend. It's not borne out by an examination of
 medieval recipes or period purchase records for spices, and appears
 full-blown in the works of Samuel Pegge, a gourmand and notorious flake
@@ -208,7 +208,7 @@ SAIL
 early development of LISP; with the MIT AI Lab, BBN, CMU, XEROX PARC,
 and the Unix community, one of the major wellsprings of technical
 innovation and hacker-culture traditions (see the
-`*WAITS* <../W/WAITS.html>`__ entry for details). The SAIL machines were
+`WAITS <../W/WAITS.html>`__ entry for details). The SAIL machines were
 shut down in late May 1990, scant weeks after the MIT AI Lab's ITS
 cluster was officially decommissioned.
 
@@ -235,8 +235,8 @@ This reflects the widespread hacker belief that salescritters are
 self-selected for stupidity (after all, if they had brains and the
 inclination to use them, they'd be in programming). The terms salesthing
 and salesdroid are also common. Compare
-`*marketroid* <../M/marketroid.html>`__, `*suit* <suit.html>`__,
-`*droid* <../D/droid.html>`__.
+`marketroid <../M/marketroid.html>`__, `suit <suit.html>`__,
+`droid <../D/droid.html>`__.
 
 
 salt
@@ -247,7 +247,7 @@ salt
 **salt**: n.
 
 A tiny bit of near-random data inserted where too much regularity would
-be undesirable; a data `*frob* <../F/frob.html>`__ (sense 1). For
+be undesirable; a data `frob <../F/frob.html>`__ (sense 1). For
 example, the Unix crypt(3) man page mentions that “the salt string is
 used to perturb the DES algorithm in one of 4096 different ways.”
 
@@ -261,7 +261,7 @@ salt mines
 Dense quarters housing large numbers of programmers working long hours
 on grungy projects, with some hope of seeing the end of the tunnel in
 ``N`` years. Noted for their absence of sunshine. Compare
-`*playpen* <../P/playpen.html>`__, `*sandbox* <sandbox.html>`__.
+`playpen <../P/playpen.html>`__, `sandbox <sandbox.html>`__.
 
 
 salt substrate
@@ -286,10 +286,10 @@ same-day service
 **same-day service**: n.
 
 Ironic term used to describe long response time, particularly with
-respect to `*MS-DOS* <../M/MS-DOS.html>`__ and Windows system calls
+respect to `MS-DOS <../M/MS-DOS.html>`__ and Windows system calls
 (which ought to require only a tiny fraction of a second to execute).
 Such response time is a major incentive for programmers to write
-programs that are not `*well-behaved* <../W/well-behaved.html>`__.
+programs that are not `well-behaved <../W/well-behaved.html>`__.
 
 
 samizdat
@@ -308,11 +308,11 @@ never-formally-published computer documentation. Samizdat is obviously
 much easier when one has access to high-bandwidth networks and
 high-quality laser printers. Note that samizdat is properly used only
 with respect to documents which contain needed information (see also
-`*hacker ethic* <../H/hacker-ethic.html>`__) but which are for some
+`hacker ethic <../H/hacker-ethic.html>`__) but which are for some
 reason otherwise unavailable, but *not* in the context of documents
 which are available through normal channels, for which unauthorized
-duplication would be unethical copyright violation. See `*Lions
-Book* <../L/Lions-Book.html>`__ for a historical example.
+duplication would be unethical copyright violation. See `Lions
+Book <../L/Lions-Book.html>`__ for a historical example.
 
 
 samurai
@@ -328,17 +328,17 @@ electronic locksmith. In 1991, mainstream media reported the existence
 of a loose-knit culture of samurai that meets electronically on BBS
 systems, mostly bright teenagers with personal micros; they have modeled
 themselves explicitly on the historical samurai of Japan and on the “net
-cowboys” of William Gibson's `*cyberpunk* <../C/cyberpunk.html>`__
+cowboys” of William Gibson's `cyberpunk <../C/cyberpunk.html>`__
 novels. Those interviewed claim to adhere to a rigid ethic of loyalty to
 their employers and to disdain the vandalism and theft practiced by
 criminal crackers as beneath them and contrary to the hacker ethic; some
 quote Miyamoto Musashi's *Book of Five Rings*, a classic of historical
 samurai doctrine, in support of these principles. See also
-`*sneaker* <sneaker.html>`__, `*Stupids* <Stupids.html>`__, `*social
-engineering* <social-engineering.html>`__,
-`*cracker* <../C/cracker.html>`__, `*hacker
-ethic* <../H/hacker-ethic.html>`__, and `*dark-side
-hacker* <../D/dark-side-hacker.html>`__.
+`sneaker <sneaker.html>`__, `Stupids <Stupids.html>`__, `social
+engineering <social-engineering.html>`__,
+`cracker <../C/cracker.html>`__, `hacker
+ethic <../H/hacker-ethic.html>`__, and `dark-side
+hacker <../D/dark-side-hacker.html>`__.
 
 
 sandbender
@@ -348,8 +348,8 @@ sandbender
 **sandbender**: n.
 
 [IBM] A person involved with silicon lithography and the physical design
-of chips. Compare `*ironmonger* <../I/ironmonger.html>`__, `*polygon
-pusher* <../P/polygon-pusher.html>`__.
+of chips. Compare `ironmonger <../I/ironmonger.html>`__, `polygon
+pusher <../P/polygon-pusher.html>`__.
 
 
 sandbox
@@ -364,9 +364,9 @@ sandbox
 1. Common term for the R&D department at many software and computer
 companies (where hackers in commercial environments are likely to be
 found). Half-derisive, but reflects the truth that research is a form of
-creative play. Compare `*playpen* <../P/playpen.html>`__.
+creative play. Compare `playpen <../P/playpen.html>`__.
 
-2. Syn. `*link farm* <../L/link-farm.html>`__.
+2. Syn. `link farm <../L/link-farm.html>`__.
 
 3. A controlled environment within which potentially dangerous programs
 are run. Used esp. in reference to Java implementations.
@@ -390,7 +390,7 @@ scientific software relied on a particular formula and was giving
 unexpected results, one might first look at the nesting of parentheses
 or the coding of the formula, as a sanity check, before looking at the
 more complex I/O or data structure manipulation routines, much less the
-algorithm itself. Compare `*reality check* <../R/reality-check.html>`__.
+algorithm itself. Compare `reality check <../R/reality-check.html>`__.
 
 2. A run-time test, either validating input or ensuring that the program
 hasn't screwed up internally (producing an inconsistent value or state).
@@ -408,9 +408,9 @@ Saturday-night special
 **Saturday-night special**: n.
 
 [from police slang for a cheap handgun] A
-`*quick-and-dirty* <../Q/quick-and-dirty.html>`__ program or feature
+`quick-and-dirty <../Q/quick-and-dirty.html>`__ program or feature
 kluged together during off hours, under a deadline, and in response to
-pressure from a `*salescritter* <salescritter.html>`__. Such hacks are
+pressure from a `salescritter <salescritter.html>`__. Such hacks are
 dangerously unreliable, but all too often sneak into a production
 release after insufficient review.
 
@@ -424,12 +424,12 @@ say
 
 1. To type to a terminal. “To list a directory verbosely, you have to
 say **ls -l**.” Tends to imply a
-`*newline* <../N/newline.html>`__-terminated command (a ‘sentence’).
+`newline <../N/newline.html>`__-terminated command (a ‘sentence’).
 
 2. A computer may also be said to ‘say’ things to you, even if it
 doesn't have a speech synthesizer, by displaying them on a terminal in
 response to your commands. Hackers find it odd that this usage confuses
-`*mundane* <../M/mundane.html>`__\ s.
+`mundane <../M/mundane.html>`__\ s.
 
 
 
@@ -441,7 +441,7 @@ scag
 
 To destroy the data on a disk, either by corrupting the filesystem or by
 causing media damage. “That last power hit scagged the system disk.”
-Compare `*scrog* <scrog.html>`__, `*roach* <../R/roach.html>`__.
+Compare `scrog <scrog.html>`__, `roach <../R/roach.html>`__.
 
 
 scanno
@@ -452,7 +452,7 @@ scanno
 **scanno**: /skan´oh/, n.
 
 An error in a document caused by a scanner glitch, analogous to a typo
-or `*thinko* <../T/thinko.html>`__.
+or `thinko <../T/thinko.html>`__.
 
 
 
@@ -478,11 +478,11 @@ schroedinbug
 A design or implementation bug in a program that doesn't manifest until
 someone reading source or using the program in an unusual way notices
 that it never should have worked, at which point the program promptly
-stops working for everybody until fixed. Though (like `*bit
-rot* <../B/bit-rot.html>`__) this sounds impossible, it happens; some
+stops working for everybody until fixed. Though (like `bit
+rot <../B/bit-rot.html>`__) this sounds impossible, it happens; some
 programs have harbored latent schroedinbugs for years. Compare
-`*heisenbug* <../H/heisenbug.html>`__, `*Bohr
-bug* <../B/Bohr-bug.html>`__, `*mandelbug* <../M/mandelbug.html>`__.
+`heisenbug <../H/heisenbug.html>`__, `Bohr
+bug <../B/Bohr-bug.html>`__, `mandelbug <../M/mandelbug.html>`__.
 
 
 science-fiction fandom
@@ -496,20 +496,20 @@ most hackers read SF and/or fantasy fiction avidly, and many go to
 ‘cons’ (SF conventions) or are involved in fandom-connected activities
 such as the Society for Creative Anachronism. Some hacker jargon
 originated in SF fandom; see
-`*defenestration* <../D/defenestration.html>`__,
-`*great-wall* <../G/great-wall.html>`__,
-`*cyberpunk* <../C/cyberpunk.html>`__, `*h* <../H/h.html>`__, `*ha ha
-only serious* <../H/ha-ha-only-serious.html>`__,
-`*IMHO* <../I/IMHO.html>`__, `*mundane* <../M/mundane.html>`__,
-`*neep-neep* <../N/neep-neep.html>`__, `*Real Soon
-Now* <../R/Real-Soon-Now.html>`__. Additionally, the jargon terms
-`*cowboy* <../C/cowboy.html>`__,
-`*cyberspace* <../C/cyberspace.html>`__,
-`*de-rezz* <../D/de-rezz.html>`__, `*go
-flatline* <../G/go-flatline.html>`__, `*ice* <../I/ice.html>`__,
-`*phage* <../P/phage.html>`__, `*virus* <../V/virus.html>`__,
-`*wetware* <../W/wetware.html>`__, `*wirehead* <../W/wirehead.html>`__,
-and `*worm* <../W/worm.html>`__ originated in SF stories.
+`defenestration <../D/defenestration.html>`__,
+`great-wall <../G/great-wall.html>`__,
+`cyberpunk <../C/cyberpunk.html>`__, `h <../H/h.html>`__, `ha ha
+only serious <../H/ha-ha-only-serious.html>`__,
+`IMHO <../I/IMHO.html>`__, `mundane <../M/mundane.html>`__,
+`neep-neep <../N/neep-neep.html>`__, `Real Soon
+Now <../R/Real-Soon-Now.html>`__. Additionally, the jargon terms
+`cowboy <../C/cowboy.html>`__,
+`cyberspace <../C/cyberspace.html>`__,
+`de-rezz <../D/de-rezz.html>`__, `go
+flatline <../G/go-flatline.html>`__, `ice <../I/ice.html>`__,
+`phage <../P/phage.html>`__, `virus <../V/virus.html>`__,
+`wetware <../W/wetware.html>`__, `wirehead <../W/wirehead.html>`__,
+and `worm <../W/worm.html>`__ originated in SF stories.
 
 
 
@@ -532,15 +532,15 @@ scram switch
 **scram switch**: n.
 
 [from the nuclear power industry] An emergency-power-off switch (see
-`*Big Red Switch* <../B/Big-Red-Switch.html>`__), esp. one positioned to
+`Big Red Switch <../B/Big-Red-Switch.html>`__), esp. one positioned to
 be easily hit by evacuating personnel. In general, this is *not*
-something you `*frob* <../F/frob.html>`__ lightly; these often initiate
-expensive events (such as Halon dumps) and are installed in a `*dinosaur
-pen* <../D/dinosaur-pen.html>`__ for use in case of electrical fire or
-in case some luckless `*field servoid* <../F/field-servoid.html>`__
-should put 120 volts across himself while `*Easter
-egging* <../E/Easter-egging.html>`__. (See also
-`*molly-guard* <../M/molly-guard.html>`__, `*TMRC* <../T/TMRC.html>`__.)
+something you `frob <../F/frob.html>`__ lightly; these often initiate
+expensive events (such as Halon dumps) and are installed in a `dinosaur
+pen <../D/dinosaur-pen.html>`__ for use in case of electrical fire or
+in case some luckless `field servoid <../F/field-servoid.html>`__
+should put 120 volts across himself while `Easter
+egging <../E/Easter-egging.html>`__. (See also
+`molly-guard <../M/molly-guard.html>`__, `TMRC <../T/TMRC.html>`__.)
 
 “Scram” was in origin a backronym for “Safety Cut Rope Axe Man” coined
 by Enrico Fermi himself. The story goes that in the earliest nuclear
@@ -553,8 +553,8 @@ next to the ropes or cables that raised and lowered the control rods.
 Equipped with axes or cable-cutters, these technicians stood ready for
 the (literal) ‘scram’ command. If necessary, they would cut the cables,
 and gravity would expeditiously return the control rods to the reactor,
-thereby averting yet another kind of `*core
-dump* <../C/core-dump.html>`__.
+thereby averting yet another kind of `core
+dump <../C/core-dump.html>`__.
 
 Modern reactor control rods are held in place with claw-like devices,
 held closed by current. SCRAM switches are circuit breakers that
@@ -569,10 +569,10 @@ scratch
 
 1. [from scratchpad] adj. Describes a data structure or recording medium
 attached to a machine for testing or temporary-use purposes; one that
-can be `*scribble* <scribble.html>`__\ d on without loss. Usually in the
+can be `scribble <scribble.html>`__\ d on without loss. Usually in the
 combining forms scratch memory, scratch register, scratch disk, scratch
-tape, scratch volume. See also `*scratch
-monkey* <scratch-monkey.html>`__.
+tape, scratch volume. See also `scratch
+monkey <scratch-monkey.html>`__.
 
 2. [primarily IBM, also Commodore] vt. To delete (as in a file).
 
@@ -596,8 +596,8 @@ S
 
 **scratch monkey**: n.
 
-As in “Before testing or reconfiguring, always mount a `*scratch
-monkey* <scratch-monkey.html>`__\ ”, a proverb used to advise caution
+As in “Before testing or reconfiguring, always mount a `scratch
+monkey <scratch-monkey.html>`__\ ”, a proverb used to advise caution
 when dealing with irreplaceable data or devices. Used to refer to any
 scratch volume hooked to a computer during any risky operation as a
 replacement for some precious resource or data that might otherwise get
@@ -609,25 +609,25 @@ Mabel was not (so the legend goes) your ordinary monkey; the university
 had spent years teaching her how to swim, breathing through a regulator,
 in order to study the effects of different gas mixtures on her
 physiology. Mabel suffered an untimely demise one day when a
-`*DEC* <../D/DEC.html>`__ `*field circus* <../F/field-circus.html>`__
+`DEC <../D/DEC.html>`__ `field circus <../F/field-circus.html>`__
 engineer troubleshooting a crash on the program's
-`*VAX* <../V/VAX.html>`__ inadvertently interfered with some custom
+`VAX <../V/VAX.html>`__ inadvertently interfered with some custom
 hardware that was wired to Mabel.
 
 It is reported that, after calming down an understandably irate customer
 sufficiently to ascertain the facts of the matter, a DEC troubleshooter
-called up the `*field circus* <../F/field-circus.html>`__ manager
+called up the `field circus <../F/field-circus.html>`__ manager
 responsible and asked him sweetly, “Can you swim?” Not all the
 consequences to humans were so amusing; the sysop of the machine in
 question was nearly thrown in jail at the behest of certain clueless
-`*droid* <../D/droid.html>`__\ s at the local ‘humane’ society. The
+`droid <../D/droid.html>`__\ s at the local ‘humane’ society. The
 moral is clear: When in doubt, always mount a scratch monkey. [The
 actual incident occured in 1979 or 1980. There is a version of this
 story, complete with reported dialogue between one of the project people
 and DEC field service, that has been circulating on Internet since 1986.
 It is hilarious and mythic, but gets some facts wrong. For example, it
-reports the machine as a `*PDP-11* <../P/PDP-11.html>`__ and alleges
-that Mabel's demise occurred when DEC `*PM* <../P/PM.html>`__\ ed the
+reports the machine as a `PDP-11 <../P/PDP-11.html>`__ and alleges
+that Mabel's demise occurred when DEC `PM <../P/PM.html>`__\ ed the
 machine. Earlier versions of this entry were based on that story; this
 one has been corrected from an interview with the hapless sysop. —ESR]
 
@@ -651,7 +651,7 @@ S
 
 **scream and die**: v.
 
-Syn. `*cough and die* <../C/cough-and-die.html>`__, but connotes that an
+Syn. `cough and die <../C/cough-and-die.html>`__, but connotes that an
 error message was printed or displayed before the program crashed.
 
 --------------
@@ -706,8 +706,8 @@ S
 
 **screen**: n.
 
-[Atari ST `*demoscene* <../D/demoscene.html>`__] One
-`*demoeffect* <../D/demoeffect.html>`__ or one screenful of them.
+[Atari ST `demoscene <../D/demoscene.html>`__] One
+`demoeffect <../D/demoeffect.html>`__ or one screenful of them.
 Probably comes from old Sierra-style adventures or shoot-em-ups where
 one travels from one place to another one screenful at a time.
 
@@ -731,7 +731,7 @@ S
 
 **screen name**: n.
 
-A `*handle* <../H/handle.html>`__ sense
+A `handle <../H/handle.html>`__ sense
 
 1. This term has been common among users of IRC, MUDs, and commercial
 on-line services since the mid-1990s. Hackers recognize the term but
@@ -787,7 +787,7 @@ S
 
 **screwage**: /skroo'@j/, n.
 
-Like `*lossage* <../L/lossage.html>`__ but connotes that the failure is
+Like `lossage <../L/lossage.html>`__ but connotes that the failure is
 due to a designed-in misfeature rather than a simple inadequacy or a
 mere bug.
 
@@ -811,7 +811,7 @@ S
 
 **screw**: n.
 
-[MIT] A `*lose* <../L/lose.html>`__, usually in software. Especially
+[MIT] A `lose <../L/lose.html>`__, usually in software. Especially
 used for user-visible misbehavior caused by a bug or misfeature. This
 use has become quite widespread outside MIT.
 
@@ -839,8 +839,8 @@ To modify a data structure in a random and unintentionally destructive
 way. “Bletch! Somebody's disk-compactor program went berserk and
 scribbled on the i-node table.” “It was working fine until one of the
 allocation routines scribbled on low core.” Synonymous with
-`*trash* <../T/trash.html>`__; compare `*mung* <../M/mung.html>`__,
-which conveys a bit more intention, and `*mangle* <../M/mangle.html>`__,
+`trash <../T/trash.html>`__; compare `mung <../M/mung.html>`__,
+which conveys a bit more intention, and `mangle <../M/mangle.html>`__,
 which is more violent and final.
 
 --------------
@@ -863,10 +863,10 @@ S
 
 **script kiddies**: pl.n.
 
-1. [very common] The lowest form of `*cracker* <../C/cracker.html>`__;
+1. [very common] The lowest form of `cracker <../C/cracker.html>`__;
 script kiddies do mischief with scripts and
-`*rootkit* <../R/rootkit.html>`__\ s written by others, often without
-understanding the `*exploit* <../E/exploit.html>`__ they are using. Used
+`rootkit <../R/rootkit.html>`__\ s written by others, often without
+understanding the `exploit <../E/exploit.html>`__ they are using. Used
 of people with limited technical expertise using easy-to-operate,
 pre-configured, and/or automated tools to conduct disruptive activities
 against networked systems. Since most of these tools are fairly
@@ -902,9 +902,9 @@ S
 
 [Bell Labs] To damage, trash, or corrupt a data structure. “The list
 header got scrogged.” Also reported as skrog, and ascribed to the comic
-strip *The Wizard of Id*. Compare `*scag* <scag.html>`__; possibly the
-two are related. Equivalent to `*scribble* <scribble.html>`__ or
-`*mangle* <../M/mangle.html>`__.
+strip *The Wizard of Id*. Compare `scag <scag.html>`__; possibly the
+two are related. Equivalent to `scribble <scribble.html>`__ or
+`mangle <../M/mangle.html>`__.
 
 --------------
 
@@ -977,7 +977,7 @@ S
 
 **scruffies**: n.
 
-See `*neats vs. scruffies* <../N/neats-vs--scruffies.html>`__.
+See `neats vs. scruffies <../N/neats-vs--scruffies.html>`__.
 
 --------------
 
@@ -1027,19 +1027,19 @@ S
 
 **SCSI voodoo**: /skuz´ee voo´doo/
 
-[common among Mac users] `*SCSI* <SCSI.html>`__ interface hardware is
+[common among Mac users] `SCSI <SCSI.html>`__ interface hardware is
 notoriously fickle of temperament. Often, the SCSI bus will fail to work
 unless the cable order of devices is re-arranged, SCSI termination is
 added or removed (sometimes double-termination or *no* termination will
 fix the problem), or particular devices are given particular SCSI IDs.
 The skills needed to trick the naturally skittish demons of SCSI into
 working are collectively known as SCSI voodoo. Compare
-`*magic* <../M/magic.html>`__, `*deep magic* <../D/deep-magic.html>`__,
-`*heavy wizardry* <../H/heavy-wizardry.html>`__, `*rain
-dance* <../R/rain-dance.html>`__, `*cargo cult
-programming* <../C/cargo-cult-programming.html>`__, `*wave a dead
-chicken* <../W/wave-a-dead-chicken.html>`__, `*voodoo
-programming* <../V/voodoo-programming.html>`__.
+`magic <../M/magic.html>`__, `deep magic <../D/deep-magic.html>`__,
+`heavy wizardry <../H/heavy-wizardry.html>`__, `rain
+dance <../R/rain-dance.html>`__, `cargo cult
+programming <../C/cargo-cult-programming.html>`__, `wave a dead
+chicken <../W/wave-a-dead-chicken.html>`__, `voodoo
+programming <../V/voodoo-programming.html>`__.
 
 While ordinary mortals frequently experience near-terminal frustration
 when attempting to configure SCSI device chains, it is said that a true
@@ -1071,7 +1071,7 @@ S
 
 Hackerism for a noninteractive search-and-replace facility in an editor,
 so called because an incautiously chosen match pattern can cause
-`*infinite* <../I/infinite.html>`__ damage.
+`infinite <../I/infinite.html>`__ damage.
 
 --------------
 
@@ -1093,15 +1093,15 @@ S
 
 **secondary damage**: n.
 
-When a fatal error occurs (esp. a `*segfault* <segfault.html>`__) the
+When a fatal error occurs (esp. a `segfault <segfault.html>`__) the
 immediate cause may be that a pointer has been trashed due to a previous
-`*fandango on core* <../F/fandango-on-core.html>`__. However, this
+`fandango on core <../F/fandango-on-core.html>`__. However, this
 fandango may have been due to an *earlier* fandango, so no amount of
 analysis will reveal (directly) how the damage occurred. “The data
 structure was clobbered, but it was secondary damage.” By extension, the
 corruption resulting from ``N`` cascaded fandangoes on core is
 ‘\ ``N``\ th-level damage’. There is at least one case on record in
-which 17 hours of `*grovel* <../G/grovel.html>`__\ ling with **adb**
+which 17 hours of `grovel <../G/grovel.html>`__\ ling with **adb**
 actually dug up the underlying bug behind an instance of seventh-level
 damage! The hacker who accomplished this near-superhuman feat was
 presented with an award by his fellows.
@@ -1129,17 +1129,17 @@ S
 (sometimes, more euphoniously, second-system syndrome) When one is
 designing the successor to a relatively small, elegant, and successful
 system, there is a tendency to become grandiose in one's success and
-design an `*elephantine* <../E/elephantine.html>`__ feature-laden
+design an `elephantine <../E/elephantine.html>`__ feature-laden
 monstrosity. The term was first used by Fred Brooks in his classic *The
 Mythical Man-Month: Essays on Software Engineering* (Addison-Wesley,
 1975; ISBN 0-201-00650-2). It described the jump from a set of nice,
 simple operating systems on the IBM 70xx series to OS/360 on the 360
 series. A similar effect can also happen in an evolving system; see
-`*Brooks's Law* <../B/Brookss-Law.html>`__, `*creeping
-elegance* <../C/creeping-elegance.html>`__, `*creeping
-featurism* <../C/creeping-featurism.html>`__. See also
-`*Multics* <../M/Multics.html>`__, `*OS/2* <../O/OS-2.html>`__,
-`*X* <../X/X.html>`__, `*software bloat* <software-bloat.html>`__.
+`Brooks's Law <../B/Brookss-Law.html>`__, `creeping
+elegance <../C/creeping-elegance.html>`__, `creeping
+featurism <../C/creeping-featurism.html>`__. See also
+`Multics <../M/Multics.html>`__, `OS/2 <../O/OS-2.html>`__,
+`X <../X/X.html>`__, `software bloat <software-bloat.html>`__.
 
 This version of the jargon lexicon has been described (with altogether
 too much truth for comfort) as an example of second-system effect run
@@ -1171,8 +1171,8 @@ them, documenting neither any known holes nor the underlying security
 algorithms, trusting that nobody will find out about them and that
 people who do find out about them won't exploit them. This “strategy”
 never works for long and occasionally sets the world up for debacles
-like the `*RTM* <../R/RTM.html>`__ worm of 1988 (see `*Great
-Worm* <../G/Great-Worm.html>`__), but once the brief moments of panic
+like the `RTM <../R/RTM.html>`__ worm of 1988 (see `Great
+Worm <../G/Great-Worm.html>`__), but once the brief moments of panic
 created by such events subside most vendors are all too willing to turn
 over and go back to sleep. After all, actually fixing the bugs would
 siphon off the resources needed to implement the next user-interface
@@ -1185,10 +1185,10 @@ where would we be?
 Historical note: There are conflicting stories about the origin of this
 term. It has been claimed that it was first used in the Usenet newsgroup
 ``comp.sys.apollo`` during a campaign to get HP/Apollo to fix security
-problems in its Unix-`*clone* <../C/clone.html>`__ Aegis/DomainOS (they
-didn't change a thing). `*ITS* <../I/ITS.html>`__ fans, on the other
+problems in its Unix-`clone <../C/clone.html>`__ Aegis/DomainOS (they
+didn't change a thing). `ITS <../I/ITS.html>`__ fans, on the other
 hand, say it was coined years earlier in opposition to the incredibly
-paranoid `*Multics* <../M/Multics.html>`__ people down the hall, for
+paranoid `Multics <../M/Multics.html>`__ people down the hall, for
 whom security was everything. In the ITS culture it referred to (1) the
 fact that by the time a tourist figured out how to make trouble he'd
 generally gotten over the urge to make it, because he felt part of the
@@ -1220,8 +1220,8 @@ S
 **SED**: /S·E·D/, n.
 
 [TMRC, from ‘Light-Emitting Diode’] Smoke-emitting diode. A
-`*friode* <../F/friode.html>`__ that lost the war. See also
-`*LER* <../L/LER.html>`__. [Not to be confused with sed(1), the Unix
+`friode <../F/friode.html>`__ that lost the war. See also
+`LER <../L/LER.html>`__. [Not to be confused with sed(1), the Unix
 stream editor. —ESR]
 
 --------------
@@ -1268,8 +1268,8 @@ S
 
 **segfault**: n.,vi.
 
-Syn. `*segment* <segment.html>`__, `*segmentation
-fault* <segmentation-fault.html>`__.
+Syn. `segment <segment.html>`__, `segmentation
+fault <segmentation-fault.html>`__.
 
 --------------
 
@@ -1291,7 +1291,7 @@ S
 
 **seggie**: /seg´ee/, n.
 
-[Unix] Shorthand for `*segmentation fault* <segmentation-fault.html>`__
+[Unix] Shorthand for `segmentation fault <segmentation-fault.html>`__
 reported from Britain.
 
 --------------
@@ -1317,7 +1317,7 @@ S
 [Unix]
 
 1. [techspeak] An error in which a running program attempts to access
-memory not allocated to it and `*core dump* <../C/core-dump.html>`__\ s
+memory not allocated to it and `core dump <../C/core-dump.html>`__\ s
 with a segmentation violation error. This is often caused by improper
 usage of pointers in the source code, dereferencing a null pointer, or
 (in C) inadvertently using a non-pointer variable as a pointer. The
@@ -1350,7 +1350,7 @@ S
 
 **segment**: /seg´ment/, vi.
 
-To experience a `*segmentation fault* <segmentation-fault.html>`__.
+To experience a `segmentation fault <segmentation-fault.html>`__.
 Confusingly, this is often pronounced more like the noun ‘segment’ than
 like mainstream v. segment; this is because it is actually a noun
 shorthand that has been verbed.
@@ -1375,8 +1375,8 @@ S
 
 **segv**: /seg´vee/, n.,vi.
 
-Yet another synonym for `*segmentation
-fault* <segmentation-fault.html>`__ (actually, in this case,
+Yet another synonym for `segmentation
+fault <segmentation-fault.html>`__ (actually, in this case,
 ‘segmentation violation’).
 
 --------------
@@ -1399,7 +1399,7 @@ S
 
 **self-reference**: n.
 
-See `*self-reference* <self-reference.html>`__.
+See `self-reference <self-reference.html>`__.
 
 --------------
 
@@ -1421,7 +1421,7 @@ S
 
 **selvage**: /sel´v@j/, n.
 
-[from sewing and weaving] See `*chad* <../C/chad.html>`__ (sense 1).
+[from sewing and weaving] See `chad <../C/chad.html>`__ (sense 1).
 
 --------------
 
@@ -1471,13 +1471,13 @@ S
 **semi**: /se´mee/, /se´mi:/
 
 1. n. Abbreviation for ‘semicolon’, when speaking. “Commands to
-`*grind* <../G/grind.html>`__ are prefixed by semi-semi-star” means that
+`grind <../G/grind.html>`__ are prefixed by semi-semi-star” means that
 the prefix is ``;;*``, not 1/4 of a star.
 
 2. A prefix used with words such as ‘immediately’ as a qualifier. “When
 is the system coming up?” “Semi-immediately.” (That is, maybe not for an
 hour.) “We did consider that possibility semi-seriously.” See also
-`*infinite* <../I/infinite.html>`__.
+`infinite <../I/infinite.html>`__.
 
 --------------
 
@@ -1499,7 +1499,7 @@ S
 
 **semi-infinite**: n.
 
-See `*infinite* <../I/infinite.html>`__.
+See `infinite <../I/infinite.html>`__.
 
 --------------
 
@@ -1521,7 +1521,7 @@ S
 
 **senior bit**: n.
 
-[IBM; rare] Syn. `*meta bit* <../M/meta-bit.html>`__.
+[IBM; rare] Syn. `meta bit <../M/meta-bit.html>`__.
 
 --------------
 
@@ -1545,7 +1545,7 @@ S
 
 All time since September 1993. One of the seasonal rhythms of the Usenet
 used to be the annual September influx of clueless newbies who, lacking
-any sense of `*netiquette* <../N/netiquette.html>`__, made a general
+any sense of `netiquette <../N/netiquette.html>`__, made a general
 nuisance of themselves. This coincided with people starting college,
 getting their first internet accounts, and plunging in without bothering
 to learn what was acceptable. These relatively small drafts of newbies
@@ -1554,7 +1554,7 @@ users became able to post to Usenet, nearly overwhelming the old-timers'
 capacity to acculturate them; to those who nostalgically recall the
 period before, this triggered an inexorable decline in the quality of
 discussions on newsgroups. Syn. eternal September. See also
-`*AOL!* <../A/AOL-.html>`__.
+`AOL! <../A/AOL-.html>`__.
 
 --------------
 
@@ -1576,7 +1576,7 @@ S
 
 **server**: n.
 
-A kind of `*daemon* <../D/daemon.html>`__ that performs a service for
+A kind of `daemon <../D/daemon.html>`__ that performs a service for
 the requester and which often runs on a computer other than the one on
 which the requestor/client runs. A particularly common term on the
 Internet, which is rife with web servers, name servers, domain servers,
@@ -1602,7 +1602,7 @@ S
 
 **sex changer**: n.
 
-Syn. `*gender mender* <../G/gender-mender.html>`__.
+Syn. `gender mender <../G/gender-mender.html>`__.
 
 --------------
 
@@ -1630,20 +1630,20 @@ S
 hundreds of millions of years ago to speed up their evolution, which had
 been terribly slow up until then. Today, SEX parties are popular among
 hackers and others (of course, these are no longer limited to exchanges
-of genetic software). In general, SEX parties are a `*Good
-Thing* <../G/Good-Thing.html>`__, but unprotected SEX can propagate a
-`*virus* <../V/virus.html>`__. See also `*pubic
-directory* <../P/pubic-directory.html>`__.
+of genetic software). In general, SEX parties are a `Good
+Thing <../G/Good-Thing.html>`__, but unprotected SEX can propagate a
+`virus <../V/virus.html>`__. See also `pubic
+directory <../P/pubic-directory.html>`__.
 
 2. The rather Freudian mnemonic often used for Sign EXtend, a machine
-instruction found in the `*PDP-11* <../P/PDP-11.html>`__ and many other
+instruction found in the `PDP-11 <../P/PDP-11.html>`__ and many other
 architectures. The RCA 1802 chip used in the early Elf and SuperElf
 personal computers had a ‘SEt X register’ SEX instruction, but this
 seems to have had little folkloric impact. The Data General instruction
 set also had **SEX**.
 
-`*DEC* <../D/DEC.html>`__'s engineers nearly got a
-`*PDP-11* <../P/PDP-11.html>`__ assembler that used the **SEX** mnemonic
+`DEC <../D/DEC.html>`__'s engineers nearly got a
+`PDP-11 <../P/PDP-11.html>`__ assembler that used the **SEX** mnemonic
 out the door at one time, but (for once) marketing wasn't asleep and
 forced a change. That wasn't the last time this happened, either. The
 author of *The Intel 8086 Primer*, who was one of the original designers
@@ -1707,7 +1707,7 @@ S
 **sharchive**: /shar´ki:v/, n.
 
 [Unix and Usenet; from /bin/sh archive] A
-`*flatten* <../F/flatten.html>`__\ ed representation of a set of one or
+`flatten <../F/flatten.html>`__\ ed representation of a set of one or
 more files, with the unique property that it can be unflattened (the
 original files restored) by feeding it through a standard Unix shell;
 thus, a sharchive can be distributed to anyone running Unix, and no
@@ -1719,7 +1719,7 @@ commonly referred to as ‘shar files’ after the name of the most common
 program for generating them.
 
 The downsides of sharchives are that they are an ideal venue for
-`*Trojan horse* <../T/Trojan-horse.html>`__ attacks and that, for
+`Trojan horse <../T/Trojan-horse.html>`__ attacks and that, for
 recipients not running Unix, no simple un-sharchiving program is
 possible; sharchives can and do make use of arbitrarily-powerful shell
 features. For these reasons, this technique has largely fallen out of
@@ -1746,13 +1746,13 @@ S
 **Share and enjoy!**: imp.
 
 1. Commonly found at the end of software release announcements and
-`*README file* <../R/README-file.html>`__\ s, this phrase indicates
-allegiance to the hacker ethic of free information sharing (see `*hacker
-ethic* <../H/hacker-ethic.html>`__, sense 1).
+`README file <../R/README-file.html>`__\ s, this phrase indicates
+allegiance to the hacker ethic of free information sharing (see `hacker
+ethic <../H/hacker-ethic.html>`__, sense 1).
 
 2. The motto of the complaints division of Sirius Cybernetics
 Corporation (the ultimate gaggle of incompetent
-`*suit* <suit.html>`__\ s) in Douglas Adams's *Hitch Hiker's Guide to
+`suit <suit.html>`__\ s) in Douglas Adams's *Hitch Hiker's Guide to
 the Galaxy*. The irony of using this as a cultural recognition signal
 appeals to hackers.
 
@@ -1776,17 +1776,17 @@ S
 
 **shareware**: /sheir´weir/, n.
 
-A kind of `*freeware* <../F/freeware.html>`__ for which the author
+A kind of `freeware <../F/freeware.html>`__ for which the author
 requests some payment, usually in the accompanying documentation files
 or in an announcement made by the software itself. Such payment may or
 may not buy additional support or functionality. See also
-`*careware* <../C/careware.html>`__,
-`*charityware* <../C/charityware.html>`__,
-`*crippleware* <../C/crippleware.html>`__, `*FRS* <../F/FRS.html>`__,
-`*guiltware* <../G/guiltware.html>`__,
-`*postcardware* <../P/postcardware.html>`__, and
-`*-ware* <../W/suffix-ware.html>`__; compare
-`*payware* <../P/payware.html>`__.
+`careware <../C/careware.html>`__,
+`charityware <../C/charityware.html>`__,
+`crippleware <../C/crippleware.html>`__, `FRS <../F/FRS.html>`__,
+`guiltware <../G/guiltware.html>`__,
+`postcardware <../P/postcardware.html>`__, and
+`-ware <../W/suffix-ware.html>`__; compare
+`payware <../P/payware.html>`__.
 
 --------------
 
@@ -1808,7 +1808,7 @@ S
 
 **shar file**: /shar´ fi:l/, n.
 
-Syn. `*sharchive* <sharchive.html>`__.
+Syn. `sharchive <sharchive.html>`__.
 
 --------------
 
@@ -1830,7 +1830,7 @@ S
 
 **sharing violation**
 
-[From a file error common to several `*OS* <../O/OS.html>`__\ es] A
+[From a file error common to several `OS <../O/OS.html>`__\ es] A
 response to receiving information, typically of an excessively personal
 nature, that you were probably happier not knowing. “You know those
 little noises that Pat makes in bed?” “Whoa! Sharing violation!” In
@@ -1907,7 +1907,7 @@ S
 
 **shell**: n.
 
-[orig. `*Multics* <../M/Multics.html>`__ techspeak, widely propagated
+[orig. `Multics <../M/Multics.html>`__ techspeak, widely propagated
 via Unix]
 
 1. [techspeak] The command interpreter used to pass commands to an
@@ -1915,14 +1915,14 @@ operating system; so called because it is the part of the operating
 system that interfaces with the outside world.
 
 2. More generally, any interface program that mediates access to a
-special resource or `*server* <server.html>`__ for convenience,
+special resource or `server <server.html>`__ for convenience,
 efficiency, or security reasons; for this meaning, the usage is usually
 a shell around whatever. This sort of program is also called a wrapper.
 
 3. A skeleton program, created by hand or by another program (like, say,
 a parser generator), which provides the necessary
-`*incantation* <../I/incantation.html>`__\ s to set up some task and the
-control flow to drive it (the term `*driver* <../D/driver.html>`__ is
+`incantation <../I/incantation.html>`__\ s to set up some task and the
+control flow to drive it (the term `driver <../D/driver.html>`__ is
 sometimes used synonymously). The user is meant to fill in whatever code
 is needed to get real work done. This usage is common in the AI and
 Microsoft Windows worlds, and confuses Unix hackers.
@@ -1954,7 +1954,7 @@ S
 
 **shell out**: vi.
 
-[Unix] To `*spawn* <spawn.html>`__ an interactive subshell from within a
+[Unix] To `spawn <spawn.html>`__ an interactive subshell from within a
 program (e.g., a mailer or editor). “Bang foo runs foo in a subshell,
 while bang alone shells out.”
 
@@ -1985,8 +1985,8 @@ S
 2. imper. “Get out of my seat! You can shift to that empty one to the
 left (right).” Often used without the logical, or as left shift instead
 of shift left. Sometimes heard as LSH /lish/, from the
-`*PDP-10* <../P/PDP-10.html>`__ instruction set. See `*Programmer's
-Cheer* <../P/Programmers-Cheer.html>`__.
+`PDP-10 <../P/PDP-10.html>`__ instruction set. See `Programmer's
+Cheer <../P/Programmers-Cheer.html>`__.
 
 --------------
 
@@ -2010,10 +2010,10 @@ S
 
 1. A small piece of data inserted in order to achieve a desired memory
 alignment or other addressing property. For example, the
-`*PDP-11* <../P/PDP-11.html>`__ Unix linker, in split I&D (instructions
+`PDP-11 <../P/PDP-11.html>`__ Unix linker, in split I&D (instructions
 and data) mode, inserts a two-byte shim at location 0 in data space so
 that no data object will have an address of 0 (and be confused with the
-C null pointer). See also `*loose bytes* <../L/loose-bytes.html>`__.
+C null pointer). See also `loose bytes <../L/loose-bytes.html>`__.
 
 2. A type of small transparent image inserted into HTML documents by
 certain WYSIWYG HTML editors, used to set the spacing of elements meant
@@ -2022,7 +2022,7 @@ on the HTML code of such pages afterwards invariably curse these for
 their crocky dependence on the particular spacing of original image
 file, the editor that generated them, and the version of the browser
 used to view them. Worse, they are a poorly designed
-`*kludge* <../K/kludge.html>`__ which the advent of Cascading Style
+`kludge <../K/kludge.html>`__ which the advent of Cascading Style
 Sheets makes wholly unnecessary; Any fool can plainly see that use of
 borders, layers and positioned elements is the Right Thing (or would be
 if adequate support for CSS were more common).
@@ -2048,7 +2048,7 @@ S
 **shitogram**: /shit´oh·gram/, n.
 
 A *really* nasty piece of email. Compare
-`*nastygram* <../N/nastygram.html>`__, `*flame* <../F/flame.html>`__.
+`nastygram <../N/nastygram.html>`__, `flame <../F/flame.html>`__.
 
 --------------
 
@@ -2070,8 +2070,8 @@ S
 
 **shotgun debugging**: n.
 
-The software equivalent of `*Easter
-egging* <../E/Easter-egging.html>`__; the making of relatively
+The software equivalent of `Easter
+egging <../E/Easter-egging.html>`__; the making of relatively
 undirected changes to software in the hope that a bug will be perturbed
 out of existence. This almost never works, and usually introduces more
 bugs.
@@ -2148,7 +2148,7 @@ S
 
 **shriek**: n.
 
-See `*excl* <../E/excl.html>`__. Occasional CMU usage, also in common
+See `excl <../E/excl.html>`__. Occasional CMU usage, also in common
 use among APL fans and mathematicians, especially category theorists.
 
 --------------
@@ -2184,14 +2184,14 @@ follows along the lines of: “Shub-Internet gulps down the tac nuke and
 burps happily.”) Also cursed by users of the Web, FTP and telnet when
 the network lags. The dread name of Shub-Internet is seldom spoken
 aloud, as it is said that repeating it three times will cause the being
-to wake, deep within its lair beneath the Pentagon. Compare `*Random
-Number God* <../R/Random-Number-God.html>`__.
+to wake, deep within its lair beneath the Pentagon. Compare `Random
+Number God <../R/Random-Number-God.html>`__.
 
 [January 1996: It develops that one of the computer administrators in
 the basement of the Pentagon read this entry and fell over laughing. As
 a result, you too can now poke Shub-Internet by
-`*ping* <../P/ping.html>`__\ ing ``shub-internet.ims.disa.mil``. Compare
-`*kremvax* <../K/kremvax.html>`__. —ESR]
+`ping <../P/ping.html>`__\ ing ``shub-internet.ims.disa.mil``. Compare
+`kremvax <../K/kremvax.html>`__. —ESR]
 
 [April 1999: shub-internet.ims.disa.mil is no more, alas. But
 Shub-Internet lives, and even has a `home
@@ -2220,17 +2220,17 @@ S
 [Internet and Usenet; often written ‘.sig’ there] Short for ‘signature’,
 used specifically to refer to the electronic signature block that most
 Unix mail- and news-posting software will
-`*automagically* <../A/automagically.html>`__ append to outgoing mail
+`automagically <../A/automagically.html>`__ append to outgoing mail
 and news. The composition of one's sig can be quite an art form,
-including an ASCII logo, one's choice of witty sayings (see `*sig
-quote* <sig-quote.html>`__, `*fool file* <../F/fool-file.html>`__), or
+including an ASCII logo, one's choice of witty sayings (see `sig
+quote <sig-quote.html>`__, `fool file <../F/fool-file.html>`__), or
 even source code for small programs about which the author wishes to
 make a statement; but many consider large sigs a waste of
-`*bandwidth* <../B/bandwidth.html>`__, and it has been observed that the
+`bandwidth <../B/bandwidth.html>`__, and it has been observed that the
 size of one's sig block is usually inversely proportional to one's
-longevity and level of prestige on the net. See also `*doubled
-sig* <../D/doubled-sig.html>`__, `*McQuary
-limit* <../M/McQuary-limit.html>`__.
+longevity and level of prestige on the net. See also `doubled
+sig <../D/doubled-sig.html>`__, `McQuary
+limit <../M/McQuary-limit.html>`__.
 
 --------------
 
@@ -2316,11 +2316,11 @@ technical meaning. ‘Signal’ refers to useful information conveyed by
 some communications medium, and ‘noise’ to anything else on that medium.
 Hence a low ratio implies that it is not worth paying attention to the
 medium in question. Figures for such metaphorical ratios are never
-given. The term is most often applied to `*Usenet* <../U/Usenet.html>`__
-newsgroups during `*flame war* <../F/flame-war.html>`__\ s. Compare
-`*bandwidth* <../B/bandwidth.html>`__. See also `*coefficient of
-X* <../C/coefficient-of-X.html>`__, `*lost in the
-noise* <../L/lost-in-the-noise.html>`__.
+given. The term is most often applied to `Usenet <../U/Usenet.html>`__
+newsgroups during `flame war <../F/flame-war.html>`__\ s. Compare
+`bandwidth <../B/bandwidth.html>`__. See also `coefficient of
+X <../C/coefficient-of-X.html>`__, `lost in the
+noise <../L/lost-in-the-noise.html>`__.
 
 --------------
 
@@ -2343,7 +2343,7 @@ S
 **sig quote**: /sig kwoht/, n.
 
 [Usenet] A maxim, quote, proverb, joke, or slogan embedded in one's
-`*sig block* <sig-block.html>`__ and intended to convey something of
+`sig block <sig-block.html>`__ and intended to convey something of
 one's philosophical stance, pet peeves, or sense of humor. “Calm down,
 it's only ones and zeroes.”
 
@@ -2367,9 +2367,9 @@ S
 
 **sig virus**: n.
 
-A parasitic `*meme* <../M/meme.html>`__ embedded in a `*sig
-block* <sig-block.html>`__. There was a `*meme
-plague* <../M/meme-plague.html>`__ or fad for these on Usenet in late
+A parasitic `meme <../M/meme.html>`__ embedded in a `sig
+block <sig-block.html>`__. There was a `meme
+plague <../M/meme-plague.html>`__ or fad for these on Usenet in late
 1991. Most were equivalents of “I am a .sig virus. Please reproduce me
 in your .sig block.”. Of course, the .sig virus's memetic hook is the
 giggle value of going along with the gag; this, however, was a
@@ -2399,8 +2399,8 @@ S
 **silicon**: n.
 
 Hardware, esp. ICs or microprocessor-based computer systems (compare
-`*iron* <../I/iron.html>`__). Contrasted with software. See also
-`*sandbender* <sandbender.html>`__.
+`iron <../I/iron.html>`__). Contrasted with software. See also
+`sandbender <sandbender.html>`__.
 
 --------------
 
@@ -2425,11 +2425,11 @@ S
 [from Monty Python's Flying Circus]
 
 1. A ridiculous procedure required to accomplish a task. Like
-`*grovel* <../G/grovel.html>`__, but more
-`*random* <../R/random.html>`__ and humorous. “I had to silly-walk
+`grovel <../G/grovel.html>`__, but more
+`random <../R/random.html>`__ and humorous. “I had to silly-walk
 through half the /usr directories to find the maps file.”
 
-2. Syn. `*fandango on core* <../F/fandango-on-core.html>`__.
+2. Syn. `fandango on core <../F/fandango-on-core.html>`__.
 
 --------------
 
@@ -2452,8 +2452,8 @@ S
 **silo**: n.
 
 The FIFO input-character buffer in an RS-232 line card. So called from
-`*DEC* <../D/DEC.html>`__ terminology used on DH and DZ line cards for
-the `*VAX* <../V/VAX.html>`__ and `*PDP-11* <../P/PDP-11.html>`__,
+`DEC <../D/DEC.html>`__ terminology used on DH and DZ line cards for
+the `VAX <../V/VAX.html>`__ and `PDP-11 <../P/PDP-11.html>`__,
 presumably because it was a storage space for fungible stuff that went
 in at the top and came out at the bottom.
 
@@ -2479,8 +2479,8 @@ S
 
 A long time ago; for as long as anyone can remember; at the time that
 some particular frob was first designed. Usually the word ‘time’ is
-omitted. See also `*time T* <../T/time-T.html>`__; contrast
-`*epoch* <../E/epoch.html>`__.
+omitted. See also `time T <../T/time-T.html>`__; contrast
+`epoch <../E/epoch.html>`__.
 
 --------------
 
@@ -2516,7 +2516,7 @@ references, cartoon characters, animal names, and allusions to SF or
 fantasy literature are probably the most popular sources for sitenames
 (in roughly descending order). The obligatory comment when discussing
 these is Harris's Lament: “All the good ones are taken!” See also
-`*network address* <../N/network-address.html>`__.
+`network address <../N/network-address.html>`__.
 
 --------------
 
@@ -2538,7 +2538,7 @@ S
 
 **skrog**: v.
 
-Syn. `*scrog* <scrog.html>`__.
+Syn. `scrog <scrog.html>`__.
 
 --------------
 
@@ -2560,7 +2560,7 @@ S
 
 **skulker**: n.
 
-Syn. `*prowler* <../P/prowler.html>`__.
+Syn. `prowler <../P/prowler.html>`__.
 
 --------------
 
@@ -2612,15 +2612,15 @@ S
 
 1. Space allocated to a disk file but not actually used to store useful
 information. The techspeak equivalent is ‘internal fragmentation’.
-Antonym: `*hole* <../H/hole.html>`__.
+Antonym: `hole <../H/hole.html>`__.
 
-2. In the theology of the `*Church of the
-SubGenius* <../C/Church-of-the-SubGenius.html>`__, a mystical substance
+2. In the theology of the `Church of the
+SubGenius <../C/Church-of-the-SubGenius.html>`__, a mystical substance
 or quality that is the prerequisite of all human happiness.
 
 Since Unix files are stored compactly, except for the unavoidable
 wastage in the last block or fragment, it might be said that “Unix has
-no slack”. See `*ha ha only serious* <../H/ha-ha-only-serious.html>`__.
+no slack”. See `ha ha only serious <../H/ha-ha-only-serious.html>`__.
 
 --------------
 
@@ -2651,9 +2651,9 @@ been slashdotted again!”
 
 2. In a perhaps inevitable generation, the term is being used to
 describe any similar effect from being listed on a popular site. This
-would better be described as a `*flash
-crowd* <../F/flash-crowd.html>`__. Differs from a `*DoS
-attack* <../D/DoS-attack.html>`__ in being unintentional.
+would better be described as a `flash
+crowd <../F/flash-crowd.html>`__. Differs from a `DoS
+attack <../D/DoS-attack.html>`__ in being unintentional.
 
 --------------
 
@@ -2676,7 +2676,7 @@ S
 **slash**: n.
 
 Common name for the slant (‘/’, ASCII 0101111) character. See
-`*ASCII* <../A/ASCII.html>`__ for other synonyms.
+`ASCII <../A/ASCII.html>`__ for other synonyms.
 
 --------------
 
@@ -2703,7 +2703,7 @@ system) for service; to indicate to the scheduler that a process may be
 deactivated until some given event occurs or a specified time delay
 elapses.
 
-2. In jargon, used very similarly to v. `*block* <../B/block.html>`__;
+2. In jargon, used very similarly to v. `block <../B/block.html>`__;
 also in sleep on, syn.: with block on. Often used to indicate that the
 speaker has relinquished a demand for resources until some (possibly
 unspecified) external event: “They can't get the fix I've been asking
@@ -2752,19 +2752,19 @@ S
 
 **slop**: n.
 
-1. A one-sided `*fudge factor* <../F/fudge-factor.html>`__, that is, an
+1. A one-sided `fudge factor <../F/fudge-factor.html>`__, that is, an
 allowance for error but in only one of two directions. For example, if
 you need a piece of wire 10 feet long and have to guess when you cut it,
 you make very sure to cut it too long, by a large amount if necessary,
 rather than too short by even a little bit, because you can always cut
 off the slop but you can't paste it back on again. When discrete
 quantities are involved, slop is often introduced to avoid the
-possibility of being on the losing side of a `*fencepost
-error* <../F/fencepost-error.html>`__.
+possibility of being on the losing side of a `fencepost
+error <../F/fencepost-error.html>`__.
 
 2. The percentage of ‘extra’ code generated by a compiler over the size
 of equivalent assembler code produced by
-`*hand-hacking* <../H/hand-hacking.html>`__; i.e., the space (or maybe
+`hand-hacking <../H/hand-hacking.html>`__; i.e., the space (or maybe
 time) you lose because you didn't do it yourself. This number is often
 used as a measure of the goodness of a compiler; slop below 5% is very
 good, and 10% is usually acceptable. With modern compiler technology,
@@ -2796,7 +2796,7 @@ A lowest-priority task that waits around until everything else has ‘had
 its fill’ of machine resources. Only when the machine would otherwise be
 idle is the task allowed to \`‘suck up the slop’. Also called a hungry
 puppy or bottom feeder. One common variety of slopsucker hunts for large
-prime numbers. Compare `*background* <../B/background.html>`__.
+prime numbers. Compare `background <../B/background.html>`__.
 
 --------------
 
@@ -2820,18 +2820,18 @@ S
 
 [Usenet; poss. from the variety of prosimian called a “slow loris”. The
 variant ‘Slowlartus’ is also common, related to
-`*LART* <../L/LART.html>`__] Common hackish term for Solaris, Sun's
+`LART <../L/LART.html>`__] Common hackish term for Solaris, Sun's
 System VR4 version of Unix that came out of the standardization wars of
 the early 1990s. So named because especially on older hardware,
 responsiveness was much less crisp than under the preceding SunOS. Early
 releases of Solaris (that is, Solaris 2, as some
-`*marketroid* <../M/marketroid.html>`__\ s at Sun retroactively
+`marketroid <../M/marketroid.html>`__\ s at Sun retroactively
 rechristened SunOS as Solaris 1) were quite buggy, and Sun was forced by
 customer demand to support SunOS for quite some time. Newer versions are
 acknowledged to be among the best commercial Unix variants in 1998, but
 still lose single-processor benchmarks to Sparc
-`*Linux* <../L/Linux.html>`__. Compare `*HP-SUX* <../H/HP-SUX.html>`__,
-`*sun-stools* <sun-stools.html>`__.
+`Linux <../L/Linux.html>`__. Compare `HP-SUX <../H/HP-SUX.html>`__,
+`sun-stools <sun-stools.html>`__.
 
 --------------
 
@@ -2853,11 +2853,11 @@ S
 
 **slurp**: vt.
 
-To read a large data file entirely into `*core* <../C/core.html>`__
+To read a large data file entirely into `core <../C/core.html>`__
 before working on it. This may be contrasted with the strategy of
 reading a small piece at a time, processing it, and then reading the
 next piece. “This program slurps in a 1K-by-1K matrix and does an FFT.”
-See also `*sponge* <sponge.html>`__.
+See also `sponge <sponge.html>`__.
 
 --------------
 
@@ -2879,7 +2879,7 @@ S
 
 **slurp the robot**
 
-See `*STR* <STR.html>`__.
+See `STR <STR.html>`__.
 
 --------------
 
@@ -2901,14 +2901,14 @@ S
 
 **smart**: adj.
 
-Said of a program that does the `*Right
-Thing* <../R/Right-Thing.html>`__ in a wide variety of complicated
+Said of a program that does the `Right
+Thing <../R/Right-Thing.html>`__ in a wide variety of complicated
 circumstances. There is a difference between calling a program smart and
 calling it intelligent; in particular, there do not exist any
 intelligent programs (yet — see
-`*AI-complete* <../A/AI-complete.html>`__). Compare
-`*robust* <../R/robust.html>`__ (smart programs can be
-`*brittle* <../B/brittle.html>`__).
+`AI-complete <../A/AI-complete.html>`__). Compare
+`robust <../R/robust.html>`__ (smart programs can be
+`brittle <../B/brittle.html>`__).
 
 --------------
 
@@ -2936,24 +2936,24 @@ to. The development of workstations and personal computers has made this
 term and the product it describes semi-obsolescent, but one may still
 hear variants of the phrase act like a smart terminal used to describe
 the behavior of workstations or PCs with respect to programs that
-execute almost entirely out of a remote `*server* <server.html>`__'s
+execute almost entirely out of a remote `server <server.html>`__'s
 storage, using local devices as displays.
 
 2. obs. Any terminal with an addressable cursor; the opposite of a
-`*glass tty* <../G/glass-tty.html>`__. Today, a terminal with merely an
+`glass tty <../G/glass-tty.html>`__. Today, a terminal with merely an
 addressable cursor, but with none of the more-powerful features
-mentioned in sense 1, is called a `*dumb
-terminal* <../D/dumb-terminal.html>`__.
+mentioned in sense 1, is called a `dumb
+terminal <../D/dumb-terminal.html>`__.
 
 There is a classic quote from Rob Pike (inventor of the
-`*blit* <../B/blit.html>`__ terminal): “A smart terminal is not a
+`blit <../B/blit.html>`__ terminal): “A smart terminal is not a
 smart\ *ass* terminal, but rather a terminal you can educate.” This
 illustrates a common design problem: The attempt to make peripherals (or
 anything else) intelligent sometimes results in finicky, rigid ‘special
 features’ that become just so much dead weight if you try to use the
 device in any way the designer didn't anticipate. Flexibility and
 programmability, on the other hand, are *really* smart. Compare
-`*hook* <../H/hook.html>`__.
+`hook <../H/hook.html>`__.
 
 --------------
 
@@ -2977,7 +2977,7 @@ S
 
 To lose or obliterate the uppercase/lowercase distinction in text input.
 “MS-DOS will automatically smash case in the names of all the files you
-create.” Compare `*fold case* <../F/fold-case.html>`__.
+create.” Compare `fold case <../F/fold-case.html>`__.
 
 --------------
 
@@ -3004,16 +3004,16 @@ of a local array or other data structure. Code that smashes the stack
 can cause a return from the routine to jump to a random address,
 resulting in some of the most insidious data-dependent bugs known to
 mankind. Variants include trash the stack,
-`*scribble* <scribble.html>`__ the stack,
-`*mangle* <../M/mangle.html>`__ the stack; the term
-\*\*\ `*mung* <../M/mung.html>`__ the stack is not used, as this is
-never done intentionally. See `*spam* <spam.html>`__; see also
-`*aliasing bug* <../A/aliasing-bug.html>`__, `*fandango on
-core* <../F/fandango-on-core.html>`__, `*memory
-leak* <../M/memory-leak.html>`__, `*memory
-smash* <../M/memory-smash.html>`__, `*precedence
-lossage* <../P/precedence-lossage.html>`__, `*overrun
-screw* <../O/overrun-screw.html>`__.
+`scribble <scribble.html>`__ the stack,
+`mangle <../M/mangle.html>`__ the stack; the term
+\*\*\ `mung <../M/mung.html>`__ the stack is not used, as this is
+never done intentionally. See `spam <spam.html>`__; see also
+`aliasing bug <../A/aliasing-bug.html>`__, `fandango on
+core <../F/fandango-on-core.html>`__, `memory
+leak <../M/memory-leak.html>`__, `memory
+smash <../M/memory-smash.html>`__, `precedence
+lossage <../P/precedence-lossage.html>`__, `overrun
+screw <../O/overrun-screw.html>`__.
 
 --------------
 
@@ -3035,7 +3035,7 @@ S
 
 **smiley**: n.
 
-See `*emoticon* <../E/emoticon.html>`__.
+See `emoticon <../E/emoticon.html>`__.
 
 --------------
 
@@ -3059,8 +3059,8 @@ S
 
 Marketing deceptions. The term is mainstream in this general sense.
 Among hackers it's strongly associated with bogus demos and crocked
-`*benchmark* <../B/benchmark.html>`__\ s (see also
-`*MIPS* <../M/MIPS.html>`__, `*machoflops* <../M/machoflops.html>`__).
+`benchmark <../B/benchmark.html>`__\ s (see also
+`MIPS <../M/MIPS.html>`__, `machoflops <../M/machoflops.html>`__).
 “They claim their new box cranks 50 MIPS for under $5000, but didn't
 specify the instruction mix — sounds like smoke and mirrors to me.” The
 phrase, popularized by newspaper columnist Jimmy Breslin c.1975, has
@@ -3070,7 +3070,7 @@ the fierce Aztec god Tezcatlipoca (lit. “Smoking Mirror”) for whom the
 hearts of huge numbers of human sacrificial victims were regularly cut
 out. Upon hearing about a rigged demo or yet another round of
 fantasy-based marketing promises, hackers often feel analogously
-disheartened. See also `*stealth manager* <stealth-manager.html>`__.
+disheartened. See also `stealth manager <stealth-manager.html>`__.
 
 --------------
 
@@ -3092,13 +3092,13 @@ S
 
 **smoke**: vi.
 
-1. To `*crash* <../C/crash.html>`__ or blow up, usually spectacularly.
+1. To `crash <../C/crash.html>`__ or blow up, usually spectacularly.
 “The new version smoked, just like the last one.” Used for both hardware
 (where it often describes an actual physical event), and software (where
 it's merely colorful).
 
 2. [from automotive slang] To be conspicuously fast. “That processor
-really smokes.” Compare `*magic smoke* <../M/magic-smoke.html>`__.
+really smokes.” Compare `magic smoke <../M/magic-smoke.html>`__.
 
 --------------
 
@@ -3123,11 +3123,11 @@ S
 1. A rudimentary form of testing applied to electronic equipment
 following repair or reconfiguration, in which power is applied and the
 tester checks for sparks, smoke, or other dramatic signs of fundamental
-failure. See `*magic smoke* <../M/magic-smoke.html>`__.
+failure. See `magic smoke <../M/magic-smoke.html>`__.
 
 2. By extension, the first run of a piece of software after construction
-or a critical change. See and compare `*reality
-check* <../R/reality-check.html>`__.
+or a critical change. See and compare `reality
+check <../R/reality-check.html>`__.
 
 There is an interesting semi-parallel to this term among typographers
 and printers: When new typefaces are being punch-cut by hand, a smoke
@@ -3154,7 +3154,7 @@ S
 
 **smoking clover**: n.
 
-[ITS] A `*display hack* <../D/display-hack.html>`__ originally due to
+[ITS] A `display hack <../D/display-hack.html>`__ originally due to
 Bill Gosper. Many convergent lines are drawn on a color monitor in such
 a way that every pixel struck has its color incremented. The lines all
 have one endpoint in the middle of the screen; the other endpoints are
@@ -3232,8 +3232,8 @@ SMOP.”
 
 2. Often used ironically by the intended victim when a suggestion for a
 program is made which seems easy to the suggester, but is obviously (to
-the victim) a lot of work. Compare `*minor
-detail* <../M/minor-detail.html>`__.
+the victim) a lot of work. Compare `minor
+detail <../M/minor-detail.html>`__.
 
 --------------
 
@@ -3261,7 +3261,7 @@ is irreverent, silly, and cute. Like many other hackish terms for
 people, this one may be praise or insult depending on who uses it. In
 general, being referred to as a smurf is probably not going to make your
 day unless you've previously adopted the label yourself in a spirit of
-irony. Compare `*old fart* <../O/old-fart.html>`__.
+irony. Compare `old fart <../O/old-fart.html>`__.
 
 2. [techspeak] A ping packet with a forged source address sent to some
 other network's broadcast address. All the machines on the destination
@@ -3293,7 +3293,7 @@ S
 communication is possible only between equals, because inferiors are
 more consistently rewarded for telling their superiors pleasant lies
 than for telling the truth.:” — a central tenet of
-`*Discordianism* <../D/Discordianism.html>`__, often invoked by hackers
+`Discordianism <../D/Discordianism.html>`__, often invoked by hackers
 to explain why authoritarian hierarchies screw up so reliably and
 systematically. The effect of the SNAFU principle is a progressive
 disconnection of decision-makers from reality. This lightly adapted
@@ -3349,9 +3349,9 @@ phenomenon perfectly:
 |        and saw that it was very good.
 
 After the subsequent and inevitable disaster, the
-`*suit* <suit.html>`__\ s protect themselves by saying “I was
+`suit <suit.html>`__\ s protect themselves by saying “I was
 misinformed!”, and the implementors are demoted or fired. Compare
-`*Conway's Law* <../C/Conways-Law.html>`__.
+`Conway's Law <../C/Conways-Law.html>`__.
 
 --------------
 
@@ -3373,7 +3373,7 @@ S
 
 **snail**: vt.
 
-To `*snail-mail* <snail-mail.html>`__ something. “Snail me a copy of
+To `snail-mail <snail-mail.html>`__ something. “Snail me a copy of
 those graphics, will you?”
 
 --------------
@@ -3401,7 +3401,7 @@ word ‘SnailMail’. One's postal address is, correspondingly, a snail
 address. Derives from earlier coinage *‘USnail*\ ’ (from ‘U.S. Mail’),
 for which there have even been parody posters and stamps made. Also
 (less commonly) called P-mail, from ‘paper mail’ or ‘physical mail’.
-Oppose `*email* <../E/email.html>`__.
+Oppose `email <../E/email.html>`__.
 
 (Note: Actual garden snails progress at about 10 meters per hour, which
 is about 25-50 times slower than the U.K.'s Royal Mail; comparable
@@ -3439,9 +3439,9 @@ connecting you, in the hopes that you will snap your pointer and dial
 direct next time. The underlying metaphor may be that of a rubber band
 stretched through a number of intermediate points; if you remove all the
 thumbtacks in the middle, it snaps into a straight line from first to
-last. See `*chase pointers* <../C/chase-pointers.html>`__.
+last. See `chase pointers <../C/chase-pointers.html>`__.
 
-Often, the behavior of a `*trampoline* <../T/trampoline.html>`__ is to
+Often, the behavior of a `trampoline <../T/trampoline.html>`__ is to
 perform an error check once and then snap the pointer that invoked it so
 as henceforth to bypass the trampoline (and its one-shot error check).
 In this context one also speaks of snapping links. For example, in a
@@ -3471,7 +3471,7 @@ S
 
 **snarf & barf**: /snarf´n·barf\`/, n.
 
-Under a `*WIMP environment* <../W/WIMP-environment.html>`__, the act of
+Under a `WIMP environment <../W/WIMP-environment.html>`__, the act of
 grabbing a region of text and then stuffing the contents of that region
 into another region (or the same one) to avoid retyping a command line.
 In the late 1960s, this was a mainstream expression for an ‘eat now,
@@ -3497,9 +3497,9 @@ S
 
 **snarf down**: v.
 
-To `*snarf* <snarf.html>`__, with the connotation of absorbing,
+To `snarf <snarf.html>`__, with the connotation of absorbing,
 processing, or understanding. “I'll snarf down the latest version of the
-`*nethack* <../N/nethack.html>`__ user's guide — it's been a while since
+`nethack <../N/nethack.html>`__ user's guide — it's been a while since
 I played last and I don't know what's changed recently.”
 
 --------------
@@ -3524,10 +3524,10 @@ S
 
 1. To grab, esp. to grab a large document or file for the purpose of
 using it with or without the author's permission. See also
-`*BLT* <../B/BLT.html>`__.
+`BLT <../B/BLT.html>`__.
 
 2. [in the Unix community] To fetch a file or set of files across a
-network. See also `*blast* <../B/blast.html>`__. This term was
+network. See also `blast <../B/blast.html>`__. This term was
 mainstream in the late 1960s, meaning ‘to eat piggishly’. It may still
 have this connotation in context. “He's in the snarfing phase of hacking
 — FTPing megs of stuff a day.”
@@ -3536,17 +3536,17 @@ have this connotation in context. “He's in the snarfing phase of hacking
 quite by stealing). “They were giving away samples, so I snarfed a bunch
 of them.”
 
-4. Syn. for `*slurp* <slurp.html>`__. “This program starts by snarfing
+4. Syn. for `slurp <slurp.html>`__. “This program starts by snarfing
 the entire database into core, then....”
 
-5. [GEnie] To spray food or `*programming
-fluid* <../P/programming-fluid.html>`__\ s due to laughing at the wrong
+5. [GEnie] To spray food or `programming
+fluid <../P/programming-fluid.html>`__\ s due to laughing at the wrong
 moment. “I was drinking coffee, and when I read your post I snarfed all
 over my desk.” “If I keep reading this topic, I think I'll have to
 snarf-proof my computer with a keyboard
-`*condom* <../C/condom.html>`__.” [This sense appears to be widespread
+`condom <../C/condom.html>`__.” [This sense appears to be widespread
 among mundane teenagers —ESR] The sound of snarfing is
-`*splork!* <splork-.html>`__.
+`splork! <splork-.html>`__.
 
 --------------
 
@@ -3602,8 +3602,8 @@ S
 **sneaker**: n.
 
 An individual hired to break into places in order to test their
-security; analogous to `*tiger team* <../T/tiger-team.html>`__. Compare
-`*samurai* <samurai.html>`__.
+security; analogous to `tiger team <../T/tiger-team.html>`__. Compare
+`samurai <samurai.html>`__.
 
 --------------
 
@@ -3654,7 +3654,7 @@ S
 
 1. To watch packets traversing a network. Most often in the phrase
 packet sniffer, a program for doing same. 2. Synonym for
-`*poll* <../P/poll.html>`__.
+`poll <../P/poll.html>`__.
 
 --------------
 
@@ -3676,7 +3676,7 @@ S
 
 **snippage**: n.
 
-Synonym for `*deletia* <../D/deletia.html>`__; the fact that something
+Synonym for `deletia <../D/deletia.html>`__; the fact that something
 has been snipped when quoting is often indicated with the pseudo-HTML
 <snip>.
 
@@ -3700,8 +3700,8 @@ S
 
 **S/N ratio**: //, n.
 
-(also s/n ratio, s:n ratio). Syn. `*signal-to-noise
-ratio* <signal-to-noise-ratio.html>`__. Often abbreviated SNR.
+(also s/n ratio, s:n ratio). Syn. `signal-to-noise
+ratio <signal-to-noise-ratio.html>`__. Often abbreviated SNR.
 
 --------------
 
@@ -3723,16 +3723,16 @@ S
 
 **social engineering**: n.
 
-Term used among `*cracker* <../C/cracker.html>`__\ s and
-`*samurai* <samurai.html>`__ for cracking techniques that rely on
-weaknesses in `*wetware* <../W/wetware.html>`__ rather than software;
+Term used among `cracker <../C/cracker.html>`__\ s and
+`samurai <samurai.html>`__ for cracking techniques that rely on
+weaknesses in `wetware <../W/wetware.html>`__ rather than software;
 the aim is to trick people into revealing passwords or other information
 that compromises a target system's security. Classic scams include
 phoning up a mark who has the required information and posing as a field
 service tech or a fellow employee with an urgent access problem. See
-also the `*tiger team* <../T/tiger-team.html>`__ story in the
-`*patch* <../P/patch.html>`__ entry, and `*rubber-hose
-cryptanalysis* <../R/rubber-hose-cryptanalysis.html>`__.
+also the `tiger team <../T/tiger-team.html>`__ story in the
+`patch <../P/patch.html>`__ entry, and `rubber-hose
+cryptanalysis <../R/rubber-hose-cryptanalysis.html>`__.
 
 --------------
 
@@ -3754,14 +3754,14 @@ S
 
 **social science number**: n., //
 
-[IBM] A statistic that is `*content-free* <../C/content-free.html>`__,
+[IBM] A statistic that is `content-free <../C/content-free.html>`__,
 or nearly so. A measure derived via methods of questionable validity
 from data of a dubious and vague nature. Predictively, having a social
 science number in hand is seldom much better than nothing, and can be
-considerably worse. As a rule, `*management* <../M/management.html>`__
-loves them. See also `*numbers* <../N/numbers.html>`__,
-`*math-out* <../M/math-out.html>`__, `*pretty
-pictures* <../P/pretty-pictures.html>`__.
+considerably worse. As a rule, `management <../M/management.html>`__
+loves them. See also `numbers <../N/numbers.html>`__,
+`math-out <../M/math-out.html>`__, `pretty
+pictures <../P/pretty-pictures.html>`__.
 
 --------------
 
@@ -3785,11 +3785,11 @@ S
 
 [Usenet: from the act of placing a sock over your hand and talking to it
 and pretending it's talking back] In Usenet parlance, a
-`*pseudo* <../P/pseudo.html>`__ through which the puppeteer posts
+`pseudo <../P/pseudo.html>`__ through which the puppeteer posts
 follow-ups to their own original message to give the appearance that a
 number of people support the views held in the original message. See
-also `*astroturfing* <../A/astroturfing.html>`__,
-`*tentacle* <../T/tentacle.html>`__.
+also `astroturfing <../A/astroturfing.html>`__,
+`tentacle <../T/tentacle.html>`__.
 
 --------------
 
@@ -3811,7 +3811,7 @@ S
 
 **sodium substrate**: n.
 
-Syn `*salt substrate* <salt-substrate.html>`__.
+Syn `salt substrate <salt-substrate.html>`__.
 
 --------------
 
@@ -3833,7 +3833,7 @@ S
 
 **soft boot**: n.
 
-See `*boot* <../B/boot.html>`__.
+See `boot <../B/boot.html>`__.
 
 --------------
 
@@ -3856,7 +3856,7 @@ S
 **softcopy**: /soft´kop·ee/, n.
 
 [by analogy with hardcopy] A machine-readable form of corresponding
-hardcopy. See `*bits* <../B/bits.html>`__.
+hardcopy. See `bits <../B/bits.html>`__.
 
 --------------
 
@@ -3878,10 +3878,10 @@ S
 
 **software bloat**: n.
 
-The results of `*second-system effect* <second-system-effect.html>`__ or
-`*creeping featuritis* <../C/creeping-featuritis.html>`__. Commonly
-cited examples include ls(1), `*X* <../X/X.html>`__,
-`*BSD* <../B/BSD.html>`__, and `*OS/2* <../O/OS-2.html>`__.
+The results of `second-system effect <second-system-effect.html>`__ or
+`creeping featuritis <../C/creeping-featuritis.html>`__. Commonly
+cited examples include ls(1), `X <../X/X.html>`__,
+`BSD <../B/BSD.html>`__, and `OS/2 <../O/OS-2.html>`__.
 
 --------------
 
@@ -3904,12 +3904,12 @@ S
 **software hoarding**: n.
 
 Pejorative term employed by members and adherents of the
-`*GNU* <../G/GNU.html>`__ project to describe the act of holding
+`GNU <../G/GNU.html>`__ project to describe the act of holding
 software proprietary, keeping it under trade secret or license terms
 which prohibit free redistribution and modification. Used primarily in
 Free Software Foundation propaganda. For a summary of related issues,
-see `*GNU* <../G/GNU.html>`__ and `*free
-software* <../F/free-software.html>`__.
+see `GNU <../G/GNU.html>`__ and `free
+software <../F/free-software.html>`__.
 
 --------------
 
@@ -3936,10 +3936,10 @@ mirrors, one totally reflective and one partially reflective. If the
 lasing material (usually a crystal) has the right properties, photons
 scattering off the atoms in the crystal will excite cascades of more
 photons, all in lockstep. Eventually the beam will escape through the
-partially-reflective mirror. One kind of `*sorcerer's apprentice
-mode* <sorcerers-apprentice-mode.html>`__ involving `*bounce
-message* <../B/bounce-message.html>`__\ s can produce closely analogous
-results, with a `*cascade* <../C/cascade.html>`__ of messages escaping
+partially-reflective mirror. One kind of `sorcerer's apprentice
+mode <sorcerers-apprentice-mode.html>`__ involving `bounce
+message <../B/bounce-message.html>`__\ s can produce closely analogous
+results, with a `cascade <../C/cascade.html>`__ of messages escaping
 to flood nearby systems. By mid-1993 there had been at least two
 publicized incidents of this kind.
 
@@ -3964,17 +3964,17 @@ S
 **software rot**: n.
 
 Term used to describe the tendency of software that has not been used in
-a while to `*lose* <../L/lose.html>`__; such failure may be
-semi-humorously ascribed to `*bit rot* <../B/bit-rot.html>`__. More
+a while to `lose <../L/lose.html>`__; such failure may be
+semi-humorously ascribed to `bit rot <../B/bit-rot.html>`__. More
 commonly, software rot strikes when a program's assumptions become out
 of date. If the design was insufficiently
-`*robust* <../R/robust.html>`__, this may cause it to fail in mysterious
-ways. Syn. code rot. See also `*link rot* <../L/link-rot.html>`__.
+`robust <../R/robust.html>`__, this may cause it to fail in mysterious
+ways. Syn. code rot. See also `link rot <../L/link-rot.html>`__.
 
 For example, owing to endemic shortsightedness in the design of COBOL
 programs, a good number of them succumbed to software rot when their
-2-digit year counters underwent `*wrap
-around* <../W/wrap-around.html>`__ at the beginning of the year 2000.
+2-digit year counters underwent `wrap
+around <../W/wrap-around.html>`__ at the beginning of the year 2000.
 Actually, related lossages often afflict centenarians who have to deal
 with computer software designed by unimaginative clods. One such
 incident became the focus of a minor public flap in 1990, when a
@@ -3985,11 +3985,11 @@ distinguished.
 
 Historical note: Software rot in an even funnier sense than the mythical
 one was a real problem on early research computers (e.g., the R1; see
-`*grind crank* <../G/grind-crank.html>`__). If a program that depended
+`grind crank <../G/grind-crank.html>`__). If a program that depended
 on a peculiar instruction hadn't been run in quite a while, the user
 might discover that the opcodes no longer did the same things they once
 did. (“Hey, so-and-so needs an instruction to do such-and-such. We can
-`*snarf* <snarf.html>`__ this opcode, right? No one uses it.”) Another
+`snarf <snarf.html>`__ this opcode, right? No one uses it.”) Another
 classic example of this sprang from the time an MIT hacker found a
 simple way to double the speed of the unconditional jump instruction on
 a PDP-6, so he patched the hardware. Unfortunately, this broke some
@@ -3999,7 +3999,7 @@ to compare the speed of a timing loop with the real-time clock; in other
 words, it figured out how fast the PDP-6 was that day, and corrected
 appropriately.
 
-Compare `*bit rot* <../B/bit-rot.html>`__.
+Compare `bit rot <../B/bit-rot.html>`__.
 
 --------------
 
@@ -4023,7 +4023,7 @@ S
 
 In a way pertaining to software. “The system is softwarily unreliable.”
 The adjective \*\*‘softwary’ is *not* used. See
-`*hardwarily* <../H/hardwarily.html>`__.
+`hardwarily <../H/hardwarily.html>`__.
 
 --------------
 
@@ -4071,8 +4071,8 @@ S
 1. (also S.O.) Abbrev. for Significant Other, almost invariably written
 abbreviated and pronounced /S·O/ by hackers. Used to refer to one's
 primary relationship, esp. a live-in to whom one is not married. See
-`*MOTAS* <../M/MOTAS.html>`__, `*MOTOS* <../M/MOTOS.html>`__,
-`*MOTSS* <../M/MOTSS.html>`__.
+`MOTAS <../M/MOTAS.html>`__, `MOTOS <../M/MOTOS.html>`__,
+`MOTSS <../M/MOTSS.html>`__.
 
 2. [techspeak] The Shift Out control character in ASCII (Control-N,
 0001110).
@@ -4099,7 +4099,7 @@ S
 
 Used to indicate a member of class X, with the implication that Xs are
 interchangeable. “I think some random cracker tripped over the guest
-timeout last night.” See also `*J. Random* <../J/J--Random.html>`__.
+timeout last night.” See also `J. Random <../J/J--Random.html>`__.
 
 --------------
 
@@ -4125,11 +4125,11 @@ S
 sorcier* in the film *Fantasia*.] A bug in a protocol where, under some
 circumstances, the receipt of a message causes multiple messages to be
 sent, each of which, when received, triggers the same bug. Used esp. of
-such behavior caused by `*bounce message* <../B/bounce-message.html>`__
-loops in `*email* <../E/email.html>`__ software. Compare `*broadcast
-storm* <../B/broadcast-storm.html>`__, `*network
-meltdown* <../N/network-meltdown.html>`__, `*software
-laser* <software-laser.html>`__, `*ARMM* <../A/ARMM.html>`__.
+such behavior caused by `bounce message <../B/bounce-message.html>`__
+loops in `email <../E/email.html>`__ software. Compare `broadcast
+storm <../B/broadcast-storm.html>`__, `network
+meltdown <../N/network-meltdown.html>`__, `software
+laser <software-laser.html>`__, `ARMM <../A/ARMM.html>`__.
 
 --------------
 
@@ -4180,7 +4180,7 @@ S
 
 A person from whom (or a place from which) useful information may be
 obtained. If you need to know about a program, a
-`*guru* <../G/guru.html>`__ might be the source of all good bits. The
+`guru <../G/guru.html>`__ might be the source of all good bits. The
 title is often applied to a particularly competent secretary.
 
 --------------
@@ -4205,9 +4205,9 @@ S
 
 A now-legendary device used on MIT LISP machines, which inspired several
 still-current jargon terms and influenced the design of
-`*EMACS* <../E/EMACS.html>`__. It was equipped with no fewer than
-*seven* shift keys: four keys for `*bucky
-bits* <../B/bucky-bits.html>`__ (‘control’, ‘meta’, ‘hyper’, and
+`EMACS <../E/EMACS.html>`__. It was equipped with no fewer than
+*seven* shift keys: four keys for `bucky
+bits <../B/bucky-bits.html>`__ (‘control’, ‘meta’, ‘hyper’, and
 ‘super’) and three regular shift keys, called ‘shift’, ‘top’, and
 ‘front’. Many keys had three symbols on them: a letter and a symbol on
 the top, and a Greek letter on the front. For example, the ‘L’ key had
@@ -4240,11 +4240,11 @@ Many hackers were actually willing to memorize the command meanings of
 that many characters if it reduced typing time (this attitude obviously
 shaped the interface of EMACS). Other hackers, however, thought having
 that many bucky bits was overkill, and objected that such a keyboard can
-require three or four hands to operate. See `*bucky
-bits* <../B/bucky-bits.html>`__,
-`*cokebottle* <../C/cokebottle.html>`__, `*double
-bucky* <../D/double-bucky.html>`__, `*meta bit* <../M/meta-bit.html>`__,
-`*quadruple bucky* <../Q/quadruple-bucky.html>`__.
+require three or four hands to operate. See `bucky
+bits <../B/bucky-bits.html>`__,
+`cokebottle <../C/cokebottle.html>`__, `double
+bucky <../D/double-bucky.html>`__, `meta bit <../M/meta-bit.html>`__,
+`quadruple bucky <../Q/quadruple-bucky.html>`__.
 
 |image0|
 
@@ -4258,12 +4258,12 @@ Note: early versions of this entry incorrectly identified the
 space-cadet keyboard with the Knight keyboard. Though both were designed
 by Tom Knight, the latter term was properly applied only to a keyboard
 used for ITS on the PDP-10 and modeled on the Stanford keyboard (as
-described under `*bucky bits* <../B/bucky-bits.html>`__). The true
+described under `bucky bits <../B/bucky-bits.html>`__). The true
 space-cadet keyboard evolved from the first Knight keyboard.
 
 |image1|
 
-An early `*space-cadet keyboard* <space-cadet-keyboard.html>`__
+An early `space-cadet keyboard <space-cadet-keyboard.html>`__
 
 (The next cartoon in the Crunchly saga is
 `73-05-20 <../D/drop-outs.html#crunchly73-05-20>`__. The previous one is
@@ -4293,7 +4293,7 @@ S
 
 The glyph ``<=>``, so-called apparently because in the low-resolution
 constant-width font used on many terminals it vaguely resembles a flying
-saucer. `*Perl* <../P/Perl.html>`__ uses this to denote the
+saucer. `Perl <../P/Perl.html>`__ uses this to denote the
 signum-of-difference operation.
 
 --------------
@@ -4322,9 +4322,9 @@ shooting torpedoes at each other and jumping through hyperspace. This
 game was first implemented on the PDP-1 at MIT in 1962. In 1968-69, a
 descendant of the game motivated Ken Thompson to build, in his spare
 time on a scavenged PDP-7, the operating system that became
-`*Unix* <../U/Unix.html>`__. Less than nine years after that, SPACEWAR
+`Unix <../U/Unix.html>`__. Less than nine years after that, SPACEWAR
 was commercialized as one of the first video games; descendants are
-still `*feep* <../F/feep.html>`__\ ing in video arcades everywhere.
+still `feep <../F/feep.html>`__\ ing in video arcades everywhere.
 
 --------------
 
@@ -4375,8 +4375,8 @@ S
 inheritance, such as Smalltalk] A convoluted class-subclass graph, often
 resulting from carelessly deriving subclasses from other classes just
 for the sake of reusing their code. Coined in a (successful) attempt to
-discourage such practice, through guilt-by-association with `*spaghetti
-code* <spaghetti-code.html>`__.
+discourage such practice, through guilt-by-association with `spaghetti
+code <spaghetti-code.html>`__.
 
 --------------
 
@@ -4399,12 +4399,12 @@ S
 **spam bait**: n.
 
 Email addresses included in, or comprising the entirety of, a Usenet
-message so that spammers mining a newsgroup with an `*address
-harvester* <../A/address-harvester.html>`__ will collect them. These
+message so that spammers mining a newsgroup with an `address
+harvester <../A/address-harvester.html>`__ will collect them. These
 addresses can be people who have offended or annoyed the poster, or who
 are included so that a spammer will spam an official, thereby causing
 himself trouble. One particularly effective form of spam bait is the
-address of a `*teergrube* <../T/teergrube.html>`__.
+address of a `teergrube <../T/teergrube.html>`__.
 
 --------------
 
@@ -4430,9 +4430,9 @@ S
 render it invalid and thus useless to spammers. For example, the address
 ``<jrandom@hacker.org>`` might be transformed to
 ``<jrandom@NOSPAM.hacker.org>``. Adding spamblock to an address is often
-referred to as munging it (see `*munge* <../M/munge.html>`__). This
+referred to as munging it (see `munge <../M/munge.html>`__). This
 evasion tactic depends on the fact that most spammers collect names with
-some sort of `*address harvester* <../A/address-harvester.html>`__ on
+some sort of `address harvester <../A/address-harvester.html>`__ on
 volumes too high to de-mung by hand, but individual humans reading an
 email message can readily spot and remove a spamblock in the From
 address.
@@ -4466,7 +4466,7 @@ S
 **spamhaus**: spam´hows, n.
 
 Pejorative term for an internet service provider that permits or even
-encourages `*spam* <spam.html>`__ mailings from its systems. The plural
+encourages `spam <spam.html>`__ mailings from its systems. The plural
 is spamhausen. There is a web page devoted to `tracking
 spamhausen <http://www.spamhaus.org/>`__.
 
@@ -4477,8 +4477,8 @@ but lesser imitators of the Spamford still infest various murky corners
 of the net. Since prosecution of spammers became routine under the
 junk-fax laws and statues specifically targeting spam, spamhausen have
 declined in relative importance; today, hit-and-run attacks by spammers
-using `*relay rape* <../R/relay-rape.html>`__ and `*throwaway
-account* <../T/throwaway-account.html>`__\ s on reputable ISPs seem to
+using `relay rape <../R/relay-rape.html>`__ and `throwaway
+account <../T/throwaway-account.html>`__\ s on reputable ISPs seem to
 account for most of the flow.
 
 --------------
@@ -4504,26 +4504,26 @@ S
 [from *Monty Python's Flying Circus*]
 
 1. To crash a program by overrunning a fixed-size buffer with
-excessively large input data. See also `*buffer
-overflow* <../B/buffer-overflow.html>`__, `*overrun
-screw* <../O/overrun-screw.html>`__, `*smash the
-stack* <smash-the-stack.html>`__.
+excessively large input data. See also `buffer
+overflow <../B/buffer-overflow.html>`__, `overrun
+screw <../O/overrun-screw.html>`__, `smash the
+stack <smash-the-stack.html>`__.
 
 2. To cause a newsgroup to be flooded with irrelevant or inappropriate
 messages. You can spam a newsgroup with as little as one well- (or ill-)
 planned message (e.g. asking “What do you think of abortion?” on
 ``soc.women``). This is often done with
-`*cross-post* <../C/cross-post.html>`__\ ing (e.g. any message which is
+`cross-post <../C/cross-post.html>`__\ ing (e.g. any message which is
 cross-posted to ``alt.rush-limbaugh`` and ``alt.politics.homosexuality``
 will almost inevitably spam both groups). This overlaps with
-`*troll* <../T/troll.html>`__ behavior; the latter more specific term
+`troll <../T/troll.html>`__ behavior; the latter more specific term
 has become more common.
 
 3. To send many identical or nearly-identical messages separately to a
 large number of Usenet newsgroups. This is more specifically called ECP,
 Excessive Cross-Posting. This is one sure way to infuriate nearly
-everyone on the Net. See also `*velveeta* <../V/velveeta.html>`__ and
-`*jello* <../J/jello.html>`__.
+everyone on the Net. See also `velveeta <../V/velveeta.html>`__ and
+`jello <../J/jello.html>`__.
 
 4. To bombard a newsgroup with multiple copies of a message. This is
 more specifically called EMP, Excessive Multi-Posting.
@@ -4532,7 +4532,7 @@ more specifically called EMP, Excessive Multi-Posting.
 messages, particularly those containing advertising. Especially used
 when the mail addresses have been culled from network traffic or
 databases without the consent of the recipients. Synonyms include
-`*UCE* <../U/UCE.html>`__, `*UBE* <../U/UBE.html>`__. As a noun, ‘spam’
+`UCE <../U/UCE.html>`__, `UBE <../U/UBE.html>`__. As a noun, ‘spam’
 refers to the messages so sent.
 
 6. Any large, annoying, quantity of output. For instance, someone on IRC
@@ -4546,7 +4546,7 @@ are almost universally grounds for termination of the originator's email
 account or network connection. In these senses the term ‘spam’ has gone
 mainstream, though without its original sense or folkloric freight —
 there is apparently a widespread myth among
-`*luser* <../L/luser.html>`__\ s that “spamming” is what happens when
+`luser <../L/luser.html>`__\ s that “spamming” is what happens when
 you dump cans of Spam into a revolving fan. Hormel, the makers of Spam,
 have published a surprisingly enlightened `position
 statement <http://www.spam.com/ci/ci_in.htm>`__ on the Internet usage.
@@ -4571,7 +4571,7 @@ S
 
 **spamvertize**: v.
 
-To advertise using `*spam* <spam.html>`__. Pejorative.
+To advertise using `spam <spam.html>`__. Pejorative.
 
 --------------
 
@@ -4593,9 +4593,9 @@ S
 
 **spangle**: n.
 
-[UK] The singular of `*bells and
-whistles* <../B/bells-and-whistles.html>`__. See also
-`*spungle* <spungle.html>`__.
+[UK] The singular of `bells and
+whistles <../B/bells-and-whistles.html>`__. See also
+`spungle <spungle.html>`__.
 
 --------------
 
@@ -4624,7 +4624,7 @@ traditional heavyweight processes.
 
 2. In gaming, meant to indicate where (spawn-point) and when a player
 comes to life (or re-spawns) after being killed. Opposite of
-`*frag* <../F/frag.html>`__.
+`frag <../F/frag.html>`__.
 
 --------------
 
@@ -4650,9 +4650,9 @@ To write unique code to handle input to or situations arising in a
 program that are somehow distinguished from normal processing. This
 would be used for processing of mode switches or interrupt characters in
 an interactive interface (as opposed, say, to text entry or normal
-commands), or for processing of `*hidden
-flag* <../H/hidden-flag.html>`__\ s in the input of a batch program or
-`*filter* <../F/filter.html>`__.
+commands), or for processing of `hidden
+flag <../H/hidden-flag.html>`__\ s in the input of a batch program or
+`filter <../F/filter.html>`__.
 
 --------------
 
@@ -4703,8 +4703,8 @@ S
 
 A pattern of lights displayed on a linear set of LEDs (today) or nixie
 tubes (yesterday, on ancient mainframes). The pattern is shifted left
-every ``N`` times the operating system goes through its `*main
-loop* <../M/main-loop.html>`__. A swiftly moving pattern indicates that
+every ``N`` times the operating system goes through its `main
+loop <../M/main-loop.html>`__. A swiftly moving pattern indicates that
 the system is mostly idle; the speedometer slows down as the system
 becomes overloaded. The speedometer on Sun Microsystems hardware bounces
 back and forth like the eyes on one of the Cylons from the wretched
@@ -4734,7 +4734,7 @@ S
 
 **spell**: n.
 
-Syn. `*incantation* <../I/incantation.html>`__.
+Syn. `incantation <../I/incantation.html>`__.
 
 --------------
 
@@ -4759,7 +4759,7 @@ S
 [Usenet] A posting ostentatiously correcting a previous article's
 spelling as a way of casting scorn on the point the article was trying
 to make, instead of actually responding to that point (compare
-`*dictionary flame* <../D/dictionary-flame.html>`__). Of course, people
+`dictionary flame <../D/dictionary-flame.html>`__). Of course, people
 who are more than usually slovenly spellers are prone to think *any*
 correction is a spelling flame. It's an amusing comment on human nature
 that spelling flames themselves often contain spelling errors.
@@ -4814,7 +4814,7 @@ S
 
 The Web-walking part of a search engine that collects pages for indexing
 in the search engine's database. Also called a
-`*bot* <../B/bot.html>`__. The best-known spider is Scooter, the
+`bot <../B/bot.html>`__. The best-known spider is Scooter, the
 web-walker for the Alta Vista search engine.
 
 --------------
@@ -4838,8 +4838,8 @@ S
 **spiffy**: /spi´fee/, adj.
 
 1. Said of programs having a pretty, clever, or exceptionally
-well-designed interface. “Have you seen the spiffy `*X* <../X/X.html>`__
-version of `*empire* <../E/empire.html>`__ yet?”
+well-designed interface. “Have you seen the spiffy `X <../X/X.html>`__
+version of `empire <../E/empire.html>`__ yet?”
 
 2. Said sarcastically of a program that is perceived to have little more
 than a flashy interface going for it. Which meaning should be drawn
@@ -4873,7 +4873,7 @@ inserting a pin to hold the relay in either the closed or open state,
 and railroaders refer to spiking a track switch so that it cannot be
 moved. In programming environments it normally refers to a temporary
 change, usually for testing purposes (as opposed to a permanent change,
-which would be called `*hardwired* <../H/hardwired.html>`__).
+which would be called `hardwired <../H/hardwired.html>`__).
 
 2. [borderline techspeak] A visible peak in an otherwise rather constant
 graph (e.g. a sudden surge in line voltage, an unexpected short “high”
@@ -4901,9 +4901,9 @@ S
 
 **spin**: vi.
 
-Equivalent to `*buzz* <../B/buzz.html>`__. More common among C and Unix
+Equivalent to `buzz <../B/buzz.html>`__. More common among C and Unix
 programmers. See the discussion of ‘spinlock’ under
-`*busy-wait* <../B/busy-wait.html>`__.
+`busy-wait <../B/busy-wait.html>`__.
 
 --------------
 
@@ -4929,7 +4929,7 @@ S
 before 10.2, after which it was replaced by a sort of rainbow pinwheel
 thingy. It was analogous to the Microsoft Windows hourglass, but OS X
 10.0's legendary slowness under the Aqua toolkit made this term rather
-more evocative. See `*Death, X of* <../D/Death--X-of.html>`__.
+more evocative. See `Death, X of <../D/Death--X-of.html>`__.
 
 --------------
 
@@ -4951,7 +4951,7 @@ S
 
 **splash screen**: n.
 
-[Mac users] Syn. `*banner* <../B/banner.html>`__, sense 3.
+[Mac users] Syn. `banner <../B/banner.html>`__, sense 3.
 
 --------------
 
@@ -4974,14 +4974,14 @@ S
 **splat**: n.
 
 1. Name used in many places (DEC, IBM, and others) for the asterisk
-(``*``) character (ASCII 0101010). This may derive from the
+(````) character (ASCII 0101010). This may derive from the
 ‘squashed-bug’ appearance of the asterisk on many early line printers.
 
 2. [MIT] Name used by some people for the ``#`` character (ASCII
 0100011).
 
-3. The `*feature key* <../F/feature-key.html>`__ on a Mac (same as
-`*alt* <../A/alt.html>`__, sense 2).
+3. The `feature key <../F/feature-key.html>`__ on a Mac (same as
+`alt <../A/alt.html>`__, sense 2).
 
 4. obs. Name used by some people for the Stanford/ITS extended ASCII ⊗
 character. This character is also called blobby and frob, among other
@@ -4989,7 +4989,7 @@ names; it is sometimes used by mathematicians as a notation for tensor
 product.
 
 5. obs. Name for the semi-mythical Stanford extended ASCII ⊕ character.
-See also `*ASCII* <../A/ASCII.html>`__.
+See also `ASCII <../A/ASCII.html>`__.
 
 --------------
 
@@ -5012,14 +5012,14 @@ S
 **splat out**: v.
 
 [Usenet; syn. disemvowel] To partially obscure a potentially provocative
-word by substituting `*splat* <splat.html>`__ characters for some of its
+word by substituting `splat <splat.html>`__ characters for some of its
 letters (usually, but not always, the vowels). The purpose is not to
 make the word unrecognizable but to make it a mention rather than a use,
 so that no flamewar ensues. Words often splatted out include N\*z\* (see
-`*Godwin's Law* <../G/Godwins-Law.html>`__), k\*bo\* (see
-`*KIBO* <../K/KIBO.html>`__, sense 2), \*v\*l\*t\*\*n (anywhere
+`Godwin's Law <../G/Godwins-Law.html>`__), k\*bo\* (see
+`KIBO <../K/KIBO.html>`__, sense 2), \*v\*l\*t\*\*n (anywhere
 fundamentalists might be lurking), \*b\*rt\*\*n, and g\*n c\*ntr\*l.
-Compare `*UN\*X* <../U/UN-asterisk-X.html>`__.
+Compare `UN\*X <../U/UN-asterisk-X.html>`__.
 
 --------------
 
@@ -5046,8 +5046,8 @@ implement mutual exclusion by running code at high interrupt levels.
 Used in jargon to describe the act of tuning in or tuning out ordinary
 communication. Classically, spl levels run from 1 to 7; “Fred's at spl 6
 today” would mean that he is very hard to interrupt. “Wait till I finish
-this; I'll spl down then.” See also `*interrupts locked
-out* <../I/interrupts-locked-out.html>`__.
+this; I'll spl down then.” See also `interrupts locked
+out <../I/interrupts-locked-out.html>`__.
 
 --------------
 
@@ -5072,7 +5072,7 @@ S
 [Usenet; common] The sound of coffee (or other beverage) hitting the
 monitor and/or keyboard after being forced out of the mouth via the
 nose. It usually follows an unexpectedly funny thing in a Usenet post.
-Compare `*snarf* <snarf.html>`__.
+Compare `snarf <snarf.html>`__.
 
 --------------
 
@@ -5096,10 +5096,10 @@ S
 
 [UK]
 
-1. A lower form of life found on `*talker
-system* <../T/talker-system.html>`__\ s and
-`*MUD* <../M/MUD.html>`__\ s. The spod has few friends in
-`*RL* <../R/RL.html>`__ and uses talkers instead, finding communication
+1. A lower form of life found on `talker
+system <../T/talker-system.html>`__\ s and
+`MUD <../M/MUD.html>`__\ s. The spod has few friends in
+`RL <../R/RL.html>`__ and uses talkers instead, finding communication
 easier and preferable over the net. He has all the negative traits of
 the computer geek without having any interest in computers per se.
 Lacking any knowledge of or interest in how networks work, and
@@ -5111,16 +5111,16 @@ A true spod will start any conversation with “Are you male or female?”
 (and follow it up with “Got any good numbers/IDs/passwords?”) and will
 not talk to someone physically present in the same terminal room until
 they log onto the same machine that he is using and enter talk mode.
-Compare `*newbie* <../N/newbie.html>`__,
-`*tourist* <../T/tourist.html>`__, `*weenie* <../W/weenie.html>`__,
-`*twink* <../T/twink.html>`__, `*terminal
-junkie* <../T/terminal-junkie.html>`__, `*warez
-d00dz* <../W/warez-d00dz.html>`__.
+Compare `newbie <../N/newbie.html>`__,
+`tourist <../T/tourist.html>`__, `weenie <../W/weenie.html>`__,
+`twink <../T/twink.html>`__, `terminal
+junkie <../T/terminal-junkie.html>`__, `warez
+d00dz <../W/warez-d00dz.html>`__.
 
-2. A `*backronym* <../B/backronym.html>`__ for “Sole Purpose, Obtain a
+2. A `backronym <../B/backronym.html>`__ for “Sole Purpose, Obtain a
 Degree”; according to some self-described spods, this term is used by
 indifferent students to condemn their harder-working fellows. Compare
-the defiant adoption of the term `*geek* <../G/geek.html>`__ in the
+the defiant adoption of the term `geek <../G/geek.html>`__ in the
 mid-1990s by people who would previously have been stigmatized by it.
 Spods in the positive sense are talker users who've accumulated a large
 amount of spod time, that is, they spend a lot of time logged in to that
@@ -5132,7 +5132,7 @@ internet in general.
 3. [Glasgow University] An otherwise competent hacker who spends way too
 much time on talker systems.
 
-4. [obs.] An ordinary person; a `*random* <../R/random.html>`__. This is
+4. [obs.] An ordinary person; a `random <../R/random.html>`__. This is
 the meaning with which the term was coined, but the inventor informs us
 he has himself accepted sense 1.
 
@@ -5164,7 +5164,7 @@ reading the book or watching the movie.
 
 2. Any remark which telegraphs the solution of a problem or puzzle, thus
 denying the reader the pleasure of working out the correct answer (see
-also `*interesting* <../I/interesting.html>`__). Either sense readily
+also `interesting <../I/interesting.html>`__). Either sense readily
 forms compounds like total spoiler, quasi-spoiler and even
 pseudo-spoiler.
 
@@ -5172,7 +5172,7 @@ By convention, articles which are spoilers in either sense should
 contain the word ‘spoiler’ in the Subject: line, or guarantee via
 various tricks that the answer appears only after several screens-full
 of warning, or conceal the sensitive information via
-`*rot13* <../R/rot13.html>`__, `*spoiler space* <spoiler-space.html>`__
+`rot13 <../R/rot13.html>`__, `spoiler space <spoiler-space.html>`__
 or some combination of these techniques.
 
 --------------
@@ -5197,7 +5197,7 @@ S
 
 [also spoiler spoo or spoiler protection] A screenful of blank or spacer
 lines deliberately inserted in a message following a
-`*spoiler* <spoiler.html>`__ warning, so the actual spoiler can't be
+`spoiler <spoiler.html>`__ warning, so the actual spoiler can't be
 seen without hitting a key. Formfeeds used to be used for this, but are
 now rare because so many people read news through Web interfaces on
 which they have no good interpretation.
@@ -5222,13 +5222,13 @@ S
 
 **sponge**: n.
 
-[Unix] A special case of a `*filter* <../F/filter.html>`__ that reads
+[Unix] A special case of a `filter <../F/filter.html>`__ that reads
 its entire input before writing any output; the canonical example is a
 sort utility. Unlike most filters, a sponge can conveniently overwrite
 the input file with the output data stream. If a file system has
 versioning (as ITS did and VMS does now) the sponge/filter distinction
 loses its usefulness, because directing filter output would just write a
-new version. See also `*slurp* <slurp.html>`__.
+new version. See also `slurp <slurp.html>`__.
 
 --------------
 
@@ -5278,12 +5278,12 @@ S
 
 **spool file**: n.
 
-Any file to which data is `*spool* <spool.html>`__\ ed to await the next
+Any file to which data is `spool <spool.html>`__\ ed to await the next
 stage of processing. Especially used in circumstances where spooling the
 data copes with a mismatch between speeds in two devices or pieces of
 software. For example, when you send mail under Unix, it's typically
 copied to a spool file to await a transport
-`*demon* <../D/demon.html>`__'s attentions. This is borderline
+`demon <../D/demon.html>`__'s attentions. This is borderline
 techspeak.
 
 --------------
@@ -5307,13 +5307,13 @@ S
 **spool**: vi.
 
 [from early IBM ‘Simultaneous Peripheral Operation On-Line’, but is
-widely thought to be a `*backronym* <../B/backronym.html>`__] To send
+widely thought to be a `backronym <../B/backronym.html>`__] To send
 files to some device or program (a spooler) that queues them up and does
 something useful with them later. Without qualification, the spooler is
 the print spooler controlling output of jobs to a printer; but the term
 has been used in connection with other peripherals (especially plotters
 and graphics devices) and occasionally even for input devices. See also
-`*demon* <../D/demon.html>`__.
+`demon <../D/demon.html>`__.
 
 --------------
 
@@ -5389,8 +5389,8 @@ S
 
 **spungle**: n.
 
-[Durham, UK; portmanteau, `*spangle* <spangle.html>`__ + bungle] A
-`*spangle* <spangle.html>`__ of no actual usefulness. Example: Roger the
+[Durham, UK; portmanteau, `spangle <spangle.html>`__ + bungle] A
+`spangle <spangle.html>`__ of no actual usefulness. Example: Roger the
 Bent Paperclip in Microsoft Word '98. A spungle's only virtue is that it
 looks pretty, unless you find creeping featurism ugly.
 
@@ -5418,10 +5418,10 @@ S
 to avoid it, enables third parties to snoop the user's hard drive or
 monitor their network transactions. Though the term seems to have
 entered use in the late 1990s, it achieved real popularity as applied to
-Microsoft Windows XP. Some `*back door* <../B/back-door.html>`__
+Microsoft Windows XP. Some `back door <../B/back-door.html>`__
 features in XP permit Microsoft to (for example) covertly scan your disk
 directories for the names of files it might deem to be
-`*warez* <../W/warez.html>`__.
+`warez <../W/warez.html>`__.
 
 2. Systems for spying on email and web traffic, such as the FBI's
 Carnivore.
@@ -5485,7 +5485,7 @@ items were lost. The usual physical example of a stack is to be found in
 a cafeteria: a pile of plates or trays sitting on a spring in a well, so
 that when you put one on the top they all sink down, and when you take
 one off the top the rest spring up a bit. See also
-`*push* <../P/push.html>`__ and `*pop* <../P/pop.html>`__.
+`push <../P/push.html>`__ and `pop <../P/pop.html>`__.
 
 (*The Art of Computer Programming*, second edition, vol. 1, p. 236)
 says:
@@ -5544,7 +5544,7 @@ S
 
 **stale pointer bug**: n.
 
-Synonym for `*aliasing bug* <../A/aliasing-bug.html>`__ used esp. among
+Synonym for `aliasing bug <../A/aliasing-bug.html>`__ used esp. among
 microcomputer hackers.
 
 --------------
@@ -5567,13 +5567,13 @@ S
 
 **Stanford Bunny**
 
-The successor of the `*Utah Teapot* <../U/Utah-teapot.html>`__. The
+The successor of the `Utah Teapot <../U/Utah-teapot.html>`__. The
 model is of a chocolate Easter bunny consisting of about 5000 polygons.
 It is small by 2002 standards, but is more illustrative than the teapot
 of of techniques such as surface radiance (e.g. radiosity) and
 self-reflection. There is a `history
 page <http://www.cc.gatech.edu/~turk/bunny/bunny.html>`__. Compare
-`*lenna* <../L/lenna.html>`__.
+`lenna <../L/lenna.html>`__.
 
 --------------
 
@@ -5603,7 +5603,7 @@ out”; occasionally a real user might have this inflicted upon him/her as
 a punishment, e.g. “Graham was starred out for playing Omega in working
 hours”. Also occasionally known as The Order Of The Gold Star in this
 context. “Don't do that, or you'll be awarded the Order of the Gold
-Star...” Compare `*disusered* <../D/disusered.html>`__.
+Star...” Compare `disusered <../D/disusered.html>`__.
 
 --------------
 
@@ -5627,7 +5627,7 @@ S
 
 1. Condition, situation. “What's the state of your latest hack?” “It's
 winning away.” “The system tried to read and write the disk
-simultaneously and got into a totally `*wedged* <../W/wedged.html>`__
+simultaneously and got into a totally `wedged <../W/wedged.html>`__
 state.” The standard question “What's your state?” means “What are you
 doing?” or “What are you about to do?” Typical answers are “about to
 gronk out”, or “hungry”. Another standard question is “What's the state
@@ -5661,8 +5661,8 @@ S
 
 [Corporate DP] A manager that appears out of nowhere, promises
 undeliverable software to unknown end users, and vanishes before the
-programming staff realizes what has happened. See `*smoke and
-mirrors* <smoke-and-mirrors.html>`__.
+programming staff realizes what has happened. See `smoke and
+mirrors <smoke-and-mirrors.html>`__.
 
 --------------
 
@@ -5740,8 +5740,8 @@ S
 [Usenet] Common abbreviation for “Search The Fucking Web”, a suggestion
 that what you're asking for is a query better handled by a search engine
 than a human being. Usage is common and exactly parallel to both senses
-of `*RTFM* <../R/RTFM.html>`__. A politer equivalent is
-`*GIYF* <../G/GIYF.html>`__.
+of `RTFM <../R/RTFM.html>`__. A politer equivalent is
+`GIYF <../G/GIYF.html>`__.
 
 --------------
 
@@ -5766,11 +5766,11 @@ S
 (alt.: stir-fried mumble) Term used for the best dish of many of those
 hackers who can cook. Consists of random fresh veggies and meat wokked
 with random spices. Tasty and economical. See
-`*random* <../R/random.html>`__,
-`*great-wall* <../G/great-wall.html>`__, `*ravs* <../R/ravs.html>`__,
-`*laser chicken* <../L/laser-chicken.html>`__, `*oriental
-food* <../O/oriental-food.html>`__; see also
-`*mumble* <../M/mumble.html>`__.
+`random <../R/random.html>`__,
+`great-wall <../G/great-wall.html>`__, `ravs <../R/ravs.html>`__,
+`laser chicken <../L/laser-chicken.html>`__, `oriental
+food <../O/oriental-food.html>`__; see also
+`mumble <../M/mumble.html>`__.
 
 --------------
 
@@ -5794,9 +5794,9 @@ S
 
 To inadvertently overwrite something important, usually automatically.
 “All the work I did this weekend got stomped on last night by the
-nightly server script.” Compare `*scribble* <scribble.html>`__,
-`*mangle* <../M/mangle.html>`__, `*trash* <../T/trash.html>`__,
-`*scrog* <scrog.html>`__, `*roach* <../R/roach.html>`__.
+nightly server script.” Compare `scribble <scribble.html>`__,
+`mangle <../M/mangle.html>`__, `trash <../T/trash.html>`__,
+`scrog <scrog.html>`__, `roach <../R/roach.html>`__.
 
 --------------
 
@@ -5820,17 +5820,17 @@ S
 
 1. In computer folklore, an ill-defined period from ENIAC (ca. 1943) to
 the mid-1950s; the great age of electromechanical
-`*dinosaur* <../D/dinosaur.html>`__\ s. Sometimes used for the entire
-period up to 1960--61 (see `*Iron Age* <../I/Iron-Age.html>`__);
+`dinosaur <../D/dinosaur.html>`__\ s. Sometimes used for the entire
+period up to 1960--61 (see `Iron Age <../I/Iron-Age.html>`__);
 however, it is funnier and more descriptive to characterize the latter
 period in terms of a ‘Bronze Age’ era of transistor-logic,
-pre-ferrite-`*core* <../C/core.html>`__ machines with drum or CRT mass
+pre-ferrite-`core <../C/core.html>`__ machines with drum or CRT mass
 storage (as opposed to just mercury delay lines and/or relays). See also
-`*Iron Age* <../I/Iron-Age.html>`__.
+`Iron Age <../I/Iron-Age.html>`__.
 
 |image0|
 
-How things weren't in the `*Stone Age* <Stone-Age.html>`__.
+How things weren't in the `Stone Age <Stone-Age.html>`__.
 
 (The next cartoon in the Crunchly saga is
 `76-07-18 <../C/core-dump.html#crunchly76-07-18>`__. The previous
@@ -5838,7 +5838,7 @@ cartoon was `76-03-14:5-8 <../F/flush.html#crunchly-5678>`__.)
 
 2. More generally, a pejorative for any crufty, ancient piece of
 hardware or software technology. Note that this is used even by people
-who were there for the `*Stone Age* <Stone-Age.html>`__ (sense 1).
+who were there for the `Stone Age <Stone-Age.html>`__ (sense 1).
 
 --------------
 
@@ -5867,7 +5867,7 @@ environments that are grotesquely primitive in light of what is known
 about good ways to design things. As in “Don't get too used to the
 facilities here. Once you leave SAIL it's stone knives and bearskins as
 far as the eye can see”. Compare
-`*steam-powered* <steam-powered.html>`__.
+`steam-powered <steam-powered.html>`__.
 
 --------------
 
@@ -5889,9 +5889,9 @@ S
 
 **stoppage**: /sto´p@j/, n.
 
-Extreme `*lossage* <../L/lossage.html>`__ that renders something
+Extreme `lossage <../L/lossage.html>`__ that renders something
 (usually something vital) completely unusable. “The recent system
-stoppage was caused by a `*fried* <../F/fried.html>`__ transformer.”
+stoppage was caused by a `fried <../F/fried.html>`__ transformer.”
 
 --------------
 
@@ -5914,10 +5914,10 @@ S
 **store**: n.
 
 [prob.: from techspeak main store] In some varieties of Commonwealth
-hackish, the preferred synonym for `*core* <../C/core.html>`__. Thus,
+hackish, the preferred synonym for `core <../C/core.html>`__. Thus,
 bringing a program into store means not that one is returning
 shrink-wrapped software but that a program is being
-`*swap* <swap.html>`__\ ped in.
+`swap <swap.html>`__\ ped in.
 
 --------------
 
@@ -5939,8 +5939,8 @@ S
 
 **STR**
 
-Spot the reference. Used in `*scary devil
-monastery* <scary-devil-monastery.html>`__ to mark the witticism one
+Spot the reference. Used in `scary devil
+monastery <scary-devil-monastery.html>`__ to mark the witticism one
 just uttered as a quote from some work of art or literature, the more
 obscure the better. Those who know where the reference comes from reply
 in the form “You are $CHARACTER, and you owe me $ITEM”, where $CHARACTER
@@ -6003,7 +6003,7 @@ S
 **stroke**: n.
 
 Common name for the slant (‘/’, ASCII 0101111) character. See
-`*ASCII* <../A/ASCII.html>`__ for other synonyms.
+`ASCII <../A/ASCII.html>`__ for other synonyms.
 
 --------------
 
@@ -6026,7 +6026,7 @@ S
 **strudel**: n.
 
 Common (spoken) name for the at-sign (‘@’, ASCII 1000000) character. See
-`*ASCII* <../A/ASCII.html>`__ for other synonyms.
+`ASCII <../A/ASCII.html>`__ for other synonyms.
 
 --------------
 
@@ -6072,7 +6072,7 @@ S
 **studlycaps**: /stuhd´lee·kaps/, n.
 
 A hackish form of silliness similar to
-`*BiCapitalization* <../B/BiCapitalization.html>`__ for trademarks, but
+`BiCapitalization <../B/BiCapitalization.html>`__ for trademarks, but
 applied randomly and to arbitrary text rather than to trademarks. ThE
 oRigiN and SigNificaNce of thIs pRacTicE iS oBscuRe.
 
@@ -6098,7 +6098,7 @@ S
 
 Impressive; powerful. Said of code and designs which exhibit both
 complexity and a virtuoso flair. Has connotations similar to
-`*hairy* <../H/hairy.html>`__ but is more positive in tone. Often in the
+`hairy <../H/hairy.html>`__ but is more positive in tone. Often in the
 emphatic most studly or as noun-form studliness. “Smail 3.0's
 configuration parser is most studly.”
 
@@ -6145,8 +6145,8 @@ S
 
 **Stupids**: n.
 
-Term used by `*samurai* <samurai.html>`__ for the
-`*suit* <suit.html>`__\ s who employ them; succinctly expresses an
+Term used by `samurai <samurai.html>`__ for the
+`suit <suit.html>`__\ s who employ them; succinctly expresses an
 attitude at least as common, though usually better disguised, among
 other subcultures of hackers. There may be intended reference here to an
 SF story originally published in 1952 but much anthologized since, Mark
@@ -6174,7 +6174,7 @@ S
 
 **stupid-sort**: n.
 
-Syn. `*bogo-sort* <../B/bogo-sort.html>`__.
+Syn. `bogo-sort <../B/bogo-sort.html>`__.
 
 --------------
 
@@ -6203,8 +6203,8 @@ himself called this “Sturgeon's Revelation”, and it first appeared in
 the March 1958 issue of *Venture Science Fiction*; he gave Sturgeon's
 Law as “Nothing is always absolutely so.” Oddly, when Sturgeon's
 Revelation is cited, the final word is almost invariably changed to
-‘crap’. Compare `*Hanlon's Razor* <../H/Hanlons-Razor.html>`__,
-`*Ninety-Ninety Rule* <../N/Ninety-Ninety-Rule.html>`__. Though this
+‘crap’. Compare `Hanlon's Razor <../H/Hanlons-Razor.html>`__,
+`Ninety-Ninety Rule <../N/Ninety-Ninety-Rule.html>`__. Though this
 maxim originated in SF fandom, most hackers recognize it and are all too
 aware of its truth.
 
@@ -6229,7 +6229,7 @@ S
 **sucking mud**: adj.
 
 [Applied Data Research] (also pumping mud) Crashed or
-`*wedged* <../W/wedged.html>`__. Usually said of a machine that provides
+`wedged <../W/wedged.html>`__. Usually said of a machine that provides
 some service to a network, such as a file server. This Dallas
 regionalism derives from the East Texas oilfield lament, “Shut 'er down,
 Ma, she's a-suckin' mud”. Often used as a query. “We are going to
@@ -6255,7 +6255,7 @@ S
 
 **sufficiently small**: adj.
 
-Syn. `*suitably small* <suitably-small.html>`__.
+Syn. `suitably small <suitably-small.html>`__.
 
 --------------
 
@@ -6277,7 +6277,7 @@ S
 
 **suitable win**: n.
 
-See `*win* <../W/win.html>`__.
+See `win <../W/win.html>`__.
 
 --------------
 
@@ -6330,14 +6330,14 @@ S
 Invariably worn with a ‘tie’, a strangulation device that partially cuts
 off the blood supply to the brain. It is thought that this explains much
 about the behavior of suit-wearers. Compare
-`*droid* <../D/droid.html>`__.
+`droid <../D/droid.html>`__.
 
 2. A person who habitually wears suits, as distinct from a techie or
-hacker. See `*pointy-haired* <../P/pointy-haired.html>`__,
-`*burble* <../B/burble.html>`__,
-`*management* <../M/management.html>`__, `*Stupids* <Stupids.html>`__,
-`*SNAFU principle* <SNAFU-principle.html>`__, `*PHB* <../P/PHB.html>`__,
-and `*brain-damaged* <../B/brain-damaged.html>`__.
+hacker. See `pointy-haired <../P/pointy-haired.html>`__,
+`burble <../B/burble.html>`__,
+`management <../M/management.html>`__, `Stupids <Stupids.html>`__,
+`SNAFU principle <SNAFU-principle.html>`__, `PHB <../P/PHB.html>`__,
+and `brain-damaged <../B/brain-damaged.html>`__.
 
 --------------
 
@@ -6364,14 +6364,14 @@ acronym, Stanford University Network. Sun started out around 1980 with
 some hardware hackers (mainly) from Stanford talking to some software
 hackers (mainly) from UC Berkeley; Sun's original technology concept
 married a clever board design based on the Motorola 68000 to
-`*BSD* <../B/BSD.html>`__ Unix. Sun went on to lead the workstation
+`BSD <../B/BSD.html>`__ Unix. Sun went on to lead the workstation
 industry through the 1980s, and for years afterwards remained an
 engineering-driven company and a good place for hackers to work. Though
 Sun drifted away from its techie origins after 1990 and has since made
 some strategic moves that disappointed and annoyed many hackers
 (especially by maintaining proprietary control of Java and rejecting
 Linux), it's still considered within the family in much the same way
-`*DEC* <../D/DEC.html>`__ was in the 1970s and early 1980s.
+`DEC <../D/DEC.html>`__ was in the 1970s and early 1980s.
 
 --------------
 
@@ -6421,10 +6421,10 @@ S
 1. Notional cause of an odd error. “Why did the program suddenly turn
 the screen blue?” “Sunspots, I guess.”
 
-2. Also the cause of `*bit rot* <../B/bit-rot.html>`__ — from the myth
-that sunspots will increase `*cosmic rays* <../C/cosmic-rays.html>`__,
-which can flip single bits in memory. See also `*phase of the
-moon* <../P/phase-of-the-moon.html>`__.
+2. Also the cause of `bit rot <../B/bit-rot.html>`__ — from the myth
+that sunspots will increase `cosmic rays <../C/cosmic-rays.html>`__,
+which can flip single bits in memory. See also `phase of the
+moon <../P/phase-of-the-moon.html>`__.
 
 --------------
 
@@ -6448,8 +6448,8 @@ S
 
 Unflattering hackerism for SunTools, a pre-X windowing environment
 notorious in its day for size, slowness, and misfeatures.
-`*X* <../X/X.html>`__, however, is larger and (some claim) slower; see
-`*second-system effect* <second-system-effect.html>`__.
+`X <../X/X.html>`__, however, is larger and (some claim) slower; see
+`second-system effect <second-system-effect.html>`__.
 
 --------------
 
@@ -6475,7 +6475,7 @@ S
 system and no idea what he/she is doing, the moral equivalent of a
 three-year-old with an unsafetied Uzi. Anyone who thinks this is an
 uncommon situation reckons without the territorial urges of
-`*management* <../M/management.html>`__.
+`management <../M/management.html>`__.
 
 --------------
 
@@ -6508,9 +6508,9 @@ commonly used within such places as IBM than in the hacker community. It
 tends to stress naive measures of productivity and to underweight
 creativity, ingenuity, and getting the job *done* — and to sidestep the
 question of whether the 3,000 lines of code do more or less useful work
-than three lines that do the `*Right Thing* <../R/Right-Thing.html>`__.
-Hackers tend to prefer the terms `*hacker* <../H/hacker.html>`__ and
-`*wizard* <../W/wizard.html>`__.
+than three lines that do the `Right Thing <../R/Right-Thing.html>`__.
+Hackers tend to prefer the terms `hacker <../H/hacker.html>`__ and
+`wizard <../W/wizard.html>`__.
 
 --------------
 
@@ -6541,8 +6541,8 @@ source quench” is actually a redirect control packet, forged to look
 like it came from a local router, that instructs a host to send all
 packets to its own local loopback address. This will effectively tie
 many Internet hosts up in knots. Compare
-`*Godzillagram* <../G/Godzillagram.html>`__, `*breath-of-life
-packet* <../B/breath-of-life-packet.html>`__.
+`Godzillagram <../G/Godzillagram.html>`__, `breath-of-life
+packet <../B/breath-of-life-packet.html>`__.
 
 --------------
 
@@ -6564,11 +6564,11 @@ S
 
 **superuser**: n.
 
-[Unix] Syn. `*root* <../R/root.html>`__,
-`*avatar* <../A/avatar.html>`__. This usage has spread to non-Unix
+[Unix] Syn. `root <../R/root.html>`__,
+`avatar <../A/avatar.html>`__. This usage has spread to non-Unix
 environments; the superuser is any account with all
-`*wheel* <../W/wheel.html>`__ bits on. A more specific term than
-`*wheel* <../W/wheel.html>`__.
+`wheel <../W/wheel.html>`__ bits on. A more specific term than
+`wheel <../W/wheel.html>`__.
 
 --------------
 
@@ -6655,9 +6655,9 @@ comments in plain English. Also (fashionable among personkind wishing to
 avoid accusations of sexism) ‘Sammy Cobol’ or (in some non-IBM circles)
 ‘Cobol Charlie’.
 
-2. [proposed] Meta-name for any `*code
-grinder* <../C/code-grinder.html>`__, analogous to `*J. Random
-Hacker* <../J/J--Random-Hacker.html>`__.
+2. [proposed] Meta-name for any `code
+grinder <../C/code-grinder.html>`__, analogous to `J. Random
+Hacker <../J/J--Random-Hacker.html>`__.
 
 --------------
 
@@ -6679,19 +6679,19 @@ S
 
 **swab**: /swob/
 
-[From the mnemonic for the `*PDP-11* <../P/PDP-11.html>`__ ‘SWAp Byte’
+[From the mnemonic for the `PDP-11 <../P/PDP-11.html>`__ ‘SWAp Byte’
 instruction, as immortalized in the dd(1) option **conv=swab** (see
-`*dd* <../D/dd.html>`__)]
+`dd <../D/dd.html>`__)]
 
-1. vt. To solve the `*NUXI problem* <../N/NUXI-problem.html>`__ by
+1. vt. To solve the `NUXI problem <../N/NUXI-problem.html>`__ by
 swapping bytes in a file
 
 2. n. The program in V7 Unix used to perform this action, or anything
 functionally equivalent to it. See also
-`*big-endian* <../B/big-endian.html>`__,
-`*little-endian* <../L/little-endian.html>`__,
-`*middle-endian* <../M/middle-endian.html>`__,
-`*bytesexual* <../B/bytesexual.html>`__.
+`big-endian <../B/big-endian.html>`__,
+`little-endian <../L/little-endian.html>`__,
+`middle-endian <../M/middle-endian.html>`__,
+`bytesexual <../B/bytesexual.html>`__.
 
 --------------
 
@@ -6716,7 +6716,7 @@ S
 1. [techspeak] To move information from a fast-access memory to a
 slow-access memory (swap out), or vice versa (swap in). Often refers
 specifically to the use of disks as virtual memory. As pieces of data or
-program are needed, they are swapped into `*core* <../C/core.html>`__
+program are needed, they are swapped into `core <../C/core.html>`__
 for processing; when they are no longer needed they may be swapped out
 again.
 
@@ -6729,8 +6729,8 @@ keep it swapped in.” If someone interrupts you just as you got a good
 idea, you might say “Wait a moment while I swap this out”, implying that
 a piece of paper is your extra-somatic memory and that if you don't swap
 the idea out by writing it down it will get overwritten and lost as you
-talk. Compare `*page in* <../P/page-in.html>`__, `*page
-out* <../P/page-out.html>`__.
+talk. Compare `page in <../P/page-in.html>`__, `page
+out <../P/page-out.html>`__.
 
 --------------
 
@@ -6752,7 +6752,7 @@ S
 
 **swapped in**: n.
 
-See `*swap* <swap.html>`__. See also `*page in* <../P/page-in.html>`__.
+See `swap <swap.html>`__. See also `page in <../P/page-in.html>`__.
 
 --------------
 
@@ -6774,8 +6774,8 @@ S
 
 **swapped out**: n.
 
-See `*swap* <swap.html>`__. See also `*page
-out* <../P/page-out.html>`__.
+See `swap <swap.html>`__. See also `page
+out <../P/page-out.html>`__.
 
 --------------
 
@@ -6826,7 +6826,7 @@ analyzer generator lex(1) to a Swiss-army knife; this was a comment on
 the remarkable variety of more general uses discovered for a program
 originally designed as a special-purpose code generator for writing
 compilers. Two decades later, well-known hacker Henry Spencer described
-the `*Perl* <../P/Perl.html>`__ scripting language as a “Swiss-Army
+the `Perl <../P/Perl.html>`__ scripting language as a “Swiss-Army
 chainsaw”, intending to convey his evaluation of the language as
 exceedingly powerful but ugly and noisy and prone to belch noxious
 fumes. This had two results: (1) Perl fans adopted the epithet as a
@@ -6859,7 +6859,7 @@ main memory from external storage (also called pointer swizzling); this
 may be done for speed in chasing references or to simplify code (e.g.,
 by turning lots of name lookups into pointer dereferences). The converse
 operation is sometimes termed unswizzling. See also
-`*snap* <snap.html>`__.
+`snap <snap.html>`__.
 
 --------------
 
@@ -6886,7 +6886,7 @@ S
 1. To synchronize, to bring into synchronization.
 
 2. [techspeak] To force all pending I/O to the disk; see
-`*flush* <../F/flush.html>`__, sense 2.
+`flush <../F/flush.html>`__, sense 2.
 
 3. More generally, to force a number of competing processes or agents to
 a state that would be ‘safe’ if the system were to crash; thus, to
@@ -6912,7 +6912,7 @@ S
 
 **syntactic salt**: n.
 
-The opposite of `*syntactic sugar* <syntactic-sugar.html>`__, a feature
+The opposite of `syntactic sugar <syntactic-sugar.html>`__, a feature
 designed to make it harder to write bad code. Specifically, syntactic
 salt is a hoop the programmer must jump through just to prove that he
 knows what's going on, rather than to express a program action. Some
@@ -6922,7 +6922,7 @@ terminate the last block controlled by a control construct (as opposed
 to just **end**) would definitely be syntactic salt. Syntactic salt is
 like the real thing in that it tends to raise hackers' blood pressures
 in an unhealthy way. Compare
-`*candygrammar* <../C/candygrammar.html>`__.
+`candygrammar <../C/candygrammar.html>`__.
 
 --------------
 
@@ -6947,7 +6947,7 @@ S
 [coined by Peter Landin] Features added to a language or other formalism
 to make it ‘sweeter’ for humans, but which do not affect the
 expressiveness of the formalism (compare
-`*chrome* <../C/chrome.html>`__). Used esp. when there is an obvious and
+`chrome <../C/chrome.html>`__). Used esp. when there is an obvious and
 trivial translation of the ‘sugar’ feature into other constructs already
 present in the notation. C's **a[i]** notation is syntactic sugar for
 \*(a + i). “Syntactic sugar causes cancer of the semicolon.” — Alan
@@ -6957,8 +6957,8 @@ The variants syntactic saccharin and syntactic syrup are also recorded.
 These denote something even more gratuitous, in that syntactic sugar
 serves a purpose (making something more acceptable to humans), but
 syntactic saccharin or syrup serve no purpose at all. Compare
-`*candygrammar* <../C/candygrammar.html>`__, `*syntactic
-salt* <syntactic-salt.html>`__.
+`candygrammar <../C/candygrammar.html>`__, `syntactic
+salt <syntactic-salt.html>`__.
 
 --------------
 
@@ -6980,7 +6980,7 @@ S
 
 **sysadmin**: /sis´ad·min/, n.
 
-Common contraction of ‘system admin’; see `*admin* <../A/admin.html>`__.
+Common contraction of ‘system admin’; see `admin <../A/admin.html>`__.
 
 --------------
 
@@ -7003,9 +7003,9 @@ S
 **sysape**: /sys´ayp/, n.
 
 A rather derogatory term for a computer operator; a play on
-`*sysop* <sysop.html>`__ common at sites that use the banana hierarchy
-of problem complexity (see `*one-banana
-problem* <../O/one-banana-problem.html>`__).
+`sysop <sysop.html>`__ common at sites that use the banana hierarchy
+of problem complexity (see `one-banana
+problem <../O/one-banana-problem.html>`__).
 
 --------------
 
@@ -7052,7 +7052,7 @@ S
 
 [esp. in the BBS world] The operator (and usually the owner) of a
 bulletin-board system. A common neophyte mistake on
-`*FidoNet* <../F/FidoNet.html>`__ is to address a message to sysop in an
+`FidoNet <../F/FidoNet.html>`__ is to address a message to sysop in an
 international FidoNet board, thus sending it to hundreds of sysops
 around the world.
 
@@ -7109,10 +7109,10 @@ S
 **system mangler**: n.
 
 Humorous synonym for ‘system manager’, poss. from the fact that one
-major IBM OS had a `*root* <../R/root.html>`__ account called SYSMANGR.
+major IBM OS had a `root <../R/root.html>`__ account called SYSMANGR.
 Refers specifically to a systems programmer in charge of administration,
 software maintenance, and updates at some site. Unlike
-`*admin* <../A/admin.html>`__, this term emphasizes the technical end of
+`admin <../A/admin.html>`__, this term emphasizes the technical end of
 the skills involved.
 
 --------------
@@ -7135,7 +7135,7 @@ S
 
 **systems jock**: n.
 
-See `*jock* <../J/jock.html>`__, sense 2.
+See `jock <../J/jock.html>`__, sense 2.
 
 --------------
 

@@ -50,9 +50,9 @@ YA-
 **YA-**: abbrev.
 
 [Yet Another] In hackish acronyms this almost invariably expands to
-`*Yet Another* <Yet-Another.html>`__, following the precedent set by
+`Yet Another<Yet-Another.html>`__, following the precedent set by
 Unix yacc(1) (Yet Another Compiler-Compiler). See
-`*YABA* <YABA.html>`__.
+`YABA<YABA.html>`__.
 
 
 yak shaving

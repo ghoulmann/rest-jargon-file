@@ -74,7 +74,7 @@ derived from) Morse-code jargon used by ham-radio amateurs since the
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | MIN                | same as **JAM**                                                                                                                                                                                                                                                                                                                                                                         |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| NIL                | no (see `*NIL* <../N/NIL.html>`__)                                                                                                                                                                                                                                                                                                                                                      |
+| NIL                | no (see `NIL <../N/NIL.html>`__)                                                                                                                                                                                                                                                                                                                                                      |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | NP                 | no problem                                                                                                                                                                                                                                                                                                                                                                              |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -96,7 +96,7 @@ derived from) Morse-code jargon used by ham-radio amateurs since the
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | SYN                | Are you busy? (expects ACK, SYN\|ACK, or RST in return; this is modeled on the TCP/IP handshake sequence)                                                                                                                                                                                                                                                                               |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| T                  | yes (see the main entry for `*T* <T.html>`__)                                                                                                                                                                                                                                                                                                                                           |
+| T                  | yes (see the main entry for `T <T.html>`__)                                                                                                                                                                                                                                                                                                                                           |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | TNX                | thanks                                                                                                                                                                                                                                                                                                                                                                                  |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -116,7 +116,7 @@ derived from) Morse-code jargon used by ham-radio amateurs since the
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | YHTBT              | You Had To Be There. Used of a situation which loses significant meaning in the telling, usually because it's difficult to convey tone and timing.                                                                                                                                                                                                                                      |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| <name>:            | When three or more terminals are linked, it is conventional for each typist to `*prepend* <../P/prepend.html>`__ his/her login name or handle and a colon (or a hyphen) to each line to indicate who is typing (some conferencing facilities do this automatically). The login name is often shortened to a unique prefix (possibly a single letter) during a very long conversation.   |
+| <name>:            | When three or more terminals are linked, it is conventional for each typist to `prepend <../P/prepend.html>`__ his/her login name or handle and a colon (or a hyphen) to each line to indicate who is typing (some conferencing facilities do this automatically). The login name is often shortened to a unique prefix (possibly a single letter) during a very long conversation.   |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | /\\/\\/\\          | A giggle or chuckle. On a MUD, this usually means 'earthquake fault'.                                                                                                                                                                                                                                                                                                                   |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -132,13 +132,13 @@ derived from) Morse-code jargon used by ham-radio amateurs since the
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | HHOK               | ha ha only kidding                                                                                                                                                                                                                                                                                                                                                                      |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| HHOS               | `*ha ha only serious* <../H/ha-ha-only-serious.html>`__                                                                                                                                                                                                                                                                                                                                 |
+| HHOS               | `ha ha only serious <../H/ha-ha-only-serious.html>`__                                                                                                                                                                                                                                                                                                                                 |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| IMHO               | in my humble opinion (see `*IMHO* <../I/IMHO.html>`__)                                                                                                                                                                                                                                                                                                                                  |
+| IMHO               | in my humble opinion (see `IMHO <../I/IMHO.html>`__)                                                                                                                                                                                                                                                                                                                                  |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | LOL                | laughing out loud                                                                                                                                                                                                                                                                                                                                                                       |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| NHOH               | Never Heard of Him/Her (often used in `*initgame* <../I/initgame.html>`__)                                                                                                                                                                                                                                                                                                              |
+| NHOH               | Never Heard of Him/Her (often used in `initgame <../I/initgame.html>`__)                                                                                                                                                                                                                                                                                                              |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ROTF               | rolling on the floor                                                                                                                                                                                                                                                                                                                                                                    |
 +--------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -164,15 +164,15 @@ derived from) Morse-code jargon used by ham-radio amateurs since the
 Most of these are not used at universities or in the Unix world, though
 ROTF and TTFN have gained some currency there and IMHO is common;
 conversely, most of the people who know these are unfamiliar with FOO?,
-BCNU, HELLOP, `*NIL* <../N/NIL.html>`__, and `*T* <T.html>`__.
+BCNU, HELLOP, `NIL <../N/NIL.html>`__, and `T <T.html>`__.
 
-The `*MUD* <../M/MUD.html>`__ community uses a mixture of
+The `MUD <../M/MUD.html>`__ community uses a mixture of
 Usenet/Internet emoticons, a few of the more natural of the old-style
 talk-mode abbrevs, and some of the ‘social’ list above; specifically,
 MUD respondents report use of BBL, BRB, LOL, b4, BTW, WTF, TTFN, and
 WTH. The use of rehi is also common; in fact, mudders are fond of re-
 compounds and will frequently rehug or rebonk (see
-`*bonk/oif* <../B/bonk-oif.html>`__) people. The word re by itself is
+`bonk/oif <../B/bonk-oif.html>`__) people. The word re by itself is
 taken as ‘regreet’. In general, though, MUDders express a preference for
 typing things out in full rather than using abbreviations; this may be
 due to the relative youth of the MUD cultures, which tend to include
@@ -193,7 +193,7 @@ specific to MUDs are reported:
 | UOK?      | are you OK?                                                                           |
 +-----------+---------------------------------------------------------------------------------------+
 
-Some `*B1FF* <../B/B1FF.html>`__\ isms (notably the variant spelling
+Some `B1FF <../B/B1FF.html>`__\ isms (notably the variant spelling
 **d00d**) appear to be passing into wider use among some subgroups of
 MUDders.
 
@@ -206,8 +206,8 @@ is usually best just to leave typographical errors behind and plunge
 forward, unless severe confusion may result; in that case it is often
 fastest just to type “xxx” and start over from before the mistake.
 
-See also `*hakspek* <../H/hakspek.html>`__,
-`*emoticon* <../E/emoticon.html>`__.
+See also `hakspek <../H/hakspek.html>`__,
+`emoticon <../E/emoticon.html>`__.
 
 
 TAN
@@ -218,7 +218,7 @@ TAN
 
 [Usenet, particularly ``rec.arts.sf.written.robert-jordan``] Abbrev. of
 ‘tangent’, as in “off on a tangent”, and synonym for
-`*OT* <../O/OT.html>`__. A number of hacker-humor synonyms are used for
+`OT <../O/OT.html>`__. A number of hacker-humor synonyms are used for
 TAN in some newsgroups. Instances such as BEIGE, OFF-WHITE,
 BROWNISH-GRAY, and LIGHT BROWN have been observed. It is generally
 understood on newsgroups with this convention that any color descriptor
@@ -235,8 +235,8 @@ tanked
 
 **tanked**: adj.
 
-Same as `*down* <../D/down.html>`__, used primarily by Unix hackers. See
-also `*hosed* <../H/hosed.html>`__. Popularized as a synonym for ‘drunk’
+Same as `down <../D/down.html>`__, used primarily by Unix hackers. See
+also `hosed <../H/hosed.html>`__. Popularized as a synonym for ‘drunk’
 by Steve Dallas in the late lamented *Bloom County* comic strip.
 
 TANSTAAFL
@@ -248,9 +248,9 @@ TANSTAAFL
 [acronym, from Robert Heinlein's classic SF novel *The Moon is a Harsh
 Mistress*.] “There Ain't No Such Thing As A Free Lunch”, often invoked
 when someone is balking at the prospect of using an unpleasantly
-`*heavyweight* <../H/heavyweight.html>`__ technique, or at the poor
-quality of some piece of software, or at the `*signal-to-noise
-ratio* <../S/signal-to-noise-ratio.html>`__ of unmoderated Usenet
+`heavyweight <../H/heavyweight.html>`__ technique, or at the poor
+quality of some piece of software, or at the `signal-to-noise
+ratio <../S/signal-to-noise-ratio.html>`__ of unmoderated Usenet
 newsgroups. “What? Don't tell me I have to implement a database back end
 to get my address book program to work!” “Well, TANSTAAFL you know.”
 This phrase owes some of its popularity to the high concentration of
@@ -272,8 +272,8 @@ tape monkey
 
 A junior system administrator, one who might plausibly be assigned to do
 physical swapping of tapes and subsequent storage. When a backup needs
-to be restored, one might holler “Tape monkey!” (Compare `*one-banana
-problem* <../O/one-banana-problem.html>`__) Also used to dismiss jobs
+to be restored, one might holler “Tape monkey!” (Compare `one-banana
+problem <../O/one-banana-problem.html>`__) Also used to dismiss jobs
 not worthy of a highly trained sysadmin's ineffable talents: “Cable up
 her PC? You must be joking — I'm no tape monkey.”
 
@@ -287,12 +287,12 @@ tar and feather
 [from Unix tar(1)] To create a transportable archive from a group of
 files by first sticking them together with tar(1) (the Tape ARchiver)
 and then compressing the result (see
-`*compress* <../C/compress.html>`__). The latter action is dubbed
+`compress <../C/compress.html>`__). The latter action is dubbed
 feathering partly for euphony and (if only for contrived effect) by
 analogy to what you do with an airplane propeller to decrease wind
 resistance, or with an oar to reduce water resistance; smaller files,
 after all, slip through comm links more easily. Compare the more common
-`*tarball* <tarball.html>`__. Earlier, the phrase referred to a
+`tarball <tarball.html>`__. Earlier, the phrase referred to a
 punishment in which the victims had tar being poured upon them and then,
 whilst the tar was still sticky, having a pillow full of feathers - or
 other material — thrown at them. See
@@ -481,8 +481,8 @@ teergrube
 
 **teergrube**: /teer´groob·@/, n.
 
-[German for tar pit] A trap set to punish spammers who use an `*address
-harvester* <../A/address-harvester.html>`__; a mail server deliberately
+[German for tar pit] A trap set to punish spammers who use an `address
+harvester <../A/address-harvester.html>`__; a mail server deliberately
 set up to be really, really slow. To activate it, scatter addresses that
 look like users on the teergrube's host in places where the address
 harvester will be trolling (one popular way is to embed the fake address
@@ -542,7 +542,7 @@ A covert `pseudo <../P/pseudo.html>`__, sense 1. An artificial
 identity created in cyberspace for nefarious and deceptive purposes. The
 implication is that a single person may have multiple tentacles. This
 term was originally floated in some paranoid ravings on the cypherpunks
-list (see `*cypherpunk* <../C/cypherpunk.html>`__), and adopted in a
+list (see `cypherpunk <../C/cypherpunk.html>`__), and adopted in a
 spirit of irony by other, saner members. It has since shown up, used
 seriously, in the documentation for some remailer software, and is now
 (1994) widely recognized on the net. Compare
@@ -584,7 +584,7 @@ tera-
 
 **tera-**: /te´r@/, pref.
 
-[SI] See `*quantifiers* <../Q/quantifiers.html>`__.
+[SI] See `quantifiers <../Q/quantifiers.html>`__.
 
 terminak
 ============
@@ -619,7 +619,7 @@ terminal illness
 
 **terminal illness**: n.
 
-1. Syn. `*raster burn* <../R/raster-burn.html>`__.
+1. Syn. `raster burn <../R/raster-burn.html>`__.
 
 2. The ‘burn-in’ condition your CRT tends to get if you don't have a
 screen saver.
@@ -630,7 +630,7 @@ terminal junkie
 
 **terminal junkie**: n.
 
-[UK] A `*wannabee* <../W/wannabee.html>`__ or early `larval
+[UK] A `wannabee <../W/wannabee.html>`__ or early `larval
 stage <../L/larval-stage.html>`__ hacker who spends most of his or her
 time wandering the directory tree and writing
 `noddy <../N/noddy.html>`__ programs just to get a fix of computer
@@ -638,7 +638,7 @@ time. Variants include terminal jockey, console junkie, and `console
 jockey <../C/console-jockey.html>`__. The term console jockey seems to
 imply more expertise than the other three (possibly because of the
 exalted status of the `console <../C/console.html>`__ relative to an
-ordinary terminal). See also `twink <twink.html>`__, `*ead-only
+ordinary terminal). See also `twink <twink.html>`__, `ead-only
 user <../R/read-only-user.html>`__. Appropriately, this term was used
 in the works of William S. Burroughs to describe a heroin addict with an
 unlimited supply.
@@ -664,22 +664,22 @@ TeX
 
 **TeX**: /tekh/, n.
 
-An extremely powerful `*macro* <../M/macro.html>`__-based text formatter
-written by Donald E. `*Knuth* <../K/Knuth.html>`__, very popular in the
+An extremely powerful `macro <../M/macro.html>`__-based text formatter
+written by Donald E. `Knuth <../K/Knuth.html>`__, very popular in the
 computer-science community (it is good enough to have displaced Unix
-`*troff* <troff.html>`__, the other favored formatter, even at many Unix
+`troff <troff.html>`__, the other favored formatter, even at many Unix
 installations). TeX fans insist on the correct (guttural) pronunciation,
 and the correct spelling (all caps, squished together, with the E
 depressed below the baseline; the mixed-case ‘TeX’ is considered an
 acceptable kluge on ASCII-only devices). Fans like to proliferate names
 from the word ‘TeX’ — such as TeXnician (TeX user), TeXhacker (TeX
 programmer), TeXmaster (competent TeX programmer), TeXhax, and TeXnique.
-See also `*CrApTeX* <../C/CrApTeX.html>`__.
+See also `CrApTeX <../C/CrApTeX.html>`__.
 
 Knuth began TeX because he had become annoyed at the declining quality
 of the typesetting in volumes I--III of his monumental *Art of Computer
-Programming* (see `*Knuth* <../K/Knuth.html>`__, also
-`*bible* <../B/bible.html>`__). In a manifestation of the typical
+Programming* (see `Knuth <../K/Knuth.html>`__, also
+`bible <../B/bible.html>`__). In a manifestation of the typical
 hackish urge to solve the problem at hand once and for all, he began to
 design his own typesetting language. He thought he would finish it on
 his sabbatical in 1978; he was wrong by only about 8 years. The language
@@ -687,7 +687,7 @@ was finally frozen around 1985, but volume IV of *The Art of Computer
 Programming* is not expected to appear until 2007. The impact and
 influence of TeX's design has been such that nobody minds this very
 much. Many grand hackish projects have started as a bit of
-`*toolsmith* <toolsmith.html>`__\ ing on the way to something else;
+`toolsmith <toolsmith.html>`__\ ing on the way to something else;
 Knuth's diversion was simply on a grander scale than most.
 
 TeX has also been a noteworthy example of free, shared, but high-quality
@@ -708,11 +708,11 @@ text
 
 1. [techspeak] Executable code, esp. a pure code portion shared between
 multiple instances of a program running in a multitasking OS. Compare
-`*English* <../E/English.html>`__.
+`English <../E/English.html>`__.
 
 2. Textual material in the mainstream sense; data in ordinary
-`*ASCII* <../A/ASCII.html>`__ or `*EBCDIC* <../E/EBCDIC.html>`__
-representation (see `*flat-ASCII* <../F/flat-ASCII.html>`__). “Those are
+`ASCII <../A/ASCII.html>`__ or `EBCDIC <../E/EBCDIC.html>`__
+representation (see `flat-ASCII <../F/flat-ASCII.html>`__). “Those are
 text files; you can review them using the editor.”
 
 These two contradictory senses confuse hackers, too.
@@ -727,8 +727,8 @@ thanks in advance
 
 [Usenet] Conventional net.politeness ending a posted request for
 information or assistance. Sometimes written ‘advTHANKSance’ or
-‘aTdHvAaNnKcSe’ or abbreviated ‘TIA’. See `*net.-* <../N/net--.html>`__,
-`*netiquette* <../N/netiquette.html>`__.
+‘aTdHvAaNnKcSe’ or abbreviated ‘TIA’. See `net.- <../N/net--.html>`__,
+`netiquette <../N/netiquette.html>`__.
 
 
 That's not a bug, that's a feature!
@@ -737,10 +737,10 @@ That's not a bug, that's a feature!
 
 **That's not a bug, that's a feature!**
 
-The `*canonical* <../C/canonical.html>`__ first parry in a debate about
+The `canonical <../C/canonical.html>`__ first parry in a debate about
 a purported bug. The complainant, if unconvinced, is likely to retort
-that the bug is then at best a `*misfeature* <../M/misfeature.html>`__.
-See also `*feature* <../F/feature.html>`__.
+that the bug is then at best a `misfeature <../M/misfeature.html>`__.
+See also `feature <../F/feature.html>`__.
 
 the literature
 ==========================
@@ -750,9 +750,9 @@ the literature
 
 Computer-science journals and other publications, vaguely gestured at to
 answer a question that the speaker believes is
-`*trivial* <trivial.html>`__. Thus, one might answer an annoying
+`trivial <trivial.html>`__. Thus, one might answer an annoying
 question by saying “It's in the literature.” Oppose
-`*Knuth* <../K/Knuth.html>`__, which has no connotation of triviality.
+`Knuth <../K/Knuth.html>`__, which has no connotation of triviality.
 
 the network
 ===================
@@ -763,14 +763,14 @@ the network
 
 1. Historically, the union of all the major noncommercial, academic, and
 hacker-oriented networks, such as Internet, the pre-1990 ARPANET,
-NSFnet, BITNET, and the virtual UUCP and `*Usenet* <../U/Usenet.html>`__
+NSFnet, BITNET, and the virtual UUCP and `Usenet <../U/Usenet.html>`__
 ‘networks’, plus the corporate in-house networks and commercial
 timesharing services (such as CompuServe, GEnie and AOL) that gateway to
 them. A site is generally considered on the network if it can be reached
 through some combination of Internet-style (@-sign) and UUCP (bang-path)
-addresses. See `*Internet* <../I/Internet.html>`__, `*bang
-path* <../B/bang-path.html>`__, `*network
-address* <../N/network-address.html>`__.
+addresses. See `Internet <../I/Internet.html>`__, `bang
+path <../B/bang-path.html>`__, `network
+address <../N/network-address.html>`__.
 
 2. Following the mass-culture discovery of the Internet in 1994 and
 subsequent proliferation of cheap TCP/IP connections, “the network” is
@@ -780,8 +780,8 @@ second wave of wide-area computer networking began around 1980).
 3. A fictional conspiracy of libertarian hacker-subversives and
 anti-authoritarian monkeywrenchers described in Robert Anton Wilson's
 novel *Schrödinger's Cat*, to which many hackers have subsequently
-decided they belong (this is an example of `*ha ha only
-serious* <../H/ha-ha-only-serious.html>`__).
+decided they belong (this is an example of `ha ha only
+serious <../H/ha-ha-only-serious.html>`__).
 
 In sense 1, the network is often abbreviated to the net. “Are you on the
 net?” is a frequent question when hackers first meet face to face, and
@@ -794,12 +794,12 @@ theology
 
 **theology**: n.
 
-1. Ironically or humorously used to refer to `*religious
-issues* <../R/religious-issues.html>`__.
+1. Ironically or humorously used to refer to `religious
+issues <../R/religious-issues.html>`__.
 
 2. Technical fine points of an abstruse nature, esp. those where the
 resolution is of theoretical interest but is relatively
-`*marginal* <../M/marginal.html>`__ with respect to actual use of a
+`marginal <../M/marginal.html>`__ with respect to actual use of a
 design or system. Used esp. around software issues with a heavy AI or
 language-design component, such as the smart-data vs. smart-programs
 dispute in AI.
@@ -832,8 +832,8 @@ references — a common humorous way of making exclusive statements about
 a class of things. The template is from the *Tao te Ching*: “The Tao
 which can be spoken of is not the true Tao.” The implication is often
 that the X is a mystery accessible only to the enlightened. See the
-`*trampoline* <trampoline.html>`__ entry for an example, and compare
-`*has the X nature* <../H/has-the-X-nature.html>`__.
+`trampoline <trampoline.html>`__ entry for an example, and compare
+`has the X nature <../H/has-the-X-nature.html>`__.
 
 
 thinko
@@ -846,8 +846,8 @@ thinko
 [by analogy with ‘typo’] A momentary, correctable glitch in mental
 processing, especially one involving recall of information learned by
 rote; a bubble in the stream of consciousness. Syn.
-`*braino* <../B/braino.html>`__; see also `*brain
-fart* <../B/brain-fart.html>`__. Compare `*mouso* <../M/mouso.html>`__.
+`braino <../B/braino.html>`__; see also `brain
+fart <../B/brain-fart.html>`__. Compare `mouso <../M/mouso.html>`__.
 
 
 This can't happen
@@ -856,7 +856,7 @@ This can't happen
 
 **This can't happen**
 
-Less clipped variant of `*can't happen* <../C/can-t-happen.html>`__.
+Less clipped variant of `can't happen <../C/can-t-happen.html>`__.
 
 
 
@@ -871,8 +871,8 @@ sessions involving numerous small obstacles (e.g., attempts to bring up
 a UUCP connection). For the proper effect, this must be uttered in a
 fruity imitation of Bullwinkle J. Moose. Also heard: “Hey, Rocky! Watch
 me pull a rabbit out of my hat!” The
-`*canonical* <../C/canonical.html>`__ response is, of course, “But that
-trick *never* works!” See `*hacker humor* <../H/hacker-humor.html>`__.
+`canonical <../C/canonical.html>`__ response is, of course, “But that
+trick *never* works!” See `hacker humor <../H/hacker-humor.html>`__.
 
 thrash
 ===================
@@ -888,7 +888,7 @@ computation) and are therefore said to thrash. Someone who keeps
 changing his mind (esp. about what to work on next) is said to be
 thrashing. A person frantically trying to execute too many tasks at once
 (and not spending enough time on any single task) may also be described
-as thrashing. Compare `*multitask* <../M/multitask.html>`__.
+as thrashing. Compare `multitask <../M/multitask.html>`__.
 
 
 thread
@@ -919,7 +919,7 @@ three-finger salute
 
 **three-finger salute**: n.
 
-Syn. `*Vulcan nerve pinch* <../V/Vulcan-nerve-pinch.html>`__.
+Syn. `Vulcan nerve pinch <../V/Vulcan-nerve-pinch.html>`__.
 
 
 throwaway account
@@ -929,8 +929,8 @@ throwaway account
 **throwaway account**: n.
 
 1. An inexpensive Internet account purchased on a legitimate
-`*ISP* <../I/ISP.html>`__ for the sole purpose of spewing
-`*spam* <../S/spam.html>`__.
+`ISP <../I/ISP.html>`__ for the sole purpose of spewing
+`spam <../S/spam.html>`__.
 
 2. An inexpensive Internet account obtained for the sole purpose of
 doing something which requires a valid email address but being able to
@@ -954,17 +954,17 @@ Fortunately, most hackers (particularly those who frequent Chinese
 restaurants) like tea at least as well as coffee — so it is not that big
 a problem.
 
-2. See `*time T* <time-T.html>`__ (also `*since time T equals minus
-infinity* <../S/since-time-T-equals-minus-infinity.html>`__).
+2. See `time T <time-T.html>`__ (also `since time T equals minus
+infinity <../S/since-time-T-equals-minus-infinity.html>`__).
 
 3. [techspeak] In transaction-processing circles, an abbreviation for
 the noun ‘transaction’.
 
-4. [Purdue] Alternate spelling of `*tee* <tee.html>`__.
+4. [Purdue] Alternate spelling of `tee <tee.html>`__.
 
-5. A dialect of `*LISP* <../L/LISP.html>`__ developed at Yale. (There is
+5. A dialect of `LISP <../L/LISP.html>`__ developed at Yale. (There is
 an intended allusion to NIL, “New Implementation of Lisp”, another
-dialect of Lisp developed for the `*VAX* <../V/VAX.html>`__)
+dialect of Lisp developed for the `VAX <../V/VAX.html>`__)
 
 
 thud
@@ -972,14 +972,14 @@ thud
 
 **thud**: n.
 
-1. Yet another `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__ (see
-`*foo* <../F/foo.html>`__). It is reported that at CMU from the
+1. Yet another `metasyntactic
+variable <../M/metasyntactic-variable.html>`__ (see
+`foo <../F/foo.html>`__). It is reported that at CMU from the
 mid-1970s the canonical series of these was ‘foo’, ‘bar’, ‘thud’,
 ‘blat’.
 
 2. Rare term for the hash character, ‘#’ (ASCII 0100011). See
-`*ASCII* <../A/ASCII.html>`__ for other synonyms.
+`ASCII <../A/ASCII.html>`__ for other synonyms.
 
 thumb
 =========
@@ -1030,9 +1030,9 @@ environment, for later evaluation if and when needed (similar to what in
 techspeak is called a closure). The process of unfreezing these thunks
 is called forcing.
 
-3. A `*stubroutine* <../S/stubroutine.html>`__, in an overlay
+3. A `stubroutine <../S/stubroutine.html>`__, in an overlay
 programming environment, that loads and jumps to the correct overlay.
-Compare `*trampoline* <trampoline.html>`__.
+Compare `trampoline <trampoline.html>`__.
 
 4. Microsoft and IBM have both defined, in their Intel-based systems, a
 “16-bit environment” (with bletcherous segment registers and 64K address
@@ -1047,7 +1047,7 @@ compiler”.
 5. A person or activity scheduled in a thunklike manner. “It occurred to
 me the other day that I am rather accurately modeled by a thunk — I
 frequently need to be forced to completion.:” — paraphrased from a
-`*plan file* <../P/plan-file.html>`__.
+`plan file <../P/plan-file.html>`__.
 
 Historical note: There are a couple of onomatopoeic myths circulating
 about the origin of this term. The most common is that it is the sound
@@ -1069,7 +1069,7 @@ tick
 
 **tick**: n.
 
-1. A `*jiffy* <../J/jiffy.html>`__ (sense 1).
+1. A `jiffy <../J/jiffy.html>`__ (sense 1).
 
 2. In simulations, the discrete unit of time that passes between
 iterations of the simulation mechanism. In AI applications, this amount
@@ -1077,7 +1077,7 @@ of time is often left unspecified, since the only constraint of interest
 is the ordering of events. This sort of AI simulation is often
 pejoratively referred to as tick-tick-tick simulation, especially when
 the issue of simultaneity of events with long, independent chains of
-causes is `*handwave* <../H/handwave.html>`__\ d.
+causes is `handwave <../H/handwave.html>`__\ d.
 
 3. In the FORTH language, a single quote character.
 
@@ -1116,7 +1116,7 @@ tiger team
 
 [U.S. military jargon]
 
-1. Originally, a team (of `*sneaker* <../S/sneaker.html>`__\ s) whose
+1. Originally, a team (of `sneaker <../S/sneaker.html>`__\ s) whose
 purpose is to penetrate security, and thus test security measures. These
 people are paid professionals who do hacker-type tricks, e.g., leave
 cardboard signs saying “bomb” in critical defense installations,
@@ -1126,14 +1126,14 @@ some high-ranking security type shows up the next morning for a
 ‘security review’ and finds the sign, note, etc., and all hell breaks
 loose. Serious successes of tiger teams sometimes lead to early
 retirement for base commanders and security officers (see the
-`*patch* <../P/patch.html>`__ entry for an example).
+`patch <../P/patch.html>`__ entry for an example).
 
 2. Recently, and more generally, any official inspection team or special
-`*firefighting* <../F/firefighting.html>`__ group called in to look at a
+`firefighting <../F/firefighting.html>`__ group called in to look at a
 problem.
 
 A subset of tiger teams are professional
-`*cracker* <../C/cracker.html>`__\ s, testing the security of military
+`cracker <../C/cracker.html>`__\ s, testing the security of military
 computer installations by attempting remote attacks via networks or
 supposedly ‘secure’ comm channels. Some of their escapades, if
 declassified, would probably rank among the greatest hacks of all times.
@@ -1148,7 +1148,7 @@ time bomb
 
 **time bomb**: n.
 
-A subspecies of `*logic bomb* <../L/logic-bomb.html>`__ that is
+A subspecies of `logic bomb <../L/logic-bomb.html>`__ that is
 triggered by reaching some preset time, either once or periodically.
 There are numerous legends about time bombs set up by programmers in
 their employers' machines, to go off if the programmer is fired or laid
@@ -1176,13 +1176,13 @@ timesharing
 computer's time so that they are shared across multiple tasks and
 multiple users, with each user having the illusion that his or her
 computation is going on continuously. John McCarthy, the inventor of
-`*LISP* <../L/LISP.html>`__, first `imagined this
+`LISP <../L/LISP.html>`__, first `imagined this
 technique <http://www-formal.stanford.edu/jmc/history/timesharing/timesharing.html>`__
 in the late 1950s. The first timesharing operating systems, BBN's
-"Little Hospital" and `*CTSS* <../C/CTSS.html>`__, were deplayed in
+"Little Hospital" and `CTSS <../C/CTSS.html>`__, were deplayed in
 1962-63. The early hacker culture of the 1960s and 1970s grew up around
 the first generation of relatively cheap timesharing computers, notably
-the `*DEC* <../D/DEC.html>`__ 10, 11, and `*VAX* <../V/VAX.html>`__
+the `DEC <../D/DEC.html>`__ 10, 11, and `VAX <../V/VAX.html>`__
 lines. But these were only cheap in a relative sense; though quite a bit
 less powerful than today's personal computers, they had to be shared by
 dozens or even hundreds of people each. The early hacker comunities
@@ -1213,8 +1213,8 @@ available about 1975-76. Hackers in search of more cycles and more
 control over their programming environment began to migrate off
 timesharing machines and onto what are now called workstations around
 1983. It took another ten years, the development of powerful 32-bit
-personal micros, the `*Great Internet
-Explosion* <../G/Great-Internet-Explosion.html>`__ before the migration
+personal micros, the `Great Internet
+Explosion <../G/Great-Internet-Explosion.html>`__ before the migration
 was complete. It is no coincidence that the last stages of this
 migration coincided with the development of the first open-source
 operating systems.
@@ -1254,9 +1254,9 @@ Palo Alto that was a favorite with hackers.) Had the number 30 been used
 instead of the number 1, it would have implied that the travel time from
 campus to Louie's is 30 minutes; whatever time ``T`` is (and that hasn't
 been decided on yet), you can meet half an hour later at Louie's than
-you could on campus and end up eating at the same time. See also `*since
+you could on campus and end up eating at the same time. See also `since
 time T equals minus
-infinity* <../S/since-time-T-equals-minus-infinity.html>`__.
+infinity <../S/since-time-T-equals-minus-infinity.html>`__.
 
 
 TINC
@@ -1266,8 +1266,8 @@ TINC
 
 **TINC**: //
 
-[Usenet] Abbreviation: “There Is No Cabal”. See `*backbone
-cabal* <../B/backbone-cabal.html>`__ and `*NANA* <../N/NANA.html>`__,
+[Usenet] Abbreviation: “There Is No Cabal”. See `backbone
+cabal <../B/backbone-cabal.html>`__ and `NANA <../N/NANA.html>`__,
 but note that this abbreviation did not enter use until long after the
 dispersal of the backbone cabal.
 
@@ -1293,9 +1293,9 @@ TINLC
 
 **TINLC**: //
 
-Abbreviation: “There Is No Lumber Cartel”. See `*Lumber
-Cartel* <../L/Lumber-Cartel.html>`__. TINLC is a takeoff on
-`*TINC* <TINC.html>`__.
+Abbreviation: “There Is No Lumber Cartel”. See `Lumber
+Cartel <../L/Lumber-Cartel.html>`__. TINLC is a takeoff on
+`TINC <TINC.html>`__.
 
 
 tip of the ice-cube
@@ -1317,7 +1317,7 @@ tired iron
 [IBM] Hardware that is perfectly functional but far enough behind the
 state of the art to have been superseded by new products, presumably
 with sufficient improvement in bang-per-buck that the old stuff is
-starting to look a bit like a `*dinosaur* <../D/dinosaur.html>`__.
+starting to look a bit like a `dinosaur <../D/dinosaur.html>`__.
 
 
 tits on a keyboard
@@ -1329,7 +1329,7 @@ tits on a keyboard
 
 Small bumps on certain keycaps to keep touch-typists registered. Usually
 on the ``5`` of a numeric keypad, and on the ``F`` and ``J`` of a
-`*QWERTY* <../Q/QWERTY.html>`__ keyboard; but older Macs (like pre-PC
+`QWERTY <../Q/QWERTY.html>`__ keyboard; but older Macs (like pre-PC
 electric typewriters) had them on the ``D`` and ``K`` keys (this changed
 in 1999).
 
@@ -1351,7 +1351,7 @@ four letters. One also hears of ‘ETLA’ (Extended Three-Letter Acronym,
 pronounced /ee tee el ay/) being used to describe four-letter acronyms;
 the terms ‘SFLA’ (Stupid Four-Letter Acronym), ‘LFLA’ (Longer Four
 Letter Acronym), and VLFLA (Very Long Five Letter Acronym) have also
-been reported. See also `*YABA* <../Y/YABA.html>`__.
+been reported. See also `YABA <../Y/YABA.html>`__.
 
 The self-effacing phrase “TDM TLA” (Too Damn Many...) is often used to
 bemoan the plethora of TLAs in use. In 1989, a random of the
@@ -1372,16 +1372,16 @@ TMRC
 The Tech Model Railroad Club at MIT, one of the wellsprings of hacker
 culture. The 1959 *Dictionary of the TMRC Language* compiled by Peter
 Samson included several terms that became basics of the hackish
-vocabulary (see esp. `*foo* <../F/foo.html>`__,
-`*mung* <../M/mung.html>`__, and `*frob* <../F/frob.html>`__).
+vocabulary (see esp. `foo <../F/foo.html>`__,
+`mung <../M/mung.html>`__, and `frob <../F/frob.html>`__).
 
 By 1962, TMRC's legendary layout was already a marvel of complexity and
 has grown in the years since. All the features described here were still
 present when the old layout was decommissioned in 1998 just before the
 demolition of MIT Building 20, and will almost certainly be retained
 when the old layout is rebuilt (expected in 2003). The control system
-alone featured about 1200 relays. There were `*scram
-switch* <../S/scram-switch.html>`__\ es located at numerous places
+alone featured about 1200 relays. There were `scram
+switch <../S/scram-switch.html>`__\ es located at numerous places
 around the room that could be thwacked if something undesirable was
 about to occur, such as a train going full-bore at an obstruction.
 Another feature of the system was a digital clock on the dispatch board,
@@ -1411,7 +1411,7 @@ TMRCie
 
 **TMRCie**: /tmerk´ee/, n.
 
-[MIT] A denizen of `*TMRC* <TMRC.html>`__.
+[MIT] A denizen of `TMRC <TMRC.html>`__.
 
 
 TMTOWTDI
@@ -1421,7 +1421,7 @@ TMTOWTDI
 **TMTOWTDI**: /tim·toh'·dee/, abbrev.
 
 There's More Than One Way To Do It. This abbreviation of the official
-motto of `*Perl* <../P/Perl.html>`__ is frequently used on newsgroups
+motto of `Perl <../P/Perl.html>`__ is frequently used on newsgroups
 and mailing lists related to that language.
 
 
@@ -1432,13 +1432,13 @@ toad
 
 **toad**: vt.
 
-1. Notionally, to change a `*MUD* <../M/MUD.html>`__ player into a toad.
+1. Notionally, to change a `MUD <../M/MUD.html>`__ player into a toad.
 
 2. To permanently and totally exile a player from the MUD. A very
 serious action, which can only be done by a MUD
-`*wizard* <../W/wizard.html>`__; often involves a lot of debate among
-the other characters first. See also `*frog* <../F/frog.html>`__,
-`*FOD* <../F/FOD.html>`__.
+`wizard <../W/wizard.html>`__; often involves a lot of debate among
+the other characters first. See also `frog <../F/frog.html>`__,
+`FOD <../F/FOD.html>`__.
 
 to a first approximation
 ==============================
@@ -1466,15 +1466,15 @@ toaster
 
 1. The archetypal really stupid application for an embedded
 microprocessor controller; often used in comments that imply that a
-scheme is inappropriate technology (but see `*elevator
-controller* <../E/elevator-controller.html>`__).
-“\ `*DWIM* <../D/DWIM.html>`__ for an assembler? That'd be as silly as
+scheme is inappropriate technology (but see `elevator
+controller <../E/elevator-controller.html>`__).
+“\ `DWIM <../D/DWIM.html>`__ for an assembler? That'd be as silly as
 running Unix on your toaster!”
 
 2. A very, very dumb computer. “You could run this program on any dumb
-toaster.” See `*bitty box* <../B/bitty-box.html>`__, `*Get a real
-computer!* <../G/Get-a-real-computer-.html>`__, `*toy* <toy.html>`__,
-`*beige toaster* <../B/beige-toaster.html>`__.
+toaster.” See `bitty box <../B/bitty-box.html>`__, `Get a real
+computer! <../G/Get-a-real-computer-.html>`__, `toy <toy.html>`__,
+`beige toaster <../B/beige-toaster.html>`__.
 
 3. A Macintosh, esp. a Mac in the original unitary case. Some hold that
 this is implied by sense 2.
@@ -1482,9 +1482,9 @@ this is implied by sense 2.
 4. A peripheral device. “I bought my box without toasters, but since
 then I've added two boards and a second disk drive.”
 
-5. A specialized computer used as an appliance. See `*web
-toaster* <../W/web-toaster.html>`__, `*video
-toaster* <../V/video-toaster.html>`__.
+5. A specialized computer used as an appliance. See `web
+toaster <../W/web-toaster.html>`__, `video
+toaster <../V/video-toaster.html>`__.
 
 
 toast
@@ -1498,9 +1498,9 @@ just crashed and burned: “Uh, oh ... I think the serial board is toast.”
 (This sense went mainstream around 1993.)
 
 2. vt. To cause a system to crash accidentally, especially in a manner
-that requires manual rebooting. “Rick just toasted the `*firewall
-machine* <../F/firewall-machine.html>`__ again.” Compare
-`*fried* <../F/fried.html>`__.
+that requires manual rebooting. “Rick just toasted the `firewall
+machine <../F/firewall-machine.html>`__ again.” Compare
+`fried <../F/fried.html>`__.
 
 
 to a zeroth approximation
@@ -1511,8 +1511,8 @@ to a zeroth approximation
 **to a zeroth approximation**
 
 [from to a first approximation] A **really** sloppy approximation; a
-wild guess. Compare `*social science
-number* <../S/social-science-number.html>`__.
+wild guess. Compare `social science
+number <../S/social-science-number.html>`__.
 
 
 toeprint
@@ -1521,7 +1521,7 @@ toeprint
 
 **toeprint**: n.
 
-A `*footprint* <../F/footprint.html>`__ of especially small size.
+A `footprint <../F/footprint.html>`__ of especially small size.
 
 TOFU
 ===========================
@@ -1530,7 +1530,7 @@ TOFU
 
 **TOFU**
 
-Text Over, Fullquote Under; see `*top-post* <top-post.html>`__.
+Text Over, Fullquote Under; see `top-post <top-post.html>`__.
 
 
 
@@ -1541,7 +1541,7 @@ toggle
 
 **toggle**: vt.
 
-To change a `*bit* <../B/bit.html>`__ from whatever state it is in to
+To change a `bit <../B/bit.html>`__ from whatever state it is in to
 the other state; to change from 1 to 0 or from 0 to
 
 1. This comes from ‘toggle switches’, such as standard light switches,
@@ -1585,18 +1585,18 @@ tool
 
 1. n.A program used primarily to create, manipulate, modify, or analyze
 other programs, such as a compiler or an editor or a cross-referencing
-program. Oppose `*app* <../A/app.html>`__, `*operating
-system* <../O/operating-system.html>`__; see also
-`*toolchain* <toolchain.html>`__.
+program. Oppose `app <../A/app.html>`__, `operating
+system <../O/operating-system.html>`__; see also
+`toolchain <toolchain.html>`__.
 
 2. [Unix] An application program with a simple, ‘transparent’ (typically
 text-stream) interface designed specifically to be used in programmed
-combination with other tools (see `*filter* <../F/filter.html>`__,
-`*plumbing* <../P/plumbing.html>`__).
+combination with other tools (see `filter <../F/filter.html>`__,
+`plumbing <../P/plumbing.html>`__).
 
 3. [MIT: general to students there] vi. To work; to study (connotes
 tedium). The TMRC Dictionary defined this as “to set one's brain to the
-grindstone”. See `*hack* <../H/hack.html>`__.
+grindstone”. See `hack <../H/hack.html>`__.
 
 4. n. [MIT] A student who studies too much and hacks too little. (MIT's
 student humor magazine rejoices in the name *Tool and Die*.)
@@ -1610,12 +1610,12 @@ toolsmith
 **toolsmith**: n.
 
 The software equivalent of a tool-and-die specialist; one who
-specializes in making the `*tool* <tool.html>`__\ s with which other
+specializes in making the `tool <tool.html>`__\ s with which other
 programmers create applications. Many hackers consider this more fun
 than applications per se; to understand why, see
-`*uninteresting* <../U/uninteresting.html>`__. Jon Bentley, in the
+`uninteresting <../U/uninteresting.html>`__. Jon Bentley, in the
 “Bumper-Sticker Computer Science” chapter of his book *More Programming
-Pearls*, quotes Dick Sites from `*DEC* <../D/DEC.html>`__ as saying “I'd
+Pearls*, quotes Dick Sites from `DEC <../D/DEC.html>`__ as saying “I'd
 rather write programs to write programs than write programs”.
 
 
@@ -1628,7 +1628,7 @@ toor
 
 The Bourne-Again Super-user. An alternate account with UID of 0, created
 on Unix machines where the root user has an inconvenient choice of
-shell. Compare `*avatar* <../A/avatar.html>`__.
+shell. Compare `avatar <../A/avatar.html>`__.
 
 
 topic drift
@@ -1639,15 +1639,15 @@ topic drift
 **topic drift**: n.
 
 Term used on GEnie, Usenet and other electronic fora to describe the
-tendency of a `*thread* <thread.html>`__ to drift away from the original
+tendency of a `thread <thread.html>`__ to drift away from the original
 subject of discussion (and thus, from the Subject header of the
 originating message), or the results of that tendency. The header in
 each post can be changed to keep current with the posts, but usually
 isn't due to forgetfulness or laziness. A single post may often result
 in several posts each responding to a different point in the original.
 Some subthreads will actually be in response to some off-the-cuff side
-comment, possibly degenerating into a `*flame
-war* <../F/flame-war.html>`__, or just as often evolving into a separate
+comment, possibly degenerating into a `flame
+war <../F/flame-war.html>`__, or just as often evolving into a separate
 discussion. Hence, discussions aren't really so much threads as they are
 trees. Except that they don't really have leaves, or multiple branching
 roots; usually some lines of discussion will just sort of die off after
@@ -1666,7 +1666,7 @@ topic group
 
 **topic group**: n.
 
-Syn. `*forum* <../F/forum.html>`__.
+Syn. `forum <../F/forum.html>`__.
 
 
 top-post
@@ -1690,7 +1690,7 @@ practice is neatly summed up by the following FAQ entry:
 +--------------------------------------------------------------------------+
 
 This term is generally used pejoratively with the implication that the
-offending person is a `*newbie* <../N/newbie.html>`__, a Microsoft
+offending person is a `newbie <../N/newbie.html>`__, a Microsoft
 addict (Microsoft mail tools produce a similar format by default), or
 simply a common-and-garden-variety idiot.
 
@@ -1703,7 +1703,7 @@ over, fullquote under”, or sometimes “jeopardy-style quoting”). Another
 problem is that top-posters often word their replies on the assumption
 that you just read the previous message, even though their perversity
 has put it further down the page than you have yet read. Oppose
-`*bottom-post* <../B/bottom-post.html>`__.
+`bottom-post <../B/bottom-post.html>`__.
 
 TOPS-10
 =======================================
@@ -1711,12 +1711,12 @@ TOPS-10
 
 **TOPS-10**: /tops·ten/, n.
 
-`*DEC* <../D/DEC.html>`__'s proprietary OS for the fabled
-`*PDP-10* <../P/PDP-10.html>`__ machines, long a favorite of hackers but
+`DEC <../D/DEC.html>`__'s proprietary OS for the fabled
+`PDP-10 <../P/PDP-10.html>`__ machines, long a favorite of hackers but
 now long extinct. A fountain of hacker folklore; see Appendix A. See
-also `*ITS* <../I/ITS.html>`__, `*TOPS-20* <TOPS-20.html>`__,
-`*TWENEX* <TWENEX.html>`__, `*VMS* <../V/VMS.html>`__, `*operating
-system* <../O/operating-system.html>`__. TOPS-10 was sometimes called
+also `ITS <../I/ITS.html>`__, `TOPS-20 <TOPS-20.html>`__,
+`TWENEX <TWENEX.html>`__, `VMS <../V/VMS.html>`__, `operating
+system <../O/operating-system.html>`__. TOPS-10 was sometimes called
 BOTS-10 (from ‘bottoms-ten’) as a comment on the inappropriateness of
 describing it as the top of anything.
 
@@ -1727,7 +1727,7 @@ TOPS-20
 
 **TOPS-20**: /tops·twen´tee/, n.
 
-See `*TWENEX* <TWENEX.html>`__.
+See `TWENEX <TWENEX.html>`__.
 
 
 TOS
@@ -1752,19 +1752,19 @@ tourist
 **tourist**: n.
 
 1. [ITS] A guest on the system, especially one who generally logs in
-over a network from a remote location for `*comm
-mode* <../C/comm-mode.html>`__, email, games, and other trivial
-purposes. One step below `*luser* <../L/luser.html>`__. ITS hackers
-often used to spell this `*turist* <turist.html>`__, perhaps by some
-sort of tenuous analogy with `*luser* <../L/luser.html>`__ (this usage
+over a network from a remote location for `comm
+mode <../C/comm-mode.html>`__, email, games, and other trivial
+purposes. One step below `luser <../L/luser.html>`__. ITS hackers
+often used to spell this `turist <turist.html>`__, perhaps by some
+sort of tenuous analogy with `luser <../L/luser.html>`__ (this usage
 may also have expressed the ITS culture's penchant for six-letterisms,
 and/or been some sort of tribute to Alan Turing). Compare
-`*twink* <twink.html>`__, `*lurker* <../L/lurker.html>`__, `*read-only
-user* <../R/read-only-user.html>`__.
+`twink <twink.html>`__, `lurker <../L/lurker.html>`__, `read-only
+user <../R/read-only-user.html>`__.
 
-2. [IRC] An `*IRC* <../I/IRC.html>`__ user who goes from channel to
-channel without saying anything; see `*channel
-hopping* <../C/channel-hopping.html>`__.
+2. [IRC] An `IRC <../I/IRC.html>`__ user who goes from channel to
+channel without saying anything; see `channel
+hopping <../C/channel-hopping.html>`__.
 
 touristic
 ==================
@@ -1773,7 +1773,7 @@ touristic
 
 **touristic**: adj.
 
-Having the quality of a `*tourist* <tourist.html>`__. Often used as a
+Having the quality of a `tourist <tourist.html>`__. Often used as a
 pejorative, as in ‘losing touristic scum’. Often spelled ‘turistic’ or
 ‘turistik’, so that phrase might be more properly rendered ‘lusing
 turistic scum’.
@@ -1804,13 +1804,13 @@ A computer system; always used with qualifiers.
 1. nice toy: One that supports the speaker's hacking style adequately.
 
 2. just a toy: A machine that yields insufficient
-`*computron* <../C/computron.html>`__\ s for the speaker's preferred
-uses. This is not condemnatory, as is `*bitty
-box* <../B/bitty-box.html>`__; toys can at least be fun. It is also
+`computron <../C/computron.html>`__\ s for the speaker's preferred
+uses. This is not condemnatory, as is `bitty
+box <../B/bitty-box.html>`__; toys can at least be fun. It is also
 strongly conditioned by one's expectations; Cray XMP users sometimes
 consider the Cray-1 a toy, and certainly all RISC boxes and mainframes
-are toys by their standards. See also `*Get a real
-computer!* <../G/Get-a-real-computer-.html>`__.
+are toys by their standards. See also `Get a real
+computer! <../G/Get-a-real-computer-.html>`__.
 
 
 toy language
@@ -1820,14 +1820,14 @@ toy language
 
 A language useful for instructional purposes or as a proof-of-concept
 for some aspect of computer-science theory, but inadequate for
-general-purpose programming. `*Bad Thing* <../B/Bad-Thing.html>`__\ s
+general-purpose programming. `Bad Thing <../B/Bad-Thing.html>`__\ s
 can result when a toy language is promoted as a general purpose solution
-for programming (see `*bondage-and-discipline
-language* <../B/bondage-and-discipline-language.html>`__); the classic
-example is `*Pascal* <../P/Pascal.html>`__. Several moderately
+for programming (see `bondage-and-discipline
+language <../B/bondage-and-discipline-language.html>`__); the classic
+example is `Pascal <../P/Pascal.html>`__. Several moderately
 well-known formalisms for conceptual tasks such as programming Turing
 machines also qualify as toy languages in a less negative sense. See
-also `*MFTL* <../M/MFTL.html>`__.
+also `MFTL <../M/MFTL.html>`__.
 
 
 toy problem
@@ -1838,8 +1838,8 @@ toy problem
 
 [AI] A deliberately oversimplified case of a challenging problem used to
 investigate, prototype, or test algorithms for a real problem. Sometimes
-used pejoratively. See also `*gedanken* <../G/gedanken.html>`__, `*toy
-program* <toy-program.html>`__.
+used pejoratively. See also `gedanken <../G/gedanken.html>`__, `toy
+program <toy-program.html>`__.
 
 
 toy program
@@ -1849,10 +1849,10 @@ toy program
 **toy program**: n.
 
 1. One that can be readily comprehended; hence, a trivial program
-(compare `*noddy* <../N/noddy.html>`__).
+(compare `noddy <../N/noddy.html>`__).
 
 2. One for which the effort of initial coding dominates the costs
-through its life cycle. See also `*noddy* <../N/noddy.html>`__.
+through its life cycle. See also `noddy <../N/noddy.html>`__.
 
 
 trampoline
@@ -1861,18 +1861,18 @@ trampoline
 
 **trampoline**: n.
 
-An incredibly `*hairy* <../H/hairy.html>`__ technique, found in some
-`*HLL* <../H/HLL.html>`__ and program-overlay implementations (e.g., on
+An incredibly `hairy <../H/hairy.html>`__ technique, found in some
+`HLL <../H/HLL.html>`__ and program-overlay implementations (e.g., on
 the Macintosh), that involves on-the-fly generation of small executable
 (and, likely as not, self-modifying) code objects to do indirection
 between code sections. Under BSD and possibly in other Unixes,
 trampoline code is used to transfer control from the kernel back to user
 mode when a signal (which has had a handler installed) is sent to a
-process. These pieces of `*live data* <../L/live-data.html>`__ are
+process. These pieces of `live data <../L/live-data.html>`__ are
 called trampolines. Trampolines are notoriously difficult to understand
 in action; in fact, it is said by those who use this term that the
 trampoline that doesn't bend your brain is not the true trampoline. See
-also `*snap* <../S/snap.html>`__.
+also `snap <../S/snap.html>`__.
 
 
 trap door
@@ -1884,12 +1884,12 @@ trap door
 
 (alt.: trapdoor)
 
-1. Syn. `*back door* <../B/back-door.html>`__ — a `*Bad
-Thing* <../B/Bad-Thing.html>`__.
+1. Syn. `back door <../B/back-door.html>`__ — a `Bad
+Thing <../B/Bad-Thing.html>`__.
 
 2. [techspeak] A trap-door function is one which is easy to compute but
-very difficult to compute the inverse of. Such functions are `*Good
-Thing* <../G/Good-Thing.html>`__\ s with important applications in
+very difficult to compute the inverse of. Such functions are `Good
+Thing <../G/Good-Thing.html>`__\ s with important applications in
 cryptography, specifically in the construction of public-key
 cryptosystems.
 
@@ -1909,11 +1909,11 @@ used transitively to indicate the cause of the trap. “The monitor traps
 all input/output instructions.”
 
 This term is associated with assembler programming (interrupt or
-exception is more common among `*HLL* <../H/HLL.html>`__ programmers)
+exception is more common among `HLL <../H/HLL.html>`__ programmers)
 and appears to be fading into history among programmers as the role of
 assembler continues to shrink. However, it is still important to
 computer architects and systems hackers (see
-`*system* <../S/system.html>`__, sense 1), who use it to distinguish
+`system <../S/system.html>`__, sense 1), who use it to distinguish
 deterministically repeatable exceptions from timing-dependent ones (such
 as I/O interrupts).
 
@@ -1925,9 +1925,9 @@ trash
 **trash**: vt.
 
 To destroy the contents of (said of a data structure). The most common
-of the family of near-synonyms including `*mung* <../M/mung.html>`__,
-`*mangle* <../M/mangle.html>`__, `*scribble* <../S/scribble.html>`__,
-and `*roach* <../R/roach.html>`__.
+of the family of near-synonyms including `mung <../M/mung.html>`__,
+`mangle <../M/mangle.html>`__, `scribble <../S/scribble.html>`__,
+and `roach <../R/roach.html>`__.
 
 trawl
 ================================
@@ -1953,15 +1953,15 @@ tree-killer
 
 2. A person who wastes paper. This epithet should be interpreted in a
 broad sense; ‘wasting paper’ includes the production of
-`*spiffy* <../S/spiffy.html>`__ but
-`*content-free* <../C/content-free.html>`__ documents. Thus, most
-`*suit* <../S/suit.html>`__\ s are tree-killers.
+`spiffy <../S/spiffy.html>`__ but
+`content-free <../C/content-free.html>`__ documents. Thus, most
+`suit <../S/suit.html>`__\ s are tree-killers.
 
 It is likely that both senses derive their flavor from the epithet
 ‘tree-killer’ applied by Treebeard the Ent to the Orcs in J.R.R.
-Tolkien's *Lord of the Rings*. See also `*elvish* <../E/elvish.html>`__,
-`*elder days* <../E/elder-days.html>`__, and especially `*dead-tree
-version* <../D/dead-tree-version.html>`__.
+Tolkien's *Lord of the Rings*. See also `elvish <../E/elvish.html>`__,
+`elder days <../E/elder-days.html>`__, and especially `dead-tree
+version <../D/dead-tree-version.html>`__.
 
 
 treeware
@@ -1973,8 +1973,8 @@ treeware
 **treeware**: /tree´weir/, n.
 
 Printouts, books, and other information media made from pulped dead
-trees. Compare `*tree-killer* <tree-killer.html>`__, see
-`*documentation* <../D/documentation.html>`__.
+trees. Compare `tree-killer <tree-killer.html>`__, see
+`documentation <../D/documentation.html>`__.
 
 
 trit
@@ -1986,8 +1986,8 @@ trit
 
 [by analogy with bit] One base-3 digit; the amount of information
 conveyed by a selection among one of three equally likely outcomes (see
-also `*bit* <../B/bit.html>`__). Trits arise, for example, in the
-context of a `*flag* <../F/flag.html>`__ that should actually be able to
+also `bit <../B/bit.html>`__). Trits arise, for example, in the
+context of a `flag <../F/flag.html>`__ that should actually be able to
 assume *three* values — such as yes, no, or unknown. Trits are sometimes
 jokingly called 3-state bits. A trit may be semi-seriously referred to
 as a bit and a half, although it is linearly equivalent to 1.5849625
@@ -2006,14 +2006,14 @@ trivial
 2. Not worth the speaker's time.
 
 3. Complex, but solvable by methods so well known that anyone not
-utterly `*cretinous* <../C/cretinous.html>`__ would have thought of them
+utterly `cretinous <../C/cretinous.html>`__ would have thought of them
 already.
 
 4. Any problem one has already solved (some claim that hackish trivial
 usually evaluates to “I've seen it before”). Hackers' notions of
 triviality may be quite at variance with those of non-hackers. See
-`*nontrivial* <../N/nontrivial.html>`__,
-`*uninteresting* <../U/uninteresting.html>`__.
+`nontrivial <../N/nontrivial.html>`__,
+`uninteresting <../U/uninteresting.html>`__.
 
 The physicist Richard Feynman, who had the hacker nature to an amazing
 degree (see his essay “Los Alamos From Below” in *Surely You're Joking,
@@ -2030,10 +2030,10 @@ troff
 
 [Unix] The gray eminence of Unix text processing; a formatting and
 phototypesetting program, written originally in
-`*PDP-11* <../P/PDP-11.html>`__ assembler and then in barely-structured
+`PDP-11 <../P/PDP-11.html>`__ assembler and then in barely-structured
 early C by the late Joseph Ossanna, modeled after the earlier ROFF which
-was in turn modeled after the `*Multics* <../M/Multics.html>`__ and
-`*CTSS* <../C/CTSS.html>`__ program RUNOFF by Jerome Saltzer (*that*
+was in turn modeled after the `Multics <../M/Multics.html>`__ and
+`CTSS <../C/CTSS.html>`__ program RUNOFF by Jerome Saltzer (*that*
 name came from the expression “to run off a copy”). A companion program,
 nroff, formats output for terminals and line printers.
 
@@ -2052,7 +2052,7 @@ internals, Kernighan concludes:
     forced into uses that were never conceived of in the original
     design, all with considerable grace under fire.
 
-The success of `*TeX* <TeX.html>`__ and desktop publishing systems have
+The success of `TeX <TeX.html>`__ and desktop publishing systems have
 reduced **troff**'s relative importance, but this tribute perfectly
 captures the strengths that secured **troff** a place in hacker
 folklore; indeed, it could be taken more generally as an indication of
@@ -2087,11 +2087,11 @@ troglodyte mode
 
 [Rice University] Programming with the lights turned off, sunglasses on,
 and the terminal inverted (black on white) because you've been up for so
-many days straight that your eyes hurt (see `*raster
-burn* <../R/raster-burn.html>`__). Loud music blaring from a stereo
-stacked in the corner is optional but recommended. See `*larval
-stage* <../L/larval-stage.html>`__, `*hack
-mode* <../H/hack-mode.html>`__.
+many days straight that your eyes hurt (see `raster
+burn <../R/raster-burn.html>`__). Loud music blaring from a stereo
+stacked in the corner is optional but recommended. See `larval
+stage <../L/larval-stage.html>`__, `hack
+mode <../H/hack-mode.html>`__.
 
 
 Trojan horse
@@ -2104,10 +2104,10 @@ Trojan horse
 [coined by MIT-hacker-turned-NSA-spook Dan Edwards] A malicious
 security-breaking program that is disguised as something benign, such as
 a directory lister, archiver, game, or (in one notorious 1990 case on
-the Mac) a program to find and destroy viruses! See `*back
-door* <../B/back-door.html>`__, `*virus* <../V/virus.html>`__,
-`*worm* <../W/worm.html>`__, `*phage* <../P/phage.html>`__,
-`*mockingbird* <../M/mockingbird.html>`__.
+the Mac) a program to find and destroy viruses! See `back
+door <../B/back-door.html>`__, `virus <../V/virus.html>`__,
+`worm <../W/worm.html>`__, `phage <../P/phage.html>`__,
+`mockingbird <../M/mockingbird.html>`__.
 
 
 troll
@@ -2118,17 +2118,17 @@ troll
 **troll**
 
 1. v.,n. [From the Usenet group ``alt.folklore.urban``] To utter a
-posting on `*Usenet* <../U/Usenet.html>`__ designed to attract
-predictable responses or `*flame* <../F/flame.html>`__\ s; or, the post
+posting on `Usenet <../U/Usenet.html>`__ designed to attract
+predictable responses or `flame <../F/flame.html>`__\ s; or, the post
 itself. Derives from the phrase “trolling for
-`*newbie* <../N/newbie.html>`__\ s” which in turn comes from mainstream
+`newbie <../N/newbie.html>`__\ s” which in turn comes from mainstream
 “trolling”, a style of fishing in which one trails bait through a likely
 spot hoping for a bite. The well-constructed troll is a post that
 induces lots of newbies and flamers to make themselves look even more
 clueless than they already do, while subtly conveying to the more savvy
 and experienced that it is in fact a deliberate troll. If you don't fall
 for the joke, you get to be in on it. See also
-`*YHBT* <../Y/YHBT.html>`__.
+`YHBT <../Y/YHBT.html>`__.
 
 2. n. An individual who chronically trolls in sense 1; regularly posts
 specious arguments, flames or personal attacks to a newsgroup,
@@ -2138,7 +2138,7 @@ have no real interest in learning about the topic at hand - they simply
 want to utter flame bait. Like the ugly creatures they are named after,
 they exhibit no redeeming characteristics, and as such, they are
 recognized as a lower form of life on the net, as in, “Oh, ignore him,
-he's just a troll.” Compare `*kook* <../K/kook.html>`__.
+he's just a troll.” Compare `kook <../K/kook.html>`__.
 
 3. n. [Berkeley] Computer lab monitor. A popular campus job for CS
 students. Duties include helping newbies and ensuring that lab policies
@@ -2146,9 +2146,9 @@ are followed. Probably so-called because it involves lurking in dark
 cavelike corners.
 
 Some people claim that the troll (sense 1) is properly a narrower
-category than `*flame bait* <../F/flame-bait.html>`__, that a troll is
+category than `flame bait <../F/flame-bait.html>`__, that a troll is
 categorized by containing some assertion that is wrong but not overtly
-controversial. See also `*Troll-O-Meter* <Troll-O-Meter.html>`__.
+controversial. See also `Troll-O-Meter <Troll-O-Meter.html>`__.
 
 The use of ‘troll’ in any of these senses is a live metaphor that
 readily produces elaborations and combining forms. For example, one not
@@ -2164,15 +2164,15 @@ Troll-O-Meter
 **Troll-O-Meter**: n.
 
 Common Usenet jargon for a notional instrument used to measure the
-provocation level of a Usenet `*troll* <troll.html>`__. “Come on,
+provocation level of a Usenet `troll <troll.html>`__. “Come on,
 everyone! If the above doesn't set off the Troll-O-Meter, we're going to
 have to get him to run around with a big blinking sign saying ‘I am a
 troll, I’m only in it for the controversy and flames', and shooting
 random gobs of Jell-O(tm) at us before the point is proven.” Mentions of
 the Troll-O-Meter are often accompanied by an ASCII picture of an arrow
 pointing at a numeric scale. Compare
-`*bogometer* <../B/bogometer.html>`__,
-`*Indent-o-Meter* <../I/Indent-o-Meter.html>`__.
+`bogometer <../B/bogometer.html>`__,
+`Indent-o-Meter <../I/Indent-o-Meter.html>`__.
 
 
 tron
@@ -2187,7 +2187,7 @@ email or talk(1), especially when one is normally available via
 telephone or in person. Frequently used in the past tense, as in: “Ran
 seems to have tronned on us this week” or “Gee, Ran, glad you were able
 to un-tron yourself”. One may also speak of tron mode; compare
-`*spod* <../S/spod.html>`__.
+`spod <../S/spod.html>`__.
 
 Note that many dialects of BASIC have a TRON/TROFF command pair that
 enables/disables line number tracing; this has no obvious relationship
@@ -2201,7 +2201,7 @@ troughie
 
 **troughie**: /traw´fee/, n.
 
-[British BBS scene] Synonym for `*leech* <../L/leech.html>`__, sense 1.
+[British BBS scene] Synonym for `leech <../L/leech.html>`__, sense 1.
 The implied metaphor is that of a pig at a trough.
 
 true-hacker
@@ -2215,8 +2215,8 @@ true-hacker
 values of hacker culture, esp. competence and helpfulness to other
 hackers. A high compliment. “He spent 6 hours helping me bring up UUCP
 and netnews on my FOOBAR 4000 last week — manifestly the act of a
-true-hacker.” Compare `*demigod* <../D/demigod.html>`__, oppose
-`*munchkin* <../M/munchkin.html>`__.
+true-hacker.” Compare `demigod <../D/demigod.html>`__, oppose
+`munchkin <../M/munchkin.html>`__.
 
 
 tty
@@ -2232,7 +2232,7 @@ undertones.
 1. A terminal of the teletype variety, characterized by a noisy
 mechanical printer, a very limited character set, and poor print
 quality. Usage: antiquated (like the TTYs themselves). See also
-`*bit-paired keyboard* <../B/bit-paired-keyboard.html>`__.
+`bit-paired keyboard <../B/bit-paired-keyboard.html>`__.
 
 2. [especially Unix] Any terminal at all; sometimes used to refer to the
 particular terminal controlling a given job.
@@ -2279,8 +2279,8 @@ tumbler
 
 **tumbler**: n.
 
-1. [Originally from the Xanadu hypertext project] A tumbler is a `*magic
-cookie* <../M/magic-cookie.html>`__ generated as part of a record or
+1. [Originally from the Xanadu hypertext project] A tumbler is a `magic
+cookie <../M/magic-cookie.html>`__ generated as part of a record or
 message to give it a unique identity. Usually a tumbler includes an
 encoded form of its creation date, but if a software system has more
 than one concurrent process that could generate tumblers it must also
@@ -2305,7 +2305,7 @@ tunafish
 
 In hackish lore, refers to the mutated punchline of an age-old joke to
 be found at the bottom of the manual pages of tunefs(8) in the original
-`*BSD* <../B/BSD.html>`__ 4.2 distribution. The joke was removed in
+`BSD <../B/BSD.html>`__ 4.2 distribution. The joke was removed in
 later releases once commercial sites started using 4.2, but apparently
 restored on the 4.4BSD tape and in {Net,Free,Open}BSD. Tunefs relates to
 the tuning of file-system parameters for optimum performance, and at the
@@ -2313,7 +2313,7 @@ bottom of a few pages of wizardly inscriptions was a ‘BUGS’ section
 consisting of the line “You can tune a file system, but you can't
 tunafish”. Variants of this can be seen in other BSD versions, though it
 has been excised from some versions by humorless management
-`*droid* <../D/droid.html>`__\ s. The [nt]roff source for SunOS 4.1.1
+`droid <../D/droid.html>`__\ s. The [nt]roff source for SunOS 4.1.1
 contains a comment apparently designed to prevent this: “Take this out
 and a Unix Demon will dog your steps from now until the **time\_t**'s
 wrap around.”
@@ -2331,11 +2331,11 @@ tune
 
 [from automotive or musical usage] To optimize a program or system for a
 particular environment, esp. by adjusting numerical parameters designed
-as `*hook* <../H/hook.html>`__\ s for tuning, e.g., by changing
+as `hook <../H/hook.html>`__\ s for tuning, e.g., by changing
 **#define** lines in C. One may tune for time (fastest execution), tune
 for space (least memory use), or tune for configuration (most efficient
-use of hardware). See `*hot spot* <../H/hot-spot.html>`__,
-`*hand-hacking* <../H/hand-hacking.html>`__.
+use of hardware). See `hot spot <../H/hot-spot.html>`__,
+`hand-hacking <../H/hand-hacking.html>`__.
 
 
 turbo nerd
@@ -2345,7 +2345,7 @@ turbo nerd
 
 **turbo nerd**: n.
 
-See `*geek* <../G/geek.html>`__.
+See `geek <../G/geek.html>`__.
 
 
 Turing tar-pit
@@ -2366,10 +2366,10 @@ classroom exercise), because it would be horribly slow and far too
 painful to use. A Turing tar-pit is any computer language or other tool
 that shares this property. That is, it's theoretically universal — but
 in practice, the harder you struggle to get any real work done, the
-deeper its inadequacies suck you in. Compare `*bondage-and-discipline
-language* <../B/bondage-and-discipline-language.html>`__.
+deeper its inadequacies suck you in. Compare `bondage-and-discipline
+language <../B/bondage-and-discipline-language.html>`__.
 
-2. The perennial `*holy wars* <../H/holy-wars.html>`__ over whether
+2. The perennial `holy wars <../H/holy-wars.html>`__ over whether
 language A or B is the “most powerful”.
 
 
@@ -2380,8 +2380,8 @@ turist
 
 **turist**: /too´rist/, n.
 
-Var. sp. of `*tourist* <tourist.html>`__, q.v. Also in adjectival form,
-‘turistic’. Poss. influenced by `*luser* <../L/luser.html>`__ and
+Var. sp. of `tourist <tourist.html>`__, q.v. Also in adjectival form,
+‘turistic’. Poss. influenced by `luser <../L/luser.html>`__ and
 ‘Turing’.
 
 Tux
@@ -2391,7 +2391,7 @@ Tux
 
 **Tux**
 
-Tux the Penguin is the official emblem of `*Linux* <../L/Linux.html>`__,
+Tux the Penguin is the official emblem of `Linux <../L/Linux.html>`__,
 This eventuated after a logo contest in 1996, during which Linus
 Torvalds endorsed the idea of a penguin logo in a couple of famously
 funny `postings <http://www.sjbaker.org/tux/>`__. Linus explained that
@@ -2422,13 +2422,13 @@ tweak
 **tweak**: vt.
 
 1. To change slightly, usually in reference to a value. Also used
-synonymously with `*twiddle* <twiddle.html>`__. If a program is almost
+synonymously with `twiddle <twiddle.html>`__. If a program is almost
 correct, rather than figure out the precise problem you might just keep
-tweaking it until it works. See `*frobnicate* <../F/frobnicate.html>`__
-and `*fudge factor* <../F/fudge-factor.html>`__; also see `*shotgun
-debugging* <../S/shotgun-debugging.html>`__.
+tweaking it until it works. See `frobnicate <../F/frobnicate.html>`__
+and `fudge factor <../F/fudge-factor.html>`__; also see `shotgun
+debugging <../S/shotgun-debugging.html>`__.
 
-2. To `*tune* <tune.html>`__ a program; preferred usage in the U.K.
+2. To `tune <tune.html>`__ a program; preferred usage in the U.K.
 
 TWENEX
 ======================
@@ -2436,10 +2436,10 @@ TWENEX
 
 **TWENEX**: /twe´neks/, n.
 
-The TOPS-20 operating system by `*DEC* <../D/DEC.html>`__ — the second
+The TOPS-20 operating system by `DEC <../D/DEC.html>`__ — the second
 proprietary OS for the PDP-10 — preferred by most PDP-10 hackers over
-TOPS-10 (that is, by those who were not `*ITS* <../I/ITS.html>`__ or
-`*WAITS* <../W/WAITS.html>`__ partisans). TOPS-20 began in 1969 as Bolt,
+TOPS-10 (that is, by those who were not `ITS <../I/ITS.html>`__ or
+`WAITS <../W/WAITS.html>`__ partisans). TOPS-20 began in 1969 as Bolt,
 Beranek & Newman's TENEX operating system using special paging hardware.
 By the early 1970s, almost all of the systems on the ARPANET ran TENEX.
 DEC purchased the rights to TENEX from BBN and began work to make it
@@ -2461,10 +2461,10 @@ nevertheless (the written abbreviation ‘20x’ was also used). TWENEX was
 successful and very popular; in fact, there was a period in the early
 1980s when it commanded as fervent a culture of partisans as Unix or ITS
 — but DEC's decision to scrap all the internal rivals to the
-`*VAX* <../V/VAX.html>`__ architecture and its relatively stodgy VMS OS
+`VAX <../V/VAX.html>`__ architecture and its relatively stodgy VMS OS
 killed the DEC-20 and put a sad end to TWENEX's brief day in the sun.
 DEC attempted to convince TOPS-20 users to convert to
-`*VMS* <../V/VMS.html>`__, but instead, by the late 1980s, most of the
+`VMS <../V/VMS.html>`__, but instead, by the late 1980s, most of the
 TOPS-20 hackers had migrated to Unix. There is a `TOPS-20 home
 page <http://panda.com/tops-20/>`__.
 
@@ -2479,17 +2479,17 @@ twiddle
 pronounced /skig´l/), and twaddle, but twiddle is the most common term.
 
 2. A small and insignificant change to a program. Usually fixes one bug
-and generates several new ones (see also `*shotgun
-debugging* <../S/shotgun-debugging.html>`__).
+and generates several new ones (see also `shotgun
+debugging <../S/shotgun-debugging.html>`__).
 
 3. vt. To change something in a small way. Bits, for example, are often
-twiddled. Twiddling a switch or `*knobs* <../K/knobs.html>`__ implies
+twiddled. Twiddling a switch or `knobs <../K/knobs.html>`__ implies
 much less sense of purpose than toggling or tweaking it; see
-`*frobnicate* <../F/frobnicate.html>`__. To speak of twiddling a bit
+`frobnicate <../F/frobnicate.html>`__. To speak of twiddling a bit
 connotes aimlessness, and at best doesn't specify what you're doing to
-the bit; ‘toggling a bit’ has a more specific meaning (see `*bit
-twiddling* <../B/bit-twiddling.html>`__, `*toggle* <toggle.html>`__). 4.
-Uncommon name for the `*twirling baton* <twirling-baton.html>`__ prompt.
+the bit; ‘toggling a bit’ has a more specific meaning (see `bit
+twiddling <../B/bit-twiddling.html>`__, `toggle <toggle.html>`__). 4.
+Uncommon name for the `twirling baton <twirling-baton.html>`__ prompt.
 
 
 twilight zone
@@ -2499,8 +2499,8 @@ twilight zone
 
 **twilight zone**: n., //
 
-[IRC] Notionally, the area of cyberspace where `*IRC* <../I/IRC.html>`__
-operators live. An `*op* <../O/op.html>`__ is said to have a “connection
+[IRC] Notionally, the area of cyberspace where `IRC <../I/IRC.html>`__
+operators live. An `op <../O/op.html>`__ is said to have a “connection
 to the twilight zone”.
 
 twink
@@ -2513,7 +2513,7 @@ twink
 1. [Berkeley] A clue-repellant user; the next step beyond a clueless
 one.
 
-2. [UCSC] A `*read-only user* <../R/read-only-user.html>`__. Also
+2. [UCSC] A `read-only user <../R/read-only-user.html>`__. Also
 reported on the Usenet group ``soc.motss``; may derive from gay slang
 for a cute young thing with nothing upstairs (compare mainstream
 ‘chick’).
@@ -2571,8 +2571,8 @@ two-to-the-N
 
 **two-to-the-N**: quant.
 
-An amount much larger than `*N* <../N/N.html>`__ but smaller than
-`*infinity* <../I/infinity.html>`__. “I have 2-to-the-``N`` things to do
+An amount much larger than `N <../N/N.html>`__ but smaller than
+`infinity <../I/infinity.html>`__. “I have 2-to-the-``N`` things to do
 before I can go out for lunch” means you probably won't show up.
 
 
@@ -2582,5 +2582,5 @@ tyop
 **tyop**: n.
 
 [USENET] A deliberate typo for ‘typo’. Used in satirical reference.
-“There's a tyop in your posting”. Compare `*grilf* <../G/grilf.html>`__,
-`*hing* <../H/hing.html>`__.
+“There's a tyop in your posting”. Compare `grilf <../G/grilf.html>`__,
+`hing <../H/hing.html>`__.
