@@ -1455,23 +1455,9 @@ associated with IT projects, devoid of programming skills and dismissed
 as being concerned with visual presentation to the exclusion of actual
 technical reality.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <POM.html>`__    | `Up <../P.html>`__         |  `Next <pop.html>`__   |
-+------------------------+----------------------------+------------------------+
-| POM                    | `Home <../index.html>`__   |  pop                   |
-+------------------------+----------------------------+------------------------+
-
 pop
+==========
 
-`Prev <ponytail.html>`__ 
-
-P
-
- `Next <poser.html>`__
-
---------------
 
 **pop**: /pop/
 
@@ -1493,23 +1479,8 @@ accompanied by an upthrust arm with a finger pointing to the ceiling.
 allowing customers to make (local) calls into an ISP. This is borderline
 techspeak.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <ponytail.html>`__    | `Up <../P.html>`__         |  `Next <poser.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| ponytail                    | `Home <../index.html>`__   |  poser                   |
-+-----------------------------+----------------------------+--------------------------+
-
 poser
-
-`Prev <pop.html>`__ 
-
-P
-
- `Next <post.html>`__
-
---------------
+=======
 
 **poser**: n.
 
@@ -1520,23 +1491,8 @@ d00dz* <../W/warez-d00dz.html>`__. Not as negative as
 derives from a similar usage among punk-rockers and metalheads, putting
 down those who “talk the talk but don't walk the walk”.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <pop.html>`__    | `Up <../P.html>`__         |  `Next <post.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| pop                    | `Home <../index.html>`__   |  post                   |
-+------------------------+----------------------------+-------------------------+
-
 postcardware
-
-`Prev <post.html>`__ 
-
-P
-
- `Next <Postels-Prescription.html>`__
-
---------------
+=============
 
 **postcardware**: n.
 
@@ -1548,23 +1504,9 @@ are otherwise getting something for nothing, and may also be
 psychologically related to real estate ‘sales’ in which $1 changes hands
 just to keep the transaction from being a gift.)
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------------+
-| `Prev <post.html>`__    | `Up <../P.html>`__         |  `Next <Postels-Prescription.html>`__   |
-+-------------------------+----------------------------+-----------------------------------------+
-| post                    | `Home <../index.html>`__   |  Postel's Prescription                  |
-+-------------------------+----------------------------+-----------------------------------------+
 
 Postel's Prescription
-
-`Prev <postcardware.html>`__ 
-
-P
-
- `Next <posting.html>`__
-
---------------
+======================
 
 **Postel's Prescription**
 
@@ -1603,23 +1545,8 @@ the [proposed] term “Postel' Prescription” is a tribute to its inventor,
 the first RFC editor and (until his untimely death) probably the single
 most respected individual in the Internet engineering community.
 
---------------
-
-+---------------------------------+----------------------------+----------------------------+
-| `Prev <postcardware.html>`__    | `Up <../P.html>`__         |  `Next <posting.html>`__   |
-+---------------------------------+----------------------------+----------------------------+
-| postcardware                    | `Home <../index.html>`__   |  posting                   |
-+---------------------------------+----------------------------+----------------------------+
-
 post
-
-`Prev <poser.html>`__ 
-
-P
-
- `Next <postcardware.html>`__
-
---------------
+========
 
 **post**: v.
 
@@ -1628,23 +1555,9 @@ To send a message to a `*mailing list* <../M/mailing-list.html>`__ or
 mail; one might ask, for example: “Are you going to post the patch or
 mail it to known users?”
 
---------------
-
-+--------------------------+----------------------------+---------------------------------+
-| `Prev <poser.html>`__    | `Up <../P.html>`__         |  `Next <postcardware.html>`__   |
-+--------------------------+----------------------------+---------------------------------+
-| poser                    | `Home <../index.html>`__   |  postcardware                   |
-+--------------------------+----------------------------+---------------------------------+
 
 posting
-
-`Prev <Postels-Prescription.html>`__ 
-
-P
-
- `Next <postmaster.html>`__
-
---------------
+========
 
 **posting**: n.
 
@@ -1656,23 +1569,8 @@ sent to a small mailing list are postings or email; perhaps the best
 dividing line is that if you don't know the names of all the potential
 recipients, it is a posting.
 
---------------
-
-+-----------------------------------------+----------------------------+-------------------------------+
-| `Prev <Postels-Prescription.html>`__    | `Up <../P.html>`__         |  `Next <postmaster.html>`__   |
-+-----------------------------------------+----------------------------+-------------------------------+
-| Postel's Prescription                   | `Home <../index.html>`__   |  postmaster                   |
-+-----------------------------------------+----------------------------+-------------------------------+
-
 postmaster
-
-`Prev <posting.html>`__ 
-
-P
-
- `Next <PostScript.html>`__
-
---------------
+===========
 
 **postmaster**: n.
 
@@ -1682,23 +1580,8 @@ network. Often, but not always, the same as the
 (`*RFC* <../R/RFC.html>`__-822) requires each machine to have a
 ‘postmaster’ address; usually it is aliased to this person.
 
---------------
-
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <posting.html>`__    | `Up <../P.html>`__         |  `Next <PostScript.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| posting                    | `Home <../index.html>`__   |  PostScript                   |
-+----------------------------+----------------------------+-------------------------------+
-
 PostScript
-
-`Prev <postmaster.html>`__ 
-
-P
-
- `Next <pound-on.html>`__
-
---------------
+=============
 
 **PostScript**: n.
 
@@ -1720,45 +1603,17 @@ time, and the combination of technical merits and widespread
 availability has made PostScript the language of choice for graphical
 output.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <postmaster.html>`__    | `Up <../P.html>`__         |  `Next <pound-on.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| postmaster                    | `Home <../index.html>`__   |  pound on                   |
-+-------------------------------+----------------------------+-----------------------------+
 
 pound on
+=========
 
-`Prev <PostScript.html>`__ 
-
-P
-
- `Next <power-cycle.html>`__
-
---------------
 
 **pound on**: vt.
 
 Syn. `*bang on* <../B/bang-on.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------------+
-| `Prev <PostScript.html>`__    | `Up <../P.html>`__         |  `Next <power-cycle.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
-| PostScript                    | `Home <../index.html>`__   |  power cycle                   |
-+-------------------------------+----------------------------+--------------------------------+
-
 power cycle
-
-`Prev <pound-on.html>`__ 
-
-P
-
- `Next <power-hit.html>`__
-
---------------
+=============
 
 **power cycle**: vt.
 
@@ -1772,23 +1627,9 @@ See also `*Big Red Switch* <../B/Big-Red-Switch.html>`__. Compare
 Koans <../koans.html>`__ (in Appendix A) about Tom Knight and the
 novice.
 
---------------
-
-+-----------------------------+----------------------------+------------------------------+
-| `Prev <pound-on.html>`__    | `Up <../P.html>`__         |  `Next <power-hit.html>`__   |
-+-----------------------------+----------------------------+------------------------------+
-| pound on                    | `Home <../index.html>`__   |  power hit                   |
-+-----------------------------+----------------------------+------------------------------+
 
 power hit
-
-`Prev <power-cycle.html>`__ 
-
-P
-
- `Next <pr0n.html>`__
-
---------------
+===========
 
 **power hit**: n.
 
@@ -1796,23 +1637,8 @@ A spike or drop-out in the electricity supplying your machine; a power
 `*glitch* <../G/glitch.html>`__. These can cause crashes and even
 permanent damage to your machine(s).
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <power-cycle.html>`__    | `Up <../P.html>`__         |  `Next <pr0n.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| power cycle                    | `Home <../index.html>`__   |  pr0n                   |
-+--------------------------------+----------------------------+-------------------------+
-
 pr0n
-
-`Prev <power-hit.html>`__ 
-
-P
-
- `Next <precedence-lossage.html>`__
-
---------------
+=======
 
 **pr0n**: //
 
@@ -1826,23 +1652,8 @@ Mozilla web browser internally refer to the image library as “libpr0n”.
 Compare `*filk* <../F/filk.html>`__, `*grilf* <../G/grilf.html>`__,
 `*hing* <../H/hing.html>`__ and `*newsfroup* <../N/newsfroup.html>`__.
 
---------------
-
-+------------------------------+----------------------------+---------------------------------------+
-| `Prev <power-hit.html>`__    | `Up <../P.html>`__         |  `Next <precedence-lossage.html>`__   |
-+------------------------------+----------------------------+---------------------------------------+
-| power hit                    | `Home <../index.html>`__   |  precedence lossage                   |
-+------------------------------+----------------------------+---------------------------------------+
-
 precedence lossage
-
-`Prev <pr0n.html>`__ 
-
-P
-
- `Next <pred.html>`__
-
---------------
+===================
 
 **precedence lossage**: /pre´s@·dens los'@j/, n.
 
@@ -1863,23 +1674,8 @@ stack* <../S/smash-the-stack.html>`__, `*fandango on
 core* <../F/fandango-on-core.html>`__, `*overrun
 screw* <../O/overrun-screw.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <pr0n.html>`__    | `Up <../P.html>`__         |  `Next <pred.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| pr0n                    | `Home <../index.html>`__   |  pred                   |
-+-------------------------+----------------------------+-------------------------+
-
 pred
-
-`Prev <precedence-lossage.html>`__ 
-
-P
-
- `Next <prepend.html>`__
-
---------------
+=======
 
 **pred**: //
 
@@ -1894,23 +1690,10 @@ Welch, if only to stop other people from mentioning her. This is
 allegedly due to a Monty Python sketch where a character declares that
 he would tax Raquel Welch, and he has a feeling she would tax him.
 
---------------
-
-+---------------------------------------+----------------------------+----------------------------+
-| `Prev <precedence-lossage.html>`__    | `Up <../P.html>`__         |  `Next <prepend.html>`__   |
-+---------------------------------------+----------------------------+----------------------------+
-| precedence lossage                    | `Home <../index.html>`__   |  prepend                   |
-+---------------------------------------+----------------------------+----------------------------+
-
 prepend
+=============
 
-`Prev <pred.html>`__ 
 
-P
-
- `Next <prestidigitization.html>`__
-
---------------
 
 **prepend**: /pree\`pend´/, vt.
 
@@ -1920,23 +1703,9 @@ added and not the original word (or character string, or whatever). “If
 you prepend a semicolon to the line, the translation routine will pass
 it through unaltered.”
 
---------------
-
-+-------------------------+----------------------------+---------------------------------------+
-| `Prev <pred.html>`__    | `Up <../P.html>`__         |  `Next <prestidigitization.html>`__   |
-+-------------------------+----------------------------+---------------------------------------+
-| pred                    | `Home <../index.html>`__   |  prestidigitization                   |
-+-------------------------+----------------------------+---------------------------------------+
 
 prestidigitization
-
-`Prev <prepend.html>`__ 
-
-P
-
- `Next <pretty-pictures.html>`__
-
---------------
+===================
 
 **prestidigitization**: /pres\`t@·di\`j@·ti:·zay´sh@n/, n.
 
@@ -1945,23 +1714,8 @@ hand.
 
 2. Data entry through legerdemain.
 
---------------
-
-+----------------------------+----------------------------+------------------------------------+
-| `Prev <prepend.html>`__    | `Up <../P.html>`__         |  `Next <pretty-pictures.html>`__   |
-+----------------------------+----------------------------+------------------------------------+
-| prepend                    | `Home <../index.html>`__   |  pretty pictures                   |
-+----------------------------+----------------------------+------------------------------------+
-
 pretty pictures
-
-`Prev <prestidigitization.html>`__ 
-
-P
-
- `Next <prettyprint.html>`__
-
---------------
+====================
 
 **pretty pictures**: n.
 
@@ -1971,23 +1725,8 @@ program that may not have any sensible relationship to the system the
 program is intended to model. Good for showing to
 `*management* <../M/management.html>`__.
 
---------------
-
-+---------------------------------------+----------------------------+--------------------------------+
-| `Prev <prestidigitization.html>`__    | `Up <../P.html>`__         |  `Next <prettyprint.html>`__   |
-+---------------------------------------+----------------------------+--------------------------------+
-| prestidigitization                    | `Home <../index.html>`__   |  prettyprint                   |
-+---------------------------------------+----------------------------+--------------------------------+
-
 prettyprint
-
-`Prev <pretty-pictures.html>`__ 
-
-P
-
- `Next <pretzel-key.html>`__
-
---------------
+=============
 
 **prettyprint**: /prit´ee·print/, v.
 
@@ -2000,45 +1739,16 @@ and most esp. for LISP code.
 
 2. To format in some particularly slick and nontrivial way.
 
---------------
-
-+------------------------------------+----------------------------+--------------------------------+
-| `Prev <pretty-pictures.html>`__    | `Up <../P.html>`__         |  `Next <pretzel-key.html>`__   |
-+------------------------------------+----------------------------+--------------------------------+
-| pretty pictures                    | `Home <../index.html>`__   |  pretzel key                   |
-+------------------------------------+----------------------------+--------------------------------+
-
 pretzel key
-
-`Prev <prettyprint.html>`__ 
-
-P
-
- `Next <priesthood.html>`__
-
---------------
+==============
 
 **pretzel key**: n.
 
 [Mac users] See `*feature key* <../F/feature-key.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <prettyprint.html>`__    | `Up <../P.html>`__         |  `Next <priesthood.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| prettyprint                    | `Home <../index.html>`__   |  priesthood                   |
-+--------------------------------+----------------------------+-------------------------------+
 
 priesthood
-
-`Prev <pretzel-key.html>`__ 
-
-P
-
- `Next <prime-time.html>`__
-
---------------
+=============
 
 **priesthood**: n.
 
@@ -2048,23 +1758,8 @@ computers, a user never had direct access to a computer, but had to
 submit his/her data and programs to a priest for execution. Results were
 returned days or even weeks later.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <pretzel-key.html>`__    | `Up <../P.html>`__         |  `Next <prime-time.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| pretzel key                    | `Home <../index.html>`__   |  prime time                   |
-+--------------------------------+----------------------------+-------------------------------+
-
 prime time
-
-`Prev <priesthood.html>`__ 
-
-P
-
- `Next <print.html>`__
-
---------------
+================
 
 **prime time**: n.
 
@@ -2078,23 +1773,8 @@ of day or evening at which the Internet tends to be heavily loaded,
 making Web access slow. The hackish tendency to late-night `*hacking
 run* <../H/hacking-run.html>`__\ s has changed not a bit.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------+
-| `Prev <priesthood.html>`__    | `Up <../P.html>`__         |  `Next <print.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
-| priesthood                    | `Home <../index.html>`__   |  print                   |
-+-------------------------------+----------------------------+--------------------------+
-
 print
-
-`Prev <prime-time.html>`__ 
-
-P
-
- `Next <printing-discussion.html>`__
-
---------------
+========
 
 **print**: v.
 
@@ -2107,46 +1787,17 @@ the days when printing terminals were the norm, perpetuated by
 programming language constructs like `*C* <../C/C.html>`__'s printf(3).
 See senses 1 and 2 of `*tty* <../T/tty.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+----------------------------------------+
-| `Prev <prime-time.html>`__    | `Up <../P.html>`__         |  `Next <printing-discussion.html>`__   |
-+-------------------------------+----------------------------+----------------------------------------+
-| prime time                    | `Home <../index.html>`__   |  printing discussion                   |
-+-------------------------------+----------------------------+----------------------------------------+
-
 printing discussion
-
-`Prev <print.html>`__ 
-
-P
-
- `Next <priority-interrupt.html>`__
-
---------------
+====================
 
 **printing discussion**: n.
 
 [XEROX PARC] A protracted, low-level, time-consuming, generally
 pointless discussion of something only peripherally interesting to all.
 
---------------
-
-+--------------------------+----------------------------+---------------------------------------+
-| `Prev <print.html>`__    | `Up <../P.html>`__         |  `Next <priority-interrupt.html>`__   |
-+--------------------------+----------------------------+---------------------------------------+
-| print                    | `Home <../index.html>`__   |  priority interrupt                   |
-+--------------------------+----------------------------+---------------------------------------+
 
 priority interrupt
-
-`Prev <printing-discussion.html>`__ 
-
-P
-
- `Next <profile.html>`__
-
---------------
+===================
 
 **priority interrupt**: n.
 
@@ -2158,23 +1809,8 @@ a fire alarm going off in the near vicinity. Also called an
 `*NMI* <../N/NMI.html>`__ (non-maskable interrupt), especially in
 PC-land.
 
---------------
-
-+----------------------------------------+----------------------------+----------------------------+
-| `Prev <printing-discussion.html>`__    | `Up <../P.html>`__         |  `Next <profile.html>`__   |
-+----------------------------------------+----------------------------+----------------------------+
-| printing discussion                    | `Home <../index.html>`__   |  profile                   |
-+----------------------------------------+----------------------------+----------------------------+
-
 profile
-
-`Prev <priority-interrupt.html>`__ 
-
-P
-
- `Next <progasm.html>`__
-
---------------
+===========
 
 **profile**: n.
 
@@ -2193,23 +1829,8 @@ similar. 3.[techspeak] A subset of a standard used for a particular
 purpose. This sense confuses hackers who wander into the weird world of
 ISO standards no end!
 
---------------
-
-+---------------------------------------+----------------------------+----------------------------+
-| `Prev <priority-interrupt.html>`__    | `Up <../P.html>`__         |  `Next <progasm.html>`__   |
-+---------------------------------------+----------------------------+----------------------------+
-| priority interrupt                    | `Home <../index.html>`__   |  progasm                   |
-+---------------------------------------+----------------------------+----------------------------+
-
 progasm
-
-`Prev <profile.html>`__ 
-
-P
-
- `Next <proggy.html>`__
-
---------------
+===============
 
 **progasm**: /proh´gaz·m/, n.
 
@@ -2221,23 +1842,8 @@ proportional to the complexity of the code and inversely proportional to
 the amount of debugging it took to get the code working.) Compare
 `*geekasm* <../G/geekasm.html>`__.
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <profile.html>`__    | `Up <../P.html>`__         |  `Next <proggy.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| profile                    | `Home <../index.html>`__   |  proggy                   |
-+----------------------------+----------------------------+---------------------------+
-
 proggy
-
-`Prev <progasm.html>`__ 
-
-P
-
- `Next <proglet.html>`__
-
---------------
+========
 
 **proggy**: n.
 
@@ -2249,23 +1855,9 @@ P
 3. Any computer program that is large enough to be normally distributed
 as an RPM or `*tarball* <../T/tarball.html>`__.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <progasm.html>`__    | `Up <../P.html>`__         |  `Next <proglet.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| progasm                    | `Home <../index.html>`__   |  proglet                   |
-+----------------------------+----------------------------+----------------------------+
 
 proglet
-
-`Prev <proggy.html>`__ 
-
-P
-
- `Next <program.html>`__
-
---------------
+=========
 
 **proglet**: /prog´let/, n.
 
@@ -2278,23 +1870,8 @@ according to one's skill and the language one is using). Compare `*toy
 program* <../T/toy-program.html>`__, `*noddy* <../N/noddy.html>`__,
 `*one-liner wars* <../O/one-liner-wars.html>`__.
 
---------------
-
-+---------------------------+----------------------------+----------------------------+
-| `Prev <proggy.html>`__    | `Up <../P.html>`__         |  `Next <program.html>`__   |
-+---------------------------+----------------------------+----------------------------+
-| proggy                    | `Home <../index.html>`__   |  program                   |
-+---------------------------+----------------------------+----------------------------+
-
 program
-
-`Prev <proglet.html>`__ 
-
-P
-
- `Next <Programmers-Cheer.html>`__
-
---------------
+========
 
 **program**: n.
 
@@ -2307,46 +1884,17 @@ into error messages.
 which is nevertheless almost inevitably a failure if other programmers
 can't understand it.
 
---------------
-
-+----------------------------+----------------------------+--------------------------------------+
-| `Prev <proglet.html>`__    | `Up <../P.html>`__         |  `Next <Programmers-Cheer.html>`__   |
-+----------------------------+----------------------------+--------------------------------------+
-| proglet                    | `Home <../index.html>`__   |  Programmer's Cheer                  |
-+----------------------------+----------------------------+--------------------------------------+
-
 Programmer's Cheer
-
-`Prev <program.html>`__ 
-
-P
-
- `Next <programming.html>`__
-
---------------
+=====================
 
 **Programmer's Cheer**
 
 “Shift to the left! Shift to the right! Pop up, push down! Byte! Byte!
 Byte!” A joke so old it has hair on it.
 
---------------
-
-+----------------------------+----------------------------+--------------------------------+
-| `Prev <program.html>`__    | `Up <../P.html>`__         |  `Next <programming.html>`__   |
-+----------------------------+----------------------------+--------------------------------+
-| program                    | `Home <../index.html>`__   |  programming                   |
-+----------------------------+----------------------------+--------------------------------+
-
 programming fluid
+===================
 
-`Prev <programming.html>`__ 
-
-P
-
- `Next <propeller-head.html>`__
-
---------------
 
 **programming fluid**: n.
 
@@ -2358,23 +1906,8 @@ P
 for those all-night hacking runs. See
 `*wirewater* <../W/wirewater.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-----------------------------------+
-| `Prev <programming.html>`__    | `Up <../P.html>`__         |  `Next <propeller-head.html>`__   |
-+--------------------------------+----------------------------+-----------------------------------+
-| programming                    | `Home <../index.html>`__   |  propeller head                   |
-+--------------------------------+----------------------------+-----------------------------------+
-
 programming
-
-`Prev <Programmers-Cheer.html>`__ 
-
-P
-
- `Next <programming-fluid.html>`__
-
---------------
+================
 
 **programming**: n.
 
@@ -2390,23 +1923,8 @@ fewer opportunities for reward.
 
 4. The least fun you can have with your clothes off.
 
---------------
-
-+--------------------------------------+----------------------------+--------------------------------------+
-| `Prev <Programmers-Cheer.html>`__    | `Up <../P.html>`__         |  `Next <programming-fluid.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------------+
-| Programmer's Cheer                   | `Home <../index.html>`__   |  programming fluid                   |
-+--------------------------------------+----------------------------+--------------------------------------+
-
 propeller head
-
-`Prev <programming-fluid.html>`__ 
-
-P
-
- `Next <propeller-key.html>`__
-
---------------
+==================
 
 **propeller head**: n.
 
@@ -2416,45 +1934,15 @@ SF fandom's tradition (originally invented by old-time fan Ray Faraday
 Nelson) of propeller beanies as fannish insignia (though nobody actually
 wears them except as a joke).
 
---------------
-
-+--------------------------------------+----------------------------+----------------------------------+
-| `Prev <programming-fluid.html>`__    | `Up <../P.html>`__         |  `Next <propeller-key.html>`__   |
-+--------------------------------------+----------------------------+----------------------------------+
-| programming fluid                    | `Home <../index.html>`__   |  propeller key                   |
-+--------------------------------------+----------------------------+----------------------------------+
-
 propeller key
-
-`Prev <propeller-head.html>`__ 
-
-P
-
- `Next <proprietary.html>`__
-
---------------
+=================
 
 **propeller key**: n.
 
 [Mac users] See `*feature key* <../F/feature-key.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+--------------------------------+
-| `Prev <propeller-head.html>`__    | `Up <../P.html>`__         |  `Next <proprietary.html>`__   |
-+-----------------------------------+----------------------------+--------------------------------+
-| propeller head                    | `Home <../index.html>`__   |  proprietary                   |
-+-----------------------------------+----------------------------+--------------------------------+
-
 proprietary
-
-`Prev <propeller-key.html>`__ 
-
-P
-
- `Next <protocol.html>`__
-
---------------
+=============
 
 **proprietary**: adj.
 
@@ -2477,23 +1965,8 @@ It is possible for software to be commercial (that is, intended to make
 a profit for the producers) without being proprietary. The reverse is
 also possible, for example in binary-only freeware.
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------+
-| `Prev <propeller-key.html>`__    | `Up <../P.html>`__         |  `Next <protocol.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
-| propeller key                    | `Home <../index.html>`__   |  protocol                   |
-+----------------------------------+----------------------------+-----------------------------+
-
 protocol
-
-`Prev <proprietary.html>`__ 
-
-P
-
- `Next <provocative-maintenance.html>`__
-
---------------
+==========
 
 **protocol**: n.
 
@@ -2511,23 +1984,8 @@ transactions among them follow predictable logical sequences. See also
 `*handshaking* <../H/handshaking.html>`__, `*do
 protocol* <../D/do-protocol.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+--------------------------------------------+
-| `Prev <proprietary.html>`__    | `Up <../P.html>`__         |  `Next <provocative-maintenance.html>`__   |
-+--------------------------------+----------------------------+--------------------------------------------+
-| proprietary                    | `Home <../index.html>`__   |  provocative maintenance                   |
-+--------------------------------+----------------------------+--------------------------------------------+
-
 provocative maintenance
-
-`Prev <protocol.html>`__ 
-
-P
-
- `Next <prowler.html>`__
-
---------------
+==========================
 
 **provocative maintenance**: n.
 
@@ -2540,23 +1998,8 @@ otherwise results in the machine's remaining in an *un*\ usable state
 for an indeterminate amount of time. See also `*scratch
 monkey* <../S/scratch-monkey.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <protocol.html>`__    | `Up <../P.html>`__         |  `Next <prowler.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| protocol                    | `Home <../index.html>`__   |  prowler                   |
-+-----------------------------+----------------------------+----------------------------+
-
 prowler
-
-`Prev <provocative-maintenance.html>`__ 
-
-P
-
- `Next <pseudo.html>`__
-
---------------
+===========
 
 **prowler**: n.
 
@@ -2568,23 +2011,8 @@ nuke **lost+found** directories, and otherwise clean up the
 file system. See also `*reaper* <../R/reaper.html>`__,
 `*skulker* <../S/skulker.html>`__.
 
---------------
-
-+--------------------------------------------+----------------------------+---------------------------+
-| `Prev <provocative-maintenance.html>`__    | `Up <../P.html>`__         |  `Next <pseudo.html>`__   |
-+--------------------------------------------+----------------------------+---------------------------+
-| provocative maintenance                    | `Home <../index.html>`__   |  pseudo                   |
-+--------------------------------------------+----------------------------+---------------------------+
-
 pseudo
-
-`Prev <prowler.html>`__ 
-
-P
-
- `Next <pseudoprime.html>`__
-
---------------
+========
 
 **pseudo**: /soo´doh/, n.
 
@@ -2610,23 +2038,8 @@ were fooled by the forgeries, and the debate over their authenticity was
 settled only when the perpetrator came forward to publicly admit the
 hoax.
 
---------------
-
-+----------------------------+----------------------------+--------------------------------+
-| `Prev <prowler.html>`__    | `Up <../P.html>`__         |  `Next <pseudoprime.html>`__   |
-+----------------------------+----------------------------+--------------------------------+
-| prowler                    | `Home <../index.html>`__   |  pseudoprime                   |
-+----------------------------+----------------------------+--------------------------------+
-
 pseudoprime
-
-`Prev <pseudo.html>`__ 
-
-P
-
- `Next <pseudosuit.html>`__
-
---------------
+===============
 
 **pseudoprime**: n.
 
@@ -2639,23 +2052,10 @@ certainly prime. The hacker backgammon usage stems from the idea that a
 pseudoprime is almost as good as a prime: it will do the same job unless
 you are unlucky.
 
---------------
 
-+---------------------------+----------------------------+-------------------------------+
-| `Prev <pseudo.html>`__    | `Up <../P.html>`__         |  `Next <pseudosuit.html>`__   |
-+---------------------------+----------------------------+-------------------------------+
-| pseudo                    | `Home <../index.html>`__   |  pseudosuit                   |
-+---------------------------+----------------------------+-------------------------------+
 
 pseudosuit
-
-`Prev <pseudoprime.html>`__ 
-
-P
-
- `Next <psychedelicware.html>`__
-
---------------
+==============
 
 **pseudosuit**: /soo´doh·s[y]oot\`/, n.
 
@@ -2664,46 +2064,17 @@ wants to be in management or administration and begins wearing ties,
 sport coats, and (shudder!) suits voluntarily. It's his funeral. See
 also `*lobotomy* <../L/lobotomy.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+------------------------------------+
-| `Prev <pseudoprime.html>`__    | `Up <../P.html>`__         |  `Next <psychedelicware.html>`__   |
-+--------------------------------+----------------------------+------------------------------------+
-| pseudoprime                    | `Home <../index.html>`__   |  psychedelicware                   |
-+--------------------------------+----------------------------+------------------------------------+
 
 psychedelicware
-
-`Prev <pseudosuit.html>`__ 
-
-P
-
- `Next <psyton.html>`__
-
---------------
+=================
 
 **psychedelicware**: /si:\`k@·del'·ik·weir/, n.
 
 [UK] Syn. `*display hack* <../D/display-hack.html>`__. See also
 `*smoking clover* <../S/smoking-clover.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <pseudosuit.html>`__    | `Up <../P.html>`__         |  `Next <psyton.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| pseudosuit                    | `Home <../index.html>`__   |  psyton                   |
-+-------------------------------+----------------------------+---------------------------+
-
 psyton
-
-`Prev <psychedelicware.html>`__ 
-
-P
-
- `Next <pubic-directory.html>`__
-
---------------
+===============
 
 **psyton**: /si:´ton/, n.
 
@@ -2715,23 +2086,8 @@ appears to have been largely superseded by
 `*bogon* <../B/bogon.html>`__; see also `*quantum
 bogodynamics* <../Q/quantum-bogodynamics.html>`__. —ESR]
 
---------------
-
-+------------------------------------+----------------------------+------------------------------------+
-| `Prev <psychedelicware.html>`__    | `Up <../P.html>`__         |  `Next <pubic-directory.html>`__   |
-+------------------------------------+----------------------------+------------------------------------+
-| psychedelicware                    | `Home <../index.html>`__   |  pubic directory                   |
-+------------------------------------+----------------------------+------------------------------------+
-
 pubic directory
-
-`Prev <psyton.html>`__ 
-
-P
-
- `Next <puff.html>`__
-
---------------
+=================
 
 **pubic directory**: /pyoob´ik d@·rek´t@·ree/, n.
 
@@ -2740,23 +2096,8 @@ directory on a machine that allows FTP access. So called because it is
 the default location for `*SEX* <../S/SEX.html>`__ (sense 1). “I'll have
 the source in the pube directory by Friday.”
 
---------------
-
-+---------------------------+----------------------------+-------------------------+
-| `Prev <psyton.html>`__    | `Up <../P.html>`__         |  `Next <puff.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| psyton                    | `Home <../index.html>`__   |  puff                   |
-+---------------------------+----------------------------+-------------------------+
-
 puff
-
-`Prev <pubic-directory.html>`__ 
-
-P
-
- `Next <pumpkin-holder.html>`__
-
---------------
+=========
 
 **puff**: vt.
 
@@ -2765,68 +2106,23 @@ one widely distributed Huffman decoder program was actually *named*
 ‘PUFF’, but these days it is usually packaged with the encoder. Oppose
 `*huff* <../H/huff.html>`__, see `*inflate* <../I/inflate.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+-----------------------------------+
-| `Prev <pubic-directory.html>`__    | `Up <../P.html>`__         |  `Next <pumpkin-holder.html>`__   |
-+------------------------------------+----------------------------+-----------------------------------+
-| pubic directory                    | `Home <../index.html>`__   |  pumpkin holder                   |
-+------------------------------------+----------------------------+-----------------------------------+
-
 pumpking
-
-`Prev <pumpkin-holder.html>`__ 
-
-P
-
- `Next <punched-card.html>`__
-
---------------
+=============
 
 **pumpking**: n.
 
 Syn. for `*pumpkin holder* <pumpkin-holder.html>`__; see `*patch
 pumpkin* <patch-pumpkin.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+---------------------------------+
-| `Prev <pumpkin-holder.html>`__    | `Up <../P.html>`__         |  `Next <punched-card.html>`__   |
-+-----------------------------------+----------------------------+---------------------------------+
-| pumpkin holder                    | `Home <../index.html>`__   |  punched card                   |
-+-----------------------------------+----------------------------+---------------------------------+
-
 pumpkin holder
-
-`Prev <puff.html>`__ 
-
-P
-
- `Next <pumpking.html>`__
-
---------------
+=================
 
 **pumpkin holder**: n.
 
 See `*patch pumpkin* <patch-pumpkin.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <puff.html>`__    | `Up <../P.html>`__         |  `Next <pumpking.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| puff                    | `Home <../index.html>`__   |  pumpking                   |
-+-------------------------+----------------------------+-----------------------------+
-
 punched card
-
-`Prev <pumpking.html>`__ 
-
-P
-
- `Next <punt.html>`__
-
---------------
+================
 
 **punched card**:
 
@@ -2854,23 +2150,8 @@ card* <../G/green-card.html>`__, `*dusty
 deck* <../D/dusty-deck.html>`__, `*code
 grinder* <../C/code-grinder.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <pumpking.html>`__    | `Up <../P.html>`__         |  `Next <punt.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| pumpking                    | `Home <../index.html>`__   |  punt                   |
-+-----------------------------+----------------------------+-------------------------+
-
 punt
-
-`Prev <punched-card.html>`__ 
-
-P
-
- `Next <Purple-Book.html>`__
-
---------------
+===========
 
 **punt**: v.
 
@@ -2898,23 +2179,8 @@ the runtime system.”
 5. To knock someone off an Internet or chat connection; a punter thus,
 is a person or program that does this.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <punched-card.html>`__    | `Up <../P.html>`__         |  `Next <Purple-Book.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| punched card                    | `Home <../index.html>`__   |  Purple Book                   |
-+---------------------------------+----------------------------+--------------------------------+
-
 Purple Book
-
-`Prev <punt.html>`__ 
-
-P
-
- `Next <purple-wire.html>`__
-
---------------
+===============
 
 **Purple Book**: n.
 
@@ -2925,23 +2191,9 @@ were an amazingly nauseating shade of off-lavender.
 *POSIX Programmer's Guide* (O'Reilly, 1991, ISBN 0-937175-73-0). See
 also `*book titles* <../B/book-titles.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <punt.html>`__    | `Up <../P.html>`__         |  `Next <purple-wire.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| punt                    | `Home <../index.html>`__   |  purple wire                   |
-+-------------------------+----------------------------+--------------------------------+
 
 purple wire
-
-`Prev <Purple-Book.html>`__ 
-
-P
-
- `Next <push.html>`__
-
---------------
+=================
 
 **purple wire**: n.
 
@@ -2952,23 +2204,8 @@ yellow.... Compare `*blue wire* <../B/blue-wire.html>`__, `*yellow
 wire* <../Y/yellow-wire.html>`__, and `*red
 wire* <../R/red-wire.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <Purple-Book.html>`__    | `Up <../P.html>`__         |  `Next <push.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| Purple Book                    | `Home <../index.html>`__   |  push                   |
-+--------------------------------+----------------------------+-------------------------+
-
 push
-
-`Prev <purple-wire.html>`__ 
-
-P
-
- `Next <Python.html>`__
-
---------------
+==========
 
 **push**
 
@@ -2988,23 +2225,8 @@ to my queue’.
 later. Antonym of `*pop* <pop.html>`__; see also
 `*stack* <../S/stack.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------+
-| `Prev <purple-wire.html>`__    | `Up <../P.html>`__         |  `Next <Python.html>`__   |
-+--------------------------------+----------------------------+---------------------------+
-| purple wire                    | `Home <../index.html>`__   |  Python                   |
-+--------------------------------+----------------------------+---------------------------+
-
 Python
-
-`Prev <push.html>`__ 
-
-P
-
- `Next <../Q.html>`__
-
---------------
+==========
 
 **Python**: /pi:´thon/
 
@@ -3022,12 +2244,3 @@ generally conceded to be rather higher than in the larger community it
 competes with. There's a Python resource page at
 `http://www.python.org <http://www.python.org>`__. See also
 `*Guido* <../G/Guido.html>`__, `*BDFL* <../B/BDFL.html>`__.
-
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <push.html>`__    | `Up <../P.html>`__         |  `Next <../Q.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| push                    | `Home <../index.html>`__   |  Q                      |
-+-------------------------+----------------------------+-------------------------+
-
