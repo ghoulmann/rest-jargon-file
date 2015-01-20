@@ -2,15 +2,7 @@
 D
 =======
 
-daemon book
 
-`Prev <daemon.html>`__ 
-
-D
-
- `Next <dahmum.html>`__
-
---------------
 
 **daemon book**: n.
 
@@ -35,14 +27,7 @@ to one of the characteristic features of Unix, the fork(2) system call).
 +---------------------------+----------------------------+---------------------------+
 
 daemon
-
-`Prev <../D.html>`__ 
-
-D
-
- `Next <daemon-book.html>`__
-
---------------
+================
 
 **daemon**: /day´mn/, /dee´mn/, n.
 
@@ -69,23 +54,9 @@ that automatically made tape backups of the file system. Although the
 meaning and the pronunciation have drifted, we think this glossary
 reflects current (2003) usage.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <../D.html>`__    | `Up <../D.html>`__         |  `Next <daemon-book.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| D                       | `Home <../index.html>`__   |  daemon book                   |
-+-------------------------+----------------------------+--------------------------------+
 
 dahmum
-
-`Prev <daemon-book.html>`__ 
-
-D
-
- `Next <dancing-frog.html>`__
-
---------------
+===========
 
 **dahmum**: /dah´mum/, n.
 
@@ -97,23 +68,9 @@ term dahmum is derived from the name of a militant
 cross-posted OS/2-versus-`*Linux* <../L/Linux.html>`__ debate was fed
 through `*Dissociated Press* <Dissociated-Press.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------------+
-| `Prev <daemon-book.html>`__    | `Up <../D.html>`__         |  `Next <dancing-frog.html>`__   |
-+--------------------------------+----------------------------+---------------------------------+
-| daemon book                    | `Home <../index.html>`__   |  dancing frog                   |
-+--------------------------------+----------------------------+---------------------------------+
 
 dancing frog
-
-`Prev <dahmum.html>`__ 
-
-D
-
- `Next <dangling-pointer.html>`__
-
---------------
+================
 
 **dancing frog**: n.
 
@@ -123,23 +80,10 @@ cartoon *One Froggy Evening*, featuring a dancing and singing Michigan
 J. Frog that just croaks when anyone else is around (now the WB network
 mascot).
 
---------------
 
-+---------------------------+----------------------------+-------------------------------------+
-| `Prev <dahmum.html>`__    | `Up <../D.html>`__         |  `Next <dangling-pointer.html>`__   |
-+---------------------------+----------------------------+-------------------------------------+
-| dahmum                    | `Home <../index.html>`__   |  dangling pointer                   |
-+---------------------------+----------------------------+-------------------------------------+
 
 dangling pointer
-
-`Prev <dancing-frog.html>`__ 
-
-D
-
- `Next <dark-side-hacker.html>`__
-
---------------
+=================
 
 **dangling pointer**: n.
 
@@ -150,23 +94,11 @@ that has moved or disappeared. Used as jargon in a generalization of its
 techspeak meaning; for example, a local phone number for a person who
 has since moved to the other coast is a dangling pointer.
 
---------------
 
-+---------------------------------+----------------------------+-------------------------------------+
-| `Prev <dancing-frog.html>`__    | `Up <../D.html>`__         |  `Next <dark-side-hacker.html>`__   |
-+---------------------------------+----------------------------+-------------------------------------+
-| dancing frog                    | `Home <../index.html>`__   |  dark-side hacker                   |
-+---------------------------------+----------------------------+-------------------------------------+
 
 dark-side hacker
+===================
 
-`Prev <dangling-pointer.html>`__ 
-
-D
-
- `Next <Datamation.html>`__
-
---------------
 
 **dark-side hacker**: n.
 
@@ -176,23 +108,9 @@ Force”. The implication that hackers form a sort of elite of
 technological Jedi Knights is intended. Oppose
 `*samurai* <../S/samurai.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+-------------------------------+
-| `Prev <dangling-pointer.html>`__    | `Up <../D.html>`__         |  `Next <Datamation.html>`__   |
-+-------------------------------------+----------------------------+-------------------------------+
-| dangling pointer                    | `Home <../index.html>`__   |  Datamation                   |
-+-------------------------------------+----------------------------+-------------------------------+
 
 Datamation
-
-`Prev <dark-side-hacker.html>`__ 
-
-D
-
- `Next <DAU.html>`__
-
---------------
+=====================
 
 **Datamation**: /day\`t@·may´sh@n/, n.
 
@@ -207,23 +125,9 @@ Following a change of editorship in 1994, Datamation briefly tried for
 more the technical content and irreverent humor that marked its early
 days, but this did not last.
 
---------------
-
-+-------------------------------------+----------------------------+------------------------+
-| `Prev <dark-side-hacker.html>`__    | `Up <../D.html>`__         |  `Next <DAU.html>`__   |
-+-------------------------------------+----------------------------+------------------------+
-| dark-side hacker                    | `Home <../index.html>`__   |  DAU                   |
-+-------------------------------------+----------------------------+------------------------+
 
 DAU
-
-`Prev <Datamation.html>`__ 
-
-D
-
- `Next <Dave-the-Resurrector.html>`__
-
---------------
+================
 
 **DAU**: /dow/, n.
 
@@ -236,23 +140,9 @@ as a core meltdown. See `*cretin* <../C/cretin.html>`__,
 `*fool* <../F/fool.html>`__, `*loser* <../L/loser.html>`__ and
 `*weasel* <../W/weasel.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------------------------+
-| `Prev <Datamation.html>`__    | `Up <../D.html>`__         |  `Next <Dave-the-Resurrector.html>`__   |
-+-------------------------------+----------------------------+-----------------------------------------+
-| Datamation                    | `Home <../index.html>`__   |  Dave the Resurrector                   |
-+-------------------------------+----------------------------+-----------------------------------------+
 
 Dave the Resurrector
-
-`Prev <DAU.html>`__ 
-
-D
-
- `Next <day-mode.html>`__
-
---------------
+========================
 
 **Dave the Resurrector**: n.
 
@@ -262,45 +152,17 @@ that cancels cancels. Dave the Resurrector originated when some
 spam-fighting by wholesale cancellation of anti-spam coordination
 messages in the ``news.admin.net-abuse.usenet`` newsgroup.
 
---------------
-
-+------------------------+----------------------------+-----------------------------+
-| `Prev <DAU.html>`__    | `Up <../D.html>`__         |  `Next <day-mode.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| DAU                    | `Home <../index.html>`__   |  day mode                   |
-+------------------------+----------------------------+-----------------------------+
-
 day mode
-
-`Prev <Dave-the-Resurrector.html>`__ 
-
-D
-
- `Next <dd.html>`__
-
---------------
+====================
 
 **day mode**: n.
 
 See `*phase* <../P/phase.html>`__ (sense 1). Used of people only.
 
---------------
 
-+-----------------------------------------+----------------------------+-----------------------+
-| `Prev <Dave-the-Resurrector.html>`__    | `Up <../D.html>`__         |  `Next <dd.html>`__   |
-+-----------------------------------------+----------------------------+-----------------------+
-| Dave the Resurrector                    | `Home <../index.html>`__   |  dd                   |
-+-----------------------------------------+----------------------------+-----------------------+
 
 dd
-
-`Prev <day-mode.html>`__ 
-
-D
-
- `Next <DDT.html>`__
-
---------------
+=============
 
 **dd**: /dee·dee/, vt.
 
@@ -319,23 +181,8 @@ dd(1) has been `*deprecated* <deprecated.html>`__ for a long time
 (though it has no exact replacement). The term has been displaced by
 `*BLT* <../B/BLT.html>`__ or simple English ‘copy’.
 
---------------
-
-+-----------------------------+----------------------------+------------------------+
-| `Prev <day-mode.html>`__    | `Up <../D.html>`__         |  `Next <DDT.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| day mode                    | `Home <../index.html>`__   |  DDT                   |
-+-----------------------------+----------------------------+------------------------+
-
 DDT
-
-`Prev <dd.html>`__ 
-
-D
-
- `Next <de-rezz.html>`__
-
---------------
+==========
 
 **DDT**: /D·D·T/, n.
 
@@ -384,23 +231,9 @@ transistorized computer) rejoiced in the name FLIT (FLexowriter
 Interrogation Tape). Flit was for many years the trade-name of a popular
 insecticide.
 
---------------
-
-+-----------------------+----------------------------+----------------------------+
-| `Prev <dd.html>`__    | `Up <../D.html>`__         |  `Next <de-rezz.html>`__   |
-+-----------------------+----------------------------+----------------------------+
-| dd                    | `Home <../index.html>`__   |  de-rezz                   |
-+-----------------------+----------------------------+----------------------------+
 
 dead beef attack
-
-`Prev <dead.html>`__ 
-
-D
-
- `Next <dead-code.html>`__
-
---------------
+===================
 
 **dead beef attack**: n.
 
@@ -412,23 +245,8 @@ eight hex digits of (for RSA keys) the product of two primes. The attack
 was demonstrated by creating a key whose ID was 0xdeadbeef (see
 `*DEADBEEF* <DEADBEEF.html>`__).
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <dead.html>`__    | `Up <../D.html>`__         |  `Next <dead-code.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| dead                    | `Home <../index.html>`__   |  dead code                   |
-+-------------------------+----------------------------+------------------------------+
-
 DEADBEEF
-
-`Prev <dead-tree-version.html>`__ 
-
-D
-
- `Next <deadlock.html>`__
-
---------------
+===============
 
 **DEADBEEF**: /ded·beef/, n.
 
@@ -442,23 +260,9 @@ half-word boundary, of course, you have BEEFDEAD. See also the anecdote
 under `*fool* <../F/fool.html>`__ and `*dead beef
 attack* <dead-beef-attack.html>`__.
 
---------------
-
-+--------------------------------------+----------------------------+-----------------------------+
-| `Prev <dead-tree-version.html>`__    | `Up <../D.html>`__         |  `Next <deadlock.html>`__   |
-+--------------------------------------+----------------------------+-----------------------------+
-| dead-tree version                    | `Home <../index.html>`__   |  deadlock                   |
-+--------------------------------------+----------------------------+-----------------------------+
 
 dead code
-
-`Prev <dead-beef-attack.html>`__ 
-
-D
-
- `Next <dead-tree-version.html>`__
-
---------------
+==============
 
 **dead code**: n.
 
@@ -476,23 +280,9 @@ yet.) Syn. `*grunge* <../G/grunge.html>`__. See also
 `*dead* <dead.html>`__, and `The Story of
 Mel' <../story-of-mel.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+--------------------------------------+
-| `Prev <dead-beef-attack.html>`__    | `Up <../D.html>`__         |  `Next <dead-tree-version.html>`__   |
-+-------------------------------------+----------------------------+--------------------------------------+
-| dead beef attack                    | `Home <../index.html>`__   |  dead-tree version                   |
-+-------------------------------------+----------------------------+--------------------------------------+
 
 dead
-
-`Prev <de-rezz.html>`__ 
-
-D
-
- `Next <dead-beef-attack.html>`__
-
---------------
+============
 
 **dead**: adj.
 
@@ -505,23 +295,9 @@ development and support.
 3. Useless; inaccessible. Antonym: live. Compare `*dead
 code* <dead-code.html>`__.
 
---------------
-
-+----------------------------+----------------------------+-------------------------------------+
-| `Prev <de-rezz.html>`__    | `Up <../D.html>`__         |  `Next <dead-beef-attack.html>`__   |
-+----------------------------+----------------------------+-------------------------------------+
-| de-rezz                    | `Home <../index.html>`__   |  dead beef attack                   |
-+----------------------------+----------------------------+-------------------------------------+
 
 deadlock
-
-`Prev <DEADBEEF.html>`__ 
-
-D
-
- `Next <deadly-embrace.html>`__
-
---------------
+===============
 
 **deadlock**: n.
 
@@ -545,23 +321,10 @@ aside to let the other pass, but they end up swaying from side to side
 without making any progress because they always move the same way at the
 same time.
 
---------------
 
-+-----------------------------+----------------------------+-----------------------------------+
-| `Prev <DEADBEEF.html>`__    | `Up <../D.html>`__         |  `Next <deadly-embrace.html>`__   |
-+-----------------------------+----------------------------+-----------------------------------+
-| DEADBEEF                    | `Home <../index.html>`__   |  deadly embrace                   |
-+-----------------------------+----------------------------+-----------------------------------+
 
 deadly embrace
-
-`Prev <deadlock.html>`__ 
-
-D
-
- `Next <death-code.html>`__
-
---------------
+==================
 
 **deadly embrace**: n.
 
@@ -570,23 +333,9 @@ exactly two processes are involved. This is the more popular term in
 Europe, while `*deadlock* <deadlock.html>`__ predominates in the United
 States.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------+
-| `Prev <deadlock.html>`__    | `Up <../D.html>`__         |  `Next <death-code.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
-| deadlock                    | `Home <../index.html>`__   |  death code                   |
-+-----------------------------+----------------------------+-------------------------------+
 
 dead-tree version
-
-`Prev <dead-code.html>`__ 
-
-D
-
- `Next <DEADBEEF.html>`__
-
---------------
+========================================
 
 **dead-tree version**
 
@@ -594,23 +343,9 @@ D
 trees. In this context, “dead trees” always refers to paper. See also
 `*tree-killer* <../T/tree-killer.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <dead-code.html>`__    | `Up <../D.html>`__         |  `Next <DEADBEEF.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| dead code                    | `Home <../index.html>`__   |  DEADBEEF                   |
-+------------------------------+----------------------------+-----------------------------+
 
 death code
-
-`Prev <deadly-embrace.html>`__ 
-
-D
-
- `Next <Death-Square.html>`__
-
---------------
+===================
 
 **death code**: n.
 
@@ -629,23 +364,8 @@ times as it can until a user hits HALT. Any empty memory location is
 death code. Worse, the manufacturer recommended use of this instruction
 in startup code (which would be in ROM and therefore survive).
 
---------------
-
-+-----------------------------------+----------------------------+---------------------------------+
-| `Prev <deadly-embrace.html>`__    | `Up <../D.html>`__         |  `Next <Death-Square.html>`__   |
-+-----------------------------------+----------------------------+---------------------------------+
-| deadly embrace                    | `Home <../index.html>`__   |  Death Square                   |
-+-----------------------------------+----------------------------+---------------------------------+
-
 Death Square
-
-`Prev <death-code.html>`__ 
-
-D
-
- `Next <Death-Star.html>`__
-
---------------
+===================
 
 **Death Square**: n.
 
@@ -657,23 +377,10 @@ did for many years.
 
 [They were right —ESR]
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------+
-| `Prev <death-code.html>`__    | `Up <../D.html>`__         |  `Next <Death-Star.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
-| death code                    | `Home <../index.html>`__   |  Death Star                   |
-+-------------------------------+----------------------------+-------------------------------+
 
 Death Star
+================
 
-`Prev <Death-Square.html>`__ 
-
-D
-
- `Next <Death--X-of.html>`__
-
---------------
 
 **Death Star**: n.
 
@@ -691,23 +398,10 @@ broken AT&T logo wreathed in flames.
 incorrectly done AT&T logo in which the inner circle in the top left is
 dark instead of light — a frequent result of dark-on-light logo images.
 
---------------
 
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <Death-Square.html>`__    | `Up <../D.html>`__         |  `Next <Death--X-of.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| Death Square                    | `Home <../index.html>`__   |  Death, X of                   |
-+---------------------------------+----------------------------+--------------------------------+
 
 Death, X of
-
-`Prev <Death-Star.html>`__ 
-
-D
-
- `Next <DEC.html>`__
-
---------------
+================
 
 **Death, X of**
 
@@ -726,23 +420,9 @@ Death* <../S/Spinning-Pizza-of-Death.html>`__, `*click of
 death* <../C/click-of-death.html>`__. Compare `*Doom, X
 of* <Doom--X-of.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+------------------------+
-| `Prev <Death-Star.html>`__    | `Up <../D.html>`__         |  `Next <DEC.html>`__   |
-+-------------------------------+----------------------------+------------------------+
-| Death Star                    | `Home <../index.html>`__   |  DEC                   |
-+-------------------------------+----------------------------+------------------------+
 
 decay
-
-`Prev <DEC-Wars.html>`__ 
-
-D
-
- `Next <deckle.html>`__
-
---------------
+===============
 
 **decay**: n.,vi
 
@@ -752,23 +432,10 @@ pointer-valued expressions pointing to the array's first element. This
 term is borderline techspeak, but is not used in the official standard
 for the language.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <DEC-Wars.html>`__    | `Up <../D.html>`__         |  `Next <deckle.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| DEC Wars                    | `Home <../index.html>`__   |  deckle                   |
-+-----------------------------+----------------------------+---------------------------+
 
 DEC
+=======
 
-`Prev <Death--X-of.html>`__ 
-
-D
-
- `Next <DEC-Wars.html>`__
-
---------------
 
 **DEC**: /dek/, n.
 
@@ -795,23 +462,9 @@ incubated on DEC hardware, or both. Accordingly, DEC was for many years
 still regarded with a certain wry affection even among many hackers too
 young to have grown up on DEC machines.
 
---------------
-
-+--------------------------------+----------------------------+-----------------------------+
-| `Prev <Death--X-of.html>`__    | `Up <../D.html>`__         |  `Next <DEC-Wars.html>`__   |
-+--------------------------------+----------------------------+-----------------------------+
-| Death, X of                    | `Home <../index.html>`__   |  DEC Wars                   |
-+--------------------------------+----------------------------+-----------------------------+
 
 deckle
 
-`Prev <decay.html>`__ 
-
-D
-
- `Next <DED.html>`__
-
---------------
 
 **deckle**: /dek´l/, n.
 
@@ -821,23 +474,8 @@ bits. Reported among developers for Mattel's GI 1600 (the Intellivision
 games processor), a chip with 16-bit-wide RAM but 10-bit-wide ROM. See
 `*nybble* <../N/nybble.html>`__ for other such terms.
 
---------------
-
-+--------------------------+----------------------------+------------------------+
-| `Prev <decay.html>`__    | `Up <../D.html>`__         |  `Next <DED.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| decay                    | `Home <../index.html>`__   |  DED                   |
-+--------------------------+----------------------------+------------------------+
-
 DEC Wars
-
-`Prev <DEC.html>`__ 
-
-D
-
- `Next <decay.html>`__
-
---------------
+===================
 
 **DEC Wars**: n.
 
@@ -848,23 +486,8 @@ great premise more thoroughly) posted a 3-times-longer complete rewrite
 called `Unix WARS <http://www.catb.org/~esr/writings/unixwars.html>`__;
 the two are often confused.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <DEC.html>`__    | `Up <../D.html>`__         |  `Next <decay.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| DEC                    | `Home <../index.html>`__   |  decay                   |
-+------------------------+----------------------------+--------------------------+
-
 DED
-
-`Prev <deckle.html>`__ 
-
-D
-
- `Next <deep-hack-mode.html>`__
-
---------------
+============
 
 **DED**: /D·E·D/, n.
 
@@ -875,45 +498,16 @@ Signetics and Texas instruments released DED spec sheets as
 `*AFJ* <../A/AFJ.html>`__\ s (suggested uses included “as a power-off
 indicator”).
 
---------------
-
-+---------------------------+----------------------------+-----------------------------------+
-| `Prev <deckle.html>`__    | `Up <../D.html>`__         |  `Next <deep-hack-mode.html>`__   |
-+---------------------------+----------------------------+-----------------------------------+
-| deckle                    | `Home <../index.html>`__   |  deep hack mode                   |
-+---------------------------+----------------------------+-----------------------------------+
 
 deep hack mode
-
-`Prev <DED.html>`__ 
-
-D
-
- `Next <deep-magic.html>`__
-
---------------
+==================
 
 **deep hack mode**: n.
 
 See `*hack mode* <../H/hack-mode.html>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------------+
-| `Prev <DED.html>`__    | `Up <../D.html>`__         |  `Next <deep-magic.html>`__   |
-+------------------------+----------------------------+-------------------------------+
-| DED                    | `Home <../index.html>`__   |  deep magic                   |
-+------------------------+----------------------------+-------------------------------+
-
 deep magic
-
-`Prev <deep-hack-mode.html>`__ 
-
-D
-
- `Next <deep-space.html>`__
-
---------------
+=================
 
 **deep magic**: n.
 
@@ -929,23 +523,10 @@ wizardry* <../H/heavy-wizardry.html>`__. Esp.: found in comments of the
 form “Deep magic begins here...”. Compare `*voodoo
 programming* <../V/voodoo-programming.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+-------------------------------+
-| `Prev <deep-hack-mode.html>`__    | `Up <../D.html>`__         |  `Next <deep-space.html>`__   |
-+-----------------------------------+----------------------------+-------------------------------+
-| deep hack mode                    | `Home <../index.html>`__   |  deep space                   |
-+-----------------------------------+----------------------------+-------------------------------+
 
 deep space
-
-`Prev <deep-magic.html>`__ 
-
-D
-
- `Next <defenestration.html>`__
-
---------------
+================
 
 **deep space**: n.
 
@@ -962,23 +543,11 @@ caught up in some esoteric form of `*bogosity* <../B/bogosity.html>`__
 that he or she no longer responds coherently to normal communication.
 Compare `*page out* <../P/page-out.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+-----------------------------------+
-| `Prev <deep-magic.html>`__    | `Up <../D.html>`__         |  `Next <defenestration.html>`__   |
-+-------------------------------+----------------------------+-----------------------------------+
-| deep magic                    | `Home <../index.html>`__   |  defenestration                   |
-+-------------------------------+----------------------------+-----------------------------------+
 
 defenestration
+=====================
 
-`Prev <deep-space.html>`__ 
-
-D
-
- `Next <defined-as.html>`__
-
---------------
 
 **defenestration**: n.
 
@@ -1002,23 +571,9 @@ screen). “Next, defenestrate the MugWump icon.”
 response time from a full-screen program. This comes from the dictionary
 meaning of defenestrate, which is to throw something out a window.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------+
-| `Prev <deep-space.html>`__    | `Up <../D.html>`__         |  `Next <defined-as.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
-| deep space                    | `Home <../index.html>`__   |  defined as                   |
-+-------------------------------+----------------------------+-------------------------------+
 
 defined as
-
-`Prev <defenestration.html>`__ 
-
-D
-
- `Next <deflicted.html>`__
-
---------------
+=============
 
 **defined as**: adj.
 
@@ -1026,23 +581,10 @@ In the role of, usually in an organization-chart sense. “Pete is
 currently defined as bug prioritizer.” Compare
 `*logical* <../L/logical.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+------------------------------+
-| `Prev <defenestration.html>`__    | `Up <../D.html>`__         |  `Next <deflicted.html>`__   |
-+-----------------------------------+----------------------------+------------------------------+
-| defenestration                    | `Home <../index.html>`__   |  deflicted                   |
-+-----------------------------------+----------------------------+------------------------------+
 
 deflicted
-
-`Prev <defined-as.html>`__ 
-
-D
-
- `Next <dehose.html>`__
-
---------------
+===========
 
 **deflicted**
 
@@ -1057,45 +599,19 @@ confident they'll see it again. Ultimately this may derive from Frank
 Zappa's 1974 album *Apostrophe*, on which the Fur Trapper infamously
 rubs his deflicted eyes...
 
---------------
 
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <defined-as.html>`__    | `Up <../D.html>`__         |  `Next <dehose.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| defined as                    | `Home <../index.html>`__   |  dehose                   |
-+-------------------------------+----------------------------+---------------------------+
 
 dehose
-
-`Prev <deflicted.html>`__ 
-
-D
-
- `Next <Dejagoo.html>`__
-
---------------
+=============
 
 **dehose**: /dee·hohz/, vt.
 
 To clear a `*hosed* <../H/hosed.html>`__ condition.
 
---------------
 
-+------------------------------+----------------------------+----------------------------+
-| `Prev <deflicted.html>`__    | `Up <../D.html>`__         |  `Next <Dejagoo.html>`__   |
-+------------------------------+----------------------------+----------------------------+
-| deflicted                    | `Home <../index.html>`__   |  Dejagoo                   |
-+------------------------------+----------------------------+----------------------------+
 
 Dejagoo
-
-`Prev <dehose.html>`__ 
-
-D
-
- `Next <deletia.html>`__
-
---------------
+=================
 
 **Dejagoo**
 
@@ -1103,23 +619,9 @@ D
 2001 after Google acquired Dejanews, and with it the largest on-line
 archive of Usenet postings.
 
---------------
-
-+---------------------------+----------------------------+----------------------------+
-| `Prev <dehose.html>`__    | `Up <../D.html>`__         |  `Next <deletia.html>`__   |
-+---------------------------+----------------------------+----------------------------+
-| dehose                    | `Home <../index.html>`__   |  deletia                   |
-+---------------------------+----------------------------+----------------------------+
 
 deletia
-
-`Prev <Dejagoo.html>`__ 
-
-D
-
- `Next <deliminator.html>`__
-
---------------
+=============
 
 **deletia**: n., /d@·lee´sha/
 

@@ -24,7 +24,7 @@
     <script type="text/javascript" src="../_static/underscore.js"></script>
     <script type="text/javascript" src="../_static/doctools.js"></script>
     <link rel="top" title="Jargon File alpha documentation" href="../index.html" />
-    <link rel="next" title="&lt;no title&gt;" href="G.html" />
+    <link rel="next" title="G" href="G.html" />
     <link rel="prev" title="&lt;no title&gt;" href="E.html" /> 
   </head>
   <body>
@@ -35,7 +35,7 @@
           <a href="../genindex.html" title="General Index"
              accesskey="I">index</a></li>
         <li class="right" >
-          <a href="G.html" title="&lt;no title&gt;"
+          <a href="G.html" title="G"
              accesskey="N">next</a> |</li>
         <li class="right" >
           <a href="E.html" title="&lt;no title&gt;"
@@ -76,8 +76,8 @@ loader to look for /kernel.pl? What about fairings?”)</p>
 <div class="section" id="fall-over">
 <h2>fall over<a class="headerlink" href="#fall-over" title="Permalink to this headline">¶</a></h2>
 <p><strong>fall over</strong>: vi.</p>
-<p>[IBM] Yet another synonym for <a class="reference external" href="../C/crash.html">crash</a> or
-<a class="reference external" href="../L/lose.html">lose</a>. ‘Fall over hard’ equates to <a class="reference external" href="../C/crash-and-burn.html">crash and
+<p>[IBM] Yet another synonym for <a class="reference external" href="../C.html#crash">crash</a> or
+<a class="reference external" href="../L.html#lose">lose</a>. ‘Fall over hard’ equates to <a class="reference external" href="../C.html#crash-and-burn">crash and
 burn</a>.</p>
 </div>
 <div class="section" id="fall-through">
@@ -94,34 +94,26 @@ other distant portion of code.</p>
 statement reaches a <strong>case</strong> label other than by jumping there from the
 switch header, passing a point where one would normally expect to find a
 <strong>break</strong>. A trivial example:</p>
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line-block">
-<div class="line">switch (color)</div>
-<div class="line">{</div>
-<div class="line">case GREEN:</div>
-<div class="line-block">
-<div class="line">do_green();</div>
-<div class="line">break;</div>
-</div>
-<div class="line">case PINK:</div>
-<div class="line-block">
-<div class="line">do_pink();</div>
-<div class="line">/* FALL THROUGH */</div>
-</div>
-<div class="line">case RED:</div>
-<div class="line-block">
-<div class="line">do_red();</div>
-<div class="line">break;</div>
-</div>
-<div class="line">default:</div>
-<div class="line-block">
-<div class="line">do_blue();</div>
-<div class="line">break;</div>
-</div>
-<div class="line">}</div>
-</div>
-</div>
+<blockquote>
+<div><p>switch (color)
+{
+case GREEN:</p>
+<blockquote>
+<div>do_green();
+break;</div></blockquote>
+<dl class="docutils">
+<dt>case PINK:</dt>
+<dd>do_pink();
+/* FALL THROUGH */</dd>
+<dt>case RED:</dt>
+<dd>do_red();
+break;</dd>
+<dt>default:</dt>
+<dd>do_blue();
+break;</dd>
+</dl>
+<p>}</p>
+</div></blockquote>
 <p>The variant spelling <tt class="docutils literal"><span class="pre">/*</span> <span class="pre">FALL</span> <span class="pre">THRU</span> <span class="pre">*/</span></tt> is also common.</p>
 <p>The effect of the above code is to do_green() when color is <strong>GREEN</strong>,
 do_red() when color is <strong>RED</strong>, do_blue() on any other color other
@@ -131,7 +123,7 @@ harmful</a> by some, though there are
 contexts (such as the coding of state machines) in which it is natural;
 it is generally considered good practice to include a comment
 highlighting the fall-through where one would normally expect a break.
-See also <a class="reference external" href="../D/Duffs-device.html">Duff&#8217;s device</a>.</p>
+See also <a class="reference external" href="../D.html#Duffs-device">Duff&#8217;s device</a>.</p>
 </div>
 <div class="section" id="fandango-on-core">
 <h2>fandango on core<a class="headerlink" href="#fandango-on-core" title="Permalink to this headline">¶</a></h2>
@@ -2357,7 +2349,7 @@ script-fu, in 1998.</p>
                         title="previous chapter">&lt;no title&gt;</a></p>
   <h4>Next topic</h4>
   <p class="topless"><a href="G.html"
-                        title="next chapter">&lt;no title&gt;</a></p>
+                        title="next chapter">G</a></p>
   <h3>This Page</h3>
   <ul class="this-page-menu">
     <li><a href="../_sources/concordance/F.txt"
@@ -2387,7 +2379,7 @@ script-fu, in 1998.</p>
           <a href="../genindex.html" title="General Index"
              >index</a></li>
         <li class="right" >
-          <a href="G.html" title="&lt;no title&gt;"
+          <a href="G.html" title="G"
              >next</a> |</li>
         <li class="right" >
           <a href="E.html" title="&lt;no title&gt;"

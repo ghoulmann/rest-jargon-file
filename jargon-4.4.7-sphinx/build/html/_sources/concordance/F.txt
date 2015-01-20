@@ -38,9 +38,9 @@ fall over
 
 **fall over**: vi.
 
-[IBM] Yet another synonym for `crash <../C/crash.html>`__ or
-`lose <../L/lose.html>`__. ‘Fall over hard’ equates to `crash and
-burn <../C/crash-and-burn.html>`__.
+[IBM] Yet another synonym for `crash <../C.html#crash>`__ or
+`lose <../L.html#lose>`__. ‘Fall over hard’ equates to `crash and
+burn <../C.html#crash-and-burn>`__.
 
 
 fall through
@@ -63,22 +63,22 @@ statement reaches a **case** label other than by jumping there from the
 switch header, passing a point where one would normally expect to find a
 **break**. A trivial example:
 
-| 
-|  switch (color)
-|  {
-|  case GREEN:
-|     do\_green();
-|     break;
-|  case PINK:
-|     do\_pink();
-|     /\* FALL THROUGH \*/
-|  case RED:
-|     do\_red();
-|     break;
-|  default:
-|     do\_blue();
-|     break;
-|  }
+ 
+  switch (color)
+  {
+  case GREEN:
+     do\_green();
+     break;
+  case PINK:
+     do\_pink();
+     /\* FALL THROUGH \*/
+  case RED:
+     do\_red();
+     break;
+  default:
+     do\_blue();
+     break;
+  }
 
 The variant spelling ``/* FALL THRU */`` is also common.
 
@@ -90,7 +90,7 @@ harmful <../C/considered-harmful.html>`__ by some, though there are
 contexts (such as the coding of state machines) in which it is natural;
 it is generally considered good practice to include a comment
 highlighting the fall-through where one would normally expect a break.
-See also `Duff's device <../D/Duffs-device.html>`__.
+See also `Duff's device <../D.html#Duffs-device>`__.
 
 fandango on core
 ==========================
