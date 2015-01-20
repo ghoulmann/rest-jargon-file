@@ -1,14 +1,5 @@
-Chapter 12. Format for New Entries
-
-`Prev <conventions.html>`__ 
-
-Part I. Introduction
-
- `Next <lexicon.html>`__
-
---------------
-
-Chapter 12. Format for New Entries
+----------------------------------
+Format for New Entries
 ----------------------------------
 
 We welcome new jargon, and corrections to or amplifications of existing
@@ -44,11 +35,4 @@ The Jargon File will be regularly maintained and made available for
 browsing on the World Wide Web, and will include a version number. Read
 it, pass it around, contribute — this is *your* monument!
 
---------------
-
-+------------------------------------------+-------------------------+--------------------------------+
-| `Prev <conventions.html>`__              | `Up <pt01.html>`__      |  `Next <lexicon.html>`__       |
-+------------------------------------------+-------------------------+--------------------------------+
-| Chapter 11. Other Lexicon Conventions    | `Home <index.html>`__   |  Part II. The Jargon Lexicon   |
-+------------------------------------------+-------------------------+--------------------------------+
 

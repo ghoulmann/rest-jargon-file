@@ -1,14 +1,5 @@
-Chapter 11. Other Lexicon Conventions
-
-`Prev <pronunciation.html>`__ 
-
-Part I. Introduction
-
- `Next <submitting-new-entries.html>`__
-
---------------
-
-Chapter 11. Other Lexicon Conventions
+-------------------------------------
+Other Lexicon Conventions
 -------------------------------------
 
 Entries are sorted in case-blind ASCII collation order (rather than the
@@ -39,7 +30,7 @@ referred to in any of the entries.
 Various abbreviations used frequently in the lexicon are summarized
 here:
 
-**Table 11.1. Abbreviations**
+**Table 11.1. Abbreviations**
 
 +-----------+--------------------------------------------+
 | abbrev.   | abbreviation                               |
@@ -99,7 +90,7 @@ Where a term can be attributed to a particular subculture or is known to
 have originated there, we have tried to so indicate. Here is a list of
 abbreviations used in etymologies:
 
-**Table 11.2. Origins**
+**Table 11.2. Origins**
 
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Amateur Packet Radio   | A technical culture of ham-radio sites using AX.25 and TCP/IP for wide-area networking and BBS systems.                                                                                                     |
@@ -118,7 +109,7 @@ abbreviations used in etymologies:
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Fairchild              | The Fairchild Instruments Palo Alto development group                                                                                                                                                       |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| FidoNet                | See the `*FidoNet* <F/FidoNet.html>`__ entry                                                                                                                                                                |
+| FidoNet                | See the `FidoNet <F/FidoNet.html>`__ entry                                                                                                                                                                |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | IBM                    | International Business Machines                                                                                                                                                                             |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -146,7 +137,7 @@ abbreviations used in etymologies:
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | UK                     | the United Kingdom (England, Wales, Scotland, Northern Ireland)                                                                                                                                             |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Usenet                 | See the `*Usenet* <U/Usenet.html>`__ entry                                                                                                                                                                  |
+| Usenet                 | See the `Usenet <U/Usenet.html>`__ entry                                                                                                                                                                  |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | WPI                    | Worcester Polytechnic Institute, site of a very active community of PDP-10 hackers during the 1970s                                                                                                         |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -157,8 +148,8 @@ abbreviations used in etymologies:
 | Yale                   | Yale University                                                                                                                                                                                             |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Other etymology abbreviations such as `*Unix* <U/Unix.html>`__ and
-`*PDP-10* <P/PDP-10.html>`__ refer to technical cultures surrounding
+Other etymology abbreviations such as `Unix <U/Unix.html>`__ and
+`PDP-10 <P/PDP-10.html>`__ refer to technical cultures surrounding
 specific operating systems, processors, or other environments. The fact
 that a term is labelled with any one of these abbreviations does not
 necessarily mean its use is confined to that culture. In particular,
@@ -173,11 +164,5 @@ are usually generalizations suggested by editors or Usenet respondents
 in the process of commenting on previous definitions of those entries.
 These are *not* represented as established jargon.
 
---------------
 
-+------------------------------------+-------------------------+-------------------------------------------+
-| `Prev <pronunciation.html>`__      | `Up <pt01.html>`__      |  `Next <submitting-new-entries.html>`__   |
-+------------------------------------+-------------------------+-------------------------------------------+
-| Chapter 10. Pronunciation Guide    | `Home <index.html>`__   |  Chapter 12. Format for New Entries       |
-+------------------------------------+-------------------------+-------------------------------------------+
 

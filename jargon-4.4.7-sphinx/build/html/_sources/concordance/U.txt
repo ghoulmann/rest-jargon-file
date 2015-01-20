@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ===
 U
 ===
@@ -6,265 +5,86 @@ U
 
 UBD
 ====
-
-`Prev <u-.html>`__ 
-
-U
-
- `Next <UBE.html>`__
-=======
-UBD
-
-`Prev <u-.html>`__ 
-
-U
-
- `Next <UBE.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **UBD**: /U·B·D/, n.
 
 [abbreviation for ‘User Brain Damage’] An abbreviation used to close out
 trouble reports obviously due to utter cluelessness on the user's part.
-Compare `*pilot error* <../P/pilot-error.html>`__,
-`*PEBKAC* <../P/PEBKAC.html>`__, `*ID10T* <../I/idiot.html>`__; oppose
-`*PBD* <../P/PBD.html>`__; see also
-`*brain-damaged* <../B/brain-damaged.html>`__.
+Compare `pilot error <../P/pilot-error.html>`__,
+`PEBKAC <../P/PEBKAC.html>`__, `ID10T <../I/idiot.html>`__; oppose
+`PBD <../P/PBD.html>`__; see also
+`brain-damaged <../B/brain-damaged.html>`__.
 
---------------
-
-+-----------------------+----------------------------+------------------------+
-<<<<<<< HEAD
-| `Prev <u-.html>`__    | `Up <../U.html>`__         |  `Next <UBE.html>`__   |
-+-----------------------+----------------------------+------------------------+
-| u-                    | `Home <../index.html>`__   |  UBE                   |
-+-----------------------+----------------------------+------------------------+
+ 
 
 UBE
 ==========
-
-`Prev <UBD.html>`__ 
-
-U
-
- `Next <ubergeek.html>`__
-=======
-| `Prev <u-.html>`__    | `Up <../U.html>`__         |  `Next <UBE.html>`__   |
-+-----------------------+----------------------------+------------------------+
-| u-                    | `Home <../index.html>`__   |  UBE                   |
-+-----------------------+----------------------------+------------------------+
-
-UBE
-
-`Prev <UBD.html>`__ 
-
-U
-
- `Next <ubergeek.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **UBE**: //, n.
 
 [abbrev., Unsolicited Bulk Email] A widespread, more formal term for
-email `*spam* <../S/spam.html>`__. Compare `*UCE* <UCE.html>`__. The UBE
+email `spam <../S/spam.html>`__. Compare `UCE <UCE.html>`__. The UBE
 term recognizes that spam is uttered by nonprofit and advocacy groups
 whose motives are not commercial.
 
---------------
-
-+------------------------+----------------------------+-----------------------------+
-<<<<<<< HEAD
-| `Prev <UBD.html>`__    | `Up <../U.html>`__         |  `Next <ubergeek.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| UBD                    | `Home <../index.html>`__   |  ubergeek                   |
-+------------------------+----------------------------+-----------------------------+
+ 
 
 ubergeek
 =============
 
-`Prev <UBE.html>`__ 
-
-U
-
- `Next <UCE.html>`__
-=======
-| `Prev <UBD.html>`__    | `Up <../U.html>`__         |  `Next <ubergeek.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| UBD                    | `Home <../index.html>`__   |  ubergeek                   |
-+------------------------+----------------------------+-----------------------------+
-
-ubergeek
-
-`Prev <UBE.html>`__ 
-
-U
-
- `Next <UCE.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **ubergeek**: n., /oo´ber·geek/
 
 [common; often spelled with initial ü; from German über +
-`*geek* <../G/geek.html>`__] Almost synonymous with
-`*demigod* <../D/demigod.html>`__; used as a compliment of someone
-regarded as a paragon of `*geek* <../G/geek.html>`__ achievement and
+`geek <../G/geek.html>`__] Almost synonymous with
+`demigod <../D/demigod.html>`__; used as a compliment of someone
+regarded as a paragon of `geek <../G/geek.html>`__ achievement and
 virtue. Has partially replaced earlier
-`*demigod* <../D/demigod.html>`__.
-
---------------
-
-+------------------------+----------------------------+------------------------+
-<<<<<<< HEAD
-| `Prev <UBE.html>`__    | `Up <../U.html>`__         |  `Next <UCE.html>`__   |
-+------------------------+----------------------------+------------------------+
-| UBE                    | `Home <../index.html>`__   |  UCE                   |
-+------------------------+----------------------------+------------------------+
+`demigod <../D/demigod.html>`__.
+ 
 
 UCE
 =================
 
-`Prev <ubergeek.html>`__ 
-
-U
-
- `Next <UDP.html>`__
-=======
-| `Prev <UBE.html>`__    | `Up <../U.html>`__         |  `Next <UCE.html>`__   |
-+------------------------+----------------------------+------------------------+
-| UBE                    | `Home <../index.html>`__   |  UCE                   |
-+------------------------+----------------------------+------------------------+
-
-UCE
-
-`Prev <ubergeek.html>`__ 
-
-U
-
- `Next <UDP.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **UCE**: n.
 
 [abbrev., Unsolicited Commercial Email] A widespread, more formal term
-for email `*spam* <../S/spam.html>`__. Compare `*UBE* <UBE.html>`__,
+for email `spam <../S/spam.html>`__. Compare `UBE <UBE.html>`__,
 which may be superseding it.
 
---------------
-
-+-----------------------------+----------------------------+------------------------+
-<<<<<<< HEAD
-| `Prev <ubergeek.html>`__    | `Up <../U.html>`__         |  `Next <UDP.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| ubergeek                    | `Home <../index.html>`__   |  UDP                   |
-+-----------------------------+----------------------------+------------------------+
-
+ 
 UDP
 ============
-
-`Prev <UCE.html>`__ 
-
-U
-
- `Next <UN-asterisk-X.html>`__
-=======
-| `Prev <ubergeek.html>`__    | `Up <../U.html>`__         |  `Next <UDP.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| ubergeek                    | `Home <../index.html>`__   |  UDP                   |
-+-----------------------------+----------------------------+------------------------+
-
-UDP
-
-`Prev <UCE.html>`__ 
-
-U
-
- `Next <UN-asterisk-X.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **UDP**: /U·D·P/, v.,n.
 
-[Usenet] Abbreviation for `*Usenet Death
-Penalty* <Usenet-Death-Penalty.html>`__. Common (probably now more so
+[Usenet] Abbreviation for `Usenet Death
+Penalty <Usenet-Death-Penalty.html>`__. Common (probably now more so
 than the full form), and frequently verbed. Compare
-`*IDP* <../I/IDP.html>`__.
-
---------------
-
-+------------------------+----------------------------+----------------------------------+
-<<<<<<< HEAD
-| `Prev <UCE.html>`__    | `Up <../U.html>`__         |  `Next <UN-asterisk-X.html>`__   |
-+------------------------+----------------------------+----------------------------------+
-| UCE                    | `Home <../index.html>`__   |  UN\*X                           |
-=======
-| `Prev <UCE.html>`__    | `Up <../U.html>`__         |  `Next <UN-asterisk-X.html>`__   |
-+------------------------+----------------------------+----------------------------------+
-| UCE                    | `Home <../index.html>`__   |  UN\*X                           |
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-+------------------------+----------------------------+----------------------------------+
+`IDP <../I/IDP.html>`__.
+ 
 
 u-
-
-<<<<<<< HEAD
-`Prev <../U.html>`__ 
-
-U
-
- `Next <UBD.html>`__
-=======
-`Prev <../U.html>`__ 
-
-U
-
- `Next <UBD.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+=========
+ 
 
 **u-**: pref.
 
-Written shorthand for `*micro-* <../M/micro-.html>`__; techspeak when
+Written shorthand for `micro- <../M/micro-.html>`__; techspeak when
 applied to metric units, jargon when used otherwise. Derived from the
 Greek letter µ the first letter of “micro” (and which letter looks a lot
 like the English letter “u”).
-
---------------
-
-+-------------------------+----------------------------+------------------------+
-<<<<<<< HEAD
-| `Prev <../U.html>`__    | `Up <../U.html>`__         |  `Next <UBD.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| U                       | `Home <../index.html>`__   |  UBD                   |
-+-------------------------+----------------------------+------------------------+
+ 
 
 UN*X
 
 
-=======
-| `Prev <../U.html>`__    | `Up <../U.html>`__         |  `Next <UBD.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| U                       | `Home <../index.html>`__   |  UBD                   |
-+-------------------------+----------------------------+------------------------+
-
-UN\*X
-
-`Prev <UDP.html>`__ 
-
-U
-
- `Next <undefined-external-reference.html>`__
-
---------------
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
 
 **UN\*X**: n.
 
@@ -272,78 +92,30 @@ Used to refer to the Unix operating system (a trademark of AT&T, then of
 Novell, then of Unix Systems Laboratories, then of the Open Group; the
 source code parted company with it after Novell and was owned by SCO,
 which was acquired by Caldera) in writing, but avoiding the need for the
-ugly ™ typography (see also `*(TM)* <../0/TM.html>`__). Also used to
+ugly ™ typography (see also `(TM) <../0/TM.html>`__). Also used to
 refer to any or all varieties of Unixoid operating systems. Ironically,
 lawyers now say that the requirement for the trademark postfix has no
 legal force, but the asterisk usage is entrenched anyhow. It has been
 suggested that there may be a psychological connection to practice in
 certain religions (especially Judaism) in which the name of the deity is
 never written out in full, e.g., ‘YHWH’ or ‘G--d’ is used. See also
-`*glob* <../G/glob.html>`__ and `*splat out* <../S/splat-out.html>`__.
+`glob <../G/glob.html>`__ and `splat out <../S/splat-out.html>`__.
 
-<<<<<<< HEAD
 
 undefined external reference
 =============================
 
-=======
---------------
-
-+------------------------+----------------------------+-------------------------------------------------+
-| `Prev <UDP.html>`__    | `Up <../U.html>`__         |  `Next <undefined-external-reference.html>`__   |
-+------------------------+----------------------------+-------------------------------------------------+
-| UDP                    | `Home <../index.html>`__   |  undefined external reference                   |
-+------------------------+----------------------------+-------------------------------------------------+
-
-undefined external reference
-
-`Prev <UN-asterisk-X.html>`__ 
-
-U
-
- `Next <under-the-hood.html>`__
-
---------------
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
 
 **undefined external reference**: excl.
 
 [Unix] A message from Unix's linker. Used in speech to flag loose ends
 or dangling references in an argument or discussion.
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------------+
-<<<<<<< HEAD
-| `Prev <UN-asterisk-X.html>`__    | `Up <../U.html>`__         |  `Next <under-the-hood.html>`__   |
-+----------------------------------+----------------------------+-----------------------------------+
-| UN\*X                            | `Home <../index.html>`__   |  under the hood                   |
-+----------------------------------+----------------------------+-----------------------------------+
+ 
 
 under the hood
 ==================
-
-`Prev <undefined-external-reference.html>`__ 
-
-U
-
- `Next <undocumented-feature.html>`__
-=======
-| `Prev <UN-asterisk-X.html>`__    | `Up <../U.html>`__         |  `Next <under-the-hood.html>`__   |
-+----------------------------------+----------------------------+-----------------------------------+
-| UN\*X                            | `Home <../index.html>`__   |  under the hood                   |
-+----------------------------------+----------------------------+-----------------------------------+
-
-under the hood
-
-`Prev <undefined-external-reference.html>`__ 
-
-U
-
- `Next <undocumented-feature.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **under the hood**: adj.
 
@@ -352,7 +124,7 @@ U
 1. Used to introduce the underlying implementation of a product
 (hardware, software, or idea). Implies that the implementation is not
 intuitively obvious from the appearance, but the speaker is about to
-enable the listener to `*grok* <../G/grok.html>`__ it. “Let's now look
+enable the listener to `grok <../G/grok.html>`__ it. “Let's now look
 under the hood to see how ....”
 
 2. Can also imply that the implementation is much simpler than the
@@ -361,83 +133,25 @@ shell.”
 
 3. Inside a chassis, as in “Under the hood, this baby has a 40MHz
 68030!”
-
---------------
-
-+-------------------------------------------------+----------------------------+-----------------------------------------+
-<<<<<<< HEAD
-| `Prev <undefined-external-reference.html>`__    | `Up <../U.html>`__         |  `Next <undocumented-feature.html>`__   |
-+-------------------------------------------------+----------------------------+-----------------------------------------+
-| undefined external reference                    | `Home <../index.html>`__   |  undocumented feature                   |
-+-------------------------------------------------+----------------------------+-----------------------------------------+
-
+ 
 undocumented feature
 =====================
-
-`Prev <under-the-hood.html>`__ 
-
-U
-
- `Next <uninteresting.html>`__
-=======
-| `Prev <undefined-external-reference.html>`__    | `Up <../U.html>`__         |  `Next <undocumented-feature.html>`__   |
-+-------------------------------------------------+----------------------------+-----------------------------------------+
-| undefined external reference                    | `Home <../index.html>`__   |  undocumented feature                   |
-+-------------------------------------------------+----------------------------+-----------------------------------------+
-
-undocumented feature
-
-`Prev <under-the-hood.html>`__ 
-
-U
-
- `Next <uninteresting.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **undocumented feature**: n.
 
-See `*feature* <../F/feature.html>`__.
+See `feature <../F/feature.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+----------------------------------+
-<<<<<<< HEAD
-| `Prev <under-the-hood.html>`__    | `Up <../U.html>`__         |  `Next <uninteresting.html>`__   |
-+-----------------------------------+----------------------------+----------------------------------+
-| under the hood                    | `Home <../index.html>`__   |  uninteresting                   |
-+-----------------------------------+----------------------------+----------------------------------+
+ 
 
 uninteresting
 =================
-
-`Prev <undocumented-feature.html>`__ 
-
-U
-
- `Next <Unix.html>`__
-=======
-| `Prev <under-the-hood.html>`__    | `Up <../U.html>`__         |  `Next <uninteresting.html>`__   |
-+-----------------------------------+----------------------------+----------------------------------+
-| under the hood                    | `Home <../index.html>`__   |  uninteresting                   |
-+-----------------------------------+----------------------------+----------------------------------+
-
-uninteresting
-
-`Prev <undocumented-feature.html>`__ 
-
-U
-
- `Next <Unix.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **uninteresting**: adj.
 
 1. Said of a problem that, although
-`*nontrivial* <../N/nontrivial.html>`__, can be solved simply by
+`nontrivial <../N/nontrivial.html>`__, can be solved simply by
 throwing sufficient resources at it.
 
 2. Also said of problems for which a solution would neither advance the
@@ -445,48 +159,21 @@ state of the art nor be fun to design and code.
 
 Hackers regard uninteresting problems as intolerable wastes of time, to
 be solved (if at all) by lesser mortals. *Real* hackers (see
-`*toolsmith* <../T/toolsmith.html>`__) generalize uninteresting problems
+`toolsmith <../T/toolsmith.html>`__) generalize uninteresting problems
 enough to make them interesting and solve them — thus solving the
 original problem as a special case (and, it must be admitted,
 occasionally turning a molehill into a mountain, or a mountain into a
-tectonic plate). See `*WOMBAT* <../W/WOMBAT.html>`__,
-`*SMOP* <../S/SMOP.html>`__; compare `*toy
-problem* <../T/toy-problem.html>`__, oppose
-`*interesting* <../I/interesting.html>`__.
+tectonic plate). See `WOMBAT <../W/WOMBAT.html>`__,
+`SMOP <../S/SMOP.html>`__; compare `toy
+problem <../T/toy-problem.html>`__, oppose
+`interesting <../I/interesting.html>`__.
 
---------------
-
-+-----------------------------------------+----------------------------+-------------------------+
-<<<<<<< HEAD
-| `Prev <undocumented-feature.html>`__    | `Up <../U.html>`__         |  `Next <Unix.html>`__   |
-+-----------------------------------------+----------------------------+-------------------------+
-| undocumented feature                    | `Home <../index.html>`__   |  Unix                   |
-+-----------------------------------------+----------------------------+-------------------------+
+ 
 
 Unix brain damage
 ==================
-
-`Prev <Unix.html>`__ 
-
-U
-
- `Next <Unix-conspiracy.html>`__
-=======
-| `Prev <undocumented-feature.html>`__    | `Up <../U.html>`__         |  `Next <Unix.html>`__   |
-+-----------------------------------------+----------------------------+-------------------------+
-| undocumented feature                    | `Home <../index.html>`__   |  Unix                   |
-+-----------------------------------------+----------------------------+-------------------------+
-
-Unix brain damage
-
-`Prev <Unix.html>`__ 
-
-U
-
- `Next <Unix-conspiracy.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
+ 
 
 **Unix brain damage**: n.
 
@@ -499,50 +186,22 @@ not. Unix brain damage happens because it is much easier for other
 than it is to change all the hundreds of thousands of Unix systems out
 there.
 
-An example of Unix brain damage is a `*kluge* <../K/kluge.html>`__ in a
+An example of Unix brain damage is a `kluge <../K/kluge.html>`__ in a
 mail server to recognize bare line feed (the Unix newline) as an
 equivalent form to the Internet standard newline, which is a carriage
 return followed by a line feed. Such things can make even a hardened
-`*jock* <../J/jock.html>`__ weep.
+`jock <../J/jock.html>`__ weep.
 
---------------
-
-+-------------------------+----------------------------+------------------------------------+
-<<<<<<< HEAD
-| `Prev <Unix.html>`__    | `Up <../U.html>`__         |  `Next <Unix-conspiracy.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
-| Unix                    | `Home <../index.html>`__   |  Unix conspiracy                   |
-+-------------------------+----------------------------+------------------------------------+
+ 
 
 Unix conspiracy
 =================
-
-`Prev <Unix-brain-damage.html>`__ 
-
-U
-
- `Next <Unix-weenie.html>`__
-=======
-| `Prev <Unix.html>`__    | `Up <../U.html>`__         |  `Next <Unix-conspiracy.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
-| Unix                    | `Home <../index.html>`__   |  Unix conspiracy                   |
-+-------------------------+----------------------------+------------------------------------+
-
-Unix conspiracy
-
-`Prev <Unix-brain-damage.html>`__ 
-
-U
-
- `Next <Unix-weenie.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **Unix conspiracy**: n.
 
 [ITS] According to a conspiracy theory long popular among
-`*ITS* <../I/ITS.html>`__ and `*TOPS-20* <../T/TOPS-20.html>`__ fans,
+`ITS <../I/ITS.html>`__ and `TOPS-20 <../T/TOPS-20.html>`__ fans,
 Unix's growth is the result of a plot, hatched during the 1970s at Bell
 Labs, whose intent was to hobble AT&T's competitors by making them
 dependent upon a system whose future evolution was to be under AT&T's
@@ -550,55 +209,26 @@ control. This would be accomplished by disseminating an operating system
 that is apparently inexpensive and easily portable, but also relatively
 unreliable and insecure (so as to require continuing upgrades from
 AT&T). This theory was lent a substantial impetus in 1984 by the paper
-referenced in the `*back door* <../B/back-door.html>`__ entry.
+referenced in the `back door <../B/back-door.html>`__ entry.
 
 In this view, Unix was designed to be one of the first computer viruses
-(see `*virus* <../V/virus.html>`__) — but a virus spread to computers
+(see `virus <../V/virus.html>`__) — but a virus spread to computers
 indirectly by people and market forces, rather than directly through
 disks and networks. Adherents of this ‘Unix virus’ theory like to cite
 the fact that the well-known quotation “Unix is snake oil” was uttered
-by `*DEC* <../D/DEC.html>`__ president Kenneth Olsen shortly before DEC
+by `DEC <../D/DEC.html>`__ president Kenneth Olsen shortly before DEC
 began actively promoting its own family of Unix workstations. (Olsen now
 claims to have been misquoted.)
 
 If there was ever such a conspiracy, it got thoroughly out of the
 plotters' control after 1990. AT&T sold its Unix operation to Novell
-around the same time `*Linux* <../L/Linux.html>`__ and other free-Unix
+around the same time `Linux <../L/Linux.html>`__ and other free-Unix
 distributions were beginning to make noise.
-
---------------
-
-+--------------------------------------+----------------------------+--------------------------------+
-<<<<<<< HEAD
-| `Prev <Unix-brain-damage.html>`__    | `Up <../U.html>`__         |  `Next <Unix-weenie.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------+
-| Unix brain damage                    | `Home <../index.html>`__   |  Unix weenie                   |
-+--------------------------------------+----------------------------+--------------------------------+
+ 
 
 Unix
 =============
-
-`Prev <uninteresting.html>`__ 
-
-U
-
- `Next <Unix-brain-damage.html>`__
-=======
-| `Prev <Unix-brain-damage.html>`__    | `Up <../U.html>`__         |  `Next <Unix-weenie.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------+
-| Unix brain damage                    | `Home <../index.html>`__   |  Unix weenie                   |
-+--------------------------------------+----------------------------+--------------------------------+
-
-Unix
-
-`Prev <uninteresting.html>`__ 
-
-U
-
- `Next <Unix-brain-damage.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+  
 
 **Unix**: /yoo´niks/, n.
 
@@ -613,14 +243,14 @@ Unix subsequently underwent mutations and expansions at the hands of
 many different people, resulting in a uniquely flexible and
 developer-friendly environment. By 1991, Unix had become the most widely
 used multiuser general-purpose operating system in the world — and since
-1996 the variant called `*Linux* <../L/Linux.html>`__ has been at the
-cutting edge of the `*open source* <../O/open-source.html>`__ movement.
+1996 the variant called `Linux <../L/Linux.html>`__ has been at the
+cutting edge of the `open source <../O/open-source.html>`__ movement.
 Many people consider the success of Unix the most important victory yet
-of hackerdom over industry opposition (but see `*Unix
-weenie* <Unix-weenie.html>`__ and `*Unix
-conspiracy* <Unix-conspiracy.html>`__ for an opposing point of view).
-See `*Version 7* <../V/Version-7.html>`__, `*BSD* <../B/BSD.html>`__,
-`*Linux* <../L/Linux.html>`__.
+of hackerdom over industry opposition (but see `Unix
+weenie <Unix-weenie.html>`__ and `Unix
+conspiracy <Unix-conspiracy.html>`__ for an opposing point of view).
+See `Version 7 <../V/Version-7.html>`__, `BSD <../B/BSD.html>`__,
+`Linux <../L/Linux.html>`__.
 
 |image0|
 
@@ -630,7 +260,7 @@ Some people are confused over whether this word is appropriately ‘UNIX’
 or ‘Unix’; both forms are common, and used interchangeably. Dennis
 Ritchie says that the ‘UNIX’ spelling originally happened in CACM's 1974
 paper *The UNIX Time-Sharing System* because “we had a new typesetter
-and `*troff* <../T/troff.html>`__ had just been invented and we were
+and `troff <../T/troff.html>`__ had just been invented and we were
 intoxicated by being able to produce small caps.” Later, dmr tried to
 get the spelling changed to ‘Unix’ in a couple of Bell Labs papers, on
 the grounds that the word is not acronymic. He failed, and eventually
@@ -638,92 +268,34 @@ the grounds that the word is not acronymic. He failed, and eventually
 ‘UNIX’, both capitalizations are grounded in ancient usage; the Jargon
 File uses ‘Unix’ in deference to dmr's wishes.
 
---------------
-
-+----------------------------------+----------------------------+--------------------------------------+
-<<<<<<< HEAD
-| `Prev <uninteresting.html>`__    | `Up <../U.html>`__         |  `Next <Unix-brain-damage.html>`__   |
-+----------------------------------+----------------------------+--------------------------------------+
-| uninteresting                    | `Home <../index.html>`__   |  Unix brain damage                   |
-+----------------------------------+----------------------------+--------------------------------------+
+ 
 
 .. |image0| image:: ../graphics/richiethompson.jpg
 
 unixism
 =========
-
-`Prev <Unix-weenie.html>`__ 
-
-U
-
- `Next <unswizzle.html>`__
-=======
-| `Prev <uninteresting.html>`__    | `Up <../U.html>`__         |  `Next <Unix-brain-damage.html>`__   |
-+----------------------------------+----------------------------+--------------------------------------+
-| uninteresting                    | `Home <../index.html>`__   |  Unix brain damage                   |
-+----------------------------------+----------------------------+--------------------------------------+
-
-.. |image0| image:: ../graphics/richiethompson.jpg
-unixism
-
-`Prev <Unix-weenie.html>`__ 
-
-U
-
- `Next <unswizzle.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **unixism**: n.
 
 A piece of code or a coding technique that depends on the protected
 multi-tasking environment with relatively low process-spawn overhead
 that exists on virtual-memory Unix systems. Common
-`*unixism* <unixism.html>`__\ s include: gratuitous use of fork(2); the
+`unixism <unixism.html>`__\ s include: gratuitous use of fork(2); the
 assumption that certain undocumented but well-known features of Unix
 libraries such as stdio(3) are supported elsewhere; reliance on
-`*obscure* <../O/obscure.html>`__ side-effects of system calls (use of
+`obscure <../O/obscure.html>`__ side-effects of system calls (use of
 sleep(2) with a 0 argument to clue the scheduler that you're willing to
 give up your time-slice, for example); the assumption that freshly
 allocated memory is zeroed; and the assumption that fragmentation
 problems won't arise from never free()ing memory. Compare
-`*vaxocentrism* <../V/vaxocentrism.html>`__; see also `*New
-Jersey* <../N/New-Jersey.html>`__.
-
---------------
-
-+--------------------------------+----------------------------+------------------------------+
-<<<<<<< HEAD
-| `Prev <Unix-weenie.html>`__    | `Up <../U.html>`__         |  `Next <unswizzle.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| Unix weenie                    | `Home <../index.html>`__   |  unswizzle                   |
-+--------------------------------+----------------------------+------------------------------+
+`vaxocentrism <../V/vaxocentrism.html>`__; see also `New
+Jersey <../N/New-Jersey.html>`__.
+ 
 
 Unix weenie
 =============
-
-`Prev <Unix-conspiracy.html>`__ 
-
-U
-
- `Next <unixism.html>`__
-=======
-| `Prev <Unix-weenie.html>`__    | `Up <../U.html>`__         |  `Next <unswizzle.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| Unix weenie                    | `Home <../index.html>`__   |  unswizzle                   |
-+--------------------------------+----------------------------+------------------------------+
-
-Unix weenie
-
-`Prev <Unix-conspiracy.html>`__ 
-
-U
-
- `Next <unixism.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **Unix weenie**: n.
 
@@ -740,81 +312,24 @@ been written by a real Unix weenie.”
 
 2. A derogatory term for anyone who engages in uncritical praise of
 Unix. Often appearing in the context “stupid Unix weenie”. See
-`*Weenix* <../W/Weenix.html>`__, `*Unix
-conspiracy* <Unix-conspiracy.html>`__. See also
-`*weenie* <../W/weenie.html>`__.
+`Weenix <../W/Weenix.html>`__, `Unix
+conspiracy <Unix-conspiracy.html>`__. See also
+`weenie <../W/weenie.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-<<<<<<< HEAD
-| `Prev <Unix-conspiracy.html>`__    | `Up <../U.html>`__         |  `Next <unixism.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| Unix conspiracy                    | `Home <../index.html>`__   |  unixism                   |
-+------------------------------------+----------------------------+----------------------------+
+ 
 
 unswizzle
 ============
-
-`Prev <unixism.html>`__ 
-
-U
-
- `Next <unwind-the-stack.html>`__
-=======
-| `Prev <Unix-conspiracy.html>`__    | `Up <../U.html>`__         |  `Next <unixism.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| Unix conspiracy                    | `Home <../index.html>`__   |  unixism                   |
-+------------------------------------+----------------------------+----------------------------+
-
-unswizzle
-
-`Prev <unixism.html>`__ 
-
-U
-
- `Next <unwind-the-stack.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **unswizzle**: v.
 
-See `*swizzle* <../S/swizzle.html>`__.
-
---------------
-
-+----------------------------+----------------------------+-------------------------------------+
-<<<<<<< HEAD
-| `Prev <unixism.html>`__    | `Up <../U.html>`__         |  `Next <unwind-the-stack.html>`__   |
-+----------------------------+----------------------------+-------------------------------------+
-| unixism                    | `Home <../index.html>`__   |  unwind the stack                   |
-+----------------------------+----------------------------+-------------------------------------+
+See `swizzle <../S/swizzle.html>`__.
+ 
 
 unwind-protect
 ===============
-
-`Prev <unwind-the-stack.html>`__ 
-
-U
-
- `Next <up.html>`__
-=======
-| `Prev <unixism.html>`__    | `Up <../U.html>`__         |  `Next <unwind-the-stack.html>`__   |
-+----------------------------+----------------------------+-------------------------------------+
-| unixism                    | `Home <../index.html>`__   |  unwind the stack                   |
-+----------------------------+----------------------------+-------------------------------------+
-
-unwind-protect
-
-`Prev <unwind-the-stack.html>`__ 
-
-U
-
- `Next <up.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **unwind-protect**: n.
 
@@ -822,39 +337,11 @@ U
 perform before you leave a place or finish a project. “I have an
 unwind-protect to call my advisor.”
 
---------------
-
-+-------------------------------------+----------------------------+-----------------------+
-<<<<<<< HEAD
-| `Prev <unwind-the-stack.html>`__    | `Up <../U.html>`__         |  `Next <up.html>`__   |
-+-------------------------------------+----------------------------+-----------------------+
-| unwind the stack                    | `Home <../index.html>`__   |  up                   |
-+-------------------------------------+----------------------------+-----------------------+
+ 
 
 unwind the stack
 ===================
-
-`Prev <unswizzle.html>`__ 
-
-U
-
- `Next <unwind-protect.html>`__
-=======
-| `Prev <unwind-the-stack.html>`__    | `Up <../U.html>`__         |  `Next <up.html>`__   |
-+-------------------------------------+----------------------------+-----------------------+
-| unwind the stack                    | `Home <../index.html>`__   |  up                   |
-+-------------------------------------+----------------------------+-----------------------+
-
-unwind the stack
-
-`Prev <unswizzle.html>`__ 
-
-U
-
- `Next <unwind-protect.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **unwind the stack**: vi.
 
@@ -863,89 +350,33 @@ said to unwind the stack from a called procedure up to a caller when one
 discards the stack frame and any number of frames above it, popping back
 up to the level of the given caller. In C this is done with
 **longjmp**/**setjmp**, in LISP or C++ with **throw/catch**. See also
-`*smash the stack* <../S/smash-the-stack.html>`__.
+`smash the stack <../S/smash-the-stack.html>`__.
 
 2. People can unwind the stack as well, by quickly dealing with a bunch
 of problems: “Oh heck, let's do lunch. Just a second while I unwind my
 stack.”
-
---------------
-
-+------------------------------+----------------------------+-----------------------------------+
-<<<<<<< HEAD
-| `Prev <unswizzle.html>`__    | `Up <../U.html>`__         |  `Next <unwind-protect.html>`__   |
-+------------------------------+----------------------------+-----------------------------------+
-| unswizzle                    | `Home <../index.html>`__   |  unwind-protect                   |
-+------------------------------+----------------------------+-----------------------------------+
+ 
 
 up
 ==========
 
-`Prev <unwind-protect.html>`__ 
-
-U
-
- `Next <upload.html>`__
-=======
-| `Prev <unswizzle.html>`__    | `Up <../U.html>`__         |  `Next <unwind-protect.html>`__   |
-+------------------------------+----------------------------+-----------------------------------+
-| unswizzle                    | `Home <../index.html>`__   |  unwind-protect                   |
-+------------------------------+----------------------------+-----------------------------------+
-
-up
-
-`Prev <unwind-protect.html>`__ 
-
-U
-
- `Next <upload.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **up**: adj.
 
 1. Working, in order. “The down escalator is up.” Oppose
-`*down* <../D/down.html>`__.
+`down <../D/down.html>`__.
 
 2. bring up: vt. To create a working version and start it. “They brought
 up a down system.”
 
 3. come up vi. To become ready for production use.
 
---------------
-
-+-----------------------------------+----------------------------+---------------------------+
-<<<<<<< HEAD
-| `Prev <unwind-protect.html>`__    | `Up <../U.html>`__         |  `Next <upload.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| unwind-protect                    | `Home <../index.html>`__   |  upload                   |
-+-----------------------------------+----------------------------+---------------------------+
+ 
 
 upload
 ===========
-
-`Prev <up.html>`__ 
-
-U
-
- `Next <upstream.html>`__
-=======
-| `Prev <unwind-protect.html>`__    | `Up <../U.html>`__         |  `Next <upload.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| unwind-protect                    | `Home <../index.html>`__   |  upload                   |
-+-----------------------------------+----------------------------+---------------------------+
-
-upload
-
-`Prev <up.html>`__ 
-
-U
-
- `Next <upstream.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **upload**: /uhp´lohd/, v.
 
@@ -953,47 +384,17 @@ U
 communications link from a system near you (especially a smaller or
 peripheral client system) to one further away from you (especially a
 larger or central host system). A transfer in the other direction is, of
-course, called a `*download* <../D/download.html>`__
+course, called a `download <../D/download.html>`__
 
 2. [speculatively] To move the essential patterns and algorithms that
 make up one's mind from one's brain into a computer. Those who are
 convinced that such patterns and algorithms capture the complete essence
 of the self view this prospect with pleasant anticipation.
-
---------------
-
-+-----------------------+----------------------------+-----------------------------+
-<<<<<<< HEAD
-| `Prev <up.html>`__    | `Up <../U.html>`__         |  `Next <upstream.html>`__   |
-+-----------------------+----------------------------+-----------------------------+
-| up                    | `Home <../index.html>`__   |  upstream                   |
-+-----------------------+----------------------------+-----------------------------+
+ 
 
 upstream
 ==============
-
-`Prev <upload.html>`__ 
-
-U
-
- `Next <upthread.html>`__
-=======
-| `Prev <up.html>`__    | `Up <../U.html>`__         |  `Next <upstream.html>`__   |
-+-----------------------+----------------------------+-----------------------------+
-| up                    | `Home <../index.html>`__   |  upstream                   |
-+-----------------------+----------------------------+-----------------------------+
-
-upstream
-
-`Prev <upload.html>`__ 
-
-U
-
- `Next <upthread.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
-
+ 
 **upstream**: adj.
 
 [common] Towards the original author(s) or maintainer(s) of a project.
@@ -1005,80 +406,23 @@ maintainer receives a bug report or patch, he may choose to retain the
 patch as a porting tweak to the distribution's derivative of the
 project, or to pass it upstream to the project's maintainer. The antonym
 downstream is rare.
-
---------------
-
-+---------------------------+----------------------------+-----------------------------+
-<<<<<<< HEAD
-| `Prev <upload.html>`__    | `Up <../U.html>`__         |  `Next <upthread.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| upload                    | `Home <../index.html>`__   |  upthread                   |
-+---------------------------+----------------------------+-----------------------------+
+ 
 
 upthread
 ===========
-
-`Prev <upstream.html>`__ 
-
-U
-
- `Next <uptime.html>`__
-=======
-| `Prev <upload.html>`__    | `Up <../U.html>`__         |  `Next <upthread.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| upload                    | `Home <../index.html>`__   |  upthread                   |
-+---------------------------+----------------------------+-----------------------------+
-
-upthread
-
-`Prev <upstream.html>`__ 
-
-U
-
- `Next <uptime.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **upthread**: adv.
 
-Earlier in the discussion (see `*thread* <../T/thread.html>`__), i.e.,
+Earlier in the discussion (see `thread <../T/thread.html>`__), i.e.,
 ‘above’. “As Joe pointed out upthread, ...” See also
-`*followup* <../F/followup.html>`__.
+`followup <../F/followup.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-<<<<<<< HEAD
-| `Prev <upstream.html>`__    | `Up <../U.html>`__         |  `Next <uptime.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| upstream                    | `Home <../index.html>`__   |  uptime                   |
-+-----------------------------+----------------------------+---------------------------+
+ 
 
 uptime
 ===================
-
-`Prev <upthread.html>`__ 
-
-U
-
- `Next <urchin.html>`__
-=======
-| `Prev <upstream.html>`__    | `Up <../U.html>`__         |  `Next <uptime.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| upstream                    | `Home <../index.html>`__   |  uptime                   |
-+-----------------------------+----------------------------+---------------------------+
-
-uptime
-
-`Prev <upthread.html>`__ 
-
-U
-
- `Next <urchin.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **uptime**: n.
 
@@ -1089,77 +433,19 @@ course, a reference to the uptime command and the pride with which most
 Unix types note how long their computers go without reboots. Uptime is a
 testament to the stability of the OS and the stamina of the hacker.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-<<<<<<< HEAD
-| `Prev <upthread.html>`__    | `Up <../U.html>`__         |  `Next <urchin.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| upthread                    | `Home <../index.html>`__   |  urchin                   |
-+-----------------------------+----------------------------+---------------------------+
+ 
 
 urchin
 ==============
-
-`Prev <uptime.html>`__ 
-
-U
-
- `Next <URL.html>`__
-=======
-| `Prev <upthread.html>`__    | `Up <../U.html>`__         |  `Next <urchin.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| upthread                    | `Home <../index.html>`__   |  urchin                   |
-+-----------------------------+----------------------------+---------------------------+
-
-urchin
-
-`Prev <uptime.html>`__ 
-
-U
-
- `Next <URL.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **urchin**: n.
 
-See `*munchkin* <../M/munchkin.html>`__.
-
---------------
-
-+---------------------------+----------------------------+------------------------+
-<<<<<<< HEAD
-| `Prev <uptime.html>`__    | `Up <../U.html>`__         |  `Next <URL.html>`__   |
-+---------------------------+----------------------------+------------------------+
-| uptime                    | `Home <../index.html>`__   |  URL                   |
-+---------------------------+----------------------------+------------------------+
-
+See `munchkin <../M/munchkin.html>`__.
+ 
 URL
 ==============
-
-`Prev <urchin.html>`__ 
-
-U
-
- `Next <Usenet.html>`__
-=======
-| `Prev <uptime.html>`__    | `Up <../U.html>`__         |  `Next <URL.html>`__   |
-+---------------------------+----------------------------+------------------------+
-| uptime                    | `Home <../index.html>`__   |  URL                   |
-+---------------------------+----------------------------+------------------------+
-
-URL
-
-`Prev <urchin.html>`__ 
-
-U
-
- `Next <Usenet.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **URL**: /U·R·L/, /erl/, n.
 
@@ -1167,99 +453,40 @@ Uniform Resource Locator, an address widget that identifies a document
 or resource on the World Wide Web. This entry is here primarily to
 record the fact that the term is commonly pronounced both /erl/, and
 /U-R-L/ (the latter predominates in more formal contexts).
-
---------------
-
-+---------------------------+----------------------------+---------------------------+
-<<<<<<< HEAD
-| `Prev <urchin.html>`__    | `Up <../U.html>`__         |  `Next <Usenet.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| urchin                    | `Home <../index.html>`__   |  Usenet                   |
-+---------------------------+----------------------------+---------------------------+
-
+ 
 Usenet Death Penalty
 =========================
 
-`Prev <Usenet.html>`__ 
-
-U
-
- `Next <user.html>`__
-=======
-| `Prev <urchin.html>`__    | `Up <../U.html>`__         |  `Next <Usenet.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| urchin                    | `Home <../index.html>`__   |  Usenet                   |
-+---------------------------+----------------------------+---------------------------+
-
-Usenet Death Penalty
-
-`Prev <Usenet.html>`__ 
-
-U
-
- `Next <user.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **Usenet Death Penalty**
 
 [Usenet] A sanction against sites that habitually spew Usenet
-`*spam* <../S/spam.html>`__. This can be either passive or active. A
+`spam <../S/spam.html>`__. This can be either passive or active. A
 passive UDP refers to the dropping of all postings by a particular
 domain so as to inhibit propagation. An active UDP refers to third-party
 cancellation of all postings by the UDPed domain. A partial UDP is one
 which applies only to certain newsgroups or hierarchies in Usenet.
-Compare `*Internet Death Penalty* <../I/Internet-Death-Penalty.html>`__,
+Compare `Internet Death Penalty <../I/Internet-Death-Penalty.html>`__,
 with which this term is sometimes confused.
-
---------------
-
-+---------------------------+----------------------------+-------------------------+
-<<<<<<< HEAD
-| `Prev <Usenet.html>`__    | `Up <../U.html>`__         |  `Next <user.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| Usenet                    | `Home <../index.html>`__   |  user                   |
-+---------------------------+----------------------------+-------------------------+
-
+ 
 Usenet
 ================
-
-`Prev <URL.html>`__ 
-
-U
-
- `Next <Usenet-Death-Penalty.html>`__
-=======
-| `Prev <Usenet.html>`__    | `Up <../U.html>`__         |  `Next <user.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| Usenet                    | `Home <../index.html>`__   |  user                   |
-+---------------------------+----------------------------+-------------------------+
-
-Usenet
-
-`Prev <URL.html>`__ 
-
-U
-
- `Next <Usenet-Death-Penalty.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **Usenet**: /yoos´net/, /yooz´net/, n.
 
 [from ‘Users' Network’; the original spelling was USENET, but the
 mixed-case form is now widely preferred] A distributed
-`*bboard* <../B/bboard.html>`__ (bulletin board) system supported mainly
+`bboard <../B/bboard.html>`__ (bulletin board) system supported mainly
 by Unix machines. Originally implemented in 1979--1980 by Steve
 Bellovin, Jim Ellis, Tom Truscott, and Steve Daniel at Duke University
 and the University of North Carolina, it has swiftly grown to become
 international in scope and is now probably the largest decentralized
 information utility in existence. As of late 2002, it hosts over 100,000
-`*newsgroup* <../N/newsgroup.html>`__\ s and an unguessably huge volume
+`newsgroup <../N/newsgroup.html>`__\ s and an unguessably huge volume
 of new technical articles, news, discussion, chatter, and
-`*flamage* <../F/flamage.html>`__ every day (and that leaves out the
+`flamage <../F/flamage.html>`__ every day (and that leaves out the
 graphics...).
 
 By the year the Internet hit the mainstream (1994) the original UUCP
@@ -1269,89 +496,33 @@ began to refer to “Internet newsgroups” as though Usenet was and always
 had been just another Internet service. This ignorance greatly annoys
 experienced Usenetters.
 
---------------
-
-+------------------------+----------------------------+-----------------------------------------+
-<<<<<<< HEAD
-| `Prev <URL.html>`__    | `Up <../U.html>`__         |  `Next <Usenet-Death-Penalty.html>`__   |
-+------------------------+----------------------------+-----------------------------------------+
-| URL                    | `Home <../index.html>`__   |  Usenet Death Penalty                   |
-+------------------------+----------------------------+-----------------------------------------+
+ 
 
 user-friendly
 ===================
-
-`Prev <user.html>`__ 
-
-U
-
- `Next <user-obsequious.html>`__
-=======
-| `Prev <URL.html>`__    | `Up <../U.html>`__         |  `Next <Usenet-Death-Penalty.html>`__   |
-+------------------------+----------------------------+-----------------------------------------+
-| URL                    | `Home <../index.html>`__   |  Usenet Death Penalty                   |
-+------------------------+----------------------------+-----------------------------------------+
-
-user-friendly
-
-`Prev <user.html>`__ 
-
-U
-
- `Next <user-obsequious.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **user-friendly**: adj.
 
 Programmer-hostile. Generally used by hackers in a critical tone, to
 describe systems that hold the user's hand so obsessively that they make
 it painful for the more experienced and knowledgeable to get any work
-done. See `*menuitis* <../M/menuitis.html>`__, `*drool-proof
-paper* <../D/drool-proof-paper.html>`__,
-`*Macintrash* <../M/Macintrash.html>`__,
-`*user-obsequious* <user-obsequious.html>`__.
+done. See `menuitis <../M/menuitis.html>`__, `drool-proof
+paper <../D/drool-proof-paper.html>`__,
+`Macintrash <../M/Macintrash.html>`__,
+`user-obsequious <user-obsequious.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------------+
-<<<<<<< HEAD
-| `Prev <user.html>`__    | `Up <../U.html>`__         |  `Next <user-obsequious.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
-| user                    | `Home <../index.html>`__   |  user-obsequious                   |
-+-------------------------+----------------------------+------------------------------------+
+ 
 
 user
 ================
-
-`Prev <Usenet-Death-Penalty.html>`__ 
-
-U
-
- `Next <user-friendly.html>`__
-=======
-| `Prev <user.html>`__    | `Up <../U.html>`__         |  `Next <user-obsequious.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
-| user                    | `Home <../index.html>`__   |  user-obsequious                   |
-+-------------------------+----------------------------+------------------------------------+
-
-user
-
-`Prev <Usenet-Death-Penalty.html>`__ 
-
-U
-
- `Next <user-friendly.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **user**: n.
 
 1. Someone doing ‘real work’ with the computer, using it as a means
-rather than an end. Someone who pays to use a computer. See `*real
-user* <../R/real-user.html>`__.
+rather than an end. Someone who pays to use a computer. See `real
+user <../R/real-user.html>`__.
 
 2. A programmer who will believe anything you tell him. One who asks
 silly questions. [GLS observes: This is slightly unfair. It is true that
@@ -1359,7 +530,7 @@ users ask questions (of necessity). Sometimes they are thoughtful or
 deep. Very often they are annoying or downright stupid, apparently
 because the user failed to think for two seconds or look in the
 documentation before bothering the maintainer.] See
-`*luser* <../L/luser.html>`__.
+`luser <../L/luser.html>`__.
 
 3. Someone who uses a program from the outside, however skillfully,
 without getting into the internals of the program. One who reports bugs
@@ -1367,7 +538,7 @@ instead of just going ahead and fixing them.
 
 The general theory behind this term is that there are two classes of
 people who work with a program: there are implementors (hackers) and
-`*luser* <../L/luser.html>`__\ s. The users are looked down on by
+`luser <../L/luser.html>`__\ s. The users are looked down on by
 hackers to some extent because they don't understand the full
 ramifications of the system in all its glory. (The few users who do are
 known as real winners.) The term is a relative one: a skilled hacker may
@@ -1377,39 +548,11 @@ the skill of a hacker). A LISP user is one who uses LISP, whether
 skillfully or not. Thus there is some overlap between the two terms; the
 subtle distinctions must be resolved by context.
 
---------------
-
-+-----------------------------------------+----------------------------+----------------------------------+
-<<<<<<< HEAD
-| `Prev <Usenet-Death-Penalty.html>`__    | `Up <../U.html>`__         |  `Next <user-friendly.html>`__   |
-+-----------------------------------------+----------------------------+----------------------------------+
-| Usenet Death Penalty                    | `Home <../index.html>`__   |  user-friendly                   |
-+-----------------------------------------+----------------------------+----------------------------------+
+ 
 
 userland
 ===============
-
-`Prev <user-obsequious.html>`__ 
-
-U
-
- `Next <Utah-teapot.html>`__
-=======
-| `Prev <Usenet-Death-Penalty.html>`__    | `Up <../U.html>`__         |  `Next <user-friendly.html>`__   |
-+-----------------------------------------+----------------------------+----------------------------------+
-| Usenet Death Penalty                    | `Home <../index.html>`__   |  user-friendly                   |
-+-----------------------------------------+----------------------------+----------------------------------+
-
-userland
-
-`Prev <user-obsequious.html>`__ 
-
-U
-
- `Next <Utah-teapot.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **userland**: n.
 
@@ -1418,82 +561,26 @@ has been in common use among Unix kernel hackers since at least 1985,
 and may have have originated in that community. The earliest sighting
 was reported from the usenet group net.unix-wizards.
 
---------------
-
-+------------------------------------+----------------------------+--------------------------------+
-<<<<<<< HEAD
-| `Prev <user-obsequious.html>`__    | `Up <../U.html>`__         |  `Next <Utah-teapot.html>`__   |
-+------------------------------------+----------------------------+--------------------------------+
-| user-obsequious                    | `Home <../index.html>`__   |  Utah teapot, the              |
-+------------------------------------+----------------------------+--------------------------------+
+ 
 
 user-obsequious
 ================
-
-`Prev <user-friendly.html>`__ 
-
-U
-
- `Next <userland.html>`__
-=======
-| `Prev <user-obsequious.html>`__    | `Up <../U.html>`__         |  `Next <Utah-teapot.html>`__   |
-+------------------------------------+----------------------------+--------------------------------+
-| user-obsequious                    | `Home <../index.html>`__   |  Utah teapot, the              |
-+------------------------------------+----------------------------+--------------------------------+
-
-user-obsequious
-
-`Prev <user-friendly.html>`__ 
-
-U
-
- `Next <userland.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **user-obsequious**: adj.
 
-Emphatic form of `*user-friendly* <user-friendly.html>`__. Connotes a
+Emphatic form of `user-friendly <user-friendly.html>`__. Connotes a
 system so verbose, inflexible, and determinedly simple-minded that it is
 nearly unusable. “Design a system any fool can use and only a fool will
-want to use it.” See `*WIMP
-environment* <../W/WIMP-environment.html>`__,
-`*Macintrash* <../M/Macintrash.html>`__.
+want to use it.” See `WIMP
+environment <../W/WIMP-environment.html>`__,
+`Macintrash <../M/Macintrash.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------+
-<<<<<<< HEAD
-| `Prev <user-friendly.html>`__    | `Up <../U.html>`__         |  `Next <userland.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
-| user-friendly                    | `Home <../index.html>`__   |  userland                   |
-+----------------------------------+----------------------------+-----------------------------+
+ 
 
 Utah teapot, the
 =================
-
-`Prev <userland.html>`__ 
-
-U
-
- `Next <UTSL.html>`__
-=======
-| `Prev <user-friendly.html>`__    | `Up <../U.html>`__         |  `Next <userland.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
-| user-friendly                    | `Home <../index.html>`__   |  userland                   |
-+----------------------------------+----------------------------+-----------------------------+
-
-Utah teapot, the
-
-`Prev <userland.html>`__ 
-
-U
-
- `Next <UTSL.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **Utah teapot, the**
 
@@ -1507,55 +594,26 @@ model is trivial to render and thus is often not suited to demonstrate
 the complexity of modern research. Despite this, the tea pot still
 appears, now and then, in recent papers. More on the teapot's history
 lives at `The History Of The Teapot <http://www.sjbaker.org/teapot/>`__.
-Compare `*lenna* <../L/lenna.html>`__, `*Stanford
-Bunny* <../S/Stanford-Bunny.html>`__
+Compare `lenna <../L/lenna.html>`__, `Stanford
+Bunny <../S/Stanford-Bunny.html>`__
 
---------------
-
-+-----------------------------+----------------------------+-------------------------+
-<<<<<<< HEAD
-| `Prev <userland.html>`__    | `Up <../U.html>`__         |  `Next <UTSL.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| userland                    | `Home <../index.html>`__   |  UTSL                   |
-+-----------------------------+----------------------------+-------------------------+
-
+ 
 UTSL
 =================
-
-`Prev <Utah-teapot.html>`__ 
-
-U
-
- `Next <UUOC.html>`__
-=======
-| `Prev <userland.html>`__    | `Up <../U.html>`__         |  `Next <UTSL.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| userland                    | `Home <../index.html>`__   |  UTSL                   |
-+-----------------------------+----------------------------+-------------------------+
-
-UTSL
-
-`Prev <Utah-teapot.html>`__ 
-
-U
-
- `Next <UUOC.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **UTSL**: //, n.
 
 [Unix] On-line acronym for ‘Use the Source, Luke’ (a pun on Obi-Wan
 Kenobi's “Use the Force, Luke!” in *Star Wars*) — analogous to
-`*RTFS* <../R/RTFS.html>`__ (sense 1), but more polite. This is a common
+`RTFS <../R/RTFS.html>`__ (sense 1), but more polite. This is a common
 way of suggesting that someone would be better off reading the source
 code that supports whatever feature is causing confusion, rather than
 making yet another futile pass through the manuals, or broadcasting
 questions on Usenet that haven't attracted
-`*wizard* <../W/wizard.html>`__\ s to answer them.
+`wizard <../W/wizard.html>`__\ s to answer them.
 
-Once upon a time in `*elder days* <../E/elder-days.html>`__, everyone
+Once upon a time in `elder days <../E/elder-days.html>`__, everyone
 running Unix had source. After 1978, AT&T's policy tightened up, so this
 objurgation was in theory appropriately directed only at associates of
 some outfit with a Unix source license. In practice, bootlegs of Unix
@@ -1568,90 +626,36 @@ Linux, with variants of the NET/2 and 4.4BSD distributions running
 second. Cheap commercial Unixes with source such as BSD/OS are
 accelerating this trend.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-<<<<<<< HEAD
-| `Prev <Utah-teapot.html>`__    | `Up <../U.html>`__         |  `Next <UUOC.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| Utah teapot, the               | `Home <../index.html>`__   |  UUOC                   |
-+--------------------------------+----------------------------+-------------------------+
+ 
 
 UUOC
 =============
-
-`Prev <UTSL.html>`__ 
-
-U
-
- `Next <../V.html>`__
-=======
-| `Prev <Utah-teapot.html>`__    | `Up <../U.html>`__         |  `Next <UUOC.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| Utah teapot, the               | `Home <../index.html>`__   |  UUOC                   |
-+--------------------------------+----------------------------+-------------------------+
-
-UUOC
-
-`Prev <UTSL.html>`__ 
-
-U
-
- `Next <../V.html>`__
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-
---------------
+ 
 
 **UUOC**
 
 [from the comp.unix.shell group on Usenet] Stands for Useless Use of
-`*cat* <../C/cat.html>`__; the reference is to the Unix command cat(1),
+`cat <../C/cat.html>`__; the reference is to the Unix command cat(1),
 not the feline animal. As received wisdom on comp.unix.shell observes,
 “The purpose of cat is to concatenate (or ‘catenate’) files. If it's
 only one file, concatenating it with nothing at all is a waste of time,
 and costs you a process.” Nevertheless one sees people doing
 
 | 
-<<<<<<< HEAD
 |  cat file \| some\_command and its args ...
-=======
-|  cat file \| some\_command and its args ...
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
 
 instead of the equivalent and cheaper
 
 | 
-<<<<<<< HEAD
 |  <file some\_command and its args ...
-=======
-|  <file some\_command and its args ...
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
 
 or (equivalently and more classically)
 
 | 
-<<<<<<< HEAD
 |  some\_command and its args ... <file
-=======
-|  some\_command and its args ... <file
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
 
 Since 1995, occasional awards for UUOC have been given out, usually by
 Perl luminary Randal L. Schwartz. There is a `web
 page <http://www.ling.helsinki.fi/~reriksso/unix/award.html>`__ devoted
 to this and other similar awards.
-
---------------
-
-+-------------------------+----------------------------+-------------------------+
-<<<<<<< HEAD
-| `Prev <UTSL.html>`__    | `Up <../U.html>`__         |  `Next <../V.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| UTSL                    | `Home <../index.html>`__   |  V                      |
-=======
-| `Prev <UTSL.html>`__    | `Up <../U.html>`__         |  `Next <../V.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| UTSL                    | `Home <../index.html>`__   |  V                      |
->>>>>>> 4ce70214bcdd6bfea3ca4a84a0fa6faa60a81d2d
-+-------------------------+----------------------------+-------------------------+
-
+ 

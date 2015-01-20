@@ -1,12 +1,9 @@
-quad
-
-`Prev <../Q.html>`__ 
-
+======
 Q
+======
 
- `Next <quadruple-bucky.html>`__
-
---------------
+quad
+===========
 
 **quad**: n.
 
@@ -19,24 +16,10 @@ Q
 arcane purposes mostly related to I/O. Former Ivy-Leaguers and Oxford
 types are said to associate it with nostalgic memories of dear old
 University.
-
---------------
-
-+-------------------------+----------------------------+------------------------------------+
-| `Prev <../Q.html>`__    | `Up <../Q.html>`__         |  `Next <quadruple-bucky.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
-| Q                       | `Home <../index.html>`__   |  quadruple bucky                   |
-+-------------------------+----------------------------+------------------------------------+
+ 
 
 quadruple bucky
-
-`Prev <quad.html>`__ 
-
-Q
-
- `Next <quantifiers.html>`__
-
---------------
+================
 
 **quadruple bucky**: n. obs.
 
@@ -62,24 +45,10 @@ Beethoven's Fifth Symphony is quadruple-bucky-cokebottle.” See `*double
 bucky* <../D/double-bucky.html>`__, `*bucky
 bits* <../B/bucky-bits.html>`__,
 `*cokebottle* <../C/cokebottle.html>`__.
-
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <quad.html>`__    | `Up <../Q.html>`__         |  `Next <quantifiers.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| quad                    | `Home <../index.html>`__   |  quantifiers                   |
-+-------------------------+----------------------------+--------------------------------+
+ 
 
 quantifiers
-
-`Prev <quadruple-bucky.html>`__ 
-
-Q
-
- `Next <quantum-bogodynamics.html>`__
-
---------------
+================
 
 **quantifiers**
 
@@ -95,31 +64,31 @@ Here are the SI magnifying prefixes, along with the corresponding binary
 interpretations in common use:
 
 | 
-|  prefix  decimal  binary
-|  kilo-   1000^1   1024^1 = 2^10 = 1,024 
-|  mega-   1000^2   1024^2 = 2^20 = 1,048,576 
-|  giga-   1000^3   1024^3 = 2^30 = 1,073,741,824 
-|  tera-   1000^4   1024^4 = 2^40 = 1,099,511,627,776 
-|  peta-   1000^5   1024^5 = 2^50 = 1,125,899,906,842,624 
-|  exa-    1000^6   1024^6 = 2^60 = 1,152,921,504,606,846,976 
-|  zetta-  1000^7   1024^7 = 2^70 = 1,180,591,620,717,411,303,424 
-|  yotta-  1000^8   1024^8 = 2^80 = 1,208,925,819,614,629,174,706,176 
+|  prefix  decimal  binary
+|  kilo-   1000^1   1024^1 = 2^10 = 1,024 
+|  mega-   1000^2   1024^2 = 2^20 = 1,048,576 
+|  giga-   1000^3   1024^3 = 2^30 = 1,073,741,824 
+|  tera-   1000^4   1024^4 = 2^40 = 1,099,511,627,776 
+|  peta-   1000^5   1024^5 = 2^50 = 1,125,899,906,842,624 
+|  exa-    1000^6   1024^6 = 2^60 = 1,152,921,504,606,846,976 
+|  zetta-  1000^7   1024^7 = 2^70 = 1,180,591,620,717,411,303,424 
+|  yotta-  1000^8   1024^8 = 2^80 = 1,208,925,819,614,629,174,706,176 
 
 Here are the SI fractional prefixes:
 
 | 
-|  prefix  decimal     jargon usage
-|  milli-  1000^-1     (seldom used in jargon)
+|  prefix  decimal     jargon usage
+|  milli-  1000^-1     (seldom used in jargon)
 | 
-micro-  1000^-2     small or human-scale (see \ `*micro-* <../M/micro-.html>`__)
+micro-  1000^-2     small or human-scale (see \ `*micro-* <../M/micro-.html>`__)
 | 
-nano-   1000^-3     even smaller (see \ `*nano-* <../N/nano-.html>`__)
+nano-   1000^-3     even smaller (see \ `*nano-* <../N/nano-.html>`__)
 | 
-pico-   1000^-4     even smaller yet (see \ `*pico-* <../P/pico-.html>`__)
-|  femto-  1000^-5     (not used in jargon—yet)
-|  atto-   1000^-6     (not used in jargon—yet)
-|  zepto-  1000^-7     (not used in jargon—yet)
-|  yocto-  1000^-8     (not used in jargon—yet)
+pico-   1000^-4     even smaller yet (see \ `*pico-* <../P/pico-.html>`__)
+|  femto-  1000^-5     (not used in jargon—yet)
+|  atto-   1000^-6     (not used in jargon—yet)
+|  zepto-  1000^-7     (not used in jargon—yet)
+|  yocto-  1000^-8     (not used in jargon—yet)
 
 The prefixes zetta-, yotta-, zepto-, and yocto- have been included in
 these tables purely for completeness and giggle value; they were adopted
@@ -145,10 +114,10 @@ B-suffixed forms are commonly used for byte quantities; the words ‘meg’
 and ‘gig’ are nouns that may (but do not always) pluralize with ‘s’.
 
 | 
-|  prefix   decimal   binary       pronunciation}
-|  kilo-       k      K, KB,       *kay*
-|  mega-       M      M, MB, meg   *meg*
-|  giga-       G      G, GB, gig   *gig*,\ *jig*
+|  prefix   decimal   binary       pronunciation}
+|  kilo-       k      K, KB,       *kay*
+|  mega-       M      M, MB, meg   *meg*
+|  giga-       G      G, GB, gig   *gig*,\ *jig*
 
 Confusingly, hackers often use K or M as though they were suffix or
 numeric multipliers rather than a prefix; thus “2K dollars”, “2M of disk
@@ -191,23 +160,10 @@ We observe that this would leave the prefixes zeppo-, gummo-, and chico-
 available for future expansion. Sadly, there is little immediate
 prospect that Mr. Burke's eminently sensible proposal will be ratified.]
 
---------------
-
-+------------------------------------+----------------------------+-----------------------------------------+
-| `Prev <quadruple-bucky.html>`__    | `Up <../Q.html>`__         |  `Next <quantum-bogodynamics.html>`__   |
-+------------------------------------+----------------------------+-----------------------------------------+
-| quadruple bucky                    | `Home <../index.html>`__   |  quantum bogodynamics                   |
-+------------------------------------+----------------------------+-----------------------------------------+
+ 
 
 quantum bogodynamics
-
-`Prev <quantifiers.html>`__ 
-
-Q
-
- `Next <quarter.html>`__
-
---------------
+========================
 
 **quantum bogodynamics**: /kwon´tm boh\`goh·di:·nam´iks/, n.
 
@@ -235,24 +191,10 @@ difficulty. When the bogon encounters its antiparticle, the cluon, they
 mutually annihilate each other, releasing magic smoke. Furthermore 1
 Lenat = 1 mole (6.022E23) of bogons (see
 `*microLenat* <../M/microLenat.html>`__).
-
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <quantifiers.html>`__    | `Up <../Q.html>`__         |  `Next <quarter.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| quantifiers                    | `Home <../index.html>`__   |  quarter                   |
-+--------------------------------+----------------------------+----------------------------+
+ 
 
 quarter
-
-`Prev <quantum-bogodynamics.html>`__ 
-
-Q
-
- `Next <ques.html>`__
-
---------------
+===========
 
 **quarter**: n.
 
@@ -265,23 +207,10 @@ was considered worth 12.5 cents. Syn. `*tayste* <../T/tayste.html>`__,
 General discussion of such terms is under
 `*nybble* <../N/nybble.html>`__.
 
---------------
-
-+-----------------------------------------+----------------------------+-------------------------+
-| `Prev <quantum-bogodynamics.html>`__    | `Up <../Q.html>`__         |  `Next <ques.html>`__   |
-+-----------------------------------------+----------------------------+-------------------------+
-| quantum bogodynamics                    | `Home <../index.html>`__   |  ques                   |
-+-----------------------------------------+----------------------------+-------------------------+
+ 
 
 ques
-
-`Prev <quarter.html>`__ 
-
-Q
-
- `Next <quick-and-dirty.html>`__
-
---------------
+===========
 
 **ques**: /kwes/
 
@@ -289,24 +218,10 @@ Q
 
 2. interj. What? Also frequently verb-doubled as “Ques ques?” See
 `*wall* <../W/wall.html>`__.
-
---------------
-
-+----------------------------+----------------------------+------------------------------------+
-| `Prev <quarter.html>`__    | `Up <../Q.html>`__         |  `Next <quick-and-dirty.html>`__   |
-+----------------------------+----------------------------+------------------------------------+
-| quarter                    | `Home <../index.html>`__   |  quick-and-dirty                   |
-+----------------------------+----------------------------+------------------------------------+
+ 
 
 quick-and-dirty
-
-`Prev <ques.html>`__ 
-
-Q
-
- `Next <quine.html>`__
-
---------------
+================
 
 **quick-and-dirty**: adj.
 
@@ -317,23 +232,10 @@ quick-and-dirty fix in place tonight, but I'll have to rewrite the whole
 module to solve the underlying design problem.” See also
 `*kluge* <../K/kluge.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <ques.html>`__    | `Up <../Q.html>`__         |  `Next <quine.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| ques                    | `Home <../index.html>`__   |  quine                   |
-+-------------------------+----------------------------+--------------------------+
-
+ 
 quine
-
-`Prev <quick-and-dirty.html>`__ 
-
-Q
-
- `Next <Quirk-objection.html>`__
-
---------------
+========
+ 
 
 **quine**: /kwi:n/, n.
 
@@ -385,23 +287,10 @@ Contest* <../O/Obfuscated-C-Contest.html>`__ entries have been quines
 that reproduced in exotic ways. There is an amusing `Quine Home
 Page <http://www.nyx.org/~gthompso/quine.htm>`__.
 
---------------
 
-+------------------------------------+----------------------------+------------------------------------+
-| `Prev <quick-and-dirty.html>`__    | `Up <../Q.html>`__         |  `Next <Quirk-objection.html>`__   |
-+------------------------------------+----------------------------+------------------------------------+
-| quick-and-dirty                    | `Home <../index.html>`__   |  Quirk objection                   |
-+------------------------------------+----------------------------+------------------------------------+
 
 Quirk objection
-
-`Prev <quine.html>`__ 
-
-Q
-
- `Next <quote-chapter-and-verse.html>`__
-
---------------
+==================
 
 **Quirk objection**: interj.
 
@@ -413,24 +302,10 @@ is not used to refer to things that are definitely proven *not* to
 exist, such as a spammer's ethics. It's applicable to enough postings
 there that a poster wishing to raise the objection often need merely say
 “ObQuirk!”, an instance of the `*Ob-* <../O/Ob-.html>`__ convention.
-
---------------
-
-+--------------------------+----------------------------+--------------------------------------------+
-| `Prev <quine.html>`__    | `Up <../Q.html>`__         |  `Next <quote-chapter-and-verse.html>`__   |
-+--------------------------+----------------------------+--------------------------------------------+
-| quine                    | `Home <../index.html>`__   |  quote chapter and verse                   |
-+--------------------------+----------------------------+--------------------------------------------+
+ 
 
 quote chapter and verse
-
-`Prev <Quirk-objection.html>`__ 
-
-Q
-
- `Next <quotient.html>`__
-
---------------
+=============================
 
 **quote chapter and verse**: v.
 
@@ -441,46 +316,18 @@ gets it wrong; ‘Followup-To: poster’ is explicitly permitted by
 don't believe me.” See also `*legalese* <../L/legalese.html>`__,
 `*language lawyer* <../L/language-lawyer.html>`__,
 `*RTFS* <../R/RTFS.html>`__ (sense 2).
-
---------------
-
-+------------------------------------+----------------------------+-----------------------------+
-| `Prev <Quirk-objection.html>`__    | `Up <../Q.html>`__         |  `Next <quotient.html>`__   |
-+------------------------------------+----------------------------+-----------------------------+
-| Quirk objection                    | `Home <../index.html>`__   |  quotient                   |
-+------------------------------------+----------------------------+-----------------------------+
+ 
 
 quotient
-
-`Prev <quote-chapter-and-verse.html>`__ 
-
-Q
-
- `Next <quux.html>`__
-
---------------
+==================
 
 **quotient**: n.
 
 See `*coefficient of X* <../C/coefficient-of-X.html>`__.
-
---------------
-
-+--------------------------------------------+----------------------------+-------------------------+
-| `Prev <quote-chapter-and-verse.html>`__    | `Up <../Q.html>`__         |  `Next <quux.html>`__   |
-+--------------------------------------------+----------------------------+-------------------------+
-| quote chapter and verse                    | `Home <../index.html>`__   |  quux                   |
-+--------------------------------------------+----------------------------+-------------------------+
+ 
 
 quux
-
-`Prev <quotient.html>`__ 
-
-Q
-
- `Next <qux.html>`__
-
---------------
+==============
 
 **quux**: /kwuhks/, n.
 
@@ -510,23 +357,8 @@ the quux of the matter!” implies that the point is *not* crucial
 
 5. quuxy: adj. Of or pertaining to a quux.
 
---------------
-
-+-----------------------------+----------------------------+------------------------+
-| `Prev <quotient.html>`__    | `Up <../Q.html>`__         |  `Next <qux.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| quotient                    | `Home <../index.html>`__   |  qux                   |
-+-----------------------------+----------------------------+------------------------+
-
 qux
-
-`Prev <quux.html>`__ 
-
-Q
-
- `Next <QWERTY.html>`__
-
---------------
+=======
 
 **qux**: /kwuhks/
 
@@ -540,23 +372,9 @@ recent mutation from `*quux* <quux.html>`__, and many versions
 `*foo* <../F/foo.html>`__, `*bar* <../B/bar.html>`__,
 `*baz* <../B/baz.html>`__, `*quux* <quux.html>`__, ....
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <quux.html>`__    | `Up <../Q.html>`__         |  `Next <QWERTY.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| quux                    | `Home <../index.html>`__   |  QWERTY                   |
-+-------------------------+----------------------------+---------------------------+
 
 QWERTY
-
-`Prev <qux.html>`__ 
-
-Q
-
- `Next <../R.html>`__
-
---------------
+===========
 
 **QWERTY**: /kwer´tee/, adj.
 
@@ -582,12 +400,4 @@ keyboard layout lives on.
 The QWERTY keyboard has also spawned some unhelpful economic myths about
 how technical standards get and stay established; see
 `http://www.reasonmag.com/9606/Fe.QWERTY.html <http://reason.com/9606/Fe.QWERTY.html>`__.
-
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <qux.html>`__    | `Up <../Q.html>`__         |  `Next <../R.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| qux                    | `Home <../index.html>`__   |  R                      |
-+------------------------+----------------------------+-------------------------+
-
+ 

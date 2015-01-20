@@ -15,7 +15,7 @@ zap
 3. vt. To make someone ‘suffer’ by making his food spicy. (Most hackers
 love spicy food. Hot-and-sour soup is considered wimpy unless it makes
 you wipe your nose for the rest of the meal.) See
-`zapped <zapped.html>`__.
+`zapped <Z.html#zapped>`__.
 
 4. vt. To modify, usually to correct; esp. used when the action is
 performed with a debugger or binary patching tool. Also implies surgical
@@ -26,7 +26,7 @@ with a program called ‘superzap’, whose file name is ‘IMASPZAP’
 
 5. vt. To erase or reset.
 
-6. To `fry <../F/fry.html>`__ a chip with static electricity. “Uh oh —
+6. To `fry <F.html#fry>`__ a chip with static electricity. “Uh oh —
 I think that lightning strike may have zapped the disk controller.”
 
 
@@ -40,10 +40,10 @@ zapped
 Spicy. This term is used to distinguish between food that is hot (in
 temperature) and food that is *spicy*-hot. For example, the Chinese
 appetizer Bon Bon Chicken is a kind of chicken salad that is cold but
-zapped; by contrast, `vanilla <../V/vanilla.html>`__ wonton soup is
+zapped; by contrast, `vanilla <V.thml#vanilla.html>`__ wonton soup is
 hot but not zapped. See also `oriental
-food <../O/oriental-food.html>`__, `laser
-chicken <../L/laser-chicken.html>`__. See `zap <zap.html>`__, senses
+food <O.html#oriental-food>`__, `laser
+chicken <L.html#laser-chicken>`__. See `zap <#zap>`__, senses
 1 and 2.
 
 
@@ -70,7 +70,7 @@ zbeba
 
 **zbeba**: n.
 
-[USENET] The word ‘moron’ in `rot13 <../R/rot13.html>`__. Used to
+[USENET] The word ‘moron’ in `rot13 <R.html#rot13>`__. Used to
 describe newbies who are behaving with especial cluelessness.
 
 
@@ -86,9 +86,9 @@ zen
 To figure out something by meditation or by a sudden flash of
 enlightenment. Originally applied to bugs, but occasionally applied to
 problems of life in general. “How'd you figure out the buffer allocation
-problem?” “Oh, I zenned it.” Contrast `*grok* <../G/grok.html>`__, which
+problem?” “Oh, I zenned it.” Contrast `grok <G.html#grok.html>`__, which
 connotes a time-extended version of zenning a system. Compare `hack
-mode <../H/hack-mode.html>`__. See also `guru <../G/guru.html>`__.
+mode <H.html#hack-mode.html>`__. See also `guru <G.html#guru>`__.
 
 zero-content
 ===================
@@ -96,7 +96,7 @@ zero-content
 
 **zero-content**: adj.
 
-Syn. `*content-free* <../C/content-free.html>`__.
+Syn. `content-free <C.html#content-free>`__.
 
 
 
@@ -113,7 +113,7 @@ words (esp. in the construction zero out).
 where ‘zeroing’ need not involve actually writing zeroes throughout the
 area being zeroed. One may speak of something being logically zeroed
 rather than being physically zeroed. See
-`scribble <../S/scribble.html>`__.
+`scribble <S.html#scribble>`__.
 
 
 
@@ -125,8 +125,8 @@ Zero-One-Infinity Rule
 
 **Zero-One-Infinity Rule**: prov.
 
-“Allow none of `foo <../F/foo.html>`__, one of
-`foo <../F/foo.html>`__, or any number of `foo <../F/foo.html>`__.”
+“Allow none of `foo <F.html#foo>`__, one of
+`foo <F.html#foo>`__, or any number of `foo <F.html#foo>`__.”
 A rule of thumb for software design, which instructs one to not place
 `random <../R/random.html>`__ limits on the number of instances of a
 given entity (such as: windows in a window system, letters in an OS's
@@ -138,7 +138,7 @@ The logic behind this rule is that there are often situations where it
 makes clear sense to allow one of something instead of none. However, if
 one decides to go further and allow N (for N > 1), then why not N+1? And
 if N+1, then why not N+2, and so on? Once above 1, there's no excuse not
-to allow any N; hence, `infinity <../I/infinity.html>`__.
+to allow any N; hence, `infinity <I.html/infinity>`__.
 
 Many hackers recall in this connection Isaac Asimov's SF novel *The Gods
 Themselves* in which a character announces that the number 2 is
@@ -160,10 +160,10 @@ known as counters count in this way.
 Hackers and computer scientists often like to call the first chapter of
 a publication ‘Chapter 0’, especially if it is of an introductory nature
 (one of the classic instances was in the First Edition of
-`*K&R* <../K/K-ampersand-R.html>`__). In recent years this trait has
+`K&R<K.html#K-ampersand-R>`__). In recent years this trait has
 also been observed among many pure mathematicians (who have an
 independent tradition of numbering from 0). Zero-based numbering tends
-to reduce `fencepost error <../F/fencepost-error.html>`__\ s, though
+to reduce `fencepost errors <F.html#fencepost-error>`__, though
 it cannot eliminate them entirely.
 
 
@@ -174,14 +174,14 @@ zigamorph
 **zigamorph**: /zig'@·morf/, n.
 
 1. Hex FF (11111111) when used as a delimiter or
-`fence <../F/fence.html>`__ character. Usage: primarily at IBM shops.
+`fence <F.html#fence>`__ character. Usage: primarily at IBM shops.
 
 2. [proposed] n. The Unicode non-character U+FFFF (1111111111111111), a
 character code which is not assigned to any character, and so is usable
 as end-of-string. (Unicode is a 16-bit character code intended to cover
 all of the world's writing systems, including Latin, Greek, Cyrillic,
 Chinese, hiragana, katakana, Devanagari, Thai, Laotian and many other
-scripts — support for `elvish <../E/elvish.html>`__ is planned for a
+scripts — support for `elvish <E.html#elvish>`__ is planned for a
 future release).
 
 
@@ -196,7 +196,7 @@ zip
 of files using PKWare's PKZIP or a compatible archiver. Its use is
 spreading now that portable implementations of the algorithm have been
 written. Commonly used as follows: “I'll zip it up and send it to you.”
-See `tar and feather <../T/tar-and-feather.html>`__.
+See `tar and feather <T.html#tar-and-feather>`__.
 
 
 

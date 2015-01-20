@@ -10,6 +10,8 @@ calculator
 
 
 
+Camel Book
+===========
 
 **Camel Book**: n.
 
@@ -24,7 +26,8 @@ Perl
 
 
 
-
+camelCase
+==========
 
 **camelCase**
 
@@ -37,11 +40,10 @@ be thisVeryLongName. This practice is common in certain language
 communities (formerly Pascal; today Java and Visual Basic) and tends to
 be associated with object-oriented programming.
 
-Compare `*BiCapitalization* but where
-that practice is primarily associated with marketing, camelCasing is not
-aimed at impressing anybody, and hackers consider it respectable.
+Compare `*BiCapitalization* but where that practice is primarily associated with marketing, camelCasing is not aimed at impressing anybody, and hackers consider it respectable.
 
-
+cancelbot
+=========
 
 **cancelbot**: /kan´sel·bot/
 

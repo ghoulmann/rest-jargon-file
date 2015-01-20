@@ -1,14 +1,5 @@
-Chapter 10. Pronunciation Guide
-
-`Prev <crackers.html>`__ 
-
-Part I. Introduction
-
- `Next <conventions.html>`__
-
---------------
-
-Chapter 10. Pronunciation Guide
+-------------------------------
+Pronunciation Guide
 -------------------------------
 
 Pronunciation keys are provided in the jargon listings for all entries
@@ -35,7 +26,7 @@ pronounced /zee/ or /zed/ depending on your local dialect.
 
 Vowels are represented as follows:
 
-**Table 10.1. Vowels**
+**Table 10.1. Vowels**
 
 +---------+----------------------------------------------------------------+
 | a       | back, that                                                     |
@@ -108,11 +99,5 @@ vowels. It also happens to be what your editor speaks.)
 Entries with a pronunciation of ‘//’ are written-only usages. (No, Unix
 weenies, this does *not* mean ‘pronounce like previous pronunciation’!)
 
---------------
 
-+---------------------------------------------+-------------------------+------------------------------------------+
-| `Prev <crackers.html>`__                    | `Up <pt01.html>`__      |  `Next <conventions.html>`__             |
-+---------------------------------------------+-------------------------+------------------------------------------+
-| Chapter 9. Crackers, Phreaks, and Lamers    | `Home <index.html>`__   |  Chapter 11. Other Lexicon Conventions   |
-+---------------------------------------------+-------------------------+------------------------------------------+
 

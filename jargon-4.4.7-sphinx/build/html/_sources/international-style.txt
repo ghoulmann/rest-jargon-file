@@ -1,14 +1,6 @@
-Chapter 8. International Style
 
-`Prev <speech-style.html>`__ 
-
-Part I. Introduction
-
- `Next <crackers.html>`__
-
---------------
-
-Chapter 8. International Style
+------------------------------
+International Style
 ------------------------------
 
 Although the Jargon File remains primarily a lexicon of hacker usage in
@@ -22,8 +14,8 @@ There are some references herein to ‘Commonwealth hackish’. These are
 intended to describe some variations in hacker usage as reported in the
 English spoken in Great Britain and the Commonwealth (Canada, Australia,
 India, etc. — though Canada is heavily influenced by American usage).
-There is also an entry on `*Commonwealth
-Hackish* <C/Commonwealth-Hackish.html>`__ reporting some general
+There is also an entry on `Commonwealth
+Hackish <C/Commonwealth-Hackish.html>`__ reporting some general
 phonetic and vocabulary differences from U.S. hackish.
 
 Hackers in Western Europe and (especially) Scandinavia report that they
@@ -52,11 +44,4 @@ A few notes on hackish usages in Russian have been added where they are
 parallel with English idioms and thus comprehensible to
 English-speakers.
 
---------------
-
-+-----------------------------------+-------------------------+---------------------------------------------+
-| `Prev <speech-style.html>`__      | `Up <pt01.html>`__      |  `Next <crackers.html>`__                   |
-+-----------------------------------+-------------------------+---------------------------------------------+
-| Chapter 7. Hacker Speech Style    | `Home <index.html>`__   |  Chapter 9. Crackers, Phreaks, and Lamers   |
-+-----------------------------------+-------------------------+---------------------------------------------+
 

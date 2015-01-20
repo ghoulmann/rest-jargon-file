@@ -1,14 +1,6 @@
-Chapter 6. Email Quotes and Inclusion Conventions
 
-`Prev <writing-style.html>`__ 
-
-Part I. Introduction
-
- `Next <speech-style.html>`__
-
---------------
-
-Chapter 6. Email Quotes and Inclusion Conventions
+-------------------------------------------------
+Chapter 6. Email Quotes and Inclusion Conventions
 -------------------------------------------------
 
 One area where conventions for on-line writing are still in some flux is
@@ -56,32 +48,32 @@ inclusion of zero-content filler lines which aren't quoted and thus pull
 the message below the rejection threshold.
 
 Inclusion practice is still evolving, and disputes over the ‘correct’
-inclusion style occasionally lead to `*holy wars* <H/holy-wars.html>`__.
+inclusion style occasionally lead to `holy wars <H/holy-wars.html>`__.
 
 Most netters view an inclusion as a promise that comment on it will
 immediately follow. The preferred, conversational style looks like this,
 
 | 
-|       > relevant excerpt 1
-|       response to excerpt
-|       > relevant excerpt 2
-|       response to excerpt
-|       > relevant excerpt 3
-|       response to excerpt
+|       > relevant excerpt 1
+|       response to excerpt
+|       > relevant excerpt 2
+|       response to excerpt
+|       > relevant excerpt 3
+|       response to excerpt
 
 or for short messages like this:
 
 | 
-|       > entire message
-|       response to message
+|       > entire message
+|       response to message
 
 Thanks to poor design of some PC-based mail agents (notably Microsoft
 Outlook and Outlook Express), one will occasionally see the entire
 quoted message *after* the response, like this
 
 | 
-|       response to message
-|       > entire message
+|       response to message
+|       > entire message
 
 but this practice is strongly deprecated.
 
@@ -104,11 +96,5 @@ authoritative sources such as standards documents; the intended allusion
 is to the root prompt (the special Unix command prompt issued when one
 is running as the privileged super-user).
 
---------------
 
-+------------------------------------+-------------------------+-----------------------------------+
-| `Prev <writing-style.html>`__      | `Up <pt01.html>`__      |  `Next <speech-style.html>`__     |
-+------------------------------------+-------------------------+-----------------------------------+
-| Chapter 5. Hacker Writing Style    | `Home <index.html>`__   |  Chapter 7. Hacker Speech Style   |
-+------------------------------------+-------------------------+-----------------------------------+
 

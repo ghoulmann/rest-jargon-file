@@ -1,14 +1,5 @@
-Chapter 7. Hacker Speech Style
-
-`Prev <email-style.html>`__ 
-
-Part I. Introduction
-
- `Next <international-style.html>`__
-
---------------
-
-Chapter 7. Hacker Speech Style
+------------------------------
+Hacker Speech Style
 ------------------------------
 
 Hackish speech generally features extremely precise diction, careful
@@ -29,24 +20,15 @@ It has been observed that many hackers are confused by negative
 questions — or, at least, that the people to whom they are talking are
 often confused by the sense of their answers. The problem is that they
 have done so much programming that distinguishes between
-
-+--------------------------------------------------------------------------+
-| .. code:: programlisting                                                 |
-|                                                                          |
-|     if (going) ...                                                       |
-                                                                          
-+--------------------------------------------------------------------------+
+                                                                         |
+   `if (going) ...`
 
 and
+                                                        |
+    ` if (!going) ...`
+                                                                        
 
-+--------------------------------------------------------------------------+
-| .. code:: programlisting                                                 |
-|                                                                          |
-|     if (!going) ...                                                      |
-                                                                          
-+--------------------------------------------------------------------------+
-
-that when they parse the question “Aren't you going?” it may seem to be
+..that when they parse the question “Aren't you going?” it may seem to be
 asking the opposite question from “Are you going?”, and so to merit an
 answer in the opposite sense. This confuses English-speaking non-hackers
 because they were taught to answer as though the negative part weren't
@@ -55,7 +37,7 @@ Japanese) the hackish interpretation is standard and the problem
 wouldn't arise. Hackers often find themselves wishing for a word like
 French ‘si’, German ‘doch’, or Dutch ‘jawel’ — a word with which one
 could unambiguously answer ‘yes’ to a negative question. (See also
-`*mu* <M/mu.html>`__)
+`mu <M/mu.html>`__)
 
 For similar reasons, English-speaking hackers almost never use double
 negatives, even if they live in a region where colloquial usage allows
@@ -71,11 +53,4 @@ leaving it until later?” is likely to get the perfectly correct answer
 “Yes!” (that is, “Yes, I'm doing it either now or later, and you didn't
 ask which!”).
 
---------------
-
-+------------------------------------------------------+-------------------------+----------------------------------------+
-| `Prev <email-style.html>`__                          | `Up <pt01.html>`__      |  `Next <international-style.html>`__   |
-+------------------------------------------------------+-------------------------+----------------------------------------+
-| Chapter 6. Email Quotes and Inclusion Conventions    | `Home <index.html>`__   |  Chapter 8. International Style        |
-+------------------------------------------------------+-------------------------+----------------------------------------+
 
