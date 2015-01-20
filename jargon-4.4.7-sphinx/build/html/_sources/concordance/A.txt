@@ -174,8 +174,8 @@ also `ELIZA effect <../E/ELIZA-effect.html>`__.
 This is `ad-hockery <ad-hockery.html>`__ in action.
 
 (The next cartoon in the Crunchly saga is
-`74-08-18 <../W/water-MIPS.html#crunchly74-08-18>`__. The previous one
-is `73-07-29 <../B/bug.html#crunchly73-07-29>`__.)
+`74-08-18 <./W.html#water-MIPS>`__. The previous one
+is `73-07-29 <./B.html#bug>`__.)
 
 
 admin
