@@ -1,12 +1,9 @@
-B1FF
-
-`Prev <../B.html>`__ 
-
+============
 B
+============
 
- `Next <B5.html>`__
-
---------------
+B1FF
+======
 
 **B1FF**: /bif/, BIFF, n.
 
@@ -31,46 +28,18 @@ was later passed to Richard Sexton, who posted BIFFisms much more
 widely. Versions have since been posted for the amusement of the net at
 large. See also `*Jeff K.* <../J/Jeff-K-.html>`__ —ESR]
 
---------------
-
-+-------------------------+----------------------------+-----------------------+
-| `Prev <../B.html>`__    | `Up <../B.html>`__         |  `Next <B5.html>`__   |
-+-------------------------+----------------------------+-----------------------+
-| B                       | `Home <../index.html>`__   |  B5                   |
-+-------------------------+----------------------------+-----------------------+
 
 B5
-
-`Prev <B1FF.html>`__ 
-
-B
-
- `Next <back-door.html>`__
-
---------------
+=========
 
 **B5**: //
 
 [common] Abbreviation for “Babylon 5”, a science-fiction TV series as
 revered among hackers as was the original Star Trek.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <B1FF.html>`__    | `Up <../B.html>`__         |  `Next <back-door.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| B1FF                    | `Home <../index.html>`__   |  back door                   |
-+-------------------------+----------------------------+------------------------------+
 
 backbone cabal
-
-`Prev <back-door.html>`__ 
-
-B
-
- `Next <backbone-site.html>`__
-
---------------
+==============
 
 **backbone cabal**: n.
 
@@ -101,23 +70,9 @@ this trend.
 See `*NANA* <../N/NANA.html>`__ for the subsequent history of “the
 Cabal”.
 
---------------
-
-+------------------------------+----------------------------+----------------------------------+
-| `Prev <back-door.html>`__    | `Up <../B.html>`__         |  `Next <backbone-site.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
-| back door                    | `Home <../index.html>`__   |  backbone site                   |
-+------------------------------+----------------------------+----------------------------------+
 
 backbone site
-
-`Prev <backbone-cabal.html>`__ 
-
-B
-
- `Next <backgammon.html>`__
-
---------------
+===============
 
 **backbone site**: n.,obs.
 
@@ -136,23 +91,10 @@ that gave it meaning is gone; everyone is on the Internet now and
 network traffic is distributed in very different patterns. Today one
 might see references to a “backbone router” instead —ESR]
 
---------------
 
-+-----------------------------------+----------------------------+-------------------------------+
-| `Prev <backbone-cabal.html>`__    | `Up <../B.html>`__         |  `Next <backgammon.html>`__   |
-+-----------------------------------+----------------------------+-------------------------------+
-| backbone cabal                    | `Home <../index.html>`__   |  backgammon                   |
-+-----------------------------------+----------------------------+-------------------------------+
 
 back door
-
-`Prev <B5.html>`__ 
-
-B
-
- `Next <backbone-cabal.html>`__
-
---------------
+==============
 
 **back door**: n.
 
@@ -199,46 +141,19 @@ login did make it out of Bell Labs, notably to BBN, and that it enabled
 at least one late-night login across the network by someone using the
 login name “kt”.
 
---------------
-
-+-----------------------+----------------------------+-----------------------------------+
-| `Prev <B5.html>`__    | `Up <../B.html>`__         |  `Next <backbone-cabal.html>`__   |
-+-----------------------+----------------------------+-----------------------------------+
-| B5                    | `Home <../index.html>`__   |  backbone cabal                   |
-+-----------------------+----------------------------+-----------------------------------+
 
 backgammon
-
-`Prev <backbone-site.html>`__ 
-
-B
-
- `Next <background.html>`__
-
---------------
+============
 
 **backgammon**
 
 See `*bignum* <bignum.html>`__ (sense 3), `*moby* <../M/moby.html>`__
 (sense 4), and `*pseudoprime* <../P/pseudoprime.html>`__.
 
---------------
 
-+----------------------------------+----------------------------+-------------------------------+
-| `Prev <backbone-site.html>`__    | `Up <../B.html>`__         |  `Next <background.html>`__   |
-+----------------------------------+----------------------------+-------------------------------+
-| backbone site                    | `Home <../index.html>`__   |  background                   |
-+----------------------------------+----------------------------+-------------------------------+
 
 background
-
-`Prev <backgammon.html>`__ 
-
-B
-
- `Next <backreference.html>`__
-
---------------
+===========
 
 **background**: n.,adj.,vt.
 
@@ -261,23 +176,10 @@ where it was started (and often running at a lower priority); oppose
 associated with `*Unix* <../U/Unix.html>`__, but it appears to have been
 first used in this sense on OS/360.
 
---------------
 
-+-------------------------------+----------------------------+----------------------------------+
-| `Prev <backgammon.html>`__    | `Up <../B.html>`__         |  `Next <backreference.html>`__   |
-+-------------------------------+----------------------------+----------------------------------+
-| backgammon                    | `Home <../index.html>`__   |  backreference                   |
-+-------------------------------+----------------------------+----------------------------------+
 
 backreference
-
-`Prev <background.html>`__ 
-
-B
-
- `Next <backronym.html>`__
-
---------------
+===============
 
 **backreference**: n.
 
@@ -290,23 +192,9 @@ within grouping parentheses
 seen or discussed before. “When you said ‘she’ just now, who were you
 backreferencing?”
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <background.html>`__    | `Up <../B.html>`__         |  `Next <backronym.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| background                    | `Home <../index.html>`__   |  backronym                   |
-+-------------------------------+----------------------------+------------------------------+
 
 backronym
-
-`Prev <backreference.html>`__ 
-
-B
-
- `Next <backward-combatability.html>`__
-
---------------
+==========
 
 **backronym**: n.
 
@@ -318,23 +206,9 @@ acronym* <../R/recursive-acronym.html>`__ (Cygnus),
 Discovering backronyms is a common form of wordplay among hackers.
 Compare `*retcon* <../R/retcon.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------------------------+
-| `Prev <backreference.html>`__    | `Up <../B.html>`__         |  `Next <backward-combatability.html>`__   |
-+----------------------------------+----------------------------+-------------------------------------------+
-| backreference                    | `Home <../index.html>`__   |  backward combatability                   |
-+----------------------------------+----------------------------+-------------------------------------------+
 
 backward combatability
-
-`Prev <backronym.html>`__ 
-
-B
-
- `Next <BAD.html>`__
-
---------------
+========================
 
 **backward combatability**: /bak´w@rd k@m·bat'@·bil'@·tee/, n.
 
@@ -352,23 +226,8 @@ compatibility processing can lead to extreme `*software
 bloat* <../S/software-bloat.html>`__. See also `*flag
 day* <../F/flag-day.html>`__.
 
---------------
-
-+------------------------------+----------------------------+------------------------+
-| `Prev <backronym.html>`__    | `Up <../B.html>`__         |  `Next <BAD.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| backronym                    | `Home <../index.html>`__   |  BAD                   |
-+------------------------------+----------------------------+------------------------+
-
 Bad and Wrong
-
-`Prev <BAD.html>`__ 
-
-B
-
- `Next <Bad-Thing.html>`__
-
---------------
+===============
 
 **Bad and Wrong**: adj.
 
@@ -386,23 +245,9 @@ and G&W = “Good and Right”. Compare `*evil and
 rude* <../E/evil-and-rude.html>`__, `*Good
 Thing* <../G/Good-Thing.html>`__, `*Bad Thing* <Bad-Thing.html>`__.
 
---------------
-
-+------------------------+----------------------------+------------------------------+
-| `Prev <BAD.html>`__    | `Up <../B.html>`__         |  `Next <Bad-Thing.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| BAD                    | `Home <../index.html>`__   |  Bad Thing                   |
-+------------------------+----------------------------+------------------------------+
 
 BAD
-
-`Prev <backward-combatability.html>`__ 
-
-B
-
- `Next <Bad-and-Wrong.html>`__
-
---------------
+=====
 
 **BAD**: /B·A·D/, adj.
 
@@ -411,23 +256,10 @@ B
 than because of bugginess. See `*working as
 designed* <../W/working-as-designed.html>`__.
 
---------------
 
-+-------------------------------------------+----------------------------+----------------------------------+
-| `Prev <backward-combatability.html>`__    | `Up <../B.html>`__         |  `Next <Bad-and-Wrong.html>`__   |
-+-------------------------------------------+----------------------------+----------------------------------+
-| backward combatability                    | `Home <../index.html>`__   |  Bad and Wrong                   |
-+-------------------------------------------+----------------------------+----------------------------------+
 
 Bad Thing
-
-`Prev <Bad-and-Wrong.html>`__ 
-
-B
-
- `Next <bag-on-the-side.html>`__
-
---------------
+===========
 
 **Bad Thing**: n.
 
@@ -447,23 +279,10 @@ the pond. It is very common among American hackers, but not in
 mainstream usage in the U.S. Compare `*Bad and
 Wrong* <Bad-and-Wrong.html>`__.
 
---------------
 
-+----------------------------------+----------------------------+------------------------------------+
-| `Prev <Bad-and-Wrong.html>`__    | `Up <../B.html>`__         |  `Next <bag-on-the-side.html>`__   |
-+----------------------------------+----------------------------+------------------------------------+
-| Bad and Wrong                    | `Home <../index.html>`__   |  bag on the side                   |
-+----------------------------------+----------------------------+------------------------------------+
 
 bagbiter
-
-`Prev <bag-on-the-side.html>`__ 
-
-B
-
- `Next <bagbiting.html>`__
-
---------------
+=========
 
 **bagbiter**: /bag´bi:t·@r/, n.
 
@@ -487,23 +306,9 @@ have another report that “Bite the bag!” was in common use at least as
 early as 1965), but in their current usage they have become almost
 completely sanitized.
 
---------------
-
-+------------------------------------+----------------------------+------------------------------+
-| `Prev <bag-on-the-side.html>`__    | `Up <../B.html>`__         |  `Next <bagbiting.html>`__   |
-+------------------------------------+----------------------------+------------------------------+
-| bag on the side                    | `Home <../index.html>`__   |  bagbiting                   |
-+------------------------------------+----------------------------+------------------------------+
 
 bagbiting
-
-`Prev <bagbiter.html>`__ 
-
-B
-
- `Next <baggy-pantsing.html>`__
-
---------------
+===========
 
 **bagbiting**: adj.
 
@@ -515,23 +320,10 @@ number.” Compare `*losing* <../L/losing.html>`__,
 `*barfulous* <barfulous.html>`__) and chomping (under
 `*chomp* <../C/chomp.html>`__).
 
---------------
 
-+-----------------------------+----------------------------+-----------------------------------+
-| `Prev <bagbiter.html>`__    | `Up <../B.html>`__         |  `Next <baggy-pantsing.html>`__   |
-+-----------------------------+----------------------------+-----------------------------------+
-| bagbiter                    | `Home <../index.html>`__   |  baggy pantsing                   |
-+-----------------------------+----------------------------+-----------------------------------+
 
 baggy pantsing
-
-`Prev <bagbiting.html>`__ 
-
-B
-
- `Next <balloonian-variable.html>`__
-
---------------
+===================
 
 **baggy pantsing**: v.
 
@@ -555,23 +347,9 @@ Usage: “Prof. Greenlee fell asleep in the Solaris cluster again; we
 baggy-pantsed him to ``git.cc.class.2430.flame``.” Compare
 `*derf* <../D/derf.html>`__.
 
---------------
-
-+------------------------------+----------------------------+----------------------------------------+
-| `Prev <bagbiting.html>`__    | `Up <../B.html>`__         |  `Next <balloonian-variable.html>`__   |
-+------------------------------+----------------------------+----------------------------------------+
-| bagbiting                    | `Home <../index.html>`__   |  balloonian variable                   |
-+------------------------------+----------------------------+----------------------------------------+
 
 bag on the side
-
-`Prev <Bad-Thing.html>`__ 
-
-B
-
- `Next <bagbiter.html>`__
-
---------------
+===================
 
 **bag on the side**: n.
 
@@ -583,23 +361,10 @@ ugly, inelegant, or bloated. Also v. phrase, “to hang a bag on the side
 [of]”. “C++? That's just a bag on the side of C ....” “They want me to
 hang a bag on the side of the accounting system.”
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <Bad-Thing.html>`__    | `Up <../B.html>`__         |  `Next <bagbiter.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| Bad Thing                    | `Home <../index.html>`__   |  bagbiter                   |
-+------------------------------+----------------------------+-----------------------------+
 
 balloonian variable
-
-`Prev <baggy-pantsing.html>`__ 
-
-B
-
- `Next <bamf.html>`__
-
---------------
+====================
 
 **balloonian variable**: n.
 
@@ -611,23 +376,10 @@ either became obsolete or was planned but never implemented.
 Compatibility concerns (or politics attached to same) may require that
 such a flag be treated as though it were `*live* <../L/live.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <baggy-pantsing.html>`__    | `Up <../B.html>`__         |  `Next <bamf.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| baggy pantsing                    | `Home <../index.html>`__   |  bamf                   |
-+-----------------------------------+----------------------------+-------------------------+
 
 bamf
-
-`Prev <balloonian-variable.html>`__ 
-
-B
-
- `Next <banana-problem.html>`__
-
---------------
+==========
 
 **bamf**: /bamf/
 
@@ -650,23 +402,9 @@ people over to our new location.”).
 user was asking about some technobabble so I bamfed them to
 `http://www.catb.org/~esr/jargon/ <http://www.catb.org/~esr/jargon/>`__\ ”.)
 
---------------
-
-+----------------------------------------+----------------------------+-----------------------------------+
-| `Prev <balloonian-variable.html>`__    | `Up <../B.html>`__         |  `Next <banana-problem.html>`__   |
-+----------------------------------------+----------------------------+-----------------------------------+
-| balloonian variable                    | `Home <../index.html>`__   |  banana problem                   |
-+----------------------------------------+----------------------------+-----------------------------------+
 
 banana problem
-
-`Prev <bamf.html>`__ 
-
-B
-
- `Next <bandwidth.html>`__
-
---------------
+=========================
 
 **banana problem**: n.
 
@@ -684,23 +422,8 @@ featuritis* <../C/creeping-featuritis.html>`__). See item 176 under
 Also, see `*one-banana problem* <../O/one-banana-problem.html>`__ for a
 superficially similar but unrelated usage.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <bamf.html>`__    | `Up <../B.html>`__         |  `Next <bandwidth.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| bamf                    | `Home <../index.html>`__   |  bandwidth                   |
-+-------------------------+----------------------------+------------------------------+
-
 bandwidth
-
-`Prev <banana-problem.html>`__ 
-
-B
-
- `Next <bang.html>`__
-
---------------
+==============
 
 **bandwidth**: n.
 
@@ -718,23 +441,9 @@ mainstream after the Internet population explosion of 1993-1994.
 that is often wasted by people complaining about how items posted by
 others are a waste of bandwidth.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <banana-problem.html>`__    | `Up <../B.html>`__         |  `Next <bang.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| banana problem                    | `Home <../index.html>`__   |  bang                   |
-+-----------------------------------+----------------------------+-------------------------+
 
 bang
-
-`Prev <bandwidth.html>`__ 
-
-B
-
- `Next <bang-on.html>`__
-
---------------
+===============
 
 **bang**
 
@@ -757,23 +466,10 @@ to acknowledge that one has perpetrated a
 `*thinko* <../T/thinko.html>`__ immediately after one has been called on
 it.
 
---------------
 
-+------------------------------+----------------------------+----------------------------+
-| `Prev <bandwidth.html>`__    | `Up <../B.html>`__         |  `Next <bang-on.html>`__   |
-+------------------------------+----------------------------+----------------------------+
-| bandwidth                    | `Home <../index.html>`__   |  bang on                   |
-+------------------------------+----------------------------+----------------------------+
 
 bang on
-
-`Prev <bang.html>`__ 
-
-B
-
- `Next <bang-path.html>`__
-
---------------
+============
 
 **bang on**: vt.
 
@@ -782,23 +478,10 @@ version of the simulator all day yesterday and it didn't crash once. I
 guess it is ready for release.” The term `*pound
 on* <../P/pound-on.html>`__ is synonymous.
 
---------------
 
-+-------------------------+----------------------------+------------------------------+
-| `Prev <bang.html>`__    | `Up <../B.html>`__         |  `Next <bang-path.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| bang                    | `Home <../index.html>`__   |  bang path                   |
-+-------------------------+----------------------------+------------------------------+
 
 bang path
-
-`Prev <bang-on.html>`__ 
-
-B
-
- `Next <banner.html>`__
-
---------------
+==============
 
 **bang path**: n.
 
@@ -823,46 +506,19 @@ by both transmission time and reliability, as messages would not
 infrequently get lost. See `*the network* <../T/the-network.html>`__ and
 `*sitename* <../S/sitename.html>`__.
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <bang-on.html>`__    | `Up <../B.html>`__         |  `Next <banner.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| bang on                    | `Home <../index.html>`__   |  banner                   |
-+----------------------------+----------------------------+---------------------------+
 
 banner ad
-
-`Prev <banner.html>`__ 
-
-B
-
- `Next <banner-site.html>`__
-
---------------
+===========
 
 **banner ad**: n.
 
 Any of the annoying graphical advertisements that span the tops of way
 too many Web pages.
 
---------------
 
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <banner.html>`__    | `Up <../B.html>`__         |  `Next <banner-site.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| banner                    | `Home <../index.html>`__   |  banner site                   |
-+---------------------------+----------------------------+--------------------------------+
 
 banner
-
-`Prev <bang-path.html>`__ 
-
-B
-
- `Next <banner-ad.html>`__
-
---------------
+==========
 
 **banner**: n.
 
@@ -883,23 +539,10 @@ paper to separate one user's printout from the next.
 paper) from user-specified text, e.g., by a program such as Unix's
 **banner({1,6**)}.
 
---------------
 
-+------------------------------+----------------------------+------------------------------+
-| `Prev <bang-path.html>`__    | `Up <../B.html>`__         |  `Next <banner-ad.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| bang path                    | `Home <../index.html>`__   |  banner ad                   |
-+------------------------------+----------------------------+------------------------------+
 
 banner site
-
-`Prev <banner-ad.html>`__ 
-
-B
-
- `Next <bar.html>`__
-
---------------
+==============
 
 **banner site**: n.
 
@@ -912,23 +555,9 @@ mailing lists turns out to be non-working or gives access to a site that
 always responds busy. See `*ratio site* <../R/ratio-site.html>`__,
 `*leech mode* <../L/leech-mode.html>`__.
 
---------------
-
-+------------------------------+----------------------------+------------------------+
-| `Prev <banner-ad.html>`__    | `Up <../B.html>`__         |  `Next <bar.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| banner ad                    | `Home <../index.html>`__   |  bar                   |
-+------------------------------+----------------------------+------------------------+
-
 bare metal
+=============
 
-`Prev <bar.html>`__ 
-
-B
-
- `Next <barf.html>`__
-
---------------
 
 **bare metal**: n.
 
@@ -955,23 +584,9 @@ costs of programming time and machine resources have changed, but is
 still found in heavily constrained environments such as industrial
 embedded systems. See `*Real Programmer* <../R/Real-Programmer.html>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <bar.html>`__    | `Up <../B.html>`__         |  `Next <barf.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| bar                    | `Home <../index.html>`__   |  barf                   |
-+------------------------+----------------------------+-------------------------+
 
 barf
-
-`Prev <bare-metal.html>`__ 
-
-B
-
- `Next <barfmail.html>`__
-
---------------
+============
 
 **barf**: /barf/, n.,v.
 
@@ -999,23 +614,9 @@ sometimes also used as a `*metasyntactic
 variable* <../M/metasyntactic-variable.html>`__, like
 `*foo* <../F/foo.html>`__ or `*bar* <bar.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <bare-metal.html>`__    | `Up <../B.html>`__         |  `Next <barfmail.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| bare metal                    | `Home <../index.html>`__   |  barfmail                   |
-+-------------------------------+----------------------------+-----------------------------+
 
 barfmail
-
-`Prev <barf.html>`__ 
-
-B
-
- `Next <barfulation.html>`__
-
---------------
+===========
 
 **barfmail**: n.
 
@@ -1023,23 +624,10 @@ Multiple `*bounce message* <bounce-message.html>`__\ s accumulating to
 the level of serious annoyance, or worse. The sort of thing that happens
 when an inter-network mail gateway goes down or wonky.
 
---------------
 
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <barf.html>`__    | `Up <../B.html>`__         |  `Next <barfulation.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| barf                    | `Home <../index.html>`__   |  barfulation                   |
-+-------------------------+----------------------------+--------------------------------+
 
 barfulation
-
-`Prev <barfmail.html>`__ 
-
-B
-
- `Next <barfulous.html>`__
-
---------------
+=============
 
 **barfulation**: /bar\`fyoo·lay´sh@n/, interj.
 
@@ -1047,46 +635,20 @@ Variation of `*barf* <barf.html>`__ used around the Stanford area. An
 exclamation, expressing disgust. On seeing some particularly bad code
 one might exclaim, “Barfulation! Who wrote this, Quux?”
 
---------------
 
-+-----------------------------+----------------------------+------------------------------+
-| `Prev <barfmail.html>`__    | `Up <../B.html>`__         |  `Next <barfulous.html>`__   |
-+-----------------------------+----------------------------+------------------------------+
-| barfmail                    | `Home <../index.html>`__   |  barfulous                   |
-+-----------------------------+----------------------------+------------------------------+
 
 barfulous
-
-`Prev <barfulation.html>`__ 
-
-B
-
- `Next <barn.html>`__
-
---------------
+==========
 
 **barfulous**: /bar´fyoo·l@s/, adj.
 
 (alt.: barfucious, /bar-fyoo-sh@s/) Said of something that would make
 anyone barf, if only for esthetic reasons.
 
---------------
 
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <barfulation.html>`__    | `Up <../B.html>`__         |  `Next <barn.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| barfulation                    | `Home <../index.html>`__   |  barn                   |
-+--------------------------------+----------------------------+-------------------------+
 
 bar
-
-`Prev <banner-site.html>`__ 
-
-B
-
- `Next <bare-metal.html>`__
-
---------------
+==============
 
 **bar**: /bar/, n.
 
@@ -1098,23 +660,10 @@ have two functions: FOO and BAR. FOO calls BAR....”
 2. Often appended to `*foo* <../F/foo.html>`__ to produce
 `*foobar* <../F/foobar.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <banner-site.html>`__    | `Up <../B.html>`__         |  `Next <bare-metal.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| banner site                    | `Home <../index.html>`__   |  bare metal                   |
-+--------------------------------+----------------------------+-------------------------------+
 
 barney
-
-`Prev <barn.html>`__ 
-
-B
-
- `Next <baroque.html>`__
-
---------------
+=========
 
 **barney**: n.
 
@@ -1124,23 +673,9 @@ people who commonly use fred as their first metasyntactic variable will
 often use barney second. The reference is, of course, to Fred Flintstone
 and Barney Rubble in the Flintstones cartoons.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <barn.html>`__    | `Up <../B.html>`__         |  `Next <baroque.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| barn                    | `Home <../index.html>`__   |  baroque                   |
-+-------------------------+----------------------------+----------------------------+
 
 barn
-
-`Prev <barfulous.html>`__ 
-
-B
-
- `Next <barney.html>`__
-
---------------
+==========
 
 **barn**: n.
 
@@ -1156,23 +691,9 @@ barn”. The units for cross-sections were christened Barns, (10:sup:`-24`
 cm\ :sup:`2`) and the book containing cross-sections has a picture of a
 barn on the cover.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <barfulous.html>`__    | `Up <../B.html>`__         |  `Next <barney.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| barfulous                    | `Home <../index.html>`__   |  barney                   |
-+------------------------------+----------------------------+---------------------------+
 
 baroque
-
-`Prev <barney.html>`__ 
-
-B
-
- `Next <BASIC.html>`__
-
---------------
+========
 
 **baroque**: adj.
 
@@ -1189,20 +710,13 @@ Now *that* is baroque!” See also `*rococo* <../R/rococo.html>`__.
 --------------
 
 +---------------------------+----------------------------+--------------------------+
-| `Prev <barney.html>`__    | `Up <../B.html>`__         |  `Next <BASIC.html>`__   |
+| `Prev <barney.html>`__    | `Up <../B.html>`__         |  `Next <BASIC.html>`__   |
 +---------------------------+----------------------------+--------------------------+
-| barney                    | `Home <../index.html>`__   |  BASIC                   |
+| barney                    | `Home <../index.html>`__   |  BASIC                   |
 +---------------------------+----------------------------+--------------------------+
 
 BASIC
-
-`Prev <baroque.html>`__ 
-
-B
-
- `Next <batbelt.html>`__
-
---------------
+======
 
 **BASIC**: /bay'·sic/, n.
 
@@ -1234,20 +748,13 @@ Earlier versions of this entry claiming this was a later
 --------------
 
 +----------------------------+----------------------------+----------------------------+
-| `Prev <baroque.html>`__    | `Up <../B.html>`__         |  `Next <batbelt.html>`__   |
+| `Prev <baroque.html>`__    | `Up <../B.html>`__         |  `Next <batbelt.html>`__   |
 +----------------------------+----------------------------+----------------------------+
-| baroque                    | `Home <../index.html>`__   |  batbelt                   |
+| baroque                    | `Home <../index.html>`__   |  batbelt                   |
 +----------------------------+----------------------------+----------------------------+
 
 batbelt
-
-`Prev <BASIC.html>`__ 
-
-B
-
- `Next <batch.html>`__
-
---------------
+=========
 
 **batbelt**: n.
 
@@ -1260,20 +767,13 @@ resembles Batman's utility belt; hence it is referred to as a batbelt.
 --------------
 
 +--------------------------+----------------------------+--------------------------+
-| `Prev <BASIC.html>`__    | `Up <../B.html>`__         |  `Next <batch.html>`__   |
+| `Prev <BASIC.html>`__    | `Up <../B.html>`__         |  `Next <batch.html>`__   |
 +--------------------------+----------------------------+--------------------------+
-| BASIC                    | `Home <../index.html>`__   |  batch                   |
+| BASIC                    | `Home <../index.html>`__   |  batch                   |
 +--------------------------+----------------------------+--------------------------+
 
 batch
-
-`Prev <batbelt.html>`__ 
-
-B
-
- `Next <bathtub-curve.html>`__
-
---------------
+========
 
 **batch**: adj.
 
@@ -1293,30 +793,19 @@ lumped together for greater efficiency. “I'm batching up those letters
 to send sometime” “I'm batching up bottles to take to the recycling
 center.”
 
-|image0|
+.. image:: ../_static/crunchly-2.png
 
 (The next cartoon in the Crunchly saga is
-`76-03-17:5-8 <../F/flush.html#crunchly-5678>`__. The previous one is
-`76-02-14 <../W/washing-machine.html#crunchly76-02-14>`__.)
+`76-03-17:5-8 <../F.html#flush>`__. The previous one is
+`76-02-14 <../W.html#washing-machine>`__.)
 
---------------
 
-+----------------------------+----------------------------+----------------------------------+
-| `Prev <batbelt.html>`__    | `Up <../B.html>`__         |  `Next <bathtub-curve.html>`__   |
-+----------------------------+----------------------------+----------------------------------+
-| batbelt                    | `Home <../index.html>`__   |  bathtub curve                   |
-+----------------------------+----------------------------+----------------------------------+
 
-.. |image0| image:: ../graphics/crunchly-2.png
+
+
+
 bathtub curve
-
-`Prev <batch.html>`__ 
-
-B
-
- `Next <Batman-factor.html>`__
-
---------------
+==============
 
 **bathtub curve**: n.
 
@@ -1330,20 +819,14 @@ mortality* <../I/infant-mortality.html>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------------+
-| `Prev <batch.html>`__    | `Up <../B.html>`__         |  `Next <Batman-factor.html>`__   |
+| `Prev <batch.html>`__    | `Up <../B.html>`__         |  `Next <Batman-factor.html>`__   |
 +--------------------------+----------------------------+----------------------------------+
-| batch                    | `Home <../index.html>`__   |  Batman factor                   |
+| batch                    | `Home <../index.html>`__   |  Batman factor                   |
 +--------------------------+----------------------------+----------------------------------+
 
 Batman factor
+===============
 
-`Prev <bathtub-curve.html>`__ 
-
-B
-
- `Next <baud.html>`__
-
---------------
 
 **Batman factor**: n.
 
@@ -1364,20 +847,13 @@ and weight.
 --------------
 
 +----------------------------------+----------------------------+-------------------------+
-| `Prev <bathtub-curve.html>`__    | `Up <../B.html>`__         |  `Next <baud.html>`__   |
+| `Prev <bathtub-curve.html>`__    | `Up <../B.html>`__         |  `Next <baud.html>`__   |
 +----------------------------------+----------------------------+-------------------------+
-| bathtub curve                    | `Home <../index.html>`__   |  baud                   |
+| bathtub curve                    | `Home <../index.html>`__   |  baud                   |
 +----------------------------------+----------------------------+-------------------------+
 
 baud
-
-`Prev <Batman-factor.html>`__ 
-
-B
-
- `Next <baz.html>`__
-
---------------
+============
 
 **baud**: /bawd/, n.
 
@@ -1398,20 +874,13 @@ did a lot of pioneering work in early teleprinters.
 --------------
 
 +----------------------------------+----------------------------+------------------------+
-| `Prev <Batman-factor.html>`__    | `Up <../B.html>`__         |  `Next <baz.html>`__   |
+| `Prev <Batman-factor.html>`__    | `Up <../B.html>`__         |  `Next <baz.html>`__   |
 +----------------------------------+----------------------------+------------------------+
-| Batman factor                    | `Home <../index.html>`__   |  baz                   |
+| Batman factor                    | `Home <../index.html>`__   |  baz                   |
 +----------------------------------+----------------------------+------------------------+
 
 bazaar
-
-`Prev <baz.html>`__ 
-
-B
-
- `Next <bboard.html>`__
-
---------------
+=========
 
 **bazaar**: n.,adj.
 
@@ -1434,20 +903,13 @@ strongest arguments for `*open source* <../O/open-source.html>`__.
 --------------
 
 +------------------------+----------------------------+---------------------------+
-| `Prev <baz.html>`__    | `Up <../B.html>`__         |  `Next <bboard.html>`__   |
+| `Prev <baz.html>`__    | `Up <../B.html>`__         |  `Next <bboard.html>`__   |
 +------------------------+----------------------------+---------------------------+
-| baz                    | `Home <../index.html>`__   |  bboard                   |
+| baz                    | `Home <../index.html>`__   |  bboard                   |
 +------------------------+----------------------------+---------------------------+
 
 baz
-
-`Prev <baud.html>`__ 
-
-B
-
- `Next <bazaar.html>`__
-
---------------
+============
 
 **baz**: /baz/, n.
 
@@ -1475,20 +937,13 @@ England counties of Rowrfolk and Bassex (Rowrbazzle mingled with
 --------------
 
 +-------------------------+----------------------------+---------------------------+
-| `Prev <baud.html>`__    | `Up <../B.html>`__         |  `Next <bazaar.html>`__   |
+| `Prev <baud.html>`__    | `Up <../B.html>`__         |  `Next <bazaar.html>`__   |
 +-------------------------+----------------------------+---------------------------+
-| baud                    | `Home <../index.html>`__   |  bazaar                   |
+| baud                    | `Home <../index.html>`__   |  bazaar                   |
 +-------------------------+----------------------------+---------------------------+
 
 bboard
-
-`Prev <bazaar.html>`__ 
-
-B
-
- `Next <BBS.html>`__
-
---------------
+============
 
 **bboard**: /bee´bord/, n.
 
@@ -1517,20 +972,13 @@ general”.
 --------------
 
 +---------------------------+----------------------------+------------------------+
-| `Prev <bazaar.html>`__    | `Up <../B.html>`__         |  `Next <BBS.html>`__   |
+| `Prev <bazaar.html>`__    | `Up <../B.html>`__         |  `Next <BBS.html>`__   |
 +---------------------------+----------------------------+------------------------+
-| bazaar                    | `Home <../index.html>`__   |  BBS                   |
+| bazaar                    | `Home <../index.html>`__   |  BBS                   |
 +---------------------------+----------------------------+------------------------+
 
 BBS
-
-`Prev <bboard.html>`__ 
-
-B
-
- `Next <BCPL.html>`__
-
---------------
+=============
 
 **BBS**: /B·B·S/, n.
 
@@ -1553,20 +1001,13 @@ efficiency has increased but a certain flavor has been lost. See also
 --------------
 
 +---------------------------+----------------------------+-------------------------+
-| `Prev <bboard.html>`__    | `Up <../B.html>`__         |  `Next <BCPL.html>`__   |
+| `Prev <bboard.html>`__    | `Up <../B.html>`__         |  `Next <BCPL.html>`__   |
 +---------------------------+----------------------------+-------------------------+
-| bboard                    | `Home <../index.html>`__   |  BCPL                   |
+| bboard                    | `Home <../index.html>`__   |  BCPL                   |
 +---------------------------+----------------------------+-------------------------+
 
 BCPL
-
-`Prev <BBS.html>`__ 
-
-B
-
- `Next <BDFL.html>`__
-
---------------
+==============
 
 **BCPL**: //, n.
 
@@ -1585,20 +1026,13 @@ which inherited some of its features.
 --------------
 
 +------------------------+----------------------------+-------------------------+
-| `Prev <BBS.html>`__    | `Up <../B.html>`__         |  `Next <BDFL.html>`__   |
+| `Prev <BBS.html>`__    | `Up <../B.html>`__         |  `Next <BDFL.html>`__   |
 +------------------------+----------------------------+-------------------------+
-| BBS                    | `Home <../index.html>`__   |  BDFL                   |
+| BBS                    | `Home <../index.html>`__   |  BDFL                   |
 +------------------------+----------------------------+-------------------------+
 
 BDFL
-
-`Prev <BCPL.html>`__ 
-
-B
-
- `Next <beam.html>`__
-
---------------
+=========
 
 **BDFL**
 
@@ -1613,20 +1047,13 @@ Guido in person.
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <BCPL.html>`__    | `Up <../B.html>`__         |  `Next <beam.html>`__   |
+| `Prev <BCPL.html>`__    | `Up <../B.html>`__         |  `Next <beam.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| BCPL                    | `Home <../index.html>`__   |  beam                   |
+| BCPL                    | `Home <../index.html>`__   |  beam                   |
 +-------------------------+----------------------------+-------------------------+
 
 beam
-
-`Prev <BDFL.html>`__ 
-
-B
-
- `Next <beanie-key.html>`__
-
---------------
+============
 
 **beam**: vt.
 
@@ -1645,20 +1072,13 @@ seems to have originated with the ill-fated Newton Message Pad). Compare
 --------------
 
 +-------------------------+----------------------------+-------------------------------+
-| `Prev <BDFL.html>`__    | `Up <../B.html>`__         |  `Next <beanie-key.html>`__   |
+| `Prev <BDFL.html>`__    | `Up <../B.html>`__         |  `Next <beanie-key.html>`__   |
 +-------------------------+----------------------------+-------------------------------+
-| BDFL                    | `Home <../index.html>`__   |  beanie key                   |
+| BDFL                    | `Home <../index.html>`__   |  beanie key                   |
 +-------------------------+----------------------------+-------------------------------+
 
 beanie key
-
-`Prev <beam.html>`__ 
-
-B
-
- `Next <beep.html>`__
-
---------------
+===========
 
 **beanie key**: n.
 
@@ -1667,20 +1087,13 @@ B
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <beam.html>`__    | `Up <../B.html>`__         |  `Next <beep.html>`__   |
+| `Prev <beam.html>`__    | `Up <../B.html>`__         |  `Next <beep.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| beam                    | `Home <../index.html>`__   |  beep                   |
+| beam                    | `Home <../index.html>`__   |  beep                   |
 +-------------------------+----------------------------+-------------------------+
 
 beep
-
-`Prev <beanie-key.html>`__ 
-
-B
-
- `Next <Befunge.html>`__
-
---------------
+============
 
 **beep**: n.,v.
 
@@ -1691,20 +1104,13 @@ hobbyists.
 --------------
 
 +-------------------------------+----------------------------+----------------------------+
-| `Prev <beanie-key.html>`__    | `Up <../B.html>`__         |  `Next <Befunge.html>`__   |
+| `Prev <beanie-key.html>`__    | `Up <../B.html>`__         |  `Next <Befunge.html>`__   |
 +-------------------------------+----------------------------+----------------------------+
-| beanie key                    | `Home <../index.html>`__   |  Befunge                   |
+| beanie key                    | `Home <../index.html>`__   |  Befunge                   |
 +-------------------------------+----------------------------+----------------------------+
 
 Befunge
-
-`Prev <beep.html>`__ 
-
-B
-
- `Next <beige-toaster.html>`__
-
---------------
+==========
 
 **Befunge**: n.
 
@@ -1717,20 +1123,13 @@ with exotic topologies. The Befunge home page is at
 --------------
 
 +-------------------------+----------------------------+----------------------------------+
-| `Prev <beep.html>`__    | `Up <../B.html>`__         |  `Next <beige-toaster.html>`__   |
+| `Prev <beep.html>`__    | `Up <../B.html>`__         |  `Next <beige-toaster.html>`__   |
 +-------------------------+----------------------------+----------------------------------+
-| beep                    | `Home <../index.html>`__   |  beige toaster                   |
+| beep                    | `Home <../index.html>`__   |  beige toaster                   |
 +-------------------------+----------------------------+----------------------------------+
 
 beige toaster
-
-`Prev <Befunge.html>`__ 
-
-B
-
- `Next <bells-and-whistles.html>`__
-
---------------
+================
 
 **beige toaster**: n.
 
@@ -1742,20 +1141,13 @@ B
 --------------
 
 +----------------------------+----------------------------+---------------------------------------+
-| `Prev <Befunge.html>`__    | `Up <../B.html>`__         |  `Next <bells-and-whistles.html>`__   |
+| `Prev <Befunge.html>`__    | `Up <../B.html>`__         |  `Next <bells-and-whistles.html>`__   |
 +----------------------------+----------------------------+---------------------------------------+
-| Befunge                    | `Home <../index.html>`__   |  bells and whistles                   |
+| Befunge                    | `Home <../index.html>`__   |  bells and whistles                   |
 +----------------------------+----------------------------+---------------------------------------+
 
 bells and whistles
-
-`Prev <beige-toaster.html>`__ 
-
-B
-
- `Next <bells-whistles-and-gongs.html>`__
-
---------------
+=====================
 
 **bells and whistles**: n.
 
@@ -1786,21 +1178,15 @@ whistles* <bells-and-whistles.html>`__...
 --------------
 
 +----------------------------------+----------------------------+---------------------------------------------+
-| `Prev <beige-toaster.html>`__    | `Up <../B.html>`__         |  `Next <bells-whistles-and-gongs.html>`__   |
+| `Prev <beige-toaster.html>`__    | `Up <../B.html>`__         |  `Next <bells-whistles-and-gongs.html>`__   |
 +----------------------------------+----------------------------+---------------------------------------------+
-| beige toaster                    | `Home <../index.html>`__   |  bells whistles and gongs                   |
+| beige toaster                    | `Home <../index.html>`__   |  bells whistles and gongs                   |
 +----------------------------------+----------------------------+---------------------------------------------+
 
 .. |image0| image:: ../graphics/73-05-28.png
+
 bells whistles and gongs
-
-`Prev <bells-and-whistles.html>`__ 
-
-B
-
- `Next <benchmark.html>`__
-
---------------
+==========================
 
 **bells whistles and gongs**: n.
 
@@ -1811,20 +1197,13 @@ and ironic accent on the ‘gongs’.
 --------------
 
 +---------------------------------------+----------------------------+------------------------------+
-| `Prev <bells-and-whistles.html>`__    | `Up <../B.html>`__         |  `Next <benchmark.html>`__   |
+| `Prev <bells-and-whistles.html>`__    | `Up <../B.html>`__         |  `Next <benchmark.html>`__   |
 +---------------------------------------+----------------------------+------------------------------+
-| bells and whistles                    | `Home <../index.html>`__   |  benchmark                   |
+| bells and whistles                    | `Home <../index.html>`__   |  benchmark                   |
 +---------------------------------------+----------------------------+------------------------------+
 
 benchmark
-
-`Prev <bells-whistles-and-gongs.html>`__ 
-
-B
-
- `Next <Berkeley-Quality-Software.html>`__
-
---------------
+==============
 
 **benchmark**: n.
 
@@ -1839,20 +1218,13 @@ mirrors* <../S/smoke-and-mirrors.html>`__.
 --------------
 
 +---------------------------------------------+----------------------------+----------------------------------------------+
-| `Prev <bells-whistles-and-gongs.html>`__    | `Up <../B.html>`__         |  `Next <Berkeley-Quality-Software.html>`__   |
+| `Prev <bells-whistles-and-gongs.html>`__    | `Up <../B.html>`__         |  `Next <Berkeley-Quality-Software.html>`__   |
 +---------------------------------------------+----------------------------+----------------------------------------------+
-| bells whistles and gongs                    | `Home <../index.html>`__   |  Berkeley Quality Software                   |
+| bells whistles and gongs                    | `Home <../index.html>`__   |  Berkeley Quality Software                   |
 +---------------------------------------------+----------------------------+----------------------------------------------+
 
 Berkeley Quality Software
-
-`Prev <benchmark.html>`__ 
-
-B
-
- `Next <Berzerkeley.html>`__
-
---------------
+============================
 
 **Berkeley Quality Software**: adj.
 
@@ -1870,20 +1242,13 @@ Note to British and Commonwealth readers: that's /berk´lee/, not
 --------------
 
 +------------------------------+----------------------------+--------------------------------+
-| `Prev <benchmark.html>`__    | `Up <../B.html>`__         |  `Next <Berzerkeley.html>`__   |
+| `Prev <benchmark.html>`__    | `Up <../B.html>`__         |  `Next <Berzerkeley.html>`__   |
 +------------------------------+----------------------------+--------------------------------+
-| benchmark                    | `Home <../index.html>`__   |  Berzerkeley                   |
+| benchmark                    | `Home <../index.html>`__   |  Berzerkeley                   |
 +------------------------------+----------------------------+--------------------------------+
 
 Berzerkeley
-
-`Prev <Berkeley-Quality-Software.html>`__ 
-
-B
-
- `Next <beta.html>`__
-
---------------
+================
 
 **Berzerkeley**: /b@r·zer´klee/, n.
 
@@ -1901,20 +1266,13 @@ back as the 1960s.
 --------------
 
 +----------------------------------------------+----------------------------+-------------------------+
-| `Prev <Berkeley-Quality-Software.html>`__    | `Up <../B.html>`__         |  `Next <beta.html>`__   |
+| `Prev <Berkeley-Quality-Software.html>`__    | `Up <../B.html>`__         |  `Next <beta.html>`__   |
 +----------------------------------------------+----------------------------+-------------------------+
-| Berkeley Quality Software                    | `Home <../index.html>`__   |  beta                   |
+| Berkeley Quality Software                    | `Home <../index.html>`__   |  beta                   |
 +----------------------------------------------+----------------------------+-------------------------+
 
 beta
-
-`Prev <Berzerkeley.html>`__ 
-
-B
-
- `Next <BFI.html>`__
-
---------------
+==================
 
 **beta**: /bay´t@/, /be´t@/, /bee´t@/, n.
 
@@ -1946,20 +1304,13 @@ after the model had been in production a while.
 --------------
 
 +--------------------------------+----------------------------+------------------------+
-| `Prev <Berzerkeley.html>`__    | `Up <../B.html>`__         |  `Next <BFI.html>`__   |
+| `Prev <Berzerkeley.html>`__    | `Up <../B.html>`__         |  `Next <BFI.html>`__   |
 +--------------------------------+----------------------------+------------------------+
-| Berzerkeley                    | `Home <../index.html>`__   |  BFI                   |
+| Berzerkeley                    | `Home <../index.html>`__   |  BFI                   |
 +--------------------------------+----------------------------+------------------------+
 
 BFI
-
-`Prev <beta.html>`__ 
-
-B
-
- `Next <BI.html>`__
-
---------------
+=============
 
 **BFI**: /B·F·I/, n.
 
@@ -1973,20 +1324,13 @@ logo in white-on-blue could be seen on the sides of garbage trucks.
 --------------
 
 +-------------------------+----------------------------+-----------------------+
-| `Prev <beta.html>`__    | `Up <../B.html>`__         |  `Next <BI.html>`__   |
+| `Prev <beta.html>`__    | `Up <../B.html>`__         |  `Next <BI.html>`__   |
 +-------------------------+----------------------------+-----------------------+
-| beta                    | `Home <../index.html>`__   |  BI                   |
+| beta                    | `Home <../index.html>`__   |  BI                   |
 +-------------------------+----------------------------+-----------------------+
 
 bible
-
-`Prev <BI.html>`__ 
-
-B
-
- `Next <BiCapitalization.html>`__
-
---------------
+==================
 
 **bible**: n.
 
@@ -2000,20 +1344,13 @@ language, operating system, or other complex software system.
 --------------
 
 +-----------------------+----------------------------+-------------------------------------+
-| `Prev <BI.html>`__    | `Up <../B.html>`__         |  `Next <BiCapitalization.html>`__   |
+| `Prev <BI.html>`__    | `Up <../B.html>`__         |  `Next <BiCapitalization.html>`__   |
 +-----------------------+----------------------------+-------------------------------------+
-| BI                    | `Home <../index.html>`__   |  BiCapitalization                   |
+| BI                    | `Home <../index.html>`__   |  BiCapitalization                   |
 +-----------------------+----------------------------+-------------------------------------+
 
 BiCapitalization
-
-`Prev <bible.html>`__ 
-
-B
-
- `Next <biff.html>`__
-
---------------
+===================
 
 **BiCapitalization**: n.
 
@@ -2030,20 +1367,13 @@ is really cute, even the 2,317th time they do it. Compare
 --------------
 
 +--------------------------+----------------------------+-------------------------+
-| `Prev <bible.html>`__    | `Up <../B.html>`__         |  `Next <biff.html>`__   |
+| `Prev <bible.html>`__    | `Up <../B.html>`__         |  `Next <biff.html>`__   |
 +--------------------------+----------------------------+-------------------------+
-| bible                    | `Home <../index.html>`__   |  biff                   |
+| bible                    | `Home <../index.html>`__   |  biff                   |
 +--------------------------+----------------------------+-------------------------+
 
 biff
-
-`Prev <BiCapitalization.html>`__ 
-
-B
-
- `Next <big-iron.html>`__
-
---------------
+=============
 
 **biff**: /bif/, vt.
 
@@ -2057,20 +1387,13 @@ the author of **biff** says this is not true. No relation to
 --------------
 
 +-------------------------------------+----------------------------+-----------------------------+
-| `Prev <BiCapitalization.html>`__    | `Up <../B.html>`__         |  `Next <big-iron.html>`__   |
+| `Prev <BiCapitalization.html>`__    | `Up <../B.html>`__         |  `Next <big-iron.html>`__   |
 +-------------------------------------+----------------------------+-----------------------------+
-| BiCapitalization                    | `Home <../index.html>`__   |  big iron                   |
+| BiCapitalization                    | `Home <../index.html>`__   |  big iron                   |
 +-------------------------------------+----------------------------+-----------------------------+
 
 big-endian
-
-`Prev <big-win.html>`__ 
-
-B
-
- `Next <bignum.html>`__
-
---------------
+========================
 
 **big-endian**: adj.
 
@@ -2104,20 +1427,13 @@ world.
 --------------
 
 +----------------------------+----------------------------+---------------------------+
-| `Prev <big-win.html>`__    | `Up <../B.html>`__         |  `Next <bignum.html>`__   |
+| `Prev <big-win.html>`__    | `Up <../B.html>`__         |  `Next <bignum.html>`__   |
 +----------------------------+----------------------------+---------------------------+
-| big win                    | `Home <../index.html>`__   |  bignum                   |
+| big win                    | `Home <../index.html>`__   |  bignum                   |
 +----------------------------+----------------------------+---------------------------+
 
 big iron
-
-`Prev <biff.html>`__ 
-
-B
-
- `Next <Big-Red-Switch.html>`__
-
---------------
+=====================
 
 **big iron**: n.
 
@@ -2130,20 +1446,13 @@ approval; compare `*heavy metal* <../H/heavy-metal.html>`__, oppose
 --------------
 
 +-------------------------+----------------------------+-----------------------------------+
-| `Prev <biff.html>`__    | `Up <../B.html>`__         |  `Next <Big-Red-Switch.html>`__   |
+| `Prev <biff.html>`__    | `Up <../B.html>`__         |  `Next <Big-Red-Switch.html>`__   |
 +-------------------------+----------------------------+-----------------------------------+
-| biff                    | `Home <../index.html>`__   |  Big Red Switch                   |
+| biff                    | `Home <../index.html>`__   |  Big Red Switch                   |
 +-------------------------+----------------------------+-----------------------------------+
 
 bignum
-
-`Prev <big-endian.html>`__ 
-
-B
-
- `Next <bigot.html>`__
-
---------------
+===================
 
 **bignum**: /big´nuhm/, n.
 
@@ -2168,79 +1477,72 @@ six or seven decimal places. Computer languages that provide bignums can
 perform exact calculations on very large numbers, such as 1000! (the
 factorial of 1000, which is 1000 times 999 times 998 times ... times 2
 times 1). For example, this value for 1000! was computed by the MacLISP
-system using bignums:
+system using bignums::
 
-| 
-|  40238726007709377354370243392300398571937486421071
-|  46325437999104299385123986290205920442084869694048
-|  00479988610197196058631666872994808558901323829669
-|  94459099742450408707375991882362772718873251977950
-|  59509952761208749754624970436014182780946464962910
-|  56393887437886487337119181045825783647849977012476
-|  63288983595573543251318532395846307555740911426241
-|  74743493475534286465766116677973966688202912073791
-|  43853719588249808126867838374559731746136085379534
-|  52422158659320192809087829730843139284440328123155
-|  86110369768013573042161687476096758713483120254785
-|  89320767169132448426236131412508780208000261683151
-|  02734182797770478463586817016436502415369139828126
-|  48102130927612448963599287051149649754199093422215
-|  66832572080821333186116811553615836546984046708975
-|  60290095053761647584772842188967964624494516076535
-|  34081989013854424879849599533191017233555566021394
-|  50399736280750137837615307127761926849034352625200
-|  01588853514733161170210396817592151090778801939317
-|  81141945452572238655414610628921879602238389714760
-|  88506276862967146674697562911234082439208160153780
-|  88989396451826324367161676217916890977991190375403
-|  12746222899880051954444142820121873617459926429565
-|  81746628302955570299024324153181617210465832036786
-|  90611726015878352075151628422554026517048330422614
-|  39742869330616908979684825901254583271682264580665
-|  26769958652682272807075781391858178889652208164348
-|  34482599326604336766017699961283186078838615027946
-|  59551311565520360939881806121385586003014356945272
-|  24206344631797460594682573103790084024432438465657
-|  24501440282188525247093519062092902313649327349756
-|  55139587205596542287497740114133469627154228458623
-|  77387538230483865688976461927383814900140767310446
-|  64025989949022222176590433990188601856652648506179
-|  97023561938970178600408118897299183110211712298459
-|  01641921068884387121855646124960798722908519296819
-|  37238864261483965738229112312502418664935314397013
-|  74285319266498753372189406942814341185201580141233
-|  44828015051399694290153483077644569099073152433278
-|  28826986460278986432113908350621709500259738986355
-|  42771967428222487575867657523442202075736305694988
-|  25087968928162753848863396909959826280956121450994
-|  87170124451646126037902930912088908694202851064018
-|  21543994571568059418727489980942547421735824010636
-|  77404595741785160829230135358081840096996372524230
-|  56085590370062427124341690900415369010593398383577
-|  79394109700277534720000000000000000000000000000000
-|  00000000000000000000000000000000000000000000000000
-|  00000000000000000000000000000000000000000000000000
-|  00000000000000000000000000000000000000000000000000
-|  00000000000000000000000000000000000000000000000000
-|  00000000000000000.
+ 
+  40238726007709377354370243392300398571937486421071
+  46325437999104299385123986290205920442084869694048
+  00479988610197196058631666872994808558901323829669
+  94459099742450408707375991882362772718873251977950
+  59509952761208749754624970436014182780946464962910
+  56393887437886487337119181045825783647849977012476
+  63288983595573543251318532395846307555740911426241
+  74743493475534286465766116677973966688202912073791
+  43853719588249808126867838374559731746136085379534
+  52422158659320192809087829730843139284440328123155
+  86110369768013573042161687476096758713483120254785
+  89320767169132448426236131412508780208000261683151
+  02734182797770478463586817016436502415369139828126
+  48102130927612448963599287051149649754199093422215
+  66832572080821333186116811553615836546984046708975
+  60290095053761647584772842188967964624494516076535
+  34081989013854424879849599533191017233555566021394
+  50399736280750137837615307127761926849034352625200
+  01588853514733161170210396817592151090778801939317
+  81141945452572238655414610628921879602238389714760
+  88506276862967146674697562911234082439208160153780
+  88989396451826324367161676217916890977991190375403
+  12746222899880051954444142820121873617459926429565
+  81746628302955570299024324153181617210465832036786
+  90611726015878352075151628422554026517048330422614
+  39742869330616908979684825901254583271682264580665
+  26769958652682272807075781391858178889652208164348
+  34482599326604336766017699961283186078838615027946
+  59551311565520360939881806121385586003014356945272
+  24206344631797460594682573103790084024432438465657
+  24501440282188525247093519062092902313649327349756
+  55139587205596542287497740114133469627154228458623
+  77387538230483865688976461927383814900140767310446
+  64025989949022222176590433990188601856652648506179
+  97023561938970178600408118897299183110211712298459
+  01641921068884387121855646124960798722908519296819
+  37238864261483965738229112312502418664935314397013
+  74285319266498753372189406942814341185201580141233
+  44828015051399694290153483077644569099073152433278
+  28826986460278986432113908350621709500259738986355
+  42771967428222487575867657523442202075736305694988
+  25087968928162753848863396909959826280956121450994
+  87170124451646126037902930912088908694202851064018
+  21543994571568059418727489980942547421735824010636
+  77404595741785160829230135358081840096996372524230
+  56085590370062427124341690900415369010593398383577
+  79394109700277534720000000000000000000000000000000
+  00000000000000000000000000000000000000000000000000
+  00000000000000000000000000000000000000000000000000
+  00000000000000000000000000000000000000000000000000
+  00000000000000000000000000000000000000000000000000
+  00000000000000000.
 
 --------------
 
 +-------------------------------+----------------------------+--------------------------+
-| `Prev <big-endian.html>`__    | `Up <../B.html>`__         |  `Next <bigot.html>`__   |
+| `Prev <big-endian.html>`__    | `Up <../B.html>`__         |  `Next <bigot.html>`__   |
 +-------------------------------+----------------------------+--------------------------+
-| big-endian                    | `Home <../index.html>`__   |  bigot                   |
+| big-endian                    | `Home <../index.html>`__   |  bigot                   |
 +-------------------------------+----------------------------+--------------------------+
 
 bigot
-
-`Prev <bignum.html>`__ 
-
-B
-
- `Next <bikeshedding.html>`__
-
---------------
+==============
 
 **bigot**: n.
 
@@ -2258,20 +1560,13 @@ Complex* <../A/Amiga-Persecution-Complex.html>`__.
 --------------
 
 +---------------------------+----------------------------+---------------------------------+
-| `Prev <bignum.html>`__    | `Up <../B.html>`__         |  `Next <bikeshedding.html>`__   |
+| `Prev <bignum.html>`__    | `Up <../B.html>`__         |  `Next <bikeshedding.html>`__   |
 +---------------------------+----------------------------+---------------------------------+
-| bignum                    | `Home <../index.html>`__   |  bikeshedding                   |
+| bignum                    | `Home <../index.html>`__   |  bikeshedding                   |
 +---------------------------+----------------------------+---------------------------------+
 
 Big Red Switch
-
-`Prev <big-iron.html>`__ 
-
-B
-
- `Next <Big-Room.html>`__
-
---------------
+===================
 
 **Big Red Switch**: n.
 
@@ -2295,20 +1590,13 @@ switch* <../S/scram-switch.html>`__.
 --------------
 
 +-----------------------------+----------------------------+-----------------------------+
-| `Prev <big-iron.html>`__    | `Up <../B.html>`__         |  `Next <Big-Room.html>`__   |
+| `Prev <big-iron.html>`__    | `Up <../B.html>`__         |  `Next <Big-Room.html>`__   |
 +-----------------------------+----------------------------+-----------------------------+
-| big iron                    | `Home <../index.html>`__   |  Big Room                   |
+| big iron                    | `Home <../index.html>`__   |  Big Room                   |
 +-----------------------------+----------------------------+-----------------------------+
 
 Big Room
-
-`Prev <Big-Red-Switch.html>`__ 
-
-B
-
- `Next <big-win.html>`__
-
---------------
+==============
 
 **Big Room**: n.
 
@@ -2321,20 +1609,13 @@ in the Big Room.”
 --------------
 
 +-----------------------------------+----------------------------+----------------------------+
-| `Prev <Big-Red-Switch.html>`__    | `Up <../B.html>`__         |  `Next <big-win.html>`__   |
+| `Prev <Big-Red-Switch.html>`__    | `Up <../B.html>`__         |  `Next <big-win.html>`__   |
 +-----------------------------------+----------------------------+----------------------------+
-| Big Red Switch                    | `Home <../index.html>`__   |  big win                   |
+| Big Red Switch                    | `Home <../index.html>`__   |  big win                   |
 +-----------------------------------+----------------------------+----------------------------+
 
 big win
-
-`Prev <Big-Room.html>`__ 
-
-B
-
- `Next <big-endian.html>`__
-
---------------
+=============
 
 **big win**: n.
 
@@ -2348,20 +1629,13 @@ mistake; big win!” See `*win big* <../W/win-big.html>`__.
 --------------
 
 +-----------------------------+----------------------------+-------------------------------+
-| `Prev <Big-Room.html>`__    | `Up <../B.html>`__         |  `Next <big-endian.html>`__   |
+| `Prev <Big-Room.html>`__    | `Up <../B.html>`__         |  `Next <big-endian.html>`__   |
 +-----------------------------+----------------------------+-------------------------------+
-| Big Room                    | `Home <../index.html>`__   |  big-endian                   |
+| Big Room                    | `Home <../index.html>`__   |  big-endian                   |
 +-----------------------------+----------------------------+-------------------------------+
 
 BI
-
-`Prev <BFI.html>`__ 
-
-B
-
- `Next <bible.html>`__
-
---------------
+=============
 
 **BI**: //
 
@@ -2371,20 +1645,13 @@ Index* <Breidbart-Index.html>`__.
 --------------
 
 +------------------------+----------------------------+--------------------------+
-| `Prev <BFI.html>`__    | `Up <../B.html>`__         |  `Next <bible.html>`__   |
+| `Prev <BFI.html>`__    | `Up <../B.html>`__         |  `Next <bible.html>`__   |
 +------------------------+----------------------------+--------------------------+
-| BFI                    | `Home <../index.html>`__   |  bible                   |
+| BFI                    | `Home <../index.html>`__   |  bible                   |
 +------------------------+----------------------------+--------------------------+
 
 bikeshedding
-
-`Prev <bigot.html>`__ 
-
-B
-
- `Next <binary-four.html>`__
-
---------------
+================
 
 **bikeshedding**
 
@@ -2396,20 +1663,13 @@ shed while the house is not finished.
 --------------
 
 +--------------------------+----------------------------+--------------------------------+
-| `Prev <bigot.html>`__    | `Up <../B.html>`__         |  `Next <binary-four.html>`__   |
+| `Prev <bigot.html>`__    | `Up <../B.html>`__         |  `Next <binary-four.html>`__   |
 +--------------------------+----------------------------+--------------------------------+
-| bigot                    | `Home <../index.html>`__   |  binary four                   |
+| bigot                    | `Home <../index.html>`__   |  binary four                   |
 +--------------------------+----------------------------+--------------------------------+
 
 binary four
-
-`Prev <bikeshedding.html>`__ 
-
-B
-
- `Next <bit.html>`__
-
---------------
+==============
 
 **binary four**: n.
 
@@ -2422,20 +1682,13 @@ silly. Prob. from humorous derivative of
 --------------
 
 +---------------------------------+----------------------------+------------------------+
-| `Prev <bikeshedding.html>`__    | `Up <../B.html>`__         |  `Next <bit.html>`__   |
+| `Prev <bikeshedding.html>`__    | `Up <../B.html>`__         |  `Next <bit.html>`__   |
 +---------------------------------+----------------------------+------------------------+
-| bikeshedding                    | `Home <../index.html>`__   |  bit                   |
+| bikeshedding                    | `Home <../index.html>`__   |  bit                   |
 +---------------------------------+----------------------------+------------------------+
 
 bit bang
-
-`Prev <bit.html>`__ 
-
-B
-
- `Next <bit-bashing.html>`__
-
---------------
+============
 
 **bit bang**: n.
 
@@ -2459,20 +1712,13 @@ to describe I2C, a serial protocol for monitoring motherboard hardware.
 --------------
 
 +------------------------+----------------------------+--------------------------------+
-| `Prev <bit.html>`__    | `Up <../B.html>`__         |  `Next <bit-bashing.html>`__   |
+| `Prev <bit.html>`__    | `Up <../B.html>`__         |  `Next <bit-bashing.html>`__   |
 +------------------------+----------------------------+--------------------------------+
-| bit                    | `Home <../index.html>`__   |  bit bashing                   |
+| bit                    | `Home <../index.html>`__   |  bit bashing                   |
 +------------------------+----------------------------+--------------------------------+
 
 bit bashing
-
-`Prev <bit-bang.html>`__ 
-
-B
-
- `Next <bit-bucket.html>`__
-
---------------
+===============
 
 **bit bashing**: n.
 
@@ -2492,20 +1738,13 @@ also `*mode bit* <../M/mode-bit.html>`__.
 --------------
 
 +-----------------------------+----------------------------+-------------------------------+
-| `Prev <bit-bang.html>`__    | `Up <../B.html>`__         |  `Next <bit-bucket.html>`__   |
+| `Prev <bit-bang.html>`__    | `Up <../B.html>`__         |  `Next <bit-bucket.html>`__   |
 +-----------------------------+----------------------------+-------------------------------+
-| bit bang                    | `Home <../index.html>`__   |  bit bucket                   |
+| bit bang                    | `Home <../index.html>`__   |  bit bucket                   |
 +-----------------------------+----------------------------+-------------------------------+
 
 bitblt
-
-`Prev <bit-paired-keyboard.html>`__ 
-
-B
-
- `Next <bits.html>`__
-
---------------
+=================
 
 **bitblt**: /bit´blit/, n.
 
@@ -2524,20 +1763,13 @@ are borderline techspeak.
 --------------
 
 +----------------------------------------+----------------------------+-------------------------+
-| `Prev <bit-paired-keyboard.html>`__    | `Up <../B.html>`__         |  `Next <bits.html>`__   |
+| `Prev <bit-paired-keyboard.html>`__    | `Up <../B.html>`__         |  `Next <bits.html>`__   |
 +----------------------------------------+----------------------------+-------------------------+
-| bit-paired keyboard                    | `Home <../index.html>`__   |  bits                   |
+| bit-paired keyboard                    | `Home <../index.html>`__   |  bits                   |
 +----------------------------------------+----------------------------+-------------------------+
 
 bit bucket
-
-`Prev <bit-bashing.html>`__ 
-
-B
-
- `Next <bit-decay.html>`__
-
---------------
+================
 
 **bit bucket**: n.
 
@@ -2595,21 +1827,15 @@ one is `75-10-04 <bit-bucket.html#crunchly75-10-04>`__.)
 --------------
 
 +--------------------------------+----------------------------+------------------------------+
-| `Prev <bit-bashing.html>`__    | `Up <../B.html>`__         |  `Next <bit-decay.html>`__   |
+| `Prev <bit-bashing.html>`__    | `Up <../B.html>`__         |  `Next <bit-decay.html>`__   |
 +--------------------------------+----------------------------+------------------------------+
-| bit bashing                    | `Home <../index.html>`__   |  bit decay                   |
+| bit bashing                    | `Home <../index.html>`__   |  bit decay                   |
 +--------------------------------+----------------------------+------------------------------+
 
 .. |image0| image:: ../graphics/75-10-04.png
+
 bit decay
-
-`Prev <bit-bucket.html>`__ 
-
-B
-
- `Next <bit-rot.html>`__
-
---------------
+=============
 
 **bit decay**: n.
 
@@ -2621,20 +1847,13 @@ bogodynamics* <../Q/quantum-bogodynamics.html>`__.
 --------------
 
 +-------------------------------+----------------------------+----------------------------+
-| `Prev <bit-bucket.html>`__    | `Up <../B.html>`__         |  `Next <bit-rot.html>`__   |
+| `Prev <bit-bucket.html>`__    | `Up <../B.html>`__         |  `Next <bit-rot.html>`__   |
 +-------------------------------+----------------------------+----------------------------+
-| bit bucket                    | `Home <../index.html>`__   |  bit rot                   |
+| bit bucket                    | `Home <../index.html>`__   |  bit rot                   |
 +-------------------------------+----------------------------+----------------------------+
 
 bit
-
-`Prev <binary-four.html>`__ 
-
-B
-
- `Next <bit-bang.html>`__
-
---------------
+========
 
 **bit**: n.
 
@@ -2675,20 +1894,13 @@ in the winter of 1943-44.
 --------------
 
 +--------------------------------+----------------------------+-----------------------------+
-| `Prev <binary-four.html>`__    | `Up <../B.html>`__         |  `Next <bit-bang.html>`__   |
+| `Prev <binary-four.html>`__    | `Up <../B.html>`__         |  `Next <bit-bang.html>`__   |
 +--------------------------------+----------------------------+-----------------------------+
-| binary four                    | `Home <../index.html>`__   |  bit bang                   |
+| binary four                    | `Home <../index.html>`__   |  bit bang                   |
 +--------------------------------+----------------------------+-----------------------------+
 
 bit-paired keyboard
-
-`Prev <bit-twiddling.html>`__ 
-
-B
-
- `Next <bitblt.html>`__
-
---------------
+====================
 
 **bit-paired keyboard**: n.,obs.
 
@@ -2703,45 +1915,41 @@ order to avoid making the thing even more of a kluge than it already
 was, the design had to group characters that shared the same basic bit
 pattern on one key.
 
-Looking at the ASCII chart, we find:
+Looking at the ASCII chart, we find::
 
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|     high  low bits                                                       |
-|     bits  0000 0001 0010 0011 0100 0101 0110 0111 1000 1001              |
-|      010        !    "    #    $    %    &    '    (    )                |
-|      011   0    1    2    3    4    5    6    7    8    9                |
+
+                                                      
                                                                           
-+--------------------------------------------------------------------------+
+     high  low bits                                                       
+     bits  0000 0001 0010 0011 0100 0101 0110 0111 1000 1001              
+      010        !    "    #    $    %    &    '    (    )                
+      011   0    1    2    3    4    5    6    7    8    9                
+                                                                          
+
 
 This is why the characters !"#$%&'() appear where they do on a Teletype
 (thankfully, they didn't use shift-0 for space). The Teletype Model 33
 was actually designed before ASCII existed, and was originally intended
-to use a code that contained these two rows:
+to use a code that contained these two rows::
 
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|           low bits                                                       |
-|     high  0000  0010  0100  0110  1000  1010  1100  1110                 |
-|     bits     0001  0011  0101  0111  1001  1011  1101  1111              |
-|       10   )  ! bel #  $  % wru &  *  (  "  :  ?  _  ,   .               |
-|       11   0  1  2  3  4  5  6  7  8  9  '  ;  /  - esc del              |
                                                                           
-+--------------------------------------------------------------------------+
+           low bits                                                       
+     high  0000  0010  0100  0110  1000  1010  1100  1110                 
+     bits     0001  0011  0101  0111  1001  1011  1101  1111              
+       10   )  ! bel #  $  % wru &  *  (  "  :  ?  _  ,   .               
+       11   0  1  2  3  4  5  6  7  8  9  '  ;  /  - esc del              |                                                                        
+
 
 The result would have been something closer to a normal keyboard. But as
 it happened, Teletype had to use a lot of persuasion just to keep ASCII,
-and the Model 33 keyboard, from looking like this instead:
+and the Model 33 keyboard, from looking like this instead::
 
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|               !  "  ?  $  '  &  -  (  )  ;  :  *  /  ,  .                |
-|            0  1  2  3  4  5  6  7  8  9  +  ~  <  >  ×  |                |
+
                                                                           
-+--------------------------------------------------------------------------+
+               !  "  ?  $  '  &  -  (  )  ;  :  *  /  ,  .                
+            0  1  2  3  4  5  6  7  8  9  +  ~  <  >  ×  |                
+                                                                          
+
 
 Teletype's was *not* the weirdest variant of the
 `*QWERTY* <../Q/QWERTY.html>`__ layout widely seen, by the way; that
@@ -2777,20 +1985,13 @@ ASR-33 layout.
 --------------
 
 +----------------------------------+----------------------------+---------------------------+
-| `Prev <bit-twiddling.html>`__    | `Up <../B.html>`__         |  `Next <bitblt.html>`__   |
+| `Prev <bit-twiddling.html>`__    | `Up <../B.html>`__         |  `Next <bitblt.html>`__   |
 +----------------------------------+----------------------------+---------------------------+
-| bit twiddling                    | `Home <../index.html>`__   |  bitblt                   |
+| bit twiddling                    | `Home <../index.html>`__   |  bitblt                   |
 +----------------------------------+----------------------------+---------------------------+
 
 bit rot
-
-`Prev <bit-decay.html>`__ 
-
-B
-
- `Next <bit-twiddling.html>`__
-
---------------
+===========
 
 **bit rot**: n.
 
@@ -2817,20 +2018,13 @@ synonymous. Software rot is the effect, bit rot the notional cause.
 --------------
 
 +------------------------------+----------------------------+----------------------------------+
-| `Prev <bit-decay.html>`__    | `Up <../B.html>`__         |  `Next <bit-twiddling.html>`__   |
+| `Prev <bit-decay.html>`__    | `Up <../B.html>`__         |  `Next <bit-twiddling.html>`__   |
 +------------------------------+----------------------------+----------------------------------+
-| bit decay                    | `Home <../index.html>`__   |  bit twiddling                   |
+| bit decay                    | `Home <../index.html>`__   |  bit twiddling                   |
 +------------------------------+----------------------------+----------------------------------+
 
 bits
-
-`Prev <bitblt.html>`__ 
-
-B
-
- `Next <bitty-box.html>`__
-
---------------
+==========
 
 **bits**: pl.n.
 
@@ -2848,20 +2042,13 @@ bits* <../S/source-of-all-good-bits.html>`__ See also
 --------------
 
 +---------------------------+----------------------------+------------------------------+
-| `Prev <bitblt.html>`__    | `Up <../B.html>`__         |  `Next <bitty-box.html>`__   |
+| `Prev <bitblt.html>`__    | `Up <../B.html>`__         |  `Next <bitty-box.html>`__   |
 +---------------------------+----------------------------+------------------------------+
-| bitblt                    | `Home <../index.html>`__   |  bitty box                   |
+| bitblt                    | `Home <../index.html>`__   |  bitty box                   |
 +---------------------------+----------------------------+------------------------------+
 
 bit twiddling
-
-`Prev <bit-rot.html>`__ 
-
-B
-
- `Next <bit-paired-keyboard.html>`__
-
---------------
+==================
 
 **bit twiddling**: n.
 
@@ -2882,20 +2069,13 @@ attempt to get it back to a known state.
 --------------
 
 +----------------------------+----------------------------+----------------------------------------+
-| `Prev <bit-rot.html>`__    | `Up <../B.html>`__         |  `Next <bit-paired-keyboard.html>`__   |
+| `Prev <bit-rot.html>`__    | `Up <../B.html>`__         |  `Next <bit-paired-keyboard.html>`__   |
 +----------------------------+----------------------------+----------------------------------------+
-| bit rot                    | `Home <../index.html>`__   |  bit-paired keyboard                   |
+| bit rot                    | `Home <../index.html>`__   |  bit-paired keyboard                   |
 +----------------------------+----------------------------+----------------------------------------+
 
 bitty box
-
-`Prev <bits.html>`__ 
-
-B
-
- `Next <bixie.html>`__
-
---------------
+==============
 
 **bitty box**: /bit´ee boks/, n.
 
@@ -2913,20 +2093,13 @@ and `*toy* <../T/toy.html>`__.
 --------------
 
 +-------------------------+----------------------------+--------------------------+
-| `Prev <bits.html>`__    | `Up <../B.html>`__         |  `Next <bixie.html>`__   |
+| `Prev <bits.html>`__    | `Up <../B.html>`__         |  `Next <bixie.html>`__   |
 +-------------------------+----------------------------+--------------------------+
-| bits                    | `Home <../index.html>`__   |  bixie                   |
+| bits                    | `Home <../index.html>`__   |  bixie                   |
 +-------------------------+----------------------------+--------------------------+
 
 bixie
-
-`Prev <bitty-box.html>`__ 
-
-B
-
- `Next <black-art.html>`__
-
---------------
+============
 
 **bixie**: /bik´see/, n.
 
@@ -2940,20 +2113,13 @@ earliest users.
 --------------
 
 +------------------------------+----------------------------+------------------------------+
-| `Prev <bitty-box.html>`__    | `Up <../B.html>`__         |  `Next <black-art.html>`__   |
+| `Prev <bitty-box.html>`__    | `Up <../B.html>`__         |  `Next <black-art.html>`__   |
 +------------------------------+----------------------------+------------------------------+
-| bitty box                    | `Home <../index.html>`__   |  black art                   |
+| bitty box                    | `Home <../index.html>`__   |  black art                   |
 +------------------------------+----------------------------+------------------------------+
 
 black art
-
-`Prev <bixie.html>`__ 
-
-B
-
- `Next <black-hat.html>`__
-
---------------
+============
 
 **black art**: n.
 
@@ -2973,20 +2139,13 @@ programming* <../V/voodoo-programming.html>`__.
 --------------
 
 +--------------------------+----------------------------+------------------------------+
-| `Prev <bixie.html>`__    | `Up <../B.html>`__         |  `Next <black-hat.html>`__   |
+| `Prev <bixie.html>`__    | `Up <../B.html>`__         |  `Next <black-hat.html>`__   |
 +--------------------------+----------------------------+------------------------------+
-| bixie                    | `Home <../index.html>`__   |  black hat                   |
+| bixie                    | `Home <../index.html>`__   |  black hat                   |
 +--------------------------+----------------------------+------------------------------+
 
 black hat
-
-`Prev <black-art.html>`__ 
-
-B
-
- `Next <black-hole.html>`__
-
---------------
+===============
 
 **black hat**
 
@@ -3012,20 +2171,13 @@ provider's spam-friendliness.
 --------------
 
 +------------------------------+----------------------------+-------------------------------+
-| `Prev <black-art.html>`__    | `Up <../B.html>`__         |  `Next <black-hole.html>`__   |
+| `Prev <black-art.html>`__    | `Up <../B.html>`__         |  `Next <black-hole.html>`__   |
 +------------------------------+----------------------------+-------------------------------+
-| black art                    | `Home <../index.html>`__   |  black hole                   |
+| black art                    | `Home <../index.html>`__   |  black hole                   |
 +------------------------------+----------------------------+-------------------------------+
 
 black hole
-
-`Prev <black-hat.html>`__ 
-
-B
-
- `Next <black-magic.html>`__
-
---------------
+============
 
 **black hole**: n.,vt.
 
@@ -3043,20 +2195,13 @@ bucket* <bit-bucket.html>`__ and see `*RBL* <../R/RBL.html>`__.
 --------------
 
 +------------------------------+----------------------------+--------------------------------+
-| `Prev <black-hat.html>`__    | `Up <../B.html>`__         |  `Next <black-magic.html>`__   |
+| `Prev <black-hat.html>`__    | `Up <../B.html>`__         |  `Next <black-magic.html>`__   |
 +------------------------------+----------------------------+--------------------------------+
-| black hat                    | `Home <../index.html>`__   |  black magic                   |
+| black hat                    | `Home <../index.html>`__   |  black magic                   |
 +------------------------------+----------------------------+--------------------------------+
 
 black magic
-
-`Prev <black-hole.html>`__ 
-
-B
-
- `Next <Black-Screen-of-Death.html>`__
-
---------------
+==============
 
 **black magic**: n.
 
@@ -3070,20 +2215,13 @@ number* <../M/magic-number.html>`__ (sense 2).
 --------------
 
 +-------------------------------+----------------------------+------------------------------------------+
-| `Prev <black-hole.html>`__    | `Up <../B.html>`__         |  `Next <Black-Screen-of-Death.html>`__   |
+| `Prev <black-hole.html>`__    | `Up <../B.html>`__         |  `Next <Black-Screen-of-Death.html>`__   |
 +-------------------------------+----------------------------+------------------------------------------+
-| black hole                    | `Home <../index.html>`__   |  Black Screen of Death                   |
+| black hole                    | `Home <../index.html>`__   |  Black Screen of Death                   |
 +-------------------------------+----------------------------+------------------------------------------+
 
 Black Screen of Death
-
-`Prev <black-magic.html>`__ 
-
-B
-
- `Next <blammo.html>`__
-
---------------
+=============================
 
 **Black Screen of Death**:
 
@@ -3099,20 +2237,13 @@ which has become rather more common.
 --------------
 
 +--------------------------------+----------------------------+---------------------------+
-| `Prev <black-magic.html>`__    | `Up <../B.html>`__         |  `Next <blammo.html>`__   |
+| `Prev <black-magic.html>`__    | `Up <../B.html>`__         |  `Next <blammo.html>`__   |
 +--------------------------------+----------------------------+---------------------------+
-| black magic                    | `Home <../index.html>`__   |  blammo                   |
+| black magic                    | `Home <../index.html>`__   |  blammo                   |
 +--------------------------------+----------------------------+---------------------------+
 
 blammo
-
-`Prev <Black-Screen-of-Death.html>`__ 
-
-B
-
- `Next <blargh.html>`__
-
---------------
+=============
 
 **blammo**: v.
 
@@ -3129,20 +2260,13 @@ will stop someone coming back on for a while.
 --------------
 
 +------------------------------------------+----------------------------+---------------------------+
-| `Prev <Black-Screen-of-Death.html>`__    | `Up <../B.html>`__         |  `Next <blargh.html>`__   |
+| `Prev <Black-Screen-of-Death.html>`__    | `Up <../B.html>`__         |  `Next <blargh.html>`__   |
 +------------------------------------------+----------------------------+---------------------------+
-| Black Screen of Death                    | `Home <../index.html>`__   |  blargh                   |
+| Black Screen of Death                    | `Home <../index.html>`__   |  blargh                   |
 +------------------------------------------+----------------------------+---------------------------+
 
 blargh
-
-`Prev <blammo.html>`__ 
-
-B
-
- `Next <blast.html>`__
-
---------------
+============
 
 **blargh**: /blarg/, n.
 
@@ -3153,20 +2277,13 @@ of unhappiness. Less common than `*ping* <../P/ping.html>`__.
 --------------
 
 +---------------------------+----------------------------+--------------------------+
-| `Prev <blammo.html>`__    | `Up <../B.html>`__         |  `Next <blast.html>`__   |
+| `Prev <blammo.html>`__    | `Up <../B.html>`__         |  `Next <blast.html>`__   |
 +---------------------------+----------------------------+--------------------------+
-| blammo                    | `Home <../index.html>`__   |  blast                   |
+| blammo                    | `Home <../index.html>`__   |  blast                   |
 +---------------------------+----------------------------+--------------------------+
 
 blast
-
-`Prev <blargh.html>`__ 
-
-B
-
- `Next <blat.html>`__
-
---------------
+============
 
 **blast**
 
@@ -3182,20 +2299,13 @@ been reported.
 --------------
 
 +---------------------------+----------------------------+-------------------------+
-| `Prev <blargh.html>`__    | `Up <../B.html>`__         |  `Next <blat.html>`__   |
+| `Prev <blargh.html>`__    | `Up <../B.html>`__         |  `Next <blat.html>`__   |
 +---------------------------+----------------------------+-------------------------+
-| blargh                    | `Home <../index.html>`__   |  blat                   |
+| blargh                    | `Home <../index.html>`__   |  blat                   |
 +---------------------------+----------------------------+-------------------------+
 
 blat
-
-`Prev <blast.html>`__ 
-
-B
-
- `Next <bletch.html>`__
-
---------------
+=========
 
 **blat**: n.
 
@@ -3206,20 +2316,13 @@ B
 --------------
 
 +--------------------------+----------------------------+---------------------------+
-| `Prev <blast.html>`__    | `Up <../B.html>`__         |  `Next <bletch.html>`__   |
+| `Prev <blast.html>`__    | `Up <../B.html>`__         |  `Next <bletch.html>`__   |
 +--------------------------+----------------------------+---------------------------+
-| blast                    | `Home <../index.html>`__   |  bletch                   |
+| blast                    | `Home <../index.html>`__   |  bletch                   |
 +--------------------------+----------------------------+---------------------------+
 
 bletcherous
-
-`Prev <bletch.html>`__ 
-
-B
-
- `Next <blinkenlights.html>`__
-
---------------
+==============
 
 **bletcherous**: /blech'@·r@s/, adj.
 
@@ -3239,20 +2342,13 @@ meaning than any of the above.
 --------------
 
 +---------------------------+----------------------------+----------------------------------+
-| `Prev <bletch.html>`__    | `Up <../B.html>`__         |  `Next <blinkenlights.html>`__   |
+| `Prev <bletch.html>`__    | `Up <../B.html>`__         |  `Next <blinkenlights.html>`__   |
 +---------------------------+----------------------------+----------------------------------+
-| bletch                    | `Home <../index.html>`__   |  blinkenlights                   |
+| bletch                    | `Home <../index.html>`__   |  blinkenlights                   |
 +---------------------------+----------------------------+----------------------------------+
 
 bletch
-
-`Prev <blat.html>`__ 
-
-B
-
- `Next <bletcherous.html>`__
-
---------------
+=========
 
 **bletch**: /blech/, interj.
 
@@ -3263,20 +2359,13 @@ bletch”. Compare `*barf* <barf.html>`__.
 --------------
 
 +-------------------------+----------------------------+--------------------------------+
-| `Prev <blat.html>`__    | `Up <../B.html>`__         |  `Next <bletcherous.html>`__   |
+| `Prev <blat.html>`__    | `Up <../B.html>`__         |  `Next <bletcherous.html>`__   |
 +-------------------------+----------------------------+--------------------------------+
-| blat                    | `Home <../index.html>`__   |  bletcherous                   |
+| blat                    | `Home <../index.html>`__   |  bletcherous                   |
 +-------------------------+----------------------------+--------------------------------+
 
 blinkenlights
-
-`Prev <bletcherous.html>`__ 
-
-B
-
- `Next <blit.html>`__
-
---------------
+===============
 
 **blinkenlights**: /blink'@n·li:tz/, n.
 
@@ -3288,17 +2377,17 @@ like.
 This term derives from the last word of the famous blackletter-Gothic
 sign in mangled pseudo-German that once graced about half the computer
 rooms in the English-speaking world. One version ran in its entirety as
-follows:
+follows::
 
-| 
-|                    ACHTUNG!  ALLES LOOKENSPEEPERS!
-| 
-|  Alles touristen und non-technischen looken peepers!
-|  Das computermachine ist nicht fuer gefingerpoken und mittengrabben.
-|  Ist easy schnappen der springenwerk, blowenfusen und poppencorken
-|  mit spitzensparken.  Ist nicht fuer gewerken bei das dumpkopfen.
-|  Das rubbernecken sichtseeren keepen das cotten-pickenen hans in das
-|  pockets muss; relaxen und watchen das blinkenlichten.
+ 
+                    ACHTUNG!  ALLES LOOKENSPEEPERS!
+ 
+  Alles touristen und non-technischen looken peepers!
+  Das computermachine ist nicht fuer gefingerpoken und mittengrabben.
+  Ist easy schnappen der springenwerk, blowenfusen und poppencorken
+  mit spitzensparken.  Ist nicht fuer gewerken bei das dumpkopfen.
+  Das rubbernecken sichtseeren keepen das cotten-pickenen hans in das
+  pockets muss; relaxen und watchen das blinkenlichten.
 
 This silliness dates back at least as far as 1955 at IBM and had already
 gone international by the early 1960s, when it was reported at London
@@ -3308,18 +2397,18 @@ circulation, some of which actually do end with the word
 
 In an amusing example of turnabout-is-fair-play, German hackers have
 developed their own versions of the blinkenlights poster in fractured
-English, one of which is reproduced here:
+English, one of which is reproduced here::
 
-| 
-|                                ATTENTION
-| 
-|  This room is fullfilled mit special electronische equippment.
-|  Fingergrabbing and pressing the cnoeppkes from the computers is
-|  allowed for die experts only!  So all the “lefthanders” stay away
-|  and do not disturben the brainstorming von here working
-|  intelligencies.  Otherwise you will be out thrown and kicked
-|  anderswhere!  Also: please keep still and only watchen astaunished
-|  the blinkenlights.
+ 
+                                ATTENTION
+ 
+  This room is fullfilled mit special electronische equippment.
+  Fingergrabbing and pressing the cnoeppkes from the computers is
+  allowed for die experts only!  So all the “lefthanders” stay away
+  and do not disturben the brainstorming von here working
+  intelligencies.  Otherwise you will be out thrown and kicked
+  anderswhere!  Also: please keep still and only watchen astaunished
+  the blinkenlights.
 
 See also `*geef* <../G/geef.html>`__.
 
@@ -3352,17 +2441,16 @@ serial port became available; there is some sort of plot symmetry in the
 fact that it was assembled by a German.
 
 Finally, a version updated for the Internet has been seen on
-``news.admin.net-abuse.email``:
+``news.admin.net-abuse.email``::
 
-| 
-|                      ACHTUNG! ALLES LOOKENSPEEPERS!
-| 
-| 
-Das Internet is nicht fuer gefingerclicken und giffengrabben. Ist easy
-|  droppenpacket der routers und overloaden der backbone mit der spammen
-|  und der me-tooen.  Ist nicht fuer gewerken bei das dumpkopfen. Das
-|  mausklicken sichtseeren keepen das bandwit-spewin hans in das pockets
-|  muss; relaxen und watchen das cursorblinken.
+
+                     ACHTUNG! ALLES LOOKENSPEEPERS!
+
+  Das Internet is nicht fuer gefingerclicken und giffengrabben. Ist easy
+  droppenpacket der routers und overloaden der backbone mit der spammen
+  und der me-tooen.  Ist nicht fuer gewerken bei das dumpkopfen. Das
+  mausklicken sichtseeren keepen das bandwit-spewin hans in das pockets
+  muss; relaxen und watchen das cursorblinken.
 
 This newest version partly reflects reports that the word
 ‘blinkenlights’ is (in 1999) undergoing something of a revival in usage,
@@ -3389,21 +2477,17 @@ to officious notices.
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <bletcherous.html>`__    | `Up <../B.html>`__         |  `Next <blit.html>`__   |
+| `Prev <bletcherous.html>`__    | `Up <../B.html>`__         |  `Next <blit.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| bletcherous                    | `Home <../index.html>`__   |  blit                   |
+| bletcherous                    | `Home <../index.html>`__   |  blit                   |
 +--------------------------------+----------------------------+-------------------------+
 
 .. |image0| image:: ../graphics/gefingerpoken.jpg
+
+
 blit
+===========
 
-`Prev <blinkenlights.html>`__ 
-
-B
-
- `Next <blitter.html>`__
-
---------------
 
 **blit**: /blit/, vt.
 
@@ -3426,20 +2510,13 @@ that “Blit” stood for the Bacon, Lettuce, and Interactive Tomato.)
 --------------
 
 +----------------------------------+----------------------------+----------------------------+
-| `Prev <blinkenlights.html>`__    | `Up <../B.html>`__         |  `Next <blitter.html>`__   |
+| `Prev <blinkenlights.html>`__    | `Up <../B.html>`__         |  `Next <blitter.html>`__   |
 +----------------------------------+----------------------------+----------------------------+
-| blinkenlights                    | `Home <../index.html>`__   |  blitter                   |
+| blinkenlights                    | `Home <../index.html>`__   |  blitter                   |
 +----------------------------------+----------------------------+----------------------------+
 
 blitter
-
-`Prev <blit.html>`__ 
-
-B
-
- `Next <blivet.html>`__
-
---------------
+==========
 
 **blitter**: /blit´r/, n.
 
@@ -3450,23 +2527,8 @@ these, but since 1990 the trend has been away from them (however, see
 `*cycle of reincarnation* <../C/cycle-of-reincarnation.html>`__). Syn.
 `*raster blaster* <../R/raster-blaster.html>`__.
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <blit.html>`__    | `Up <../B.html>`__         |  `Next <blivet.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| blit                    | `Home <../index.html>`__   |  blivet                   |
-+-------------------------+----------------------------+---------------------------+
-
 blivet
-
-`Prev <blitter.html>`__ 
-
-B
-
- `Next <bloatware.html>`__
-
---------------
+==========
 
 **blivet**: /bliv'@t/, n.
 
@@ -3505,21 +2567,15 @@ This is a blivet
 --------------
 
 +----------------------------+----------------------------+------------------------------+
-| `Prev <blitter.html>`__    | `Up <../B.html>`__         |  `Next <bloatware.html>`__   |
+| `Prev <blitter.html>`__    | `Up <../B.html>`__         |  `Next <bloatware.html>`__   |
 +----------------------------+----------------------------+------------------------------+
-| blitter                    | `Home <../index.html>`__   |  bloatware                   |
+| blitter                    | `Home <../index.html>`__   |  bloatware                   |
 +----------------------------+----------------------------+------------------------------+
 
 .. |image0| image:: ../graphics/blivet.png
+
 bloatware
-
-`Prev <blivet.html>`__ 
-
-B
-
- `Next <BLOB.html>`__
-
---------------
+=============
 
 **bloatware**: n.
 
@@ -3531,20 +2587,13 @@ world. So is its cause.
 --------------
 
 +---------------------------+----------------------------+-------------------------+
-| `Prev <blivet.html>`__    | `Up <../B.html>`__         |  `Next <BLOB.html>`__   |
+| `Prev <blivet.html>`__    | `Up <../B.html>`__         |  `Next <BLOB.html>`__   |
 +---------------------------+----------------------------+-------------------------+
-| blivet                    | `Home <../index.html>`__   |  BLOB                   |
+| blivet                    | `Home <../index.html>`__   |  BLOB                   |
 +---------------------------+----------------------------+-------------------------+
 
 BLOB
-
-`Prev <bloatware.html>`__ 
-
-B
-
- `Next <block.html>`__
-
---------------
+==========
 
 **BLOB**
 
@@ -3561,20 +2610,13 @@ I'm going to BLOB the core dump to you.”
 --------------
 
 +------------------------------+----------------------------+--------------------------+
-| `Prev <bloatware.html>`__    | `Up <../B.html>`__         |  `Next <block.html>`__   |
+| `Prev <bloatware.html>`__    | `Up <../B.html>`__         |  `Next <block.html>`__   |
 +------------------------------+----------------------------+--------------------------+
-| bloatware                    | `Home <../index.html>`__   |  block                   |
+| bloatware                    | `Home <../index.html>`__   |  block                   |
 +------------------------------+----------------------------+--------------------------+
 
 block
-
-`Prev <BLOB.html>`__ 
-
-B
-
- `Next <blog.html>`__
-
---------------
+==============
 
 **block**: v.
 
@@ -3589,20 +2631,13 @@ Phil's arrival.”
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <BLOB.html>`__    | `Up <../B.html>`__         |  `Next <blog.html>`__   |
+| `Prev <BLOB.html>`__    | `Up <../B.html>`__         |  `Next <blog.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| BLOB                    | `Home <../index.html>`__   |  blog                   |
+| BLOB                    | `Home <../index.html>`__   |  blog                   |
 +-------------------------+----------------------------+-------------------------+
 
 Bloggs Family
-
-`Prev <blog.html>`__ 
-
-B
-
- `Next <blogosphere.html>`__
-
---------------
+================
 
 **Bloggs Family**: n.
 
@@ -3620,20 +2655,13 @@ Foobar* <../F/Fred-Foobar.html>`__.
 --------------
 
 +-------------------------+----------------------------+--------------------------------+
-| `Prev <blog.html>`__    | `Up <../B.html>`__         |  `Next <blogosphere.html>`__   |
+| `Prev <blog.html>`__    | `Up <../B.html>`__         |  `Next <blogosphere.html>`__   |
 +-------------------------+----------------------------+--------------------------------+
-| blog                    | `Home <../index.html>`__   |  blogosphere                   |
+| blog                    | `Home <../index.html>`__   |  blogosphere                   |
 +-------------------------+----------------------------+--------------------------------+
 
 blog
-
-`Prev <block.html>`__ 
-
-B
-
- `Next <Bloggs-Family.html>`__
-
---------------
+===========
 
 **blog**: n.
 
@@ -3646,20 +2674,13 @@ derivatives, of which the best known may be
 --------------
 
 +--------------------------+----------------------------+----------------------------------+
-| `Prev <block.html>`__    | `Up <../B.html>`__         |  `Next <Bloggs-Family.html>`__   |
+| `Prev <block.html>`__    | `Up <../B.html>`__         |  `Next <Bloggs-Family.html>`__   |
 +--------------------------+----------------------------+----------------------------------+
-| block                    | `Home <../index.html>`__   |  Bloggs Family                   |
+| block                    | `Home <../index.html>`__   |  Bloggs Family                   |
 +--------------------------+----------------------------+----------------------------------+
 
 blogosphere
-
-`Prev <Bloggs-Family.html>`__ 
-
-B
-
- `Next <blogrolling.html>`__
-
---------------
+==============
 
 **blogosphere**
 
@@ -3677,23 +2698,8 @@ among the techbloggers, but several of the most prominent warbloggers
 are also hackers. Bloggers in general tend to be aware of and
 sympathetic to the hacker culture.
 
---------------
-
-+----------------------------------+----------------------------+--------------------------------+
-| `Prev <Bloggs-Family.html>`__    | `Up <../B.html>`__         |  `Next <blogrolling.html>`__   |
-+----------------------------------+----------------------------+--------------------------------+
-| Bloggs Family                    | `Home <../index.html>`__   |  blogrolling                   |
-+----------------------------------+----------------------------+--------------------------------+
-
 blogrolling
-
-`Prev <blogosphere.html>`__ 
-
-B
-
- `Next <blow-an-EPROM.html>`__
-
---------------
+==============
 
 **blogrolling**
 
@@ -3706,20 +2712,13 @@ reciprocal.
 --------------
 
 +--------------------------------+----------------------------+----------------------------------+
-| `Prev <blogosphere.html>`__    | `Up <../B.html>`__         |  `Next <blow-an-EPROM.html>`__   |
+| `Prev <blogosphere.html>`__    | `Up <../B.html>`__         |  `Next <blow-an-EPROM.html>`__   |
 +--------------------------------+----------------------------+----------------------------------+
-| blogosphere                    | `Home <../index.html>`__   |  blow an EPROM                   |
+| blogosphere                    | `Home <../index.html>`__   |  blow an EPROM                   |
 +--------------------------------+----------------------------+----------------------------------+
 
 blow an EPROM
-
-`Prev <blogrolling.html>`__ 
-
-B
-
- `Next <blow-away.html>`__
-
---------------
+==============
 
 **blow an EPROM**: /bloh @n ee´prom/, v.
 
@@ -3734,20 +2733,13 @@ the write process on EPROMs is nondestructive.
 --------------
 
 +--------------------------------+----------------------------+------------------------------+
-| `Prev <blogrolling.html>`__    | `Up <../B.html>`__         |  `Next <blow-away.html>`__   |
+| `Prev <blogrolling.html>`__    | `Up <../B.html>`__         |  `Next <blow-away.html>`__   |
 +--------------------------------+----------------------------+------------------------------+
-| blogrolling                    | `Home <../index.html>`__   |  blow away                   |
+| blogrolling                    | `Home <../index.html>`__   |  blow away                   |
 +--------------------------------+----------------------------+------------------------------+
 
 blow away
-
-`Prev <blow-an-EPROM.html>`__ 
-
-B
-
- `Next <blow-out.html>`__
-
---------------
+=============
 
 **blow away**: vt.
 
@@ -3758,20 +2750,13 @@ netnews.” Oppose `*nuke* <../N/nuke.html>`__.
 --------------
 
 +----------------------------------+----------------------------+-----------------------------+
-| `Prev <blow-an-EPROM.html>`__    | `Up <../B.html>`__         |  `Next <blow-out.html>`__   |
+| `Prev <blow-an-EPROM.html>`__    | `Up <../B.html>`__         |  `Next <blow-out.html>`__   |
 +----------------------------------+----------------------------+-----------------------------+
-| blow an EPROM                    | `Home <../index.html>`__   |  blow out                   |
+| blow an EPROM                    | `Home <../index.html>`__   |  blow out                   |
 +----------------------------------+----------------------------+-----------------------------+
 
 blow out
-
-`Prev <blow-away.html>`__ 
-
-B
-
- `Next <blow-past.html>`__
-
---------------
+==========
 
 **blow out**: vi.
 
@@ -3784,20 +2769,13 @@ horribly* <../D/die-horribly.html>`__.
 --------------
 
 +------------------------------+----------------------------+------------------------------+
-| `Prev <blow-away.html>`__    | `Up <../B.html>`__         |  `Next <blow-past.html>`__   |
+| `Prev <blow-away.html>`__    | `Up <../B.html>`__         |  `Next <blow-past.html>`__   |
 +------------------------------+----------------------------+------------------------------+
-| blow away                    | `Home <../index.html>`__   |  blow past                   |
+| blow away                    | `Home <../index.html>`__   |  blow past                   |
 +------------------------------+----------------------------+------------------------------+
 
 blow past
-
-`Prev <blow-out.html>`__ 
-
-B
-
- `Next <blow-up.html>`__
-
---------------
+===========
 
 **blow past**: vt.
 
@@ -3807,20 +2785,13 @@ past the 5K reserve buffer.”
 --------------
 
 +-----------------------------+----------------------------+----------------------------+
-| `Prev <blow-out.html>`__    | `Up <../B.html>`__         |  `Next <blow-up.html>`__   |
+| `Prev <blow-out.html>`__    | `Up <../B.html>`__         |  `Next <blow-up.html>`__   |
 +-----------------------------+----------------------------+----------------------------+
-| blow out                    | `Home <../index.html>`__   |  blow up                   |
+| blow out                    | `Home <../index.html>`__   |  blow up                   |
 +-----------------------------+----------------------------+----------------------------+
 
 blow up
-
-`Prev <blow-past.html>`__ 
-
-B
-
- `Next <BLT.html>`__
-
---------------
+=================
 
 **blow up**: vi.
 
@@ -3833,20 +2804,13 @@ least go `*nonlinear* <../N/nonlinear.html>`__.
 --------------
 
 +------------------------------+----------------------------+------------------------+
-| `Prev <blow-past.html>`__    | `Up <../B.html>`__         |  `Next <BLT.html>`__   |
+| `Prev <blow-past.html>`__    | `Up <../B.html>`__         |  `Next <BLT.html>`__   |
 +------------------------------+----------------------------+------------------------+
-| blow past                    | `Home <../index.html>`__   |  BLT                   |
+| blow past                    | `Home <../index.html>`__   |  BLT                   |
 +------------------------------+----------------------------+------------------------+
 
 BLT
-
-`Prev <blow-up.html>`__ 
-
-B
-
- `Next <blue-box.html>`__
-
---------------
+=============
 
 **BLT**: /B·L·T/, /bl@t/, /belt/, n.,vt.
 
@@ -3863,20 +2827,13 @@ BLT”). The jargon usage has outlasted the
 --------------
 
 +----------------------------+----------------------------+-----------------------------+
-| `Prev <blow-up.html>`__    | `Up <../B.html>`__         |  `Next <blue-box.html>`__   |
+| `Prev <blow-up.html>`__    | `Up <../B.html>`__         |  `Next <blue-box.html>`__   |
 +----------------------------+----------------------------+-----------------------------+
-| blow up                    | `Home <../index.html>`__   |  blue box                   |
+| blow up                    | `Home <../index.html>`__   |  blue box                   |
 +----------------------------+----------------------------+-----------------------------+
 
 blue box
-
-`Prev <BLT.html>`__ 
-
-B
-
- `Next <Blue-Glue.html>`__
-
---------------
+===============
 
 **blue box**
 
@@ -3902,20 +2859,13 @@ one.
 --------------
 
 +------------------------+----------------------------+------------------------------+
-| `Prev <BLT.html>`__    | `Up <../B.html>`__         |  `Next <Blue-Glue.html>`__   |
+| `Prev <BLT.html>`__    | `Up <../B.html>`__         |  `Next <Blue-Glue.html>`__   |
 +------------------------+----------------------------+------------------------------+
-| BLT                    | `Home <../index.html>`__   |  Blue Glue                   |
+| BLT                    | `Home <../index.html>`__   |  Blue Glue                   |
 +------------------------+----------------------------+------------------------------+
 
 Blue Glue
-
-`Prev <blue-box.html>`__ 
-
-B
-
- `Next <blue-goo.html>`__
-
---------------
+================
 
 **Blue Glue**: n.
 
@@ -3936,20 +2886,13 @@ work to be done as using the blue glue.
 --------------
 
 +-----------------------------+----------------------------+-----------------------------+
-| `Prev <blue-box.html>`__    | `Up <../B.html>`__         |  `Next <blue-goo.html>`__   |
+| `Prev <blue-box.html>`__    | `Up <../B.html>`__         |  `Next <blue-goo.html>`__   |
 +-----------------------------+----------------------------+-----------------------------+
-| blue box                    | `Home <../index.html>`__   |  blue goo                   |
+| blue box                    | `Home <../index.html>`__   |  blue goo                   |
 +-----------------------------+----------------------------+-----------------------------+
 
 blue goo
-
-`Prev <Blue-Glue.html>`__ 
-
-B
-
- `Next <Blue-Screen-of-Death.html>`__
-
---------------
+================
 
 **blue goo**: n.
 
@@ -3964,20 +2907,13 @@ See `*nanotechnology* <../N/nanotechnology.html>`__.
 --------------
 
 +------------------------------+----------------------------+-----------------------------------------+
-| `Prev <Blue-Glue.html>`__    | `Up <../B.html>`__         |  `Next <Blue-Screen-of-Death.html>`__   |
+| `Prev <Blue-Glue.html>`__    | `Up <../B.html>`__         |  `Next <Blue-Screen-of-Death.html>`__   |
 +------------------------------+----------------------------+-----------------------------------------+
-| Blue Glue                    | `Home <../index.html>`__   |  Blue Screen of Death                   |
+| Blue Glue                    | `Home <../index.html>`__   |  Blue Screen of Death                   |
 +------------------------------+----------------------------+-----------------------------------------+
 
 Blue Screen of Death
-
-`Prev <blue-goo.html>`__ 
-
-B
-
- `Next <blue-wire.html>`__
-
---------------
+========================
 
 **Blue Screen of Death**: n.
 
@@ -3990,30 +2926,23 @@ Blue Screen of Death, sometimes decorated with hex error codes, is what
 you get when this happens. (Commonly abbreviated
 `*BSOD* <BSOD.html>`__.) The following entry from the `Salon Haiku
 Contest <http://archive.salon.com/21st/chal/1998/02/10chal.html>`__,
-seems to have predated popular use of the term:
+seems to have predated popular use of the term::
 
-| 
-|          Windows NT crashed.
-|          I am the Blue Screen of Death
-|          No one hears your screams.
+
+          Windows NT crashed.
+          I am the Blue Screen of Death
+          No one hears your screams.
 
 --------------
 
 +-----------------------------+----------------------------+------------------------------+
-| `Prev <blue-goo.html>`__    | `Up <../B.html>`__         |  `Next <blue-wire.html>`__   |
+| `Prev <blue-goo.html>`__    | `Up <../B.html>`__         |  `Next <blue-wire.html>`__   |
 +-----------------------------+----------------------------+------------------------------+
-| blue goo                    | `Home <../index.html>`__   |  blue wire                   |
+| blue goo                    | `Home <../index.html>`__   |  blue wire                   |
 +-----------------------------+----------------------------+------------------------------+
 
 blue wire
-
-`Prev <Blue-Screen-of-Death.html>`__ 
-
-B
-
- `Next <blurgle.html>`__
-
---------------
+===================
 
 **blue wire**: n.
 
@@ -4030,20 +2959,14 @@ wire* <../Y/yellow-wire.html>`__, `*pink wire* <../P/pink-wire.html>`__.
 --------------
 
 +-----------------------------------------+----------------------------+----------------------------+
-| `Prev <Blue-Screen-of-Death.html>`__    | `Up <../B.html>`__         |  `Next <blurgle.html>`__   |
+| `Prev <Blue-Screen-of-Death.html>`__    | `Up <../B.html>`__         |  `Next <blurgle.html>`__   |
 +-----------------------------------------+----------------------------+----------------------------+
-| Blue Screen of Death                    | `Home <../index.html>`__   |  blurgle                   |
+| Blue Screen of Death                    | `Home <../index.html>`__   |  blurgle                   |
 +-----------------------------------------+----------------------------+----------------------------+
 
 blurgle
+===========
 
-`Prev <blue-wire.html>`__ 
-
-B
-
- `Next <BNF.html>`__
-
---------------
 
 **blurgle**: /bler´gl/, n.
 
@@ -4059,20 +2982,13 @@ sense 7.
 --------------
 
 +------------------------------+----------------------------+------------------------+
-| `Prev <blue-wire.html>`__    | `Up <../B.html>`__         |  `Next <BNF.html>`__   |
+| `Prev <blue-wire.html>`__    | `Up <../B.html>`__         |  `Next <BNF.html>`__   |
 +------------------------------+----------------------------+------------------------+
-| blue wire                    | `Home <../index.html>`__   |  BNF                   |
+| blue wire                    | `Home <../index.html>`__   |  BNF                   |
 +------------------------------+----------------------------+------------------------+
 
 BNF
-
-`Prev <blurgle.html>`__ 
-
-B
-
- `Next <boa.html>`__
-
---------------
+============
 
 **BNF**: /B·N·F/, n.
 
@@ -4082,19 +2998,19 @@ metasyntactic notation used to specify the syntax of programming
 languages, command sets, and the like. Widely used for language
 descriptions but seldom documented anywhere, so that it must usually be
 learned by osmosis from other hackers. Consider this BNF for a U.S.
-postal address:
+postal address::
 
 | 
-|   <postal-address> ::= <name-part> <street-address> <zip-part>
+|   <postal-address> ::= <name-part> <street-address> <zip-part>
 | 
-|   <personal-part> ::= <name> \| <initial> "."
+|   <personal-part> ::= <name> \| <initial> "."
 | 
-|   <name-part> ::= <personal-part> <last-name> [<jr-part>] <EOL>
-|                 \| <personal-part> <name-part>
+|   <name-part> ::= <personal-part> <last-name> [<jr-part>] <EOL>
+|                 \| <personal-part> <name-part>
 | 
-|   <street-address> ::= [<apt>] <house-num> <street-name> <EOL>
+|   <street-address> ::= [<apt>] <house-num> <street-name> <EOL>
 | 
-|   <zip-part> ::= <town-name> "," <state-code> <ZIP-code> <EOL>
+|   <zip-part> ::= <town-name> "," <state-code> <ZIP-code> <EOL>
 
 This translates into English as: “A postal-address consists of a
 name-part, followed by a street-address part, followed by a zip-code
@@ -4127,20 +3043,13 @@ the hacker contingent terribly.
 --------------
 
 +----------------------------+----------------------------+------------------------+
-| `Prev <blurgle.html>`__    | `Up <../B.html>`__         |  `Next <boa.html>`__   |
+| `Prev <blurgle.html>`__    | `Up <../B.html>`__         |  `Next <boa.html>`__   |
 +----------------------------+----------------------------+------------------------+
-| blurgle                    | `Home <../index.html>`__   |  boa                   |
+| blurgle                    | `Home <../index.html>`__   |  boa                   |
 +----------------------------+----------------------------+------------------------+
 
 boa
-
-`Prev <BNF.html>`__ 
-
-B
-
- `Next <board.html>`__
-
---------------
+===========
 
 **boa**: n.
 
@@ -4155,20 +3064,13 @@ one of the major cable makers uses the trademark ‘Anaconda’.
 --------------
 
 +------------------------+----------------------------+--------------------------+
-| `Prev <BNF.html>`__    | `Up <../B.html>`__         |  `Next <board.html>`__   |
+| `Prev <BNF.html>`__    | `Up <../B.html>`__         |  `Next <board.html>`__   |
 +------------------------+----------------------------+--------------------------+
-| BNF                    | `Home <../index.html>`__   |  board                   |
+| BNF                    | `Home <../index.html>`__   |  board                   |
 +------------------------+----------------------------+--------------------------+
 
 board
-
-`Prev <boa.html>`__ 
-
-B
-
- `Next <boat-anchor.html>`__
-
---------------
+============
 
 **board**: n.
 
@@ -4181,20 +3083,13 @@ even for Usenet newsgroups (but see usage note under
 --------------
 
 +------------------------+----------------------------+--------------------------------+
-| `Prev <boa.html>`__    | `Up <../B.html>`__         |  `Next <boat-anchor.html>`__   |
+| `Prev <boa.html>`__    | `Up <../B.html>`__         |  `Next <boat-anchor.html>`__   |
 +------------------------+----------------------------+--------------------------------+
-| boa                    | `Home <../index.html>`__   |  boat anchor                   |
+| boa                    | `Home <../index.html>`__   |  boat anchor                   |
 +------------------------+----------------------------+--------------------------------+
 
 boat anchor
-
-`Prev <board.html>`__ 
-
-B
-
- `Next <bob.html>`__
-
---------------
+===============
 
 **boat anchor**: n.
 
@@ -4218,20 +3113,13 @@ anchor” for frustrating (not actually useless) equipment.
 --------------
 
 +--------------------------+----------------------------+------------------------+
-| `Prev <board.html>`__    | `Up <../B.html>`__         |  `Next <bob.html>`__   |
+| `Prev <board.html>`__    | `Up <../B.html>`__         |  `Next <bob.html>`__   |
 +--------------------------+----------------------------+------------------------+
-| board                    | `Home <../index.html>`__   |  bob                   |
+| board                    | `Home <../index.html>`__   |  bob                   |
 +--------------------------+----------------------------+------------------------+
 
 bob
-
-`Prev <boat-anchor.html>`__ 
-
-B
-
- `Next <bodge.html>`__
-
---------------
+=========
 
 **bob**: n.
 
@@ -4266,20 +3154,13 @@ Bob nature.
 --------------
 
 +--------------------------------+----------------------------+--------------------------+
-| `Prev <boat-anchor.html>`__    | `Up <../B.html>`__         |  `Next <bodge.html>`__   |
+| `Prev <boat-anchor.html>`__    | `Up <../B.html>`__         |  `Next <bodge.html>`__   |
 +--------------------------------+----------------------------+--------------------------+
-| boat anchor                    | `Home <../index.html>`__   |  bodge                   |
+| boat anchor                    | `Home <../index.html>`__   |  bodge                   |
 +--------------------------------+----------------------------+--------------------------+
 
 bodge
-
-`Prev <bob.html>`__ 
-
-B
-
- `Next <BOF.html>`__
-
---------------
+==============
 
 **bodge**
 
@@ -4290,20 +3171,13 @@ it later”.
 --------------
 
 +------------------------+----------------------------+------------------------+
-| `Prev <bob.html>`__    | `Up <../B.html>`__         |  `Next <BOF.html>`__   |
+| `Prev <bob.html>`__    | `Up <../B.html>`__         |  `Next <BOF.html>`__   |
 +------------------------+----------------------------+------------------------+
-| bob                    | `Home <../index.html>`__   |  BOF                   |
+| bob                    | `Home <../index.html>`__   |  BOF                   |
 +------------------------+----------------------------+------------------------+
 
 BOFH
-
-`Prev <BOF.html>`__ 
-
-B
-
- `Next <bogo-sort.html>`__
-
---------------
+===========
 
 **BOFH**: //, n.
 
@@ -4325,20 +3199,13 @@ monastery* <../S/scary-devil-monastery.html>`__ and wield
 --------------
 
 +------------------------+----------------------------+------------------------------+
-| `Prev <BOF.html>`__    | `Up <../B.html>`__         |  `Next <bogo-sort.html>`__   |
+| `Prev <BOF.html>`__    | `Up <../B.html>`__         |  `Next <bogo-sort.html>`__   |
 +------------------------+----------------------------+------------------------------+
-| BOF                    | `Home <../index.html>`__   |  bogo-sort                   |
+| BOF                    | `Home <../index.html>`__   |  bogo-sort                   |
 +------------------------+----------------------------+------------------------------+
 
 BOF
-
-`Prev <bodge.html>`__ 
-
-B
-
- `Next <BOFH.html>`__
-
---------------
+==========
 
 **BOF**: /B·O·F/, /bof/, n.
 
@@ -4355,20 +3222,13 @@ common at SHARE meetings as far back as the early 1960s.
 --------------
 
 +--------------------------+----------------------------+-------------------------+
-| `Prev <bodge.html>`__    | `Up <../B.html>`__         |  `Next <BOFH.html>`__   |
+| `Prev <bodge.html>`__    | `Up <../B.html>`__         |  `Next <BOFH.html>`__   |
 +--------------------------+----------------------------+-------------------------+
-| bodge                    | `Home <../index.html>`__   |  BOFH                   |
+| bodge                    | `Home <../index.html>`__   |  BOFH                   |
 +--------------------------+----------------------------+-------------------------+
 
 bogometer
-
-`Prev <bogo-sort.html>`__ 
-
-B
-
- `Next <BogoMIPS.html>`__
-
---------------
+==============
 
 **bogometer**: /boh·gom'·@t·er/, n.
 
@@ -4380,20 +3240,13 @@ also `*bogus* <bogus.html>`__.
 --------------
 
 +------------------------------+----------------------------+-----------------------------+
-| `Prev <bogo-sort.html>`__    | `Up <../B.html>`__         |  `Next <BogoMIPS.html>`__   |
+| `Prev <bogo-sort.html>`__    | `Up <../B.html>`__         |  `Next <BogoMIPS.html>`__   |
 +------------------------------+----------------------------+-----------------------------+
-| bogo-sort                    | `Home <../index.html>`__   |  BogoMIPS                   |
+| bogo-sort                    | `Home <../index.html>`__   |  BogoMIPS                   |
 +------------------------------+----------------------------+-----------------------------+
 
 BogoMIPS
-
-`Prev <bogometer.html>`__ 
-
-B
-
- `Next <bogon.html>`__
-
---------------
+===========
 
 **BogoMIPS**: /bo´go·mips/, n.
 
@@ -4408,20 +3261,13 @@ course, is an ironic comment on the uselessness of all *other*
 --------------
 
 +------------------------------+----------------------------+--------------------------+
-| `Prev <bogometer.html>`__    | `Up <../B.html>`__         |  `Next <bogon.html>`__   |
+| `Prev <bogometer.html>`__    | `Up <../B.html>`__         |  `Next <bogon.html>`__   |
 +------------------------------+----------------------------+--------------------------+
-| bogometer                    | `Home <../index.html>`__   |  bogon                   |
+| bogometer                    | `Home <../index.html>`__   |  bogon                   |
 +------------------------------+----------------------------+--------------------------+
 
 bogon filter
-
-`Prev <bogon.html>`__ 
-
-B
-
- `Next <bogon-flux.html>`__
-
---------------
+=================
 
 **bogon filter**: /boh´gon fil'tr/, n.
 
@@ -4433,20 +3279,13 @@ See also `*bogosity* <bogosity.html>`__, `*bogus* <bogus.html>`__.
 --------------
 
 +--------------------------+----------------------------+-------------------------------+
-| `Prev <bogon.html>`__    | `Up <../B.html>`__         |  `Next <bogon-flux.html>`__   |
+| `Prev <bogon.html>`__    | `Up <../B.html>`__         |  `Next <bogon-flux.html>`__   |
 +--------------------------+----------------------------+-------------------------------+
-| bogon                    | `Home <../index.html>`__   |  bogon flux                   |
+| bogon                    | `Home <../index.html>`__   |  bogon flux                   |
 +--------------------------+----------------------------+-------------------------------+
 
 bogon flux
-
-`Prev <bogon-filter.html>`__ 
-
-B
-
- `Next <bogosity.html>`__
-
---------------
+===============
 
 **bogon flux**: /boh´gon fluhks/, n.
 
@@ -4459,20 +3298,13 @@ bogodynamics* <../Q/quantum-bogodynamics.html>`__.
 --------------
 
 +---------------------------------+----------------------------+-----------------------------+
-| `Prev <bogon-filter.html>`__    | `Up <../B.html>`__         |  `Next <bogosity.html>`__   |
+| `Prev <bogon-filter.html>`__    | `Up <../B.html>`__         |  `Next <bogosity.html>`__   |
 +---------------------------------+----------------------------+-----------------------------+
-| bogon filter                    | `Home <../index.html>`__   |  bogosity                   |
+| bogon filter                    | `Home <../index.html>`__   |  bogosity                   |
 +---------------------------------+----------------------------+-----------------------------+
 
 bogon
-
-`Prev <BogoMIPS.html>`__ 
-
-B
-
- `Next <bogon-filter.html>`__
-
---------------
+==========
 
 **bogon**: /boh´gon/, n.
 
@@ -4521,20 +3353,13 @@ flavor. Compare `*magic smoke* <../M/magic-smoke.html>`__.
 --------------
 
 +-----------------------------+----------------------------+---------------------------------+
-| `Prev <BogoMIPS.html>`__    | `Up <../B.html>`__         |  `Next <bogon-filter.html>`__   |
+| `Prev <BogoMIPS.html>`__    | `Up <../B.html>`__         |  `Next <bogon-filter.html>`__   |
 +-----------------------------+----------------------------+---------------------------------+
-| BogoMIPS                    | `Home <../index.html>`__   |  bogon filter                   |
+| BogoMIPS                    | `Home <../index.html>`__   |  bogon filter                   |
 +-----------------------------+----------------------------+---------------------------------+
 
 bogosity
-
-`Prev <bogon-flux.html>`__ 
-
-B
-
- `Next <bogotify.html>`__
-
---------------
+============
 
 **bogosity**: /boh·go´s@·tee/, n.
 
@@ -4557,20 +3382,13 @@ flux* <bogon-flux.html>`__, `*bogon filter* <bogon-filter.html>`__,
 --------------
 
 +-------------------------------+----------------------------+-----------------------------+
-| `Prev <bogon-flux.html>`__    | `Up <../B.html>`__         |  `Next <bogotify.html>`__   |
+| `Prev <bogon-flux.html>`__    | `Up <../B.html>`__         |  `Next <bogotify.html>`__   |
 +-------------------------------+----------------------------+-----------------------------+
-| bogon flux                    | `Home <../index.html>`__   |  bogotify                   |
+| bogon flux                    | `Home <../index.html>`__   |  bogotify                   |
 +-------------------------------+----------------------------+-----------------------------+
 
 bogo-sort
-
-`Prev <BOFH.html>`__ 
-
-B
-
- `Next <bogometer.html>`__
-
---------------
+===================
 
 **bogo-sort**: /boh\`goh·sort´/, n.
 
@@ -4600,20 +3418,13 @@ reader.
 --------------
 
 +-------------------------+----------------------------+------------------------------+
-| `Prev <BOFH.html>`__    | `Up <../B.html>`__         |  `Next <bogometer.html>`__   |
+| `Prev <BOFH.html>`__    | `Up <../B.html>`__         |  `Next <bogometer.html>`__   |
 +-------------------------+----------------------------+------------------------------+
-| BOFH                    | `Home <../index.html>`__   |  bogometer                   |
+| BOFH                    | `Home <../index.html>`__   |  bogometer                   |
 +-------------------------+----------------------------+------------------------------+
 
 bogotify
-
-`Prev <bogosity.html>`__ 
-
-B
-
- `Next <bogue-out.html>`__
-
---------------
+==============
 
 **bogotify**: /boh·go´t@·fi:/, vt.
 
@@ -4629,20 +3440,13 @@ also `*bogosity* <bogosity.html>`__, `*bogus* <bogus.html>`__.
 --------------
 
 +-----------------------------+----------------------------+------------------------------+
-| `Prev <bogosity.html>`__    | `Up <../B.html>`__         |  `Next <bogue-out.html>`__   |
+| `Prev <bogosity.html>`__    | `Up <../B.html>`__         |  `Next <bogue-out.html>`__   |
 +-----------------------------+----------------------------+------------------------------+
-| bogosity                    | `Home <../index.html>`__   |  bogue out                   |
+| bogosity                    | `Home <../index.html>`__   |  bogue out                   |
 +-----------------------------+----------------------------+------------------------------+
 
 bogue out
-
-`Prev <bogotify.html>`__ 
-
-B
-
- `Next <bogus.html>`__
-
---------------
+==============
 
 **bogue out**: /bohg owt/, vi.
 
@@ -4654,20 +3458,13 @@ did nothing but `*flame* <../F/flame.html>`__ afterwards.” See also
 --------------
 
 +-----------------------------+----------------------------+--------------------------+
-| `Prev <bogotify.html>`__    | `Up <../B.html>`__         |  `Next <bogus.html>`__   |
+| `Prev <bogotify.html>`__    | `Up <../B.html>`__         |  `Next <bogus.html>`__   |
 +-----------------------------+----------------------------+--------------------------+
-| bogotify                    | `Home <../index.html>`__   |  bogus                   |
+| bogotify                    | `Home <../index.html>`__   |  bogus                   |
 +-----------------------------+----------------------------+--------------------------+
 
 bogus
-
-`Prev <bogue-out.html>`__ 
-
-B
-
- `Next <Bohr-bug.html>`__
-
---------------
+==============
 
 **bogus**: adj.
 
@@ -4717,20 +3514,13 @@ a counterfeiting machine.
 --------------
 
 +------------------------------+----------------------------+-----------------------------+
-| `Prev <bogue-out.html>`__    | `Up <../B.html>`__         |  `Next <Bohr-bug.html>`__   |
+| `Prev <bogue-out.html>`__    | `Up <../B.html>`__         |  `Next <Bohr-bug.html>`__   |
 +------------------------------+----------------------------+-----------------------------+
-| bogue out                    | `Home <../index.html>`__   |  Bohr bug                   |
+| bogue out                    | `Home <../index.html>`__   |  Bohr bug                   |
 +------------------------------+----------------------------+-----------------------------+
 
 Bohr bug
-
-`Prev <bogus.html>`__ 
-
-B
-
- `Next <boink.html>`__
-
---------------
+==============
 
 **Bohr bug**: /bohr buhg/, n.
 
@@ -4743,20 +3533,13 @@ conditions. Antonym of `*heisenbug* <../H/heisenbug.html>`__; see also
 --------------
 
 +--------------------------+----------------------------+--------------------------+
-| `Prev <bogus.html>`__    | `Up <../B.html>`__         |  `Next <boink.html>`__   |
+| `Prev <bogus.html>`__    | `Up <../B.html>`__         |  `Next <boink.html>`__   |
 +--------------------------+----------------------------+--------------------------+
-| bogus                    | `Home <../index.html>`__   |  boink                   |
+| bogus                    | `Home <../index.html>`__   |  boink                   |
 +--------------------------+----------------------------+--------------------------+
 
 boink
-
-`Prev <Bohr-bug.html>`__ 
-
-B
-
- `Next <bomb.html>`__
-
---------------
+==========
 
 **boink**: /boynk/
 
@@ -4777,20 +3560,13 @@ get-togethers held in the San Francisco Bay Area. Compare
 --------------
 
 +-----------------------------+----------------------------+-------------------------+
-| `Prev <Bohr-bug.html>`__    | `Up <../B.html>`__         |  `Next <bomb.html>`__   |
+| `Prev <Bohr-bug.html>`__    | `Up <../B.html>`__         |  `Next <bomb.html>`__   |
 +-----------------------------+----------------------------+-------------------------+
-| Bohr bug                    | `Home <../index.html>`__   |  bomb                   |
+| Bohr bug                    | `Home <../index.html>`__   |  bomb                   |
 +-----------------------------+----------------------------+-------------------------+
 
 bomb
-
-`Prev <boink.html>`__ 
-
-B
-
- `Next <bondage-and-discipline-language.html>`__
-
---------------
+=========
 
 **bomb**
 
@@ -4810,20 +3586,13 @@ up* <../L/locked-up.html>`__ in this situation.
 --------------
 
 +--------------------------+----------------------------+----------------------------------------------------+
-| `Prev <boink.html>`__    | `Up <../B.html>`__         |  `Next <bondage-and-discipline-language.html>`__   |
+| `Prev <boink.html>`__    | `Up <../B.html>`__         |  `Next <bondage-and-discipline-language.html>`__   |
 +--------------------------+----------------------------+----------------------------------------------------+
-| boink                    | `Home <../index.html>`__   |  bondage-and-discipline language                   |
+| boink                    | `Home <../index.html>`__   |  bondage-and-discipline language                   |
 +--------------------------+----------------------------+----------------------------------------------------+
 
 bondage-and-discipline language
-
-`Prev <bomb.html>`__ 
-
-B
-
- `Next <bonk-oif.html>`__
-
---------------
+====================================
 
 **bondage-and-discipline language**: n.
 
@@ -4839,20 +3608,13 @@ choice* <../L/languages-of-choice.html>`__.
 --------------
 
 +-------------------------+----------------------------+-----------------------------+
-| `Prev <bomb.html>`__    | `Up <../B.html>`__         |  `Next <bonk-oif.html>`__   |
+| `Prev <bomb.html>`__    | `Up <../B.html>`__         |  `Next <bonk-oif.html>`__   |
 +-------------------------+----------------------------+-----------------------------+
-| bomb                    | `Home <../index.html>`__   |  bonk/oif                   |
+| bomb                    | `Home <../index.html>`__   |  bonk/oif                   |
 +-------------------------+----------------------------+-----------------------------+
 
 bonk/oif
-
-`Prev <bondage-and-discipline-language.html>`__ 
-
-B
-
- `Next <book-titles.html>`__
-
---------------
+==========
 
 **bonk/oif**: /bonk/, /oyf/, interj.
 
@@ -4870,20 +3632,13 @@ See also `*talk mode* <../T/talk-mode.html>`__.
 --------------
 
 +----------------------------------------------------+----------------------------+--------------------------------+
-| `Prev <bondage-and-discipline-language.html>`__    | `Up <../B.html>`__         |  `Next <book-titles.html>`__   |
+| `Prev <bondage-and-discipline-language.html>`__    | `Up <../B.html>`__         |  `Next <book-titles.html>`__   |
 +----------------------------------------------------+----------------------------+--------------------------------+
-| bondage-and-discipline language                    | `Home <../index.html>`__   |  book titles                   |
+| bondage-and-discipline language                    | `Home <../index.html>`__   |  book titles                   |
 +----------------------------------------------------+----------------------------+--------------------------------+
 
 book titles
-
-`Prev <bonk-oif.html>`__ 
-
-B
-
- `Next <boot.html>`__
-
---------------
+================
 
 **book titles**
 
@@ -4907,20 +3662,13 @@ animal on the cover and are often called by the name of that animal.
 --------------
 
 +-----------------------------+----------------------------+-------------------------+
-| `Prev <bonk-oif.html>`__    | `Up <../B.html>`__         |  `Next <boot.html>`__   |
+| `Prev <bonk-oif.html>`__    | `Up <../B.html>`__         |  `Next <boot.html>`__   |
 +-----------------------------+----------------------------+-------------------------+
-| bonk/oif                    | `Home <../index.html>`__   |  boot                   |
+| bonk/oif                    | `Home <../index.html>`__   |  boot                   |
 +-----------------------------+----------------------------+-------------------------+
 
 boot
-
-`Prev <book-titles.html>`__ 
-
-B
-
- `Next <Borg.html>`__
-
---------------
+============
 
 **boot**: v.,n.
 
@@ -4968,20 +3716,13 @@ load the actual OS and hand control over to it.
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <book-titles.html>`__    | `Up <../B.html>`__         |  `Next <Borg.html>`__   |
+| `Prev <book-titles.html>`__    | `Up <../B.html>`__         |  `Next <Borg.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| book titles                    | `Home <../index.html>`__   |  Borg                   |
+| book titles                    | `Home <../index.html>`__   |  Borg                   |
 +--------------------------------+----------------------------+-------------------------+
 
 Borg
-
-`Prev <boot.html>`__ 
-
-B
-
- `Next <borken.html>`__
-
---------------
+=============
 
 **Borg**: n.
 
@@ -5009,20 +3750,13 @@ with t-shirts printed with “Recovering Borg”.
 --------------
 
 +-------------------------+----------------------------+---------------------------+
-| `Prev <boot.html>`__    | `Up <../B.html>`__         |  `Next <borken.html>`__   |
+| `Prev <boot.html>`__    | `Up <../B.html>`__         |  `Next <borken.html>`__   |
 +-------------------------+----------------------------+---------------------------+
-| boot                    | `Home <../index.html>`__   |  borken                   |
+| boot                    | `Home <../index.html>`__   |  borken                   |
 +-------------------------+----------------------------+---------------------------+
 
 borken
-
-`Prev <Borg.html>`__ 
-
-B
-
- `Next <bot.html>`__
-
---------------
+============
 
 **borken**: adj.
 
@@ -5031,20 +3765,13 @@ B
 --------------
 
 +-------------------------+----------------------------+------------------------+
-| `Prev <Borg.html>`__    | `Up <../B.html>`__         |  `Next <bot.html>`__   |
+| `Prev <Borg.html>`__    | `Up <../B.html>`__         |  `Next <bot.html>`__   |
 +-------------------------+----------------------------+------------------------+
-| Borg                    | `Home <../index.html>`__   |  bot                   |
+| Borg                    | `Home <../index.html>`__   |  bot                   |
 +-------------------------+----------------------------+------------------------+
 
 bot
-
-`Prev <borken.html>`__ 
-
-B
-
- `Next <bottom-feeder.html>`__
-
---------------
+=============
 
 **bot**: n
 
@@ -5079,20 +3806,13 @@ in the early 1990s, but the shortened form is now habitual.
 --------------
 
 +---------------------------+----------------------------+----------------------------------+
-| `Prev <borken.html>`__    | `Up <../B.html>`__         |  `Next <bottom-feeder.html>`__   |
+| `Prev <borken.html>`__    | `Up <../B.html>`__         |  `Next <bottom-feeder.html>`__   |
 +---------------------------+----------------------------+----------------------------------+
-| borken                    | `Home <../index.html>`__   |  bottom feeder                   |
+| borken                    | `Home <../index.html>`__   |  bottom feeder                   |
 +---------------------------+----------------------------+----------------------------------+
 
 bottom feeder
-
-`Prev <bot.html>`__ 
-
-B
-
- `Next <bottom-post.html>`__
-
---------------
+===================
 
 **bottom feeder**: n.
 
@@ -5113,20 +3833,13 @@ primordial ooze. (This sense is older.)
 --------------
 
 +------------------------+----------------------------+--------------------------------+
-| `Prev <bot.html>`__    | `Up <../B.html>`__         |  `Next <bottom-post.html>`__   |
+| `Prev <bot.html>`__    | `Up <../B.html>`__         |  `Next <bottom-post.html>`__   |
 +------------------------+----------------------------+--------------------------------+
-| bot                    | `Home <../index.html>`__   |  bottom-post                   |
+| bot                    | `Home <../index.html>`__   |  bottom-post                   |
 +------------------------+----------------------------+--------------------------------+
 
 bottom-post
-
-`Prev <bottom-feeder.html>`__ 
-
-B
-
- `Next <bottom-up-implementation.html>`__
-
---------------
+===============
 
 **bottom-post**: v.
 
@@ -5143,20 +3856,13 @@ keeps thread content in a logical order, and facilitates reading.
 --------------
 
 +----------------------------------+----------------------------+---------------------------------------------+
-| `Prev <bottom-feeder.html>`__    | `Up <../B.html>`__         |  `Next <bottom-up-implementation.html>`__   |
+| `Prev <bottom-feeder.html>`__    | `Up <../B.html>`__         |  `Next <bottom-up-implementation.html>`__   |
 +----------------------------------+----------------------------+---------------------------------------------+
-| bottom feeder                    | `Home <../index.html>`__   |  bottom-up implementation                   |
+| bottom feeder                    | `Home <../index.html>`__   |  bottom-up implementation                   |
 +----------------------------------+----------------------------+---------------------------------------------+
 
 bottom-up implementation
-
-`Prev <bottom-post.html>`__ 
-
-B
-
- `Next <bounce.html>`__
-
---------------
+=========================
 
 **bottom-up implementation**: n.
 
@@ -5177,20 +3883,13 @@ built.
 --------------
 
 +--------------------------------+----------------------------+---------------------------+
-| `Prev <bottom-post.html>`__    | `Up <../B.html>`__         |  `Next <bounce.html>`__   |
+| `Prev <bottom-post.html>`__    | `Up <../B.html>`__         |  `Next <bounce.html>`__   |
 +--------------------------------+----------------------------+---------------------------+
-| bottom-post                    | `Home <../index.html>`__   |  bounce                   |
+| bottom-post                    | `Home <../index.html>`__   |  bounce                   |
 +--------------------------------+----------------------------+---------------------------+
 
 bounce
-
-`Prev <bottom-up-implementation.html>`__ 
-
-B
-
- `Next <bounce-message.html>`__
-
---------------
+===========
 
 **bounce**: v.
 
@@ -5219,20 +3918,13 @@ order to reset it.
 --------------
 
 +---------------------------------------------+----------------------------+-----------------------------------+
-| `Prev <bottom-up-implementation.html>`__    | `Up <../B.html>`__         |  `Next <bounce-message.html>`__   |
+| `Prev <bottom-up-implementation.html>`__    | `Up <../B.html>`__         |  `Next <bounce-message.html>`__   |
 +---------------------------------------------+----------------------------+-----------------------------------+
-| bottom-up implementation                    | `Home <../index.html>`__   |  bounce message                   |
+| bottom-up implementation                    | `Home <../index.html>`__   |  bounce message                   |
 +---------------------------------------------+----------------------------+-----------------------------------+
 
 bounce message
-
-`Prev <bounce.html>`__ 
-
-B
-
- `Next <boustrophedon.html>`__
-
---------------
+===================
 
 **bounce message**: n.
 
@@ -5250,20 +3942,13 @@ are also common.
 --------------
 
 +---------------------------+----------------------------+----------------------------------+
-| `Prev <bounce.html>`__    | `Up <../B.html>`__         |  `Next <boustrophedon.html>`__   |
+| `Prev <bounce.html>`__    | `Up <../B.html>`__         |  `Next <boustrophedon.html>`__   |
 +---------------------------+----------------------------+----------------------------------+
-| bounce                    | `Home <../index.html>`__   |  boustrophedon                   |
+| bounce                    | `Home <../index.html>`__   |  boustrophedon                   |
 +---------------------------+----------------------------+----------------------------------+
 
 boustrophedon
-
-`Prev <bounce-message.html>`__ 
-
-B
-
- `Next <box.html>`__
-
---------------
+==================
 
 **boustrophedon**: n.
 
@@ -5278,20 +3963,14 @@ like this).
 --------------
 
 +-----------------------------------+----------------------------+------------------------+
-| `Prev <bounce-message.html>`__    | `Up <../B.html>`__         |  `Next <box.html>`__   |
+| `Prev <bounce-message.html>`__    | `Up <../B.html>`__         |  `Next <box.html>`__   |
 +-----------------------------------+----------------------------+------------------------+
-| bounce message                    | `Home <../index.html>`__   |  box                   |
+| bounce message                    | `Home <../index.html>`__   |  box                   |
 +-----------------------------------+----------------------------+------------------------+
 
 boxed comments
+==================
 
-`Prev <box.html>`__ 
-
-B
-
- `Next <boxen.html>`__
-
---------------
 
 **boxed comments**: n.
 
@@ -5318,20 +3997,13 @@ implied. Oppose `*winged comments* <../W/winged-comments.html>`__.
 --------------
 
 +------------------------+----------------------------+--------------------------+
-| `Prev <box.html>`__    | `Up <../B.html>`__         |  `Next <boxen.html>`__   |
+| `Prev <box.html>`__    | `Up <../B.html>`__         |  `Next <boxen.html>`__   |
 +------------------------+----------------------------+--------------------------+
-| box                    | `Home <../index.html>`__   |  boxen                   |
+| box                    | `Home <../index.html>`__   |  boxen                   |
 +------------------------+----------------------------+--------------------------+
 
 boxen
-
-`Prev <boxed-comments.html>`__ 
-
-B
-
- `Next <boxology.html>`__
-
---------------
+=========
 
 **boxen**: /bok´sn/, pl.n.
 
@@ -5343,20 +4015,13 @@ The connotation is that any two Unix boxen are interchangeable.
 --------------
 
 +-----------------------------------+----------------------------+-----------------------------+
-| `Prev <boxed-comments.html>`__    | `Up <../B.html>`__         |  `Next <boxology.html>`__   |
+| `Prev <boxed-comments.html>`__    | `Up <../B.html>`__         |  `Next <boxology.html>`__   |
 +-----------------------------------+----------------------------+-----------------------------+
-| boxed comments                    | `Home <../index.html>`__   |  boxology                   |
+| boxed comments                    | `Home <../index.html>`__   |  boxology                   |
 +-----------------------------------+----------------------------+-----------------------------+
 
 box
-
-`Prev <boustrophedon.html>`__ 
-
-B
-
- `Next <boxed-comments.html>`__
-
---------------
+=========
 
 **box**: n.
 
@@ -5368,20 +4033,13 @@ handing it up to the mainframe.”
 --------------
 
 +----------------------------------+----------------------------+-----------------------------------+
-| `Prev <boustrophedon.html>`__    | `Up <../B.html>`__         |  `Next <boxed-comments.html>`__   |
+| `Prev <boustrophedon.html>`__    | `Up <../B.html>`__         |  `Next <boxed-comments.html>`__   |
 +----------------------------------+----------------------------+-----------------------------------+
-| boustrophedon                    | `Home <../index.html>`__   |  boxed comments                   |
+| boustrophedon                    | `Home <../index.html>`__   |  boxed comments                   |
 +----------------------------------+----------------------------+-----------------------------------+
 
 boxology
-
-`Prev <boxen.html>`__ 
-
-B
-
- `Next <bozotic.html>`__
-
---------------
+============
 
 **boxology**: /bok·sol'@·jee/, n.
 
@@ -5392,20 +4050,13 @@ of boxology in it.” Compare `*macrology* <../M/macrology.html>`__.
 --------------
 
 +--------------------------+----------------------------+----------------------------+
-| `Prev <boxen.html>`__    | `Up <../B.html>`__         |  `Next <bozotic.html>`__   |
+| `Prev <boxen.html>`__    | `Up <../B.html>`__         |  `Next <bozotic.html>`__   |
 +--------------------------+----------------------------+----------------------------+
-| boxen                    | `Home <../index.html>`__   |  bozotic                   |
+| boxen                    | `Home <../index.html>`__   |  bozotic                   |
 +--------------------------+----------------------------+----------------------------+
 
 bozotic
-
-`Prev <boxology.html>`__ 
-
-B
-
- `Next <brain-dump.html>`__
-
---------------
+============
 
 **bozotic**: /boh·zoh´tik/, /boh·zo´tik/, adj.
 
@@ -5419,20 +4070,13 @@ would be ‘bozo-like’ or (in New England) ‘bozoish’.
 --------------
 
 +-----------------------------+----------------------------+-------------------------------+
-| `Prev <boxology.html>`__    | `Up <../B.html>`__         |  `Next <brain-dump.html>`__   |
+| `Prev <boxology.html>`__    | `Up <../B.html>`__         |  `Next <brain-dump.html>`__   |
 +-----------------------------+----------------------------+-------------------------------+
-| boxology                    | `Home <../index.html>`__   |  brain dump                   |
+| boxology                    | `Home <../index.html>`__   |  brain dump                   |
 +-----------------------------+----------------------------+-------------------------------+
 
 brain-damaged
-
-`Prev <brain-fart.html>`__ 
-
-B
-
- `Next <brain-dead.html>`__
-
---------------
+=================
 
 **brain-damaged**: adj.
 
@@ -5455,20 +4099,13 @@ product it is intended to sell. Syn.
 --------------
 
 +-------------------------------+----------------------------+-------------------------------+
-| `Prev <brain-fart.html>`__    | `Up <../B.html>`__         |  `Next <brain-dead.html>`__   |
+| `Prev <brain-fart.html>`__    | `Up <../B.html>`__         |  `Next <brain-dead.html>`__   |
 +-------------------------------+----------------------------+-------------------------------+
-| brain fart                    | `Home <../index.html>`__   |  brain-dead                   |
+| brain fart                    | `Home <../index.html>`__   |  brain-dead                   |
 +-------------------------------+----------------------------+-------------------------------+
 
 brain-dead
-
-`Prev <brain-damaged.html>`__ 
-
-B
-
- `Next <braino.html>`__
-
---------------
+=====================
 
 **brain-dead**: adj.
 
@@ -5479,20 +4116,13 @@ doesn't know how to send a break — how brain-dead!”
 --------------
 
 +----------------------------------+----------------------------+---------------------------+
-| `Prev <brain-damaged.html>`__    | `Up <../B.html>`__         |  `Next <braino.html>`__   |
+| `Prev <brain-damaged.html>`__    | `Up <../B.html>`__         |  `Next <braino.html>`__   |
 +----------------------------------+----------------------------+---------------------------+
-| brain-damaged                    | `Home <../index.html>`__   |  braino                   |
+| brain-damaged                    | `Home <../index.html>`__   |  braino                   |
 +----------------------------------+----------------------------+---------------------------+
 
 brain dump
-
-`Prev <bozotic.html>`__ 
-
-B
-
- `Next <brain-fart.html>`__
-
---------------
+==============
 
 **brain dump**: n.
 
@@ -5508,20 +4138,13 @@ Sun, this is also known as TOI (transfer of information).
 --------------
 
 +----------------------------+----------------------------+-------------------------------+
-| `Prev <bozotic.html>`__    | `Up <../B.html>`__         |  `Next <brain-fart.html>`__   |
+| `Prev <bozotic.html>`__    | `Up <../B.html>`__         |  `Next <brain-fart.html>`__   |
 +----------------------------+----------------------------+-------------------------------+
-| bozotic                    | `Home <../index.html>`__   |  brain fart                   |
+| bozotic                    | `Home <../index.html>`__   |  brain fart                   |
 +----------------------------+----------------------------+-------------------------------+
 
 brain fart
-
-`Prev <brain-dump.html>`__ 
-
-B
-
- `Next <brain-damaged.html>`__
-
---------------
+===========
 
 **brain fart**: n.
 
@@ -5532,20 +4155,13 @@ box after a session with DOS.
 --------------
 
 +-------------------------------+----------------------------+----------------------------------+
-| `Prev <brain-dump.html>`__    | `Up <../B.html>`__         |  `Next <brain-damaged.html>`__   |
+| `Prev <brain-dump.html>`__    | `Up <../B.html>`__         |  `Next <brain-damaged.html>`__   |
 +-------------------------------+----------------------------+----------------------------------+
-| brain dump                    | `Home <../index.html>`__   |  brain-damaged                   |
+| brain dump                    | `Home <../index.html>`__   |  brain-damaged                   |
 +-------------------------------+----------------------------+----------------------------------+
 
 braino
-
-`Prev <brain-dead.html>`__ 
-
-B
-
- `Next <brainwidth.html>`__
-
---------------
+============
 
 **braino**: /bray´no/, n.
 
@@ -5555,20 +4171,13 @@ fart* <brain-fart.html>`__.
 --------------
 
 +-------------------------------+----------------------------+-------------------------------+
-| `Prev <brain-dead.html>`__    | `Up <../B.html>`__         |  `Next <brainwidth.html>`__   |
+| `Prev <brain-dead.html>`__    | `Up <../B.html>`__         |  `Next <brainwidth.html>`__   |
 +-------------------------------+----------------------------+-------------------------------+
-| brain-dead                    | `Home <../index.html>`__   |  brainwidth                   |
+| brain-dead                    | `Home <../index.html>`__   |  brainwidth                   |
 +-------------------------------+----------------------------+-------------------------------+
 
 brainwidth
-
-`Prev <braino.html>`__ 
-
-B
-
- `Next <bread-crumbs.html>`__
-
---------------
+==================
 
 **brainwidth**: n.
 
@@ -5580,20 +4189,13 @@ I can't look at that Flash animation.”
 --------------
 
 +---------------------------+----------------------------+---------------------------------+
-| `Prev <braino.html>`__    | `Up <../B.html>`__         |  `Next <bread-crumbs.html>`__   |
+| `Prev <braino.html>`__    | `Up <../B.html>`__         |  `Next <bread-crumbs.html>`__   |
 +---------------------------+----------------------------+---------------------------------+
-| braino                    | `Home <../index.html>`__   |  bread crumbs                   |
+| braino                    | `Home <../index.html>`__   |  bread crumbs                   |
 +---------------------------+----------------------------+---------------------------------+
 
 bread crumbs
-
-`Prev <brainwidth.html>`__ 
-
-B
-
- `Next <break.html>`__
-
---------------
+==============
 
 **bread crumbs**: n.
 
@@ -5612,20 +4214,13 @@ in Netscape (also called footprinting).
 --------------
 
 +-------------------------------+----------------------------+--------------------------+
-| `Prev <brainwidth.html>`__    | `Up <../B.html>`__         |  `Next <break.html>`__   |
+| `Prev <brainwidth.html>`__    | `Up <../B.html>`__         |  `Next <break.html>`__   |
 +-------------------------------+----------------------------+--------------------------+
-| brainwidth                    | `Home <../index.html>`__   |  break                   |
+| brainwidth                    | `Home <../index.html>`__   |  break                   |
 +-------------------------------+----------------------------+--------------------------+
 
 break-even point
-
-`Prev <break.html>`__ 
-
-B
-
- `Next <breath-of-life-packet.html>`__
-
---------------
+==================
 
 **break-even point**: n.
 
@@ -5647,20 +4242,13 @@ Retrocomputing Museum
 --------------
 
 +--------------------------+----------------------------+------------------------------------------+
-| `Prev <break.html>`__    | `Up <../B.html>`__         |  `Next <breath-of-life-packet.html>`__   |
+| `Prev <break.html>`__    | `Up <../B.html>`__         |  `Next <breath-of-life-packet.html>`__   |
 +--------------------------+----------------------------+------------------------------------------+
-| break                    | `Home <../index.html>`__   |  breath-of-life packet                   |
+| break                    | `Home <../index.html>`__   |  breath-of-life packet                   |
 +--------------------------+----------------------------+------------------------------------------+
 
 break
-
-`Prev <bread-crumbs.html>`__ 
-
-B
-
- `Next <break-even-point.html>`__
-
---------------
+===============
 
 **break**
 
@@ -5685,20 +4273,13 @@ as badly abused in the Citizen's Band craze of the early 1980s.
 --------------
 
 +---------------------------------+----------------------------+-------------------------------------+
-| `Prev <bread-crumbs.html>`__    | `Up <../B.html>`__         |  `Next <break-even-point.html>`__   |
+| `Prev <bread-crumbs.html>`__    | `Up <../B.html>`__         |  `Next <break-even-point.html>`__   |
 +---------------------------------+----------------------------+-------------------------------------+
-| bread crumbs                    | `Home <../index.html>`__   |  break-even point                   |
+| bread crumbs                    | `Home <../index.html>`__   |  break-even point                   |
 +---------------------------------+----------------------------+-------------------------------------+
 
 breath-of-life packet
-
-`Prev <break-even-point.html>`__ 
-
-B
-
- `Next <breedle.html>`__
-
---------------
+===============================
 
 **breath-of-life packet**: n.
 
@@ -5721,20 +4302,13 @@ Christmas shoppers competing for scarce parking spaces.
 --------------
 
 +-------------------------------------+----------------------------+----------------------------+
-| `Prev <break-even-point.html>`__    | `Up <../B.html>`__         |  `Next <breedle.html>`__   |
+| `Prev <break-even-point.html>`__    | `Up <../B.html>`__         |  `Next <breedle.html>`__   |
 +-------------------------------------+----------------------------+----------------------------+
-| break-even point                    | `Home <../index.html>`__   |  breedle                   |
+| break-even point                    | `Home <../index.html>`__   |  breedle                   |
 +-------------------------------------+----------------------------+----------------------------+
 
 breedle
-
-`Prev <breath-of-life-packet.html>`__ 
-
-B
-
- `Next <Breidbart-Index.html>`__
-
---------------
+===============
 
 **breedle**: n.
 
@@ -5743,20 +4317,13 @@ See `*feep* <../F/feep.html>`__.
 --------------
 
 +------------------------------------------+----------------------------+------------------------------------+
-| `Prev <breath-of-life-packet.html>`__    | `Up <../B.html>`__         |  `Next <Breidbart-Index.html>`__   |
+| `Prev <breath-of-life-packet.html>`__    | `Up <../B.html>`__         |  `Next <Breidbart-Index.html>`__   |
 +------------------------------------------+----------------------------+------------------------------------+
-| breath-of-life packet                    | `Home <../index.html>`__   |  Breidbart Index                   |
+| breath-of-life packet                    | `Home <../index.html>`__   |  Breidbart Index                   |
 +------------------------------------------+----------------------------+------------------------------------+
 
 Breidbart Index
-
-`Prev <breedle.html>`__ 
-
-B
-
- `Next <brick.html>`__
-
---------------
+================
 
 **Breidbart Index**: /bri:d´bart ind@ks/
 
@@ -5784,20 +4351,13 @@ sight”.
 --------------
 
 +----------------------------+----------------------------+--------------------------+
-| `Prev <breedle.html>`__    | `Up <../B.html>`__         |  `Next <brick.html>`__   |
+| `Prev <breedle.html>`__    | `Up <../B.html>`__         |  `Next <brick.html>`__   |
 +----------------------------+----------------------------+--------------------------+
-| breedle                    | `Home <../index.html>`__   |  brick                   |
+| breedle                    | `Home <../index.html>`__   |  brick                   |
 +----------------------------+----------------------------+--------------------------+
 
 brick
-
-`Prev <Breidbart-Index.html>`__ 
-
-B
-
- `Next <bricktext.html>`__
-
---------------
+==============
 
 **brick**: n.
 
@@ -5819,20 +4379,13 @@ obnoxious type that plug directly into wall or barrier strip.
 --------------
 
 +------------------------------------+----------------------------+------------------------------+
-| `Prev <Breidbart-Index.html>`__    | `Up <../B.html>`__         |  `Next <bricktext.html>`__   |
+| `Prev <Breidbart-Index.html>`__    | `Up <../B.html>`__         |  `Next <bricktext.html>`__   |
 +------------------------------------+----------------------------+------------------------------+
-| Breidbart Index                    | `Home <../index.html>`__   |  bricktext                   |
+| Breidbart Index                    | `Home <../index.html>`__   |  bricktext                   |
 +------------------------------------+----------------------------+------------------------------+
 
 bricktext
-
-`Prev <brick.html>`__ 
-
-B
-
- `Next <bring-X-to-its-knees.html>`__
-
---------------
+=============
 
 **bricktext**
 
@@ -5844,20 +4397,13 @@ form. The best examples have something of the quality of imagist poetry.
 --------------
 
 +--------------------------+----------------------------+-----------------------------------------+
-| `Prev <brick.html>`__    | `Up <../B.html>`__         |  `Next <bring-X-to-its-knees.html>`__   |
+| `Prev <brick.html>`__    | `Up <../B.html>`__         |  `Next <bring-X-to-its-knees.html>`__   |
 +--------------------------+----------------------------+-----------------------------------------+
-| brick                    | `Home <../index.html>`__   |  bring X to its knees                   |
+| brick                    | `Home <../index.html>`__   |  bring X to its knees                   |
 +--------------------------+----------------------------+-----------------------------------------+
 
 bring X to its knees
-
-`Prev <bricktext.html>`__ 
-
-B
-
- `Next <brittle.html>`__
-
---------------
+===========================
 
 **bring X to its knees**: v.
 
@@ -5871,20 +4417,13 @@ algorithm with a load so extreme or
 --------------
 
 +------------------------------+----------------------------+----------------------------+
-| `Prev <bricktext.html>`__    | `Up <../B.html>`__         |  `Next <brittle.html>`__   |
+| `Prev <bricktext.html>`__    | `Up <../B.html>`__         |  `Next <brittle.html>`__   |
 +------------------------------+----------------------------+----------------------------+
-| bricktext                    | `Home <../index.html>`__   |  brittle                   |
+| bricktext                    | `Home <../index.html>`__   |  brittle                   |
 +------------------------------+----------------------------+----------------------------+
 
 brittle
-
-`Prev <bring-X-to-its-knees.html>`__ 
-
-B
-
- `Next <broadcast-storm.html>`__
-
---------------
+================
 
 **brittle**: adj.
 
@@ -5902,20 +4441,14 @@ displays the quality far more often than it ought to. Oppose
 --------------
 
 +-----------------------------------------+----------------------------+------------------------------------+
-| `Prev <bring-X-to-its-knees.html>`__    | `Up <../B.html>`__         |  `Next <broadcast-storm.html>`__   |
+| `Prev <bring-X-to-its-knees.html>`__    | `Up <../B.html>`__         |  `Next <broadcast-storm.html>`__   |
 +-----------------------------------------+----------------------------+------------------------------------+
-| bring X to its knees                    | `Home <../index.html>`__   |  broadcast storm                   |
+| bring X to its knees                    | `Home <../index.html>`__   |  broadcast storm                   |
 +-----------------------------------------+----------------------------+------------------------------------+
 
 broadcast storm
+==================
 
-`Prev <brittle.html>`__ 
-
-B
-
- `Next <broken.html>`__
-
---------------
 
 **broadcast storm**: n.
 
@@ -5928,20 +4461,13 @@ storm* <../M/mail-storm.html>`__.
 --------------
 
 +----------------------------+----------------------------+---------------------------+
-| `Prev <brittle.html>`__    | `Up <../B.html>`__         |  `Next <broken.html>`__   |
+| `Prev <brittle.html>`__    | `Up <../B.html>`__         |  `Next <broken.html>`__   |
 +----------------------------+----------------------------+---------------------------+
-| brittle                    | `Home <../index.html>`__   |  broken                   |
+| brittle                    | `Home <../index.html>`__   |  broken                   |
 +----------------------------+----------------------------+---------------------------+
 
 broken arrow
-
-`Prev <broken.html>`__ 
-
-B
-
- `Next <broken-ring-network.html>`__
-
---------------
+=================
 
 **broken arrow**: n.
 
@@ -5958,20 +4484,13 @@ weapons....
 --------------
 
 +---------------------------+----------------------------+----------------------------------------+
-| `Prev <broken.html>`__    | `Up <../B.html>`__         |  `Next <broken-ring-network.html>`__   |
+| `Prev <broken.html>`__    | `Up <../B.html>`__         |  `Next <broken-ring-network.html>`__   |
 +---------------------------+----------------------------+----------------------------------------+
-| broken                    | `Home <../index.html>`__   |  broken-ring network                   |
+| broken                    | `Home <../index.html>`__   |  broken-ring network                   |
 +---------------------------+----------------------------+----------------------------------------+
 
 broken
-
-`Prev <broadcast-storm.html>`__ 
-
-B
-
- `Next <broken-arrow.html>`__
-
---------------
+===================
 
 **broken**: adj.
 
@@ -5989,20 +4508,13 @@ extreme depression.
 --------------
 
 +------------------------------------+----------------------------+---------------------------------+
-| `Prev <broadcast-storm.html>`__    | `Up <../B.html>`__         |  `Next <broken-arrow.html>`__   |
+| `Prev <broadcast-storm.html>`__    | `Up <../B.html>`__         |  `Next <broken-arrow.html>`__   |
 +------------------------------------+----------------------------+---------------------------------+
-| broadcast storm                    | `Home <../index.html>`__   |  broken arrow                   |
+| broadcast storm                    | `Home <../index.html>`__   |  broken arrow                   |
 +------------------------------------+----------------------------+---------------------------------+
 
 broken-ring network
-
-`Prev <broken-arrow.html>`__ 
-
-B
-
- `Next <BrokenWindows.html>`__
-
---------------
+====================================
 
 **broken-ring network**
 
@@ -6015,20 +4527,13 @@ now (2000) primarily historical.
 --------------
 
 +---------------------------------+----------------------------+----------------------------------+
-| `Prev <broken-arrow.html>`__    | `Up <../B.html>`__         |  `Next <BrokenWindows.html>`__   |
+| `Prev <broken-arrow.html>`__    | `Up <../B.html>`__         |  `Next <BrokenWindows.html>`__   |
 +---------------------------------+----------------------------+----------------------------------+
-| broken arrow                    | `Home <../index.html>`__   |  BrokenWindows                   |
+| broken arrow                    | `Home <../index.html>`__   |  BrokenWindows                   |
 +---------------------------------+----------------------------+----------------------------------+
 
 BrokenWindows
-
-`Prev <broken-ring-network.html>`__ 
-
-B
-
- `Next <broket.html>`__
-
---------------
+===============
 
 **BrokenWindows**: n.
 
@@ -6039,20 +4544,13 @@ environment on Sun machines; properly called ‘OpenWindows’.
 --------------
 
 +----------------------------------------+----------------------------+---------------------------+
-| `Prev <broken-ring-network.html>`__    | `Up <../B.html>`__         |  `Next <broket.html>`__   |
+| `Prev <broken-ring-network.html>`__    | `Up <../B.html>`__         |  `Next <broket.html>`__   |
 +----------------------------------------+----------------------------+---------------------------+
-| broken-ring network                    | `Home <../index.html>`__   |  broket                   |
+| broken-ring network                    | `Home <../index.html>`__   |  broket                   |
 +----------------------------------------+----------------------------+---------------------------+
 
 broket
-
-`Prev <BrokenWindows.html>`__ 
-
-B
-
- `Next <Brookss-Law.html>`__
-
---------------
+====================
 
 **broket**: /broh´k@t/, /broh´ket\`/, n.
 
@@ -6066,20 +4564,13 @@ usually called `*angle brackets* <../A/angle-brackets.html>`__.)
 --------------
 
 +----------------------------------+----------------------------+--------------------------------+
-| `Prev <BrokenWindows.html>`__    | `Up <../B.html>`__         |  `Next <Brookss-Law.html>`__   |
+| `Prev <BrokenWindows.html>`__    | `Up <../B.html>`__         |  `Next <Brookss-Law.html>`__   |
 +----------------------------------+----------------------------+--------------------------------+
-| BrokenWindows                    | `Home <../index.html>`__   |  Brooks's Law                  |
+| BrokenWindows                    | `Home <../index.html>`__   |  Brooks's Law                  |
 +----------------------------------+----------------------------+--------------------------------+
 
 Brooks's Law
-
-`Prev <broket.html>`__ 
-
-B
-
- `Next <brown-paper-bag-bug.html>`__
-
---------------
+================
 
 **Brooks's Law**: prov.
 
@@ -6103,20 +4594,13 @@ effect* <../S/second-system-effect.html>`__,
 --------------
 
 +---------------------------+----------------------------+----------------------------------------+
-| `Prev <broket.html>`__    | `Up <../B.html>`__         |  `Next <brown-paper-bag-bug.html>`__   |
+| `Prev <broket.html>`__    | `Up <../B.html>`__         |  `Next <brown-paper-bag-bug.html>`__   |
 +---------------------------+----------------------------+----------------------------------------+
-| broket                    | `Home <../index.html>`__   |  brown-paper-bag bug                   |
+| broket                    | `Home <../index.html>`__   |  brown-paper-bag bug                   |
 +---------------------------+----------------------------+----------------------------------------+
 
 brown-paper-bag bug
-
-`Prev <Brookss-Law.html>`__ 
-
-B
-
- `Next <browser.html>`__
-
---------------
+======================
 
 **brown-paper-bag bug**: n.
 
@@ -6129,20 +4613,13 @@ used in Linus Torvalds's apology posting.
 --------------
 
 +--------------------------------+----------------------------+----------------------------+
-| `Prev <Brookss-Law.html>`__    | `Up <../B.html>`__         |  `Next <browser.html>`__   |
+| `Prev <Brookss-Law.html>`__    | `Up <../B.html>`__         |  `Next <browser.html>`__   |
 +--------------------------------+----------------------------+----------------------------+
-| Brooks's Law                   | `Home <../index.html>`__   |  browser                   |
+| Brooks's Law                   | `Home <../index.html>`__   |  browser                   |
 +--------------------------------+----------------------------+----------------------------+
 
 browser
-
-`Prev <brown-paper-bag-bug.html>`__ 
-
-B
-
- `Next <BRS.html>`__
-
---------------
+============
 
 **browser**: n.
 
@@ -6157,20 +4634,14 @@ a ‘browser’ without qualification, one may assume it is a Web browser.
 --------------
 
 +----------------------------------------+----------------------------+------------------------+
-| `Prev <brown-paper-bag-bug.html>`__    | `Up <../B.html>`__         |  `Next <BRS.html>`__   |
+| `Prev <brown-paper-bag-bug.html>`__    | `Up <../B.html>`__         |  `Next <BRS.html>`__   |
 +----------------------------------------+----------------------------+------------------------+
-| brown-paper-bag bug                    | `Home <../index.html>`__   |  BRS                   |
+| brown-paper-bag bug                    | `Home <../index.html>`__   |  BRS                   |
 +----------------------------------------+----------------------------+------------------------+
 
 BRS
+==========
 
-`Prev <browser.html>`__ 
-
-B
-
- `Next <brute-force.html>`__
-
---------------
 
 **BRS**: /B·R·S/, n.
 
@@ -6180,20 +4651,13 @@ fairly common on-line.
 --------------
 
 +----------------------------+----------------------------+--------------------------------+
-| `Prev <browser.html>`__    | `Up <../B.html>`__         |  `Next <brute-force.html>`__   |
+| `Prev <browser.html>`__    | `Up <../B.html>`__         |  `Next <brute-force.html>`__   |
 +----------------------------+----------------------------+--------------------------------+
-| browser                    | `Home <../index.html>`__   |  brute force                   |
+| browser                    | `Home <../index.html>`__   |  brute force                   |
 +----------------------------+----------------------------+--------------------------------+
 
 brute force and ignorance
-
-`Prev <brute-force.html>`__ 
-
-B
-
- `Next <BSD.html>`__
-
---------------
+===================================
 
 **brute force and ignorance**: n.
 
@@ -6210,20 +4674,13 @@ similar usage is said to be mainstream in Great Britain.
 --------------
 
 +--------------------------------+----------------------------+------------------------+
-| `Prev <brute-force.html>`__    | `Up <../B.html>`__         |  `Next <BSD.html>`__   |
+| `Prev <brute-force.html>`__    | `Up <../B.html>`__         |  `Next <BSD.html>`__   |
 +--------------------------------+----------------------------+------------------------+
-| brute force                    | `Home <../index.html>`__   |  BSD                   |
+| brute force                    | `Home <../index.html>`__   |  BSD                   |
 +--------------------------------+----------------------------+------------------------+
 
 brute force
-
-`Prev <BRS.html>`__ 
-
-B
-
- `Next <brute-force-and-ignorance.html>`__
-
---------------
+===============
 
 **brute force**: adj.
 
@@ -6280,20 +4737,13 @@ both engineering savvy and delicate esthetic judgment.
 --------------
 
 +------------------------+----------------------------+----------------------------------------------+
-| `Prev <BRS.html>`__    | `Up <../B.html>`__         |  `Next <brute-force-and-ignorance.html>`__   |
+| `Prev <BRS.html>`__    | `Up <../B.html>`__         |  `Next <brute-force-and-ignorance.html>`__   |
 +------------------------+----------------------------+----------------------------------------------+
-| BRS                    | `Home <../index.html>`__   |  brute force and ignorance                   |
+| BRS                    | `Home <../index.html>`__   |  brute force and ignorance                   |
 +------------------------+----------------------------+----------------------------------------------+
 
 BSD
-
-`Prev <brute-force-and-ignorance.html>`__ 
-
-B
-
- `Next <BSOD.html>`__
-
---------------
+==============
 
 **BSD**: /B·S·D/, n.
 
@@ -6314,20 +4764,13 @@ version numbers alone, without the BSD prefix. See also
 --------------
 
 +----------------------------------------------+----------------------------+-------------------------+
-| `Prev <brute-force-and-ignorance.html>`__    | `Up <../B.html>`__         |  `Next <BSOD.html>`__   |
+| `Prev <brute-force-and-ignorance.html>`__    | `Up <../B.html>`__         |  `Next <BSOD.html>`__   |
 +----------------------------------------------+----------------------------+-------------------------+
-| brute force and ignorance                    | `Home <../index.html>`__   |  BSOD                   |
+| brute force and ignorance                    | `Home <../index.html>`__   |  BSOD                   |
 +----------------------------------------------+----------------------------+-------------------------+
 
 BSOD
-
-`Prev <BSD.html>`__ 
-
-B
-
- `Next <BUAF.html>`__
-
---------------
+=========
 
 **BSOD**: /B·S·O·D/
 
@@ -6337,20 +4780,13 @@ Death* <Blue-Screen-of-Death.html>`__. Both spoken and written.
 --------------
 
 +------------------------+----------------------------+-------------------------+
-| `Prev <BSD.html>`__    | `Up <../B.html>`__         |  `Next <BUAF.html>`__   |
+| `Prev <BSD.html>`__    | `Up <../B.html>`__         |  `Next <BUAF.html>`__   |
 +------------------------+----------------------------+-------------------------+
-| BSD                    | `Home <../index.html>`__   |  BUAF                   |
+| BSD                    | `Home <../index.html>`__   |  BUAF                   |
 +------------------------+----------------------------+-------------------------+
 
 BUAF
-
-`Prev <BSOD.html>`__ 
-
-B
-
- `Next <BUAG.html>`__
-
---------------
+===============
 
 **BUAF**: //, n.
 
@@ -6366,20 +4802,13 @@ BUAFs. See `*warlording* <../W/warlording.html>`__.
 --------------
 
 +-------------------------+----------------------------+-------------------------+
-| `Prev <BSOD.html>`__    | `Up <../B.html>`__         |  `Next <BUAG.html>`__   |
+| `Prev <BSOD.html>`__    | `Up <../B.html>`__         |  `Next <BUAG.html>`__   |
 +-------------------------+----------------------------+-------------------------+
-| BSOD                    | `Home <../index.html>`__   |  BUAG                   |
+| BSOD                    | `Home <../index.html>`__   |  BUAG                   |
 +-------------------------+----------------------------+-------------------------+
 
 BUAG
-
-`Prev <BUAF.html>`__ 
-
-B
-
- `Next <bubble-sort.html>`__
-
---------------
+=================
 
 **BUAG**: //, n.
 
@@ -6394,20 +4823,13 @@ block* <../S/sig-block.html>`__\ s. See
 --------------
 
 +-------------------------+----------------------------+--------------------------------+
-| `Prev <BUAF.html>`__    | `Up <../B.html>`__         |  `Next <bubble-sort.html>`__   |
+| `Prev <BUAF.html>`__    | `Up <../B.html>`__         |  `Next <bubble-sort.html>`__   |
 +-------------------------+----------------------------+--------------------------------+
-| BUAF                    | `Home <../index.html>`__   |  bubble sort                   |
+| BUAF                    | `Home <../index.html>`__   |  bubble sort                   |
 +-------------------------+----------------------------+--------------------------------+
 
 bubble sort
-
-`Prev <BUAG.html>`__ 
-
-B
-
- `Next <bucky-bits.html>`__
-
---------------
+============
 
 **bubble sort**: n.
 
@@ -6427,20 +4849,13 @@ issue only from brain damage or willful perversity.
 --------------
 
 +-------------------------+----------------------------+-------------------------------+
-| `Prev <BUAG.html>`__    | `Up <../B.html>`__         |  `Next <bucky-bits.html>`__   |
+| `Prev <BUAG.html>`__    | `Up <../B.html>`__         |  `Next <bucky-bits.html>`__   |
 +-------------------------+----------------------------+-------------------------------+
-| BUAG                    | `Home <../index.html>`__   |  bucky bits                   |
+| BUAG                    | `Home <../index.html>`__   |  bucky bits                   |
 +-------------------------+----------------------------+-------------------------------+
 
 bucky bits
-
-`Prev <bubble-sort.html>`__ 
-
-B
-
- `Next <buffer-chuck.html>`__
-
---------------
+===================
 
 **bucky bits**: /buh´kee bits/, n.
 
@@ -6474,20 +4889,13 @@ bucky* <../Q/quadruple-bucky.html>`__.
 --------------
 
 +--------------------------------+----------------------------+---------------------------------+
-| `Prev <bubble-sort.html>`__    | `Up <../B.html>`__         |  `Next <buffer-chuck.html>`__   |
+| `Prev <bubble-sort.html>`__    | `Up <../B.html>`__         |  `Next <buffer-chuck.html>`__   |
 +--------------------------------+----------------------------+---------------------------------+
-| bubble sort                    | `Home <../index.html>`__   |  buffer chuck                   |
+| bubble sort                    | `Home <../index.html>`__   |  buffer chuck                   |
 +--------------------------------+----------------------------+---------------------------------+
 
 buffer chuck
-
-`Prev <bucky-bits.html>`__ 
-
-B
-
- `Next <buffer-overflow.html>`__
-
---------------
+==============================
 
 **buffer chuck**: n.
 
@@ -6496,20 +4904,13 @@ Shorter and ruder syn. for `*buffer overflow* <buffer-overflow.html>`__.
 --------------
 
 +-------------------------------+----------------------------+------------------------------------+
-| `Prev <bucky-bits.html>`__    | `Up <../B.html>`__         |  `Next <buffer-overflow.html>`__   |
+| `Prev <bucky-bits.html>`__    | `Up <../B.html>`__         |  `Next <buffer-overflow.html>`__   |
 +-------------------------------+----------------------------+------------------------------------+
-| bucky bits                    | `Home <../index.html>`__   |  buffer overflow                   |
+| bucky bits                    | `Home <../index.html>`__   |  buffer overflow                   |
 +-------------------------------+----------------------------+------------------------------------+
 
 buffer overflow
-
-`Prev <buffer-chuck.html>`__ 
-
-B
-
- `Next <bug.html>`__
-
---------------
+======================
 
 **buffer overflow**: n.
 
@@ -6535,20 +4936,13 @@ screw* <../O/overrun-screw.html>`__.
 --------------
 
 +---------------------------------+----------------------------+------------------------+
-| `Prev <buffer-chuck.html>`__    | `Up <../B.html>`__         |  `Next <bug.html>`__   |
+| `Prev <buffer-chuck.html>`__    | `Up <../B.html>`__         |  `Next <bug.html>`__   |
 +---------------------------------+----------------------------+------------------------+
-| buffer chuck                    | `Home <../index.html>`__   |  bug                   |
+| buffer chuck                    | `Home <../index.html>`__   |  bug                   |
 +---------------------------------+----------------------------+------------------------+
 
 bug-compatible
-
-`Prev <bug.html>`__ 
-
-B
-
- `Next <bug-for-bug-compatible.html>`__
-
---------------
+=====================
 
 **bug-compatible**: adj.
 
@@ -6562,20 +4956,13 @@ option character in 1.0.”
 --------------
 
 +------------------------+----------------------------+-------------------------------------------+
-| `Prev <bug.html>`__    | `Up <../B.html>`__         |  `Next <bug-for-bug-compatible.html>`__   |
+| `Prev <bug.html>`__    | `Up <../B.html>`__         |  `Next <bug-for-bug-compatible.html>`__   |
 +------------------------+----------------------------+-------------------------------------------+
-| bug                    | `Home <../index.html>`__   |  bug-for-bug compatible                   |
+| bug                    | `Home <../index.html>`__   |  bug-for-bug compatible                   |
 +------------------------+----------------------------+-------------------------------------------+
 
 bug-for-bug compatible
-
-`Prev <bug-compatible.html>`__ 
-
-B
-
- `Next <bug-of-the-month-club.html>`__
-
---------------
+========================
 
 **bug-for-bug compatible**: n.
 
@@ -6586,20 +4973,13 @@ implication that much tedious effort went into ensuring that each
 --------------
 
 +-----------------------------------+----------------------------+------------------------------------------+
-| `Prev <bug-compatible.html>`__    | `Up <../B.html>`__         |  `Next <bug-of-the-month-club.html>`__   |
+| `Prev <bug-compatible.html>`__    | `Up <../B.html>`__         |  `Next <bug-of-the-month-club.html>`__   |
 +-----------------------------------+----------------------------+------------------------------------------+
-| bug-compatible                    | `Home <../index.html>`__   |  bug-of-the-month club                   |
+| bug-compatible                    | `Home <../index.html>`__   |  bug-of-the-month club                   |
 +-----------------------------------+----------------------------+------------------------------------------+
 
 bug
-
-`Prev <buffer-overflow.html>`__ 
-
-B
-
- `Next <bug-compatible.html>`__
-
---------------
+===============
 
 **bug**: n.
 
@@ -6718,22 +5098,16 @@ cartoon was `73-07-24 <../O/overflow-bit.html#crunchly73-07-24>`__.)
 --------------
 
 +------------------------------------+----------------------------+-----------------------------------+
-| `Prev <buffer-overflow.html>`__    | `Up <../B.html>`__         |  `Next <bug-compatible.html>`__   |
+| `Prev <buffer-overflow.html>`__    | `Up <../B.html>`__         |  `Next <bug-compatible.html>`__   |
 +------------------------------------+----------------------------+-----------------------------------+
-| buffer overflow                    | `Home <../index.html>`__   |  bug-compatible                   |
+| buffer overflow                    | `Home <../index.html>`__   |  bug-compatible                   |
 +------------------------------------+----------------------------+-----------------------------------+
 
 .. |image0| image:: ../graphics/bugpic-color.jpg
 .. |image1| image:: ../graphics/73-07-29.png
+
 bug-of-the-month club
-
-`Prev <bug-for-bug-compatible.html>`__ 
-
-B
-
- `Next <bulletproof.html>`__
-
---------------
+===========================
 
 **bug-of-the-month club**: n.
 
@@ -6749,20 +5123,13 @@ also `*kernel-of-the-week club* <../K/kernel-of-the-week-club.html>`__.
 --------------
 
 +-------------------------------------------+----------------------------+--------------------------------+
-| `Prev <bug-for-bug-compatible.html>`__    | `Up <../B.html>`__         |  `Next <bulletproof.html>`__   |
+| `Prev <bug-for-bug-compatible.html>`__    | `Up <../B.html>`__         |  `Next <bulletproof.html>`__   |
 +-------------------------------------------+----------------------------+--------------------------------+
-| bug-for-bug compatible                    | `Home <../index.html>`__   |  bulletproof                   |
+| bug-for-bug compatible                    | `Home <../index.html>`__   |  bulletproof                   |
 +-------------------------------------------+----------------------------+--------------------------------+
 
 bulletproof
-
-`Prev <bug-of-the-month-club.html>`__ 
-
-B
-
- `Next <bullschildt.html>`__
-
---------------
+=================
 
 **bulletproof**: adj.
 
@@ -6778,20 +5145,13 @@ excessive paranoia on the part of the programmer. Syn.
 --------------
 
 +------------------------------------------+----------------------------+--------------------------------+
-| `Prev <bug-of-the-month-club.html>`__    | `Up <../B.html>`__         |  `Next <bullschildt.html>`__   |
+| `Prev <bug-of-the-month-club.html>`__    | `Up <../B.html>`__         |  `Next <bullschildt.html>`__   |
 +------------------------------------------+----------------------------+--------------------------------+
-| bug-of-the-month club                    | `Home <../index.html>`__   |  bullschildt                   |
+| bug-of-the-month club                    | `Home <../index.html>`__   |  bullschildt                   |
 +------------------------------------------+----------------------------+--------------------------------+
 
 bullschildt
-
-`Prev <bulletproof.html>`__ 
-
-B
-
- `Next <bump.html>`__
-
---------------
+=======================
 
 **bullschildt**: /bul´shilt/, n.
 
@@ -6805,20 +5165,13 @@ science college sophomore.”
 --------------
 
 +--------------------------------+----------------------------+-------------------------+
-| `Prev <bulletproof.html>`__    | `Up <../B.html>`__         |  `Next <bump.html>`__   |
+| `Prev <bulletproof.html>`__    | `Up <../B.html>`__         |  `Next <bump.html>`__   |
 +--------------------------------+----------------------------+-------------------------+
-| bulletproof                    | `Home <../index.html>`__   |  bump                   |
+| bulletproof                    | `Home <../index.html>`__   |  bump                   |
 +--------------------------------+----------------------------+-------------------------+
 
 bump
-
-`Prev <bullschildt.html>`__ 
-
-B
-
- `Next <burble.html>`__
-
---------------
+================
 
 **bump**: vt.
 
@@ -6829,20 +5182,13 @@ esp. of counter variables, pointers, and index dummies in **for**,
 --------------
 
 +--------------------------------+----------------------------+---------------------------+
-| `Prev <bullschildt.html>`__    | `Up <../B.html>`__         |  `Next <burble.html>`__   |
+| `Prev <bullschildt.html>`__    | `Up <../B.html>`__         |  `Next <burble.html>`__   |
 +--------------------------------+----------------------------+---------------------------+
-| bullschildt                    | `Home <../index.html>`__   |  burble                   |
+| bullschildt                    | `Home <../index.html>`__   |  burble                   |
 +--------------------------------+----------------------------+---------------------------+
 
 burble
-
-`Prev <bump.html>`__ 
-
-B
-
- `Next <buried-treasure.html>`__
-
---------------
+================
 
 **burble**: v.
 
@@ -6856,20 +5202,13 @@ England.
 --------------
 
 +-------------------------+----------------------------+------------------------------------+
-| `Prev <bump.html>`__    | `Up <../B.html>`__         |  `Next <buried-treasure.html>`__   |
+| `Prev <bump.html>`__    | `Up <../B.html>`__         |  `Next <buried-treasure.html>`__   |
 +-------------------------+----------------------------+------------------------------------+
-| bump                    | `Home <../index.html>`__   |  buried treasure                   |
+| bump                    | `Home <../index.html>`__   |  buried treasure                   |
 +-------------------------+----------------------------+------------------------------------+
 
 buried treasure
-
-`Prev <burble.html>`__ 
-
-B
-
- `Next <burn-a-CD.html>`__
-
---------------
+===================
 
 **buried treasure**: n.
 
@@ -6885,20 +5224,13 @@ sort* <bubble-sort.html>`__! Buried treasure!”
 --------------
 
 +---------------------------+----------------------------+------------------------------+
-| `Prev <burble.html>`__    | `Up <../B.html>`__         |  `Next <burn-a-CD.html>`__   |
+| `Prev <burble.html>`__    | `Up <../B.html>`__         |  `Next <burn-a-CD.html>`__   |
 +---------------------------+----------------------------+------------------------------+
-| burble                    | `Home <../index.html>`__   |  burn a CD                   |
+| burble                    | `Home <../index.html>`__   |  burn a CD                   |
 +---------------------------+----------------------------+------------------------------+
 
 burn a CD
-
-`Prev <buried-treasure.html>`__ 
-
-B
-
- `Next <burn-in-period.html>`__
-
---------------
+==============
 
 **burn a CD**: v.
 
@@ -6917,20 +5249,13 @@ tape* <../C/cut-a-tape.html>`__.
 --------------
 
 +------------------------------------+----------------------------+-----------------------------------+
-| `Prev <buried-treasure.html>`__    | `Up <../B.html>`__         |  `Next <burn-in-period.html>`__   |
+| `Prev <buried-treasure.html>`__    | `Up <../B.html>`__         |  `Next <burn-in-period.html>`__   |
 +------------------------------------+----------------------------+-----------------------------------+
-| buried treasure                    | `Home <../index.html>`__   |  burn-in period                   |
+| buried treasure                    | `Home <../index.html>`__   |  burn-in period                   |
 +------------------------------------+----------------------------+-----------------------------------+
 
 burn-in period
-
-`Prev <burn-a-CD.html>`__ 
-
-B
-
- `Next <burst-page.html>`__
-
---------------
+==================
 
 **burn-in period**: n.
 
@@ -6954,20 +5279,13 @@ on the first version of the U.S. spy-plane, the U-2.
 --------------
 
 +------------------------------+----------------------------+-------------------------------+
-| `Prev <burn-a-CD.html>`__    | `Up <../B.html>`__         |  `Next <burst-page.html>`__   |
+| `Prev <burn-a-CD.html>`__    | `Up <../B.html>`__         |  `Next <burst-page.html>`__   |
 +------------------------------+----------------------------+-------------------------------+
-| burn a CD                    | `Home <../index.html>`__   |  burst page                   |
+| burn a CD                    | `Home <../index.html>`__   |  burst page                   |
 +------------------------------+----------------------------+-------------------------------+
 
 burst page
-
-`Prev <burn-in-period.html>`__ 
-
-B
-
- `Next <busy-wait.html>`__
-
---------------
+=================
 
 **burst page**: n.
 
@@ -6976,20 +5294,14 @@ Syn. `*banner* <banner.html>`__, sense 1.
 --------------
 
 +-----------------------------------+----------------------------+------------------------------+
-| `Prev <burn-in-period.html>`__    | `Up <../B.html>`__         |  `Next <busy-wait.html>`__   |
+| `Prev <burn-in-period.html>`__    | `Up <../B.html>`__         |  `Next <busy-wait.html>`__   |
 +-----------------------------------+----------------------------+------------------------------+
-| burn-in period                    | `Home <../index.html>`__   |  busy-wait                   |
+| burn-in period                    | `Home <../index.html>`__   |  busy-wait                   |
 +-----------------------------------+----------------------------+------------------------------+
 
 busy-wait
+=============
 
-`Prev <burst-page.html>`__ 
-
-B
-
- `Next <buzz.html>`__
-
---------------
 
 **busy-wait**: vi.
 
@@ -7011,20 +5323,13 @@ are usually referred to as spinlocks.
 --------------
 
 +-------------------------------+----------------------------+-------------------------+
-| `Prev <burst-page.html>`__    | `Up <../B.html>`__         |  `Next <buzz.html>`__   |
+| `Prev <burst-page.html>`__    | `Up <../B.html>`__         |  `Next <buzz.html>`__   |
 +-------------------------------+----------------------------+-------------------------+
-| burst page                    | `Home <../index.html>`__   |  buzz                   |
+| burst page                    | `Home <../index.html>`__   |  buzz                   |
 +-------------------------------+----------------------------+-------------------------+
 
 buzz
-
-`Prev <busy-wait.html>`__ 
-
-B
-
- `Next <buzzword-compliant.html>`__
-
---------------
+=============
 
 **buzz**: vi.
 
@@ -7048,20 +5353,13 @@ type.”
 --------------
 
 +------------------------------+----------------------------+---------------------------------------+
-| `Prev <busy-wait.html>`__    | `Up <../B.html>`__         |  `Next <buzzword-compliant.html>`__   |
+| `Prev <busy-wait.html>`__    | `Up <../B.html>`__         |  `Next <buzzword-compliant.html>`__   |
 +------------------------------+----------------------------+---------------------------------------+
-| busy-wait                    | `Home <../index.html>`__   |  buzzword-compliant                   |
+| busy-wait                    | `Home <../index.html>`__   |  buzzword-compliant                   |
 +------------------------------+----------------------------+---------------------------------------+
 
 buzzword-compliant
-
-`Prev <buzz.html>`__ 
-
-B
-
- `Next <BWQ.html>`__
-
---------------
+=======================
 
 **buzzword-compliant**
 
@@ -7074,20 +5372,13 @@ specifications as of 2001 include ‘XML’, ‘Java’, ‘peer-to-peer’,
 --------------
 
 +-------------------------+----------------------------+------------------------+
-| `Prev <buzz.html>`__    | `Up <../B.html>`__         |  `Next <BWQ.html>`__   |
+| `Prev <buzz.html>`__    | `Up <../B.html>`__         |  `Next <BWQ.html>`__   |
 +-------------------------+----------------------------+------------------------+
-| buzz                    | `Home <../index.html>`__   |  BWQ                   |
+| buzz                    | `Home <../index.html>`__   |  BWQ                   |
 +-------------------------+----------------------------+------------------------+
 
 BWQ
-
-`Prev <buzzword-compliant.html>`__ 
-
-B
-
- `Next <by-hand.html>`__
-
---------------
+==============
 
 **BWQ**: /B·W·Q/, n.
 
@@ -7098,20 +5389,13 @@ in a speech or documents. Usually roughly proportional to
 --------------
 
 +---------------------------------------+----------------------------+----------------------------+
-| `Prev <buzzword-compliant.html>`__    | `Up <../B.html>`__         |  `Next <by-hand.html>`__   |
+| `Prev <buzzword-compliant.html>`__    | `Up <../B.html>`__         |  `Next <by-hand.html>`__   |
 +---------------------------------------+----------------------------+----------------------------+
-| buzzword-compliant                    | `Home <../index.html>`__   |  by hand                   |
+| buzzword-compliant                    | `Home <../index.html>`__   |  by hand                   |
 +---------------------------------------+----------------------------+----------------------------+
 
 by hand
-
-`Prev <BWQ.html>`__ 
-
-B
-
- `Next <byte.html>`__
-
---------------
+=================
 
 **by hand**: adv.
 
@@ -7136,20 +5420,13 @@ decent iterator, so I'm having to walk the trees by hand.”
 --------------
 
 +------------------------+----------------------------+-------------------------+
-| `Prev <BWQ.html>`__    | `Up <../B.html>`__         |  `Next <byte.html>`__   |
+| `Prev <BWQ.html>`__    | `Up <../B.html>`__         |  `Next <byte.html>`__   |
 +------------------------+----------------------------+-------------------------+
-| BWQ                    | `Home <../index.html>`__   |  byte                   |
+| BWQ                    | `Home <../index.html>`__   |  byte                   |
 +------------------------+----------------------------+-------------------------+
 
 byte
-
-`Prev <by-hand.html>`__ 
-
-B
-
- `Next <byte-sex.html>`__
-
---------------
+================
 
 **byte**: /bi:t/, n.
 
@@ -7172,20 +5449,13 @@ not be accidentally misspelled as `*bit* <bit.html>`__. See also
 --------------
 
 +----------------------------+----------------------------+-----------------------------+
-| `Prev <by-hand.html>`__    | `Up <../B.html>`__         |  `Next <byte-sex.html>`__   |
+| `Prev <by-hand.html>`__    | `Up <../B.html>`__         |  `Next <byte-sex.html>`__   |
 +----------------------------+----------------------------+-----------------------------+
-| by hand                    | `Home <../index.html>`__   |  byte sex                   |
+| by hand                    | `Home <../index.html>`__   |  byte sex                   |
 +----------------------------+----------------------------+-----------------------------+
 
 byte sex
-
-`Prev <byte.html>`__ 
-
-B
-
- `Next <bytesexual.html>`__
-
---------------
+==============
 
 **byte sex**: n.
 
@@ -7195,20 +5465,13 @@ or `*little-endian* <../L/little-endian.html>`__; see those entries.
 --------------
 
 +-------------------------+----------------------------+-------------------------------+
-| `Prev <byte.html>`__    | `Up <../B.html>`__         |  `Next <bytesexual.html>`__   |
+| `Prev <byte.html>`__    | `Up <../B.html>`__         |  `Next <bytesexual.html>`__   |
 +-------------------------+----------------------------+-------------------------------+
-| byte                    | `Home <../index.html>`__   |  bytesexual                   |
+| byte                    | `Home <../index.html>`__   |  bytesexual                   |
 +-------------------------+----------------------------+-------------------------------+
 
 bytesexual
-
-`Prev <byte-sex.html>`__ 
-
-B
-
- `Next <Bzzzt-Wrong.html>`__
-
---------------
+==============
 
 **bytesexual**: /bi:t\`sek´shu·@l/, adj.
 
@@ -7221,20 +5484,13 @@ also `*NUXI problem* <../N/NUXI-problem.html>`__.
 --------------
 
 +-----------------------------+----------------------------+--------------------------------+
-| `Prev <byte-sex.html>`__    | `Up <../B.html>`__         |  `Next <Bzzzt-Wrong.html>`__   |
+| `Prev <byte-sex.html>`__    | `Up <../B.html>`__         |  `Next <Bzzzt-Wrong.html>`__   |
 +-----------------------------+----------------------------+--------------------------------+
-| byte sex                    | `Home <../index.html>`__   |  Bzzzt! Wrong.                 |
+| byte sex                    | `Home <../index.html>`__   |  Bzzzt! Wrong.                 |
 +-----------------------------+----------------------------+--------------------------------+
 
 Bzzzt! Wrong.
-
-`Prev <bytesexual.html>`__ 
-
-B
-
- `Next <../C.html>`__
-
---------------
+==================
 
 **Bzzzt! Wrong.**: /bzt rong/, excl.
 
@@ -7246,12 +5502,4 @@ A way of expressing mock-rude disagreement, usually immediately
 following an included quote from another poster. The less abbreviated
 “\*Bzzzzt\*, wrong, but thank you for playing” is also common;
 capitalization and emphasis of the buzzer sound varies.
-
---------------
-
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <bytesexual.html>`__    | `Up <../B.html>`__         |  `Next <../C.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| bytesexual                    | `Home <../index.html>`__   |  C                      |
-+-------------------------------+----------------------------+-------------------------+
 
