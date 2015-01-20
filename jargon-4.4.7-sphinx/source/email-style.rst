@@ -1,6 +1,6 @@
 
 -------------------------------------------------
-Chapter 6. Email Quotes and Inclusion Conventions
+Email Quotes and Inclusion Conventions
 -------------------------------------------------
 
 One area where conventions for on-line writing are still in some flux is
