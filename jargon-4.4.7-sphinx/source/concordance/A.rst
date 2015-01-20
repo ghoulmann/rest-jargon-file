@@ -169,13 +169,13 @@ normal inputs are dealt with in some cleaner and more regular way.
 Also called ad-hackery, ad-hocity (/ad-hos'@-tee/), ad-crockery. See
 also `ELIZA effect <../E/ELIZA-effect.html>`__.
 
-|image0|
+.. image:: ../_static/73-10-31.png
 
 This is `ad-hockery <ad-hockery.html>`__ in action.
 
 (The next cartoon in the Crunchly saga is
-`74-08-18 <../W/water-MIPS.html#crunchly74-08-18>`__. The previous one
-is `73-07-29 <../B/bug.html#crunchly73-07-29>`__.)
+`74-08-18 <./W.html#water-MIPS>`__. The previous one
+is `73-07-29 <./B.html#bug>`__.)
 
 
 admin

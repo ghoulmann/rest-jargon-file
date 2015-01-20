@@ -1,34 +1,24 @@
-calculator
-
-`Prev <C-plus-plus.html>`__ 
-
+======
 C
+======
 
- `Next <Camel-Book.html>`__
+calculator
+==========
 
---------------
 
 **calculator**: n.
 
 Syn. for `*bitty box* <../B/bitty-box.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <C-plus-plus.html>`__    | `Up <../C.html>`__         |  `Next <Camel-Book.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| C++                            | `Home <../index.html>`__   |  Camel Book                   |
-+--------------------------------+----------------------------+-------------------------------+
+
+
 
 Camel Book
+===========
 
-`Prev <calculator.html>`__ 
 
-C
 
- `Next <camelCase.html>`__
-
---------------
 
 **Camel Book**: n.
 
@@ -39,23 +29,12 @@ Larry Wall and Randal L. Schwartz, O'Reilly and Associates 1991, ISBN
 but dropping Randal Schwartz). The definitive reference on
 `*Perl* <../P/Perl.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <calculator.html>`__    | `Up <../C.html>`__         |  `Next <camelCase.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| calculator                    | `Home <../index.html>`__   |  camelCase                   |
-+-------------------------------+----------------------------+------------------------------+
 
 camelCase
+==========
 
-`Prev <Camel-Book.html>`__ 
 
-C
 
- `Next <camelCasing.html>`__
-
---------------
 
 **camelCase**
 
@@ -72,45 +51,25 @@ Compare `*BiCapitalization* <../B/BiCapitalization.html>`__; but where
 that practice is primarily associated with marketing, camelCasing is not
 aimed at impressing anybody, and hackers consider it respectable.
 
---------------
 
-+-------------------------------+----------------------------+--------------------------------+
-| `Prev <Camel-Book.html>`__    | `Up <../C.html>`__         |  `Next <camelCasing.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
-| Camel Book                    | `Home <../index.html>`__   |  camelCasing                   |
-+-------------------------------+----------------------------+--------------------------------+
+
 
 camelCasing
+===========
 
-`Prev <camelCase.html>`__ 
 
-C
-
- `Next <can-t-happen.html>`__
-
---------------
 
 **camelCasing**
 
 See `*PascalCasing* <../P/PascalCasing.html>`__.
 
---------------
 
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <camelCase.html>`__    | `Up <../C.html>`__         |  `Next <can-t-happen.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| camelCase                    | `Home <../index.html>`__   |  can't happen                   |
-+------------------------------+----------------------------+---------------------------------+
+
 
 C&C
+====
 
-`Prev <C-Programmers-Disease.html>`__ 
 
-C
-
- `Next <C-plus-plus.html>`__
-
---------------
 
 **C&C**: //
 
@@ -119,23 +78,14 @@ C
 are likely to cause you to `*snarf* <../S/snarf.html>`__ coffee onto
 your keyboard and startle the cat off your lap.
 
---------------
 
-+------------------------------------------+----------------------------+--------------------------------+
-| `Prev <C-Programmers-Disease.html>`__    | `Up <../C.html>`__         |  `Next <C-plus-plus.html>`__   |
-+------------------------------------------+----------------------------+--------------------------------+
-| C Programmer's Disease                   | `Home <../index.html>`__   |  C++                           |
-+------------------------------------------+----------------------------+--------------------------------+
+
+
 
 cancelbot
+=========
 
-`Prev <can-t-happen.html>`__ 
 
-C
-
- `Next <Cancelmoose.html>`__
-
---------------
 
 **cancelbot**: /kan´sel·bot/
 
@@ -146,23 +96,14 @@ C
 2. In reality, most cancelbots are manually operated by being fed lists
 of spam message IDs.
 
---------------
 
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <can-t-happen.html>`__    | `Up <../C.html>`__         |  `Next <Cancelmoose.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| can't happen                    | `Home <../index.html>`__   |  Cancelmoose[tm]               |
-+---------------------------------+----------------------------+--------------------------------+
+
+
 
 Cancelmoose[tm]
+================
 
-`Prev <cancelbot.html>`__ 
 
-C
-
- `Next <candygrammar.html>`__
-
---------------
 
 **Cancelmoose[tm]**: /kan´sel·moos/
 
@@ -187,23 +128,14 @@ themselves well, after the 'Moose's manner. The 'Moose has now gotten
 out of the business, and is more interested in ending spam (and cancels)
 entirely.
 
---------------
 
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <cancelbot.html>`__    | `Up <../C.html>`__         |  `Next <candygrammar.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| cancelbot                    | `Home <../index.html>`__   |  candygrammar                   |
-+------------------------------+----------------------------+---------------------------------+
+
+
 
 candygrammar
+=============
 
-`Prev <Cancelmoose.html>`__ 
 
-C
-
- `Next <canonical.html>`__
-
---------------
 
 **candygrammar**: n.
 
@@ -231,23 +163,14 @@ candygrammars. Note that, in many circles, pretty much the same ones who
 remember Monty Python sketches, all it takes is the word “Candygram!”,
 suitably timed, to get people rolling on the floor. — GLS]
 
---------------
 
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <Cancelmoose.html>`__    | `Up <../C.html>`__         |  `Next <canonical.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| Cancelmoose[tm]                | `Home <../index.html>`__   |  canonical                   |
-+--------------------------------+----------------------------+------------------------------+
+
+
 
 canonical
+==========
 
-`Prev <candygrammar.html>`__ 
 
-C
-
- `Next <careware.html>`__
-
---------------
 
 **canonical**: adj.
 
@@ -300,23 +223,14 @@ as the way *hackers* normally expect things to be. Thus, a hacker may
 claim with a straight face that ‘according to religious law’ is *not*
 the canonical meaning of canonical.
 
---------------
 
-+---------------------------------+----------------------------+-----------------------------+
-| `Prev <candygrammar.html>`__    | `Up <../C.html>`__         |  `Next <careware.html>`__   |
-+---------------------------------+----------------------------+-----------------------------+
-| candygrammar                    | `Home <../index.html>`__   |  careware                   |
-+---------------------------------+----------------------------+-----------------------------+
+
+
 
 can't happen
+=============
 
-`Prev <camelCasing.html>`__ 
 
-C
-
- `Next <cancelbot.html>`__
-
---------------
 
 **can't happen**
 
@@ -333,23 +247,13 @@ frequently they are triggered during development and how many headaches
 checking for them turns out to head off. See also `*firewall
 code* <../F/firewall-code.html>`__ (sense 2).
 
---------------
 
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <camelCasing.html>`__    | `Up <../C.html>`__         |  `Next <cancelbot.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| camelCasing                    | `Home <../index.html>`__   |  cancelbot                   |
-+--------------------------------+----------------------------+------------------------------+
+
+
 
 careware
+=========
 
-`Prev <canonical.html>`__ 
-
-C
-
- `Next <cargo-cult-programming.html>`__
-
---------------
 
 **careware**: /keir´weir/, n.
 
@@ -359,23 +263,14 @@ levy directed to charity is included on top of the distribution charge.
 Syn.: `*charityware* <charityware.html>`__; compare
 `*crippleware* <crippleware.html>`__, sense 2.
 
---------------
 
-+------------------------------+----------------------------+-------------------------------------------+
-| `Prev <canonical.html>`__    | `Up <../C.html>`__         |  `Next <cargo-cult-programming.html>`__   |
-+------------------------------+----------------------------+-------------------------------------------+
-| canonical                    | `Home <../index.html>`__   |  cargo cult programming                   |
-+------------------------------+----------------------------+-------------------------------------------+
+
+
 
 cargo cult programming
+======================
 
-`Prev <careware.html>`__ 
 
-C
-
- `Next <cascade.html>`__
-
---------------
 
 **cargo cult programming**: n.
 
@@ -397,23 +292,14 @@ certain practices as “cargo cult science” in his book *Surely You're
 Joking, Mr. Feynman!* (W. W. Norton & Co, New York 1985, ISBN
 0-393-01921-7).
 
---------------
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <careware.html>`__    | `Up <../C.html>`__         |  `Next <cascade.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| careware                    | `Home <../index.html>`__   |  cascade                   |
-+-----------------------------+----------------------------+----------------------------+
+
 
 cascade
+========
 
-`Prev <cargo-cult-programming.html>`__ 
 
-C
 
- `Next <case-and-paste.html>`__
-
---------------
 
 **cascade**: n.
 
@@ -427,23 +313,13 @@ riposte to the text of the previous one, all of which is reproduced in
 the new message; an `*include war* <../I/include-war.html>`__ in which
 the object is to create a sort of communal graffito.
 
---------------
 
-+-------------------------------------------+----------------------------+-----------------------------------+
-| `Prev <cargo-cult-programming.html>`__    | `Up <../C.html>`__         |  `Next <case-and-paste.html>`__   |
-+-------------------------------------------+----------------------------+-----------------------------------+
-| cargo cult programming                    | `Home <../index.html>`__   |  case and paste                   |
-+-------------------------------------------+----------------------------+-----------------------------------+
+
+
 
 case and paste
+===============
 
-`Prev <cascade.html>`__ 
-
-C
-
- `Next <case-mod.html>`__
-
---------------
 
 **case and paste**: n.
 
@@ -465,23 +341,14 @@ two similar cases.
 At `*DEC* <../D/DEC.html>`__ (now HP), this is sometimes called
 clone-and-hack coding.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <cascade.html>`__    | `Up <../C.html>`__         |  `Next <case-mod.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| cascade                    | `Home <../index.html>`__   |  case mod                   |
-+----------------------------+----------------------------+-----------------------------+
+
+
 
 case mod
+=========
 
-`Prev <case-and-paste.html>`__ 
 
-C
-
- `Next <casters-up-mode.html>`__
-
---------------
 
 **case mod**
 
@@ -499,23 +366,14 @@ into weird and unlikely shapes. The effect can be quite artistic, but
 one of the unwritten rules is that the machine must continue to function
 as a computer.
 
---------------
 
-+-----------------------------------+----------------------------+------------------------------------+
-| `Prev <case-and-paste.html>`__    | `Up <../C.html>`__         |  `Next <casters-up-mode.html>`__   |
-+-----------------------------------+----------------------------+------------------------------------+
-| case and paste                    | `Home <../index.html>`__   |  casters-up mode                   |
-+-----------------------------------+----------------------------+------------------------------------+
+
+
 
 casters-up mode
+================
 
-`Prev <case-mod.html>`__ 
 
-C
-
- `Next <casting-the-runes.html>`__
-
---------------
 
 **casters-up mode**: n.
 
@@ -526,23 +384,13 @@ failure is noticed, whereas one which is casters up is usually a good
 excuse to take the rest of the day off (as long as you're not
 responsible for fixing it).
 
---------------
 
-+-----------------------------+----------------------------+--------------------------------------+
-| `Prev <case-mod.html>`__    | `Up <../C.html>`__         |  `Next <casting-the-runes.html>`__   |
-+-----------------------------+----------------------------+--------------------------------------+
-| case mod                    | `Home <../index.html>`__   |  casting the runes                   |
-+-----------------------------+----------------------------+--------------------------------------+
+
 
 casting the runes
+==================
 
-`Prev <casters-up-mode.html>`__ 
 
-C
-
- `Next <cat.html>`__
-
---------------
 
 **casting the runes**: n.
 
@@ -567,23 +415,14 @@ them over the diagram, peer at the bones intently for a minute, and then
 tell them that a certain module needed replacing. The system would start
 working again immediately upon the replacement.
 
---------------
 
-+------------------------------------+----------------------------+------------------------+
-| `Prev <casters-up-mode.html>`__    | `Up <../C.html>`__         |  `Next <cat.html>`__   |
-+------------------------------------+----------------------------+------------------------+
-| casters-up mode                    | `Home <../index.html>`__   |  cat                   |
-+------------------------------------+----------------------------+------------------------+
+
 
 catatonic
+==========
 
-`Prev <cat.html>`__ 
 
-C
 
- `Next <cathedral.html>`__
-
---------------
 
 **catatonic**: adj.
 
@@ -596,23 +435,13 @@ from catatonia (possibly because it has crashed). “There I was in the
 middle of a winning game of `*nethack* <../N/nethack.html>`__ and it
 went catatonic on me! Aaargh!” Compare `*buzz* <../B/buzz.html>`__.
 
---------------
 
-+------------------------+----------------------------+------------------------------+
-| `Prev <cat.html>`__    | `Up <../C.html>`__         |  `Next <cathedral.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| cat                    | `Home <../index.html>`__   |  cathedral                   |
-+------------------------+----------------------------+------------------------------+
+
 
 cathedral
+==========
 
-`Prev <catatonic.html>`__ 
 
-C
-
- `Next <cd-tilde.html>`__
-
---------------
 
 **cathedral**: n.,adj.
 
@@ -623,23 +452,14 @@ project control, and long release intervals. This term came into use
 after analysis of the Linux experience suggested there might be
 something wrong (or at least incomplete) in the classical assumptions.
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <catatonic.html>`__    | `Up <../C.html>`__         |  `Next <cd-tilde.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| catatonic                    | `Home <../index.html>`__   |  cd tilde                   |
-+------------------------------+----------------------------+-----------------------------+
+
 
 cat
+====
 
-`Prev <casting-the-runes.html>`__ 
 
-C
 
- `Next <catatonic.html>`__
-
---------------
 
 **cat**: vt.
 
@@ -669,23 +489,14 @@ as unintuitive as, say, LISP's `*cdr* <cdr.html>`__.
 Of such oppositions are `*holy wars* <../H/holy-wars.html>`__ made....
 See also `*UUOC* <../U/UUOC.html>`__.
 
---------------
 
-+--------------------------------------+----------------------------+------------------------------+
-| `Prev <casting-the-runes.html>`__    | `Up <../C.html>`__         |  `Next <catatonic.html>`__   |
-+--------------------------------------+----------------------------+------------------------------+
-| casting the runes                    | `Home <../index.html>`__   |  catatonic                   |
-+--------------------------------------+----------------------------+------------------------------+
+
+
 
 CDA
+====
 
-`Prev <cd-tilde.html>`__ 
 
-C
-
- `Next <cdr.html>`__
-
---------------
 
 **CDA**: /C·D·A/
 
@@ -715,23 +526,12 @@ decision handed down in 8th-circuit Federal court and subsequently
 affirmed by the U.S. Supreme Court on 26 June 1997 (“White Thursday”).
 See also `*Exon* <../E/Exon.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+------------------------+
-| `Prev <cd-tilde.html>`__    | `Up <../C.html>`__         |  `Next <cdr.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| cd tilde                    | `Home <../index.html>`__   |  cdr                   |
-+-----------------------------+----------------------------+------------------------+
+
 
 cdr
+====
 
-`Prev <CDA.html>`__ 
-
-C
-
- `Next <chad.html>`__
-
---------------
 
 **cdr**: /ku´dr/, /kuh´dr/, vt.
 
@@ -754,23 +554,14 @@ programming project in which strings were represented as linked lists;
 the get-character and skip-character operations were of course called
 CHAR and CHDR.
 
---------------
 
-+------------------------+----------------------------+-------------------------+
-| `Prev <CDA.html>`__    | `Up <../C.html>`__         |  `Next <chad.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| CDA                    | `Home <../index.html>`__   |  chad                   |
-+------------------------+----------------------------+-------------------------+
+
 
 cd tilde
+=========
 
-`Prev <cathedral.html>`__ 
 
-C
 
- `Next <CDA.html>`__
-
---------------
 
 **cd tilde**: /C·D til·d@/, vi.
 
@@ -780,23 +571,13 @@ same thing). By extension, may be used with other arguments; thus, over
 an electronic chat link, **cd ~coffee** would mean “I'm going to the
 coffee machine.”
 
---------------
 
-+------------------------------+----------------------------+------------------------+
-| `Prev <cathedral.html>`__    | `Up <../C.html>`__         |  `Next <CDA.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| cathedral                    | `Home <../index.html>`__   |  CDA                   |
-+------------------------------+----------------------------+------------------------+
+
 
 chad box
+=========
 
-`Prev <chad.html>`__ 
 
-C
-
- `Next <chain.html>`__
-
---------------
 
 **chad box**: n.
 
@@ -808,23 +589,13 @@ box. The `*bit bucket* <../B/bit-bucket.html>`__ was notionally the
 equivalent device in the CPU enclosure, which was typically across the
 room in another great gray-and-blue box.
 
---------------
 
-+-------------------------+----------------------------+--------------------------+
-| `Prev <chad.html>`__    | `Up <../C.html>`__         |  `Next <chain.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| chad                    | `Home <../index.html>`__   |  chain                   |
-+-------------------------+----------------------------+--------------------------+
+
 
 chad
+=====
 
-`Prev <cdr.html>`__ 
 
-C
-
- `Next <chad-box.html>`__
-
---------------
 
 **chad**: /chad/, n.
 
@@ -868,24 +639,14 @@ This is *one* way to be `*chad* <chad.html>`__\ less.
 `75-10-04 <../B/bit-bucket.html#crunchly75-10-04>`__. The previous
 cartoon was `74-12-29 <../W/winged-comments.html#crunchly74-12-29>`__.)
 
---------------
 
-+------------------------+----------------------------+-----------------------------+
-| `Prev <cdr.html>`__    | `Up <../C.html>`__         |  `Next <chad-box.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| cdr                    | `Home <../index.html>`__   |  chad box                   |
-+------------------------+----------------------------+-----------------------------+
 
-.. |image0| image:: ../graphics/74-12-31.png
+
+
+.. image:: ../../_static/74-12-31.png
+
 chain
-
-`Prev <chad-box.html>`__ 
-
-C
-
- `Next <chainik.html>`__
-
---------------
+=====
 
 **chain**
 
@@ -904,23 +665,12 @@ the linked data areas searching for one which is of interest to the
 executing program. The implication is that there is a very large number
 of links on the chain.
 
---------------
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <chad-box.html>`__    | `Up <../C.html>`__         |  `Next <chainik.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| chad box                    | `Home <../index.html>`__   |  chainik                   |
-+-----------------------------+----------------------------+----------------------------+
 
 chainik
+========
 
-`Prev <chain.html>`__ 
 
-C
-
- `Next <channel.html>`__
-
---------------
 
 **chainik**: /chi:´nik/
 
@@ -943,23 +693,11 @@ covered “foobar for dummies” series, which (correctly) uses “chainik”
 for “dummy”, but its frequent (though not excessive) use is still
 characteristic hacker-speak.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <chain.html>`__    | `Up <../C.html>`__         |  `Next <channel.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| chain                    | `Home <../index.html>`__   |  channel                   |
-+--------------------------+----------------------------+----------------------------+
 
 channel hopping
+===============
 
-`Prev <channel.html>`__ 
-
-C
-
- `Next <channel-op.html>`__
-
---------------
 
 **channel hopping**: n.
 
@@ -968,23 +706,13 @@ C
 butterfly might hop from one group to another at a party. This term may
 derive from the TV watcher's idiom, channel surfing.
 
---------------
 
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <channel.html>`__    | `Up <../C.html>`__         |  `Next <channel-op.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| channel                    | `Home <../index.html>`__   |  channel op                   |
-+----------------------------+----------------------------+-------------------------------+
+
 
 channel
+========
 
-`Prev <chainik.html>`__ 
 
-C
-
- `Next <channel-hopping.html>`__
-
---------------
 
 **channel**: n.
 
@@ -999,23 +727,13 @@ listening to various news services and typing in summaries of the news,
 or in some cases, giving first-hand accounts of the action (e.g., Scud
 missile attacks in Tel Aviv during the Gulf War in 1991).
 
---------------
 
-+----------------------------+----------------------------+------------------------------------+
-| `Prev <chainik.html>`__    | `Up <../C.html>`__         |  `Next <channel-hopping.html>`__   |
-+----------------------------+----------------------------+------------------------------------+
-| chainik                    | `Home <../index.html>`__   |  channel hopping                   |
-+----------------------------+----------------------------+------------------------------------+
+
 
 channel op
+===========
 
-`Prev <channel-hopping.html>`__ 
 
-C
-
- `Next <chanop.html>`__
-
---------------
 
 **channel op**: /chan´l op/, n.
 
@@ -1026,90 +744,50 @@ parent usage). These privileges include the right to
 `*kick* <../K/kick.html>`__ users, to change various status bits, and to
 make others into CHOPs.
 
---------------
 
-+------------------------------------+----------------------------+---------------------------+
-| `Prev <channel-hopping.html>`__    | `Up <../C.html>`__         |  `Next <chanop.html>`__   |
-+------------------------------------+----------------------------+---------------------------+
-| channel hopping                    | `Home <../index.html>`__   |  chanop                   |
-+------------------------------------+----------------------------+---------------------------+
+
+
 
 chanop
+=======
 
-`Prev <channel-op.html>`__ 
 
-C
-
- `Next <char.html>`__
-
---------------
 
 **chanop**: /chan'·op/, n.
 
 [IRC] See `*channel op* <channel-op.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <channel-op.html>`__    | `Up <../C.html>`__         |  `Next <char.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| channel op                    | `Home <../index.html>`__   |  char                   |
-+-------------------------------+----------------------------+-------------------------+
-
 char
+=====
 
-`Prev <chanop.html>`__ 
 
-C
-
- `Next <charityware.html>`__
-
---------------
 
 **char**: /keir/, /char/, /kar/, n.
 
 Shorthand for ‘character’. Esp.: used by C programmers, as char is C's
 typename for character data.
 
---------------
 
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <chanop.html>`__    | `Up <../C.html>`__         |  `Next <charityware.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| chanop                    | `Home <../index.html>`__   |  charityware                   |
-+---------------------------+----------------------------+--------------------------------+
+
+
 
 charityware
+============
 
-`Prev <char.html>`__ 
 
-C
-
- `Next <chase-pointers.html>`__
-
---------------
 
 **charityware**: /cha´rit·ee·weir\`/, n.
 
 Syn. `*careware* <careware.html>`__.
 
---------------
 
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <char.html>`__    | `Up <../C.html>`__         |  `Next <chase-pointers.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| char                    | `Home <../index.html>`__   |  chase pointers                   |
-+-------------------------+----------------------------+-----------------------------------+
+
+
 
 chase pointers
+===============
 
-`Prev <charityware.html>`__ 
 
-C
-
- `Next <chawmp.html>`__
-
---------------
 
 **chase pointers**
 
@@ -1127,23 +805,13 @@ on a large piece of paper printed with hex
 `*runes* <../R/runes.html>`__, following dynamic data-structures. Used
 only in a debugging context.
 
---------------
 
-+--------------------------------+----------------------------+---------------------------+
-| `Prev <charityware.html>`__    | `Up <../C.html>`__         |  `Next <chawmp.html>`__   |
-+--------------------------------+----------------------------+---------------------------+
-| charityware                    | `Home <../index.html>`__   |  chawmp                   |
-+--------------------------------+----------------------------+---------------------------+
 
 chawmp
+=======
 
-`Prev <chase-pointers.html>`__ 
 
-C
 
- `Next <check.html>`__
-
---------------
 
 **chawmp**: n.
 
@@ -1160,23 +828,13 @@ faithful phonetic spellings of ‘chomp’ and ‘gobble’ pronounced in a
 Florida or other Southern U.S. dialect. For general discussion of
 similar terms, see `*nybble* <../N/nybble.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+--------------------------+
-| `Prev <chase-pointers.html>`__    | `Up <../C.html>`__         |  `Next <check.html>`__   |
-+-----------------------------------+----------------------------+--------------------------+
-| chase pointers                    | `Home <../index.html>`__   |  check                   |
-+-----------------------------------+----------------------------+--------------------------+
+
+
 
 check
+======
 
-`Prev <chawmp.html>`__ 
-
-C
-
- `Next <cheerfully.html>`__
-
---------------
 
 **check**: n.
 
@@ -1190,45 +848,25 @@ when s/he presses all the cute buttons on a computer's console (of
 course, this particular problem could have been prevented with
 `*molly-guard* <../M/molly-guard.html>`__\ s).
 
---------------
 
-+---------------------------+----------------------------+-------------------------------+
-| `Prev <chawmp.html>`__    | `Up <../C.html>`__         |  `Next <cheerfully.html>`__   |
-+---------------------------+----------------------------+-------------------------------+
-| chawmp                    | `Home <../index.html>`__   |  cheerfully                   |
-+---------------------------+----------------------------+-------------------------------+
+
 
 cheerfully
+===========
 
-`Prev <check.html>`__ 
 
-C
-
- `Next <chemist.html>`__
-
---------------
 
 **cheerfully**: adv.
 
 See `*happily* <../H/happily.html>`__.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <check.html>`__    | `Up <../C.html>`__         |  `Next <chemist.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| check                    | `Home <../index.html>`__   |  chemist                   |
-+--------------------------+----------------------------+----------------------------+
+
 
 chemist
+=========
 
-`Prev <cheerfully.html>`__ 
 
-C
-
- `Next <Chernobyl-chicken.html>`__
-
---------------
 
 **chemist**: n.
 
@@ -1239,45 +877,25 @@ out anagrams of your name or printing Snoopy calendars or running
 `*life* <../L/life.html>`__ patterns. May or may not refer to someone
 who actually studies chemistry.
 
---------------
 
-+-------------------------------+----------------------------+--------------------------------------+
-| `Prev <cheerfully.html>`__    | `Up <../C.html>`__         |  `Next <Chernobyl-chicken.html>`__   |
-+-------------------------------+----------------------------+--------------------------------------+
-| cheerfully                    | `Home <../index.html>`__   |  Chernobyl chicken                   |
-+-------------------------------+----------------------------+--------------------------------------+
+
+
 
 Chernobyl chicken
+==================
 
-`Prev <chemist.html>`__ 
 
-C
-
- `Next <Chernobyl-packet.html>`__
-
---------------
 
 **Chernobyl chicken**: n.
 
 See `*laser chicken* <../L/laser-chicken.html>`__.
 
---------------
 
-+----------------------------+----------------------------+-------------------------------------+
-| `Prev <chemist.html>`__    | `Up <../C.html>`__         |  `Next <Chernobyl-packet.html>`__   |
-+----------------------------+----------------------------+-------------------------------------+
-| chemist                    | `Home <../index.html>`__   |  Chernobyl packet                   |
-+----------------------------+----------------------------+-------------------------------------+
+
 
 Chernobyl packet
+=================
 
-`Prev <Chernobyl-chicken.html>`__ 
-
-C
-
- `Next <chicken-head.html>`__
-
---------------
 
 **Chernobyl packet**: /cher·noh´b@l pak'@t/, n.
 
@@ -1290,23 +908,15 @@ and destination Ether and IP address set as the respective broadcast
 addresses for the subnetworks being gated between. Compare `*Christmas
 tree packet* <Christmas-tree-packet.html>`__.
 
---------------
 
-+--------------------------------------+----------------------------+---------------------------------+
-| `Prev <Chernobyl-chicken.html>`__    | `Up <../C.html>`__         |  `Next <chicken-head.html>`__   |
-+--------------------------------------+----------------------------+---------------------------------+
-| Chernobyl chicken                    | `Home <../index.html>`__   |  chicken head                   |
-+--------------------------------------+----------------------------+---------------------------------+
+
+
 
 chickenboner
+============
 
-`Prev <chicken-head.html>`__ 
 
-C
 
- `Next <chiclet-keyboard.html>`__
-
---------------
 
 **chickenboner**: n.
 
@@ -1317,23 +927,15 @@ chicken bones in half-eaten KFC buckets and empty beer cans. See
 `http://www.spamfaq.net/terminology.shtml#chickenboner <http://www.spamfaq.net/terminology.shtml#chickenboner>`__
 for discussion.
 
---------------
 
-+---------------------------------+----------------------------+-------------------------------------+
-| `Prev <chicken-head.html>`__    | `Up <../C.html>`__         |  `Next <chiclet-keyboard.html>`__   |
-+---------------------------------+----------------------------+-------------------------------------+
-| chicken head                    | `Home <../index.html>`__   |  chiclet keyboard                   |
-+---------------------------------+----------------------------+-------------------------------------+
+
+
 
 chicken head
+=============
 
-`Prev <Chernobyl-packet.html>`__ 
 
-C
 
- `Next <chickenboner.html>`__
-
---------------
 
 **chicken head**: n.
 
@@ -1349,23 +951,15 @@ Androids Dream of Electric Sheep?* (the basis for the movie *Blade
 Runner*; the novel is now sold under that title), in which a
 ‘chickenhead’ is a mutant with below-average intelligence.
 
---------------
 
-+-------------------------------------+----------------------------+---------------------------------+
-| `Prev <Chernobyl-packet.html>`__    | `Up <../C.html>`__         |  `Next <chickenboner.html>`__   |
-+-------------------------------------+----------------------------+---------------------------------+
-| Chernobyl packet                    | `Home <../index.html>`__   |  chickenboner                   |
-+-------------------------------------+----------------------------+---------------------------------+
+
+
 
 chiclet keyboard
+=================
 
-`Prev <chickenboner.html>`__ 
 
-C
 
- `Next <Chinese-Army-technique.html>`__
-
---------------
 
 **chiclet keyboard**: n.
 
@@ -1378,46 +972,26 @@ lot of early portable and laptop products got launched using them.
 Customers rejected the idea with almost equal unanimity, and chiclets
 are not often seen on anything larger than a digital watch any more.
 
---------------
 
-+---------------------------------+----------------------------+-------------------------------------------+
-| `Prev <chickenboner.html>`__    | `Up <../C.html>`__         |  `Next <Chinese-Army-technique.html>`__   |
-+---------------------------------+----------------------------+-------------------------------------------+
-| chickenboner                    | `Home <../index.html>`__   |  Chinese Army technique                   |
-+---------------------------------+----------------------------+-------------------------------------------+
+
 
 Chinese Army technique
+=======================
 
-`Prev <chiclet-keyboard.html>`__ 
-
-C
-
- `Next <choad.html>`__
-
---------------
 
 **Chinese Army technique**: n.
 
 Syn. `*Mongolian Hordes
 technique* <../M/Mongolian-Hordes-technique.html>`__.
 
---------------
 
-+-------------------------------------+----------------------------+--------------------------+
-| `Prev <chiclet-keyboard.html>`__    | `Up <../C.html>`__         |  `Next <choad.html>`__   |
-+-------------------------------------+----------------------------+--------------------------+
-| chiclet keyboard                    | `Home <../index.html>`__   |  choad                   |
-+-------------------------------------+----------------------------+--------------------------+
+
 
 choad
+=======
 
-`Prev <Chinese-Army-technique.html>`__ 
 
-C
 
- `Next <choke.html>`__
-
---------------
 
 **choad**: /chohd/, n.
 
@@ -1431,23 +1005,14 @@ confirmed that ‘choad’ is in fact an Indian vernacular word equivalent
 to ‘fuck’; it is therefore likely to have entered English slang via the
 British Raj.
 
---------------
 
-+-------------------------------------------+----------------------------+--------------------------+
-| `Prev <Chinese-Army-technique.html>`__    | `Up <../C.html>`__         |  `Next <choke.html>`__   |
-+-------------------------------------------+----------------------------+--------------------------+
-| Chinese Army technique                    | `Home <../index.html>`__   |  choke                   |
-+-------------------------------------------+----------------------------+--------------------------+
+
 
 choke
+======
 
-`Prev <choad.html>`__ 
 
-C
 
- `Next <chomp.html>`__
-
---------------
 
 **choke**: v.
 
@@ -1457,23 +1022,13 @@ to use `*X* <../X/X.html>`__, but cpp(1) choked on all those
 **#define**\ s.” See `*barf* <../B/barf.html>`__,
 `*vi* <../V/vi.html>`__.
 
---------------
 
-+--------------------------+----------------------------+--------------------------+
-| `Prev <choad.html>`__    | `Up <../C.html>`__         |  `Next <chomp.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| choad                    | `Home <../index.html>`__   |  chomp                   |
-+--------------------------+----------------------------+--------------------------+
+
 
 chomper
+=======
 
-`Prev <chomp.html>`__ 
 
-C
-
- `Next <CHOP.html>`__
-
---------------
 
 **chomper**: n.
 
@@ -1481,23 +1036,12 @@ Someone or something that is chomping; a loser. See
 `*loser* <../L/loser.html>`__, `*bagbiter* <../B/bagbiter.html>`__,
 `*chomp* <chomp.html>`__.
 
---------------
 
-+--------------------------+----------------------------+-------------------------+
-| `Prev <chomp.html>`__    | `Up <../C.html>`__         |  `Next <CHOP.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| chomp                    | `Home <../index.html>`__   |  CHOP                   |
-+--------------------------+----------------------------+-------------------------+
+
 
 chomp
+=====
 
-`Prev <choke.html>`__ 
-
-C
-
- `Next <chomper.html>`__
-
---------------
 
 **chomp**: vi.
 
@@ -1521,68 +1065,40 @@ humble but humorous admission of some failure. You might do this if
 someone told you that a program you had written had failed in some
 surprising way and you felt dumb for not having anticipated it.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <choke.html>`__    | `Up <../C.html>`__         |  `Next <chomper.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| choke                    | `Home <../index.html>`__   |  chomper                   |
-+--------------------------+----------------------------+----------------------------+
+
 
 CHOP
+====
 
-`Prev <chomper.html>`__ 
-
-C
-
- `Next <Christmas-tree.html>`__
-
---------------
 
 **CHOP**: /chop/, n.
 
 [IRC] See `*channel op* <channel-op.html>`__.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <chomper.html>`__    | `Up <../C.html>`__         |  `Next <Christmas-tree.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| chomper                    | `Home <../index.html>`__   |  Christmas tree                   |
-+----------------------------+----------------------------+-----------------------------------+
+
+
 
 Christmas tree
+==============
 
-`Prev <CHOP.html>`__ 
 
-C
-
- `Next <Christmas-tree-packet.html>`__
-
---------------
 
 **Christmas tree**: n.
 
 A kind of RS-232 line tester or breakout box featuring rows of blinking
 red and green LEDs suggestive of Christmas lights.
 
---------------
 
-+-------------------------+----------------------------+------------------------------------------+
-| `Prev <CHOP.html>`__    | `Up <../C.html>`__         |  `Next <Christmas-tree-packet.html>`__   |
-+-------------------------+----------------------------+------------------------------------------+
-| CHOP                    | `Home <../index.html>`__   |  Christmas tree packet                   |
-+-------------------------+----------------------------+------------------------------------------+
+
+
 
 Christmas tree packet
+=====================
 
-`Prev <Christmas-tree.html>`__ 
 
-C
 
- `Next <chrome.html>`__
-
---------------
 
 **Christmas tree packet**: n.
 
@@ -1593,23 +1109,11 @@ fanciful image of each little option bit being represented by a
 different-colored light bulb, all turned on.) Compare
 `*Godzillagram* <../G/Godzillagram.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+---------------------------+
-| `Prev <Christmas-tree.html>`__    | `Up <../C.html>`__         |  `Next <chrome.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| Christmas tree                    | `Home <../index.html>`__   |  chrome                   |
-+-----------------------------------+----------------------------+---------------------------+
 
 chrome
+======
 
-`Prev <Christmas-tree-packet.html>`__ 
-
-C
-
- `Next <chug.html>`__
-
---------------
 
 **chrome**: n.
 
@@ -1621,23 +1125,12 @@ whistles* <../B/bells-and-whistles.html>`__ by the fact that the latter
 are usually added to gratify developers' own desires for featurefulness.
 Often used as a term of contempt.
 
---------------
 
-+------------------------------------------+----------------------------+-------------------------+
-| `Prev <Christmas-tree-packet.html>`__    | `Up <../C.html>`__         |  `Next <chug.html>`__   |
-+------------------------------------------+----------------------------+-------------------------+
-| Christmas tree packet                    | `Home <../index.html>`__   |  chug                   |
-+------------------------------------------+----------------------------+-------------------------+
+
 
 C
+=
 
-`Prev <../C.html>`__ 
-
-C
-
- `Next <C-Programmers-Disease.html>`__
-
---------------
 
 **C**: n.
 
@@ -1662,51 +1155,27 @@ maintainability of assembly language” See also `*languages of
 choice* <../L/languages-of-choice.html>`__, `*indent
 style* <../I/indent-style.html>`__.
 
-|image0|
 
-The Crunchly on the left sounds a little ANSI.
 
---------------
+.. |image0| image:: ../../_static/ansi-c.png
 
-+-------------------------+----------------------------+------------------------------------------+
-| `Prev <../C.html>`__    | `Up <../C.html>`__         |  `Next <C-Programmers-Disease.html>`__   |
-+-------------------------+----------------------------+------------------------------------------+
-| C                       | `Home <../index.html>`__   |  C Programmer's Disease                  |
-+-------------------------+----------------------------+------------------------------------------+
 
-.. |image0| image:: ../graphics/ansi-c.png
 chug
+====
 
-`Prev <chrome.html>`__ 
-
-C
-
- `Next <Church-of-the-SubGenius.html>`__
-
---------------
 
 **chug**: vi.
 
 To run slowly; to `*grind* <../G/grind.html>`__ or
 `*grovel* <../G/grovel.html>`__. “The disk is chugging like crazy.”
 
---------------
 
-+---------------------------+----------------------------+--------------------------------------------+
-| `Prev <chrome.html>`__    | `Up <../C.html>`__         |  `Next <Church-of-the-SubGenius.html>`__   |
-+---------------------------+----------------------------+--------------------------------------------+
-| chrome                    | `Home <../index.html>`__   |  Church of the SubGenius                   |
-+---------------------------+----------------------------+--------------------------------------------+
+
+
 
 Church of the SubGenius
+=======================
 
-`Prev <chug.html>`__ 
-
-C
-
- `Next <CIS.html>`__
-
---------------
 
 **Church of the SubGenius**: n.
 
@@ -1720,23 +1189,12 @@ concerned with the acquisition of the mystical substance or quality of
 `*slack* <../S/slack.html>`__. There is a home page at
 `http://www.subgenius.com/ <http://www.subgenius.com/>`__.
 
---------------
 
-+-------------------------+----------------------------+------------------------+
-| `Prev <chug.html>`__    | `Up <../C.html>`__         |  `Next <CIS.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| chug                    | `Home <../index.html>`__   |  CI$                   |
-+-------------------------+----------------------------+------------------------+
+
 
 Cinderella Book
+===============
 
-`Prev <CIS.html>`__ 
-
-C
-
- `Next <Classic-C.html>`__
-
---------------
 
 **Cinderella Book**: n.
 
@@ -1747,23 +1205,10 @@ front of a Rube Goldberg device and holding a rope coming out of it. On
 the back cover, the device is in shambles after she has (inevitably)
 pulled on the rope. See also `*book titles* <../B/book-titles.html>`__.
 
---------------
 
-+------------------------+----------------------------+------------------------------+
-| `Prev <CIS.html>`__    | `Up <../C.html>`__         |  `Next <Classic-C.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| CI$                    | `Home <../index.html>`__   |  Classic C                   |
-+------------------------+----------------------------+------------------------------+
 
 CI$
-
-`Prev <Church-of-the-SubGenius.html>`__ 
-
-C
-
- `Next <Cinderella-Book.html>`__
-
---------------
+====
 
 **CI$**: //, n.
 
@@ -1772,23 +1217,11 @@ refers to CompuServe's rather steep line charges. Often used in `*sig
 block* <../S/sig-block.html>`__\ s just before a CompuServe address.
 Syn. `*Compu$erve* <CompuServe.html>`__.
 
---------------
 
-+--------------------------------------------+----------------------------+------------------------------------+
-| `Prev <Church-of-the-SubGenius.html>`__    | `Up <../C.html>`__         |  `Next <Cinderella-Book.html>`__   |
-+--------------------------------------------+----------------------------+------------------------------------+
-| Church of the SubGenius                    | `Home <../index.html>`__   |  Cinderella Book                   |
-+--------------------------------------------+----------------------------+------------------------------------+
+
 
 Classic C
-
-`Prev <Cinderella-Book.html>`__ 
-
-C
-
- `Next <clean.html>`__
-
---------------
+=========
 
 **Classic C**: /klas´ik C/, n.
 
@@ -1804,23 +1237,13 @@ series). This construction is especially used of product series in which
 the newer versions are considered serious losers relative to the older
 ones.
 
---------------
 
-+------------------------------------+----------------------------+--------------------------+
-| `Prev <Cinderella-Book.html>`__    | `Up <../C.html>`__         |  `Next <clean.html>`__   |
-+------------------------------------+----------------------------+--------------------------+
-| Cinderella Book                    | `Home <../index.html>`__   |  clean                   |
-+------------------------------------+----------------------------+--------------------------+
+
+
 
 clean
+=====
 
-`Prev <Classic-C.html>`__ 
-
-C
-
- `Next <click-of-death.html>`__
-
---------------
 
 **clean**
 
@@ -1834,23 +1257,14 @@ or `*crufty* <crufty.html>`__.
 clutter: “I'm cleaning up my account.” “I cleaned up the garbage and now
 have 100 Meg free on that partition.”
 
---------------
 
-+------------------------------+----------------------------+-----------------------------------+
-| `Prev <Classic-C.html>`__    | `Up <../C.html>`__         |  `Next <click-of-death.html>`__   |
-+------------------------------+----------------------------+-----------------------------------+
-| Classic C                    | `Home <../index.html>`__   |  click of death                   |
-+------------------------------+----------------------------+-----------------------------------+
+
+
 
 click of death
+==============
 
-`Prev <clean.html>`__ 
 
-C
-
- `Next <CLM.html>`__
-
---------------
 
 **click of death**: n.
 
@@ -1876,23 +1290,12 @@ become misaligned. Iomega at first denied the existence of the click of
 death, but eventually offered to replace free of charge any drives
 affected by the condition.
 
---------------
 
-+--------------------------+----------------------------+------------------------+
-| `Prev <clean.html>`__    | `Up <../C.html>`__         |  `Next <CLM.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| clean                    | `Home <../index.html>`__   |  CLM                   |
-+--------------------------+----------------------------+------------------------+
+
 
 CLM
+====
 
-`Prev <click-of-death.html>`__ 
-
-C
-
- `Next <clobber.html>`__
-
---------------
 
 **CLM**: /C·L·M/
 
@@ -1905,23 +1308,11 @@ a parody of his manager. He won the prize for ‘best CLM’.”
 2. adj. Denotes extreme severity of a bug, discovered by a customer and
 obviously missed earlier because of poor testing: “That's a CLM bug!”
 
---------------
 
-+-----------------------------------+----------------------------+----------------------------+
-| `Prev <click-of-death.html>`__    | `Up <../C.html>`__         |  `Next <clobber.html>`__   |
-+-----------------------------------+----------------------------+----------------------------+
-| click of death                    | `Home <../index.html>`__   |  clobber                   |
-+-----------------------------------+----------------------------+----------------------------+
+
 
 clobber
-
-`Prev <CLM.html>`__ 
-
-C
-
- `Next <clock.html>`__
-
---------------
+========
 
 **clobber**: vt.
 
@@ -1930,23 +1321,10 @@ array and clobbered the stack.” Compare `*mung* <../M/mung.html>`__,
 `*scribble* <../S/scribble.html>`__, `*trash* <../T/trash.html>`__, and
 `*smash the stack* <../S/smash-the-stack.html>`__.
 
---------------
 
-+------------------------+----------------------------+--------------------------+
-| `Prev <CLM.html>`__    | `Up <../C.html>`__         |  `Next <clock.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| CLM                    | `Home <../index.html>`__   |  clock                   |
-+------------------------+----------------------------+--------------------------+
 
 clock
-
-`Prev <clobber.html>`__ 
-
-C
-
- `Next <clocks.html>`__
-
---------------
+======
 
 **clock**
 
@@ -1965,23 +1343,10 @@ you clock it at 1000MHz, it gets warm.”. See
 a single clock pulse. “The data must be stable 10ns before you clock the
 latch.”
 
---------------
 
-+----------------------------+----------------------------+---------------------------+
-| `Prev <clobber.html>`__    | `Up <../C.html>`__         |  `Next <clocks.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| clobber                    | `Home <../index.html>`__   |  clocks                   |
-+----------------------------+----------------------------+---------------------------+
 
 clocks
-
-`Prev <clock.html>`__ 
-
-C
-
- `Next <clone.html>`__
-
---------------
+======
 
 **clocks**: n.
 
@@ -1994,45 +1359,20 @@ improves, and it is usually the relative times one is interested in when
 discussing the instruction set. Compare `*cycle* <cycle.html>`__,
 `*jiffy* <../J/jiffy.html>`__.
 
---------------
 
-+--------------------------+----------------------------+--------------------------+
-| `Prev <clock.html>`__    | `Up <../C.html>`__         |  `Next <clone.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| clock                    | `Home <../index.html>`__   |  clone                   |
-+--------------------------+----------------------------+--------------------------+
 
 clone-and-hack coding
-
-`Prev <clone.html>`__ 
-
-C
-
- `Next <clover-key.html>`__
-
---------------
+=====================
 
 **clone-and-hack coding**: n.
 
 [DEC] Syn. `*case and paste* <case-and-paste.html>`__.
 
---------------
 
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <clone.html>`__    | `Up <../C.html>`__         |  `Next <clover-key.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| clone                    | `Home <../index.html>`__   |  clover key                   |
-+--------------------------+----------------------------+-------------------------------+
+
 
 clone
-
-`Prev <clocks.html>`__ 
-
-C
-
- `Next <clone-and-hack-coding.html>`__
-
---------------
+======
 
 **clone**: n.
 
@@ -2062,45 +1402,22 @@ category and the term with it.
 “I want to borrow that paper so I can make a photocopy” or “Let me get a
 copy of that file before you `*mung* <../M/mung.html>`__ it”.
 
---------------
 
-+---------------------------+----------------------------+------------------------------------------+
-| `Prev <clocks.html>`__    | `Up <../C.html>`__         |  `Next <clone-and-hack-coding.html>`__   |
-+---------------------------+----------------------------+------------------------------------------+
-| clocks                    | `Home <../index.html>`__   |  clone-and-hack coding                   |
-+---------------------------+----------------------------+------------------------------------------+
 
 clover key
-
-`Prev <clone-and-hack-coding.html>`__ 
-
-C
-
- `Next <clue-by-four.html>`__
-
---------------
+==========
 
 **clover key**: n.
 
 [Mac users] See `*feature key* <../F/feature-key.html>`__.
 
---------------
 
-+------------------------------------------+----------------------------+---------------------------------+
-| `Prev <clone-and-hack-coding.html>`__    | `Up <../C.html>`__         |  `Next <clue-by-four.html>`__   |
-+------------------------------------------+----------------------------+---------------------------------+
-| clone-and-hack coding                    | `Home <../index.html>`__   |  clue-by-four                   |
-+------------------------------------------+----------------------------+---------------------------------+
+
+
 
 clue-by-four
+=============
 
-`Prev <clover-key.html>`__ 
-
-C
-
- `Next <clustergeeking.html>`__
-
---------------
 
 **clue-by-four**
 
@@ -2112,46 +1429,22 @@ clue-by-four is a close relative of the `*LART* <../L/LART.html>`__.
 Syn. clue stick. This metaphor is commonly elaborated; your editor once
 heard a hacker say “I smite you with the great sword Cluebringer!”
 
---------------
 
-+-------------------------------+----------------------------+-----------------------------------+
-| `Prev <clover-key.html>`__    | `Up <../C.html>`__         |  `Next <clustergeeking.html>`__   |
-+-------------------------------+----------------------------+-----------------------------------+
-| clover key                    | `Home <../index.html>`__   |  clustergeeking                   |
-+-------------------------------+----------------------------+-----------------------------------+
+
+
 
 clustergeeking
-
-`Prev <clue-by-four.html>`__ 
-
-C
-
- `Next <co-lo.html>`__
-
---------------
+===============
 
 **clustergeeking**: /kluh´st@r·gee\`king/, n.
 
 [CMU] Spending more time at a computer cluster doing CS homework than
 most people spend breathing.
 
---------------
 
-+---------------------------------+----------------------------+--------------------------+
-| `Prev <clue-by-four.html>`__    | `Up <../C.html>`__         |  `Next <co-lo.html>`__   |
-+---------------------------------+----------------------------+--------------------------+
-| clue-by-four                    | `Home <../index.html>`__   |  co-lo                   |
-+---------------------------------+----------------------------+--------------------------+
 
 C\|N>K
-
-`Prev <cypherpunk.html>`__ 
-
-C
-
- `Next <../D.html>`__
-
---------------
+======
 
 **C\|N>K**: n.
 
@@ -2164,23 +1457,10 @@ FAQ <http://www.lspace.org/faqs/acronym-faq.g.html>`__ on
 ``alt.fan.pratchett`` recognizes variants such as T\|N>K = ‘Tea through
 Nose to Keyboard’ and C\|N>S = ‘Coffee through Nose to Screen’.
 
---------------
 
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <cypherpunk.html>`__    | `Up <../C.html>`__         |  `Next <../D.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| cypherpunk                    | `Home <../index.html>`__   |  D                      |
-+-------------------------------+----------------------------+-------------------------+
 
 coaster
-
-`Prev <co-lo.html>`__ 
-
-C
-
- `Next <coaster-toaster.html>`__
-
---------------
+=======
 
 **coaster**: n.
 
@@ -2194,46 +1474,27 @@ Prodigy, ad nauseam.
 
 In the U.K., beermat is often used in these senses.
 
---------------
 
-+--------------------------+----------------------------+------------------------------------+
-| `Prev <co-lo.html>`__    | `Up <../C.html>`__         |  `Next <coaster-toaster.html>`__   |
-+--------------------------+----------------------------+------------------------------------+
-| co-lo                    | `Home <../index.html>`__   |  coaster toaster                   |
-+--------------------------+----------------------------+------------------------------------+
+
+
 
 coaster toaster
-
-`Prev <coaster.html>`__ 
-
-C
-
- `Next <COBOL.html>`__
-
---------------
+================
 
 **coaster toaster**
 
 A writer for recordable CD-Rs, especially cheap IDE models that tend to
-produce a high proportion of `*coaster* <coaster.html>`__\ s.
+produce a high proportion of `*coasters* <coaster.html>`__.
 
---------------
 
-+----------------------------+----------------------------+--------------------------+
-| `Prev <coaster.html>`__    | `Up <../C.html>`__         |  `Next <COBOL.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| coaster                    | `Home <../index.html>`__   |  COBOL                   |
-+----------------------------+----------------------------+--------------------------+
+
+
 
 COBOL fingers
+==============
 
-`Prev <COBOL.html>`__ 
 
-C
 
- `Next <cobweb-site.html>`__
-
---------------
 
 **COBOL fingers**: /koh´bol fing´grz/, n.
 
@@ -2244,23 +1505,13 @@ programming too much in COBOL causes one's fingers to wear down to stubs
 by the endless typing. “I refuse to type in all that source code again;
 it would give me COBOL fingers!”
 
---------------
 
-+--------------------------+----------------------------+--------------------------------+
-| `Prev <COBOL.html>`__    | `Up <../C.html>`__         |  `Next <cobweb-site.html>`__   |
-+--------------------------+----------------------------+--------------------------------+
-| COBOL                    | `Home <../index.html>`__   |  cobweb site                   |
-+--------------------------+----------------------------+--------------------------------+
+
 
 COBOL
+======
 
-`Prev <coaster-toaster.html>`__ 
 
-C
-
- `Next <COBOL-fingers.html>`__
-
---------------
 
 **COBOL**: /koh´bol/, n.
 
@@ -2279,46 +1530,26 @@ Perspective*) See also `*fear and
 loathing* <../F/fear-and-loathing.html>`__, `*software
 rot* <../S/software-rot.html>`__.
 
---------------
 
-+------------------------------------+----------------------------+----------------------------------+
-| `Prev <coaster-toaster.html>`__    | `Up <../C.html>`__         |  `Next <COBOL-fingers.html>`__   |
-+------------------------------------+----------------------------+----------------------------------+
-| coaster toaster                    | `Home <../index.html>`__   |  COBOL fingers                   |
-+------------------------------------+----------------------------+----------------------------------+
+
+
 
 cobweb site
+============
 
-`Prev <COBOL-fingers.html>`__ 
-
-C
-
- `Next <code.html>`__
-
---------------
 
 **cobweb site**: n.
 
 A World Wide Web Site that hasn't been updated so long it has
 figuratively grown cobwebs.
 
---------------
 
-+----------------------------------+----------------------------+-------------------------+
-| `Prev <COBOL-fingers.html>`__    | `Up <../C.html>`__         |  `Next <code.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
-| COBOL fingers                    | `Home <../index.html>`__   |  code                   |
-+----------------------------------+----------------------------+-------------------------+
+
+
 
 code grinder
+============
 
-`Prev <code.html>`__ 
-
-C
-
- `Next <code-monkey.html>`__
-
---------------
 
 **code grinder**: n.
 
@@ -2341,23 +1572,13 @@ and utter lack of imagination.
 Contrast `*hacker* <../H/hacker.html>`__, `*Real
 Programmer* <../R/Real-Programmer.html>`__.
 
---------------
 
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <code.html>`__    | `Up <../C.html>`__         |  `Next <code-monkey.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| code                    | `Home <../index.html>`__   |  code monkey                   |
-+-------------------------+----------------------------+--------------------------------+
+
+
 
 code
+=====
 
-`Prev <cobweb-site.html>`__ 
-
-C
-
- `Next <code-grinder.html>`__
-
---------------
 
 **code**
 
@@ -2377,23 +1598,13 @@ of a cultural marker associated with the Unix and minicomputer
 traditions (and lately Linux); people within that culture prefer v.
 ‘code’ to v. ‘program’ whereas outside it the reverse is normally true.
 
---------------
 
-+--------------------------------+----------------------------+---------------------------------+
-| `Prev <cobweb-site.html>`__    | `Up <../C.html>`__         |  `Next <code-grinder.html>`__   |
-+--------------------------------+----------------------------+---------------------------------+
-| cobweb site                    | `Home <../index.html>`__   |  code grinder                   |
-+--------------------------------+----------------------------+---------------------------------+
+
+
 
 code monkey
+============
 
-`Prev <code-grinder.html>`__ 
-
-C
-
- `Next <Code-of-the-Geeks.html>`__
-
---------------
 
 **code monkey**: n
 
@@ -2409,45 +1620,24 @@ programming team.
 about having to live with such decisions. As in “Don't ask me why we
 need to write a compiler in COBOL, I'm just a code monkey.”
 
---------------
 
-+---------------------------------+----------------------------+--------------------------------------+
-| `Prev <code-grinder.html>`__    | `Up <../C.html>`__         |  `Next <Code-of-the-Geeks.html>`__   |
-+---------------------------------+----------------------------+--------------------------------------+
-| code grinder                    | `Home <../index.html>`__   |  Code of the Geeks                   |
-+---------------------------------+----------------------------+--------------------------------------+
+
+
 
 Code of the Geeks
+=================
 
-`Prev <code-monkey.html>`__ 
-
-C
-
- `Next <code-police.html>`__
-
---------------
 
 **Code of the Geeks**: n.
 
 see `*geek code* <../G/geek-code.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <code-monkey.html>`__    | `Up <../C.html>`__         |  `Next <code-police.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| code monkey                    | `Home <../index.html>`__   |  code police                   |
-+--------------------------------+----------------------------+--------------------------------+
+
+
 
 code police
-
-`Prev <Code-of-the-Geeks.html>`__ 
-
-C
-
- `Next <codes.html>`__
-
---------------
+============
 
 **code police**: n.
 
@@ -2460,23 +1650,12 @@ is condemned mainly by anal-retentive
 `*weenie* <../W/weenie.html>`__\ s. “Dike out that goto or the code
 police will get you!” The ironic usage is perhaps more common.
 
---------------
 
-+--------------------------------------+----------------------------+--------------------------+
-| `Prev <Code-of-the-Geeks.html>`__    | `Up <../C.html>`__         |  `Next <codes.html>`__   |
-+--------------------------------------+----------------------------+--------------------------+
-| Code of the Geeks                    | `Home <../index.html>`__   |  codes                   |
-+--------------------------------------+----------------------------+--------------------------+
+
 
 codes
+=====
 
-`Prev <code-police.html>`__ 
-
-C
-
- `Next <codewalker.html>`__
-
---------------
 
 **codes**: n.
 
@@ -2486,23 +1665,12 @@ supercomputers and heavy-duty
 elsewhere (if you say “codes” to hackers outside scientific computing,
 their first association is likely to be “and cyphers”).
 
---------------
 
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <code-police.html>`__    | `Up <../C.html>`__         |  `Next <codewalker.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| code police                    | `Home <../index.html>`__   |  codewalker                   |
-+--------------------------------+----------------------------+-------------------------------+
+
 
 codewalker
+==========
 
-`Prev <codes.html>`__ 
-
-C
-
- `Next <coefficient-of-X.html>`__
-
---------------
 
 **codewalker**: n.
 
@@ -2512,23 +1680,11 @@ generators and some database front ends. Other utility programs that try
 to do too much with source code may turn into codewalkers. As in “This
 new **vgrind** feature would require a codewalker to implement.”
 
---------------
 
-+--------------------------+----------------------------+-------------------------------------+
-| `Prev <codes.html>`__    | `Up <../C.html>`__         |  `Next <coefficient-of-X.html>`__   |
-+--------------------------+----------------------------+-------------------------------------+
-| codes                    | `Home <../index.html>`__   |  coefficient of X                   |
-+--------------------------+----------------------------+-------------------------------------+
+
 
 coefficient of X
-
-`Prev <codewalker.html>`__ 
-
-C
-
- `Next <cokebottle.html>`__
-
---------------
+================
 
 **coefficient of X**: n.
 
@@ -2559,23 +1715,12 @@ people might feel that bogosity is a fundamental attribute and thus say
 coefficient of bogosity, whereas others might feel it is a combination
 of factors and thus say bogosity index.
 
---------------
 
-+-------------------------------+----------------------------+-------------------------------+
-| `Prev <codewalker.html>`__    | `Up <../C.html>`__         |  `Next <cokebottle.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
-| codewalker                    | `Home <../index.html>`__   |  cokebottle                   |
-+-------------------------------+----------------------------+-------------------------------+
+
+
 
 cokebottle
-
-`Prev <coefficient-of-X.html>`__ 
-
-C
-
- `Next <cold-boot.html>`__
-
---------------
+===========
 
 **cokebottle**: /kohk´bot·l/, n.
 
@@ -2595,45 +1740,27 @@ like an upside down Coke bottle, Motif hackers have begun referring to
 this keystroke as cokebottle. See also `*quadruple
 bucky* <../Q/quadruple-bucky.html>`__.
 
---------------
 
-+-------------------------------------+----------------------------+------------------------------+
-| `Prev <coefficient-of-X.html>`__    | `Up <../C.html>`__         |  `Next <cold-boot.html>`__   |
-+-------------------------------------+----------------------------+------------------------------+
-| coefficient of X                    | `Home <../index.html>`__   |  cold boot                   |
-+-------------------------------------+----------------------------+------------------------------+
+
+
 
 cold boot
+=========
 
-`Prev <cokebottle.html>`__ 
 
-C
 
- `Next <COME-FROM.html>`__
-
---------------
 
 **cold boot**: n.
 
 See `*boot* <../B/boot.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <cokebottle.html>`__    | `Up <../C.html>`__         |  `Next <COME-FROM.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| cokebottle                    | `Home <../index.html>`__   |  COME FROM                   |
-+-------------------------------+----------------------------+------------------------------+
+
 
 co-lo
+=====
 
-`Prev <clustergeeking.html>`__ 
 
-C
-
- `Next <coaster.html>`__
-
---------------
 
 **co-lo**: /koh´loh\`/, n.
 
@@ -2644,23 +1771,13 @@ bandwidth. Often in the phrases co-lo box or co-lo machines. Co-lo boxes
 are typically web and FTP servers remote-administered by their owners,
 who may seldom or never visit the actual site.
 
---------------
 
-+-----------------------------------+----------------------------+----------------------------+
-| `Prev <clustergeeking.html>`__    | `Up <../C.html>`__         |  `Next <coaster.html>`__   |
-+-----------------------------------+----------------------------+----------------------------+
-| clustergeeking                    | `Home <../index.html>`__   |  coaster                   |
-+-----------------------------------+----------------------------+----------------------------+
+
+
 
 COME FROM
+=========
 
-`Prev <cold-boot.html>`__ 
-
-C
-
- `Next <comm-mode.html>`__
-
---------------
 
 **COME FROM**: n.
 
@@ -2687,16 +1804,15 @@ control continues at the statement following the DO. Some generous
 FORTRANs would allow arbitrary statements (other than **CONTINUE**) for
 the statement, leading to examples like:
 
-+--------------------------------------------------------------------------+
-| .. code:: programlisting                                                 |
-|                                                                          |
-|           DO 10 I=1,LIMIT                                                |
-|     C imagine many lines of code here, leaving the                       |
-|     C original DO statement lost in the spaghetti...                     |
-|           WRITE(6,10) I,FROB(I)                                          |
-|      10   FORMAT(1X,I5,G10.4)                                            |
+
+.. code:: programlisting                                                 
+                                                                         
+      DO 10 I=1,LIMIT                                                
+      C imagine many lines of code here, leaving the                       
+      C original DO statement lost in the spaghetti...                     
+      WRITE(6,10) I,FROB(I)                                          
+      10   FORMAT(1X,I5,G10.4)                                            
                                                                           
-+--------------------------------------------------------------------------+
 
 in which the trapdoor is just after the statement labeled 10. (This is
 particularly surprising because the label doesn't appear to have
@@ -2716,45 +1832,25 @@ later, in C-INTERCAL (see `*INTERCAL* <../I/INTERCAL.html>`__,
 `*retrocomputing* <../R/retrocomputing.html>`__); knowledgeable
 observers are still reeling from the shock.
 
---------------
 
-+------------------------------+----------------------------+------------------------------+
-| `Prev <cold-boot.html>`__    | `Up <../C.html>`__         |  `Next <comm-mode.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| cold boot                    | `Home <../index.html>`__   |  comm mode                   |
-+------------------------------+----------------------------+------------------------------+
+
+
 
 command key
+===========
 
-`Prev <comm-mode.html>`__ 
-
-C
-
- `Next <comment-out.html>`__
-
---------------
 
 **command key**: n.
 
 [Mac users] Syn. `*feature key* <../F/feature-key.html>`__.
 
---------------
 
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <comm-mode.html>`__    | `Up <../C.html>`__         |  `Next <comment-out.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| comm mode                    | `Home <../index.html>`__   |  comment out                   |
-+------------------------------+----------------------------+--------------------------------+
+
+
 
 comment out
+===========
 
-`Prev <command-key.html>`__ 
-
-C
-
- `Next <Commonwealth-Hackish.html>`__
-
---------------
 
 **comment out**: vt.
 
@@ -2767,23 +1863,12 @@ you want to bypass it in order to debug some other part of the code.
 Compare `*condition out* <condition-out.html>`__, usually the preferred
 technique in languages (such as `*C* <C.html>`__) that make it possible.
 
---------------
 
-+--------------------------------+----------------------------+-----------------------------------------+
-| `Prev <command-key.html>`__    | `Up <../C.html>`__         |  `Next <Commonwealth-Hackish.html>`__   |
-+--------------------------------+----------------------------+-----------------------------------------+
-| command key                    | `Home <../index.html>`__   |  Commonwealth Hackish                   |
-+--------------------------------+----------------------------+-----------------------------------------+
+
 
 comm mode
+==========
 
-`Prev <COME-FROM.html>`__ 
-
-C
-
- `Next <command-key.html>`__
-
---------------
 
 **comm mode**: /kom mohd/, n.
 
@@ -2791,23 +1876,13 @@ C
 spelled with one or two m's] Syn. for `*talk
 mode* <../T/talk-mode.html>`__.
 
---------------
 
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <COME-FROM.html>`__    | `Up <../C.html>`__         |  `Next <command-key.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| COME FROM                    | `Home <../index.html>`__   |  command key                   |
-+------------------------------+----------------------------+--------------------------------+
+
 
 Commonwealth Hackish
+====================
 
-`Prev <comment-out.html>`__ 
 
-C
-
- `Next <compact.html>`__
-
---------------
 
 **Commonwealth Hackish**: n.
 
@@ -2873,23 +1948,12 @@ rays* <cosmic-rays.html>`__, `*crippleware* <crippleware.html>`__,
 `*SEX* <../S/SEX.html>`__, `*tweak* <../T/tweak.html>`__,
 `*womble* <../W/womble.html>`__, and `*xyzzy* <../X/xyzzy.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <comment-out.html>`__    | `Up <../C.html>`__         |  `Next <compact.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| comment out                    | `Home <../index.html>`__   |  compact                   |
-+--------------------------------+----------------------------+----------------------------+
+
 
 compact
+========
 
-`Prev <Commonwealth-Hackish.html>`__ 
-
-C
-
- `Next <compiler-jock.html>`__
-
---------------
 
 **compact**: adj.
 
@@ -2904,45 +1968,23 @@ through accreting `*feature* <../F/feature.html>`__\ s and
 design scheme (thus, some fans of `*Classic C* <Classic-C.html>`__
 maintain that ANSI C is no longer compact).
 
---------------
 
-+-----------------------------------------+----------------------------+----------------------------------+
-| `Prev <Commonwealth-Hackish.html>`__    | `Up <../C.html>`__         |  `Next <compiler-jock.html>`__   |
-+-----------------------------------------+----------------------------+----------------------------------+
-| Commonwealth Hackish                    | `Home <../index.html>`__   |  compiler jock                   |
-+-----------------------------------------+----------------------------+----------------------------------+
+
+
 
 compiler jock
+=============
 
-`Prev <compact.html>`__ 
-
-C
-
- `Next <compo.html>`__
-
---------------
 
 **compiler jock**: n.
 
 See `*jock* <../J/jock.html>`__ (sense 2).
 
---------------
 
-+----------------------------+----------------------------+--------------------------+
-| `Prev <compact.html>`__    | `Up <../C.html>`__         |  `Next <compo.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| compact                    | `Home <../index.html>`__   |  compo                   |
-+----------------------------+----------------------------+--------------------------+
 
 compo
+=====
 
-`Prev <compiler-jock.html>`__ 
-
-C
-
- `Next <compress.html>`__
-
---------------
 
 **compo**: n.
 
@@ -2956,23 +1998,13 @@ include `*intro* <../I/intro.html>`__ compos (4k or 64k demos), music
 compos, graphics compos, quick `*demo* <../D/demo.html>`__ compos (build
 a demo within 4 hours for example), etc.
 
---------------
 
-+----------------------------------+----------------------------+-----------------------------+
-| `Prev <compiler-jock.html>`__    | `Up <../C.html>`__         |  `Next <compress.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
-| compiler jock                    | `Home <../index.html>`__   |  compress                   |
-+----------------------------------+----------------------------+-----------------------------+
+
+
 
 compress
+========
 
-`Prev <compo.html>`__ 
-
-C
-
- `Next <CompuServe.html>`__
-
---------------
 
 **compress**: vt.
 
@@ -2986,46 +2018,24 @@ algorithm as described in “A Technique for High Performance Data
 Compression”, Terry A. Welch, *IEEE Computer*, vol. 17, no. 6 (June
 1984), pp. 8--19.
 
---------------
 
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <compo.html>`__    | `Up <../C.html>`__         |  `Next <CompuServe.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| compo                    | `Home <../index.html>`__   |  Compu$erve                   |
-+--------------------------+----------------------------+-------------------------------+
+
 
 Compu$erve
+==========
 
-`Prev <compress.html>`__ 
-
-C
-
- `Next <computer-confetti.html>`__
-
---------------
 
 **Compu$erve**: n.
 
 See `*CI$* <CIS.html>`__. Synonyms CompuSpend and Compu$pend are also
 reported.
 
---------------
 
-+-----------------------------+----------------------------+--------------------------------------+
-| `Prev <compress.html>`__    | `Up <../C.html>`__         |  `Next <computer-confetti.html>`__   |
-+-----------------------------+----------------------------+--------------------------------------+
-| compress                    | `Home <../index.html>`__   |  computer confetti                   |
-+-----------------------------+----------------------------+--------------------------------------+
 
 computer confetti
+=================
 
-`Prev <CompuServe.html>`__ 
 
-C
-
- `Next <computron.html>`__
-
---------------
 
 **computer confetti**: n.
 
@@ -3042,23 +2052,13 @@ stuff it describes is now quite rare, and (2) the term
 `*chad* <chad.html>`__, which was half-forgotten in 1990, has enjoyed a
 revival. —ESR]
 
---------------
 
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <CompuServe.html>`__    | `Up <../C.html>`__         |  `Next <computron.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| Compu$erve                    | `Home <../index.html>`__   |  computron                   |
-+-------------------------------+----------------------------+------------------------------+
+
+
 
 computron
+=========
 
-`Prev <computer-confetti.html>`__ 
-
-C
-
- `Next <con_.html>`__
-
---------------
 
 **computron**: /kom´pyoo·tron\`/, n.
 
@@ -3090,23 +2090,13 @@ stories by Larry Niven, the best known being *What Good is a Glass
 Dagger?*, in which magic is fueled by an exhaustible natural resource
 called *mana*.)
 
---------------
 
-+--------------------------------------+----------------------------+-------------------------+
-| `Prev <computer-confetti.html>`__    | `Up <../C.html>`__         |  `Next <con_.html>`__   |
-+--------------------------------------+----------------------------+-------------------------+
-| computer confetti                    | `Home <../index.html>`__   |  con                    |
-+--------------------------------------+----------------------------+-------------------------+
+
 
 condition out
+==============
 
-`Prev <con_.html>`__ 
 
-C
-
- `Next <condom.html>`__
-
---------------
 
 **condition out**: vt.
 
@@ -3117,23 +2107,13 @@ a conditional-compilation directive whose condition is always false. The
 `*bletcherous* <../B/bletcherous.html>`__) and **#endif** in C. Compare
 `*comment out* <comment-out.html>`__.
 
---------------
 
-+-------------------------+----------------------------+---------------------------+
-| `Prev <con_.html>`__    | `Up <../C.html>`__         |  `Next <condom.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| con                     | `Home <../index.html>`__   |  condom                   |
-+-------------------------+----------------------------+---------------------------+
 
 condom
+=======
 
-`Prev <condition-out.html>`__ 
 
-C
 
- `Next <confuser.html>`__
-
---------------
 
 **condom**: n.
 
@@ -3160,72 +2140,44 @@ in one of its parts. So named in the title of a ``comp.risks`` article
 by Gene Spafford during the Worm crisis, and again in the text of *The
 Internet Worm Program: An Analysis*, Purdue Technical Report CSD-TR-823.
 
---------------
 
-+----------------------------------+----------------------------+-----------------------------+
-| `Prev <condition-out.html>`__    | `Up <../C.html>`__         |  `Next <confuser.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
-| condition out                    | `Home <../index.html>`__   |  confuser                   |
-+----------------------------------+----------------------------+-----------------------------+
+
+
 
 confuser
+=========
 
-`Prev <condom.html>`__ 
-
-C
-
- `Next <connector-conspiracy.html>`__
-
---------------
 
 **confuser**: n.
 
 Common soundalike slang for ‘computer’. Usually encountered in compounds
 such as confuser room, personal confuser, confuser guru. Usage: silly.
 
---------------
 
-+---------------------------+----------------------------+-----------------------------------------+
-| `Prev <condom.html>`__    | `Up <../C.html>`__         |  `Next <connector-conspiracy.html>`__   |
-+---------------------------+----------------------------+-----------------------------------------+
-| condom                    | `Home <../index.html>`__   |  connector conspiracy                   |
-+---------------------------+----------------------------+-----------------------------------------+
+
+
 
 con
+===
 
-`Prev <computron.html>`__ 
-
-C
-
- `Next <condition-out.html>`__
-
---------------
 
 **con**: n.
 
 [from SF fandom] A science-fiction convention. Not used of other sorts
 of conventions, such as professional meetings. This term, unlike many
 others imported from SF-fan slang, is widely recognized even by hackers
-who aren't `*fan* <../F/fan.html>`__\ s. “We'd been corresponding on the
+who aren't `*fans* <../F/fan.html>`__. “We'd been corresponding on the
 net for months, then we met face-to-face at a con.”
 
---------------
 
-+------------------------------+----------------------------+----------------------------------+
-| `Prev <computron.html>`__    | `Up <../C.html>`__         |  `Next <condition-out.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
-| computron                    | `Home <../index.html>`__   |  condition out                   |
-+------------------------------+----------------------------+----------------------------------+
+
+
 
 connector conspiracy
+====================
 
-`Prev <confuser.html>`__ 
 
-C
 
- `Next <cons.html>`__
-
---------------
 
 **connector conspiracy**: n.
 
@@ -3249,23 +2201,14 @@ somewhat into disuse, to be replaced by the observation that “Standards
 are great! There are so many of them to choose from!” Compare `*backward
 combatability* <../B/backward-combatability.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <confuser.html>`__    | `Up <../C.html>`__         |  `Next <cons.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| confuser                    | `Home <../index.html>`__   |  cons                   |
-+-----------------------------+----------------------------+-------------------------+
+
 
 cons
+====
 
-`Prev <connector-conspiracy.html>`__ 
 
-C
 
- `Next <considered-harmful.html>`__
-
---------------
 
 **cons**: /konz/, /kons/
 
@@ -3284,23 +2227,11 @@ result of a cons is an object, it can be used to build binary trees of
 any shape and complexity. Hackers think of it as a sort of universal
 constructor, and that is where the jargon meanings spring from.
 
---------------
 
-+-----------------------------------------+----------------------------+---------------------------------------+
-| `Prev <connector-conspiracy.html>`__    | `Up <../C.html>`__         |  `Next <considered-harmful.html>`__   |
-+-----------------------------------------+----------------------------+---------------------------------------+
-| connector conspiracy                    | `Home <../index.html>`__   |  considered harmful                   |
-+-----------------------------------------+----------------------------+---------------------------------------+
 
 considered harmful
+===================
 
-`Prev <cons.html>`__ 
-
-C
-
- `Next <console.html>`__
-
---------------
 
 **considered harmful**: adj.
 
@@ -3322,23 +2253,11 @@ wrong, but use of such titles has remained as a persistent minor in-joke
 (the ‘considered silly’ found at various places in this lexicon is
 related).
 
---------------
 
-+-------------------------+----------------------------+----------------------------+
-| `Prev <cons.html>`__    | `Up <../C.html>`__         |  `Next <console.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| cons                    | `Home <../index.html>`__   |  console                   |
-+-------------------------+----------------------------+----------------------------+
+
 
 console
-
-`Prev <considered-harmful.html>`__ 
-
-C
-
- `Next <console-jockey.html>`__
-
---------------
+========
 
 **console**: n.
 
@@ -3355,45 +2274,25 @@ Unix, /dev/console).
 to character-only terminals talking to a serial port). Typically only
 the console can do real graphics or run `*X* <../X/X.html>`__.
 
---------------
 
-+---------------------------------------+----------------------------+-----------------------------------+
-| `Prev <considered-harmful.html>`__    | `Up <../C.html>`__         |  `Next <console-jockey.html>`__   |
-+---------------------------------------+----------------------------+-----------------------------------+
-| considered harmful                    | `Home <../index.html>`__   |  console jockey                   |
-+---------------------------------------+----------------------------+-----------------------------------+
+
+
 
 console jockey
+===============
 
-`Prev <console.html>`__ 
-
-C
-
- `Next <content-free.html>`__
-
---------------
 
 **console jockey**: n.
 
 See `*terminal junkie* <../T/terminal-junkie.html>`__.
 
---------------
 
-+----------------------------+----------------------------+---------------------------------+
-| `Prev <console.html>`__    | `Up <../C.html>`__         |  `Next <content-free.html>`__   |
-+----------------------------+----------------------------+---------------------------------+
-| console                    | `Home <../index.html>`__   |  content-free                   |
-+----------------------------+----------------------------+---------------------------------+
+
 
 content-free
+=============
 
-`Prev <console-jockey.html>`__ 
 
-C
-
- `Next <control-C.html>`__
-
---------------
 
 **content-free**: adj.
 
@@ -3409,23 +2308,13 @@ glossies* <../F/four-color-glossies.html>`__.) “He gave a talk on the
 implications of electronic networks for postmodernism and the
 fin-de-siecle aesthetic. It was content-free.”
 
---------------
 
-+-----------------------------------+----------------------------+------------------------------+
-| `Prev <console-jockey.html>`__    | `Up <../C.html>`__         |  `Next <control-C.html>`__   |
-+-----------------------------------+----------------------------+------------------------------+
-| console jockey                    | `Home <../index.html>`__   |  control-C                   |
-+-----------------------------------+----------------------------+------------------------------+
+
 
 control-C
+==========
 
-`Prev <content-free.html>`__ 
 
-C
-
- `Next <control-O.html>`__
-
---------------
 
 **control-C**: vi.
 
@@ -3435,23 +2324,12 @@ many operating systems to abort a running program. Considered silly.
 2. interj. Among BSD Unix hackers, the canonical humorous response to
 “Give me a break!”
 
---------------
 
-+---------------------------------+----------------------------+------------------------------+
-| `Prev <content-free.html>`__    | `Up <../C.html>`__         |  `Next <control-O.html>`__   |
-+---------------------------------+----------------------------+------------------------------+
-| content-free                    | `Home <../index.html>`__   |  control-O                   |
-+---------------------------------+----------------------------+------------------------------+
+
 
 control-O
+=========
 
-`Prev <control-C.html>`__ 
-
-C
-
- `Next <control-Q.html>`__
-
---------------
 
 **control-O**: vi.
 
@@ -3461,23 +2339,14 @@ that you are not interested in hearing anything more from that person,
 at least on that topic; a standard response to someone who is flaming.
 Considered silly. Compare `*control-S* <control-S.html>`__.
 
---------------
 
-+------------------------------+----------------------------+------------------------------+
-| `Prev <control-C.html>`__    | `Up <../C.html>`__         |  `Next <control-Q.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| control-C                    | `Home <../index.html>`__   |  control-Q                   |
-+------------------------------+----------------------------+------------------------------+
+
+
 
 control-Q
+==========
 
-`Prev <control-O.html>`__ 
 
-C
-
- `Next <control-S.html>`__
-
---------------
 
 **control-Q**: vi.
 
@@ -3485,23 +2354,15 @@ C
 pronunciation /X-on/ is therefore also used), used to undo a previous
 `*control-S* <control-S.html>`__.
 
---------------
 
-+------------------------------+----------------------------+------------------------------+
-| `Prev <control-O.html>`__    | `Up <../C.html>`__         |  `Next <control-S.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| control-O                    | `Home <../index.html>`__   |  control-S                   |
-+------------------------------+----------------------------+------------------------------+
+
+
 
 control-S
+=========
 
-`Prev <control-Q.html>`__ 
 
-C
 
- `Next <Conways-Law.html>`__
-
---------------
 
 **control-S**: vi.
 
@@ -3512,23 +2373,14 @@ talking (perhaps because you are on the phone) but will be allowed to
 continue when you're ready to listen to him — as opposed to control-O,
 which has more of the meaning of “Shut up.” Considered silly.
 
---------------
 
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <control-Q.html>`__    | `Up <../C.html>`__         |  `Next <Conways-Law.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| control-Q                    | `Home <../index.html>`__   |  Conway's Law                  |
-+------------------------------+----------------------------+--------------------------------+
+
 
 Conway's Law
+=============
 
-`Prev <control-S.html>`__ 
 
-C
 
- `Next <cookbook.html>`__
-
---------------
 
 **Conway's Law**: prov.
 
@@ -3549,23 +2401,14 @@ Cheatham's amendment of Conway's Law: “If a group of N persons
 implements a COBOL compiler, there will be N-1 passes. Someone in the
 group has to be the manager.”
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <control-S.html>`__    | `Up <../C.html>`__         |  `Next <cookbook.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| control-S                    | `Home <../index.html>`__   |  cookbook                   |
-+------------------------------+----------------------------+-----------------------------+
+
+
 
 cookbook
+========
 
-`Prev <Conways-Law.html>`__ 
 
-C
-
- `Next <cooked-mode.html>`__
-
---------------
 
 **cookbook**: n.
 
@@ -3577,23 +2420,14 @@ hackers trying to `*monkey up* <../M/monkey-up.html>`__ small programs
 in unknown languages. This function is analogous to the role of
 phrasebooks in human languages.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <Conways-Law.html>`__    | `Up <../C.html>`__         |  `Next <cooked-mode.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| Conway's Law                   | `Home <../index.html>`__   |  cooked mode                   |
-+--------------------------------+----------------------------+--------------------------------+
+
+
 
 cooked mode
+===========
 
-`Prev <cookbook.html>`__ 
 
-C
-
- `Next <cookie.html>`__
-
---------------
 
 **cooked mode**: n.
 
@@ -3608,23 +2442,15 @@ widely along with the C language and other Unix exports. Most generally,
 cooked mode may refer to any mode of a system that does extensive
 preprocessing before presenting data to a program.
 
---------------
 
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <cookbook.html>`__    | `Up <../C.html>`__         |  `Next <cookie.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| cookbook                    | `Home <../index.html>`__   |  cookie                   |
-+-----------------------------+----------------------------+---------------------------+
+
+
 
 cookie bear
+===========
 
-`Prev <cookie.html>`__ 
 
-C
 
- `Next <cookie-file.html>`__
-
---------------
 
 **cookie bear**: n. obs.
 
@@ -3639,21 +2465,12 @@ Williams. The sketches would always end with Williams shrieking (and I
 don't mean figuratively), ‘No cookies! Not now, not ever...NEVER!!!’ And
 the bear would fall down. Great stuff.”
 
---------------
 
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <cookie.html>`__    | `Up <../C.html>`__         |  `Next <cookie-file.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| cookie                    | `Home <../index.html>`__   |  cookie file                   |
-+---------------------------+----------------------------+--------------------------------+
+
+
 
 cookie file
-
-`Prev <cookie-bear.html>`__ 
-
-C
-
- `Next <cookie-jar.html>`__
+===========
 
 --------------
 
@@ -3664,23 +2481,11 @@ format that facilitates retrieval by a fortune program. There are
 several different cookie files in public distribution, and site admins
 often assemble their own from various sources including this lexicon.
 
---------------
 
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <cookie-bear.html>`__    | `Up <../C.html>`__         |  `Next <cookie-jar.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| cookie bear                    | `Home <../index.html>`__   |  cookie jar                   |
-+--------------------------------+----------------------------+-------------------------------+
 
 cookie
+======
 
-`Prev <cooked-mode.html>`__ 
-
-C
-
- `Next <cookie-bear.html>`__
-
---------------
 
 **cookie**: n.
 
@@ -3693,23 +2498,13 @@ cookie* <../M/magic-cookie.html>`__; see also `*fortune
 cookie* <../F/fortune-cookie.html>`__. Now mainstream in the specific
 sense of web-browser cookies.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <cooked-mode.html>`__    | `Up <../C.html>`__         |  `Next <cookie-bear.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| cooked mode                    | `Home <../index.html>`__   |  cookie bear                   |
-+--------------------------------+----------------------------+--------------------------------+
+
+
 
 cookie jar
+==========
 
-`Prev <cookie-file.html>`__ 
-
-C
-
- `Next <cookie-monster.html>`__
-
---------------
 
 **cookie jar**: n.
 
@@ -3720,23 +2515,13 @@ number* <../M/magic-number.html>`__ in the jar. Programs can inquire
 after the presence or otherwise of other programs by searching the
 contents of the jar.
 
---------------
 
-+--------------------------------+----------------------------+-----------------------------------+
-| `Prev <cookie-file.html>`__    | `Up <../C.html>`__         |  `Next <cookie-monster.html>`__   |
-+--------------------------------+----------------------------+-----------------------------------+
-| cookie file                    | `Home <../index.html>`__   |  cookie monster                   |
-+--------------------------------+----------------------------+-----------------------------------+
+
+
 
 cookie monster
+================
 
-`Prev <cookie-jar.html>`__ 
-
-C
-
- `Next <copious-free-time.html>`__
-
---------------
 
 **cookie monster**: n.
 
@@ -3755,23 +2540,13 @@ right, in several different versions. See also
 appears to be a `*retcon* <../R/retcon.html>`__; the original term was
 `*cookie bear* <cookie-bear.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+--------------------------------------+
-| `Prev <cookie-jar.html>`__    | `Up <../C.html>`__         |  `Next <copious-free-time.html>`__   |
-+-------------------------------+----------------------------+--------------------------------------+
-| cookie jar                    | `Home <../index.html>`__   |  copious free time                   |
-+-------------------------------+----------------------------+--------------------------------------+
+
+
 
 copious free time
+=================
 
-`Prev <cookie-monster.html>`__ 
-
-C
-
- `Next <copper.html>`__
-
---------------
 
 **copious free time**: n.
 
@@ -3790,23 +2565,12 @@ implementation of `*chrome* <chrome.html>`__, or the stroking of
 `*suit* <../S/suit.html>`__\ s. “I'll get back to him on that feature in
 my copious free time.”
 
---------------
 
-+-----------------------------------+----------------------------+---------------------------+
-| `Prev <cookie-monster.html>`__    | `Up <../C.html>`__         |  `Next <copper.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| cookie monster                    | `Home <../index.html>`__   |  copper                   |
-+-----------------------------------+----------------------------+---------------------------+
+
 
 copper
+======
 
-`Prev <copious-free-time.html>`__ 
-
-C
-
- `Next <copy-protection.html>`__
-
---------------
 
 **copper**: n.
 
@@ -3814,23 +2578,11 @@ Conventional electron-carrying network cable with a core conductor of
 copper — or aluminum! Opposed to `*light pipe* <../L/light-pipe.html>`__
 or, say, a short-range microwave link.
 
---------------
 
-+--------------------------------------+----------------------------+------------------------------------+
-| `Prev <copious-free-time.html>`__    | `Up <../C.html>`__         |  `Next <copy-protection.html>`__   |
-+--------------------------------------+----------------------------+------------------------------------+
-| copious free time                    | `Home <../index.html>`__   |  copy protection                   |
-+--------------------------------------+----------------------------+------------------------------------+
 
 copybroke
+=========
 
-`Prev <copy-protection.html>`__ 
-
-C
-
- `Next <copycenter.html>`__
-
---------------
 
 **copybroke**: /kop´ee·brohk/, adj.
 
@@ -3842,23 +2594,14 @@ scheme disabled. Syn. `*copywronged* <copywronged.html>`__.
 bug that has confused the anti-piracy check. See also `*copy
 protection* <copy-protection.html>`__.
 
---------------
 
-+------------------------------------+----------------------------+-------------------------------+
-| `Prev <copy-protection.html>`__    | `Up <../C.html>`__         |  `Next <copycenter.html>`__   |
-+------------------------------------+----------------------------+-------------------------------+
-| copy protection                    | `Home <../index.html>`__   |  copycenter                   |
-+------------------------------------+----------------------------+-------------------------------+
+
 
 copycenter
+===========
 
-`Prev <copybroke.html>`__ 
 
-C
 
- `Next <copyleft.html>`__
-
---------------
 
 **copycenter**: n.
 
@@ -3872,23 +2615,13 @@ making sure they can't lock it up; and then Berkeley had what we called
 ‘copycenter’, which is ‘take it down to the copy center and make as many
 copies as you want’”.
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <copybroke.html>`__    | `Up <../C.html>`__         |  `Next <copyleft.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| copybroke                    | `Home <../index.html>`__   |  copyleft                   |
-+------------------------------+----------------------------+-----------------------------+
+
 
 copyleft
+========
 
-`Prev <copycenter.html>`__ 
 
-C
-
- `Next <copyparty.html>`__
-
---------------
 
 **copyleft**: /kop´ee·left/, n.
 
@@ -3902,23 +2635,14 @@ Virus* <../G/General-Public-Virus.html>`__).
 
 2. By extension, any copyright notice intended to achieve similar aims.
 
---------------
 
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <copycenter.html>`__    | `Up <../C.html>`__         |  `Next <copyparty.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| copycenter                    | `Home <../index.html>`__   |  copyparty                   |
-+-------------------------------+----------------------------+------------------------------+
+
+
 
 copyparty
+=========
 
-`Prev <copyleft.html>`__ 
 
-C
-
- `Next <copywronged.html>`__
-
---------------
 
 **copyparty**: n.
 
@@ -3929,68 +2653,41 @@ less common as the Internet makes communication easier. The demoscene
 has gradually evolved the `*demoparty* <../D/demoparty.html>`__ to
 replace it.
 
---------------
 
-+-----------------------------+----------------------------+--------------------------------+
-| `Prev <copyleft.html>`__    | `Up <../C.html>`__         |  `Next <copywronged.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
-| copyleft                    | `Home <../index.html>`__   |  copywronged                   |
-+-----------------------------+----------------------------+--------------------------------+
+
 
 copy protection
+===============
 
-`Prev <copper.html>`__ 
 
-C
 
- `Next <copybroke.html>`__
-
---------------
 
 **copy protection**: n.
 
 A class of methods for preventing incompetent pirates from stealing
 software and legitimate customers from using it. Considered silly.
 
---------------
 
-+---------------------------+----------------------------+------------------------------+
-| `Prev <copper.html>`__    | `Up <../C.html>`__         |  `Next <copybroke.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| copper                    | `Home <../index.html>`__   |  copybroke                   |
-+---------------------------+----------------------------+------------------------------+
+
+
 
 copywronged
+===========
 
-`Prev <copyparty.html>`__ 
 
-C
 
- `Next <core.html>`__
-
---------------
 
 **copywronged**: /kop´ee·rongd/, adj.
 
 [play on copyright] Syn. for `*copybroke* <copybroke.html>`__.
 
---------------
 
-+------------------------------+----------------------------+-------------------------+
-| `Prev <copyparty.html>`__    | `Up <../C.html>`__         |  `Next <core.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| copyparty                    | `Home <../index.html>`__   |  core                   |
-+------------------------------+----------------------------+-------------------------+
+
+
 
 core cancer
+============
 
-`Prev <core.html>`__ 
-
-C
-
- `Next <core-dump.html>`__
-
---------------
 
 **core cancer**: n.
 
@@ -3998,23 +2695,13 @@ C
 `*leak* <../L/leak.html>`__ — like a cancer, it kills by crowding out
 productive tissue.
 
---------------
 
-+-------------------------+----------------------------+------------------------------+
-| `Prev <core.html>`__    | `Up <../C.html>`__         |  `Next <core-dump.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| core                    | `Home <../index.html>`__   |  core dump                   |
-+-------------------------+----------------------------+------------------------------+
+
 
 core dump
+=========
 
-`Prev <core-cancer.html>`__ 
 
-C
-
- `Next <core-leak.html>`__
-
---------------
 
 **core dump**: n.
 
@@ -4034,33 +2721,18 @@ length; esp. in apology: “Sorry, I dumped core on you”.
 sense 1). Hence, spewing all one knows about a topic (syn. `*brain
 dump* <../B/brain-dump.html>`__), esp. in a lecture or answer to an exam
 question. “Short, concise answers are better than core dumps” (from the
-instructions to an exam at Columbia). See `*core* <core.html>`__.
+instructions to an exam at Columbia). See `*core* <C.html#core>`__.
 
-|image0|
+.. image:: ../_static/76-07-18.png
+
 
 A `*core dump* <core-dump.html>`__ lands our hero in hot water.
 
 (This is the last cartoon in the Crunchly saga. The previous cartoon was
 `76-05-01 <../S/Stone-Age.html#crunchly76-05-01>`__.)
 
---------------
-
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <core-cancer.html>`__    | `Up <../C.html>`__         |  `Next <core-leak.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| core cancer                    | `Home <../index.html>`__   |  core leak                   |
-+--------------------------------+----------------------------+------------------------------+
-
-.. |image0| image:: ../graphics/76-07-18.png
 core
-
-`Prev <copywronged.html>`__ 
-
-C
-
- `Next <core-cancer.html>`__
-
---------------
+====
 
 **core**: n.
 
@@ -4073,45 +2745,21 @@ dump* <core-dump.html>`__ and the core image or core file produced by
 one are terms in favor. Some varieties of Commonwealth hackish prefer
 `*store* <../S/store.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <copywronged.html>`__    | `Up <../C.html>`__         |  `Next <core-cancer.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| copywronged                    | `Home <../index.html>`__   |  core cancer                   |
-+--------------------------------+----------------------------+--------------------------------+
 
 core leak
+=========
 
-`Prev <core-dump.html>`__ 
-
-C
-
- `Next <Core-Wars.html>`__
-
---------------
 
 **core leak**: n.
 
 Syn. `*memory leak* <../M/memory-leak.html>`__.
 
---------------
 
-+------------------------------+----------------------------+------------------------------+
-| `Prev <core-dump.html>`__    | `Up <../C.html>`__         |  `Next <Core-Wars.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| core dump                    | `Home <../index.html>`__   |  Core Wars                   |
-+------------------------------+----------------------------+------------------------------+
+
+
 
 Core Wars
-
-`Prev <core-leak.html>`__ 
-
-C
-
- `Next <cosmic-rays.html>`__
-
---------------
+==========
 
 **Core Wars**: n.
 
@@ -4127,23 +2775,11 @@ not involved). Their original game was called ‘Darwin’ and ran on a IBM
 modern game, do a web search for the ‘rec.games.corewar FAQ’ or surf to
 the `King Of The Hill <http://www.koth.org/>`__ site.
 
---------------
 
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <core-leak.html>`__    | `Up <../C.html>`__         |  `Next <cosmic-rays.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| core leak                    | `Home <../index.html>`__   |  cosmic rays                   |
-+------------------------------+----------------------------+--------------------------------+
+
 
 cosmic rays
-
-`Prev <Core-Wars.html>`__ 
-
-C
-
- `Next <cough-and-die.html>`__
-
---------------
+===========
 
 **cosmic rays**: n.
 
@@ -4176,23 +2812,13 @@ distributed through the earth's crust, with the statistically
 insignificant exception of uranium lodes) it became obvious that one has
 to design memories to withstand these hits.
 
---------------
 
-+------------------------------+----------------------------+----------------------------------+
-| `Prev <Core-Wars.html>`__    | `Up <../C.html>`__         |  `Next <cough-and-die.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
-| Core Wars                    | `Home <../index.html>`__   |  cough and die                   |
-+------------------------------+----------------------------+----------------------------------+
+
+
 
 cough and die
+=============
 
-`Prev <cosmic-rays.html>`__ 
-
-C
-
- `Next <courier.html>`__
-
---------------
 
 **cough and die**: v.
 
@@ -4203,23 +2829,13 @@ printable, so it coughed and died.” Compare `*die* <../D/die.html>`__,
 `*die horribly* <../D/die-horribly.html>`__, `*scream and
 die* <../S/scream-and-die.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <cosmic-rays.html>`__    | `Up <../C.html>`__         |  `Next <courier.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| cosmic rays                    | `Home <../index.html>`__   |  courier                   |
-+--------------------------------+----------------------------+----------------------------+
+
+
 
 courier
+=======
 
-`Prev <cough-and-die.html>`__ 
-
-C
-
- `Next <cow-orker.html>`__
-
---------------
 
 **courier**
 
@@ -4231,23 +2847,13 @@ recognize this term but don't use it themselves, as the act is not part
 of their culture. See also `*warez d00dz* <../W/warez-d00dz.html>`__,
 `*cracker* <cracker.html>`__, `*elite* <../E/elite.html>`__.
 
---------------
 
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <cough-and-die.html>`__    | `Up <../C.html>`__         |  `Next <cow-orker.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| cough and die                    | `Home <../index.html>`__   |  cow orker                   |
-+----------------------------------+----------------------------+------------------------------+
+
+
 
 cowboy
+======
 
-`Prev <cow-orker.html>`__ 
-
-C
-
- `Next <CP-M.html>`__
-
---------------
 
 **cowboy**: n.
 
@@ -4255,23 +2861,12 @@ C
 for `*hacker* <../H/hacker.html>`__. It is reported that at Sun this
 word is often said with reverence.
 
---------------
 
-+------------------------------+----------------------------+-------------------------+
-| `Prev <cow-orker.html>`__    | `Up <../C.html>`__         |  `Next <CP-M.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| cow orker                    | `Home <../index.html>`__   |  CP/M                   |
-+------------------------------+----------------------------+-------------------------+
+
 
 cow orker
+=========
 
-`Prev <courier.html>`__ 
-
-C
-
- `Next <cowboy.html>`__
-
---------------
 
 **cow orker**: n.
 
@@ -4284,23 +2879,11 @@ back to a 1989 `*sig block* <../S/sig-block.html>`__. Compare
 `*hing* <../H/hing.html>`__, `*grilf* <../G/grilf.html>`__,
 `*filk* <../F/filk.html>`__, `*newsfroup* <../N/newsfroup.html>`__.
 
---------------
 
-+----------------------------+----------------------------+---------------------------+
-| `Prev <courier.html>`__    | `Up <../C.html>`__         |  `Next <cowboy.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| courier                    | `Home <../index.html>`__   |  cowboy                   |
-+----------------------------+----------------------------+---------------------------+
+
 
 C++
-
-`Prev <C-ampersand-C.html>`__ 
-
-C
-
- `Next <calculator.html>`__
-
---------------
+===
 
 **C++**: /C'·pluhs·pluhs/, n.
 
@@ -4320,28 +2903,15 @@ C++, there is a much smaller and cleaner language struggling to get
 out.” [Many hackers would now add “Yes, and it's called
 `*Java* <../J/Java.html>`__\ ” —ESR]
 
-|image0|
+.. image:: ../_static/fortran.png
+
 
 Nowadays we say this of C++.
 
---------------
 
-+----------------------------------+----------------------------+-------------------------------+
-| `Prev <C-ampersand-C.html>`__    | `Up <../C.html>`__         |  `Next <calculator.html>`__   |
-+----------------------------------+----------------------------+-------------------------------+
-| C&C                              | `Home <../index.html>`__   |  calculator                   |
-+----------------------------------+----------------------------+-------------------------------+
-
-.. |image0| image:: ../graphics/fortran.png
 CP/M
+====
 
-`Prev <cowboy.html>`__ 
-
-C
-
- `Next <CPU-Wars.html>`__
-
---------------
 
 **CP/M**: /C·P·M/, n.
 
@@ -4361,23 +2931,13 @@ Many of CP/M's features and conventions strongly resemble those of early
 `*MS-DOS* <../M/MS-DOS.html>`__, `*operating
 system* <../O/operating-system.html>`__.
 
---------------
 
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <cowboy.html>`__    | `Up <../C.html>`__         |  `Next <CPU-Wars.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| cowboy                    | `Home <../index.html>`__   |  CPU Wars                   |
-+---------------------------+----------------------------+-----------------------------+
+
 
 C Programmer's Disease
+======================
 
-`Prev <C.html>`__ 
 
-C
-
- `Next <C-ampersand-C.html>`__
-
---------------
 
 **C Programmer's Disease**: n.
 
@@ -4395,23 +2955,12 @@ core* <../F/fandango-on-core.html>`__. In severe cases of the disease,
 the programmer cannot comprehend why each fix of this kind seems only to
 further disgruntle the user.
 
---------------
 
-+----------------------+----------------------------+----------------------------------+
-| `Prev <C.html>`__    | `Up <../C.html>`__         |  `Next <C-ampersand-C.html>`__   |
-+----------------------+----------------------------+----------------------------------+
-| C                    | `Home <../index.html>`__   |  C&C                             |
-+----------------------+----------------------------+----------------------------------+
+
 
 CPU Wars
+========
 
-`Prev <CP-M.html>`__ 
-
-C
-
- `Next <crack.html>`__
-
---------------
 
 **CPU Wars**: /C·P·U worz/, n.
 
@@ -4431,23 +2980,8 @@ true hackerdom in the IBM archipelago). The lower loop of the B in the
 IBM logo, it is said, had been carefully whited out. See `*eat flaming
 death* <../E/eat-flaming-death.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <CP-M.html>`__    | `Up <../C.html>`__         |  `Next <crack.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| CP/M                    | `Home <../index.html>`__   |  crack                   |
-+-------------------------+----------------------------+--------------------------+
-
 cracker
-
-`Prev <crack-root.html>`__ 
-
-C
-
- `Next <cracking.html>`__
-
---------------
+=======
 
 **cracker**: n.
 
@@ -4495,23 +3029,12 @@ hacker* <../D/dark-side-hacker.html>`__, and `*hacker
 ethic* <../H/hacker-ethic.html>`__. For a portrait of the typical
 teenage cracker, see `*warez d00dz* <../W/warez-d00dz.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <crack-root.html>`__    | `Up <../C.html>`__         |  `Next <cracking.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| crack root                    | `Home <../index.html>`__   |  cracking                   |
-+-------------------------------+----------------------------+-----------------------------+
+
 
 crack
+=====
 
-`Prev <CPU-Wars.html>`__ 
-
-C
-
- `Next <crack-root.html>`__
-
---------------
 
 **crack**
 
@@ -4531,23 +3054,10 @@ limited program.
 
 4. An `*exploit* <../E/exploit.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+-------------------------------+
-| `Prev <CPU-Wars.html>`__    | `Up <../C.html>`__         |  `Next <crack-root.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
-| CPU Wars                    | `Home <../index.html>`__   |  crack root                   |
-+-----------------------------+----------------------------+-------------------------------+
 
 cracking
-
-`Prev <cracker.html>`__ 
-
-C
-
- `Next <crank.html>`__
-
---------------
+========
 
 **cracking**: n.
 
@@ -4561,23 +3071,13 @@ This entry used to say 'mediocre', but the spread of
 `*rootkit* <../R/rootkit.html>`__ and other automated cracking has
 depressed the average level of skill among crackers.
 
---------------
 
-+----------------------------+----------------------------+--------------------------+
-| `Prev <cracker.html>`__    | `Up <../C.html>`__         |  `Next <crank.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| cracker                    | `Home <../index.html>`__   |  crank                   |
-+----------------------------+----------------------------+--------------------------+
+
 
 crack root
+==========
 
-`Prev <crack.html>`__ 
 
-C
-
- `Next <cracker.html>`__
-
---------------
 
 **crack root**: v.
 
@@ -4585,23 +3085,11 @@ C
 `*root* <../R/root.html>`__ privileges thereby; see
 `*cracking* <cracking.html>`__.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <crack.html>`__    | `Up <../C.html>`__         |  `Next <cracker.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| crack                    | `Home <../index.html>`__   |  cracker                   |
-+--------------------------+----------------------------+----------------------------+
+
 
 crank
-
-`Prev <cracking.html>`__ 
-
-C
-
- `Next <crapplet.html>`__
-
---------------
+=====
 
 **crank**: vt.
 
@@ -4610,23 +3098,12 @@ machine, especially sustained performance. “This box cranks (or, cranks
 at) about 6 megaflops, with a burst mode of twice that on vectorized
 operations.”
 
---------------
 
-+-----------------------------+----------------------------+-----------------------------+
-| `Prev <cracking.html>`__    | `Up <../C.html>`__         |  `Next <crapplet.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
-| cracking                    | `Home <../index.html>`__   |  crapplet                   |
-+-----------------------------+----------------------------+-----------------------------+
+
 
 crapplet
+========
 
-`Prev <crank.html>`__ 
-
-C
-
- `Next <CrApTeX.html>`__
-
---------------
 
 **crapplet**: n.
 
@@ -4634,23 +3111,11 @@ C
 attached to a web page that doesn't work or even crashes your browser.
 Also spelled ‘craplet’.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <crank.html>`__    | `Up <../C.html>`__         |  `Next <CrApTeX.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| crank                    | `Home <../index.html>`__   |  CrApTeX                   |
-+--------------------------+----------------------------+----------------------------+
+
 
 CrApTeX
-
-`Prev <crapplet.html>`__ 
-
-C
-
- `Next <crash.html>`__
-
---------------
+=======
 
 **CrApTeX**: /krap´tekh/, n.
 
@@ -4663,23 +3128,13 @@ Computer Modern fonts are used) it generates vast output files. See
 `*religious issues* <../R/religious-issues.html>`__,
 `*TeX* <../T/TeX.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <crapplet.html>`__    | `Up <../C.html>`__         |  `Next <crash.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| crapplet                    | `Home <../index.html>`__   |  crash                   |
-+-----------------------------+----------------------------+--------------------------+
+
+
 
 crash and burn
+==============
 
-`Prev <crash.html>`__ 
-
-C
-
- `Next <crawling-horror.html>`__
-
---------------
 
 **crash and burn**: vi.,n.
 
@@ -4692,23 +3147,13 @@ not for development). The implication is that it wouldn't be such a
 disaster if that machine crashed, since only the testers would be
 inconvenienced.
 
---------------
 
-+--------------------------+----------------------------+------------------------------------+
-| `Prev <crash.html>`__    | `Up <../C.html>`__         |  `Next <crawling-horror.html>`__   |
-+--------------------------+----------------------------+------------------------------------+
-| crash                    | `Home <../index.html>`__   |  crawling horror                   |
-+--------------------------+----------------------------+------------------------------------+
+
+
 
 crash
+=====
 
-`Prev <CrApTeX.html>`__ 
-
-C
-
- `Next <crash-and-burn.html>`__
-
---------------
 
 **crash**
 
@@ -4732,23 +3177,13 @@ the system.”
 run* <../H/hacking-run.html>`__; see `*gronk
 out* <../G/gronk-out.html>`__.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <CrApTeX.html>`__    | `Up <../C.html>`__         |  `Next <crash-and-burn.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| CrApTeX                    | `Home <../index.html>`__   |  crash and burn                   |
-+----------------------------+----------------------------+-----------------------------------+
+
+
 
 crawling horror
+===============
 
-`Prev <crash-and-burn.html>`__ 
-
-C
-
- `Next <CRC-handbook.html>`__
-
---------------
 
 **crawling horror**: n.
 
@@ -4771,23 +3206,12 @@ going insane with fear, is what hackers are referring to with this
 phrase when they use it for horribly bad code. Compare
 `*cthulhic* <cthulhic.html>`__.
 
---------------
+.. index:: cthulhu, Lovecraft, H.P. Lovecraft, Elder Gods, Crawling Horror
 
-+-----------------------------------+----------------------------+---------------------------------+
-| `Prev <crash-and-burn.html>`__    | `Up <../C.html>`__         |  `Next <CRC-handbook.html>`__   |
-+-----------------------------------+----------------------------+---------------------------------+
-| crash and burn                    | `Home <../index.html>`__   |  CRC handbook                   |
-+-----------------------------------+----------------------------+---------------------------------+
+
 
 CRC handbook
-
-`Prev <crawling-horror.html>`__ 
-
-C
-
- `Next <creationism.html>`__
-
---------------
+============
 
 **CRC handbook**
 
@@ -4805,23 +3229,11 @@ at a moment's notice. On hackers' bookshelves, the CRC handbook is
 rather likely to keep company with an unabridged Oxford English
 Dictionary and a good atlas.
 
---------------
 
-+------------------------------------+----------------------------+--------------------------------+
-| `Prev <crawling-horror.html>`__    | `Up <../C.html>`__         |  `Next <creationism.html>`__   |
-+------------------------------------+----------------------------+--------------------------------+
-| crawling horror                    | `Home <../index.html>`__   |  creationism                   |
-+------------------------------------+----------------------------+--------------------------------+
+
 
 creationism
-
-`Prev <CRC-handbook.html>`__ 
-
-C
-
- `Next <creep.html>`__
-
---------------
+===========
 
 **creationism**: n.
 
@@ -4836,23 +3248,13 @@ Unfortunately, because these truths don't fit the planning models
 beloved of `*management* <../M/management.html>`__, they are generally
 ignored.
 
---------------
 
-+---------------------------------+----------------------------+--------------------------+
-| `Prev <CRC-handbook.html>`__    | `Up <../C.html>`__         |  `Next <creep.html>`__   |
-+---------------------------------+----------------------------+--------------------------+
-| CRC handbook                    | `Home <../index.html>`__   |  creep                   |
-+---------------------------------+----------------------------+--------------------------+
+
+
 
 creep
+=====
 
-`Prev <creationism.html>`__ 
-
-C
-
- `Next <creeping-elegance.html>`__
-
---------------
 
 **creep**: v.
 
@@ -4860,23 +3262,15 @@ To advance, grow, or multiply inexorably. In hackish usage this verb has
 overtones of menace and silliness, evoking the creeping horrors of
 low-budget monster movies.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------------+
-| `Prev <creationism.html>`__    | `Up <../C.html>`__         |  `Next <creeping-elegance.html>`__   |
-+--------------------------------+----------------------------+--------------------------------------+
-| creationism                    | `Home <../index.html>`__   |  creeping elegance                   |
-+--------------------------------+----------------------------+--------------------------------------+
+
+
 
 creeping elegance
+=================
 
-`Prev <creep.html>`__ 
 
-C
 
- `Next <creeping-featurism.html>`__
-
---------------
 
 **creeping elegance**: n.
 
@@ -4889,23 +3283,11 @@ featurism* <creeping-featurism.html>`__, `*second-system
 effect* <../S/second-system-effect.html>`__,
 `*tense* <../T/tense.html>`__.
 
---------------
 
-+--------------------------+----------------------------+---------------------------------------+
-| `Prev <creep.html>`__    | `Up <../C.html>`__         |  `Next <creeping-featurism.html>`__   |
-+--------------------------+----------------------------+---------------------------------------+
-| creep                    | `Home <../index.html>`__   |  creeping featurism                   |
-+--------------------------+----------------------------+---------------------------------------+
 
 creeping featurism
+==================
 
-`Prev <creeping-elegance.html>`__ 
-
-C
-
- `Next <creeping-featuritis.html>`__
-
---------------
 
 **creeping featurism**: /kree´ping fee´chr·izm/, n.
 
@@ -4936,23 +3318,12 @@ similar phenomenon sometimes afflicts conscious redesigns; see
 `*second-system effect* <../S/second-system-effect.html>`__. See also
 `*creeping elegance* <creeping-elegance.html>`__.
 
---------------
 
-+--------------------------------------+----------------------------+----------------------------------------+
-| `Prev <creeping-elegance.html>`__    | `Up <../C.html>`__         |  `Next <creeping-featuritis.html>`__   |
-+--------------------------------------+----------------------------+----------------------------------------+
-| creeping elegance                    | `Home <../index.html>`__   |  creeping featuritis                   |
-+--------------------------------------+----------------------------+----------------------------------------+
+
 
 creeping featuritis
+===================
 
-`Prev <creeping-featurism.html>`__ 
-
-C
-
- `Next <cretin.html>`__
-
---------------
 
 **creeping featuritis**: /kree´ping fee'·chr·i:\`t@s/, n.
 
@@ -4963,23 +3334,11 @@ hardware, as opposed to the lurking general tendency in designers'
 minds. (After all, -ism means ‘condition’ or ‘pursuit of’, whereas -itis
 usually means ‘inflammation of’.)
 
---------------
 
-+---------------------------------------+----------------------------+---------------------------+
-| `Prev <creeping-featurism.html>`__    | `Up <../C.html>`__         |  `Next <cretin.html>`__   |
-+---------------------------------------+----------------------------+---------------------------+
-| creeping featurism                    | `Home <../index.html>`__   |  cretin                   |
-+---------------------------------------+----------------------------+---------------------------+
+
 
 cretin
-
-`Prev <creeping-featuritis.html>`__ 
-
-C
-
- `Next <cretinous.html>`__
-
---------------
+======
 
 **cretin**: /kret´in/, /kree´tn/, n.
 
@@ -4989,23 +3348,12 @@ hackers tend to favor the British pronunciation /kret´in/ over standard
 American /kree´tn/; it is thought this may be due to the insidious
 phonetic influence of Monty Python's Flying Circus.
 
---------------
+.. index:: Monty Python's Flying Circus, cretin
 
-+----------------------------------------+----------------------------+------------------------------+
-| `Prev <creeping-featuritis.html>`__    | `Up <../C.html>`__         |  `Next <cretinous.html>`__   |
-+----------------------------------------+----------------------------+------------------------------+
-| creeping featuritis                    | `Home <../index.html>`__   |  cretinous                   |
-+----------------------------------------+----------------------------+------------------------------+
 
 cretinous
+=========
 
-`Prev <cretin.html>`__ 
-
-C
-
- `Next <crippleware.html>`__
-
---------------
 
 **cretinous**: /kret´n·@s/, /kreet´n·@s/, adj.
 
@@ -5016,23 +3364,13 @@ Approximate synonyms: `*bletcherous* <../B/bletcherous.html>`__,
 `*bagbiting* <../B/bagbiting.html>`__, `*losing* <../L/losing.html>`__,
 `*brain-damaged* <../B/brain-damaged.html>`__.
 
---------------
+.. index:: cretinous, stupid, poorly designed
 
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <cretin.html>`__    | `Up <../C.html>`__         |  `Next <crippleware.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| cretin                    | `Home <../index.html>`__   |  crippleware                   |
-+---------------------------+----------------------------+--------------------------------+
+
 
 crippleware
+===========
 
-`Prev <cretinous.html>`__ 
-
-C
-
- `Next <critical-mass.html>`__
-
---------------
 
 **crippleware**: n.
 
@@ -5054,23 +3392,13 @@ veiled by a different pinout) and plug it into the board's expansion
 socket. It then disables the SX, which becomes a fancy power sink. Don't
 you love Intel?
 
---------------
+.. index:: crippleware
 
-+------------------------------+----------------------------+----------------------------------+
-| `Prev <cretinous.html>`__    | `Up <../C.html>`__         |  `Next <critical-mass.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
-| cretinous                    | `Home <../index.html>`__   |  critical mass                   |
-+------------------------------+----------------------------+----------------------------------+
+
 
 critical mass
+=============
 
-`Prev <crippleware.html>`__ 
-
-C
-
- `Next <crlf.html>`__
-
---------------
 
 **critical mass**: n.
 
@@ -5083,23 +3411,12 @@ disparate environments, poor initial design, etc.) When software
 achieves critical mass, it can never be fixed; it can only be discarded
 and rewritten.
 
---------------
 
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <crippleware.html>`__    | `Up <../C.html>`__         |  `Next <crlf.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| crippleware                    | `Home <../index.html>`__   |  crlf                   |
-+--------------------------------+----------------------------+-------------------------+
+
 
 crlf
+====
 
-`Prev <critical-mass.html>`__ 
-
-C
-
- `Next <crock.html>`__
-
---------------
 
 **crlf**: /ker´l@f/, /kru´l@f/, /C·R·L·F/, n.
 
@@ -5110,23 +3427,13 @@ the next line. See `*newline* <../N/newline.html>`__. Under
 `*Unix* <../U/Unix.html>`__ influence this usage has become less common
 (Unix uses a bare line feed as its ‘CRLF’).
 
---------------
 
-+----------------------------------+----------------------------+--------------------------+
-| `Prev <critical-mass.html>`__    | `Up <../C.html>`__         |  `Next <crock.html>`__   |
-+----------------------------------+----------------------------+--------------------------+
-| critical mass                    | `Home <../index.html>`__   |  crock                   |
-+----------------------------------+----------------------------+--------------------------+
+
+
 
 crock
+=====
 
-`Prev <crlf.html>`__ 
-
-C
-
- `Next <cross-post.html>`__
-
---------------
 
 **crock**: n.
 
@@ -5150,23 +3457,12 @@ tightly woven, almost completely unmodifiable structure. See
 adjectives crockish and crocky, and the nouns crockishness and
 crockitude, are also used.
 
---------------
+.. index:: crock, crockitude, trick, kluge, crockish, crocky, crockishness, crockitude
 
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <crlf.html>`__    | `Up <../C.html>`__         |  `Next <cross-post.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| crlf                    | `Home <../index.html>`__   |  cross-post                   |
-+-------------------------+----------------------------+-------------------------------+
 
 crossload
+=========
 
-`Prev <cross-post.html>`__ 
-
-C
-
- `Next <crudware.html>`__
-
---------------
 
 **crossload**: v.,n.
 
@@ -5176,23 +3472,13 @@ peer-to-peer network of nodes that act as both servers and clients for a
 distributed file store. Esp. appropriate for anonymized networks like
 Gnutella and Freenet.
 
---------------
+.. index:: Gnutella, Freenet, anonymized, peer-to-peer, upload
 
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <cross-post.html>`__    | `Up <../C.html>`__         |  `Next <crudware.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| cross-post                    | `Home <../index.html>`__   |  crudware                   |
-+-------------------------------+----------------------------+-----------------------------+
+
 
 cross-post
+==========
 
-`Prev <crock.html>`__ 
-
-C
-
- `Next <crossload.html>`__
-
---------------
 
 **cross-post**: vi.
 
@@ -5205,23 +3491,15 @@ tends to cause `*followup* <../F/followup.html>`__ articles to go to
 inappropriate newsgroups when people respond to various parts of the
 original posting.
 
---------------
+.. index:: Usenet, newsgroups
 
-+--------------------------+----------------------------+------------------------------+
-| `Prev <crock.html>`__    | `Up <../C.html>`__         |  `Next <crossload.html>`__   |
-+--------------------------+----------------------------+------------------------------+
-| crock                    | `Home <../index.html>`__   |  crossload                   |
-+--------------------------+----------------------------+------------------------------+
+
 
 crudware
+========
 
-`Prev <crossload.html>`__ 
 
-C
 
- `Next <cruft.html>`__
-
---------------
 
 **crudware**: /kruhd´weir/, n.
 
@@ -5230,23 +3508,12 @@ Pejorative term for the hundreds of megabytes of low-quality
 systems in the micro-hobbyist world. “Yet *another* set of disk catalog
 utilities for `*MS-DOS* <../M/MS-DOS.html>`__? What crudware!”
 
---------------
+.. index:: MS-DOS, Microsoft, crudware, user's groups
 
-+------------------------------+----------------------------+--------------------------+
-| `Prev <crossload.html>`__    | `Up <../C.html>`__         |  `Next <cruft.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| crossload                    | `Home <../index.html>`__   |  cruft                   |
-+------------------------------+----------------------------+--------------------------+
 
 cruft
+=====
 
-`Prev <crudware.html>`__ 
-
-C
-
- `Next <cruft-together.html>`__
-
---------------
 
 **cruft**: /kruhft/
 
@@ -5268,45 +3535,25 @@ code.
 5. [University of Wisconsin] n. Cruft is to hackers as gaggle is to
 geese; that is, at UW one properly says “a cruft of hackers”.
 
---------------
+.. index:: cruft, junk, superseded, redundant
 
-+-----------------------------+----------------------------+-----------------------------------+
-| `Prev <crudware.html>`__    | `Up <../C.html>`__         |  `Next <cruft-together.html>`__   |
-+-----------------------------+----------------------------+-----------------------------------+
-| crudware                    | `Home <../index.html>`__   |  cruft together                   |
-+-----------------------------+----------------------------+-----------------------------------+
+
 
 cruftsmanship
+=============
 
-`Prev <cruft-together.html>`__ 
-
-C
-
- `Next <crufty.html>`__
-
---------------
 
 **cruftsmanship**: /kruhfts´m@n·ship /, n.
 
 [from `*cruft* <cruft.html>`__] The antithesis of craftsmanship.
 
---------------
+.. index:: craftsmanship, cruftsmanship
 
-+-----------------------------------+----------------------------+---------------------------+
-| `Prev <cruft-together.html>`__    | `Up <../C.html>`__         |  `Next <crufty.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| cruft together                    | `Home <../index.html>`__   |  crufty                   |
-+-----------------------------------+----------------------------+---------------------------+
+
 
 cruft together
+==============
 
-`Prev <cruft.html>`__ 
-
-C
-
- `Next <cruftsmanship.html>`__
-
---------------
 
 **cruft together**: vt.
 
@@ -5318,23 +3565,11 @@ file, but I can probably cruft one together in about 10 minutes.” See
 up* <../H/hack-up.html>`__, `*kluge up* <../K/kluge-up.html>`__,
 `*crufty* <crufty.html>`__.
 
---------------
 
-+--------------------------+----------------------------+----------------------------------+
-| `Prev <cruft.html>`__    | `Up <../C.html>`__         |  `Next <cruftsmanship.html>`__   |
-+--------------------------+----------------------------+----------------------------------+
-| cruft                    | `Home <../index.html>`__   |  cruftsmanship                   |
-+--------------------------+----------------------------+----------------------------------+
+
 
 crufty
-
-`Prev <cruftsmanship.html>`__ 
-
-C
-
- `Next <crumb.html>`__
-
---------------
+======
 
 **crufty**: /kruhf´tee/, adj.
 
@@ -5365,23 +3600,11 @@ been the physics department's radar lab during WWII. To this day (early
 Lincoln Labs people may well have coined the term as a knock on the
 competition.
 
---------------
+.. index:: Lincoln Labs, MIT, Harvard University, Cruft Hall, WWII
 
-+----------------------------------+----------------------------+--------------------------+
-| `Prev <cruftsmanship.html>`__    | `Up <../C.html>`__         |  `Next <crumb.html>`__   |
-+----------------------------------+----------------------------+--------------------------+
-| cruftsmanship                    | `Home <../index.html>`__   |  crumb                   |
-+----------------------------------+----------------------------+--------------------------+
 
 crumb
-
-`Prev <crufty.html>`__ 
-
-C
-
- `Next <crunch.html>`__
-
---------------
+=====
 
 **crumb**: n.
 
@@ -5391,23 +3614,11 @@ Two binary digits; a `*quad* <../Q/quad.html>`__. Larger than a
 `*tayste* <../T/tayste.html>`__. General discussion of such terms is
 under `*nybble* <../N/nybble.html>`__.
 
---------------
 
-+---------------------------+----------------------------+---------------------------+
-| `Prev <crufty.html>`__    | `Up <../C.html>`__         |  `Next <crunch.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| crufty                    | `Home <../index.html>`__   |  crunch                   |
-+---------------------------+----------------------------+---------------------------+
+
 
 crunch
-
-`Prev <crumb.html>`__ 
-
-C
-
- `Next <cryppie.html>`__
-
---------------
+======
 
 **crunch**
 
@@ -5439,46 +3650,24 @@ number of characters mattered). `*Obfuscated C
 Contest* <../O/Obfuscated-C-Contest.html>`__ entries are often crunched;
 see the first example under that entry.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <crumb.html>`__    | `Up <../C.html>`__         |  `Next <cryppie.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| crumb                    | `Home <../index.html>`__   |  cryppie                   |
-+--------------------------+----------------------------+----------------------------+
+
 
 cryppie
-
-`Prev <crunch.html>`__ 
-
-C
-
- `Next <cthulhic.html>`__
-
---------------
+=======
 
 **cryppie**: /krip´ee/, n.
 
 A cryptographer. One who hacks or implements cryptographic software or
 hardware.
 
---------------
+.. index:: cryptography, cryptographer
 
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <crunch.html>`__    | `Up <../C.html>`__         |  `Next <cthulhic.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| crunch                    | `Home <../index.html>`__   |  cthulhic                   |
-+---------------------------+----------------------------+-----------------------------+
+
 
 cthulhic
+========
 
-`Prev <cryppie.html>`__ 
-
-C
-
- `Next <CTSS.html>`__
-
---------------
 
 **cthulhic**: /kthool´hik/, adj.
 
@@ -5487,29 +3676,19 @@ from H.P. Lovecraft's seminal horror fiction. Cthulhu sends dreams that
 drive men mad, feeds on the flesh of screaming victims rent limb from
 limb, and is served by a cult of degenerates. Hackers think this
 describes large `*proprietary* <../P/proprietary.html>`__ systems such
-as traditional `*mainframe* <../M/mainframe.html>`__\ s, installations
+as traditional `*mainframes* <../M/mainframe.html>`__, installations
 of SAP and Oracle, or rooms full of Windows servers remarkably well, and
 the adjective is used casually. Compare
 `*Shub-Internet* <../S/Shub-Internet.html>`__ and `*crawling
 horror* <crawling-horror.html>`__.
 
---------------
+.. index:: cthulhic, crawling horror, H.P. Lovecraft, Lovecraft, hackers, Cthulhu
 
-+----------------------------+----------------------------+-------------------------+
-| `Prev <cryppie.html>`__    | `Up <../C.html>`__         |  `Next <CTSS.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| cryppie                    | `Home <../index.html>`__   |  CTSS                   |
-+----------------------------+----------------------------+-------------------------+
+
 
 CTSS
+====
 
-`Prev <cthulhic.html>`__ 
-
-C
-
- `Next <cube.html>`__
-
---------------
 
 **CTSS**: /C·T·S·S/, n.
 
@@ -5522,23 +3701,13 @@ joke and to express some basic differences in philosophy about the way
 I/O services should be presented to user programs. See
 `*timesharing* <../T/timesharing.html>`__
 
---------------
 
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <cthulhic.html>`__    | `Up <../C.html>`__         |  `Next <cube.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| cthulhic                    | `Home <../index.html>`__   |  cube                   |
-+-----------------------------+----------------------------+-------------------------+
+
+
 
 cube
+====
 
-`Prev <CTSS.html>`__ 
-
-C
-
- `Next <cup-holder.html>`__
-
---------------
 
 **cube**: n.
 
@@ -5547,23 +3716,12 @@ programming shops. “I've got the manuals in my cube.”
 
 2. A NeXT machine (which resembles a matte-black cube).
 
---------------
+.. index:: cubicle
 
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <CTSS.html>`__    | `Up <../C.html>`__         |  `Next <cup-holder.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| CTSS                    | `Home <../index.html>`__   |  cup holder                   |
-+-------------------------+----------------------------+-------------------------------+
+
 
 cup holder
-
-`Prev <cube.html>`__ 
-
-C
-
- `Next <cursor-dipped-in-X.html>`__
-
---------------
+==========
 
 **cup holder**: n.
 
@@ -5574,23 +3732,15 @@ program was once distributed around the net called “cupholder.exe”,
 which when run simply extended the CD drive tray. The humor of this was
 of course lost on people whose drive had a slot or a caddy instead.
 
---------------
+.. index:: optical drive
 
-+-------------------------+----------------------------+---------------------------------------+
-| `Prev <cube.html>`__    | `Up <../C.html>`__         |  `Next <cursor-dipped-in-X.html>`__   |
-+-------------------------+----------------------------+---------------------------------------+
-| cube                    | `Home <../index.html>`__   |  cursor dipped in X                   |
-+-------------------------+----------------------------+---------------------------------------+
+
 
 cursor dipped in X
+==================
 
-`Prev <cup-holder.html>`__ 
 
-C
 
- `Next <cuspy.html>`__
-
---------------
 
 **cursor dipped in X**: n.
 
@@ -5601,23 +3751,13 @@ moves, leaving letters behind, when one is composing on-line). “Talk
 about a `*nastygram* <../N/nastygram.html>`__! He must've had his cursor
 dipped in acid when he wrote that one!”
 
---------------
 
-+-------------------------------+----------------------------+--------------------------+
-| `Prev <cup-holder.html>`__    | `Up <../C.html>`__         |  `Next <cuspy.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
-| cup holder                    | `Home <../index.html>`__   |  cuspy                   |
-+-------------------------------+----------------------------+--------------------------+
+
+
 
 cuspy
+=====
 
-`Prev <cursor-dipped-in-X.html>`__ 
-
-C
-
- `Next <cut-a-tape.html>`__
-
---------------
 
 **cuspy**: /kuhs´pee/, adj.
 
@@ -5633,23 +3773,12 @@ well to users is cuspy. Oppose `*rude* <../R/rude.html>`__.
 3. [NYU] Said of an attractive woman, especially one regarded as
 available. Implies a certain curvaceousness.
 
---------------
 
-+---------------------------------------+----------------------------+-------------------------------+
-| `Prev <cursor-dipped-in-X.html>`__    | `Up <../C.html>`__         |  `Next <cut-a-tape.html>`__   |
-+---------------------------------------+----------------------------+-------------------------------+
-| cursor dipped in X                    | `Home <../index.html>`__   |  cut a tape                   |
-+---------------------------------------+----------------------------+-------------------------------+
+
+
 
 cut a tape
-
-`Prev <cuspy.html>`__ 
-
-C
-
- `Next <cybercrud.html>`__
-
---------------
+==========
 
 **cut a tape**: vi.
 
@@ -5669,23 +3798,15 @@ punching away portions of the wax overlay on a silk screen. More
 directly, paper tape with holes punched in it was an important early
 storage medium. See also `*burn a CD* <../B/burn-a-CD.html>`__.
 
---------------
 
-+--------------------------+----------------------------+------------------------------+
-| `Prev <cuspy.html>`__    | `Up <../C.html>`__         |  `Next <cybercrud.html>`__   |
-+--------------------------+----------------------------+------------------------------+
-| cuspy                    | `Home <../index.html>`__   |  cybercrud                   |
-+--------------------------+----------------------------+------------------------------+
+
+
 
 cybercrud
+=========
 
-`Prev <cut-a-tape.html>`__ 
 
-C
 
- `Next <cyberpunk.html>`__
-
---------------
 
 **cybercrud**: /si:´ber·kruhd/, n.
 
@@ -5701,23 +3822,13 @@ and now huge blocks of radix-64 for PEM (Privacy Enhanced Mail) or PGP
 authenticity. This stuff all serves a purpose and good user interfaces
 should hide it, but all too often users are forced to wade through it.
 
---------------
 
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <cut-a-tape.html>`__    | `Up <../C.html>`__         |  `Next <cyberpunk.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| cut a tape                    | `Home <../index.html>`__   |  cyberpunk                   |
-+-------------------------------+----------------------------+------------------------------+
+
+
 
 cyberpunk
+==========
 
-`Prev <cybercrud.html>`__ 
-
-C
-
- `Next <cyberspace.html>`__
-
---------------
 
 **cyberpunk**: /si:´ber·puhnk/, n.,adj.
 
@@ -5746,23 +3857,13 @@ excited about the right things and properly respectful of hacking talent
 in those who have it. The general consensus is to tolerate them politely
 in hopes that they'll attract people who grow into being true hackers.
 
---------------
+.. index:: cyberpunk, cyberspace, literacture, Gibson, Max Headroom, William Gibson
 
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <cybercrud.html>`__    | `Up <../C.html>`__         |  `Next <cyberspace.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| cybercrud                    | `Home <../index.html>`__   |  cyberspace                   |
-+------------------------------+----------------------------+-------------------------------+
 
 cyberspace
+===========
 
-`Prev <cyberpunk.html>`__ 
 
-C
-
- `Next <cycle.html>`__
-
---------------
 
 **cyberspace**: /si:´br·spays\`/, n.
 
@@ -5794,23 +3895,13 @@ cyberspace are often gray and silver, and the imagery often involves
 constellations of marching dots, elaborate shifting patterns of lines
 and angles, or moire patterns.
 
---------------
+.. index:: matrix, cyberspace, hack mode, cyberpunk
 
-+------------------------------+----------------------------+--------------------------+
-| `Prev <cyberpunk.html>`__    | `Up <../C.html>`__         |  `Next <cycle.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| cyberpunk                    | `Home <../index.html>`__   |  cycle                   |
-+------------------------------+----------------------------+--------------------------+
+
 
 cycle
+======
 
-`Prev <cyberspace.html>`__ 
-
-C
-
- `Next <cycle-of-reincarnation.html>`__
-
---------------
 
 **cycle**
 
@@ -5834,45 +3925,23 @@ I'd burn too many cycles on it if I let myself.”
 3. vt. Syn. `*bounce* <../B/bounce.html>`__ (sense 4), from the phrase
 ‘cycle power’. “Cycle the machine again, that serial port's still hung.”
 
---------------
 
-+-------------------------------+----------------------------+-------------------------------------------+
-| `Prev <cyberspace.html>`__    | `Up <../C.html>`__         |  `Next <cycle-of-reincarnation.html>`__   |
-+-------------------------------+----------------------------+-------------------------------------------+
-| cyberspace                    | `Home <../index.html>`__   |  cycle of reincarnation                   |
-+-------------------------------+----------------------------+-------------------------------------------+
+
+
 
 cycle of reincarnation
-
-`Prev <cycle.html>`__ 
-
-C
-
- `Next <cycle-server.html>`__
-
---------------
+=======================
 
 **cycle of reincarnation**: n.
 
 See `*wheel of reincarnation* <../W/wheel-of-reincarnation.html>`__.
 
---------------
 
-+--------------------------+----------------------------+---------------------------------+
-| `Prev <cycle.html>`__    | `Up <../C.html>`__         |  `Next <cycle-server.html>`__   |
-+--------------------------+----------------------------+---------------------------------+
-| cycle                    | `Home <../index.html>`__   |  cycle server                   |
-+--------------------------+----------------------------+---------------------------------+
+
 
 cycle server
+============
 
-`Prev <cycle-of-reincarnation.html>`__ 
-
-C
-
- `Next <cypherpunk.html>`__
-
---------------
 
 **cycle server**: n.
 
@@ -5881,23 +3950,11 @@ disk-, or memory-intensive jobs (more formally called a compute server).
 Implies that interactive tasks such as editing are done on other
 machines on the network, such as workstations.
 
---------------
 
-+-------------------------------------------+----------------------------+-------------------------------+
-| `Prev <cycle-of-reincarnation.html>`__    | `Up <../C.html>`__         |  `Next <cypherpunk.html>`__   |
-+-------------------------------------------+----------------------------+-------------------------------+
-| cycle of reincarnation                    | `Home <../index.html>`__   |  cypherpunk                   |
-+-------------------------------------------+----------------------------+-------------------------------+
+
 
 cypherpunk
-
-`Prev <cycle-server.html>`__ 
-
-C
-
- `Next <CNK.html>`__
-
---------------
+==========
 
 **cypherpunk**: n.
 
@@ -5909,11 +3966,7 @@ especially government. There is an active cypherpunks mailing list at
 encryption freeware, privacy, and digital cash. See also
 `*tentacle* <../T/tentacle.html>`__.
 
---------------
+.. index:: cypherpunk
 
-+---------------------------------+----------------------------+------------------------+
-| `Prev <cycle-server.html>`__    | `Up <../C.html>`__         |  `Next <CNK.html>`__   |
-+---------------------------------+----------------------------+------------------------+
-| cycle server                    | `Home <../index.html>`__   |  C\|N>K                |
-+---------------------------------+----------------------------+------------------------+
+
 
