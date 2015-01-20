@@ -188,8 +188,8 @@ refer to the systems person in charge on a computer. Common
 constructions on this include sysadmin and site admin (emphasizing the
 administrator's role as a site contact for email and news) or newsadmin
 (focusing specifically on news). Compare
-`postmaster <../P/postmaster.html>`__, `sysop <../S/sysop.html>`__,
-`system mangler <../S/system-mangler.html>`__.
+`postmaster <../P.html#postmaster>`__, `sysop <../S/sysop.html>`__,
+`system mangler <../S.html#system-mangler>`__.
 
 
 ADVENT
@@ -209,54 +209,6 @@ six-letter filenames in uppercase. See also
 `vadding <../V/vadding.html>`__, `Zork <../Z/Zork.html>`__, and
 `Infocom <../I/Infocom.html>`__.
 
-**Figure 1. Screen shot of the original ADVENT game**
-
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|     Orange River Chamber                                                 |
-|     You are in a splendid chamber thirty feet high. The walls are frozen |
-|  rivers of                                                               |
-|     orange stone. An awkward canyon and a good passage exit from east an |
-| d west                                                                   |
-|     sidesof the chamber.                                                 |
-|                                                                          |
-|     A cheerful little bird is sitting here singing.                      |
-|                                                                          |
-|     >drop rod                                                            |
-|     Dropped.                                                             |
-|                                                                          |
-|     >take bird                                                           |
-|     You catch the bird in the wicker cage.                               |
-|                                                                          |
-|     >take rod                                                            |
-|     Taken.                                                               |
-|                                                                          |
-|     >w                                                                   |
-|     At Top of Small Pit                                                  |
-|     At your feet is a small pit breathing traces of white mist. A west p |
-| assage ends                                                              |
-|     here except for a small crack leading on.                            |
-|                                                                          |
-|     Rough stone steps lead down the pit.                                 |
-|                                                                          |
-|                                                                          |
-|     >down                                                                |
-|                                                                          |
-|     In Hall of Mists                                                     |
-|     You are at one end of a vast hall stretching forward out of sight to |
-|  the west.                                                               |
-|     There are openings to either side. Nearby, a wide stone staircase le |
-| ads                                                                      |
-|     downward. The hall is filled with wisps of white mist swaying to and |
-|  fro almost                                                              |
-|     as if alive. A cold wind blows up the staircase. There is a passage  |
-| at the top                                                               |
-|     of a dome behind you.                                                |
-|                                                                          |
-|     Rough stone steps lead up the dome.                                  |
-                                                                          
-+--------------------------------------------------------------------------+
 
 This game defined the terse, dryly humorous style since expected in text
 adventure games, and popularized several tag lines that have become
@@ -331,7 +283,7 @@ AI-complete
 **AI-complete**: /A·I k@m·pleet'/, adj.
 
 [MIT, Stanford: by analogy with NP-complete (see
-`NP- <../N/NP-.html>`__)] Used to describe problems or subproblems in
+`NP- <../N#NP->`__)] Used to describe problems or subproblems in
 AI, to indicate that the solution presupposes a solution to the ‘strong
 AI problem’ (that is, the synthesis of a human-level intelligence). A
 problem that is AI-complete is, in other words, just too hard.
@@ -342,7 +294,7 @@ Problem’ (building a system that can understand and speak a natural
 language as well as a human). These may appear to be modular, but all
 attempts so far (2003) to solve them have foundered on the amount of
 context information and ‘intelligence’ they seem to require. See also
-`gedanken <../G/gedanken.html>`__.
+`gedanken <../G.html#gedanken>`__.
 
 
 AI
@@ -365,16 +317,15 @@ analogy, in both software and electronics, the rule that simplicity
 increases robustness. It is correspondingly argued that the right way to
 build reliable systems is to put all your eggs in one basket, after
 making sure that you've built a really *good* basket. See also `KISS
-Principle <../K/KISS-Principle.html>`__,
-`elegant <../E/elegant.html>`__.
+Principle <../K.html#KISS-Principle.html>`__,
+`elegant <../E.html#elegant.html>`__.
 
 Alderson loop
 =============
 
 **Alderson loop**: n.
 
-[Intel] A special version of an `infinite
-loop <../I/infinite-loop.html>`__ where there is an exit condition
+[Intel] A special version of an `infinite loop <../I/infinite-loop.html>`__ where there is an exit condition
 available, but inaccessible in the current implementation of the code.
 Typically this is created while debugging user interface code. An
 example would be when there is a menu stating, “Select 1-3 or 9 to quit”
@@ -416,6 +367,7 @@ Historical note: Though this term is nowadays associated with C
 programming, it was already in use in a very similar sense in the
 Algol-60 and FORTRAN communities in the 1960s.
 
+.. index:: FORTRAN, C
 
 Alice and Bob
 =============
@@ -445,6 +397,8 @@ active attacker), Trent (a trusted arbitrator), Walter (a warden), Peggy
 (a prover) and Victor (a verifier). These names for roles are either
 already standard or, given the wide popularity of the book, may be
 expected to quickly become so.
+
+.. index:  Bruce Schneier
 
 All hardware sucks, all software sucks.
 =======================================
@@ -717,7 +671,7 @@ annoybot
 
 **annoybot**: /@·noy·bot/, n.
 
-[IRC] See `bot <../B/bot.html>`__.
+[IRC] See `bot <../B.html#bot>`__.
 
 annoyware
 =========
@@ -768,7 +722,7 @@ ANSI standard pizza
 ordered by CMU hackers during some period leading up to mid-1990 were of
 that flavor. See also `rotary debugger <../R/rotary-debugger.html>`__;
 compare `ISO standard cup of
-tea <../I/ISO-standard-cup-of-tea.html>`__.
+tea <../I.html#ISO-standard-cup-of-tea>`__.
 
 
 anti-idiotarianism
@@ -798,10 +752,10 @@ propensity of America Online users to utter contentless “Me, too!”
 postings. The number of exclamation points following varies from zero to
 five or so. The pseudo-HTML
 
-    <AOL>Me, too!</AOL>
+    `<AOL>Me, too!</AOL>`
 
 is also frequently seen. See also `September that never
-ended <../S/September-that-never-ended.html>`__.
+ended <../S.html#September-that-never-ended>`__.
 
 
 app
@@ -954,7 +908,7 @@ or ASCII graphics; see also `boxology <../B/boxology.html>`__. Here is
 a serious example:
 
 +--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
+|                                                                          |
 |                                                                          |
 |                                                                          |
 |         o----)||(--+--|<----+   +---------o + D O                        |
@@ -973,7 +927,6 @@ a serious example:
 And here are some very silly examples:
 
 +--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
 |                                                                          |
 |                                                                          |
 |       |\/\/\/|     ____/|              ___    |\_/|    ___               |
@@ -998,7 +951,7 @@ There is an important subgenre of ASCII art that puns on the standard
 character names in the fashion of a rebus.
 
 +--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
+|                                                                          |
 |                                                                          |
 |     +--------------------------------------------------------+           |
 |     |      ^^^^^^^^^^^^                                      |           |
@@ -1016,7 +969,7 @@ flourishing subgenre of pictures of silly cows. Four of these are
 reproduced in the examples above, here are three more:
 
 +--------------------------------------------------------------------------+
-|                                                        |
+|                                                                          |
 |                                                                          |
 |                                                                          |
 |              (__)              (__)              (__)                    |
@@ -1033,7 +986,7 @@ Finally, here's a magnificent example of ASCII art depicting an
 Edwardian train station in Dunedin, New Zealand:
 
 +--------------------------------------------------------------------------+
-|                                                         |
+|                                                                          |
 |                                                                          |
 |                                       .-.                                |
 |                                      /___\                               |
@@ -1294,7 +1247,7 @@ is thus ``3.26 ×    10-18`` light years, or about 3.1 cm (thus, 1
 attoparsec/\ `microfortnight <../M/microfortnight.html>`__ equals
 about 1 inch/sec). This unit is reported to be in use (though probably
 not very seriously) among hackers in the U.K. See
-`micro- <../M/micro-.html>`__.
+`micro- <../M.html#micro->`__.
 
 
 Aunt Tillie
@@ -1322,7 +1275,7 @@ autobogotiphobia
 
 **autobogotiphobia**: /aw´toh·boh·got\`@·foh´bee·@/
 
-n. See `bogotify <../B/bogotify.html>`__.
+n. See `bogotify <../B.html#bogotify>`__.
 
 
 autoconfiscate
@@ -1373,6 +1326,8 @@ machines on which the name of the superuser account is ‘avatar’ rather
 than ‘root’. This quirk was originated by a CMU hacker who found the
 terms root and superuser unimaginative, and thought ‘avatar’ might
 better impress people with the responsibility they were accepting.
+
+.. index:: Hindu
 
 awk
 ===

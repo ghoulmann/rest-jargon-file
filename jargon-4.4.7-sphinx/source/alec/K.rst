@@ -1,35 +1,21 @@
+=======
+K
+=======
+
 kahuna
 
-`Prev <k-.html>`__ 
 
-K
 
- `Next <kamikaze-packet.html>`__
-
---------------
 
 **kahuna**: /k@·hoo´n@/, n.
 
 [IBM: from the Hawaiian title for a shaman] Synonym for
 `*wizard* <../W/wizard.html>`__, `*guru* <../G/guru.html>`__.
 
---------------
 
-+-----------------------+----------------------------+------------------------------------+
-| `Prev <k-.html>`__    | `Up <../K.html>`__         |  `Next <kamikaze-packet.html>`__   |
-+-----------------------+----------------------------+------------------------------------+
-| k-                    | `Home <../index.html>`__   |  kamikaze packet                   |
-+-----------------------+----------------------------+------------------------------------+
 
 kamikaze packet
-
-`Prev <kahuna.html>`__ 
-
-K
-
- `Next <kangaroo-code.html>`__
-
---------------
+================
 
 **kamikaze packet**: n.
 
@@ -45,23 +31,10 @@ tree packet* <../C/Christmas-tree-packet.html>`__.
 
 See also `*Chernobyl packet* <../C/Chernobyl-packet.html>`__.
 
---------------
 
-+---------------------------+----------------------------+----------------------------------+
-| `Prev <kahuna.html>`__    | `Up <../K.html>`__         |  `Next <kangaroo-code.html>`__   |
-+---------------------------+----------------------------+----------------------------------+
-| kahuna                    | `Home <../index.html>`__   |  kangaroo code                   |
-+---------------------------+----------------------------+----------------------------------+
 
 K&R
-
-`Prev <K.html>`__ 
-
-K
-
- `Next <k-.html>`__
-
---------------
+=========
 
 **K&R**: n.
 
@@ -70,23 +43,9 @@ esp. the classic and influential first edition (Prentice-Hall 1978; ISBN
 0-13-110163-3). Syn. `*Old Testament* <../O/Old-Testament.html>`__. See
 also `*New Testament* <../N/New-Testament.html>`__.
 
---------------
-
-+----------------------+----------------------------+-----------------------+
-| `Prev <K.html>`__    | `Up <../K.html>`__         |  `Next <k-.html>`__   |
-+----------------------+----------------------------+-----------------------+
-| K                    | `Home <../index.html>`__   |  k-                   |
-+----------------------+----------------------------+-----------------------+
 
 kangaroo code
-
-`Prev <kamikaze-packet.html>`__ 
-
-K
-
- `Next <ken.html>`__
-
---------------
+===============
 
 **kangaroo code**: n.
 

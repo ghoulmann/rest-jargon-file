@@ -3,14 +3,8 @@ J
 ==================
 
 jack in
+========
 
-`Prev <J--Random-Hacker.html>`__ 
-
-J
-
- `Next <jaggies.html>`__
-
---------------
 
 **jack in**: v.
 
@@ -29,13 +23,7 @@ by MUD and IRC fans and younger hackers on BBS systems.
 jaggies
 =================
 
-`Prev <jack-in.html>`__ 
 
-J
-
- `Next <Java.html>`__
-
---------------
 
 **jaggies**: /jag´eez/, n.
 
@@ -48,13 +36,7 @@ to a vector display).
 Java
 ==================
 
-`Prev <jaggies.html>`__ 
 
-J
-
- `Next <JCL.html>`__
-
---------------
 
 **Java**
 
@@ -92,13 +74,6 @@ hackers.
 JCL
 ============
 
-`Prev <Java.html>`__ 
-
-J
-
- `Next <JEDR.html>`__
-
---------------
 
 **JCL**: /J·C·L/, n.
 
@@ -131,13 +106,7 @@ available at the Retrocomputing Museum
 JEDR
 ===================
 
-`Prev <JCL.html>`__ 
 
-J
-
- `Next <Jeff-K-.html>`__
-
---------------
 
 **JEDR**: //, n.
 
@@ -158,13 +127,6 @@ met with immediate and near-universal rejection.
 Jeff K.
 ==================
 
-`Prev <JEDR.html>`__ 
-
-J
-
- `Next <jello.html>`__
-
---------------
 
 **Jeff K.**
 
@@ -197,13 +159,6 @@ to hacker `*fora* <../F/fora.html>`__ like Slashdot as well.
 jello
 ===============
 
-`Prev <Jeff-K-.html>`__ 
-
-J
-
- `Next <Jeopardy-style-quoting.html>`__
-
---------------
 
 **jello**: n.
 

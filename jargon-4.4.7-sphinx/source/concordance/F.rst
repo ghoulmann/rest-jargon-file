@@ -1,12 +1,10 @@
-face time
-
-`Prev <../F.html>`__ 
-
+==============
 F
+==============
 
- `Next <factor.html>`__
 
---------------
+face time
+==================
 
 **face time**: n.
 
@@ -14,45 +12,17 @@ F
 to via electronic links). “Oh, yeah, I spent some face time with him at
 the last Usenix.”
 
---------------
 
-+-------------------------+----------------------------+---------------------------+
-| `Prev <../F.html>`__    | `Up <../F.html>`__         |  `Next <factor.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| F                       | `Home <../index.html>`__   |  factor                   |
-+-------------------------+----------------------------+---------------------------+
 
 factor
-
-`Prev <face-time.html>`__ 
-
-F
-
- `Next <fairings.html>`__
-
---------------
+==============
 
 **factor**: n.
 
-See `*coefficient of X* <../C/coefficient-of-X.html>`__.
-
---------------
-
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <face-time.html>`__    | `Up <../F.html>`__         |  `Next <fairings.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| face time                    | `Home <../index.html>`__   |  fairings                   |
-+------------------------------+----------------------------+-----------------------------+
+See `coefficient of X <../C/coefficient-of-X.html>`__.
 
 fairings
-
-`Prev <factor.html>`__ 
-
-F
-
- `Next <fall-over.html>`__
-
---------------
+======================
 
 **fairings**: n., /fer´ingz/
 
@@ -63,47 +33,18 @@ which the outcome is no longer even cared about since everyone is now so
 sick of it; or in rebuttal to another nonsensical argument (“Change the
 loader to look for /kernel.pl? What about fairings?”)
 
---------------
-
-+---------------------------+----------------------------+------------------------------+
-| `Prev <factor.html>`__    | `Up <../F.html>`__         |  `Next <fall-over.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| factor                    | `Home <../index.html>`__   |  fall over                   |
-+---------------------------+----------------------------+------------------------------+
-
 fall over
-
-`Prev <fairings.html>`__ 
-
-F
-
- `Next <fall-through.html>`__
-
---------------
+===============
 
 **fall over**: vi.
 
-[IBM] Yet another synonym for `*crash* <../C/crash.html>`__ or
-`*lose* <../L/lose.html>`__. ‘Fall over hard’ equates to `*crash and
-burn* <../C/crash-and-burn.html>`__.
+[IBM] Yet another synonym for `crash <../C/crash.html>`__ or
+`lose <../L/lose.html>`__. ‘Fall over hard’ equates to `crash and
+burn <../C/crash-and-burn.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------------+
-| `Prev <fairings.html>`__    | `Up <../F.html>`__         |  `Next <fall-through.html>`__   |
-+-----------------------------+----------------------------+---------------------------------+
-| fairings                    | `Home <../index.html>`__   |  fall through                   |
-+-----------------------------+----------------------------+---------------------------------+
 
 fall through
-
-`Prev <fall-over.html>`__ 
-
-F
-
- `Next <fan.html>`__
-
---------------
+=======================
 
 **fall through**: v.
 
@@ -123,20 +64,20 @@ switch header, passing a point where one would normally expect to find a
 **break**. A trivial example:
 
 | 
-|  switch (color)
+|  switch (color)
 |  {
-|  case GREEN:
-|     do\_green();
-|     break;
-|  case PINK:
-|     do\_pink();
-|     /\* FALL THROUGH \*/
-|  case RED:
-|     do\_red();
-|     break;
+|  case GREEN:
+|     do\_green();
+|     break;
+|  case PINK:
+|     do\_pink();
+|     /\* FALL THROUGH \*/
+|  case RED:
+|     do\_red();
+|     break;
 |  default:
-|     do\_blue();
-|     break;
+|     do\_blue();
+|     break;
 |  }
 
 The variant spelling ``/* FALL THRU */`` is also common.
@@ -144,93 +85,49 @@ The variant spelling ``/* FALL THRU */`` is also common.
 The effect of the above code is to do\_green() when color is **GREEN**,
 do\_red() when color is **RED**, do\_blue() on any other color other
 than **PINK**, and (and this is the important part) do\_pink() *and
-then* do\_red() when color is **PINK**. Fall-through is `*considered
-harmful* <../C/considered-harmful.html>`__ by some, though there are
+then* do\_red() when color is **PINK**. Fall-through is `considered
+harmful <../C/considered-harmful.html>`__ by some, though there are
 contexts (such as the coding of state machines) in which it is natural;
 it is generally considered good practice to include a comment
 highlighting the fall-through where one would normally expect a break.
-See also `*Duff's device* <../D/Duffs-device.html>`__.
-
---------------
-
-+------------------------------+----------------------------+------------------------+
-| `Prev <fall-over.html>`__    | `Up <../F.html>`__         |  `Next <fan.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| fall over                    | `Home <../index.html>`__   |  fan                   |
-+------------------------------+----------------------------+------------------------+
+See also `Duff's device <../D/Duffs-device.html>`__.
 
 fandango on core
-
-`Prev <fan.html>`__ 
-
-F
-
- `Next <FAQ.html>`__
-
---------------
+==========================
 
 **fandango on core**: n.
 
 [Unix/C hackers, from the Iberian dance] In C, a wild pointer that runs
-out of bounds, causing a `*core dump* <../C/core-dump.html>`__, or
-corrupts the malloc(3) `*arena* <../A/arena.html>`__ in such a way as to
+out of bounds, causing a `core dump <../C/core-dump.html>`__, or
+corrupts the malloc(3) `arena <../A/arena.html>`__ in such a way as to
 cause mysterious failures later on, is sometimes said to have ‘done a
 fandango on core’. On low-end personal machines without an MMU (or
 Windows boxes, which have an MMU but use it incompetently), this can
 corrupt the OS itself, causing massive lossage. Other frenetic dances,
-such as the cha-cha or the watusi, may be substituted. See `*aliasing
-bug* <../A/aliasing-bug.html>`__, `*precedence
-lossage* <../P/precedence-lossage.html>`__, `*smash the
-stack* <../S/smash-the-stack.html>`__, `*memory
-leak* <../M/memory-leak.html>`__, `*memory
-smash* <../M/memory-smash.html>`__, `*overrun
-screw* <../O/overrun-screw.html>`__, `*core* <../C/core.html>`__.
+such as the cha-cha or the watusi, may be substituted. See `aliasing
+bug <../A/aliasing-bug.html>`__, `precedence
+lossage <../P/precedence-lossage.html>`__, `smash the
+stack <../S/smash-the-stack.html>`__, `memory
+leak <../M/memory-leak.html>`__, `memory
+smash <../M/memory-smash.html>`__, `overrun
+screw <../O/overrun-screw.html>`__, `core <../C/core.html>`__.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <fan.html>`__    | `Up <../F.html>`__         |  `Next <FAQ.html>`__   |
-+------------------------+----------------------------+------------------------+
-| fan                    | `Home <../index.html>`__   |  FAQ                   |
-+------------------------+----------------------------+------------------------+
 
 fan
-
-`Prev <fall-through.html>`__ 
-
-F
-
- `Next <fandango-on-core.html>`__
-
---------------
+==========================
 
 **fan**: n.
 
 Without qualification, indicates a fan of science fiction, especially
-one who goes to `*con* <../C/con_.html>`__\ s and tends to hang out with
+one who goes to `con <../C/con_.html>`__\ s and tends to hang out with
 other fans. Many hackers are fans, so this term has been imported from
 fannish slang; however, unlike much fannish slang it is recognized by
 most non-fannish hackers. Among SF fans the plural is correctly fen, but
 this usage is not automatic to hackers. “Laura reads the stuff
 occasionally but isn't really a fan.”
 
---------------
-
-+---------------------------------+----------------------------+-------------------------------------+
-| `Prev <fall-through.html>`__    | `Up <../F.html>`__         |  `Next <fandango-on-core.html>`__   |
-+---------------------------------+----------------------------+-------------------------------------+
-| fall through                    | `Home <../index.html>`__   |  fandango on core                   |
-+---------------------------------+----------------------------+-------------------------------------+
-
 FAQ
-
-`Prev <fandango-on-core.html>`__ 
-
-F
-
- `Next <FAQ-list.html>`__
-
---------------
+==================================
 
 **FAQ**: /F·A·Q/, /fak/, n.
 
@@ -248,67 +145,25 @@ of lore, although it is far too big for a regular FAQ posting. Examples:
 ``#`` character?” are both Frequently Asked Questions. Several FAQs
 refer readers to the Jargon File.
 
---------------
-
-+-------------------------------------+----------------------------+-----------------------------+
-| `Prev <fandango-on-core.html>`__    | `Up <../F.html>`__         |  `Next <FAQ-list.html>`__   |
-+-------------------------------------+----------------------------+-----------------------------+
-| fandango on core                    | `Home <../index.html>`__   |  FAQ list                   |
-+-------------------------------------+----------------------------+-----------------------------+
 
 FAQL
-
-`Prev <FAQ-list.html>`__ 
-
-F
-
- `Next <faradize.html>`__
-
---------------
+==================
 
 **FAQL**: /fa´kl/, n.
 
-Syn. `*FAQ list* <FAQ-list.html>`__.
+Syn. `FAQ list <FAQ-list.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-----------------------------+
-| `Prev <FAQ-list.html>`__    | `Up <../F.html>`__         |  `Next <faradize.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
-| FAQ list                    | `Home <../index.html>`__   |  faradize                   |
-+-----------------------------+----------------------------+-----------------------------+
 
 FAQ list
-
-`Prev <FAQ.html>`__ 
-
-F
-
- `Next <FAQL.html>`__
-
---------------
+=================
 
 **FAQ list**: /F·A·Q list/, /fak list/, n.
 
-[common; Usenet] Syn `*FAQ* <FAQ.html>`__, sense 2.
+[common; Usenet] Syn `FAQ <FAQ.html>`__, sense 2.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <FAQ.html>`__    | `Up <../F.html>`__         |  `Next <FAQL.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| FAQ                    | `Home <../index.html>`__   |  FAQL                   |
-+------------------------+----------------------------+-------------------------+
 
 faradize
-
-`Prev <FAQL.html>`__ 
-
-F
-
- `Next <farkled.html>`__
-
---------------
+============================
 
 **faradize**: /far'@·di:z/, v.
 
@@ -317,56 +172,28 @@ to continue adding current to such a trend. Telling one user about a new
 octo-tetris game you compiled would be a faradizing act — in two weeks
 you might find your entire department playing the faradic game.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <FAQL.html>`__    | `Up <../F.html>`__         |  `Next <farkled.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| FAQL                    | `Home <../index.html>`__   |  farkled                   |
-+-------------------------+----------------------------+----------------------------+
 
 farkled
-
-`Prev <faradize.html>`__ 
-
-F
-
- `Next <farm.html>`__
-
---------------
+============================
 
 **farkled**: /far´kld/, adj.
 
 [DeVry Institute of Technology, Atlanta] Syn.
-`*hosed* <../H/hosed.html>`__. Poss. owes something to Yiddish
+`hosed <../H/hosed.html>`__. Poss. owes something to Yiddish
 *farblondjet* and/or the ‘Farkle Family’ skits on *Rowan and Martin's
 Laugh-In*, a popular comedy show of the late 1960s.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <faradize.html>`__    | `Up <../F.html>`__         |  `Next <farm.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| faradize                    | `Home <../index.html>`__   |  farm                   |
-+-----------------------------+----------------------------+-------------------------+
 
 farm
-
-`Prev <farkled.html>`__ 
-
-F
-
- `Next <fascist.html>`__
-
---------------
+====================================
 
 **farm**: n.
 
 A group of machines, especially a large group of near-identical machines
 running load-balancing software, dedicated to a single task.
 Historically the term server farm, used especially for a group of web
-servers, seems to have been coined by analogy with earlier `*disk
-farm* <../D/disk-farm.html>`__ in the early 1990s; generalization began
+servers, seems to have been coined by analogy with earlier `disk
+farm <../D/disk-farm.html>`__ in the early 1990s; generalization began
 with render farm for a group of machines dedicated to rendering computer
 animations (this term appears to have been popularized by publicity
 about the pioneering “Linux render farm” used to produce the movie
@@ -374,25 +201,12 @@ about the pioneering “Linux render farm” used to produce the movie
 “compute farm” were increasingly common, and arguably borderline
 techspeak. More jargon uses seem likely to arise (and be absorbed into
 techspeak over time) as new uses are discovered for networked machine
-clusters. Compare `*link farm* <../L/link-farm.html>`__.
+clusters. Compare `link farm <../L/link-farm.html>`__.
 
---------------
 
-+----------------------------+----------------------------+----------------------------+
-| `Prev <farkled.html>`__    | `Up <../F.html>`__         |  `Next <fascist.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| farkled                    | `Home <../index.html>`__   |  fascist                   |
-+----------------------------+----------------------------+----------------------------+
 
 fascist
-
-`Prev <farm.html>`__ 
-
-F
-
- `Next <fat-electrons.html>`__
-
---------------
+=========================
 
 **fascist**: adj.
 
@@ -400,43 +214,27 @@ F
 security barriers, usage limits, or access policies. The implication is
 that said policies are preventing hackers from getting interesting work
 done. The variant fascistic seems to have been preferred at MIT, poss.
-by analogy with touristic (see `*tourist* <../T/tourist.html>`__ or
+by analogy with touristic (see `tourist <../T/tourist.html>`__ or
 under the influence of German/Yiddish faschistisch).
 
 2. In the design of languages and other software tools, the fascist
 alternative is the most restrictive and structured way of capturing a
 particular function; the implication is that this may be desirable in
 order to simplify the implementation or provide tighter error checking.
-Compare `*bondage-and-discipline
-language* <../B/bondage-and-discipline-language.html>`__, although that
+Compare `bondage-and-discipline
+language <../B/bondage-and-discipline-language.html>`__, although that
 term is global rather than local.
 
-|image0|
+.. image:: ../_static/73-05-21.png
 
 Fascist security strikes again.
 
-(The next cartoon in the Crunchly saga is
-`73-05-28 <../B/bells-and-whistles.html#crunchly73-05-28>`__. The
+(The next cartoon in the Crunchly saga is `73-05-28 <../B/bells-and-whistles.html#crunchly73-05-28>`__. The
 previous one is `73-05-20 <../D/drop-outs.html#crunchly73-05-20>`__.)
 
---------------
 
-+-------------------------+----------------------------+----------------------------------+
-| `Prev <farm.html>`__    | `Up <../F.html>`__         |  `Next <fat-electrons.html>`__   |
-+-------------------------+----------------------------+----------------------------------+
-| farm                    | `Home <../index.html>`__   |  fat electrons                   |
-+-------------------------+----------------------------+----------------------------------+
-
-.. |image0| image:: ../graphics/73-05-21.png
 fat electrons
-
-`Prev <fascist.html>`__ 
-
-F
-
- `Next <fat-pipe.html>`__
-
---------------
+==========================
 
 **fat electrons**: n.
 
@@ -451,27 +249,12 @@ heavier and so settle to the bottom of the generator. These flow down
 ordinary wires just fine, but when they have to turn a sharp corner (as
 in an integrated-circuit via), they're apt to get stuck. This is what
 causes computer glitches. [Fascinating. Obviously, fat electrons must
-gain mass by `*bogon* <../B/bogon.html>`__ absorption —ESR] Compare
-`*bogon* <../B/bogon.html>`__, `*magic
-smoke* <../M/magic-smoke.html>`__.
-
---------------
-
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <fascist.html>`__    | `Up <../F.html>`__         |  `Next <fat-pipe.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| fascist                    | `Home <../index.html>`__   |  fat pipe                   |
-+----------------------------+----------------------------+-----------------------------+
+gain mass by `bogon <../B/bogon.html>`__ absorption —ESR] Compare
+`bogon <../B/bogon.html>`__, `magic
+smoke <../M/magic-smoke.html>`__.
 
 fat-finger
-
-`Prev <fat-pipe.html>`__ 
-
-F
-
- `Next <faulty.html>`__
-
---------------
+=========================
 
 **fat-finger**: vt.
 
@@ -482,23 +265,8 @@ half the net down again.”
 
 2. More generally, any typo that produces dramatically bad results.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <fat-pipe.html>`__    | `Up <../F.html>`__         |  `Next <faulty.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| fat pipe                    | `Home <../index.html>`__   |  faulty                   |
-+-----------------------------+----------------------------+---------------------------+
-
 fat pipe
-
-`Prev <fat-electrons.html>`__ 
-
-F
-
- `Next <fat-finger.html>`__
-
---------------
+======================
 
 **fat pipe**
 
@@ -506,130 +274,62 @@ A high-bandwidth connection to the Internet. When the term gained
 currency in the mid-1990s, a T-1 (at 1.5 Mbits/second) was considered a
 fat pipe, but the standard has risen. Now it suggests multiple T3s.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------------+
-| `Prev <fat-electrons.html>`__    | `Up <../F.html>`__         |  `Next <fat-finger.html>`__   |
-+----------------------------------+----------------------------+-------------------------------+
-| fat electrons                    | `Home <../index.html>`__   |  fat-finger                   |
-+----------------------------------+----------------------------+-------------------------------+
 
 faulty
-
-`Prev <fat-finger.html>`__ 
-
-F
-
- `Next <fear-and-loathing.html>`__
-
---------------
+==========================
 
 **faulty**: adj.
 
 Non-functional; buggy. Same denotation as
-`*bletcherous* <../B/bletcherous.html>`__,
-`*losing* <../L/losing.html>`__, q.v., but the connotation is much
+`bletcherous <../B/bletcherous.html>`__,
+`losing <../L/losing.html>`__, q.v., but the connotation is much
 milder.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------------------+
-| `Prev <fat-finger.html>`__    | `Up <../F.html>`__         |  `Next <fear-and-loathing.html>`__   |
-+-------------------------------+----------------------------+--------------------------------------+
-| fat-finger                    | `Home <../index.html>`__   |  fear and loathing                   |
-+-------------------------------+----------------------------+--------------------------------------+
 
 fear and loathing
-
-`Prev <faulty.html>`__ 
-
-F
-
- `Next <feature.html>`__
-
---------------
+===============================
 
 **fear and loathing**: n.
 
 [from Hunter S. Thompson] A state inspired by the prospect of dealing
 with certain real-world systems and standards that are totally
-`*brain-damaged* <../B/brain-damaged.html>`__ but ubiquitous — Intel
-8086s, or `*COBOL* <../C/COBOL.html>`__, or
-`*EBCDIC* <../E/EBCDIC.html>`__, or any `*IBM* <../I/IBM.html>`__
+`brain-damaged <../B/brain-damaged.html>`__ but ubiquitous — Intel
+8086s, or `COBOL <../C/COBOL.html>`__, or
+`EBCDIC <../E/EBCDIC.html>`__, or any `IBM <../I/IBM.html>`__
 machine bigger than a workstation. “Ack! They want PCs to be able to
 talk to the AI machine. Fear and loathing time!”
 
---------------
-
-+---------------------------+----------------------------+----------------------------+
-| `Prev <faulty.html>`__    | `Up <../F.html>`__         |  `Next <feature.html>`__   |
-+---------------------------+----------------------------+----------------------------+
-| faulty                    | `Home <../index.html>`__   |  feature                   |
-+---------------------------+----------------------------+----------------------------+
 
 feature creature
-
-`Prev <feature.html>`__ 
-
-F
-
- `Next <feature-creep.html>`__
-
---------------
+=================================
 
 **feature creature**: n.
 
 [poss. fr. slang ‘creature feature’ for a horror movie]
 
 1. One who loves to add features to designs or programs, perhaps at the
-expense of coherence, concision, or `*taste* <../T/taste.html>`__.
+expense of coherence, concision, or `taste <../T/taste.html>`__.
 
 2. Alternately, a mythical being that induces otherwise rational
-programmers to perpetrate such crocks. See also `*feeping
-creaturism* <feeping-creaturism.html>`__, `*creeping
-featurism* <../C/creeping-featurism.html>`__.
+programmers to perpetrate such crocks. See also `feeping
+creaturism <feeping-creaturism.html>`__, `creeping
+featurism <../C/creeping-featurism.html>`__.
 
---------------
-
-+----------------------------+----------------------------+----------------------------------+
-| `Prev <feature.html>`__    | `Up <../F.html>`__         |  `Next <feature-creep.html>`__   |
-+----------------------------+----------------------------+----------------------------------+
-| feature                    | `Home <../index.html>`__   |  feature creep                   |
-+----------------------------+----------------------------+----------------------------------+
 
 feature creep
+==========================
 
-`Prev <feature-creature.html>`__ 
 
-F
-
- `Next <feature-key.html>`__
-
---------------
 
 **feature creep**: n.
 
-[common] The result of `*creeping
-featurism* <../C/creeping-featurism.html>`__, as in “Emacs has a bad
+[common] The result of `creeping
+featurism <../C/creeping-featurism.html>`__, as in “Emacs has a bad
 case of feature creep”.
 
---------------
-
-+-------------------------------------+----------------------------+--------------------------------+
-| `Prev <feature-creature.html>`__    | `Up <../F.html>`__         |  `Next <feature-key.html>`__   |
-+-------------------------------------+----------------------------+--------------------------------+
-| feature creature                    | `Home <../index.html>`__   |  feature key                   |
-+-------------------------------------+----------------------------+--------------------------------+
 
 featurectomy
-
-`Prev <feature-shock.html>`__ 
-
-F
-
- `Next <feep.html>`__
-
---------------
+==========================
 
 **featurectomy**: /fee\`ch@r·ek´t@·mee/, n.
 
@@ -638,27 +338,12 @@ flavors, the righteous and the reluctant. Righteous featurectomies are
 performed because the remover believes the program would be more elegant
 without the feature, or there is already an equivalent and better way to
 achieve the same end. (Doing so is not quite the same thing as removing
-a `*misfeature* <../M/misfeature.html>`__.) Reluctant featurectomies are
+a `misfeature <../M/misfeature.html>`__.) Reluctant featurectomies are
 performed to satisfy some external constraint such as code size or
 execution speed.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------+
-| `Prev <feature-shock.html>`__    | `Up <../F.html>`__         |  `Next <feep.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
-| feature shock                    | `Home <../index.html>`__   |  feep                   |
-+----------------------------------+----------------------------+-------------------------+
-
 feature
-
-`Prev <fear-and-loathing.html>`__ 
-
-F
-
- `Next <feature-creature.html>`__
-
---------------
+=========================
 
 **feature**: n.
 
@@ -667,19 +352,19 @@ was intended or not is immaterial.
 
 2. [common] An intended property or behavior (as of a program). Whether
 it is good or not is immaterial (but if bad, it is also a
-`*misfeature* <../M/misfeature.html>`__).
+`misfeature <../M/misfeature.html>`__).
 
 3. A surprising property or behavior; in particular, one that is
 purposely inconsistent because it works better that way — such an
-inconsistency is therefore a `*feature* <feature.html>`__ and not a
-`*bug* <../B/bug.html>`__. This kind of feature is sometimes called a
-`*miswart* <../M/miswart.html>`__; see that entry for a classic example.
+inconsistency is therefore a `feature <feature.html>`__ and not a
+`bug <../B/bug.html>`__. This kind of feature is sometimes called a
+`miswart <../M/miswart.html>`__; see that entry for a classic example.
 
 4. A property or behavior that is gratuitous or unnecessary, though
 perhaps also impressive or cute. For example, one feature of Common
 LISP's **format** function is the ability to print numbers in two
-different Roman-numeral formats (see `*bells whistles and
-gongs* <../B/bells-whistles-and-gongs.html>`__).
+different Roman-numeral formats (see `bells whistles and
+gongs <../B/bells-whistles-and-gongs.html>`__).
 
 5. A property or behavior that was put in to help someone else but that
 happens to be in your way.
@@ -688,14 +373,14 @@ happens to be in your way.
 sometimes means the author of the program did not consider the
 particular case, and that the program responded in a way that was
 unexpected but not strictly incorrect. A standard joke is that a bug can
-be turned into a `*feature* <feature.html>`__ simply by documenting it
+be turned into a `feature <feature.html>`__ simply by documenting it
 (then theoretically no one can complain about it because it's in the
 manual), or even by simply declaring it to be good. “That's not a bug,
-that's a feature!” is a common catchphrase. See also `*feetch
-feetch* <feetch-feetch.html>`__, `*creeping
-featurism* <../C/creeping-featurism.html>`__,
-`*wart* <../W/wart.html>`__, `*green
-lightning* <../G/green-lightning.html>`__.
+that's a feature!” is a common catchphrase. See also `feetch
+feetch <feetch-feetch.html>`__, `creeping
+featurism <../C/creeping-featurism.html>`__,
+`wart <../W/wart.html>`__, `green
+lightning <../G/green-lightning.html>`__.
 
 The relationship among bugs, features, misfeatures, warts, and miswarts
 might be clarified by the following hypothetical exchange between two
@@ -720,35 +405,20 @@ spacing would actually be the Right Thing.”
 B: “Indeed.”
 
 Undocumented feature is a common, allegedly humorous euphemism for a
-`*bug* <../B/bug.html>`__. There's a related joke that is sometimes
+`bug <../B/bug.html>`__. There's a related joke that is sometimes
 referred to as the “one-question geek test”. You say to someone “I saw a
 Volkswagen Beetle today with a vanity license plate that read FEATURE”.
-If he/she laughs, he/she is a `*geek* <../G/geek.html>`__.
-
---------------
-
-+--------------------------------------+----------------------------+-------------------------------------+
-| `Prev <fear-and-loathing.html>`__    | `Up <../F.html>`__         |  `Next <feature-creature.html>`__   |
-+--------------------------------------+----------------------------+-------------------------------------+
-| fear and loathing                    | `Home <../index.html>`__   |  feature creature                   |
-+--------------------------------------+----------------------------+-------------------------------------+
+If he/she laughs, he/she is a `geek <../G/geek.html>`__.
 
 feature key
-
-`Prev <feature-creep.html>`__ 
-
-F
-
- `Next <feature-shock.html>`__
-
---------------
+==============================
 
 **feature key**: n.
 
 [common] The Macintosh key with the cloverleaf graphic on its keytop;
 sometimes referred to as flower, pretzel, clover, propeller, beanie (an
 apparent reference to the major feature of a propeller beanie),
-`*splat* <../S/splat.html>`__, open-apple or (officially, in Mac
+`splat <../S/splat.html>`__, open-apple or (officially, in Mac
 documentation) the command key. In French, the term *papillon*
 (butterfly) has been reported. The proliferation of terms for this
 creature may illustrate one subtle peril of iconic interfaces.
@@ -772,23 +442,10 @@ are Viking rune-stones. The term *fornminne* /foorn´min'@/ (relic of
 antiquity, ancient monument) is also reported, especially among those
 who think that the Mac itself is a relic of antiquity.
 
---------------
 
-+----------------------------------+----------------------------+----------------------------------+
-| `Prev <feature-creep.html>`__    | `Up <../F.html>`__         |  `Next <feature-shock.html>`__   |
-+----------------------------------+----------------------------+----------------------------------+
-| feature creep                    | `Home <../index.html>`__   |  feature shock                   |
-+----------------------------------+----------------------------+----------------------------------+
 
 feature shock
-
-`Prev <feature-key.html>`__ 
-
-F
-
- `Next <featurectomy.html>`__
-
---------------
+==================
 
 **feature shock**: n.
 
@@ -796,56 +453,28 @@ F
 programmer's!) confusion when confronted with a package that has too
 many features and poor introductory material.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------------+
-| `Prev <feature-key.html>`__    | `Up <../F.html>`__         |  `Next <featurectomy.html>`__   |
-+--------------------------------+----------------------------+---------------------------------+
-| feature key                    | `Home <../index.html>`__   |  featurectomy                   |
-+--------------------------------+----------------------------+---------------------------------+
 
 feeper
-
-`Prev <feep.html>`__ 
-
-F
-
- `Next <feeping-creature.html>`__
-
---------------
+===========================
 
 **feeper**: /fee´pr/, n.
 
 The device in a terminal or workstation (usually a loudspeaker of some
-kind) that makes the `*feep* <feep.html>`__ sound.
+kind) that makes the `feep <feep.html>`__ sound.
 
---------------
-
-+-------------------------+----------------------------+-------------------------------------+
-| `Prev <feep.html>`__    | `Up <../F.html>`__         |  `Next <feeping-creature.html>`__   |
-+-------------------------+----------------------------+-------------------------------------+
-| feep                    | `Home <../index.html>`__   |  feeping creature                   |
-+-------------------------+----------------------------+-------------------------------------+
 
 feep
-
-`Prev <featurectomy.html>`__ 
-
-F
-
- `Next <feeper.html>`__
-
---------------
+=====================
 
 **feep**: /feep/
 
 1. n. The soft electronic ‘bell’ sound of a display terminal (except for
 a VT-52); a beep (in fact, the microcomputer world seems to prefer
-`*beep* <../B/beep.html>`__).
+`beep <../B/beep.html>`__).
 
 2. vi. To cause the display to make a feep sound. ASR-33s (the original
 TTYs) do not feep; they have mechanical bells that ring. Alternate
-forms: `*beep* <../B/beep.html>`__, ‘bleep’, or just about anything
+forms: `beep <../B/beep.html>`__, ‘bleep’, or just about anything
 suitably onomatopoeic. (Jeff MacNelly, in his comic strip *Shoe*, uses
 the word ‘eep’ for sounds made by computer terminals and video games;
 this is perhaps the closest written approximation yet.) The term
@@ -854,76 +483,33 @@ not particularly soft (they sound more like the musical equivalent of a
 raspberry or Bronx cheer; for a close approximation, imagine the sound
 of a Star Trek communicator's beep lasting for five seconds). The
 ‘feeper’ on a VT-52 has been compared to the sound of a '52 Chevy
-stripping its gears. See also `*ding* <../D/ding.html>`__.
-
---------------
-
-+---------------------------------+----------------------------+---------------------------+
-| `Prev <featurectomy.html>`__    | `Up <../F.html>`__         |  `Next <feeper.html>`__   |
-+---------------------------------+----------------------------+---------------------------+
-| featurectomy                    | `Home <../index.html>`__   |  feeper                   |
-+---------------------------------+----------------------------+---------------------------+
+stripping its gears. See also `ding <../D/ding.html>`__.
 
 feeping creature
-
-`Prev <feeper.html>`__ 
-
-F
-
- `Next <feeping-creaturism.html>`__
-
---------------
+==========================
 
 **feeping creature**: n.
 
-[from `*feeping creaturism* <feeping-creaturism.html>`__] An unnecessary
-feature; a bit of `*chrome* <../C/chrome.html>`__ that, in the speaker's
+[from `feeping creaturism <feeping-creaturism.html>`__] An unnecessary
+feature; a bit of `chrome <../C/chrome.html>`__ that, in the speaker's
 judgment, is the camel's nose for a whole horde of new features.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------------+
-| `Prev <feeper.html>`__    | `Up <../F.html>`__         |  `Next <feeping-creaturism.html>`__   |
-+---------------------------+----------------------------+---------------------------------------+
-| feeper                    | `Home <../index.html>`__   |  feeping creaturism                   |
-+---------------------------+----------------------------+---------------------------------------+
 
 feeping creaturism
-
-`Prev <feeping-creature.html>`__ 
-
-F
-
- `Next <feetch-feetch.html>`__
-
---------------
+===================================
 
 **feeping creaturism**: /fee´ping kree\`ch@r·izm/, n.
 
-A deliberate spoonerism for `*creeping
-featurism* <../C/creeping-featurism.html>`__, meant to imply that the
+A deliberate spoonerism for `creeping
+featurism <../C/creeping-featurism.html>`__, meant to imply that the
 system or program in question has become a misshapen creature of hacks.
 This term isn't really well defined, but it sounds so neat that most
 hackers have said or heard it. It is probably reinforced by an image of
 terminals prowling about in the dark making their customary noises.
 
---------------
-
-+-------------------------------------+----------------------------+----------------------------------+
-| `Prev <feeping-creature.html>`__    | `Up <../F.html>`__         |  `Next <feetch-feetch.html>`__   |
-+-------------------------------------+----------------------------+----------------------------------+
-| feeping creature                    | `Home <../index.html>`__   |  feetch feetch                   |
-+-------------------------------------+----------------------------+----------------------------------+
 
 feetch feetch
-
-`Prev <feeping-creaturism.html>`__ 
-
-F
-
- `Next <fence.html>`__
-
---------------
+====================================
 
 **feetch feetch**: /feech feech/, interj.
 
@@ -935,35 +521,21 @@ don't know; it sounds like just one more unnecessary and complicated
 thing”. With a tone of resignation, it means, “Well, I'd rather keep it
 simple, but I suppose it has to be done”.
 
---------------
-
-+---------------------------------------+----------------------------+--------------------------+
-| `Prev <feeping-creaturism.html>`__    | `Up <../F.html>`__         |  `Next <fence.html>`__   |
-+---------------------------------------+----------------------------+--------------------------+
-| feeping creaturism                    | `Home <../index.html>`__   |  fence                   |
-+---------------------------------------+----------------------------+--------------------------+
 
 fence
-
-`Prev <feetch-feetch.html>`__ 
-
-F
-
- `Next <fencepost-error.html>`__
-
---------------
+===========================
 
 **fence**
 
 n.
 
 1. A sequence of one or more distinguished
-(`*out-of-band* <../O/out-of-band.html>`__) characters (or other data
+(`out-of-band <../O/out-of-band.html>`__) characters (or other data
 items), used to delimit a piece of data intended to be treated as a unit
 (the computer-science literature calls this a sentinel). The NUL (ASCII
 0000000) character that terminates strings in C is a fence. Hex FF is
 also (though slightly less frequently) used this way. See
-`*zigamorph* <../Z/zigamorph.html>`__.
+`zigamorph <../Z/zigamorph.html>`__.
 
 2. An extra data value inserted in an array or other data structure in
 order to allow some normal test on the array's contents also to function
@@ -980,23 +552,9 @@ overkill. Typically a hack: “I call a dummy procedure there to force a
 flush of the optimizer's register-coloring info” can be expressed by the
 shorter “That's a fence procedure”.
 
---------------
-
-+----------------------------------+----------------------------+------------------------------------+
-| `Prev <feetch-feetch.html>`__    | `Up <../F.html>`__         |  `Next <fencepost-error.html>`__   |
-+----------------------------------+----------------------------+------------------------------------+
-| feetch feetch                    | `Home <../index.html>`__   |  fencepost error                   |
-+----------------------------------+----------------------------+------------------------------------+
 
 fencepost error
-
-`Prev <fence.html>`__ 
-
-F
-
- `Next <fiber-seeking-backhoe.html>`__
-
---------------
+==========================
 
 **fencepost error**: n.
 
@@ -1009,8 +567,8 @@ or array of items, and want to process items ``m`` through ``n``; how
 many items are there? The obvious answer is ``n - m``, but that is off
 by one; the right answer is ``n - m + 1``. A program that used the
 ‘obvious’ formula would have a fencepost error in it. See also
-`*zeroth* <../Z/zeroth.html>`__ and `*off-by-one
-error* <../O/off-by-one-error.html>`__, and note that not all off-by-one
+`zeroth <../Z/zeroth.html>`__ and `off-by-one
+error <../O/off-by-one-error.html>`__, and note that not all off-by-one
 errors are fencepost errors. The game of Musical Chairs involves a
 catastrophic off-by-one error where ``N`` people try to sit in ``N - 1``
 chairs, but it's not a fencepost error. Fencepost errors come from
@@ -1023,48 +581,19 @@ which can (for instance) completely thwart a theoretically efficient
 binary tree or hash table implementation. (The error here involves the
 difference between expected and worst case behaviors of an algorithm.)
 
---------------
-
-+--------------------------+----------------------------+------------------------------------------+
-| `Prev <fence.html>`__    | `Up <../F.html>`__         |  `Next <fiber-seeking-backhoe.html>`__   |
-+--------------------------+----------------------------+------------------------------------------+
-| fence                    | `Home <../index.html>`__   |  fiber-seeking backhoe                   |
-+--------------------------+----------------------------+------------------------------------------+
-
 fiber-seeking backhoe
-
-`Prev <fencepost-error.html>`__ 
-
-F
-
- `Next <FidoNet.html>`__
-
---------------
+=================================
 
 **fiber-seeking backhoe**
 
 [common among backbone ISP personnel] Any of a genus of large,
 disruptive machines which routinely cut critical backbone links,
-creating Internet outages and `*packet over
-air* <../P/packet-over-air.html>`__ problems.
+creating Internet outages and `packet over
+air <../P/packet-over-air.html>`__ problems.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <fencepost-error.html>`__    | `Up <../F.html>`__         |  `Next <FidoNet.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| fencepost error                    | `Home <../index.html>`__   |  FidoNet                   |
-+------------------------------------+----------------------------+----------------------------+
 
 FidoNet
-
-`Prev <fiber-seeking-backhoe.html>`__ 
-
-F
-
- `Next <field-circus.html>`__
-
---------------
+===========================
 
 **FidoNet**: n.
 
@@ -1078,121 +607,63 @@ count has dropped from 38K nodes in 1996 through 15K nodes in 2001 to
 10K nodes in late 2003, and most of those are probably single-user
 machines rather than the thriving BBSes of yore.
 
---------------
-
-+------------------------------------------+----------------------------+---------------------------------+
-| `Prev <fiber-seeking-backhoe.html>`__    | `Up <../F.html>`__         |  `Next <field-circus.html>`__   |
-+------------------------------------------+----------------------------+---------------------------------+
-| fiber-seeking backhoe                    | `Home <../index.html>`__   |  field circus                   |
-+------------------------------------------+----------------------------+---------------------------------+
-
 field circus
-
-`Prev <FidoNet.html>`__ 
-
-F
-
- `Next <field-servoid.html>`__
-
---------------
+=======================================
 
 **field circus**: n.
 
 [a derogatory pun on ‘field service’] The field service organization of
-any hardware manufacturer, but originally `*DEC* <../D/DEC.html>`__.
+any hardware manufacturer, but originally `DEC <../D/DEC.html>`__.
 There is an entire genre of jokes about field circus engineers:
 
 | 
-|  Q: How can you recognize a field circus engineer
-|     with a flat tire?
-|  A: He's changing one tire at a time to see which one is flat.
+|  Q: How can you recognize a field circus engineer
+|     with a flat tire?
+|  A: He's changing one tire at a time to see which one is flat.
 | 
-|  Q: How can you recognize a field circus engineer
-|     who is out of gas?
-|  A: He's changing one tire at a time to see which one is flat.
+|  Q: How can you recognize a field circus engineer
+|     who is out of gas?
+|  A: He's changing one tire at a time to see which one is flat.
 | 
-|  Q: How can you tell it's \ *your* field circus engineer?
-|  A: The spare is flat, too.
+|  Q: How can you tell it's \ *your* field circus engineer?
+|  A: The spare is flat, too.
 
-[See `*Easter egging* <../E/Easter-egging.html>`__ for additional
+[See `Easter egging <../E/Easter-egging.html>`__ for additional
 insight on these jokes.]
 
-There is also the ‘Field Circus Cheer’ (from the old `*plan
-file* <../P/plan-file.html>`__ for DEC on MIT-AI):
+There is also the ‘Field Circus Cheer’ (from the old `plan
+file <../P/plan-file.html>`__ for DEC on MIT-AI):
 
 | 
-|  Maynard! Maynard!
-|  Don't mess with us!
-|  We're mean and we're tough!
-|  If you get us confused
-|  We'll screw up your stuff.
+|  Maynard! Maynard!
+|  Don't mess with us!
+|  We're mean and we're tough!
+|  If you get us confused
+|  We'll screw up your stuff.
 
 (DEC's service HQ, still extant under the HP regime, is located in
 Maynard, Massachusetts.)
 
---------------
-
-+----------------------------+----------------------------+----------------------------------+
-| `Prev <FidoNet.html>`__    | `Up <../F.html>`__         |  `Next <field-servoid.html>`__   |
-+----------------------------+----------------------------+----------------------------------+
-| FidoNet                    | `Home <../index.html>`__   |  field servoid                   |
-+----------------------------+----------------------------+----------------------------------+
 
 field servoid
-
-`Prev <field-circus.html>`__ 
-
-F
-
- `Next <file-signature.html>`__
-
---------------
+===========================================
 
 **field servoid**: /fee´ld ser´voyd/, n.
 
 [play on ‘android’] Representative of a field service organization (see
-`*field circus* <field-circus.html>`__). This has many of the
-implications of `*droid* <../D/droid.html>`__.
+`field circus <field-circus.html>`__). This has many of the
+implications of `droid <../D/droid.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+-----------------------------------+
-| `Prev <field-circus.html>`__    | `Up <../F.html>`__         |  `Next <file-signature.html>`__   |
-+---------------------------------+----------------------------+-----------------------------------+
-| field circus                    | `Home <../index.html>`__   |  file signature                   |
-+---------------------------------+----------------------------+-----------------------------------+
 
 file signature
-
-`Prev <field-servoid.html>`__ 
-
-F
-
- `Next <filk.html>`__
-
---------------
-
+=========================================
 **file signature**: n.
 
-A `*magic number* <../M/magic-number.html>`__, sense 3.
+A `magic number <../M/magic-number.html>`__, sense 3.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------+
-| `Prev <field-servoid.html>`__    | `Up <../F.html>`__         |  `Next <filk.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
-| field servoid                    | `Home <../index.html>`__   |  filk                   |
-+----------------------------------+----------------------------+-------------------------+
 
 filk
-
-`Prev <file-signature.html>`__ 
-
-F
-
- `Next <film-at-11.html>`__
-
---------------
+=============================================
 
 **filk**: /filk/, n.,v.
 
@@ -1205,27 +676,13 @@ originally-composed music on SFnal or fantasy themes and a range of
 moods wider than simple parody or humor. Worthy of mention here because
 there is a flourishing subgenre of filks called computer filks, written
 by hackers and often containing rather sophisticated technical humor.
-See `*double bucky* <../D/double-bucky.html>`__ for an example. Compare
-`*grilf* <../G/grilf.html>`__, `*hing* <../H/hing.html>`__,
-`*pr0n* <../P/pr0n.html>`__, and `*newsfroup* <../N/newsfroup.html>`__.
+See `double bucky <../D/double-bucky.html>`__ for an example. Compare
+`grilf <../G/grilf.html>`__, `hing <../H/hing.html>`__,
+`pr0n <../P/pr0n.html>`__, and `newsfroup <../N/newsfroup.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------------+
-| `Prev <file-signature.html>`__    | `Up <../F.html>`__         |  `Next <film-at-11.html>`__   |
-+-----------------------------------+----------------------------+-------------------------------+
-| file signature                    | `Home <../index.html>`__   |  film at 11                   |
-+-----------------------------------+----------------------------+-------------------------------+
 
 film at 11
-
-`Prev <filk.html>`__ 
-
-F
-
- `Next <filter.html>`__
-
---------------
+=========================================
 
 **film at 11**
 
@@ -1233,7 +690,7 @@ F
 
 1. Used in conversation to announce ordinary events, with a sarcastic
 implication that these events are earth-shattering.
-“\ `*ITS* <../I/ITS.html>`__ crashes; film at 11.” “Bug found in
+“\ `ITS <../I/ITS.html>`__ crashes; film at 11.” “Bug found in
 scheduler; film at 11.”
 
 2. Also widely used outside MIT to indicate that additional information
@@ -1251,55 +708,27 @@ news”, if people will just be patient.
 The variant “MPEGs at 11” has recently been cited (MPEG is a
 digital-video format.)
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <filk.html>`__    | `Up <../F.html>`__         |  `Next <filter.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| filk                    | `Home <../index.html>`__   |  filter                   |
-+-------------------------+----------------------------+---------------------------+
 
 filter
-
-`Prev <film-at-11.html>`__ 
-
-F
-
- `Next <Finagles-Law.html>`__
-
---------------
+====================================
 
 **filter**: n.
 
-[very common; orig. `*Unix* <../U/Unix.html>`__] A program that
+[very common; orig. `Unix <../U/Unix.html>`__] A program that
 processes an input data stream into an output data stream in some
 well-defined way, and does no I/O to anywhere else except possibly on
 error conditions; one designed to be used as a stage in a pipeline (see
-`*plumbing* <../P/plumbing.html>`__). Compare
-`*sponge* <../S/sponge.html>`__.
+`plumbing <../P/plumbing.html>`__). Compare
+`sponge <../S/sponge.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------------+
-| `Prev <film-at-11.html>`__    | `Up <../F.html>`__         |  `Next <Finagles-Law.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
-| film at 11                    | `Home <../index.html>`__   |  Finagle's Law                  |
-+-------------------------------+----------------------------+---------------------------------+
 
 Finagle's Law
-
-`Prev <filter.html>`__ 
-
-F
-
- `Next <fine.html>`__
-
---------------
+========================================
 
 **Finagle's Law**: n.
 
-The generalized or ‘folk’ version of `*Murphy's
-Law* <../M/Murphys-Law.html>`__, fully named “Finagle's Law of Dynamic
+The generalized or ‘folk’ version of `Murphy's
+Law <../M/Murphys-Law.html>`__, fully named “Finagle's Law of Dynamic
 Negatives” and usually rendered “Anything that can go wrong, will”. May
 have been first published by Francis P. Chisholm in his 1963 essay *The
 Chisholm Effect*, later reprinted in the classic anthology *A Stress
@@ -1314,50 +743,22 @@ technical and scientific cultures (e.g., paleontologists) know it under
 the name Sod's Law; this usage may be more common in Great Britain. One
 variant favored among hackers is “The perversity of the Universe tends
 towards a maximum”; Niven specifically referred to this as O'Toole's
-Corollary of Finagle's Law. See also `*Hanlon's
-Razor* <../H/Hanlons-Razor.html>`__.
+Corollary of Finagle's Law. See also `Hanlon's
+Razor <../H/Hanlons-Razor.html>`__.
 
---------------
 
-+---------------------------+----------------------------+-------------------------+
-| `Prev <filter.html>`__    | `Up <../F.html>`__         |  `Next <fine.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| filter                    | `Home <../index.html>`__   |  fine                   |
-+---------------------------+----------------------------+-------------------------+
 
 fine
-
-`Prev <Finagles-Law.html>`__ 
-
-F
-
- `Next <finger.html>`__
-
---------------
+=======================================
 
 **fine**: adj.
 
-[WPI] Good, but not good enough to be `*cuspy* <../C/cuspy.html>`__. The
+[WPI] Good, but not good enough to be `cuspy <../C/cuspy.html>`__. The
 word fine is used elsewhere, of course, but without the implicit
-comparison to the higher level implied by `*cuspy* <../C/cuspy.html>`__.
-
---------------
-
-+---------------------------------+----------------------------+---------------------------+
-| `Prev <Finagles-Law.html>`__    | `Up <../F.html>`__         |  `Next <finger.html>`__   |
-+---------------------------------+----------------------------+---------------------------+
-| Finagle's Law                   | `Home <../index.html>`__   |  finger                   |
-+---------------------------------+----------------------------+---------------------------+
+comparison to the higher level implied by `cuspy <../C/cuspy.html>`__.
 
 finger
-
-`Prev <fine.html>`__ 
-
-F
-
- `Next <finger-trouble.html>`__
-
---------------
+========================
 
 **finger**
 
@@ -1366,9 +767,9 @@ F
 1. n. A program that displays information about a particular user or all
 users logged on the system, or a remote system. Typically shows full
 name, last login time, idle time, terminal line, and terminal location
-(where applicable). May also display a `*plan
-file* <../P/plan-file.html>`__ left by the user (see also `*Hacking X
-for Y* <../H/Hacking-X-for-Y.html>`__).
+(where applicable). May also display a `plan
+file <../P/plan-file.html>`__ left by the user (see also `Hacking X
+for Y <../H/Hacking-X-for-Y.html>`__).
 
 2. vt. To apply finger to a username.
 
@@ -1376,27 +777,13 @@ for Y* <../H/Hacking-X-for-Y.html>`__).
 “Foodp?” “T!” “OK, finger Lisa and see if she's idle.”
 
 4. Any picture (composed of ASCII characters) depicting ‘the finger’,
-see `*See figure 1* <../S/See-figure-1.html>`__. Originally a humorous
+see `See figure 1 <../S/See-figure-1.html>`__. Originally a humorous
 component of one's plan file to deter the curious fingerer (sense 2), it
-has entered the arsenal of some `*flamer* <flamer.html>`__\ s.
+has entered the arsenal of some `flamer <flamer.html>`__\ s.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <fine.html>`__    | `Up <../F.html>`__         |  `Next <finger-trouble.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| fine                    | `Home <../index.html>`__   |  finger trouble                   |
-+-------------------------+----------------------------+-----------------------------------+
 
 finger-pointing syndrome
-
-`Prev <finger-trouble.html>`__ 
-
-F
-
- `Next <finn.html>`__
-
---------------
+================================================
 
 **finger-pointing syndrome**: n.
 
@@ -1405,24 +792,9 @@ configurations. The hardware vendor points a finger at the software. The
 software vendor points a finger at the hardware. All the poor users get
 is the finger.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <finger-trouble.html>`__    | `Up <../F.html>`__         |  `Next <finn.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| finger trouble                    | `Home <../index.html>`__   |  finn                   |
-+-----------------------------------+----------------------------+-------------------------+
 
 finger trouble
-
-`Prev <finger.html>`__ 
-
-F
-
- `Next <finger-pointing-syndrome.html>`__
-
---------------
-
+==================
 **finger trouble**: n.
 
 Mistyping, typos, or generalized keyboard incompetence (this is
@@ -1430,50 +802,22 @@ surprisingly common among hackers, given the amount of time they spend
 at keyboards). “I keep putting colons at the end of statements instead
 of semicolons”, “Finger trouble again, eh?”.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------------------+
-| `Prev <finger.html>`__    | `Up <../F.html>`__         |  `Next <finger-pointing-syndrome.html>`__   |
-+---------------------------+----------------------------+---------------------------------------------+
-| finger                    | `Home <../index.html>`__   |  finger-pointing syndrome                   |
-+---------------------------+----------------------------+---------------------------------------------+
 
 finn
-
-`Prev <finger-pointing-syndrome.html>`__ 
-
-F
-
- `Next <firebottle.html>`__
-
---------------
+==========================================================================
 
 **finn**: v.
 
 [IRC] To pull rank on somebody based on the amount of time one has spent
-on `*IRC* <../I/IRC.html>`__. The term derives from the fact that IRC
+on `IRC <../I/IRC.html>`__. The term derives from the fact that IRC
 was originally written in Finland in 1987. There may be some influence
 from the ‘Finn’ character in William Gibson's seminal cyberpunk novel
 *Count Zero*, who at one point says to another (much younger) character
 “I have a pair of shoes older than you are, so shut up!”
 
---------------
-
-+---------------------------------------------+----------------------------+-------------------------------+
-| `Prev <finger-pointing-syndrome.html>`__    | `Up <../F.html>`__         |  `Next <firebottle.html>`__   |
-+---------------------------------------------+----------------------------+-------------------------------+
-| finger-pointing syndrome                    | `Home <../index.html>`__   |  firebottle                   |
-+---------------------------------------------+----------------------------+-------------------------------+
 
 firebottle
-
-`Prev <finn.html>`__ 
-
-F
-
- `Next <firefighting.html>`__
-
---------------
+===================================
 
 **firebottle**: n.obs.
 
@@ -1482,25 +826,12 @@ function to a FET but constructed out of glass, metal, and vacuum.
 Characterized by high cost, low density, low reliability,
 high-temperature operation, and high power dissipation. Sometimes
 mistakenly called a tube in the U.S. or a valve in England; another
-hackish term is `*glassfet* <../G/glassfet.html>`__.
+hackish term is `glassfet <../G/glassfet.html>`__.
 
---------------
 
-+-------------------------+----------------------------+---------------------------------+
-| `Prev <finn.html>`__    | `Up <../F.html>`__         |  `Next <firefighting.html>`__   |
-+-------------------------+----------------------------+---------------------------------+
-| finn                    | `Home <../index.html>`__   |  firefighting                   |
-+-------------------------+----------------------------+---------------------------------+
 
 firefighting
-
-`Prev <firebottle.html>`__ 
-
-F
-
- `Next <firehose-syndrome.html>`__
-
---------------
+==============================================
 
 **firefighting**: n.
 
@@ -1510,29 +841,15 @@ glitch hosed the network and I spent the whole afternoon fighting
 fires.”
 
 2. The act of throwing lots of manpower and late nights at a project,
-esp. to get it out before deadline. See also `*gang
-bang* <../G/gang-bang.html>`__, `*Mongolian Hordes
-technique* <../M/Mongolian-Hordes-technique.html>`__; however, the term
+esp. to get it out before deadline. See also `gang
+bang <../G/gang-bang.html>`__, `Mongolian Hordes
+technique <../M/Mongolian-Hordes-technique.html>`__; however, the term
 firefighting connotes that the effort is going into chasing bugs rather
 than adding features.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------------------+
-| `Prev <firebottle.html>`__    | `Up <../F.html>`__         |  `Next <firehose-syndrome.html>`__   |
-+-------------------------------+----------------------------+--------------------------------------+
-| firebottle                    | `Home <../index.html>`__   |  firehose syndrome                   |
-+-------------------------------+----------------------------+--------------------------------------+
 
 firehose syndrome
-
-`Prev <firefighting.html>`__ 
-
-F
-
- `Next <firewall-code.html>`__
-
---------------
+======================
 
 **firehose syndrome**: n.
 
@@ -1541,26 +858,14 @@ firehose can be a good way to rip your lips off. On computer networks,
 the absence or failure of flow control mechanisms can lead to situations
 in which the sending system sprays a massive flood of packets at an
 unfortunate receiving system, more than it can handle. Compare
-`*overrun* <../O/overrun.html>`__, `*buffer
-overflow* <../B/buffer-overflow.html>`__.
+`overrun <../O/overrun.html>`__, `buffer
+overflow <../B/buffer-overflow.html>`__.
 
---------------
 
-+---------------------------------+----------------------------+----------------------------------+
-| `Prev <firefighting.html>`__    | `Up <../F.html>`__         |  `Next <firewall-code.html>`__   |
-+---------------------------------+----------------------------+----------------------------------+
-| firefighting                    | `Home <../index.html>`__   |  firewall code                   |
-+---------------------------------+----------------------------+----------------------------------+
 
 firewall code
+======================================================
 
-`Prev <firehose-syndrome.html>`__ 
-
-F
-
- `Next <firewall-machine.html>`__
-
---------------
 
 **firewall code**: n.
 
@@ -1571,71 +876,46 @@ construction of a firewall is a question not only of defensive coding
 but also of interface presentation, so that users don't even get curious
 about those corners of a system where they can burn themselves.
 
-2. Any sanity check inserted to catch a `*can't
-happen* <../C/can-t-happen.html>`__ error. Wise programmers often change
+2. Any sanity check inserted to catch a `can't
+happen <../C/can-t-happen.html>`__ error. Wise programmers often change
 code to fix a bug twice: once to fix the bug, and once to insert a
 firewall which would have arrested the bug before it did quite as much
 damage.
 
---------------
 
-+--------------------------------------+----------------------------+-------------------------------------+
-| `Prev <firehose-syndrome.html>`__    | `Up <../F.html>`__         |  `Next <firewall-machine.html>`__   |
-+--------------------------------------+----------------------------+-------------------------------------+
-| firehose syndrome                    | `Home <../index.html>`__   |  firewall machine                   |
-+--------------------------------------+----------------------------+-------------------------------------+
 
 firewall machine
+===========================================================================================
 
-`Prev <firewall-code.html>`__ 
-
-F
-
- `Next <fireworks-mode.html>`__
-
---------------
 
 **firewall machine**: n.
 
 A dedicated gateway machine with special security precautions on it,
 used to service outside network connections and dial-in lines. The idea
 is to protect a cluster of more loosely administered machines hidden
-behind it from `*cracker* <../C/cracker.html>`__\ s. The typical
+behind it from `cracker <../C/cracker.html>`__\ s. The typical
 firewall is an inexpensive micro-based Unix box kept clean of critical
 data, with a bunch of modems and public network ports on it but just one
 carefully watched connection back to the rest of the cluster. The
 special precautions may include threat monitoring, callback, and even a
-complete `*iron box* <../I/iron-box.html>`__ keyable to particular
-incoming IDs or activity patterns. Syn. `*flytrap* <flytrap.html>`__,
-`*Venus flytrap* <../V/Venus-flytrap.html>`__. See also `*wild
-side* <../W/wild-side.html>`__.
+complete `iron box <../I/iron-box.html>`__ keyable to particular
+incoming IDs or activity patterns. Syn. `flytrap <flytrap.html>`__,
+`Venus flytrap <../V/Venus-flytrap.html>`__. See also `wild
+side <../W/wild-side.html>`__.
 
 [When first coined in the mid-1980s this term was pure jargon. Now
 (1999) it is techspeak, and has been retained only as an example of
 uptake —ESR]
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------------+
-| `Prev <firewall-code.html>`__    | `Up <../F.html>`__         |  `Next <fireworks-mode.html>`__   |
-+----------------------------------+----------------------------+-----------------------------------+
-| firewall code                    | `Home <../index.html>`__   |  fireworks mode                   |
-+----------------------------------+----------------------------+-----------------------------------+
 
 fireworks mode
+============================================
 
-`Prev <firewall-machine.html>`__ 
-
-F
-
- `Next <firmware.html>`__
-
---------------
 
 **fireworks mode**: n.
 
 1. The mode a machine is sometimes said to be in when it is performing a
-`*crash and burn* <../C/crash-and-burn.html>`__ operation.
+`crash and burn <../C/crash-and-burn.html>`__ operation.
 
 2. There is (or was) a more specific meaning of this term in the Amiga
 community. The word fireworks described the effects of a particularly
@@ -1644,23 +924,11 @@ the start of the vertical blank. This caused the DAC to scroll through
 the entire contents of CHIP (video or video+CPU) memory. Since each bit
 plane would scroll separately this was quite a spectacular effect.
 
---------------
 
-+-------------------------------------+----------------------------+-----------------------------+
-| `Prev <firewall-machine.html>`__    | `Up <../F.html>`__         |  `Next <firmware.html>`__   |
-+-------------------------------------+----------------------------+-----------------------------+
-| firewall machine                    | `Home <../index.html>`__   |  firmware                   |
-+-------------------------------------+----------------------------+-----------------------------+
 
 firmware
+===============================
 
-`Prev <fireworks-mode.html>`__ 
-
-F
-
- `Next <fish.html>`__
-
---------------
 
 **firmware**: /ferm´weir/, n.
 
@@ -1674,53 +942,28 @@ a box and plugging in a new chip. A computer's BIOS is the classic
 example, although nowadays there is firmware in disk controllers,
 modems, video cards and even CD-ROM drives.
 
---------------
 
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <fireworks-mode.html>`__    | `Up <../F.html>`__         |  `Next <fish.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| fireworks mode                    | `Home <../index.html>`__   |  fish                   |
-+-----------------------------------+----------------------------+-------------------------+
 
 fish
+===================================
 
-`Prev <firmware.html>`__ 
-
-F
-
- `Next <FISH-queue.html>`__
-
---------------
 
 **fish**: n.
 
 [Adelaide University, Australia]
 
-1. Another `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__. See
-`*foo* <foo.html>`__. Derived originally from the Monty Python skit in
+1. Another `metasyntactic
+variable <../M/metasyntactic-variable.html>`__. See
+`foo <foo.html>`__. Derived originally from the Monty Python skit in
 the middle of *The Meaning of Life* entitled *Find the Fish*.
 
 2. A pun for microfiche. A microfiche file cabinet may be referred to as
 a fish tank.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------+
-| `Prev <firmware.html>`__    | `Up <../F.html>`__         |  `Next <FISH-queue.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
-| firmware                    | `Home <../index.html>`__   |  FISH queue                   |
-+-----------------------------+----------------------------+-------------------------------+
 
 FISH queue
+==================================
 
-`Prev <fish.html>`__ 
-
-F
-
- `Next <fisking.html>`__
-
---------------
 
 **FISH queue**: n.
 
@@ -1730,97 +973,43 @@ sequence of events or requests has stopped dead. Also FISH mode and
 FISHnet; the latter may be applied to any network that is running really
 slowly or exhibiting extreme flakiness.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <fish.html>`__    | `Up <../F.html>`__         |  `Next <fisking.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| fish                    | `Home <../index.html>`__   |  fisking                   |
-+-------------------------+----------------------------+----------------------------+
 
 fisking
-
-`Prev <FISH-queue.html>`__ 
-
-F
-
- `Next <FITNR.html>`__
-
---------------
+=======================================
 
 **fisking**: n.
 
 [blogosphere; very common] A point-by-point refutation of a
-`*blog* <../B/blog.html>`__ entry or (especially) news story. A really
+`blog <../B/blog.html>`__ entry or (especially) news story. A really
 stylish fisking is witty, logical, sarcastic and ruthlessly factual;
 flaming or handwaving is considered poor form. Named after Robert Fisk,
 a British journalist who was a frequent (and deserving) early target of
-such treatment. See also `*MiSTing* <../M/MiSTing.html>`__,
-`*anti-idiotarianism* <../A/anti-idiotarianism.html>`__
+such treatment. See also `MiSTing <../M/MiSTing.html>`__,
+`anti-idiotarianism <../A/anti-idiotarianism.html>`__
 
---------------
-
-+-------------------------------+----------------------------+--------------------------+
-| `Prev <FISH-queue.html>`__    | `Up <../F.html>`__         |  `Next <FITNR.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
-| FISH queue                    | `Home <../index.html>`__   |  FITNR                   |
-+-------------------------------+----------------------------+--------------------------+
 
 FITNR
-
-`Prev <fisking.html>`__ 
-
-F
-
- `Next <fix.html>`__
-
---------------
+===================
 
 **FITNR**: //, adj.
 
 [Thinking Machines, Inc.] Fixed In The Next Release. A written-only
 notation attached to bug reports. Often wishful thinking.
 
---------------
-
-+----------------------------+----------------------------+------------------------+
-| `Prev <fisking.html>`__    | `Up <../F.html>`__         |  `Next <fix.html>`__   |
-+----------------------------+----------------------------+------------------------+
-| fisking                    | `Home <../index.html>`__   |  fix                   |
-+----------------------------+----------------------------+------------------------+
 
 fix
-
-`Prev <FITNR.html>`__ 
-
-F
-
- `Next <FIXME.html>`__
-
---------------
+============
 
 **fix**: n.,v.
 
 What one does when a problem has been reported too many times to be
 ignored.
 
---------------
 
-+--------------------------+----------------------------+--------------------------+
-| `Prev <FITNR.html>`__    | `Up <../F.html>`__         |  `Next <FIXME.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| FITNR                    | `Home <../index.html>`__   |  FIXME                   |
-+--------------------------+----------------------------+--------------------------+
 
 FIXME
+==========================
 
-`Prev <fix.html>`__ 
-
-F
-
- `Next <flag.html>`__
-
---------------
 
 **FIXME**: imp.
 
@@ -1829,70 +1018,45 @@ that needs work. The point of doing so is that a **grep** or a similar
 pattern-matching tool can find all such places quickly.
 
 | 
-|  /\* FIXME: note this is common in `*GNU* <../G/GNU.html>`__ code. \*/
+|  /\* FIXME: note this is common in `GNU <../G/GNU.html>`__ code. \*/
 
-Compare `*XXX* <../X/XXX.html>`__.
+Compare `XXX <../X/XXX.html>`__.
 
---------------
 
-+------------------------+----------------------------+-------------------------+
-| `Prev <fix.html>`__    | `Up <../F.html>`__         |  `Next <flag.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| fix                    | `Home <../index.html>`__   |  flag                   |
-+------------------------+----------------------------+-------------------------+
 
 flag day
+========================
 
-`Prev <flag.html>`__ 
-
-F
-
- `Next <flaky.html>`__
-
---------------
 
 **flag day**: n.
 
 A software change that is neither forward- nor backward-compatible, and
 which is costly to make and costly to reverse. “Can we install that
 without causing a flag day for all users?” This term has nothing to do
-with the use of the word `*flag* <flag.html>`__ to mean a variable that
+with the use of the word `flag <flag.html>`__ to mean a variable that
 has two values. It came into use when a change was made to the
 definition of the ASCII character set during the development of
-`*Multics* <../M/Multics.html>`__. The change was scheduled for Flag Day
+`Multics <../M/Multics.html>`__. The change was scheduled for Flag Day
 (a U.S. holiday), June 14, 1966.
 
 The change altered the Multics definition of ASCII from the short-lived
 1965 version of the ASCII code to the 1967 version (in draft at the
 time); this moved code points for braces, vertical bar, and circumflex.
-See also `*backward
-combatability* <../B/backward-combatability.html>`__. The `*Great
-Renaming* <../G/Great-Renaming.html>`__ was a flag day.
+See also `backward
+combatability <../B/backward-combatability.html>`__. The `Great
+Renaming <../G/Great-Renaming.html>`__ was a flag day.
 
 [Most of the changes were made to files stored on
-`*CTSS* <../C/CTSS.html>`__, the system used to support Multics
+`CTSS <../C/CTSS.html>`__, the system used to support Multics
 development before it became self-hosting.]
 
 [As it happens, the first installation of a commercially-produced
 computer, a Univac I, took place on Flag Day of 1951 —ESR]
 
---------------
 
-+-------------------------+----------------------------+--------------------------+
-| `Prev <flag.html>`__    | `Up <../F.html>`__         |  `Next <flaky.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| flag                    | `Home <../index.html>`__   |  flaky                   |
-+-------------------------+----------------------------+--------------------------+
 
 flag
-
-`Prev <FIXME.html>`__ 
-
-F
-
- `Next <flag-day.html>`__
-
---------------
+================
 
 **flag**: n.
 
@@ -1901,105 +1065,46 @@ a bit, particularly one that is used to indicate one of two outcomes or
 is used to control which of two things is to be done. “This flag
 controls whether to clear the screen before printing the message.” “The
 program status word contains several flag bits.” Used of humans
-analogously to `*bit* <../B/bit.html>`__. See also `*hidden
-flag* <../H/hidden-flag.html>`__, `*mode bit* <../M/mode-bit.html>`__.
-
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <FIXME.html>`__    | `Up <../F.html>`__         |  `Next <flag-day.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| FIXME                    | `Home <../index.html>`__   |  flag day                   |
-+--------------------------+----------------------------+-----------------------------+
+analogously to `bit <../B/bit.html>`__. See also `hidden
+flag <../H/hidden-flag.html>`__, `mode bit <../M/mode-bit.html>`__.
 
 flaky
-
-`Prev <flag-day.html>`__ 
-
-F
-
- `Next <flamage.html>`__
-
---------------
-
+==============
 **flaky**: adj.
 
-(var sp. flakey) Subject to frequent `*lossage* <../L/lossage.html>`__.
+(var sp. flakey) Subject to frequent `lossage <../L/lossage.html>`__.
 This use is of course related to the common slang use of the word to
 describe a person as eccentric, crazy, or just unreliable. A system that
 is flaky is working, sort of — enough that you are tempted to try to use
 it — but fails frequently enough that the odds in favor of finishing
 what you start are low. Commonwealth hackish prefers
-`*dodgy* <../D/dodgy.html>`__ or `*wonky* <../W/wonky.html>`__.
+`dodgy <../D/dodgy.html>`__ or `wonky <../W/wonky.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <flag-day.html>`__    | `Up <../F.html>`__         |  `Next <flamage.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| flag day                    | `Home <../index.html>`__   |  flamage                   |
-+-----------------------------+----------------------------+----------------------------+
 
 flamage
-
-`Prev <flaky.html>`__ 
-
-F
-
- `Next <flame.html>`__
-
---------------
+=======================
 
 **flamage**: /flay'm@j/, n.
 
 [very common] Flaming verbiage, esp. high-noise, low-signal postings to
-`*Usenet* <../U/Usenet.html>`__ or other electronic
-`*fora* <fora.html>`__. Often in the phrase the usual flamage. Flaming
+`Usenet <../U/Usenet.html>`__ or other electronic
+`fora <fora.html>`__. Often in the phrase the usual flamage. Flaming
 is the act itself; flamage the content; a flame is a single flaming
-message. See `*flame* <flame.html>`__, also
-`*dahmum* <../D/dahmum.html>`__.
-
---------------
-
-+--------------------------+----------------------------+--------------------------+
-| `Prev <flaky.html>`__    | `Up <../F.html>`__         |  `Next <flame.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| flaky                    | `Home <../index.html>`__   |  flame                   |
-+--------------------------+----------------------------+--------------------------+
+message. See `flame <flame.html>`__, also
+`dahmum <../D/dahmum.html>`__.
 
 flame bait
-
-`Prev <flame.html>`__ 
-
-F
-
- `Next <flame-on.html>`__
-
---------------
+==================
 
 **flame bait**: n.
 
-[common] A posting intended to trigger a `*flame
-war* <flame-war.html>`__, or one that invites flames in reply. See also
-`*troll* <../T/troll.html>`__.
-
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <flame.html>`__    | `Up <../F.html>`__         |  `Next <flame-on.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| flame                    | `Home <../index.html>`__   |  flame on                   |
-+--------------------------+----------------------------+-----------------------------+
+[common] A posting intended to trigger a `flame
+war <flame-war.html>`__, or one that invites flames in reply. See also
+`troll <../T/troll.html>`__.
 
 flame
-
-`Prev <flamage.html>`__ 
-
-F
-
- `Next <flame-bait.html>`__
-
---------------
+==================
 
 **flame**
 
@@ -2034,97 +1139,40 @@ which puts the wretches to flight” but was probably just as ambiguous in
 Middle English as “the flaming of wretches” would be today. One suspects
 that Chaucer would feel right at home on Usenet.
 
---------------
-
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <flamage.html>`__    | `Up <../F.html>`__         |  `Next <flame-bait.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| flamage                    | `Home <../index.html>`__   |  flame bait                   |
-+----------------------------+----------------------------+-------------------------------+
 
 flame on
-
-`Prev <flame-bait.html>`__ 
-
-F
-
- `Next <flame-war.html>`__
-
---------------
+===================
 
 **flame on**: interj.
 
-1. To begin to `*flame* <flame.html>`__. The punning reference to Marvel
+1. To begin to `flame <flame.html>`__. The punning reference to Marvel
 Comics's Human Torch is no longer widely recognized.
 
-2. To continue to flame. See `*rave* <../R/rave.html>`__,
-`*burble* <../B/burble.html>`__.
+2. To continue to flame. See `rave <../R/rave.html>`__,
+`burble <../B/burble.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <flame-bait.html>`__    | `Up <../F.html>`__         |  `Next <flame-war.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| flame bait                    | `Home <../index.html>`__   |  flame war                   |
-+-------------------------------+----------------------------+------------------------------+
 
 flamer
-
-`Prev <flame-war.html>`__ 
-
-F
-
- `Next <flap.html>`__
-
---------------
+===================
 
 **flamer**: n.
 
-[common] One who habitually `*flame* <flame.html>`__\ s. Said esp. of
-obnoxious `*Usenet* <../U/Usenet.html>`__ personalities.
+[common] One who habitually `flame <flame.html>`__\ s. Said esp. of
+obnoxious `Usenet <../U/Usenet.html>`__ personalities.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <flame-war.html>`__    | `Up <../F.html>`__         |  `Next <flap.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| flame war                    | `Home <../index.html>`__   |  flap                   |
-+------------------------------+----------------------------+-------------------------+
 
 flame war
-
-`Prev <flame-on.html>`__ 
-
-F
-
- `Next <flamer.html>`__
-
---------------
+====================================
 
 **flame war**: n.
 
 [common] (var.: flamewar) An acrimonious dispute, especially when
 conducted on a public electronic forum such as
-`*Usenet* <../U/Usenet.html>`__.
+`Usenet <../U/Usenet.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <flame-on.html>`__    | `Up <../F.html>`__         |  `Next <flamer.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| flame on                    | `Home <../index.html>`__   |  flamer                   |
-+-----------------------------+----------------------------+---------------------------+
 
 flap
-
-`Prev <flamer.html>`__ 
-
-F
-
- `Next <flarp.html>`__
-
---------------
-
+=============
 **flap**: vt.
 
 1. [obs.] To unload a DECtape (so it goes flap, flap, flap...). Old-time
@@ -2139,50 +1187,20 @@ misengineered contraption which makes a loud flapping sound, almost like
 an old reel-type lawnmower, in one of its many tape-eating failure
 modes.)
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <flamer.html>`__    | `Up <../F.html>`__         |  `Next <flarp.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| flamer                    | `Home <../index.html>`__   |  flarp                   |
-+---------------------------+----------------------------+--------------------------+
-
 flarp
-
-`Prev <flap.html>`__ 
-
-F
-
- `Next <flash-crowd.html>`__
-
---------------
+========================
 
 **flarp**: /flarp/, n.
 
-[Rutgers University] Yet another `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__ (see
-`*foo* <foo.html>`__). Among those who use it, it is associated with a
+[Rutgers University] Yet another `metasyntactic
+variable <../M/metasyntactic-variable.html>`__ (see
+`foo <foo.html>`__). Among those who use it, it is associated with a
 legend that any program not containing the word flarp somewhere will not
 work. The legend is discreetly silent on the reliability of programs
 which *do* contain the magic word.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <flap.html>`__    | `Up <../F.html>`__         |  `Next <flash-crowd.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| flap                    | `Home <../index.html>`__   |  flash crowd                   |
-+-------------------------+----------------------------+--------------------------------+
-
 flash crowd
-
-`Prev <flarp.html>`__ 
-
-F
-
- `Next <flat.html>`__
-
---------------
+===================================
 
 **flash crowd**
 
@@ -2192,179 +1210,94 @@ almost instantly at the sites of interesting news stories. Twenty years
 later the term passed into common use on the Internet to describe
 exponential spikes in website or server usage when one passes a certain
 threshold of popular interest (what this does to the server may also be
-called `*slashdot effect* <../S/slashdot-effect.html>`__). It has been
+called `slashdot effect <../S/slashdot-effect.html>`__). It has been
 pointed out that the effect was anticipated years earlier in Alfred
 Bester's 1956 *The Stars My Destination*.
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <flarp.html>`__    | `Up <../F.html>`__         |  `Next <flat.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| flarp                    | `Home <../index.html>`__   |  flat                   |
-+--------------------------+----------------------------+-------------------------+
-
 flat-ASCII
-
-`Prev <flat.html>`__ 
-
-F
-
- `Next <flat-file.html>`__
-
---------------
+====================
 
 **flat-ASCII**: adj.
 
 [common] Said of a text file that contains only 7-bit ASCII characters
 and uses only ASCII-standard control characters (that is, has no
 embedded codes specific to a particular text formatter markup language,
-or output device, and no `*meta* <../M/meta.html>`__-characters). Syn.
-`*plain-ASCII* <../P/plain-ASCII.html>`__. Compare
-`*flat-file* <flat-file.html>`__.
+or output device, and no `meta <../M/meta.html>`__-characters). Syn.
+`plain-ASCII <../P/plain-ASCII.html>`__. Compare
+`flat-file <flat-file.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <flat.html>`__    | `Up <../F.html>`__         |  `Next <flat-file.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| flat                    | `Home <../index.html>`__   |  flat-file                   |
-+-------------------------+----------------------------+------------------------------+
 
 flat-file
-
-`Prev <flat-ASCII.html>`__ 
-
-F
-
- `Next <flatten.html>`__
-
---------------
+========================================
 
 **flat-file**: adj.
 
-A `*flatten* <flatten.html>`__\ ed representation of some database or
+A `flatten <flatten.html>`__\ ed representation of some database or
 tree or network structure as a single file from which the structure
 could implicitly be rebuilt, esp. one in
-`*flat-ASCII* <flat-ASCII.html>`__ form. See also
-`*sharchive* <../S/sharchive.html>`__.
+`flat-ASCII <flat-ASCII.html>`__ form. See also
+`sharchive <../S/sharchive.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+----------------------------+
-| `Prev <flat-ASCII.html>`__    | `Up <../F.html>`__         |  `Next <flatten.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
-| flat-ASCII                    | `Home <../index.html>`__   |  flatten                   |
-+-------------------------------+----------------------------+----------------------------+
 
 flat
-
-`Prev <flash-crowd.html>`__ 
-
-F
-
- `Next <flat-ASCII.html>`__
-
---------------
+==================
 
 **flat**: adj.
 
-1. [common] Lacking any complex internal structure. “That `*bitty
-box* <../B/bitty-box.html>`__ has only a flat filesystem, not a
-hierarchical one.” The verb form is `*flatten* <flatten.html>`__.
+1. [common] Lacking any complex internal structure. “That `bitty
+box <../B/bitty-box.html>`__ has only a flat filesystem, not a
+hierarchical one.” The verb form is `flatten <flatten.html>`__.
 
 2. Said of a memory architecture (like that of the
-`*VAX* <../V/VAX.html>`__ or 680x0) that is one big linear address space
+`VAX <../V/VAX.html>`__ or 680x0) that is one big linear address space
 (typically with each possible value of a processor register
 corresponding to a unique core address), as opposed to a segmented
 architecture (like that of the 80x86) in which addresses are composed
 from a base-register/offset pair (segmented designs are generally
-considered `*cretinous* <../C/cretinous.html>`__).
+considered `cretinous <../C/cretinous.html>`__).
 
 Note that sense 1 (at least with respect to filesystems) is usually used
-pejoratively, while sense 2 is a `*Good
-Thing* <../G/Good-Thing.html>`__.
+pejoratively, while sense 2 is a `Good
+Thing <../G/Good-Thing.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <flash-crowd.html>`__    | `Up <../F.html>`__         |  `Next <flat-ASCII.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| flash crowd                    | `Home <../index.html>`__   |  flat-ASCII                   |
-+--------------------------------+----------------------------+-------------------------------+
 
 flatten
-
-`Prev <flat-file.html>`__ 
-
-F
-
- `Next <flavor.html>`__
-
---------------
+==============
 
 **flatten**: vt.
 
 [common] To remove structural information, esp. to filter something with
 an implicit tree structure into a simple sequence of leaves; also tends
-to imply mapping to `*flat-ASCII* <flat-ASCII.html>`__. “This code
+to imply mapping to `flat-ASCII <flat-ASCII.html>`__. “This code
 flattens an expression with parentheses into an equivalent
-`*canonical* <../C/canonical.html>`__ form.”
+`canonical <../C/canonical.html>`__ form.”
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <flat-file.html>`__    | `Up <../F.html>`__         |  `Next <flavor.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| flat-file                    | `Home <../index.html>`__   |  flavor                   |
-+------------------------------+----------------------------+---------------------------+
 
 flavorful
-
-`Prev <flavor.html>`__ 
-
-F
-
- `Next <flippy.html>`__
-
---------------
+======================
 
 **flavorful**: adj.
 
-Full of `*flavor* <flavor.html>`__ (sense 2); esthetically pleasing. See
-`*random* <../R/random.html>`__ and `*losing* <../L/losing.html>`__ for
-antonyms. See also the entries for `*taste* <../T/taste.html>`__ and
-`*elegant* <../E/elegant.html>`__.
-
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <flavor.html>`__    | `Up <../F.html>`__         |  `Next <flippy.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| flavor                    | `Home <../index.html>`__   |  flippy                   |
-+---------------------------+----------------------------+---------------------------+
+Full of `flavor <flavor.html>`__ (sense 2); esthetically pleasing. See
+`random <../R/random.html>`__ and `losing <../L/losing.html>`__ for
+antonyms. See also the entries for `taste <../T/taste.html>`__ and
+`elegant <../E/elegant.html>`__.
 
 flavor
-
-`Prev <flatten.html>`__ 
-
-F
-
- `Next <flavorful.html>`__
-
---------------
+==============
 
 **flavor**: n.
 
 1. [common] Variety, type, kind. “DDT commands come in two flavors.”
 “These lights come in two flavors, big red ones and small green ones.”
-“Linux is a flavor of Unix” See `*vanilla* <../V/vanilla.html>`__.
+“Linux is a flavor of Unix” See `vanilla <../V/vanilla.html>`__.
 
 2. The attribute that causes something to be
-`*flavorful* <flavorful.html>`__. Usually used in the phrase “yields
+`flavorful <flavorful.html>`__. Usually used in the phrase “yields
 additional flavor”. “This convention yields additional flavor by
 allowing one to print text either right-side-up or upside-down.” See
-`*vanilla* <../V/vanilla.html>`__. This usage was certainly reinforced
+`vanilla <../V/vanilla.html>`__. This usage was certainly reinforced
 by the terminology of quantum chromodynamics, in which quarks (the
 constituents of, e.g., protons) come in six flavors (up, down, strange,
 charm, top, bottom) and three colors (red, blue, green) — however,
@@ -2375,47 +1308,18 @@ Flavors system. Though the Flavors design has been superseded (notably
 by the Common LISP CLOS facility), the term flavor is still used as a
 general synonym for class by some LISP hackers.
 
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <flatten.html>`__    | `Up <../F.html>`__         |  `Next <flavorful.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| flatten                    | `Home <../index.html>`__   |  flavorful                   |
-+----------------------------+----------------------------+------------------------------+
 
 flippy
-
-`Prev <flavorful.html>`__ 
-
-F
-
- `Next <flood.html>`__
-
---------------
-
+====================================
 **flippy**: /flip´ee/, n.
 
 A single-sided floppy disk altered for double-sided use by addition of a
 second write-notch, so called because it must be flipped over for the
 second side to be accessible. No longer common.
 
---------------
-
-+------------------------------+----------------------------+--------------------------+
-| `Prev <flavorful.html>`__    | `Up <../F.html>`__         |  `Next <flood.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| flavorful                    | `Home <../index.html>`__   |  flood                   |
-+------------------------------+----------------------------+--------------------------+
 
 flood
-
-`Prev <flippy.html>`__ 
-
-F
-
- `Next <flowchart.html>`__
-
---------------
+=============
 
 **flood**: v.
 
@@ -2424,7 +1328,7 @@ F
 1. To overwhelm a network channel with mechanically-generated traffic;
 especially used of IP, TCP/IP, UDP, or ICMP denial-of-service attacks.
 
-2. To dump large amounts of text onto an `*IRC* <../I/IRC.html>`__
+2. To dump large amounts of text onto an `IRC <../I/IRC.html>`__
 channel. This is especially rude when the text is uninteresting and the
 other users are trying to carry on a serious conversation. Also used in
 a similar sense on Usenet.
@@ -2432,76 +1336,31 @@ a similar sense on Usenet.
 3. [Usenet] To post an unusually large number or volume of files on a
 related topic.
 
---------------
-
-+---------------------------+----------------------------+------------------------------+
-| `Prev <flippy.html>`__    | `Up <../F.html>`__         |  `Next <flowchart.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| flippy                    | `Home <../index.html>`__   |  flowchart                   |
-+---------------------------+----------------------------+------------------------------+
 
 flowchart
-
-`Prev <flood.html>`__ 
-
-F
-
- `Next <flower-key.html>`__
-
---------------
+=============
 
 **flowchart**: n.
 
 [techspeak] An archaic form of visual control-flow specification
 employing arrows and speech balloons of various shapes. Hackers never
 use flowcharts, consider them extremely silly, and associate them with
-`*COBOL* <../C/COBOL.html>`__ programmers, `*code
-grinder* <../C/code-grinder.html>`__\ s, and other lower forms of life.
+`COBOL <../C/COBOL.html>`__ programmers, `code
+grinder <../C/code-grinder.html>`__\ s, and other lower forms of life.
 This attitude follows from the observations that flowcharts (at least
 from a hacker's point of view) are no easier to read than code, are less
 precise, and tend to fall out of sync with the code (so that they either
 obfuscate it rather than explaining it, or require extra maintenance
 effort that doesn't improve the code).
 
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <flood.html>`__    | `Up <../F.html>`__         |  `Next <flower-key.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| flood                    | `Home <../index.html>`__   |  flower key                   |
-+--------------------------+----------------------------+-------------------------------+
-
 flower key
-
-`Prev <flowchart.html>`__ 
-
-F
-
- `Next <flush.html>`__
-
---------------
+===============
 
 **flower key**: n.
 
-[Mac users] See `*feature key* <feature-key.html>`__.
-
---------------
-
-+------------------------------+----------------------------+--------------------------+
-| `Prev <flowchart.html>`__    | `Up <../F.html>`__         |  `Next <flush.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| flowchart                    | `Home <../index.html>`__   |  flush                   |
-+------------------------------+----------------------------+--------------------------+
-
+[Mac users] See `feature key <feature-key.html>`__.
 flush
-
-`Prev <flower-key.html>`__ 
-
-F
-
- `Next <flypage.html>`__
-
---------------
+=========
 
 **flush**: v.
 
@@ -2524,58 +1383,30 @@ image of flushing unwanted characters by hosing down the internal output
 buffer, washing the characters away before they could be printed. The
 Unix/C usage, on the other hand, was propagated by the fflush(3) call in
 C's standard I/O library (though it is reported to have been in use
-among BLISS programmers at `*DEC* <../D/DEC.html>`__ and on Honeywell
+among BLISS programmers at `DEC <../D/DEC.html>`__ and on Honeywell
 and IBM machines as far back as 1965). Unix/C hackers found the ITS
 usage confusing, and vice versa.
 
-|image0|
+.. image:: ../_static/crunchly-5678.png
 
-Crunchly gets `*flush* <flush.html>`__\ ed.
+Crunchly gets `flush <flush.html>`__\ ed.
 
 (The next cartoon in the Crunchly saga is
 `76-05-01 <../S/Stone-Age.html#crunchly76-05-01>`__. The previous
 cartoon was `76-02-20:2 <../B/batch.html#crunchly-2>`__.)
 
---------------
 
-+-------------------------------+----------------------------+----------------------------+
-| `Prev <flower-key.html>`__    | `Up <../F.html>`__         |  `Next <flypage.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
-| flower key                    | `Home <../index.html>`__   |  flypage                   |
-+-------------------------------+----------------------------+----------------------------+
-
-.. |image0| image:: ../graphics/crunchly-5678.png
 flypage
+===============================
 
-`Prev <flush.html>`__ 
-
-F
-
- `Next <Flyspeck-3.html>`__
-
---------------
 
 **flypage**: /fli:´payj/, n.
 
-(alt.: fly page) A `*banner* <../B/banner.html>`__, sense 1.
+(alt.: fly page) A `banner <../B/banner.html>`__, sense 1.
 
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <flush.html>`__    | `Up <../F.html>`__         |  `Next <Flyspeck-3.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| flush                    | `Home <../index.html>`__   |  Flyspeck 3                   |
-+--------------------------+----------------------------+-------------------------------+
 
 Flyspeck 3
-
-`Prev <flypage.html>`__ 
-
-F
-
- `Next <flytrap.html>`__
-
---------------
+=======================
 
 **Flyspeck 3**: n.
 
@@ -2583,73 +1414,33 @@ Standard name for any font that is so tiny as to be unreadable (by
 analogy with names like Helvetica 10 for 10-point Helvetica). Legal
 boilerplate is usually printed in Flyspeck 3.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <flypage.html>`__    | `Up <../F.html>`__         |  `Next <flytrap.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| flypage                    | `Home <../index.html>`__   |  flytrap                   |
-+----------------------------+----------------------------+----------------------------+
 
 flytrap
+=====================================
 
-`Prev <Flyspeck-3.html>`__ 
-
-F
-
- `Next <FM.html>`__
-
---------------
 
 **flytrap**: n.
 
-[rare] See `*firewall machine* <firewall-machine.html>`__.
+[rare] See `firewall machine <firewall-machine.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------+
-| `Prev <Flyspeck-3.html>`__    | `Up <../F.html>`__         |  `Next <FM.html>`__   |
-+-------------------------------+----------------------------+-----------------------+
-| Flyspeck 3                    | `Home <../index.html>`__   |  FM                   |
-+-------------------------------+----------------------------+-----------------------+
 
 FM
-
-`Prev <flytrap.html>`__ 
-
-F
-
- `Next <fnord.html>`__
-
---------------
+====
 
 **FM**: /F·M/, n.
 
 1. [common] *Not* ‘Frequency Modulation’ but rather an abbreviation for
-‘Fucking Manual’, the back-formation from `*RTFM* <../R/RTFM.html>`__.
-Used to refer to the manual itself in the `*RTFM* <../R/RTFM.html>`__.
+‘Fucking Manual’, the back-formation from `RTFM <../R/RTFM.html>`__.
+Used to refer to the manual itself in the `RTFM <../R/RTFM.html>`__.
 “Have you seen the Networking FM lately?”
 
-2. Abbreviation for “Fucking Magic”, used in the sense of `*black
-magic* <../B/black-magic.html>`__.
+2. Abbreviation for “Fucking Magic”, used in the sense of `black
+magic <../B/black-magic.html>`__.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <flytrap.html>`__    | `Up <../F.html>`__         |  `Next <fnord.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| flytrap                    | `Home <../index.html>`__   |  fnord                   |
-+----------------------------+----------------------------+--------------------------+
 
 fnord
+=================================================
 
-`Prev <FM.html>`__ 
-
-F
-
- `Next <FOAF.html>`__
-
---------------
 
 **fnord**: n.
 
@@ -2657,33 +1448,19 @@ F
 
 1. A word used in email and news postings to tag utterances as
 surrealist mind-play or humor, esp. in connection with
-`*Discordianism* <../D/Discordianism.html>`__ and elaborate conspiracy
+`Discordianism <../D/Discordianism.html>`__ and elaborate conspiracy
 theories. “I heard that David Koresh is sharing an apartment in
 Argentina with Hitler. (Fnord.)” “Where can I fnord get the Principia
 Discordia from?”
 
-2. A `*metasyntactic variable* <../M/metasyntactic-variable.html>`__,
+2. A `metasyntactic variable <../M/metasyntactic-variable.html>`__,
 commonly used by hackers with ties to
-`*Discordianism* <../D/Discordianism.html>`__ or the `*Church of the
-SubGenius* <../C/Church-of-the-SubGenius.html>`__.
+`Discordianism <../D/Discordianism.html>`__ or the `Church of the
+SubGenius <../C/Church-of-the-SubGenius.html>`__.
 
---------------
-
-+-----------------------+----------------------------+-------------------------+
-| `Prev <FM.html>`__    | `Up <../F.html>`__         |  `Next <FOAF.html>`__   |
-+-----------------------+----------------------------+-------------------------+
-| FM                    | `Home <../index.html>`__   |  FOAF                   |
-+-----------------------+----------------------------+-------------------------+
 
 FOAF
-
-`Prev <fnord.html>`__ 
-
-F
-
- `Next <FOD.html>`__
-
---------------
+========================================
 
 **FOAF**: //, n.
 
@@ -2693,29 +1470,16 @@ hackers (it is used in Jan Brunvand's books on urban folklore), but is
 much better recognized on Usenet and elsewhere than in mainstream
 English.
 
---------------
 
-+--------------------------+----------------------------+------------------------+
-| `Prev <fnord.html>`__    | `Up <../F.html>`__         |  `Next <FOD.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| fnord                    | `Home <../index.html>`__   |  FOD                   |
-+--------------------------+----------------------------+------------------------+
 
 FOD
-
-`Prev <FOAF.html>`__ 
-
-F
-
- `Next <fold-case.html>`__
-
---------------
+======================================
 
 **FOD**: /fod/, v.
 
 [Abbreviation for ‘Finger of Death’, originally a spell-name from
 fantasy gaming] To terminate with extreme prejudice and with no regard
-for other people. From `*MUD* <../M/MUD.html>`__\ s where the wizard
+for other people. From `MUD <../M/MUD.html>`__\ s where the wizard
 command ‘FOD <player>’ results in the immediate and total death of
 <player>, usually as punishment for obnoxious behavior. This usage
 migrated to other circumstances, such as “I'm going to fod the process
@@ -2726,77 +1490,34 @@ jet engine sucks up a rock on the runway or a bird in flight. Finger of
 Death is a distressingly apt description of what this generally does to
 the engine.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <FOAF.html>`__    | `Up <../F.html>`__         |  `Next <fold-case.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| FOAF                    | `Home <../index.html>`__   |  fold case                   |
-+-------------------------+----------------------------+------------------------------+
 
 fold case
-
-`Prev <FOD.html>`__ 
-
-F
-
- `Next <followup.html>`__
-
---------------
+====================================
 
 **fold case**: v.
 
-See `*smash case* <../S/smash-case.html>`__. This term tends to be used
+See `smash case <../S/smash-case.html>`__. This term tends to be used
 more by people who don't mind that their tools smash case. It also
 connotes that case is ignored but case distinctions in data processed by
 the tool in question aren't destroyed.
 
---------------
-
-+------------------------+----------------------------+-----------------------------+
-| `Prev <FOD.html>`__    | `Up <../F.html>`__         |  `Next <followup.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| FOD                    | `Home <../index.html>`__   |  followup                   |
-+------------------------+----------------------------+-----------------------------+
 
 followup
-
-`Prev <fold-case.html>`__ 
-
-F
-
- `Next <fontology.html>`__
-
---------------
+================================
 
 **followup**: n.
 
-[common] On Usenet, a `*posting* <../P/posting.html>`__ generated in
+[common] On Usenet, a `posting <../P/posting.html>`__ generated in
 response to another posting (as opposed to a
-`*reply* <../R/reply.html>`__, which goes by email rather than being
-broadcast). Followups include the ID of the `*parent
-message* <../P/parent-message.html>`__ in their headers; smart
+`reply <../R/reply.html>`__, which goes by email rather than being
+broadcast). Followups include the ID of the `parent
+message <../P/parent-message.html>`__ in their headers; smart
 news-readers can use this information to present Usenet news in
 ‘conversation’ sequence rather than order-of-arrival. See
-`*thread* <../T/thread.html>`__.
-
---------------
-
-+------------------------------+----------------------------+------------------------------+
-| `Prev <fold-case.html>`__    | `Up <../F.html>`__         |  `Next <fontology.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| fold case                    | `Home <../index.html>`__   |  fontology                   |
-+------------------------------+----------------------------+------------------------------+
+`thread <../T/thread.html>`__.
 
 fontology
-
-`Prev <followup.html>`__ 
-
-F
-
- `Next <foo.html>`__
-
---------------
+=====================================
 
 **fontology**: n.
 
@@ -2810,59 +1531,37 @@ Macintosh, for example, System 7 has to go through contortions to
 compensate for an earlier design error that created a whole different
 set of abstractions for fonts parallel to ‘files’ and ‘folders’ —ESR]
 
---------------
-
-+-----------------------------+----------------------------+------------------------+
-| `Prev <followup.html>`__    | `Up <../F.html>`__         |  `Next <foo.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| followup                    | `Home <../index.html>`__   |  foo                   |
-+-----------------------------+----------------------------+------------------------+
-
 foobar
+========================
 
-`Prev <foo.html>`__ 
 
-F
 
- `Next <fool.html>`__
-
---------------
 
 **foobar**: n.
 
-[very common] Another widely used `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__; see
-`*foo* <foo.html>`__ for etymology. Probably originally propagated
+[very common] Another widely used `metasyntactic
+variable <../M/metasyntactic-variable.html>`__; see
+`foo <foo.html>`__ for etymology. Probably originally propagated
 through DECsystem manuals by Digital Equipment Corporation
-(`*DEC* <../D/DEC.html>`__) in 1960s and early 1970s; confirmed
+(`DEC <../D/DEC.html>`__) in 1960s and early 1970s; confirmed
 sightings there go back to 1972. Hackers do *not* generally use this to
-mean `*FUBAR* <FUBAR.html>`__ in either the slang or jargon sense. See
-also `*Fred Foobar* <Fred-Foobar.html>`__. In RFC1639, “FOOBAR” was made
+mean `FUBAR <FUBAR.html>`__ in either the slang or jargon sense. See
+also `Fred Foobar <Fred-Foobar.html>`__. In RFC1639, “FOOBAR” was made
 an abbreviation for “FTP Operation Over Big Address Records”, but this
-was an obvious `*backronym* <../B/backronym.html>`__. It has been
+was an obvious `backronym <../B/backronym.html>`__. It has been
 plausibly suggested that “foobar” spread among early computer engineers
 partly because of FUBAR and partly because “foo bar” parses in
 electronics techspeak as an inverted foo signal; if a digital signal is
 active low (so a negative or zero-voltage condition represents a "1")
 then a horizontal bar is commonly placed over the signal label.
 
---------------
 
-+------------------------+----------------------------+-------------------------+
-| `Prev <foo.html>`__    | `Up <../F.html>`__         |  `Next <fool.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| foo                    | `Home <../index.html>`__   |  fool                   |
-+------------------------+----------------------------+-------------------------+
 
 foo
+=======================================================
 
-`Prev <fontology.html>`__ 
 
-F
 
- `Next <foobar.html>`__
-
---------------
 
 **foo**: /foo/
 
@@ -2871,18 +1570,18 @@ F
 2. [very common] Used very generally as a sample name for absolutely
 anything, esp. programs and files (esp. scratch files).
 
-3. First on the standard list of `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__\ s used in syntax
-examples. See also `*bar* <../B/bar.html>`__, `*baz* <../B/baz.html>`__,
-`*qux* <../Q/qux.html>`__, `*quux* <../Q/quux.html>`__,
-`*garply* <../G/garply.html>`__, `*waldo* <../W/waldo.html>`__,
-`*fred* <fred.html>`__, `*plugh* <../P/plugh.html>`__,
-`*xyzzy* <../X/xyzzy.html>`__, `*thud* <../T/thud.html>`__.
+3. First on the standard list of `metasyntactic
+variable <../M/metasyntactic-variable.html>`__\ s used in syntax
+examples. See also `bar <../B/bar.html>`__, `baz <../B/baz.html>`__,
+`qux <../Q/qux.html>`__, `quux <../Q/quux.html>`__,
+`garply <../G/garply.html>`__, `waldo <../W/waldo.html>`__,
+`fred <fred.html>`__, `plugh <../P/plugh.html>`__,
+`xyzzy <../X/xyzzy.html>`__, `thud <../T/thud.html>`__.
 
 When ‘foo’ is used in connection with ‘bar’ it has generally traced to
-the WWII-era Army slang acronym `*FUBAR* <FUBAR.html>`__ (‘Fucked Up
+the WWII-era Army slang acronym `FUBAR <FUBAR.html>`__ (‘Fucked Up
 Beyond All Repair’ or ‘Fucked Up Beyond All Recognition’), later
-modified to `*foobar* <foobar.html>`__. Early versions of the Jargon
+modified to `foobar <foobar.html>`__. Early versions of the Jargon
 File interpreted this change as a post-war bowdlerization, but it it now
 seems more likely that FUBAR was itself a derivative of ‘foo’ perhaps
 influenced by German *furchtbar* (terrible) — ‘foobar’ may actually have
@@ -2931,15 +1630,15 @@ strip, the folk etymology that connects it to French “feu” (fire) can be
 gently dismissed.
 
 The U.S. and British militaries frequently swapped slang terms during
-the war (see `*kluge* <../K/kluge.html>`__ and
-`*kludge* <../K/kludge.html>`__ for another important example) Period
+the war (see `kluge <../K/kluge.html>`__ and
+`kludge <../K/kludge.html>`__ for another important example) Period
 sources reported that ‘FOO’ became a semi-legendary subject of WWII
 British-army graffiti more or less equivalent to the American Kilroy.
 Where British troops went, the graffito “FOO was here” or something
 similar showed up. Several slang dictionaries aver that FOO probably
 came from Forward Observation Officer, but this (like the
 contemporaneous “FUBAR”) was probably a
-`*backronym* <../B/backronym.html>`__ . Forty years later, Paul
+`backronym <../B/backronym.html>`__ . Forty years later, Paul
 Dickson's excellent book “Words” (Dell, 1982, ISBN 0-440-52260-7) traced
 “Foo” to an unspecified British naval magazine in 1946, quoting as
 follows: “Mr. Foo is a mysterious Second World War product, gifted with
@@ -2959,68 +1658,50 @@ comics. The Crumbs may also have been influenced by a short-lived
 Canadian parody magazine named ‘Foo’ published in 1951-52.
 
 An old-time member reports that in the 1959 *Dictionary of the TMRC
-Language*, compiled at `*TMRC* <../T/TMRC.html>`__, there was an entry
+Language*, compiled at `TMRC <../T/TMRC.html>`__, there was an entry
 that went something like this:
 
     FOO: The first syllable of the sacred chant phrase “FOO MANE PADME
     HUM.” Our first obligation is to keep the foo counters turning.
 
 (For more about the legendary foo counters, see
-`*TMRC* <../T/TMRC.html>`__.) This definition used Bill Holman's
+`TMRC <../T/TMRC.html>`__.) This definition used Bill Holman's
 nonsense word, then only two decades old and demonstrably still live in
-popular culture and slang, to a `*ha ha only
-serious* <../H/ha-ha-only-serious.html>`__ analogy with esoteric Tibetan
+popular culture and slang, to a `ha ha only
+serious <../H/ha-ha-only-serious.html>`__ analogy with esoteric Tibetan
 Buddhism. Today's hackers would find it difficult to resist elaborating
 a joke like that, and it is not likely 1959's were any less susceptible.
 Almost the entire staff of what later became the MIT AI Lab was involved
 with TMRC, and the word spread from there.
 
---------------
 
-+------------------------------+----------------------------+---------------------------+
-| `Prev <fontology.html>`__    | `Up <../F.html>`__         |  `Next <foobar.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| fontology                    | `Home <../index.html>`__   |  foobar                   |
-+------------------------------+----------------------------+---------------------------+
+
+
+
+
 
 fool file
+================================
 
-`Prev <fool.html>`__ 
 
-F
-
- `Next <Foonly.html>`__
-
---------------
 
 **fool file**: n.
 
 [Usenet] A notional repository of all the most dramatically and
-abysmally stupid utterances ever. An entire subgenre of `*sig
-block* <../S/sig-block.html>`__\ s consists of the header “From the fool
+abysmally stupid utterances ever. An entire subgenre of `sig
+block <../S/sig-block.html>`__\ s consists of the header “From the fool
 file:” followed by some quote the poster wishes to represent as an
 immortal gem of dimwittery; for this usage to be really effective, the
 quote has to be so obviously wrong as to be laughable. More than one
 Usenetter has achieved an unwanted notoriety by being quoted in this
 way.
 
---------------
 
-+-------------------------+----------------------------+---------------------------+
-| `Prev <fool.html>`__    | `Up <../F.html>`__         |  `Next <Foonly.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| fool                    | `Home <../index.html>`__   |  Foonly                   |
-+-------------------------+----------------------------+---------------------------+
 
 fool
+===================
 
-`Prev <foobar.html>`__ 
 
-F
-
- `Next <fool-file.html>`__
-
---------------
 
 **fool**: n.
 
@@ -3030,8 +1711,8 @@ persuaded by evidence to do otherwise; it is not generally used in its
 other senses, i.e., to describe a person with a native incapacity to
 reason correctly, or a clown. Indeed, in hackish experience many fools
 are capable of reasoning all too effectively in executing their errors.
-See also `*cretin* <../C/cretin.html>`__, `*loser* <../L/loser.html>`__,
-`*fool file* <fool-file.html>`__.
+See also `cretin <../C/cretin.html>`__, `loser <../L/loser.html>`__,
+`fool file <fool-file.html>`__.
 
 The Algol 68-R compiler used to initialize its storage to the character
 string "F00LF00LF00LF00L..." because as a pointer or as a floating point
@@ -3040,34 +1721,25 @@ very recognizable in a dump. Sadly, one day a very senior professor at
 Nottingham University wrote a program that called him a fool. He
 proceeded to demonstrate the correctness of this assertion by lobbying
 the university (not quite successfully) to forbid the use of Algol on
-its computers. See also `*DEADBEEF* <../D/DEADBEEF.html>`__.
+its computers. See also `DEADBEEF <../D/DEADBEEF.html>`__.
 
---------------
 
-+---------------------------+----------------------------+------------------------------+
-| `Prev <foobar.html>`__    | `Up <../F.html>`__         |  `Next <fool-file.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| foobar                    | `Home <../index.html>`__   |  fool file                   |
-+---------------------------+----------------------------+------------------------------+
+
+
 
 Foonly
+======================
 
-`Prev <fool-file.html>`__ 
 
-F
-
- `Next <footprint.html>`__
-
---------------
 
 **Foonly**: n.
 
-1. The `*PDP-10* <../P/PDP-10.html>`__ successor that was to have been
+1. The `PDP-10 <../P/PDP-10.html>`__ successor that was to have been
 built by the Super Foonly project at the Stanford Artificial
 Intelligence Laboratory along with a new operating system. (The name
 itself came from FOO NLI, an error message emitted by a PDP-10 assembler
 at SAIL meaning “FOO is Not a Legal Identifier”. The intention was to
-leapfrog from the old `*DEC* <../D/DEC.html>`__ timesharing system SAIL
+leapfrog from the old `DEC <../D/DEC.html>`__ timesharing system SAIL
 was then running to a new generation, bypassing TENEX which at that time
 was the ARPANET standard. ARPA funding for both the Super Foonly and the
 new operating system was cut in 1974. Most of the design team went to
@@ -3084,7 +1756,7 @@ the graphics in the movie *TRON*. The F-1 was the fastest PDP-10 ever
 built, but only one was ever made. The effort drained Foonly of its
 financial resources, and the company turned towards building smaller,
 slower, and much less expensive machines. Unfortunately, these ran not
-the popular `*TOPS-20* <../T/TOPS-20.html>`__ but a TENEX variant called
+the popular `TOPS-20 <../T/TOPS-20.html>`__ but a TENEX variant called
 Foonex; this seriously limited their market. Also, the machines shipped
 were actually wire-wrapped engineering prototypes requiring individual
 attention from more than usually competent site personnel, and thus had
@@ -3092,34 +1764,23 @@ significant reliability problems. Poole's legendary temper and
 unwillingness to suffer fools gladly did not help matters. By the time
 DEC's “Jupiter Project” followon to the PDP-10 was cancelled in 1983,
 Foonly's proposal to build another F-1 was eclipsed by the
-`*Mars* <../M/Mars.html>`__, and the company never quite recovered. See
-the `*Mars* <../M/Mars.html>`__ entry for the continuation and moral of
+`Mars <../M/Mars.html>`__, and the company never quite recovered. See
+the `Mars <../M/Mars.html>`__ entry for the continuation and moral of
 this story.
 
---------------
 
-+------------------------------+----------------------------+------------------------------+
-| `Prev <fool-file.html>`__    | `Up <../F.html>`__         |  `Next <footprint.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| fool file                    | `Home <../index.html>`__   |  footprint                   |
-+------------------------------+----------------------------+------------------------------+
+
 
 footprint
+===========
 
-`Prev <Foonly.html>`__ 
-
-F
-
- `Next <for-free.html>`__
-
---------------
 
 **footprint**: n.
 
 1. The floor or desk area taken up by a piece of hardware.
 
 2. [IBM] The audit trail (if any) left by a crashed program (often in
-plural, footprints). See also `*toeprint* <../T/toeprint.html>`__.
+plural, footprints). See also `toeprint <../T/toeprint.html>`__.
 
 3. RAM footprint: The minimum amount of RAM which an OS or other program
 takes; this figure gives one an idea of how much will be left for other
@@ -3129,80 +1790,43 @@ footprint of an OS to the point of making it nearly unusable in
 practice. [This problem is, thankfully, limited to operating systems so
 stupid that they don't do virtual memory -- ESR]
 
---------------
-
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <Foonly.html>`__    | `Up <../F.html>`__         |  `Next <for-free.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| Foonly                    | `Home <../index.html>`__   |  for free                   |
-+---------------------------+----------------------------+-----------------------------+
 
 fora
-
-`Prev <for-values-of.html>`__ 
-
-F
-
- `Next <foreground.html>`__
-
---------------
+===============
 
 **fora**: pl.n.
 
-Plural of `*forum* <forum.html>`__.
+Plural of `forum <forum.html>`__.
 
---------------
 
-+----------------------------------+----------------------------+-------------------------------+
-| `Prev <for-values-of.html>`__    | `Up <../F.html>`__         |  `Next <foreground.html>`__   |
-+----------------------------------+----------------------------+-------------------------------+
-| for values of                    | `Home <../index.html>`__   |  foreground                   |
-+----------------------------------+----------------------------+-------------------------------+
+
 
 foreground
+==================
 
-`Prev <fora.html>`__ 
 
-F
-
- `Next <fork.html>`__
-
---------------
 
 **foreground**: vt.
 
 [Unix; common] To bring a task to the top of one's
-`*stack* <../S/stack.html>`__ for immediate processing, and hackers
+`stack <../S/stack.html>`__ for immediate processing, and hackers
 often use it in this sense for non-computer tasks. “If your presentation
 is due next week, I guess I'd better foreground writing up the design
 document.”
 
 Technically, on a timesharing system, a task executing in foreground is
 one able to accept input from and return output to the user; oppose
-`*background* <../B/background.html>`__. Nowadays this term is primarily
-associated with `*Unix* <../U/Unix.html>`__, but it appears first to
+`background <../B/background.html>`__. Nowadays this term is primarily
+associated with `Unix <../U/Unix.html>`__, but it appears first to
 have been used in this sense on OS/360. Normally, there is only one
 foreground task per terminal (or terminal window); having multiple
 processes simultaneously reading the keyboard is a good way to
-`*lose* <../L/lose.html>`__.
+`lose <../L/lose.html>`__.
 
---------------
 
-+-------------------------+----------------------------+-------------------------+
-| `Prev <fora.html>`__    | `Up <../F.html>`__         |  `Next <fork.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| fora                    | `Home <../index.html>`__   |  fork                   |
-+-------------------------+----------------------------+-------------------------+
 
 for free
-
-`Prev <footprint.html>`__ 
-
-F
-
- `Next <for-the-rest-of-us.html>`__
-
---------------
+===================
 
 **for free**: adj.
 
@@ -3211,30 +1835,17 @@ is available by its design without needing cleverness to implement: “In
 APL, we get the matrix operations for free.” “And owing to the way
 revisions are stored in this system, you get revision trees for free.”
 The term usually refers to a serendipitous feature of doing things a
-certain way (compare `*big win* <../B/big-win.html>`__), but it may
+certain way (compare `big win <../B/big-win.html>`__), but it may
 refer to an intentional but secondary feature.
 
---------------
 
-+------------------------------+----------------------------+---------------------------------------+
-| `Prev <footprint.html>`__    | `Up <../F.html>`__         |  `Next <for-the-rest-of-us.html>`__   |
-+------------------------------+----------------------------+---------------------------------------+
-| footprint                    | `Home <../index.html>`__   |  for the rest of us                   |
-+------------------------------+----------------------------+---------------------------------------+
 
 fork bomb
-
-`Prev <fork.html>`__ 
-
-F
-
- `Next <forked.html>`__
-
---------------
+=================
 
 **fork bomb**: n.
 
-[Unix] A particular species of `*wabbit* <../W/wabbit.html>`__ that can
+[Unix] A particular species of `wabbit <../W/wabbit.html>`__ that can
 be written in one line of C (**main() {for(;;)fork();**}) or shell (**$0
 & $0 &**) on any Unix system, or occasionally created by an egregious
 coding bug. A fork bomb process ‘explodes’ by recursively spawning
@@ -3243,25 +1854,11 @@ eats all the process table entries and effectively wedges the system.
 Fortunately, fork bombs are relatively easy to spot and kill, so
 creating one deliberately seldom accomplishes more than to bring the
 just wrath of the gods down upon the perpetrator. Also called a fork
-bunny. See also `*logic bomb* <../L/logic-bomb.html>`__.
+bunny. See also `logic bomb <../L/logic-bomb.html>`__.
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <fork.html>`__    | `Up <../F.html>`__         |  `Next <forked.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| fork                    | `Home <../index.html>`__   |  forked                   |
-+-------------------------+----------------------------+---------------------------+
 
 forked
-
-`Prev <fork-bomb.html>`__ 
-
-F
-
- `Next <Formosas-Law.html>`__
-
---------------
+================
 
 **forked**: adj.,vi.
 
@@ -3270,7 +1867,7 @@ software project is said to have forked or be forked when the project
 group fissions into two or more parts pursuing separate lines of
 development (or, less commonly, when a third party unconnected to the
 project group begins its own line of development). Forking is considered
-a `*Bad Thing* <../B/Bad-Thing.html>`__ — not merely because it implies
+a `Bad Thing <../B/Bad-Thing.html>`__ — not merely because it implies
 a lot of wasted effort in the future, but because forks tend to be
 accompanied by a great deal of strife and acrimony between the successor
 groups over issues of legitimacy, succession, and design direction.
@@ -3282,25 +1879,11 @@ folklore.
 
 2. [Unix; uncommon; prob.: influenced by a mainstream expletive]
 Terminally slow, or dead. Originated when one system was slowed to a
-snail's pace by an inadvertent `*fork bomb* <fork-bomb.html>`__.
+snail's pace by an inadvertent `fork bomb <fork-bomb.html>`__.
 
---------------
-
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <fork-bomb.html>`__    | `Up <../F.html>`__         |  `Next <Formosas-Law.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| fork bomb                    | `Home <../index.html>`__   |  Formosa's Law                  |
-+------------------------------+----------------------------+---------------------------------+
 
 fork
-
-`Prev <foreground.html>`__ 
-
-F
-
- `Next <fork-bomb.html>`__
-
---------------
+==================
 
 **fork**
 
@@ -3319,23 +1902,8 @@ instances loom large in hacker folklore. Notable in this class were the
 Emacs/XEmacs fork, the GCC/EGCS fork (later healed by a merger) and the
 forks among the FreeBSD, NetBSD, and OpenBSD operating systems.
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <foreground.html>`__    | `Up <../F.html>`__         |  `Next <fork-bomb.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| foreground                    | `Home <../index.html>`__   |  fork bomb                   |
-+-------------------------------+----------------------------+------------------------------+
-
 Formosa's Law
-
-`Prev <forked.html>`__ 
-
-F
-
- `Next <Fortrash.html>`__
-
---------------
+=================
 
 **Formosa's Law**: n.
 
@@ -3343,34 +1911,19 @@ F
 That is, flaming someone with an obvious mental problem can't make it
 any better. Most often cited on
 `alt.usenet.kooks <news:alt.usenet.kooks>`__ as a reason *not* to issue
-a Kook-of the-Month Award; often cited as a companion to `*Godwin's
-Law* <../G/Godwins-Law.html>`__.
-
---------------
-
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <forked.html>`__    | `Up <../F.html>`__         |  `Next <Fortrash.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| forked                    | `Home <../index.html>`__   |  Fortrash                   |
-+---------------------------+----------------------------+-----------------------------+
+a Kook-of the-Month Award; often cited as a companion to `Godwin's
+Law <../G/Godwins-Law.html>`__.
 
 for the rest of us
-
-`Prev <for-free.html>`__ 
-
-F
-
- `Next <for-values-of.html>`__
-
---------------
+===================
 
 **for the rest of us**: adj.
 
 [from the Mac slogan “The computer for the rest of us”]
 
-1. Used to describe a `*spiffy* <../S/spiffy.html>`__ product whose
+1. Used to describe a `spiffy <../S/spiffy.html>`__ product whose
 affordability shames other comparable products, or (more often) used
-sarcastically to describe `*spiffy* <../S/spiffy.html>`__ but very
+sarcastically to describe `spiffy <../S/spiffy.html>`__ but very
 overpriced products.
 
 2. Describes a program with a limited interface, deliberately limited
@@ -3383,29 +1936,15 @@ capabilities because it is thought that the poor lusers might not be
 able to handle them. Becomes ‘the rest of *them*\ ’ when used in
 third-party reference; thus, “Yes, it is an attractive program, but it's
 designed for The Rest Of Them” means a program that superficially looks
-neat but has no depth beyond the surface flash. See also `*WIMP
-environment* <../W/WIMP-environment.html>`__,
-`*Macintrash* <../M/Macintrash.html>`__, `*point-and-drool
-interface* <../P/point-and-drool-interface.html>`__,
-`*user-friendly* <../U/user-friendly.html>`__.
+neat but has no depth beyond the surface flash. See also `WIMP
+environment <../W/WIMP-environment.html>`__,
+`Macintrash <../M/Macintrash.html>`__, `point-and-drool
+interface <../P/point-and-drool-interface.html>`__,
+`user-friendly <../U/user-friendly.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+----------------------------------+
-| `Prev <for-free.html>`__    | `Up <../F.html>`__         |  `Next <for-values-of.html>`__   |
-+-----------------------------+----------------------------+----------------------------------+
-| for free                    | `Home <../index.html>`__   |  for values of                   |
-+-----------------------------+----------------------------+----------------------------------+
 
 Fortrash
-
-`Prev <Formosas-Law.html>`__ 
-
-F
-
- `Next <fortune-cookie.html>`__
-
---------------
+==================
 
 **Fortrash**: /for´trash/, n.
 
@@ -3413,83 +1952,42 @@ Hackerism for the FORTRAN (FORmula TRANslator) language, referring to
 its primitive design, gross and irregular syntax, limited control
 constructs, and slippery, exception-filled semantics.
 
---------------
-
-+---------------------------------+----------------------------+-----------------------------------+
-| `Prev <Formosas-Law.html>`__    | `Up <../F.html>`__         |  `Next <fortune-cookie.html>`__   |
-+---------------------------------+----------------------------+-----------------------------------+
-| Formosa's Law                   | `Home <../index.html>`__   |  fortune cookie                   |
-+---------------------------------+----------------------------+-----------------------------------+
 
 fortune cookie
+============================
 
-`Prev <Fortrash.html>`__ 
-
-F
-
- `Next <forum.html>`__
-
---------------
 
 **fortune cookie**: n.
 
 [WAITS, via Unix; common] A random quote, item of trivia, joke, or maxim
 printed to the user's tty at login time or (less commonly) at logout
 time. Items from this lexicon have often been used as fortune cookies.
-See `*cookie file* <../C/cookie-file.html>`__.
+See `cookie file <../C/cookie-file.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <Fortrash.html>`__    | `Up <../F.html>`__         |  `Next <forum.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| Fortrash                    | `Home <../index.html>`__   |  forum                   |
-+-----------------------------+----------------------------+--------------------------+
 
 forum
-
-`Prev <fortune-cookie.html>`__ 
-
-F
-
- `Next <fossil.html>`__
-
---------------
+====================
 
 **forum**: n.
 
 [Usenet, GEnie, CI$; pl. fora or forums] Any discussion group accessible
-through a dial-in `*BBS* <../B/BBS.html>`__, a `*mailing
-list* <../M/mailing-list.html>`__, or a
-`*newsgroup* <../N/newsgroup.html>`__ (see `*the
-network* <../T/the-network.html>`__). A forum functions much like a
-bulletin board; users submit `*posting* <../P/posting.html>`__\ s for
-all to read and discussion ensues. Contrast real-time chat via `*talk
-mode* <../T/talk-mode.html>`__ or point-to-point personal
-`*email* <../E/email.html>`__.
+through a dial-in `BBS <../B/BBS.html>`__, a `mailing
+list <../M/mailing-list.html>`__, or a
+`newsgroup <../N/newsgroup.html>`__ (see `the
+network <../T/the-network.html>`__). A forum functions much like a
+bulletin board; users submit `posting <../P/posting.html>`__\ s for
+all to read and discussion ensues. Contrast real-time chat via `talk
+mode <../T/talk-mode.html>`__ or point-to-point personal
+`email <../E/email.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+---------------------------+
-| `Prev <fortune-cookie.html>`__    | `Up <../F.html>`__         |  `Next <fossil.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| fortune cookie                    | `Home <../index.html>`__   |  fossil                   |
-+-----------------------------------+----------------------------+---------------------------+
 
 for values of
-
-`Prev <for-the-rest-of-us.html>`__ 
-
-F
-
- `Next <fora.html>`__
-
---------------
+=====================
 
 **for values of**
 
 [MIT] A common rhetorical maneuver at MIT is to use any of the canonical
-`*random numbers* <../R/random-numbers.html>`__ as placeholders for
+`random numbers <../R/random-numbers.html>`__ as placeholders for
 variables. “The max function takes 42 arguments, for arbitrary values of
 42.:” “There are 69 ways to leave your lover, for 69 = 50.” This is
 especially likely when the speaker has uttered a random number and
@@ -3507,64 +2005,36 @@ that only works for arithmetic sequences of values). MAD is long
 extinct, but similar for-constructs still flourish (e.g., in Unix's
 shell languages).
 
---------------
-
-+---------------------------------------+----------------------------+-------------------------+
-| `Prev <for-the-rest-of-us.html>`__    | `Up <../F.html>`__         |  `Next <fora.html>`__   |
-+---------------------------------------+----------------------------+-------------------------+
-| for the rest of us                    | `Home <../index.html>`__   |  fora                   |
-+---------------------------------------+----------------------------+-------------------------+
 
 fossil
-
-`Prev <forum.html>`__ 
-
-F
-
- `Next <four-color-glossies.html>`__
-
---------------
+================
 
 **fossil**: n.
 
 1. In software, a misfeature that becomes understandable only in
 historical context, as a remnant of times past retained so as not to
 break compatibility. Example: the retention of octal as default base for
-string escapes in `*C* <../C/C.html>`__, in spite of the better match of
+string escapes in `C <../C/C.html>`__, in spite of the better match of
 hexadecimal to ASCII and modern byte-addressable architectures. See
-`*dusty deck* <../D/dusty-deck.html>`__.
+`dusty deck <../D/dusty-deck.html>`__.
 
 2. More restrictively, a feature with past but no present utility.
 Example: the force-all-caps (LCASE) bits in the V7 and
-`*BSD* <../B/BSD.html>`__ Unix tty driver, designed for use with
+`BSD <../B/BSD.html>`__ Unix tty driver, designed for use with
 monocase terminals. (In a perversion of the usual backward-compatibility
 goal, this functionality has actually been expanded and renamed in some
 later USG Unix releases as the IUCLC and OLCUC bits.)
 
---------------
-
-+--------------------------+----------------------------+----------------------------------------+
-| `Prev <forum.html>`__    | `Up <../F.html>`__         |  `Next <four-color-glossies.html>`__   |
-+--------------------------+----------------------------+----------------------------------------+
-| forum                    | `Home <../index.html>`__   |  four-color glossies                   |
-+--------------------------+----------------------------+----------------------------------------+
 
 four-color glossies
-
-`Prev <fossil.html>`__ 
-
-F
-
- `Next <frag.html>`__
-
---------------
+====================
 
 **four-color glossies**: n.
 
-1. Literature created by `*marketroid* <../M/marketroid.html>`__\ s that
+1. Literature created by `marketroid <../M/marketroid.html>`__\ s that
 allegedly contains technical specs but which is in fact as superficial
 as possible without being totally
-`*content-free* <../C/content-free.html>`__. “Forget the four-color
+`content-free <../C/content-free.html>`__. “Forget the four-color
 glossies, give me the tech ref manuals.” Often applied as an indication
 of superficiality even when the material is printed on ordinary paper in
 black and white. Four-color-glossy manuals are *never* useful for
@@ -3574,79 +2044,39 @@ solving a problem.
 information to diagnose why the program doesn't produce the expected or
 desired output.
 
---------------
 
-+---------------------------+----------------------------+-------------------------+
-| `Prev <fossil.html>`__    | `Up <../F.html>`__         |  `Next <frag.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| fossil                    | `Home <../index.html>`__   |  frag                   |
-+---------------------------+----------------------------+-------------------------+
 
 frag
-
-`Prev <four-color-glossies.html>`__ 
-
-F
-
- `Next <fragile.html>`__
-
---------------
+====================
 
 **frag**: n.,v.
 
 [from Vietnam-era U.S. military slang via the games Doom and Quake]
 
-1. To kill another player's `*avatar* <../A/avatar.html>`__ in a
+1. To kill another player's `avatar <../A/avatar.html>`__ in a
 multiuser game. “I hold the office Quake record with 40 frags.”
 
 2. To completely ruin something. “Forget that power supply, the
-lightning strike fragged it.” See also `*gib* <../G/gib.html>`__.
+lightning strike fragged it.” See also `gib <../G/gib.html>`__.
 
---------------
 
-+----------------------------------------+----------------------------+----------------------------+
-| `Prev <four-color-glossies.html>`__    | `Up <../F.html>`__         |  `Next <fragile.html>`__   |
-+----------------------------------------+----------------------------+----------------------------+
-| four-color glossies                    | `Home <../index.html>`__   |  fragile                   |
-+----------------------------------------+----------------------------+----------------------------+
 
 fragile
-
-`Prev <frag.html>`__ 
-
-F
-
- `Next <Frankenputer.html>`__
-
---------------
+==================
 
 **fragile**: adj.
 
-Syn `*brittle* <../B/brittle.html>`__.
+Syn `brittle <../B/brittle.html>`__.
 
---------------
-
-+-------------------------+----------------------------+---------------------------------+
-| `Prev <frag.html>`__    | `Up <../F.html>`__         |  `Next <Frankenputer.html>`__   |
-+-------------------------+----------------------------+---------------------------------+
-| frag                    | `Home <../index.html>`__   |  Frankenputer                   |
-+-------------------------+----------------------------+---------------------------------+
 
 Frankenputer
-
-`Prev <fragile.html>`__ 
-
-F
-
- `Next <fred.html>`__
-
---------------
+==============
 
 **Frankenputer**: n.
 
 1. A mostly-working computer thrown together from the spare parts of
-several machines out of which the `*magic
-smoke* <../M/magic-smoke.html>`__ had been let. Most shops have a closet
+several machines out of which the `magic
+smoke <../M/magic-smoke.html>`__ had been let. Most shops have a closet
 full of nonworking machines. When a new machine is needed immediately
 (for testing, for example) and there is no time (or budget) to
 requisition a new box, someone (often an intern) is tasked with building
@@ -3658,111 +2088,54 @@ point at which the nameplate violates truth-in-advertising laws (e.g., a
 Pentium III-class machine inexplicably living in a case marked “Gateway
 486/66”).
 
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <fragile.html>`__    | `Up <../F.html>`__         |  `Next <fred.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| fragile                    | `Home <../index.html>`__   |  fred                   |
-+----------------------------+----------------------------+-------------------------+
 
 Fred Foobar
-
-`Prev <fred.html>`__ 
-
-F
-
- `Next <frednet.html>`__
-
---------------
+=============
 
 **Fred Foobar**: n.
 
-`*J. Random Hacker* <../J/J--Random-Hacker.html>`__'s cousin. Any
+`J. Random Hacker <../J/J--Random-Hacker.html>`__'s cousin. Any
 typical human being, more or less synonymous with ‘someone’ except that
-Fred Foobar can be `*backreference* <../B/backreference.html>`__\ d by
+Fred Foobar can be `backreference <../B/backreference.html>`__\ d by
 name later on. “So Fred Foobar will enter his phone number into the
 database, and it'll be archived with the others. Months later, when Fred
-searches...” See also `*Bloggs Family* <../B/Bloggs-Family.html>`__ and
-`*Dr. Fred Mbogo* <../D/Dr--Fred-Mbogo.html>`__
+searches...” See also `Bloggs Family <../B/Bloggs-Family.html>`__ and
+`Dr. Fred Mbogo <../D/Dr--Fred-Mbogo.html>`__
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <fred.html>`__    | `Up <../F.html>`__         |  `Next <frednet.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| fred                    | `Home <../index.html>`__   |  frednet                   |
-+-------------------------+----------------------------+----------------------------+
 
 fred
-
-`Prev <Frankenputer.html>`__ 
-
-F
-
- `Next <Fred-Foobar.html>`__
-
---------------
+==============
 
 **fred**: n.
 
-1. The personal name most frequently used as a `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__ (see
-`*foo* <foo.html>`__). Allegedly popular because it's easy for a
+1. The personal name most frequently used as a `metasyntactic
+variable <../M/metasyntactic-variable.html>`__ (see
+`foo <foo.html>`__). Allegedly popular because it's easy for a
 non-touch-typist to type on a standard QWERTY keyboard. In Great
 Britain, ‘fred’, ‘jim’ and ‘sheila’ are common metasyntactic variables
 because their uppercase versions were *official* names given to the 3
 memory areas that held I/O status registers on the lovingly-remembered
 BBC Microcomputer! (It is reported that SHEILA was poked the most
-often.) Unlike `*J. Random Hacker* <../J/J--Random-Hacker.html>`__ or J.
+often.) Unlike `J. Random Hacker <../J/J--Random-Hacker.html>`__ or J.
 Random Loser, the name ‘fred’ has no positive or negative loading (but
-see `*Dr. Fred Mbogo* <../D/Dr--Fred-Mbogo.html>`__). See also
-`*barney* <../B/barney.html>`__.
+see `Dr. Fred Mbogo <../D/Dr--Fred-Mbogo.html>`__). See also
+`barney <../B/barney.html>`__.
 
 2. An acronym for ‘Flipping Ridiculous Electronic Device’; other F-verbs
 may be substituted for ‘flipping’.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <Frankenputer.html>`__    | `Up <../F.html>`__         |  `Next <Fred-Foobar.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| Frankenputer                    | `Home <../index.html>`__   |  Fred Foobar                   |
-+---------------------------------+----------------------------+--------------------------------+
 
 frednet
-
-`Prev <Fred-Foobar.html>`__ 
-
-F
-
- `Next <free-software.html>`__
-
---------------
+==============
 
 **frednet**: /fred´net/, n.
 
-Used to refer to some `*random* <../R/random.html>`__ and uncommon
+Used to refer to some `random <../R/random.html>`__ and uncommon
 protocol encountered on a network. “We're implementing bridging in our
 router to solve the frednet problem.”
 
---------------
-
-+--------------------------------+----------------------------+----------------------------------+
-| `Prev <Fred-Foobar.html>`__    | `Up <../F.html>`__         |  `Next <free-software.html>`__   |
-+--------------------------------+----------------------------+----------------------------------+
-| Fred Foobar                    | `Home <../index.html>`__   |  free software                   |
-+--------------------------------+----------------------------+----------------------------------+
-
 free software
-
-`Prev <frednet.html>`__ 
-
-F
-
- `Next <freeware.html>`__
-
---------------
+=================
 
 **free software**: n.
 
@@ -3781,60 +2154,31 @@ RMS observes that the English word “free” can refer either to liberty
 RMS and other people associated with the FSF like to explain the word
 “free” in “free software” by saying “Free as in speech, not as in beer.”
 
-See also `*open source* <../O/open-source.html>`__. Hard-core proponents
+See also `open source <../O/open-source.html>`__. Hard-core proponents
 of the term “free software” sometimes reject this newer term, claiming
 that the style of argument associated with it ignores or downplays the
 moral imperative at the heart of free software.
 
---------------
-
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <frednet.html>`__    | `Up <../F.html>`__         |  `Next <freeware.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| frednet                    | `Home <../index.html>`__   |  freeware                   |
-+----------------------------+----------------------------+-----------------------------+
 
 freeware
-
-`Prev <free-software.html>`__ 
-
-F
-
- `Next <freeze.html>`__
-
---------------
+==================
 
 **freeware**: n.
 
 [common] Freely-redistributable software, often written by enthusiasts
 and distributed by users' groups, or via electronic mail, local bulletin
-boards, `*Usenet* <../U/Usenet.html>`__, or other electronic media. As
+boards, `Usenet <../U/Usenet.html>`__, or other electronic media. As
 the culture of the Internet has displaced the older BBS world, this term
-has lost ground to both `*open source* <../O/open-source.html>`__ and
-`*free software* <free-software.html>`__; it has increasingly tended to
+has lost ground to both `open source <../O/open-source.html>`__ and
+`free software <free-software.html>`__; it has increasingly tended to
 be restricted to software distributed in binary rather than source-code
 form. At one time, freeware was a trademark of Andrew Fluegelman, the
 author of the well-known MS-DOS comm program PC-TALK III. It wasn't
 enforced after his mysterious disappearance and presumed death in 1984.
-See `*shareware* <../S/shareware.html>`__, `*FRS* <FRS.html>`__.
-
---------------
-
-+----------------------------------+----------------------------+---------------------------+
-| `Prev <free-software.html>`__    | `Up <../F.html>`__         |  `Next <freeze.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
-| free software                    | `Home <../index.html>`__   |  freeze                   |
-+----------------------------------+----------------------------+---------------------------+
+See `shareware <../S/shareware.html>`__, `FRS <FRS.html>`__.
 
 freeze
-
-`Prev <freeware.html>`__ 
-
-F
-
- `Next <fried.html>`__
-
---------------
+=======================
 
 **freeze**: v.
 
@@ -3849,35 +2193,21 @@ connotes no more changes at all. At Sun Microsystems and elsewhere, one
 may also hear references to code slush — that is, an
 almost-but-not-quite frozen state.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <freeware.html>`__    | `Up <../F.html>`__         |  `Next <fried.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| freeware                    | `Home <../index.html>`__   |  fried                   |
-+-----------------------------+----------------------------+--------------------------+
 
 fried
-
-`Prev <freeze.html>`__ 
-
-F
-
- `Next <frink.html>`__
-
---------------
+================
 
 **fried**: adj.
 
 1. [common] Non-working due to hardware failure; burnt out. Especially
 used of hardware brought down by a power glitch (see
-`*glitch* <../G/glitch.html>`__), `*drop-outs* <../D/drop-outs.html>`__,
+`glitch <../G/glitch.html>`__), `drop-outs <../D/drop-outs.html>`__,
 a short, or some other electrical event. (Sometimes this literally
 happens to electronic circuits! In particular, resistors can burn out
 and transformers can melt down, emitting noxious smoke — see
-`*friode* <friode.html>`__, `*SED* <../S/SED.html>`__ and
-`*LER* <../L/LER.html>`__. However, this term is also used
-metaphorically.) Compare `*frotzed* <frotzed.html>`__.
+`friode <friode.html>`__, `SED <../S/SED.html>`__ and
+`LER <../L/LER.html>`__. However, this term is also used
+metaphorically.) Compare `frotzed <frotzed.html>`__.
 
 2. [common] Of people, exhausted. Said particularly of those who
 continue to work in such a state. Often used as an explanation or
@@ -3885,144 +2215,72 @@ excuse. “Yeah, I know that fix destroyed the file system, but I was
 fried when I put it in.” Esp.: common in conjunction with brain: “My
 brain is fried today, I'm very short on sleep.”
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <freeze.html>`__    | `Up <../F.html>`__         |  `Next <frink.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| freeze                    | `Home <../index.html>`__   |  frink                   |
-+---------------------------+----------------------------+--------------------------+
 
 frink
-
-`Prev <fried.html>`__ 
-
-F
-
- `Next <friode.html>`__
-
---------------
+=======================================
 
 **frink**: /frink/, v.
 
 The unknown ur-verb, fill in your own meaning. Found esp. on the Usenet
 newsgroup ``alt.fan.lemurs``, where it is said that the lemurs know what
 ‘frink’ means, but they aren't telling. Compare
-`*gorets* <../G/gorets.html>`__.
+`gorets <../G/gorets.html>`__.
 
---------------
-
-+--------------------------+----------------------------+---------------------------+
-| `Prev <fried.html>`__    | `Up <../F.html>`__         |  `Next <friode.html>`__   |
-+--------------------------+----------------------------+---------------------------+
-| fried                    | `Home <../index.html>`__   |  friode                   |
-+--------------------------+----------------------------+---------------------------+
 
 friode
-
-`Prev <frink.html>`__ 
-
-F
-
- `Next <fritterware.html>`__
-
---------------
+==============
 
 **friode**: /fri:´ohd/, n.
 
 [TMRC] A reversible (that is, fused or blown) diode. Compare
-`*fried* <fried.html>`__; see also `*SED* <../S/SED.html>`__,
-`*LER* <../L/LER.html>`__.
+`fried <fried.html>`__; see also `SED <../S/SED.html>`__,
+`LER <../L/LER.html>`__.
 
---------------
-
-+--------------------------+----------------------------+--------------------------------+
-| `Prev <frink.html>`__    | `Up <../F.html>`__         |  `Next <fritterware.html>`__   |
-+--------------------------+----------------------------+--------------------------------+
-| frink                    | `Home <../index.html>`__   |  fritterware                   |
-+--------------------------+----------------------------+--------------------------------+
 
 fritterware
-
-`Prev <friode.html>`__ 
-
-F
-
- `Next <frob.html>`__
-
---------------
+================
 
 **fritterware**: n.
 
 An excess of capability that serves no productive end. The canonical
 example is font-diddling software on the Mac (see
-`*macdink* <../M/macdink.html>`__); the term describes anything that
+`macdink <../M/macdink.html>`__); the term describes anything that
 eats huge amounts of time for quite marginal gains in function but
-seduces people into using it anyway. See also `*window
-shopping* <../W/window-shopping.html>`__.
-
---------------
-
-+---------------------------+----------------------------+-------------------------+
-| `Prev <friode.html>`__    | `Up <../F.html>`__         |  `Next <frob.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| friode                    | `Home <../index.html>`__   |  frob                   |
-+---------------------------+----------------------------+-------------------------+
+seduces people into using it anyway. See also `window
+shopping <../W/window-shopping.html>`__.
 
 frob
-
-`Prev <fritterware.html>`__ 
-
-F
-
- `Next <frobnicate.html>`__
-
---------------
+=============================
 
 **frob**: /frob/
 
-1. n. [MIT; very common] The `*TMRC* <../T/TMRC.html>`__ definition was
+1. n. [MIT; very common] The `TMRC <../T/TMRC.html>`__ definition was
 “FROB = a protruding arm or trunnion”; by metaphoric extension, a frob
 is any random small thing; an object that you can comfortably hold in
 one hand; something you can frob (sense 2). See
-`*frobnitz* <frobnitz.html>`__.
+`frobnitz <frobnitz.html>`__.
 
-2. vt. Abbreviated form of `*frobnicate* <frobnicate.html>`__.
+2. vt. Abbreviated form of `frobnicate <frobnicate.html>`__.
 
-3. [from the `*MUD* <../M/MUD.html>`__ world] A command on some MUDs
+3. [from the `MUD <../M/MUD.html>`__ world] A command on some MUDs
 that changes a player's experience level (this can be used to make
-wizards); also, to request `*wizard* <../W/wizard.html>`__ privileges on
+wizards); also, to request `wizard <../W/wizard.html>`__ privileges on
 the ‘professional courtesy’ grounds that one is a wizard elsewhere. The
 command is actually ‘frobnicate’ but is universally abbreviated to the
 shorter form.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <fritterware.html>`__    | `Up <../F.html>`__         |  `Next <frobnicate.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| fritterware                    | `Home <../index.html>`__   |  frobnicate                   |
-+--------------------------------+----------------------------+-------------------------------+
-
 frobnicate
-
-`Prev <frob.html>`__ 
-
-F
-
- `Next <frobnitz.html>`__
-
---------------
+===============================
 
 **frobnicate**: /frob´ni·kayt/, vt.
 
-[Poss. derived from `*frobnitz* <frobnitz.html>`__, and usually
-abbreviated to `*frob* <frob.html>`__, but frobnicate is recognized as
+[Poss. derived from `frobnitz <frobnitz.html>`__, and usually
+abbreviated to `frob <frob.html>`__, but frobnicate is recognized as
 the official full form.:] To manipulate or adjust, to tweak. One
 frequently frobs bits or other 2-state devices. Thus: “Please frob the
 light switch” (that is, flip it), but also “Stop frobbing that clasp;
 you'll break it”. One also sees the construction to frob a frob. See
-`*tweak* <../T/tweak.html>`__ and `*twiddle* <../T/twiddle.html>`__.
+`tweak <../T/tweak.html>`__ and `twiddle <../T/twiddle.html>`__.
 
 Usage: frob, twiddle, and tweak sometimes connote points along a
 continuum. ‘Frob’ connotes aimless manipulation; twiddle connotes gross
@@ -4033,62 +2291,34 @@ turning it but looking at the screen, he is probably twiddling it; but
 if he's just doing it because turning a knob is fun, he's frobbing it.
 The variant frobnosticate has been recently reported.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <frob.html>`__    | `Up <../F.html>`__         |  `Next <frobnitz.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| frob                    | `Home <../index.html>`__   |  frobnitz                   |
-+-------------------------+----------------------------+-----------------------------+
-
 frobnitz
+===================
 
-`Prev <frobnicate.html>`__ 
-
-F
-
- `Next <frog.html>`__
-
---------------
 
 **frobnitz**: /frob´nits/, pl., frobnitzem, /frob´nit·zm/, frob­ni,
 /frob'­ni:/, n.
 
 [TMRC] An unspecified physical object, a widget. Also refers to
 electronic black boxes. This rare form is usually abbreviated to frotz,
-or more commonly to `*frob* <frob.html>`__. Also used are frobnule
+or more commonly to `frob <frob.html>`__. Also used are frobnule
 (/frob´n[y]ool/) and frobule (/frob´yool/). Starting perhaps in 1979,
 frobozz /fr@-boz´/ (plural: frobbotzim /fr@-bot´zm/) has also become
 very popular, largely through its exposure as a name via
-`*Zork* <../Z/Zork.html>`__. These variants can also be applied to
+`Zork <../Z/Zork.html>`__. These variants can also be applied to
 nonphysical objects, such as data structures. For related amusement, see
 the `Encyclopedia
 Frobozzica <http://www.everything2.com/index.pl?node=Encyclopedia%20Frobozzica&lastnode-id=585787>`__.
 
-Pete Samson, compiler of the original `*TMRC* <../T/TMRC.html>`__
+Pete Samson, compiler of the original `TMRC <../T/TMRC.html>`__
 lexicon, adds, “Under the TMRC [railroad] layout were many storage
 boxes, managed (in 1958) by David R. Sawyer. Several had fanciful
 designations written on them, such as ‘Frobnitz Coil Oil’. Perhaps DRS
 intended Frobnitz to be a proper name, but the name was quickly taken
 for the thing”. This was almost certainly the origin of the term.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <frobnicate.html>`__    | `Up <../F.html>`__         |  `Next <frog.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| frobnicate                    | `Home <../index.html>`__   |  frog                   |
-+-------------------------------+----------------------------+-------------------------+
 
 frogging
-
-`Prev <frog.html>`__ 
-
-F
-
- `Next <front-end.html>`__
-
---------------
+===================
 
 **frogging**: v.
 
@@ -4096,8 +2326,8 @@ F
 consistent glitch, as opposed to random events like line noise or media
 failures. Might occur, for example, if one bit of each incoming
 character on a tty were stuck, so that some characters were correct and
-others were not. See `*dread high-bit
-disease* <../D/dread-high-bit-disease.html>`__.
+others were not. See `dread high-bit
+disease <../D/dread-high-bit-disease.html>`__.
 
 2. By extension, accidental display of text in a mode where the output
 device emits special symbols or mnemonics rather than conventional
@@ -4107,54 +2337,25 @@ set and with the bit-parity assumption wrong. A hacker sufficiently
 familiar with ASCII bit patterns might be able to read the display
 anyway.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <frog.html>`__    | `Up <../F.html>`__         |  `Next <front-end.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| frog                    | `Home <../index.html>`__   |  front end                   |
-+-------------------------+----------------------------+------------------------------+
 
 frog
-
-`Prev <frobnitz.html>`__ 
-
-F
-
- `Next <frogging.html>`__
-
---------------
+====================
 
 **frog**: phrog
 
 1. interj. Term of disgust (we seem to have a lot of them).
 
-2. Used as a name for just about anything. See `*foo* <foo.html>`__.
+2. Used as a name for just about anything. See `foo <foo.html>`__.
 
 3. n. Of things, a crock.
 
 4. n. Of people, somewhere in between a turkey and a toad.
 
-5. froggy: adj. Similar to `*bagbiting* <../B/bagbiting.html>`__, but
+5. froggy: adj. Similar to `bagbiting <../B/bagbiting.html>`__, but
 milder. “This froggy program is taking forever to run!”
 
---------------
-
-+-----------------------------+----------------------------+-----------------------------+
-| `Prev <frobnitz.html>`__    | `Up <../F.html>`__         |  `Next <frogging.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
-| frobnitz                    | `Home <../index.html>`__   |  frogging                   |
-+-----------------------------+----------------------------+-----------------------------+
-
 front end
-
-`Prev <frogging.html>`__ 
-
-F
-
- `Next <frotz.html>`__
-
---------------
+==============
 
 **front end**: n.
 
@@ -4170,237 +2371,103 @@ talking to the front end.”
 which may not be as user-friendly. Probably from analogy with hardware
 front-ends (see sense 1) that interfaced with mainframes.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <frogging.html>`__    | `Up <../F.html>`__         |  `Next <frotz.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| frogging                    | `Home <../index.html>`__   |  frotz                   |
-+-----------------------------+----------------------------+--------------------------+
 
 frotzed
-
-`Prev <frotz.html>`__ 
-
-F
-
- `Next <frowney.html>`__
-
---------------
-
+========================
 **frotzed**: /frotst/, adj.
 
-To be `*down* <../D/down.html>`__ because of hardware problems. Compare
-`*fried* <fried.html>`__. A machine that is merely frotzed may be
+To be `down <../D/down.html>`__ because of hardware problems. Compare
+`fried <fried.html>`__. A machine that is merely frotzed may be
 fixable without replacing parts, but a fried machine is more seriously
 damaged.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <frotz.html>`__    | `Up <../F.html>`__         |  `Next <frowney.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| frotz                    | `Home <../index.html>`__   |  frowney                   |
-+--------------------------+----------------------------+----------------------------+
-
 frotz
-
-`Prev <front-end.html>`__ 
-
-F
-
- `Next <frotzed.html>`__
-
---------------
+===============
 
 **frotz**: /frots/
 
-1. n. See `*frobnitz* <frobnitz.html>`__.
+1. n. See `frobnitz <frobnitz.html>`__.
 
 2. mumble frotz: An interjection of mildest disgust. The word ‘frotzen’
 is live in this sense in some eastern German dialects; the safe bet is
 that it came to hackers via Yiddish.
 
---------------
-
-+------------------------------+----------------------------+----------------------------+
-| `Prev <front-end.html>`__    | `Up <../F.html>`__         |  `Next <frotzed.html>`__   |
-+------------------------------+----------------------------+----------------------------+
-| front end                    | `Home <../index.html>`__   |  frotzed                   |
-+------------------------------+----------------------------+----------------------------+
 
 frowney
-
-`Prev <frotzed.html>`__ 
-
-F
-
- `Next <FRS.html>`__
-
---------------
+==================================
 
 **frowney**: n.
 
-(alt.: frowney face) See `*emoticon* <../E/emoticon.html>`__.
-
---------------
-
-+----------------------------+----------------------------+------------------------+
-| `Prev <frotzed.html>`__    | `Up <../F.html>`__         |  `Next <FRS.html>`__   |
-+----------------------------+----------------------------+------------------------+
-| frotzed                    | `Home <../index.html>`__   |  FRS                   |
-+----------------------------+----------------------------+------------------------+
+(alt.: frowney face) See `emoticon <../E/emoticon.html>`__.
 
 FRS
-
-`Prev <frowney.html>`__ 
-
-F
-
- `Next <fry.html>`__
-
---------------
+===========================================================================
 
 **FRS**: //, n.,obs.
 
 [obs.] Abbreviation for “Freely Redistributable Software” which entered
 general use on the Internet in 1995 after years of low-level confusion
 over what exactly to call software written to be passed around and
-shared (contending terms including `*freeware* <freeware.html>`__,
-`*shareware* <../S/shareware.html>`__, and sourceware were never
+shared (contending terms including `freeware <freeware.html>`__,
+`shareware <../S/shareware.html>`__, and sourceware were never
 universally felt to be satisfactory for various subtle reasons). The
 first formal conference on freely redistributable software was held in
 Cambridge, Massachussetts, in February 1996 (sponsored by the Free
 Software Foundation). The conference organizers used the FRS
 abbreviation heavily in its calls for papers and other literature during
 1995. The term was in steady though not common use until 1998 and the
-invention of `*open source* <../O/open-source.html>`__, after which it
+invention of `open source <../O/open-source.html>`__, after which it
 became swiftly obsolete.
 
---------------
-
-+----------------------------+----------------------------+------------------------+
-| `Prev <frowney.html>`__    | `Up <../F.html>`__         |  `Next <fry.html>`__   |
-+----------------------------+----------------------------+------------------------+
-| frowney                    | `Home <../index.html>`__   |  fry                   |
-+----------------------------+----------------------------+------------------------+
 
 fry
-
-`Prev <FRS.html>`__ 
-
-F
-
- `Next <fscking.html>`__
-
---------------
+==================================================================
 
 **fry**
 
 1. vi. To fail. Said especially of smoke-producing hardware failures.
 More generally, to become non-working. Usage: never said of software,
-only of hardware and humans. See `*fried* <fried.html>`__, `*magic
-smoke* <../M/magic-smoke.html>`__.
+only of hardware and humans. See `fried <fried.html>`__, `magic
+smoke <../M/magic-smoke.html>`__.
 
-2. vt. To cause to fail; to `*roach* <../R/roach.html>`__,
-`*toast* <../T/toast.html>`__, or `*hose* <../H/hose.html>`__ a piece of
+2. vt. To cause to fail; to `roach <../R/roach.html>`__,
+`toast <../T/toast.html>`__, or `hose <../H/hose.html>`__ a piece of
 hardware. Never used of software or humans, but compare
-`*fried* <fried.html>`__.
+`fried <fried.html>`__.
 
---------------
-
-+------------------------+----------------------------+----------------------------+
-| `Prev <FRS.html>`__    | `Up <../F.html>`__         |  `Next <fscking.html>`__   |
-+------------------------+----------------------------+----------------------------+
-| FRS                    | `Home <../index.html>`__   |  fscking                   |
-+------------------------+----------------------------+----------------------------+
 
 fscking
-
-`Prev <fry.html>`__ 
-
-F
-
- `Next <FSF.html>`__
-
---------------
-
+===============================================================
 **fscking**: /fus'·king/, /eff'·seek·ing/, adj.
 
 [Usenet; very common] Fucking, in the expletive sense (it refers to the
 Unix filesystem-repair command fsck(8), of which it can be said that if
 you have to use it at all you are having a bad day). Originated on
-`*scary devil monastery* <../S/scary-devil-monastery.html>`__ and the
+`scary devil monastery <../S/scary-devil-monastery.html>`__ and the
 ``bofh.net`` newsgroups, but became much more widespread following the
-passage of `*CDA* <../C/CDA.html>`__. Also occasionally seen in the
+passage of `CDA <../C/CDA.html>`__. Also occasionally seen in the
 variant “What the fsck?”
-
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <fry.html>`__    | `Up <../F.html>`__         |  `Next <FSF.html>`__   |
-+------------------------+----------------------------+------------------------+
-| fry                    | `Home <../index.html>`__   |  FSF                   |
-+------------------------+----------------------------+------------------------+
-
 FSF
-
-`Prev <fscking.html>`__ 
-
-F
-
- `Next <suffix-fu.html>`__
-
---------------
+===========
 
 **FSF**: /F·S·F/, abbrev.
 
 Common abbreviation (both spoken and written) for the name of the Free
 Software Foundation, a nonprofit educational association formed to
-support the `*GNU* <../G/GNU.html>`__ project.
-
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <fscking.html>`__    | `Up <../F.html>`__         |  `Next <suffix-fu.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| fscking                    | `Home <../index.html>`__   |  -fu                         |
-+----------------------------+----------------------------+------------------------------+
+support the `GNU <../G/GNU.html>`__ project.
 
 FUBAR
-
-`Prev <suffix-fu.html>`__ 
-
-F
-
- `Next <fuck-me-harder.html>`__
-
---------------
+==============
 
 **FUBAR**: n.
 
-The Failed UniBus Address Register in a `*VAX* <../V/VAX.html>`__. A
+The Failed UniBus Address Register in a `VAX <../V/VAX.html>`__. A
 good example of how jargon can occasionally be snuck past the
-`*suit* <../S/suit.html>`__\ s; see `*foobar* <foobar.html>`__, and
-`*foo* <foo.html>`__ for a fuller etymology.
-
---------------
-
-+------------------------------+----------------------------+-----------------------------------+
-| `Prev <suffix-fu.html>`__    | `Up <../F.html>`__         |  `Next <fuck-me-harder.html>`__   |
-+------------------------------+----------------------------+-----------------------------------+
-| -fu                          | `Home <../index.html>`__   |  fuck me harder                   |
-+------------------------------+----------------------------+-----------------------------------+
+`suit <../S/suit.html>`__\ s; see `foobar <foobar.html>`__, and
+`foo <foo.html>`__ for a fuller etymology.
 
 fuck me harder
-
-`Prev <FUBAR.html>`__ 
-
-F
-
- `Next <FUD.html>`__
-
---------------
+====================
 
 **fuck me harder**: excl.
 
@@ -4426,28 +2493,13 @@ recognizably peculiar to the hacker culture, we feel it is in the
 hackish spirit of truthfulness and opposition to all forms of censorship
 to record it here. —ESR & GLS]
 
---------------
-
-+--------------------------+----------------------------+------------------------+
-| `Prev <FUBAR.html>`__    | `Up <../F.html>`__         |  `Next <FUD.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| FUBAR                    | `Home <../index.html>`__   |  FUD                   |
-+--------------------------+----------------------------+------------------------+
-
 fudge factor
-
-`Prev <fudge.html>`__ 
-
-F
-
- `Next <fuel-up.html>`__
-
---------------
+==================
 
 **fudge factor**: n.
 
 [common] A value or parameter that is varied in an ad hoc way to produce
-the desired result. The terms tolerance and `*slop* <../S/slop.html>`__
+the desired result. The terms tolerance and `slop <../S/slop.html>`__
 are also used, though these usually indicate a one-sided leeway, such as
 a buffer that is made larger than necessary because one isn't sure
 exactly how large it needs to be, and it is better to waste a little
@@ -4459,25 +2511,9 @@ small amount; if that amount is too small, a computation may never
 terminate, while if it is too large, results will be needlessly
 inaccurate. Fudge factors are frequently adjusted incorrectly by
 programmers who don't fully understand their import. See also
-`*coefficient of X* <../C/coefficient-of-X.html>`__.
-
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <fudge.html>`__    | `Up <../F.html>`__         |  `Next <fuel-up.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| fudge                    | `Home <../index.html>`__   |  fuel up                   |
-+--------------------------+----------------------------+----------------------------+
-
+`coefficient of X <../C/coefficient-of-X.html>`__.
 fudge
-
-`Prev <FUD-wars.html>`__ 
-
-F
-
- `Next <fudge-factor.html>`__
-
---------------
+=====================
 
 **fudge**
 
@@ -4488,23 +2524,9 @@ later.”
 
 2. n. The resulting code.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------------+
-| `Prev <FUD-wars.html>`__    | `Up <../F.html>`__         |  `Next <fudge-factor.html>`__   |
-+-----------------------------+----------------------------+---------------------------------+
-| FUD wars                    | `Home <../index.html>`__   |  fudge factor                   |
-+-----------------------------+----------------------------+---------------------------------+
 
 FUD
-
-`Prev <fuck-me-harder.html>`__ 
-
-F
-
- `Next <FUD-wars.html>`__
-
---------------
+==========================
 
 **FUD**: /fuhd/, n.
 
@@ -4515,13 +2537,13 @@ products.” The idea, of course, was to persuade them to go with safe IBM
 gear rather than with competitors' equipment. This implicit coercion was
 traditionally accomplished by promising that Good Things would happen to
 people who stuck with IBM, but Dark Shadows loomed over the future of
-competitors' equipment or software. See `*IBM* <../I/IBM.html>`__. After
+competitors' equipment or software. See `IBM <../I/IBM.html>`__. After
 1990 the term FUD was associated increasingly frequently with
-`*Microsoft* <../M/Microsoft.html>`__, and has become generalized to
+`Microsoft <../M/Microsoft.html>`__, and has become generalized to
 refer to any kind of disinformation used as a competitive weapon.
 
 [In 2003, SCO sued IBM in an action which, among other things, alleged
-SCO's proprietary control of `*Linux* <../L/Linux.html>`__. The SCO suit
+SCO's proprietary control of `Linux <../L/Linux.html>`__. The SCO suit
 rapidly became infamous for the number and magnitude of falsehoods
 alleged in SCO's filings. In October 2003, SCO's lawyers filed a
 `memorandum <http://www.groklaw.net/article.php?story=20031024191141102>`__
@@ -4534,27 +2556,14 @@ law clerk reading this should surf through to `my collected
 resources <http://www.catb.org/~esr/sco.html>`__ on this topic for the
 appalling details.—ESR]
 
---------------
-
-+-----------------------------------+----------------------------+-----------------------------+
-| `Prev <fuck-me-harder.html>`__    | `Up <../F.html>`__         |  `Next <FUD-wars.html>`__   |
-+-----------------------------------+----------------------------+-----------------------------+
-| fuck me harder                    | `Home <../index.html>`__   |  FUD wars                   |
-+-----------------------------------+----------------------------+-----------------------------+
 
 FUD wars
+================
 
-`Prev <FUD.html>`__ 
-
-F
-
- `Next <fudge.html>`__
-
---------------
 
 **FUD wars**: /fuhd worz/, n.
 
-1, [from `*FUD* <FUD.html>`__] Historically, political posturing engaged
+1, [from `FUD <FUD.html>`__] Historically, political posturing engaged
 in by hardware and software vendors ostensibly committed to
 standardization but actually willing to fragment the market to protect
 their own shares. The Unix International vs.: OSF conflict about Unix
@@ -4563,101 +2572,40 @@ about HTML standards is another.
 
 2. Since about 2000 the FUD wars have a different character; the battle
 over open standards has been partly replaced and partly subsumed by the
-argument between closed- and `*open source* <../O/open-source.html>`__
+argument between closed- and `open source <../O/open-source.html>`__
 proponents. Nowadays, accordingly, the term is most likely to be used of
 anti-open-source propaganda emitted by Microsoft. Compare
-`*astroturfing* <../A/astroturfing.html>`__.
+`astroturfing <../A/astroturfing.html>`__.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <FUD.html>`__    | `Up <../F.html>`__         |  `Next <fudge.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| FUD                    | `Home <../index.html>`__   |  fudge                   |
-+------------------------+----------------------------+--------------------------+
 
 fuel up
-
-`Prev <fudge-factor.html>`__ 
-
-F
-
- `Next <Full-Monty.html>`__
-
---------------
+==========-
 
 **fuel up**: vi.
 
 To eat or drink hurriedly in order to get back to hacking. “Food-p?”
 “Yeah, let's fuel up.” “Time for a
-`*great-wall* <../G/great-wall.html>`__!” See also `*oriental
-food* <../O/oriental-food.html>`__.
-
---------------
-
-+---------------------------------+----------------------------+-------------------------------+
-| `Prev <fudge-factor.html>`__    | `Up <../F.html>`__         |  `Next <Full-Monty.html>`__   |
-+---------------------------------+----------------------------+-------------------------------+
-| fudge factor                    | `Home <../index.html>`__   |  Full Monty                   |
-+---------------------------------+----------------------------+-------------------------------+
+`great-wall <../G/great-wall.html>`__!” See also `oriental
+food <../O/oriental-food.html>`__.
 
 Full Monty
-
-`Prev <fuel-up.html>`__ 
-
-F
-
- `Next <fum.html>`__
-
---------------
-
+============
 **Full Monty**: n.
 
-See `*monty* <../M/monty.html>`__, sense 2.
-
---------------
-
-+----------------------------+----------------------------+------------------------+
-| `Prev <fuel-up.html>`__    | `Up <../F.html>`__         |  `Next <fum.html>`__   |
-+----------------------------+----------------------------+------------------------+
-| fuel up                    | `Home <../index.html>`__   |  fum                   |
-+----------------------------+----------------------------+------------------------+
+See `monty <../M/monty.html>`__, sense 2.
 
 fum
-
-`Prev <Full-Monty.html>`__ 
-
-F
-
- `Next <functino.html>`__
-
---------------
+=======
 
 **fum**: n.
 
-[XEROX PARC] At PARC, often the third of the standard `*metasyntactic
-variable* <../M/metasyntactic-variable.html>`__\ s (after
-`*foo* <foo.html>`__ and `*bar* <../B/bar.html>`__). Competes with
-`*baz* <../B/baz.html>`__, which is more common outside PARC.
-
---------------
-
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <Full-Monty.html>`__    | `Up <../F.html>`__         |  `Next <functino.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| Full Monty                    | `Home <../index.html>`__   |  functino                   |
-+-------------------------------+----------------------------+-----------------------------+
+[XEROX PARC] At PARC, often the third of the standard `metasyntactic
+variable <../M/metasyntactic-variable.html>`__\ s (after
+`foo <foo.html>`__ and `bar <../B/bar.html>`__). Competes with
+`baz <../B/baz.html>`__, which is more common outside PARC.
 
 functino
-
-`Prev <fum.html>`__ 
-
-F
-
- `Next <funky.html>`__
-
---------------
-
+====================
 **functino**: n.
 
 [uncommon, U.K.; originally a serendipitous typo in 1994] A pointer to a
@@ -4666,23 +2614,9 @@ the neutrino, it accurately conveys an impression of smallness (one
 pointer is four bytes on most systems) and speed (hackers can and do use
 arrays of functinos to replace a switch() statement).
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <fum.html>`__    | `Up <../F.html>`__         |  `Next <funky.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| fum                    | `Home <../index.html>`__   |  funky                   |
-+------------------------+----------------------------+--------------------------+
 
 funky
-
-`Prev <functino.html>`__ 
-
-F
-
- `Next <funny-money.html>`__
-
---------------
+===============
 
 **funky**: adj.
 
@@ -4690,7 +2624,7 @@ Said of something that functions, but in a slightly strange, klugey way.
 It does the job and would be difficult to change, so its obvious
 non-optimality is left alone. Often used to describe interfaces. The
 more bugs something has that nobody has bothered to fix because
-workarounds are easier, the funkier it is. `*TECO* <../T/TECO.html>`__
+workarounds are easier, the funkier it is. `TECO <../T/TECO.html>`__
 and UUCP are funky. The Intel i860's exception handling is
 extraordinarily funky. Most standards acquire funkiness as they age.
 “The new mailer is installed, but is still somewhat funky; if it bounces
@@ -4698,23 +2632,8 @@ your mail for no reason, try resubmitting it.” “This UART is pretty
 funky. The data ready line is active-high in interrupt mode and
 active-low in DMA mode.”
 
---------------
-
-+-----------------------------+----------------------------+--------------------------------+
-| `Prev <functino.html>`__    | `Up <../F.html>`__         |  `Next <funny-money.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
-| functino                    | `Home <../index.html>`__   |  funny money                   |
-+-----------------------------+----------------------------+--------------------------------+
-
 funny money
-
-`Prev <funky.html>`__ 
-
-F
-
- `Next <furrfu.html>`__
-
---------------
+================================================================
 
 **funny money**: n.
 
@@ -4735,51 +2654,22 @@ accounts.
 2. By extension, phantom money or quantity tickets of any kind used as a
 resource-allocation hack within a system. Antonym: real money.
 
---------------
-
-+--------------------------+----------------------------+---------------------------+
-| `Prev <funky.html>`__    | `Up <../F.html>`__         |  `Next <furrfu.html>`__   |
-+--------------------------+----------------------------+---------------------------+
-| funky                    | `Home <../index.html>`__   |  furrfu                   |
-+--------------------------+----------------------------+---------------------------+
-
 furrfu
-
-`Prev <funny-money.html>`__ 
-
-F
-
- `Next <../G.html>`__
-
---------------
+=================
 
 **furrfu**: excl.
 
 [Usenet; written, only rarely spoken] Written-only equivalent of
 “Sheesh!”; it is, in fact, “sheesh” modified by
-`*rot13* <../R/rot13.html>`__. Evolved in mid-1992 as a response to
+`rot13 <../R/rot13.html>`__. Evolved in mid-1992 as a response to
 notably silly postings repeating urban myths on the Usenet newsgroup
 ``alt.folklore.urban``, after some posters complained that “Sheesh!” as
-a response to `*newbie* <../N/newbie.html>`__\ s was being overused. See
-also `*FOAF* <FOAF.html>`__.
+a response to `newbie <../N/newbie.html>`__\ s was being overused. See
+also `FOAF <FOAF.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <funny-money.html>`__    | `Up <../F.html>`__         |  `Next <../G.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| funny money                    | `Home <../index.html>`__   |  G                      |
-+--------------------------------+----------------------------+-------------------------+
 
 -fu
-
-`Prev <FSF.html>`__ 
-
-F
-
- `Next <FUBAR.html>`__
-
---------------
+===================================
 
 **-fu**
 
@@ -4788,11 +2678,4 @@ practice of a skill. “That's going to take some serious code-fu.” First
 sighted in connection with the GIMP's remote-scripting facility,
 script-fu, in 1998.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <FSF.html>`__    | `Up <../F.html>`__         |  `Next <FUBAR.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| FSF                    | `Home <../index.html>`__   |  FUBAR                   |
-+------------------------+----------------------------+--------------------------+
 

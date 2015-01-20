@@ -19,14 +19,14 @@ padded cell
 
 **padded cell**: n.
 
-Where you put `luser <../L/luser.html>`__\ s so they can't hurt
+Where you put `lusers <../L.html#luser>`__ so they can't hurt
 anything. A program that limits a luser to a carefully restricted subset
 of the capabilities of the host system (for example, the rsh(1) utility
 on USG Unix). Note that this is different from an `iron
-box <../I/iron-box.html>`__ because it is overt and not aimed at
+box <../I.html#iron-box>`__ because it is overt and not aimed at
 enforcing security so much as protecting others (and the luser) from the
 consequences of the luser's boundless naivete (see
-`naive <../N/naive.html>`__). Also padded cell environment.
+`naive <../N.html#naive>`__). Also padded cell environment.
 
  
 
@@ -39,11 +39,11 @@ page in
 
 1. To become aware of one's surroundings again after having paged out
 (see `page out <page-out.html>`__). Usually confined to the sarcastic
-comment: “Eric pages in, `film at 11 <../F/film-at-11.html>`__!”
+comment: “Eric pages in, `film at 11 <../F.html#film-at-11>`__!”
 
 2. Syn. swap in; see `swap <../S/swap.html>`__.
 
- 
+.. index:: MIT,
 
 page out
 ================
@@ -55,18 +55,18 @@ page out
 1. To become unaware of one's surroundings temporarily, due to
 daydreaming or preoccupation. “Can you repeat that? I paged out for a
 minute.” See `page in <page-in.html>`__. Compare
-`glitch <../G/glitch.html>`__, `thinko <../T/thinko.html>`__.
+`glitch <../G.html#glitch>`__, `thinko <../T.html#thinko>`__.
 
 2. Syn. swap out; see `swap <../S/swap.html>`__.
 
- 
+.. index:: MIT
 
 pain in the net
 ===========================
 
 **pain in the net**: n.
 
-A `flamer <../F/flamer.html>`__.
+A `flamer <../F.html#flamer.html>`__.
 
 
 
@@ -86,7 +86,7 @@ casually use postal addresses. Compare
 `voice-net <../V/voice-net.html>`__,
 `snail-mail <../S/snail-mail.html>`__.
 
- 
+
 
 param
 ============
@@ -101,16 +101,15 @@ PARC
 
 **PARC**: n.
 
-See `XEROX PARC <../X/XEROX-PARC.html>`__.
+See `XEROX PARC <../X.html#XEROX-PARC>`__.
 
- 
 
 parent message
 =================
 
 **parent message**: n.
 
-What a `followup <../F/followup.html>`__ follows up.
+What a `followup <../F.html#followup>`__ follows up.
 
 
 parity errors
@@ -142,7 +141,7 @@ bureaucracies to make work for themselves.) It has been observed since
 the mid-1980s that the memory usage of evolving systems tends to double
 roughly once every 18 months. Fortunately, memory density available for
 constant dollars also tends to about double once every 18 months (see
-`Moore's Law <../M/Moores-Law.html>`__); unfortunately, the laws of
+`Moore's Law <../M.html#Moores-Law>`__); unfortunately, the laws of
 physics guarantee that the latter cannot continue indefinitely.
 
  
