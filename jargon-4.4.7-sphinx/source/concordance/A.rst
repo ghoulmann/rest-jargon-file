@@ -180,6 +180,7 @@ is `73-07-29 <../B/bug.html#crunchly73-07-29>`__.)
 
 admin
 =====
+
 **admin**: /ad·min´/, n.
 
 Short for ‘administrator’; very commonly used in speech or on-line to
@@ -301,6 +302,7 @@ knowledge does not support firm conclusions.
 
 AFJ
 ===
+
 **AFJ**: //, n.
 
 Written-only abbreviation for “April Fool's Joke”. Elaborate April
@@ -388,7 +390,7 @@ non-existent Ok button was pressed the proper code would be called.
 aliasing bug
 ============
 
---------------
+
 
 **aliasing bug**: n.
 
@@ -490,6 +492,7 @@ most likely to be used by the type of person that finds `Jeff
 K. <../J/Jeff-K-.html>`__ hilarious.
 
 alpha geek
+===========
 
 **alpha geek**: n.
 
