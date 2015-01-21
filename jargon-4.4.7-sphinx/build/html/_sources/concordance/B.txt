@@ -28,6 +28,7 @@ was later passed to Richard Sexton, who posted BIFFisms much more
 widely. Versions have since been posted for the amusement of the net at
 large. See also `Jeff K. <../J/Jeff-K-.html>`__ —ESR]
 
+.. index:: Jeff K., Richard Sexton, Joe Talmadge, "Flamer's Bible"
 
 B5
 =========
@@ -37,6 +38,7 @@ B5
 [common] Abbreviation for “Babylon 5”, a science-fiction TV series as
 revered among hackers as was the original Star Trek.
 
+.. index:: Babylon 5, Star Trek, TV,
 
 backbone cabal
 ==============
