@@ -32,7 +32,7 @@ Introduction
    conventions
    submitting-new-entries
 
-Appendix A: Hacker Folklore
+Hacker Folklore
 ----------------------------
 
 .. toctree::
