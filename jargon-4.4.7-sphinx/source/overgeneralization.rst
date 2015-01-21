@@ -1,13 +1,6 @@
-Overgeneralization
 
-`Prev <p-convention.html>`__ 
 
-Chapter 4. Jargon Construction
-
- `Next <inarticulations.html>`__
-
---------------
-
+------------------
 Overgeneralization
 ------------------
 
@@ -16,7 +9,7 @@ techspeak items such as names of program tools, command language
 primitives, and even assembler opcodes are applied to contexts outside
 of computing wherever hackers find amusing analogies to them. Thus (to
 cite one of the best-known examples) Unix hackers often
-`*grep* <G/grep.html>`__ for things rather than searching for them. Many
+`grep <G/grep.html>`__ for things rather than searching for them. Many
 of the lexicon entries are generalizations of exactly this kind.
 
 Hackers enjoy overgeneralization on the grammatical level as well. Many
@@ -26,11 +19,8 @@ cases (or vice versa). For example, because porous → porosity and
 generous → generosity, hackers happily generalize:
 
 -  mysterious → mysteriosity
-
 -  ferrous → ferrosity
-
 -  obvious → obviosity
-
 -  dubious → dubiosity
 
 Another class of common construction uses the suffix ‘-itude’ to
@@ -39,11 +29,8 @@ arises especially in cases where mainstream English would perform the
 same abstraction through ‘-iness’ or ‘-ingness’. Thus:
 
 -  win → winnitude (a common exclamation)
-
 -  loss → lossitude
-
 -  cruft → cruftitude
-
 -  lame → lameitude
 
 Some hackers cheerfully reverse this transformation; they argue, for
@@ -74,28 +61,26 @@ Similarly, all verbs can be nouned. This is only a slight
 overgeneralization in modern English; in hackish, however, it is good
 form to mark them in some standard nonstandard way. Thus:
 
--  win → winnitude, winnage
-
--  disgust → disgustitude
-
--  hack → hackification
+* win → winnitude, winnage
+* disgust → disgustitude
+* hack → hackification
 
 Further, note the prevalence of certain kinds of nonstandard plural
 forms. Some of these go back quite a ways; the TMRC Dictionary includes
 an entry which implies that the plural of ‘mouse’ is
-`*meeces* <M/meeces.html>`__, and notes that the defined plural of
+`meeces <M/meeces.html>`__, and notes that the defined plural of
 ‘caboose’ is ‘cabeese’. This latter has apparently been standard (or at
 least a standard joke) among railfans (railroad enthusiasts) for many
 years
 
 On a similarly Anglo-Saxon note, almost anything ending in ‘x’ may form
-plurals in ‘-xen’ (see `*VAXen* <V/VAXen.html>`__ and
-`*boxen* <B/boxen.html>`__ in the main text). Even words ending in
+plurals in ‘-xen’ (see `VAXen <V/VAXen.html>`__ and
+`boxen <B/boxen.html>`__ in the main text). Even words ending in
 phonetic /k/ alone are sometimes treated this way; e.g., ‘soxen’ for a
 bunch of socks. Other funny plurals are the Hebrew-style ‘frobbotzim’
-for the plural of ‘frobbozz’ (see `*frobnitz* <F/frobnitz.html>`__) and
+for the plural of ‘frobbozz’ (see `frobnitz <F/frobnitz.html>`__) and
 ‘Unices’ and ‘Twenices’ (rather than ‘Unixes’ and ‘Twenexes’; see
-`*Unix* <U/Unix.html>`__, `*TWENEX* <T/TWENEX.html>`__ in main text).
+`Unix <U/Unix.html>`__, `TWENEX <T/TWENEX.html>`__ in main text).
 But note that ‘Twenexen’ was never used, and ‘Unixen’ was seldom sighted
 in the wild until the year 2000, thirty years after it might logically
 have come into use; it has been suggested that this is because ‘-ix’ and
@@ -114,12 +99,4 @@ This is not ‘poor grammar’, as hackers are generally quite well aware of
 what they are doing when they distort the language. It is grammatical
 creativity, a form of playfulness. It is done not to impress but to
 amuse, and never at the expense of clarity.
-
---------------
-
-+---------------------------------+------------------------------+------------------------------------+
-| `Prev <p-convention.html>`__    | `Up <construction.html>`__   |  `Next <inarticulations.html>`__   |
-+---------------------------------+------------------------------+------------------------------------+
-| The -P Convention               | `Home <index.html>`__        |  Spoken inarticulations            |
-+---------------------------------+------------------------------+------------------------------------+
 

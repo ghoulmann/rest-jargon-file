@@ -592,6 +592,7 @@ Miss Lena Sjööblom
 +-----------------------------+----------------------------+------------------------+
 
 .. |image0| image:: ../_static/len_std.jpg
+
 LER
 
 `Prev <lenna.html>`__ 
@@ -774,8 +775,9 @@ life! <../G/Get-a-life-.html>`__\ ”
 | lexer                    | `Home <../index.html>`__   |  Life is hard                   |
 +--------------------------+----------------------------+---------------------------------+
 
-.. |image0| image:: ../_static/glider.png
+
 Life is hard
+=============
 
 `Prev <life.html>`__ 
 
@@ -909,6 +911,7 @@ insurgency that created the nation of Panama.
 line 666
 
 `Prev <like-nailing-jelly-to-a-tree.html>`__ 
+
 ====
 L
 ====
@@ -1369,8 +1372,10 @@ We've got your numbers....
 | Lions Book                    | `Home <../index.html>`__   |  list-bomb                   |
 +-------------------------------+----------------------------+------------------------------+
 
-.. |image0| image:: ../_static/lisp.png
+.. image:: ../_static/lisp.png
+
 list-bomb
+==========
 
 `Prev <LISP.html>`__ 
 
@@ -1516,7 +1521,6 @@ items. In 1994 `DEC <../D/DEC.html>`__ put an inferior imitation of
 these in circulation with a red corporate logo added. Compaq (half of
 which was once DEC) continued the practice.
 
-|image0|
 
 Armando Stettner's original Unix license plate.
 
@@ -1528,8 +1532,10 @@ Armando Stettner's original Unix license plate.
 | live data                    | `Home <../index.html>`__   |  livelock                   |
 +------------------------------+----------------------------+-----------------------------+
 
-.. |image0| image:: ../_static/licenseplate.jpg
+.. image:: ../_static/licenseplate.jpg
+
 live
+=====
 
 `Prev <little-endian.html>`__ 
 

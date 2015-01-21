@@ -31,8 +31,18 @@ Introduction
    pronunciation
    conventions
    submitting-new-entries
+
+Appendix A
+----------
+
+   appendixa/meaning-of-hack
+   appendixa/tv-typewriters
+   appendixa/magic-story
+   appendixa/koans
+   appendixa/os-and-jedgar
+   appenixa/story-of-mel
    
-Concordance
+Lexicon
 ------------
    
 .. toctree::
