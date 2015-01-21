@@ -3,22 +3,6 @@
 Jargon Construction
 ------------------------------
 
-**Table of Contents**
-
-`Verb Doubling <verb-doubling.html>`__
-
-`Soundalike Slang <soundalike-slang.html>`__
-
-`The -P Convention <p-convention.html>`__
-
-`Overgeneralization <overgeneralization.html>`__
-
-`Spoken inarticulations <inarticulations.html>`__
-
-`Anthropomorphization <anthropomorphization.html>`__
-
-`Comparatives <comparatives.html>`__
-
 There are some standard methods of jargonification that became
 established quite early (i.e., before 1970), spreading from such sources
 as the Tech Model Railroad Club, the PDP-1 SPACEWAR hackers, and John

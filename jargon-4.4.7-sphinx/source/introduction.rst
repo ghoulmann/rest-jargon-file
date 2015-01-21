@@ -1,7 +1,6 @@
 
-
 ==========================================
-Hacker Slang and Hacker Culture
+[Of] Hacker Slang and Hacker Culture
 ==========================================
 
 This document is a collection of slang terms used by various subcultures

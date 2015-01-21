@@ -12,7 +12,7 @@ phreaks, and `warez d00dz <W/warez-d00dz.html>`__. These people
 developed their own characteristic jargon, heavily influenced by
 skateboard lingo and underground-rock slang. While BBS technology
 essentially died out after the `Great Internet
-Explosion*<G/Great-Internet-Explosion.html>`__, the cracker culture
+Explosion <G/Great-Internet-Explosion.html>`__, the cracker culture
 moved to IRC and other Internet-based network channels and maintained a
 semi-underground existence.
 
@@ -31,24 +31,24 @@ out of the cracker underground and the occasional ironic use by hackers.
 Here is a brief guide to cracker and `warez
 d00dz <W/warez-d00dz.html>`__ usage:
 
--  Misspell frequently. The substitutions phone → fone and freak →
+* Misspell frequently. The substitutions phone → fone and freak →
    phreak are obligatory.
 
--  Always substitute ‘z’s for ‘s’s. (i.e. “codes” → “codez”). The
+* Always substitute ‘z’s for ‘s’s. (i.e. “codes” → “codez”). The
    substitution of ‘z’ for ‘s’ has evolved so that a ‘z’ is now
    systematically put at the end of words to denote an illegal or
    cracking connection. Examples : Appz, passwordz, passez, utilz, MP3z,
    distroz, pornz, sitez, gamez, crackz, serialz, downloadz, FTPz, etc.
 
--  Type random emphasis characters after a post line (i.e. “Hey
+* Type random emphasis characters after a post line (i.e. “Hey
    Dudes!#!$#$!#!$”).
 
--  Use the emphatic ‘k’ prefix (“k-kool”, “k-rad”, “k-awesome”)
+* Use the emphatic ‘k’ prefix (“k-kool”, “k-rad”, “k-awesome”)
    frequently.
 
--  Abbreviate compulsively (“I got lotsa warez w/ docs”).
+* Abbreviate compulsively (“I got lotsa warez w/ docs”).
 
--  TYPE ALL IN CAPS LOCK, SO IT LOOKS LIKE YOU'RE YELLING ALL THE TIME.
+* TYPE ALL IN CAPS LOCK, SO IT LOOKS LIKE YOU'RE YELLING ALL THE TIME.
 
 The following letter substitutions are common::
 

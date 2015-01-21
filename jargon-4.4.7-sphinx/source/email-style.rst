@@ -42,7 +42,7 @@ wrong” or “I agree”.
 Many people feel that this cure is worse than the original disease, and
 there soon appeared newsreader software designed to let the reader skip
 over included text if desired. Today, some posting software rejects
-articles containing too high a proportion of lines beginning with ‘>' —
+articles containing too high a proportion of lines beginning with *>* —
 but this too has led to undesirable workarounds, such as the deliberate
 inclusion of zero-content filler lines which aren't quoted and thus pull
 the message below the rejection threshold.
@@ -74,10 +74,10 @@ quoted message *after* the response, like this::
 
  - but this practice is strongly deprecated.
 
-Though ">" remains the standard inclusion leader, "|" is
+Though ">" remains the standard inclusion leader, "\|" is
 occasionally used for extended quotations where original variations in
 indentation are being retained (one mailer even combines these and uses
-"|>"). One also sees different styles of quoting a number of authors
+"\|>"). One also sees different styles of quoting a number of authors
 in the same message: one (deprecated because it loses information) uses
 a leader of "> " for everyone, another (the most common) is
 "> > > >", "> > > ", etc. (or ">>>> ", ">>>", etc., depending on
