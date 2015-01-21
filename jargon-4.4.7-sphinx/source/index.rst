@@ -32,8 +32,8 @@ Introduction
    conventions
    submitting-new-entries
 
-Appendix A
-----------
+Appendix A: Hacker Folklore
+----------------------------
 
 .. toctree::
    :maxdepth: 2
