@@ -35,6 +35,9 @@ Introduction
 Appendix A
 ----------
 
+.. toctree::
+   :maxdepth: 2
+   
    appendixa/meaning-of-hack
    appendixa/tv-typewriters
    appendixa/magic-story
