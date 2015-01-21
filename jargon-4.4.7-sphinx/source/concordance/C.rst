@@ -73,7 +73,7 @@ C&C
 
 **C&C**: //
 
-[common, esp. on ``news.admin.net-abuse.email``] Contraction of “Coffee
+[common, esp. on "news.admin.net-abuse.email"] Contraction of “Coffee
 & Cats”. This frequently occurs as a warning label on USENET posts that
 are likely to cause you to `snarf <../S/snarf.html>`__ coffee onto
 your keyboard and startle the cat off your lap.
@@ -110,8 +110,8 @@ Cancelmoose[tm]
 [Usenet] The archetype and model of all good
 `spam <../S/spam.html>`__-fighters. Once upon a time, the 'Moose would
 send out spam-cancels and then post notice anonymously to
-``news.admin.policy``, ``news.admin.misc``, and
-``alt.current-events.net-abuse``. The 'Moose stepped to the fore on its
+"news.admin.policy", "news.admin.misc", and
+"alt.current-events.net-abuse". The 'Moose stepped to the fore on its
 own initiative, at a time (mid-1994) when spam-cancels were irregular
 and disorganized, and behaved altogether admirably — fair, even-handed,
 and quick to respond to comments and criticism, all without
@@ -121,7 +121,7 @@ groups.
 
 Nobody knows who Cancelmoose[tm] really is, and there aren't even any
 good rumors. However, the 'Moose now has an e-mail address
-(``<moose@cm.org>``) and a web site
+("<moose@cm.org>") and a web site
 (`http://www.cm.org/ <http://www.cm.org/>`__.) By early 1995, others had
 stepped into the spam-cancel business, and appeared to be comporting
 themselves well, after the 'Moose's manner. The 'Moose has now gotten
@@ -176,10 +176,10 @@ canonical
 
 [very common; historically, ‘according to religious law’] The usual or
 standard state or manner of something. This word has a somewhat more
-technical meaning in mathematics. Two formulas such as ``9 + x`` and
-``x +    9`` are said to be equivalent because they mean the same thing,
+technical meaning in mathematics. Two formulas such as "9 + x" and
+"x +    9" are said to be equivalent because they mean the same thing,
 but the second one is in canonical form because it is written in the
-usual way, with the highest power of ``x`` first. Usually there are
+usual way, with the highest power of "x" first. Usually there are
 fixed rules you can use to decide whether something is in canonical
 form. The jargon meaning, a relaxation of the technical meaning,
 acquired its present loading in computer-science culture largely through
@@ -995,7 +995,7 @@ choad
 
 **choad**: /chohd/, n.
 
-Synonym for ‘penis’ used in ``alt.tasteless`` and popularized by the
+Synonym for ‘penis’ used in "alt.tasteless" and popularized by the
 denizens thereof. They say: “We think maybe it's from Middle English but
 we're all too damned lazy to check the OED.” [I'm not. It isn't. —ESR]
 This term is alleged to have been inherited through 1960s underground
@@ -1450,11 +1450,11 @@ C\|N>K
 
 [Usenet] Coffee through Nose to Keyboard; that is, “I laughed so hard I
 `snarf <../S/snarf.html>`__\ ed my coffee onto my keyboard.”. Common
-on ``alt.fan.pratchett`` and `scary devil
+on "alt.fan.pratchett" and `scary devil
 monastery <../S/scary-devil-monastery.html>`__; recognized elsewhere.
 The `Acronymphomania
 FAQ <http://www.lspace.org/faqs/acronym-faq.g.html>`__ on
-``alt.fan.pratchett`` recognizes variants such as T\|N>K = ‘Tea through
+"alt.fan.pratchett" recognizes variants such as T\|N>K = ‘Tea through
 Nose to Keyboard’ and C\|N>S = ‘Coffee through Nose to Screen’.
 
 
@@ -2134,9 +2134,9 @@ typing.
 4. elephant condom: the plastic shipping bags used inside cardboard
 boxes to protect hardware in transit.
 
-5. n. obs. A dummy directory ``/usr/tmp/sh``, created to foil the
+5. n. obs. A dummy directory "/usr/tmp/sh", created to foil the
 `Great Worm <../G/Great-Worm.html>`__ by exploiting a portability bug
-in one of its parts. So named in the title of a ``comp.risks`` article
+in one of its parts. So named in the title of a "comp.risks" article
 by Gene Spafford during the Worm crisis, and again in the text of *The
 Internet Worm Program: An Analysis*, Purdue Technical Report CSD-TR-823.
 
@@ -3639,7 +3639,7 @@ distinguish it from
 `number-crunching <../N/number-crunching.html>`__.) See
 `compress <compress.html>`__.
 
-3. n. The character ``#``. Used at XEROX and CMU, among other places.
+3. n. The character "#". Used at XEROX and CMU, among other places.
 See `ASCII <../A/ASCII.html>`__.
 
 4. vt. To squeeze program source into a minimum-size representation that
@@ -3962,7 +3962,7 @@ cypherpunk
 of encryption via electronic ciphers for enhancing personal privacy and
 guarding against tyranny by centralized, authoritarian power structures,
 especially government. There is an active cypherpunks mailing list at
-``<cypherpunks-request@toad.com>`` coordinating work on public-key
+"<cypherpunks-request@toad.com>" coordinating work on public-key
 encryption freeware, privacy, and digital cash. See also
 `tentacle <../T/tentacle.html>`__.
 

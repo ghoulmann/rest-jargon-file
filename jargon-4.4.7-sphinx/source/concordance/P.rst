@@ -953,7 +953,7 @@ than just “ping”!). Oppose `blargh <../B/blargh.html>`__.
 
 The funniest use of ‘ping’ to date was
 `described <http://groups.google.com/groups?selm=1991Jan23.211609.877%40news.cs.indiana.edu>`__
-in January 1991 by Steve Hayman on the Usenet group ``comp.sys.next``.
+in January 1991 by Steve Hayman on the Usenet group "comp.sys.next".
 He was trying to isolate a faulty cable segment on a TCP/IP Ethernet
 hooked up to a NeXT machine, and got tired of having to run back to his
 console after each cabling tweak to see if the ping packets were getting
@@ -1119,7 +1119,7 @@ in “the Bell Labs tradition of selecting names that make marketeers
 wince.” The developers also wished to pay homage to the famous film,
 “Plan 9 From Outer Space”, considered by some to be the worst movie ever
 made. The source is available for download under open-source terms. The
-developers and a small fan base hang out at ``comp.os.plan9``, where one
+developers and a small fan base hang out at "comp.os.plan9", where one
 can occasionally hear “If you want UNIX, you know where to find it”
 
  
@@ -1130,7 +1130,7 @@ plan file
 **plan file**: n.
 
 [Unix] On systems that support `finger <../F/finger.html>`__, the
-``.plan`` file in a user's home directory is displayed when the user is
+".plan" file in a user's home directory is displayed when the user is
 fingered. This feature was originally intended to be used to keep
 potential fingerers apprised of one's location and near-future plans,
 but has been turned almost universally to humorous and self-expressive
@@ -1173,7 +1173,7 @@ cast in platinum-iridium alloy and placed in the vault beside the
 Standard Kilogram at the International Bureau of Weights and Measures
 near Paris. (From 1889 to 1960, the meter was defined to be the distance
 between two scratches in a platinum-iridium bar kept in that same vault
-— this replaced an earlier definition as ``10-7`` times the distance
+— this replaced an earlier definition as "10-7" times the distance
 between the North Pole and the Equator along a meridian through Paris;
 unfortunately, this had been based on an inexact value of the
 circumference of the Earth. From 1960 to 1984 it was defined to be
@@ -1260,7 +1260,7 @@ or ‘plonker’ for someone behaving stupidly (latter is lit. equivalent to
 Yiddish *schmuck*)] The sound a `newbie <../N/newbie.html>`__ makes as
 he falls to the bottom of a `kill file <../K/kill-file.html>`__. While
 it originated in the `newsgroup <../N/newsgroup.html>`__
-``talk.bizarre``, this term (usually written “\*plonk\*”) is now (1994)
+"talk.bizarre", this term (usually written “\*plonk\*”) is now (1994)
 widespread on Usenet as a form of public ridicule.
  
 plug-and-pray

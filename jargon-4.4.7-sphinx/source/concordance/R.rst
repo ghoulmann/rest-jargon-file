@@ -417,7 +417,7 @@ rc file
 **rc file**: /R·C fi:l/, n.
 
 [Unix: from runcom files on the `CTSS <../C/CTSS.html>`__ system
-1962-63, via the startup script ``/etc/rc``] Script file containing
+1962-63, via the startup script "/etc/rc"] Script file containing
 startup instructions for an application program (or an entire operating
 system), usually a text file containing commands of the sort that might
 have been invoked manually once the system was running but are to be
@@ -503,7 +503,7 @@ reality check
 **reality check**: n.
 
 1. The simplest kind of test of software or hardware; doing the
-equivalent of asking it what ``2 + 2`` is and seeing if you get 4. The
+equivalent of asking it what "2 + 2" is and seeing if you get 4. The
 software equivalent of a `smoke test <../S/smoke-test.html>`__.
 
 2. The act of letting a `real user <real-user.html>`__ try out
@@ -772,7 +772,7 @@ the wildcard patterns used, e.g., by Unix utilities such as grep(1),
 sed(1), and awk(1). These use conventions similar to but more elaborate
 than those described under `glob <../G/glob.html>`__. For purposes of
 this lexicon, it is sufficient to note that regexps also allow
-complemented character sets using ``^``; thus, one can specify ‘any
+complemented character sets using "^"; thus, one can specify ‘any
 non-alphabetic character’ with **[^A-Za-z]**.
 
 2. Name of a well-known PD regexp-handling package in portable C,
@@ -960,7 +960,7 @@ retcon
 **retcon**: /ret´kon/
 
 [short for ‘retroactive continuity’, from the Usenet newsgroup
-``rec.arts.comics``]
+"rec.arts.comics"]
 
 1. n. The common situation in pulp fiction (esp. comics or soap operas)
 where a new story ‘reveals’ things about events in previous stories,
@@ -981,7 +981,7 @@ association with hackerdom within a couple of years; for the record, it
 started here. —ESR]
 
 [1993 update: some comics fans on the net now claim that retcon was
-independently in use in comics fandom before ``rec.arts.comics``, and
+independently in use in comics fandom before "rec.arts.comics", and
 have citations from around 1981. In lexicography, nothing is ever
 simple. —ESR]
 
@@ -1290,7 +1290,7 @@ forward or back along the alphabet, so that “The butler did it!” becomes
 include a rot13 feature. It is used to enclose the text in a sealed
 wrapper that the reader must choose to open — e.g., for posting things
 that might offend some readers, or `spoiler <../S/spoiler.html>`__\ s.
-A major advantage of rot13 over rot(\ ``N``) for other ``N`` is that it
+A major advantage of rot13 over rot(\ "N") for other "N" is that it
 is self-inverse, so the same code can be used for encoding and decoding.
 See also `spoiler space <../S/spoiler-space.html>`__, which has partly
 displaced rot13 since non-Unix-based newsreaders became common.

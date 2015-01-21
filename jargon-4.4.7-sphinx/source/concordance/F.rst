@@ -80,7 +80,7 @@ switch header, passing a point where one would normally expect to find a
      break;
   }
 
-The variant spelling ``/* FALL THRU */`` is also common.
+The variant spelling "/* FALL THRU */" is also common.
 
 The effect of the above code is to do\_green() when color is **GREEN**,
 do\_red() when color is **RED**, do\_blue() on any other color other
@@ -142,7 +142,7 @@ the term ‘FAQ list’ or ‘FAQL’ /fa´kl/, reserving ‘FAQ’ for sense 1.
 This lexicon itself serves as a good example of a collection of one kind
 of lore, although it is far too big for a regular FAQ posting. Examples:
 “What is the proper type of NULL?” and “What's that funny name for the
-``#`` character?” are both Frequently Asked Questions. Several FAQs
+"#" character?” are both Frequently Asked Questions. Several FAQs
 refer readers to the Jargon File.
 
 
@@ -563,14 +563,14 @@ condition, often exhibited in programs by iterative loops. From the
 following problem: “If you build a fence 100 feet long with posts 10
 feet apart, how many posts do you need?” (Either 9 or 11 is a better
 answer than the obvious 10.) For example, suppose you have a long list
-or array of items, and want to process items ``m`` through ``n``; how
-many items are there? The obvious answer is ``n - m``, but that is off
-by one; the right answer is ``n - m + 1``. A program that used the
+or array of items, and want to process items "m" through "n"; how
+many items are there? The obvious answer is "n - m", but that is off
+by one; the right answer is "n - m + 1". A program that used the
 ‘obvious’ formula would have a fencepost error in it. See also
 `zeroth <../Z/zeroth.html>`__ and `off-by-one
 error <../O/off-by-one-error.html>`__, and note that not all off-by-one
 errors are fencepost errors. The game of Musical Chairs involves a
-catastrophic off-by-one error where ``N`` people try to sit in ``N - 1``
+catastrophic off-by-one error where "N" people try to sit in "N - 1"
 chairs, but it's not a fencepost error. Fencepost errors come from
 counting things rather than the spaces between them, or vice versa, or
 by neglecting to consider whether one should count one or both ends of a
@@ -1993,7 +1993,7 @@ variables. “The max function takes 42 arguments, for arbitrary values of
 especially likely when the speaker has uttered a random number and
 realizes that it was not recognized as such, but even ‘non-random’
 numbers are occasionally used in this fashion. A related joke is that
-``π`` equals 3 — for small values of ``π`` and large values of 3.
+"π" equals 3 — for small values of "π" and large values of 3.
 
 Historical note: at MIT this usage has traditionally been traced to the
 programming language MAD (Michigan Algorithm Decoder), an Algol-58-like
@@ -2222,7 +2222,7 @@ frink
 **frink**: /frink/, v.
 
 The unknown ur-verb, fill in your own meaning. Found esp. on the Usenet
-newsgroup ``alt.fan.lemurs``, where it is said that the lemurs know what
+newsgroup "alt.fan.lemurs", where it is said that the lemurs know what
 ‘frink’ means, but they aren't telling. Compare
 `gorets <../G/gorets.html>`__.
 
@@ -2444,7 +2444,7 @@ fscking
 Unix filesystem-repair command fsck(8), of which it can be said that if
 you have to use it at all you are having a bad day). Originated on
 `scary devil monastery <../S/scary-devil-monastery.html>`__ and the
-``bofh.net`` newsgroups, but became much more widespread following the
+"bofh.net" newsgroups, but became much more widespread following the
 passage of `CDA <../C/CDA.html>`__. Also occasionally seen in the
 variant “What the fsck?”
 FSF
@@ -2663,7 +2663,7 @@ furrfu
 “Sheesh!”; it is, in fact, “sheesh” modified by
 `rot13 <../R/rot13.html>`__. Evolved in mid-1992 as a response to
 notably silly postings repeating urban myths on the Usenet newsgroup
-``alt.folklore.urban``, after some posters complained that “Sheesh!” as
+"alt.folklore.urban", after some posters complained that “Sheesh!” as
 a response to `newbie <../N/newbie.html>`__\ s was being overused. See
 also `FOAF <FOAF.html>`__.
 

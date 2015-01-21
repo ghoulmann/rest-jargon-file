@@ -15,8 +15,8 @@ make many incremental and unnecessary cosmetic changes to a program or
 file. Often the subject of the macdinking would be better off without
 them. “When I left at 11PM last night, he was still macdinking the
 slides for his presentation.” See also
-`*fritterware* <../F/fritterware.html>`__, `*window
-shopping* <../W/window-shopping.html>`__.
+`fritterware <../F/fritterware.html>`__, `window
+shopping <../W/window-shopping.html>`__.
 
 --------------
 
@@ -41,9 +41,9 @@ M
 [pun on megaflops, a coinage for ‘millions of FLoating-point Operations
 Per Second’] Refers to artificially inflated performance figures often
 quoted by computer manufacturers. Real applications are lucky to get
-half the quoted speed. See `*Your mileage may
-vary* <../Y/Your-mileage-may-vary.html>`__,
-`*benchmark* <../B/benchmark.html>`__.
+half the quoted speed. See `Your mileage may
+vary <../Y/Your-mileage-may-vary.html>`__,
+`benchmark <../B/benchmark.html>`__.
 
 --------------
 
@@ -65,8 +65,8 @@ M
 
 **Macintoy**: /mak´in·toy/, n.
 
-The Apple Macintosh, considered as a `*toy* <../T/toy.html>`__. Less
-pejorative than `*Macintrash* <Macintrash.html>`__.
+The Apple Macintosh, considered as a `toy <../T/toy.html>`__. Less
+pejorative than `Macintrash <Macintrash.html>`__.
 
 --------------
 
@@ -90,14 +90,14 @@ M
 
 The Apple Macintosh, as described by a hacker who doesn't appreciate
 being kept away from the *real computer* by the interface. The term
-`*maggotbox* <maggotbox.html>`__ has been reported in regular use in the
+`maggotbox <maggotbox.html>`__ has been reported in regular use in the
 Research Triangle area of North Carolina. Compare
-`*Macintoy* <Macintoy.html>`__. See also `*beige
-toaster* <../B/beige-toaster.html>`__, `*WIMP
-environment* <../W/WIMP-environment.html>`__, `*point-and-drool
-interface* <../P/point-and-drool-interface.html>`__, `*drool-proof
-paper* <../D/drool-proof-paper.html>`__,
-`*user-friendly* <../U/user-friendly.html>`__.
+`Macintoy <Macintoy.html>`__. See also `beige
+toaster <../B/beige-toaster.html>`__, `WIMP
+environment <../W/WIMP-environment.html>`__, `point-and-drool
+interface <../P/point-and-drool-interface.html>`__, `drool-proof
+paper <../D/drool-proof-paper.html>`__,
+`user-friendly <../U/user-friendly.html>`__.
 
 --------------
 
@@ -119,9 +119,9 @@ M
 
 **macro-**: pref.
 
-Large. Opposite of `*micro-* <micro-.html>`__. In the mainstream and
+Large. Opposite of `micro- <micro-.html>`__. In the mainstream and
 among other technical cultures (for example, medical people) this
-competes with the prefix `*mega-* <mega-.html>`__, but hackers tend to
+competes with the prefix `mega- <mega-.html>`__, but hackers tend to
 restrict the latter to quantification.
 
 --------------
@@ -145,7 +145,7 @@ M
 **macro**: /mak´roh/, n.
 
 [techspeak] A name (possibly followed by a formal
-`*arg* <../A/arg.html>`__ list) that is equated to a text or symbolic
+`arg <../A/arg.html>`__ list) that is equated to a text or symbolic
 expression to which it is to be expanded (possibly with the substitution
 of actual arguments) by a macro expander. This definition can be found
 in any technical dictionary; what those won't tell you is how the
@@ -154,10 +154,10 @@ hackish connotations of the term have changed over time.
 The term macro originated in early assemblers, which encouraged the use
 of macros as a structuring and information-hiding device. During the
 early 1970s, macro assemblers became ubiquitous, and sometimes quite as
-powerful and expensive as `*HLL* <../H/HLL.html>`__\ s, only to fall
+powerful and expensive as `HLL <../H/HLL.html>`__\ s, only to fall
 from favor as improving compiler technology marginalized assembler
-programming (see `*languages of
-choice* <../L/languages-of-choice.html>`__). Nowadays the term is most
+programming (see `languages of
+choice <../L/languages-of-choice.html>`__). Nowadays the term is most
 often used in connection with the C preprocessor, LISP, or one of
 several special-purpose languages built around a macro-expansion
 facility (such as TeX or Unix's [nt]roff suite).
@@ -190,13 +190,13 @@ M
 **macrology**: /mak·rol'@·jee/, n.
 
 1. Set of usually complex or crufty macros, e.g., as part of a large
-system written in `*LISP* <../L/LISP.html>`__,
-`*TECO* <../T/TECO.html>`__, or (less commonly) assembler.
+system written in `LISP <../L/LISP.html>`__,
+`TECO <../T/TECO.html>`__, or (less commonly) assembler.
 
 2. The art and science involved in comprehending a macrology in sense 1.
 Sometimes studying the macrology of a system is not unlike archeology,
-ecology, or `*theology* <../T/theology.html>`__, hence the sound-alike
-construction. See also `*boxology* <../B/boxology.html>`__.
+ecology, or `theology <../T/theology.html>`__, hence the sound-alike
+construction. See also `boxology <../B/boxology.html>`__.
 
 --------------
 
@@ -218,7 +218,7 @@ M
 
 **maggotbox**: /mag'@t·boks/, n.
 
-See `*Macintrash* <Macintrash.html>`__. This is even more derogatory.
+See `Macintrash <Macintrash.html>`__. This is even more derogatory.
 
 --------------
 
@@ -255,11 +255,11 @@ some other program later.
 
 2. An in-band code for changing graphic rendition (e.g., inverse video
 or underlining) or performing other control functions (see also
-`*cookie* <../C/cookie.html>`__). Some older terminals would leave a
+`cookie <../C/cookie.html>`__). Some older terminals would leave a
 blank on the screen corresponding to mode-change magic cookies; this was
-also called a `*glitch* <../G/glitch.html>`__ (or occasionally a turd;
-compare `*mouse droppings* <mouse-droppings.html>`__). See also
-`*cookie* <../C/cookie.html>`__.
+also called a `glitch <../G/glitch.html>`__ (or occasionally a turd;
+compare `mouse droppings <mouse-droppings.html>`__). See also
+`cookie <../C/cookie.html>`__.
 
 --------------
 
@@ -282,15 +282,15 @@ M
 **magic**
 
 1. adj. As yet unexplained, or too complicated to explain; compare
-`*automagically* <../A/automagically.html>`__ and (Arthur C.) Clarke's
+`automagically <../A/automagically.html>`__ and (Arthur C.) Clarke's
 Third Law: “Any sufficiently advanced technology is indistinguishable
 from magic.” “TTY echoing is controlled by a large number of magic
 bits.” “This routine magically computes the parity of an 8-bit byte in
 three instructions.”
 
 2. adj. Characteristic of something that works although no one really
-understands why (this is especially called `*black
-magic* <../B/black-magic.html>`__).
+understands why (this is especially called `black
+magic <../B/black-magic.html>`__).
 
 3. n. [Stanford] A feature not generally publicized that allows
 something otherwise impossible, or a feature formerly in that category
@@ -303,10 +303,10 @@ technology distinguishable from magic is insufficiently advanced”.
 Parodies playing on these senses of the term abound; some have made
 their way into serious documentation, as when a MAGIC directive was
 described in the Control Card Reference for GCOS c.1978. For more about
-hackish ‘magic’, see `Appendix A <../appendixa.html>`__. Compare `*black
-magic* <../B/black-magic.html>`__, `*wizardly* <../W/wizardly.html>`__,
-`*deep magic* <../D/deep-magic.html>`__, `*heavy
-wizardry* <../H/heavy-wizardry.html>`__.
+hackish ‘magic’, see `Appendix A <../appendixa.html>`__. Compare `black
+magic <../B/black-magic.html>`__, `wizardly <../W/wizardly.html>`__,
+`deep magic <../D/deep-magic.html>`__, `heavy
+wizardry <../H/heavy-wizardry.html>`__.
 
 --------------
 
@@ -332,7 +332,7 @@ M
 
 1. In source code, some non-obvious constant whose value is significant
 to the operation of a program and that is inserted inconspicuously
-in-line (`*hardcoded* <../H/hardcoded.html>`__), rather than expanded in
+in-line (`hardcoded <../H/hardcoded.html>`__), rather than expanded in
 by a symbol set by a commented **#define**. Magic numbers in this sense
 are bad style.
 
@@ -346,13 +346,13 @@ was ancestral to the more common sense
 indicate its type to a utility. Under Unix, the system and various
 applications programs (especially the linker) distinguish between types
 of executable file by looking for a magic number. Once upon a time,
-these magic numbers were `*PDP-11* <../P/PDP-11.html>`__ branch
+these magic numbers were `PDP-11 <../P/PDP-11.html>`__ branch
 instructions that skipped over header data to the start of executable
 code; 0407, for example, was octal for ‘branch 16 bytes relative’. Many
 other kinds of files now have magic numbers somewhere; some magic
-numbers are, in fact, strings, like the ``!<arch>`` at the beginning of
-a Unix archive file or the ``%!`` leading PostScript files. Nowadays
-only a `*wizard* <../W/wizard.html>`__ knows the spells to create magic
+numbers are, in fact, strings, like the "!<arch>" at the beginning of
+a Unix archive file or the "%!" leading PostScript files. Nowadays
+only a `wizard <../W/wizard.html>`__ knows the spells to create magic
 numbers. How do you choose a fresh magic number of your own? Simple —
 you pick one at random. See? It's magic!
 
@@ -362,7 +362,7 @@ algorithm behavior becomes discontinuous. Numeric overflows
 zero, stack overflows) are indications of magic numbers. The Y2K scare
 was probably the most notorious magic number non-incident.
 
-*The* magic number, on the other hand, is ``7±2``. See *The magical
+*The* magic number, on the other hand, is "7±2". See *The magical
 number seven, plus or minus two: some limits on our capacity for
 processing information* by George Miller, in the *Psychological Review*
 63:81-97 (1956). This classic paper established the number of distinct
@@ -394,8 +394,8 @@ A substance trapped inside IC packages that enables them to function
 (also called blue smoke; this is similar to the archaic phlogiston
 hypothesis about combustion). Its existence is demonstrated by what
 happens when a chip burns up — the magic smoke gets let out, so it
-doesn't work any more. See `*smoke test* <../S/smoke-test.html>`__,
-`*let the smoke out* <../L/let-the-smoke-out.html>`__.
+doesn't work any more. See `smoke test <../S/smoke-test.html>`__,
+`let the smoke out <../L/let-the-smoke-out.html>`__.
 
 Usenetter Jay Maynard tells the following story: “Once, while hacking on
 a dedicated Z80 system, I was testing code by blowing EPROMs and
@@ -406,7 +406,7 @@ their EPROMs — the die was glowing white-hot. Amazingly, the EPROM
 worked fine after I erased it, filled it full of zeros, then erased it
 again. For all I know, it's still in service. Of course, this is because
 the magic smoke didn't get let out.” Compare the original phrasing of
-`*Murphy's Law* <Murphys-Law.html>`__.
+`Murphy's Law <Murphys-Law.html>`__.
 
 --------------
 
@@ -431,8 +431,8 @@ M
 (also mail bomb) [Usenet]
 
 1. v. To send, or urge others to send, massive amounts of
-`*email* <../E/email.html>`__ to a single system or person, esp. with
-intent to crash or `*spam* <../S/spam.html>`__ the recipient's system.
+`email <../E/email.html>`__ to a single system or person, esp. with
+intent to crash or `spam <../S/spam.html>`__ the recipient's system.
 Sometimes done in retaliation for a perceived serious offense.
 Mailbombing is itself widely regarded as a serious offense — it can
 disrupt email traffic or other facilities for innocent users on the
@@ -440,9 +440,9 @@ victim's system, and in extreme cases, even at upstream sites.
 
 2. n. An automatic procedure with a similar effect.
 
-3. n. The mail sent. Compare `*letterbomb* <../L/letterbomb.html>`__,
-`*nastygram* <../N/nastygram.html>`__, `*BLOB* <../B/BLOB.html>`__
-(sense 2), `*list-bomb* <../L/list-bomb.html>`__.
+3. n. The mail sent. Compare `letterbomb <../L/letterbomb.html>`__,
+`nastygram <../N/nastygram.html>`__, `BLOB <../B/BLOB.html>`__
+(sense 2), `list-bomb <../L/list-bomb.html>`__.
 
 --------------
 
@@ -466,8 +466,8 @@ M
 
 (often shortened in context to list)
 
-1. An `*email* <../E/email.html>`__ address that is an alias (or
-`*macro* <macro.html>`__, though that word is never used in this
+1. An `email <../E/email.html>`__ address that is an alias (or
+`macro <macro.html>`__, though that word is never used in this
 connection) for many other email addresses. Some mailing lists are
 simple reflectors, redirecting mail sent to them to the list of
 recipients. Others are filtered by humans or programs of varying degrees
@@ -477,7 +477,7 @@ of sophistication; lists filtered by humans are said to be moderated.
 address.
 
 Mailing lists are one of the primary forms of hacker interaction, along
-with `*Usenet* <../U/Usenet.html>`__. They predate Usenet, having
+with `Usenet <../U/Usenet.html>`__. They predate Usenet, having
 originated with the first UUCP and ARPANET connections. They are often
 used for private information-sharing on topics that would be too
 specialized for or inappropriate to public Usenet groups. Though some of
@@ -485,8 +485,8 @@ these maintain almost purely technical content (such as the Internet
 Engineering Task Force mailing list), others (like the ‘sf-lovers’ list
 maintained for many years by Saul Jaffe) are recreational, and many are
 purely social. Perhaps the most infamous of the social lists was the
-eccentric ``bandykin`` distribution; its latter-day progeny,
-``lectroids`` and ``tanstaafl``, still include a number of the oddest
+eccentric "bandykin" distribution; its latter-day progeny,
+"lectroids" and "tanstaafl", still include a number of the oddest
 and most interesting people in hackerdom.
 
 Mailing lists are easy to create and (unlike Usenet) don't tie up a
@@ -518,11 +518,11 @@ M
 
 **mail storm**: n.
 
-[from `*broadcast storm* <../B/broadcast-storm.html>`__, influenced by
+[from `broadcast storm <../B/broadcast-storm.html>`__, influenced by
 *maelstrom*] What often happens when a machine with an Internet
 connection and active users re-connects after extended downtime — a
 flood of incoming mail that brings the machine to its knees. See also
-`*hairball* <../H/hairball.html>`__.
+`hairball <../H/hairball.html>`__.
 
 --------------
 
@@ -545,30 +545,30 @@ M
 **mainframe**: n.
 
 Term originally referring to the cabinet containing the central
-processor unit or ‘main frame’ of a room-filling `*Stone
-Age* <../S/Stone-Age.html>`__ batch machine. After the emergence of
-smaller minicomputer designs in the early 1970s, the traditional `*big
-iron* <../B/big-iron.html>`__ machines were described as ‘mainframe
+processor unit or ‘main frame’ of a room-filling `Stone
+Age <../S/Stone-Age.html>`__ batch machine. After the emergence of
+smaller minicomputer designs in the early 1970s, the traditional `big
+iron <../B/big-iron.html>`__ machines were described as ‘mainframe
 computers’ and eventually just as mainframes. The term carries the
 connotation of a machine designed for batch rather than interactive use,
 though possibly with an interactive timesharing operating system
 retrofitted onto it; it is especially used of machines built by IBM,
-Unisys, and the other great `*dinosaur* <../D/dinosaur.html>`__\ s
-surviving from computing's `*Stone Age* <../S/Stone-Age.html>`__.
+Unisys, and the other great `dinosaur <../D/dinosaur.html>`__\ s
+surviving from computing's `Stone Age <../S/Stone-Age.html>`__.
 
 It has been common wisdom among hackers since the late 1980s that the
 mainframe architectural tradition is essentially dead (outside of the
-tiny market for `*number-crunching* <../N/number-crunching.html>`__
+tiny market for `number-crunching <../N/number-crunching.html>`__
 supercomputers having been swamped by the recent huge advances in IC
 technology and low-cost personal computing. The wave of failures,
 takeovers, and mergers among traditional mainframe makers in the early
 1990s bore this out. The biggest mainframer of all, IBM, was compelled
-to re-invent itself as a huge systems-consulting house. (See `*dinosaurs
-mating* <../D/dinosaurs-mating.html>`__ and `*killer
-micro* <../K/killer-micro.html>`__).
+to re-invent itself as a huge systems-consulting house. (See `dinosaurs
+mating <../D/dinosaurs-mating.html>`__ and `killer
+micro <../K/killer-micro.html>`__).
 
-However, in yet another instance of the `*cycle of
-reincarnation* <../C/cycle-of-reincarnation.html>`__, the port of Linux
+However, in yet another instance of the `cycle of
+reincarnation <../C/cycle-of-reincarnation.html>`__, the port of Linux
 to the IBM S/390 architecture in 1999 — assisted by IBM — produced a
 resurgence of interest in mainframe computing as a way of providing huge
 quantities of easily maintainable, reliable virtual Linux servers,
@@ -596,7 +596,7 @@ M
 
 The top-level control flow construct in an input- or event-driven
 program, the one which receives and acts or dispatches on the program's
-input. See also `*driver* <../D/driver.html>`__.
+input. See also `driver <../D/driver.html>`__.
 
 --------------
 
@@ -622,9 +622,9 @@ M
 fly-by-night Viagra oeddlers and the like). Sometime this happens in
 honest ignorance, but the reputation danage can take years to live down.
 
-2. Occasionally used for a big-time spammer, with its own `*fat
-pipe* <../F/fat-pipe.html>`__, their own mailservers, and a `*pink
-contract* <../P/pink-contract.html>`__. Almost impossible to get shut
+2. Occasionally used for a big-time spammer, with its own `fat
+pipe <../F/fat-pipe.html>`__, their own mailservers, and a `pink
+contract <../P/pink-contract.html>`__. Almost impossible to get shut
 down.
 
 --------------
@@ -649,8 +649,8 @@ M
 
 [Common] Malicious software. Software intended to cause consequences the
 unwitting user would not choose; especially used of
-`*virus* <../V/virus.html>`__ or `*Trojan
-horse* <../T/Trojan-horse.html>`__ software.
+`virus <../V/virus.html>`__ or `Trojan
+horse <../T/Trojan-horse.html>`__ software.
 
 --------------
 
@@ -674,7 +674,7 @@ M
 
 1. Corporate power elites distinguished primarily by their distance from
 actual productive work and their chronic failure to manage (see also
-`*suit* <../S/suit.html>`__). Spoken derisively, as in “\ *Management*
+`suit <../S/suit.html>`__). Spoken derisively, as in “\ *Management*
 decided that ...”.
 
 2. Mythically, a vast bureaucracy responsible for all the world's minor
@@ -705,9 +705,9 @@ M
 [from the Mandelbrot set] A bug whose underlying causes are so complex
 and obscure as to make its behavior appear chaotic or even
 non-deterministic. This term implies that the speaker thinks it is a
-`*Bohr bug* <../B/Bohr-bug.html>`__, rather than a
-`*heisenbug* <../H/heisenbug.html>`__. See also
-`*schroedinbug* <../S/schroedinbug.html>`__.
+`Bohr bug <../B/Bohr-bug.html>`__, rather than a
+`heisenbug <../H/heisenbug.html>`__. See also
+`schroedinbug <../S/schroedinbug.html>`__.
 
 --------------
 
@@ -732,7 +732,7 @@ M
 [probably from the French ‘manger’ or Italian ‘mangiare’, to eat;
 perhaps influenced by English ‘mange’, ‘mangy’] adj. Refers to anything
 that is mangled or damaged, usually beyond repair. “The disk was manged
-after the electrical storm.” Compare `*mung* <mung.html>`__.
+after the electrical storm.” Compare `mung <mung.html>`__.
 
 --------------
 
@@ -784,12 +784,12 @@ M
 
 **mangle**: vt.
 
-1. Used similarly to `*mung* <mung.html>`__ or
-`*scribble* <../S/scribble.html>`__, but more violent in its
+1. Used similarly to `mung <mung.html>`__ or
+`scribble <../S/scribble.html>`__, but more violent in its
 connotations; something that is mangled has been irreversibly and
 totally trashed.
 
-2. To produce the `*mangled name* <mangled-name.html>`__ corresponding
+2. To produce the `mangled name <mangled-name.html>`__ corresponding
 to a C++ declaration.
 
 --------------
@@ -812,8 +812,8 @@ M
 
 **mangler**: n.
 
-[DEC] A manager. Compare `*management* <management.html>`__. Note that
-`*system mangler* <../S/system-mangler.html>`__ is somewhat different in
+[DEC] A manager. Compare `management <management.html>`__. Note that
+`system mangler <../S/system-mangler.html>`__ is somewhat different in
 connotation.
 
 --------------
@@ -844,7 +844,7 @@ any kind, under any system, though it is most likely to be confined to
 short on-line references.
 
 As mentioned in `Chapter 11, *Other Lexicon
-Conventions* <../conventions.html>`__, there is a standard syntax for
+Conventions <../conventions.html>`__, there is a standard syntax for
 referring to man page entries: the phrase “foo(n)” refers to the page
 for “foo” in chapter n of the manual, where chapter 1 is user commands,
 chapter 2 is system calls, etc.
@@ -885,9 +885,9 @@ automation is supposed to eliminate. “Composing English on paper has
 much higher manularity than using a text editor, especially in the
 revising stage.” Hackers tend to consider manularity a symptom of
 primitive methods; in fact, a true hacker confronted with an apparent
-requirement to do a computing task `*by hand* <../B/by-hand.html>`__
+requirement to do a computing task `by hand <../B/by-hand.html>`__
 will inevitably seize the opportunity to build another tool (see
-`*toolsmith* <../T/toolsmith.html>`__).
+`toolsmith <../T/toolsmith.html>`__).
 
 --------------
 
@@ -914,7 +914,7 @@ your way further up some hierarchy of tools or abstractions. After a bad
 system crash, you need to determine if the machine has enough marbles to
 come up on its own, or enough marbles to allow a rebuild from backups,
 or if you need to rebuild from scratch. “This compiler doesn't even have
-enough marbles to compile `*hello world* <../H/hello-world.html>`__.”
+enough marbles to compile `hello world <../H/hello-world.html>`__.”
 
 --------------
 
@@ -963,7 +963,7 @@ M
 [common]
 
 1. [techspeak] An extremely small change. “A marginal increase in
-`*core* <../C/core.html>`__ can decrease `*GC* <../G/GC.html>`__ time
+`core <../C/core.html>`__ can decrease `GC <../G/GC.html>`__ time
 drastically.” In everyday terms, this means that it is a lot easier to
 clean off your desk if you have a spare place to put some of the junk
 while you sort through it.
@@ -971,7 +971,7 @@ while you sort through it.
 2. Of little merit. “This proposed new feature seems rather marginal to
 me.”
 
-3. Of extremely small probability of `*win* <../W/win.html>`__\ ning.
+3. Of extremely small probability of `win <../W/win.html>`__\ ning.
 “The power supply was rather marginal anyway; no wonder it fried.”
 
 --------------
@@ -995,7 +995,7 @@ M
 **marginally**: adv.
 
 Slightly. “The ravs here are only marginally better than at Small Eating
-Place.” See `*epsilon* <../E/epsilon.html>`__.
+Place.” See `epsilon <../E/epsilon.html>`__.
 
 --------------
 
@@ -1023,7 +1023,7 @@ that the next version of a product will have features that are not
 actually scheduled for inclusion, are extremely difficult to implement,
 and/or are in violation of the laws of physics; and/or one who describes
 existing features (and misfeatures) in ebullient, buzzword-laden
-adspeak. Derogatory. Compare `*droid* <../D/droid.html>`__.
+adspeak. Derogatory. Compare `droid <../D/droid.html>`__.
 
 --------------
 
@@ -1050,9 +1050,9 @@ was the code name for a family of PDP-10-compatible computers built by
 Systems Concepts (now, The SC Group): the multi-processor SC-30M, the
 small uniprocessor SC-25, and the never-built superprocessor SC-40.
 These machines were marvels of engineering design; although not much
-slower than the unique `*Foonly* <../F/Foonly.html>`__ F-1, they were
+slower than the unique `Foonly <../F/Foonly.html>`__ F-1, they were
 physically smaller and consumed less power than the much slower
-`*DEC* <../D/DEC.html>`__ KS10 or Foonly F-2, F-3, or F-4 machines. They
+`DEC <../D/DEC.html>`__ KS10 or Foonly F-2, F-3, or F-4 machines. They
 were also completely compatible with the DEC KL10, and ran all KL10
 binaries (including the operating system) with no modifications at about
 2--3 times faster than a KL10.
@@ -1068,7 +1068,7 @@ producing or selling them; the company allowed itself to be sidetracked
 by a bout of perfectionism into continually improving the design, and
 lost credibility as delivery dates continued to slip. They also
 overpriced the product ridiculously; they believed they were competing
-with the KL10 and `*VAX* <../V/VAX.html>`__ 8600 and failed to reckon
+with the KL10 and `VAX <../V/VAX.html>`__ 8600 and failed to reckon
 with the likes of Sun Microsystems and other hungry startups building
 workstations with power comparable to the KL10 at a fraction of the
 price. By the time SC shipped the first SC-30M to Stanford in late 1985,
@@ -1076,9 +1076,9 @@ most customers had already made the traumatic decision to abandon the
 PDP-10, usually for VMS or Unix boxes. Most of the Mars computers built
 ended up being purchased by CompuServe.
 
-This tale and the related saga of `*Foonly* <../F/Foonly.html>`__ hold a
-lesson for hackers: if you want to play in the `*Real
-World* <../R/Real-World.html>`__, you need to learn Real World moves.
+This tale and the related saga of `Foonly <../F/Foonly.html>`__ hold a
+lesson for hackers: if you want to play in the `Real
+World <../R/Real-World.html>`__, you need to learn Real World moves.
 
 --------------
 
@@ -1104,9 +1104,9 @@ A packet sent on a TCP/IP network with a source address of the test
 loopback interface [127.0.0.1]. This means that it will come back
 labeled with a source address that is clearly not of this earth. “The
 domain server is getting lots of packets from Mars. Does that gateway
-have a martian filter?” Compare `*Christmas tree
-packet* <../C/Christmas-tree-packet.html>`__,
-`*Godzillagram* <../G/Godzillagram.html>`__.
+have a martian filter?” Compare `Christmas tree
+packet <../C/Christmas-tree-packet.html>`__,
+`Godzillagram <../G/Godzillagram.html>`__.
 
 --------------
 
@@ -1130,9 +1130,9 @@ M
 
 [common] Vague term used to describe ‘smooth’ transformations of a data
 set into a different form, esp. transformations that do not lose
-information. Connotes less pain than `*munch* <munch.html>`__ or
-`*crunch* <../C/crunch.html>`__. “He wrote a program that massages X
-bitmap files into GIF format.” Compare `*slurp* <../S/slurp.html>`__.
+information. Connotes less pain than `munch <munch.html>`__ or
+`crunch <../C/crunch.html>`__. “He wrote a program that massages X
+bitmap files into GIF format.” Compare `slurp <../S/slurp.html>`__.
 
 --------------
 
@@ -1157,13 +1157,13 @@ M
 [poss. from ‘white-out’ (the blizzard variety)] A paper or presentation
 so encrusted with mathematical or other formal notation as to be
 incomprehensible. This may be a device for concealing the fact that it
-is actually `*content-free* <../C/content-free.html>`__. See also
-`*numbers* <../N/numbers.html>`__, `*social science
-number* <../S/social-science-number.html>`__.
+is actually `content-free <../C/content-free.html>`__. See also
+`numbers <../N/numbers.html>`__, `social science
+number <../S/social-science-number.html>`__.
 
 |image0|
 
-A `*math-out* <math-out.html>`__ approach to history.
+A `math-out <math-out.html>`__ approach to history.
 
 (The next cartoon in the Crunchly saga is
 `73-05-19 <../S/space-cadet-keyboard.html#crunchly73-05-19>`__. The
@@ -1193,12 +1193,12 @@ M
 [FidoNet]
 
 1. What the Opus BBS software and sysops call
-`*FidoNet* <../F/FidoNet.html>`__.
+`FidoNet <../F/FidoNet.html>`__.
 
-2. Fanciful term for a `*cyberspace* <../C/cyberspace.html>`__ expected
-to emerge from current networking experiments (see `*the
-network* <../T/the-network.html>`__). The name of the rather good 1999
-`*cypherpunk* <../C/cypherpunk.html>`__ movie *The Matrix* played on
+2. Fanciful term for a `cyberspace <../C/cyberspace.html>`__ expected
+to emerge from current networking experiments (see `the
+network <../T/the-network.html>`__). The name of the rather good 1999
+`cypherpunk <../C/cypherpunk.html>`__ movie *The Matrix* played on
 this sense, which however had been established for years before.
 
 3. The totality of present-day computer networks (popularized in this
@@ -1224,11 +1224,11 @@ M
 
 **maximum Maytag mode**: n.
 
-What a `*washing machine* <../W/washing-machine.html>`__ or, by
+What a `washing machine <../W/washing-machine.html>`__ or, by
 extension, any disk drive is in when it's being used so heavily that
 it's shaking like an old Maytag with an unbalanced load. If prolonged
-for any length of time, can lead to disks becoming `*walking
-drives* <../W/walking-drives.html>`__. In 1999 it's been some years
+for any length of time, can lead to disks becoming `walking
+drives <../W/walking-drives.html>`__. In 1999 it's been some years
 since hard disks were large enough to do this, but the same phenomenon
 has recently been reported with 24X CD-ROM drives.
 
@@ -1252,17 +1252,17 @@ M
 
 **McQuary limit**
 
-[from the name of the founder of ``alt.fan.warlord``; see
-`*warlording* <../W/warlording.html>`__.] 4 lines of at most 80
+[from the name of the founder of "alt.fan.warlord"; see
+`warlording <../W/warlording.html>`__.] 4 lines of at most 80
 characters each, sometimes still cited on Usenet as the maximum
-acceptable size of a `*sig block* <../S/sig-block.html>`__. Before the
+acceptable size of a `sig block <../S/sig-block.html>`__. Before the
 great bandwidth explosion of the early 1990s, long sigs actually cost
 people running Usenet servers significant amounts of money. Nowadays
 social pressure against long sigs is intended to avoid waste of human
 attention rather than machine bandwidth. Accordingly, the McQuary limit
 should be considered a rule of thumb rather than a hard limit; it's best
 to avoid sigs that are large, repetitive, and distracting. See also
-`*warlording* <../W/warlording.html>`__.
+`warlording <../W/warlording.html>`__.
 
 --------------
 
@@ -1285,10 +1285,10 @@ M
 **meatspace**: /meet´spays/, n.
 
 The physical world, where the meat lives — as opposed to
-`*cyberspace* <../C/cyberspace.html>`__. Hackers are actually more
+`cyberspace <../C/cyberspace.html>`__. Hackers are actually more
 willing to use this term than ‘cyberspace’, because it's not speculative
 — we already have a running meatspace implementation (the universe).
-Compare `*RL* <../R/RL.html>`__.
+Compare `RL <../R/RL.html>`__.
 
 --------------
 
@@ -1310,7 +1310,7 @@ M
 
 **meatware**: n.
 
-Synonym for `*wetware* <../W/wetware.html>`__. Less common.
+Synonym for `wetware <../W/wetware.html>`__. Less common.
 
 --------------
 
@@ -1333,7 +1333,7 @@ M
 **meeces**: /mees'@z/, n.
 
 [TMRC] Occasional furry visitors who are not
-`*urchin* <../U/urchin.html>`__\ s. [That is, mice. This may no longer
+`urchin <../U/urchin.html>`__\ s. [That is, mice. This may no longer
 be in live use; it clearly derives from the refrain of the early-1960s
 cartoon character Mr. Jinks: “I hate meeces to *pieces*!” — ESR]
 
@@ -1357,7 +1357,7 @@ M
 
 **mega-**: /me´g@/, pref.
 
-[SI] See `*quantifiers* <../Q/quantifiers.html>`__.
+[SI] See `quantifiers <../Q/quantifiers.html>`__.
 
 --------------
 
@@ -1379,7 +1379,7 @@ M
 
 **megapenny**: /meg'@·pen\`ee/, n.
 
-$10,000 (1 cent \* ``106``). Used semi-humorously as a unit in comparing
+$10,000 (1 cent \* "106"). Used semi-humorously as a unit in comparing
 computer cost and performance figures.
 
 --------------
@@ -1402,7 +1402,7 @@ M
 
 **meg**: /meg/, n.
 
-See `*quantifiers* <../Q/quantifiers.html>`__.
+See `quantifiers <../Q/quantifiers.html>`__.
 
 --------------
 
@@ -1427,11 +1427,11 @@ M
 [“My Eyes Glaze Over”, often “Mine Eyes Glazeth (sic) Over”, attributed
 to the futurologist Herman Kahn] Also MEGO factor.
 
-1. n. A `*handwave* <../H/handwave.html>`__ intended to confuse the
+1. n. A `handwave <../H/handwave.html>`__ intended to confuse the
 listener and hopefully induce agreement because the listener does not
 want to admit to not understanding what is going on. MEGO is usually
 directed at senior management by engineers and contains a high
-proportion of `*TLA* <../T/TLA.html>`__\ s.
+proportion of `TLA <../T/TLA.html>`__\ s.
 
 2. excl. An appropriate response to MEGO tactics.
 
@@ -1460,7 +1460,7 @@ M
 
 **meltdown, network**: n.
 
-See `*network meltdown* <../N/network-meltdown.html>`__.
+See `network meltdown <../N/network-meltdown.html>`__.
 
 --------------
 
@@ -1483,7 +1483,7 @@ M
 **meme**: /meem/, n.
 
 [coined by analogy with ‘gene’, by Richard Dawkins] An idea considered
-as a `*replicator* <../R/replicator.html>`__, esp. with the connotation
+as a `replicator <../R/replicator.html>`__, esp. with the connotation
 that memes parasitize people into propagating them much as viruses do.
 Used esp. in the phrase meme complex denoting a group of mutually
 supporting memes that form an organized belief system, such as a
@@ -1516,7 +1516,7 @@ M
 
 **meme plague**: n.
 
-The spread of a successful but pernicious `*meme* <meme.html>`__, esp.
+The spread of a successful but pernicious `meme <meme.html>`__, esp.
 one that parasitizes the victims into giving their all to propagate it.
 Astrology, BASIC, and the other guy's religion are often considered to
 be examples. This usage is given point by the historical fact that
@@ -1544,7 +1544,7 @@ M
 
 **memetics**: /me·met´iks/, n.
 
-[from `*meme* <meme.html>`__] The study of memes. As of early 2003, this
+[from `meme <meme.html>`__] The study of memes. As of early 2003, this
 is still an extremely informal and speculative endeavor, though the
 first steps towards at least statistical rigor have been made by H.
 Keith Henson and others. Memetics is a popular topic for speculation
@@ -1596,19 +1596,19 @@ M
 
 An error in a program's dynamic-store allocation logic that causes it to
 fail to reclaim discarded memory, leading to eventual collapse due to
-memory exhaustion. Also (esp. at CMU) called `*core
-leak* <../C/core-leak.html>`__. These problems were severe on older
+memory exhaustion. Also (esp. at CMU) called `core
+leak <../C/core-leak.html>`__. These problems were severe on older
 machines with small, fixed-size address spaces, and special “leak
 detection” tools were commonly written to root them out. With the advent
 of virtual memory, it is unfortunately easier to be sloppy about wasting
 a bit of memory (although when you run out of memory on a VM machine, it
-means you've got a *real* leak!). See `*aliasing
-bug* <../A/aliasing-bug.html>`__, `*fandango on
-core* <../F/fandango-on-core.html>`__, `*smash the
-stack* <../S/smash-the-stack.html>`__, `*precedence
-lossage* <../P/precedence-lossage.html>`__, `*overrun
-screw* <../O/overrun-screw.html>`__, `*leaky
-heap* <../L/leaky-heap.html>`__, `*leak* <../L/leak.html>`__.
+means you've got a *real* leak!). See `aliasing
+bug <../A/aliasing-bug.html>`__, `fandango on
+core <../F/fandango-on-core.html>`__, `smash the
+stack <../S/smash-the-stack.html>`__, `precedence
+lossage <../P/precedence-lossage.html>`__, `overrun
+screw <../O/overrun-screw.html>`__, `leaky
+heap <../L/leaky-heap.html>`__, `leak <../L/leak.html>`__.
 
 --------------
 
@@ -1633,8 +1633,8 @@ M
 [XEROX PARC] Writing through a pointer that doesn't point to what you
 think it does. This occasionally reduces your memory to a rubble of
 bits. Note that this is subtly different from (and more general than)
-related terms such as a `*memory leak* <memory-leak.html>`__ or
-`*fandango on core* <../F/fandango-on-core.html>`__ because it doesn't
+related terms such as a `memory leak <memory-leak.html>`__ or
+`fandango on core <../F/fandango-on-core.html>`__ because it doesn't
 imply an allocation error or overrun condition.
 
 --------------
@@ -1662,10 +1662,10 @@ menu interface and no escape. Hackers find this intensely irritating and
 much prefer the flexibility of command-line or language-style
 interfaces, especially those customizable via macros or a
 special-purpose language in which one can encode useful hacks. See
-`*user-obsequious* <../U/user-obsequious.html>`__, `*drool-proof
-paper* <../D/drool-proof-paper.html>`__, `*WIMP
-environment* <../W/WIMP-environment.html>`__, `*for the rest of
-us* <../F/for-the-rest-of-us.html>`__.
+`user-obsequious <../U/user-obsequious.html>`__, `drool-proof
+paper <../D/drool-proof-paper.html>`__, `WIMP
+environment <../W/WIMP-environment.html>`__, `for the rest of
+us <../F/for-the-rest-of-us.html>`__.
 
 --------------
 
@@ -1689,11 +1689,11 @@ M
 
 [semi-obsolescent now that DOS is] Derisory term for MS-DOS. Often
 followed by the ritual banishing “Just say No!” See
-`*MS-DOS* <MS-DOS.html>`__. Most hackers (even many MS-DOS hackers)
+`MS-DOS <MS-DOS.html>`__. Most hackers (even many MS-DOS hackers)
 loathed MS-DOS for its single-tasking nature, its limits on application
 size, its nasty primitive interface, and its ties to IBMness and
-Microsoftness (see `*fear and
-loathing* <../F/fear-and-loathing.html>`__). Also mess-loss, messy-dos,
+Microsoftness (see `fear and
+loathing <../F/fear-and-loathing.html>`__). Also mess-loss, messy-dos,
 mess-dog, mess-dross, mush-dos, and various combinations thereof. In
 Ireland and the U.K. it is even sometimes called ‘Domestos’ after a
 brand of toilet cleanser.
@@ -1719,18 +1719,18 @@ M
 **meta bit**: n.
 
 The top bit of an 8-bit character, which is on in character values
-128--255. Also called `*high bit* <../H/high-bit.html>`__, `*alt
-bit* <../A/alt-bit.html>`__. Some terminals and consoles (see
-`*space-cadet keyboard* <../S/space-cadet-keyboard.html>`__) have a META
+128--255. Also called `high bit <../H/high-bit.html>`__, `alt
+bit <../A/alt-bit.html>`__. Some terminals and consoles (see
+`space-cadet keyboard <../S/space-cadet-keyboard.html>`__) have a META
 shift key. Others (including, *mirabile dictu*, keyboards on IBM
-PC-class machines) have an ALT key. See also `*bucky
-bits* <../B/bucky-bits.html>`__.
+PC-class machines) have an ALT key. See also `bucky
+bits <../B/bucky-bits.html>`__.
 
 Historical note: although in modern usage shaped by a universe of 8-bit
 bytes the meta bit is invariably hex 80 (octal 0200), things were
 different on earlier machines with 36-bit words and 9-bit bytes. The MIT
-and Stanford keyboards (see `*space-cadet
-keyboard* <../S/space-cadet-keyboard.html>`__) generated hex 100 (octal
+and Stanford keyboards (see `space-cadet
+keyboard <../S/space-cadet-keyboard.html>`__) generated hex 100 (octal
 400) from their meta keys.
 
 --------------
@@ -1757,7 +1757,7 @@ M
 variable is a variable in notation used to describe syntax, and
 meta-language is language used to describe language. This is difficult
 to explain briefly, but much hacker humor turns on deliberate confusion
-between meta-levels. See `*hacker humor* <../H/hacker-humor.html>`__.
+between meta-levels. See `hacker humor <../H/hacker-humor.html>`__.
 
 --------------
 
@@ -1781,12 +1781,12 @@ M
 
 A name used in examples and understood to stand for whatever thing is
 under discussion, or any random member of a class of things under
-discussion. The word `*foo* <../F/foo.html>`__ is the
-`*canonical* <../C/canonical.html>`__ example. To avoid confusion,
+discussion. The word `foo <../F/foo.html>`__ is the
+`canonical <../C/canonical.html>`__ example. To avoid confusion,
 hackers never (well, hardly ever) use ‘foo’ or other words like it as
 permanent names for anything. In filenames, a common convention is that
 any filename beginning with a metasyntactic-variable name is a
-`*scratch* <../S/scratch.html>`__ file that may be deleted at any time.
+`scratch <../S/scratch.html>`__ file that may be deleted at any time.
 
 Metasyntactic variables are so called because (1) they are variables in
 the metalanguage used to talk about programs etc; (2) they are variables
@@ -1799,19 +1799,19 @@ series (used for related groups of variables or objects) and as
 singletons. Here are a few common signatures:
 
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `*foo* <../F/foo.html>`__, `*bar* <../B/bar.html>`__, `*baz* <../B/baz.html>`__, `*quux* <../Q/quux.html>`__, quuux, quuuux...:   | MIT/Stanford usage, now found everywhere (thanks largely to early versions of this lexicon!). At MIT (but not at Stanford), `*baz* <../B/baz.html>`__ dropped out of use for a while in the 1970s and '80s. A common recent mutation of this sequence inserts `*qux* <../Q/qux.html>`__\ before `*quux* <../Q/quux.html>`__.   |
+| `foo <../F/foo.html>`__, `bar <../B/bar.html>`__, `baz <../B/baz.html>`__, `quux <../Q/quux.html>`__, quuux, quuuux...:   | MIT/Stanford usage, now found everywhere (thanks largely to early versions of this lexicon!). At MIT (but not at Stanford), `baz <../B/baz.html>`__ dropped out of use for a while in the 1970s and '80s. A common recent mutation of this sequence inserts `qux <../Q/qux.html>`__\ before `quux <../Q/quux.html>`__.   |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | bazola, ztesch:                                                                                                                   | Stanford (from mid-'70s on).                                                                                                                                                                                                                                                                                                   |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `*foo* <../F/foo.html>`__, `*bar* <../B/bar.html>`__, thud, grunt:                                                                | This series was popular at CMU. Other CMU-associated variables include `*gorp* <../G/gorp.html>`__.                                                                                                                                                                                                                            |
+| `foo <../F/foo.html>`__, `bar <../B/bar.html>`__, thud, grunt:                                                                | This series was popular at CMU. Other CMU-associated variables include `gorp <../G/gorp.html>`__.                                                                                                                                                                                                                            |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `*foo* <../F/foo.html>`__, `*bar* <../B/bar.html>`__, bletch:                                                                     | Waterloo University. We are informed that the CS club at Waterloo formerly had a sign on its door reading “Ye Olde Foo Bar and Grill”; this led to an attempt to establish “grill” as the third metasyntactic variable, but it never caught on.                                                                                |
+| `foo <../F/foo.html>`__, `bar <../B/bar.html>`__, bletch:                                                                     | Waterloo University. We are informed that the CS club at Waterloo formerly had a sign on its door reading “Ye Olde Foo Bar and Grill”; this led to an attempt to establish “grill” as the third metasyntactic variable, but it never caught on.                                                                                |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `*foo* <../F/foo.html>`__, `*bar* <../B/bar.html>`__, fum:                                                                        | This series is reported to be common at XEROX PARC.                                                                                                                                                                                                                                                                            |
+| `foo <../F/foo.html>`__, `bar <../B/bar.html>`__, fum:                                                                        | This series is reported to be common at XEROX PARC.                                                                                                                                                                                                                                                                            |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `*fred* <../F/fred.html>`__, jim, sheila, `*barney* <../B/barney.html>`__:                                                        | See the entry for `*fred* <../F/fred.html>`__. These tend to be Britishisms.                                                                                                                                                                                                                                                   |
+| `fred <../F/fred.html>`__, jim, sheila, `barney <../B/barney.html>`__:                                                        | See the entry for `fred <../F/fred.html>`__. These tend to be Britishisms.                                                                                                                                                                                                                                                   |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `*flarp* <../F/flarp.html>`__:                                                                                                    | Popular at Rutgers University and among `*GOSMACS* <../G/GOSMACS.html>`__ hackers.                                                                                                                                                                                                                                             |
+| `flarp <../F/flarp.html>`__:                                                                                                    | Popular at Rutgers University and among `GOSMACS <../G/GOSMACS.html>`__ hackers.                                                                                                                                                                                                                                             |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | zxc, spqr, wombat:                                                                                                                | Cambridge University (England).                                                                                                                                                                                                                                                                                                |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -1819,13 +1819,13 @@ singletons. Here are a few common signatures:
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | foo, bar, baz, bongo                                                                                                              | Yale, late 1970s.                                                                                                                                                                                                                                                                                                              |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| spam, eggs                                                                                                                        | `*Python* <../P/Python.html>`__ programmers.                                                                                                                                                                                                                                                                                   |
+| spam, eggs                                                                                                                        | `Python <../P/Python.html>`__ programmers.                                                                                                                                                                                                                                                                                   |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | snork                                                                                                                             | Brown University, early 1970s.                                                                                                                                                                                                                                                                                                 |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `*foo* <../F/foo.html>`__, `*bar* <../B/bar.html>`__, zot                                                                         | Helsinki University of Technology, Finland.                                                                                                                                                                                                                                                                                    |
+| `foo <../F/foo.html>`__, `bar <../B/bar.html>`__, zot                                                                         | Helsinki University of Technology, Finland.                                                                                                                                                                                                                                                                                    |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| blarg, `*wibble* <../W/wibble.html>`__                                                                                            | New Zealand.                                                                                                                                                                                                                                                                                                                   |
+| blarg, `wibble <../W/wibble.html>`__                                                                                            | New Zealand.                                                                                                                                                                                                                                                                                                                   |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | toto, titi, tata, tutu                                                                                                            | France.                                                                                                                                                                                                                                                                                                                        |
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -1837,11 +1837,11 @@ singletons. Here are a few common signatures:
 +-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Of all these, only foo and bar are universal (and
-`*baz* <../B/baz.html>`__ nearly so). The compounds
-`*foobar* <../F/foobar.html>`__ and foobaz also enjoy very wide
+`baz <../B/baz.html>`__ nearly so). The compounds
+`foobar <../F/foobar.html>`__ and foobaz also enjoy very wide
 currency. Some jargon terms are also used as metasyntactic names;
-`*barf* <../B/barf.html>`__ and `*mumble* <mumble.html>`__, for example.
-See also `*Commonwealth Hackish* <../C/Commonwealth-Hackish.html>`__ for
+`barf <../B/barf.html>`__ and `mumble <mumble.html>`__, for example.
+See also `Commonwealth Hackish <../C/Commonwealth-Hackish.html>`__ for
 discussion of numerous metasyntactic variables found in Great Britain
 and the Commonwealth.
 
@@ -1870,7 +1870,7 @@ M
 1. adj. Describes a talk on a programming language design that is heavy
 on the syntax (with lots of BNF), sometimes even talks about semantics
 (e.g., type systems), but rarely, if ever, has any content (see
-`*content-free* <../C/content-free.html>`__). More broadly applied to
+`content-free <../C/content-free.html>`__). More broadly applied to
 talks — even when the topic is not a programming language — in which the
 subject matter is gone into in unnecessary and meticulous detail at the
 sacrifice of any conceptual content. “Well, it was a typical MFTL talk”.
@@ -1888,16 +1888,16 @@ been used for anything besides its own compiler?” On the other hand, a
 (compiled) language that cannot even be used to write its own compiler
 is beneath contempt. (The qualification has become necessary because of
 the increasing popularity of interpreted languages like
-`*Perl* <../P/Perl.html>`__ and `*Python* <../P/Python.html>`__.) See
-`*break-even point* <../B/break-even-point.html>`__. (On a related note,
+`Perl <../P/Perl.html>`__ and `Python <../P/Python.html>`__.) See
+`break-even point <../B/break-even-point.html>`__. (On a related note,
 Doug McIlroy once proposed a test of the generality and utility of a
 language and the operating system under which it is compiled: “Is the
 output of a FORTRAN program acceptable as input to the FORTRAN
 compiler?” In other words, can you write programs that write programs?
-(See `*toolsmith* <../T/toolsmith.html>`__.) Alarming numbers of
+(See `toolsmith <../T/toolsmith.html>`__.) Alarming numbers of
 (language, OS) pairs fail this test, particularly when the language is
 FORTRAN; aficionados are quick to point out that
-`*Unix* <../U/Unix.html>`__ (even using FORTRAN) passes it handily. That
+`Unix <../U/Unix.html>`__ (even using FORTRAN) passes it handily. That
 the test could ever be failed is only surprising to those who have had
 the good fortune to have worked only under modern systems which lack
 OS-supported and -imposed “file types”.)
@@ -1922,7 +1922,7 @@ M
 
 **M**: pref.
 
-[SI] See `*quantifiers* <../Q/quantifiers.html>`__.
+[SI] See `quantifiers <../Q/quantifiers.html>`__.
 
 --------------
 
@@ -1967,7 +1967,7 @@ M
 
 **mickey mouse program**: n.
 
-North American equivalent of a `*noddy* <../N/noddy.html>`__ (that is,
+North American equivalent of a `noddy <../N/noddy.html>`__ (that is,
 trivial) program. Doesn't necessarily have the belittling connotations
 of mainstream slang “Oh, that's just mickey mouse stuff!”; sometimes
 trivial programs can be very useful.
@@ -1996,8 +1996,8 @@ M
 operating-system advocacy newsgroups. MicroDroids post follow-ups to any
 messages critical of Microsoft's operating systems, and often end up
 sounding like visiting fundamentalist missionaries. See also
-`*astroturfing* <../A/astroturfing.html>`__; compare
-`*microserf* <microserf.html>`__.
+`astroturfing <../A/astroturfing.html>`__; compare
+`microserf <microserf.html>`__.
 
 --------------
 
@@ -2029,7 +2029,7 @@ operator to set the correct date and time at boot if it realizes that
 the current value is bogus. This time is specified in microfortnights!
 
 Multiple uses of the millifortnight (about 20 minutes) and
-`*nanofortnight* <../N/nanofortnight.html>`__ have also been reported.
+`nanofortnight <../N/nanofortnight.html>`__ have also been reported.
 
 --------------
 
@@ -2053,22 +2053,22 @@ M
 
 1. Very small; this is the root of its use as a quantifier prefix.
 
-2. A quantifier prefix, calling for multiplication by ``10-6`` (see
-`*quantifiers* <../Q/quantifiers.html>`__). Neither of these uses is
+2. A quantifier prefix, calling for multiplication by "10-6" (see
+`quantifiers <../Q/quantifiers.html>`__). Neither of these uses is
 peculiar to hackers, but hackers tend to fling them both around rather
 more freely than is countenanced in standard English. It is recorded,
 for example, that one CS professor used to characterize the standard
 length of his lectures as a microcentury — that is, about 52.6 minutes
-(see also `*attoparsec* <../A/attoparsec.html>`__,
-`*nanoacre* <../N/nanoacre.html>`__, and especially
-`*microfortnight* <microfortnight.html>`__).
+(see also `attoparsec <../A/attoparsec.html>`__,
+`nanoacre <../N/nanoacre.html>`__, and especially
+`microfortnight <microfortnight.html>`__).
 
 3. Personal or human-scale — that is, capable of being maintained or
 comprehended or manipulated by one human being. This sense is
 generalized from microcomputer, and is esp. used in contrast with macro-
 (the corresponding Greek prefix meaning ‘large’).
 
-4. Local as opposed to global (or `*macro-* <macro-.html>`__). Thus a
+4. Local as opposed to global (or `macro- <macro-.html>`__). Thus a
 hacker might say that buying a smaller car to reduce pollution only
 solves a microproblem; the macroproblem of getting to work might be
 better solved by using mass transit, moving to within walking distance,
@@ -2094,11 +2094,11 @@ M
 
 **microLenat**: /mi:\`·kroh·len'·@t/, n.
 
-The unit of `*bogosity* <../B/bogosity.html>`__. Abbreviated µL or mL in
+The unit of `bogosity <../B/bogosity.html>`__. Abbreviated µL or mL in
 ASCII Consensus is that this is the largest unit practical for everyday
 use. The microLenat, originally invented by David Jefferson, was
 promulgated as an attack against noted computer scientist Doug Lenat by
-a `*tenured graduate student* <../T/tenured-graduate-student.html>`__ at
+a `tenured graduate student <../T/tenured-graduate-student.html>`__ at
 CMU. Doug had failed the student on an important exam because the
 student gave only “AI is bogus” as his answer to the questions. The slur
 is generally considered unmerited, but it has become a running gag
@@ -2127,7 +2127,7 @@ M
 
 **microReid**: /mi:´kroh·reed/, n.
 
-See `*microLenat* <microLenat.html>`__.
+See `microLenat <microLenat.html>`__.
 
 --------------
 
@@ -2150,9 +2150,9 @@ M
 **microserf**: /mi:´kro·s@rf/
 
 [popularized, though not originated, by Douglas Coupland's book
-*Microserfs*] A programmer at `*Microsoft* <Microsoft.html>`__,
+*Microserfs*] A programmer at `Microsoft <Microsoft.html>`__,
 especially a low-level coder with little chance of fame or fortune.
-Compare `*MicroDroid* <MicroDroid.html>`__.
+Compare `MicroDroid <MicroDroid.html>`__.
 
 --------------
 
@@ -2181,10 +2181,10 @@ operating system originally coded for a four-bit microprocessor which
 was written by a two-bit company that can't stand one bit of
 competition. Also just called Windoze, with the implication that you can
 fall asleep waiting for it to do anything; the latter term is extremely
-common on Usenet. See `*Black Screen of
-Death* <../B/Black-Screen-of-Death.html>`__ and `*Blue Screen of
-Death* <../B/Blue-Screen-of-Death.html>`__; compare
-`*X* <../X/X.html>`__, `*sun-stools* <../S/sun-stools.html>`__.
+common on Usenet. See `Black Screen of
+Death <../B/Black-Screen-of-Death.html>`__ and `Blue Screen of
+Death <../B/Blue-Screen-of-Death.html>`__; compare
+`X <../X/X.html>`__, `sun-stools <../S/sun-stools.html>`__.
 
 --------------
 
@@ -2206,12 +2206,12 @@ M
 
 **Microsoft**
 
-The new `*Evil Empire* <../E/Evil-Empire.html>`__ (the old one was
-`*IBM* <../I/IBM.html>`__). The basic complaints are, as formerly with
+The new `Evil Empire <../E/Evil-Empire.html>`__ (the old one was
+`IBM <../I/IBM.html>`__). The basic complaints are, as formerly with
 IBM, that (a) their system designs are horrible botches, (b) we can't
-get `*source* <../S/source.html>`__ to fix them, and (c) they throw
-their weight around a lot. See also `*Halloween
-Documents* <../H/Halloween-Documents.html>`__.
+get `source <../S/source.html>`__ to fix them, and (c) they throw
+their weight around a lot. See also `Halloween
+Documents <../H/Halloween-Documents.html>`__.
 
 --------------
 
@@ -2233,8 +2233,8 @@ M
 
 **micros~1**
 
-An abbreviation of the full name `*Microsoft* <Microsoft.html>`__
-resembling the rather `*bogus* <../B/bogus.html>`__ way Windows 9x's
+An abbreviation of the full name `Microsoft <Microsoft.html>`__
+resembling the rather `bogus <../B/bogus.html>`__ way Windows 9x's
 VFAT filesystem truncates long file names to fit in the MS-DOS 8+3
 scheme (the real filename is stored elsewhere). If other files start
 with the same prefix, they'll be called micros~2 and so on, causing lots
@@ -2263,11 +2263,11 @@ M
 
 **middle-endian**: adj.
 
-Not `*big-endian* <../B/big-endian.html>`__ or
-`*little-endian* <../L/little-endian.html>`__. Used of perverse byte
+Not `big-endian <../B/big-endian.html>`__ or
+`little-endian <../L/little-endian.html>`__. Used of perverse byte
 orders such as 3-4-1-2 or 2-1-4-3, occasionally found in the
 packed-decimal formats of minicomputer manufacturers who shall remain
-nameless. See `*NUXI problem* <../N/NUXI-problem.html>`__. Non-US
+nameless. See `NUXI problem <../N/NUXI-problem.html>`__. Non-US
 hackers use this term to describe the American mm/dd/yy style of writing
 dates (Europeans write little-endian dd/mm/yy, and Japanese use
 big-endian yy/mm/dd for Western dates).
@@ -2292,7 +2292,7 @@ M
 
 **middle-out implementation**
 
-See `*bottom-up implementation* <../B/bottom-up-implementation.html>`__.
+See `bottom-up implementation <../B/bottom-up-implementation.html>`__.
 
 --------------
 
@@ -2320,7 +2320,7 @@ implementor highly regarded among hackers) goes at 1000. A few people
 speak faster. This unit is sometimes used to compare the (sometimes
 widely disparate) rates at which people can generate ideas and actually
 emit them in speech. For example, noted computer architect C. Gordon
-Bell (designer of the `*PDP-11* <../P/PDP-11.html>`__) is said, with
+Bell (designer of the `PDP-11 <../P/PDP-11.html>`__) is said, with
 some awe, to think at about 1200 mL but only talk at about 300; he is
 frequently reduced to fragments of sentences as his mouth tries to keep
 up with his speeding brain.
@@ -2348,7 +2348,7 @@ M
 Often used in an ironic sense about brokenness or problems that while
 apparently major, are in principle solvable. “It works — the fact that
 it crashes the system right after is a minor detail.” Compare
-`*SMOP* <../S/SMOP.html>`__.
+`SMOP <../S/SMOP.html>`__.
 
 --------------
 
@@ -2373,19 +2373,19 @@ M
 [abbreviation]
 
 1. A measure of computing speed; formally, ‘Million Instructions Per
-Second’ (that's ``106`` per second, not ``220``!); often rendered by
+Second’ (that's "106" per second, not "220"!); often rendered by
 hackers as ‘Meaningless Indication of Processor Speed’ or in other
 unflattering ways, such as ‘Meaningless Information Provided by
 Salesmen’. This joke expresses an attitude nearly universal among
-hackers about the value of most `*benchmark* <../B/benchmark.html>`__
+hackers about the value of most `benchmark <../B/benchmark.html>`__
 claims, said attitude being one of the great cultural divides between
-hackers and `*marketroid* <marketroid.html>`__\ s (see also
-`*BogoMIPS* <../B/BogoMIPS.html>`__). The singular is sometimes ‘1 MIP’
+hackers and `marketroid <marketroid.html>`__\ s (see also
+`BogoMIPS <../B/BogoMIPS.html>`__). The singular is sometimes ‘1 MIP’
 even though this is clearly etymologically wrong. See also
-`*KIPS* <../K/KIPS.html>`__ and `*GIPS* <../G/GIPS.html>`__.
+`KIPS <../K/KIPS.html>`__ and `GIPS <../G/GIPS.html>`__.
 
 2. Computers, especially large computers, considered abstractly as
-sources of `*computron* <../C/computron.html>`__\ s. “This is just a
+sources of `computron <../C/computron.html>`__\ s. “This is just a
 workstation; the heavy MIPS are hidden in the basement.”
 
 3. The corporate name of a particular RISC-chip company, later acquired
@@ -2416,10 +2416,10 @@ M
 
 [MIT; rare (like its referent)] An unintended property of a program that
 turns out to be useful; something that should have been a
-`*bug* <../B/bug.html>`__ but turns out to be a
-`*feature* <../F/feature.html>`__. Compare `*green
-lightning* <../G/green-lightning.html>`__. See
-`*miswart* <miswart.html>`__.
+`bug <../B/bug.html>`__ but turns out to be a
+`feature <../F/feature.html>`__. Compare `green
+lightning <../G/green-lightning.html>`__. See
+`miswart <miswart.html>`__.
 
 --------------
 
@@ -2480,7 +2480,7 @@ M
 
 **missile address**: n.
 
-See `*ICBM address* <../I/ICBM-address.html>`__.
+See `ICBM address <../I/ICBM-address.html>`__.
 
 --------------
 
@@ -2502,7 +2502,7 @@ M
 
 **MiSTing**
 
-[blogosphere] A variant of `*fisking* <../F/fisking.html>`__ patterned
+[blogosphere] A variant of `fisking <../F/fisking.html>`__ patterned
 on the protocol of Mystery Science Theater 3000, In a MiSTing, the
 satire is spoken through characters purporting to be the MST3K robots or
 other suitably bizarre characters, such as the Roman emperors Augustus
@@ -2528,11 +2528,11 @@ M
 
 **miswart**: /mis·wort/, n.
 
-[from `*wart* <../W/wart.html>`__ by analogy with
-`*misbug* <misbug.html>`__] A `*feature* <../F/feature.html>`__ that
-superficially appears to be a `*wart* <../W/wart.html>`__ but has been
-determined to be the `*Right Thing* <../R/Right-Thing.html>`__. For
-example, in some versions of the `*EMACS* <../E/EMACS.html>`__ text
+[from `wart <../W/wart.html>`__ by analogy with
+`misbug <misbug.html>`__] A `feature <../F/feature.html>`__ that
+superficially appears to be a `wart <../W/wart.html>`__ but has been
+determined to be the `Right Thing <../R/Right-Thing.html>`__. For
+example, in some versions of the `EMACS <../E/EMACS.html>`__ text
 editor, the ‘transpose characters’ command exchanges the character under
 the cursor with the one before it on the screen, *except* when the
 cursor is at the end of a line, in which case the two characters before
@@ -2620,7 +2620,7 @@ Harvard-Yale game.” (See `Appendix A <../appendixa.html>`__ for
 discussion.)
 
 2. n. obs. The maximum address space of a machine (see below). For a
-680[234]0 or `*VAX* <../V/VAX.html>`__ or most modern 32-bit
+680[234]0 or `VAX <../V/VAX.html>`__ or most modern 32-bit
 architectures, it is 4,294,967,296 8-bit bytes (4 gigabytes).
 
 3. A title of address (never of third-person reference), usually used to
@@ -2628,7 +2628,7 @@ show admiration, respect, and/or friendliness to a competent hacker.
 “Greetings, moby Dave. How's that address-book thing for the Mac going?”
 
 4. adj. In backgammon, doubles on the dice, as in moby sixes, moby ones,
-etc. Compare this with `*bignum* <../B/bignum.html>`__ (sense 3): double
+etc. Compare this with `bignum <../B/bignum.html>`__ (sense 3): double
 sixes are both bignums and moby sixes, but moby ones are not bignums
 (the use of moby to describe double ones is sarcastic). Standard
 emphatic forms: Moby foo, moby win, moby loss. Foby moo: a spoonerism
@@ -2656,11 +2656,11 @@ having to swap programs between memory and disk.
 Nowadays the low cost of processor logic means that address spaces are
 usually larger than the most physical memory you can cram onto a
 machine, so most systems have much *less* than one theoretical ‘native’
-moby of `*core* <../C/core.html>`__. Also, more modern memory-management
+moby of `core <../C/core.html>`__. Also, more modern memory-management
 techniques (esp. paging) make the ‘moby count’ less significant.
 However, there is one series of widely-used chips for which the term
 could stand to be revived — the Intel 8088 and 80286 with their
-incredibly `*brain-damaged* <../B/brain-damaged.html>`__
+incredibly `brain-damaged <../B/brain-damaged.html>`__
 segmented-memory designs. On these, a moby would be the 1-megabyte
 address span of a segment/offset pair (by coincidence, a PDP-10 moby was
 exactly 1 megabyte of 9-bit bytes).
@@ -2688,7 +2688,7 @@ M
 Software that intercepts communications (especially login transactions)
 between users and hosts and provides system-like responses to the users
 while saving their responses (especially account IDs and passwords). A
-special case of `*Trojan horse* <../T/Trojan-horse.html>`__.
+special case of `Trojan horse <../T/Trojan-horse.html>`__.
 
 --------------
 
@@ -2710,9 +2710,9 @@ M
 
 **mode bit**: n.
 
-[common] A `*flag* <../F/flag.html>`__, usually in hardware, that
+[common] A `flag <../F/flag.html>`__, usually in hardware, that
 selects between two (usually quite different) modes of operation. The
-connotations are different from `*flag* <../F/flag.html>`__ bit in that
+connotations are different from `flag <../F/flag.html>`__ bit in that
 mode bits are mainly written during a boot or set-up phase, are seldom
 explicitly read, and seldom change over the lifetime of an ordinary
 program. The classic example was the EBCDIC-vs.-ASCII bit (#12) of the
@@ -2744,12 +2744,12 @@ is extended over time, and probably also that some activity
 characteristic of that state is being carried out. “No time to hack; I'm
 in thesis mode.” In its jargon sense, ‘mode’ is most often attributed to
 people, though it is sometimes applied to programs and inanimate
-objects. In particular, see `*hack mode* <../H/hack-mode.html>`__, `*day
-mode* <../D/day-mode.html>`__, `*night mode* <../N/night-mode.html>`__,
-`*demo mode* <../D/demo-mode.html>`__, `*fireworks
-mode* <../F/fireworks-mode.html>`__, and `*yoyo
-mode* <../Y/yoyo-mode.html>`__; also `*talk
-mode* <../T/talk-mode.html>`__.
+objects. In particular, see `hack mode <../H/hack-mode.html>`__, `day
+mode <../D/day-mode.html>`__, `night mode <../N/night-mode.html>`__,
+`demo mode <../D/demo-mode.html>`__, `fireworks
+mode <../F/fireworks-mode.html>`__, and `yoyo
+mode <../Y/yoyo-mode.html>`__; also `talk
+mode <../T/talk-mode.html>`__.
 
 One also often hears the verbs enable and disable used in connection
 with jargon modes. Thus, for example, a sillier way of saying “I'm going
@@ -2764,7 +2764,7 @@ the Unix editor **vi**, one must type the “i” key, which invokes the
 mode”, in which typing the “i” key has a quite different effect (to wit,
 it inserts an “i” into the document). One must then hit another special
 key, “ESC”, in order to leave “insert mode”. Nowadays, modeful
-interfaces are generally considered `*losing* <../L/losing.html>`__ but
+interfaces are generally considered `losing <../L/losing.html>`__ but
 survive in quite a few widely used tools built in less enlightened
 times.
 
@@ -2794,10 +2794,10 @@ M
 the full terms are considered markers that one is being formal. The
 plural ‘mods’ is used esp. with reference to bug fixes or minor design
 changes in hardware or software, most esp. with respect to
-`*patch* <../P/patch.html>`__ sets or a `*diff* <../D/diff.html>`__. See
-also `*case mod* <../C/case-mod.html>`__.
+`patch <../P/patch.html>`__ sets or a `diff <../D/diff.html>`__. See
+also `case mod <../C/case-mod.html>`__.
 
-2. Short for `*modulo* <modulo.html>`__ but used *only* for its
+2. Short for `modulo <modulo.html>`__ but used *only* for its
 techspeak sense.
 
 --------------
@@ -2821,9 +2821,9 @@ M
 **modulo**: /mod´yu·loh/, prep.
 
 Except for. An overgeneralization of mathematical terminology; one can
-consider saying that 4 equals 22 except for the 9s (``4 =    22`` mod
+consider saying that 4 equals 22 except for the 9s ("4 =    22" mod
 9). “Well, LISP seems to work okay now, modulo that
-`*GC* <../G/GC.html>`__ bug.” “I feel fine today modulo a slight
+`GC <../G/GC.html>`__ bug.” “I feel fine today modulo a slight
 headache.”
 
 --------------
@@ -2871,8 +2871,8 @@ M
 
 **molly-guard**: /mol´ee·gard/, n.
 
-[University of Illinois] A shield to prevent tripping of some `*Big Red
-Switch* <../B/Big-Red-Switch.html>`__ by clumsy or ignorant hands.
+[University of Illinois] A shield to prevent tripping of some `Big Red
+Switch <../B/Big-Red-Switch.html>`__ by clumsy or ignorant hands.
 Originally used of the plexiglass covers improvised for the BRS on an
 IBM 4341 after a programmer's toddler daughter (named Molly) frobbed it
 twice in one day. Later generalized to covers over stop/reset switches
@@ -2900,11 +2900,11 @@ M
 **Mongolian Hordes technique**: n.
 
 [poss. from the Sixties counterculture expression Mongolian clusterfuck
-for a public orgy] Development by `*gang bang* <../G/gang-bang.html>`__.
+for a public orgy] Development by `gang bang <../G/gang-bang.html>`__.
 Implies that large numbers of inexperienced programmers are being put on
 a job better performed by a few skilled ones (but see
-`*bazaar* <../B/bazaar.html>`__). Also called Chinese Army technique;
-see also `*Brooks's Law* <../B/Brookss-Law.html>`__.
+`bazaar <../B/bazaar.html>`__). Also called Chinese Army technique;
+see also `Brooks's Law <../B/Brookss-Law.html>`__.
 
 --------------
 
@@ -2926,7 +2926,7 @@ M
 
 **monkey, scratch**: n.
 
-See `*scratch monkey* <../S/scratch-monkey.html>`__.
+See `scratch monkey <../S/scratch-monkey.html>`__.
 
 --------------
 
@@ -2949,10 +2949,10 @@ M
 **monkey up**: vt.
 
 To hack together hardware for a particular task, especially a one-shot
-job. Connotes an extremely `*crufty* <../C/crufty.html>`__ and
-consciously temporary solution. Compare `*hack
-up* <../H/hack-up.html>`__, `*kluge up* <../K/kluge-up.html>`__, `*cruft
-together* <../C/cruft-together.html>`__.
+job. Connotes an extremely `crufty <../C/crufty.html>`__ and
+consciously temporary solution. Compare `hack
+up <../H/hack-up.html>`__, `kluge up <../K/kluge-up.html>`__, `cruft
+together <../C/cruft-together.html>`__.
 
 --------------
 
@@ -2974,12 +2974,12 @@ M
 
 **monstrosity**
 
-1. n. A ridiculously `*elephantine* <../E/elephantine.html>`__ program
+1. n. A ridiculously `elephantine <../E/elephantine.html>`__ program
 or system, esp. one that is buggy or only marginally functional.
 
 2. adj. The quality of being monstrous (see `the section called
 “Overgeneralization” <../overgeneralization.html>`__ in the discussion
-of jargonification). See also `*baroque* <../B/baroque.html>`__.
+of jargonification). See also `baroque <../B/baroque.html>`__.
 
 --------------
 
@@ -3017,7 +3017,7 @@ Unix workstation, etc. to mean fully populated with memory, disk-space
 or some other desirable resource. See the World Wide Words article `“The
 Full Monty” <http://www.worldwidewords.org/articles/monty.htm>`__ for
 discussion of the rather complex etymology that may lie behind this
-phrase. Compare American `*moby* <moby.html>`__.
+phrase. Compare American `moby <moby.html>`__.
 
 --------------
 
@@ -3042,7 +3042,7 @@ M
 [Macintosh users]
 
 1. n. The call of a semi-legendary creature, properly called the
-`*dogcow* <../D/dogcow.html>`__. (Some previous versions of this entry
+`dogcow <../D/dogcow.html>`__. (Some previous versions of this entry
 claimed, incorrectly, that Moof was the name of the *creature*.)
 
 2. adj. Used to flag software that's a hack, something untested and on
@@ -3095,8 +3095,8 @@ that none of the variants of Moore's Law actually fit the data very well
 (the price curves within DRAM generations perhaps come closest).
 Nevertheless, Moore's Law is constantly invoked to set up expectations
 about the next generation of computing technology. See also
-`*Parkinson's Law of Data* <../P/Parkinsons-Law-of-Data.html>`__ and
-`*Gates's Law* <../G/Gatess-Law.html>`__.
+`Parkinson's Law of Data <../P/Parkinsons-Law-of-Data.html>`__ and
+`Gates's Law <../G/Gatess-Law.html>`__.
 
 --------------
 
@@ -3118,15 +3118,15 @@ M
 
 **moria**: /mor´ee·@/, n.
 
-Like `*nethack* <../N/nethack.html>`__ and
-`*rogue* <../R/rogue.html>`__, one of the large PD
+Like `nethack <../N/nethack.html>`__ and
+`rogue <../R/rogue.html>`__, one of the large PD
 Dungeons-and-Dragons-like simulation games, available for a wide range
 of machines and operating systems. The name is from Tolkien's Mines of
-Moria; compare `*elder days* <../E/elder-days.html>`__,
-`*elvish* <../E/elvish.html>`__. The game is extremely addictive and a
+Moria; compare `elder days <../E/elder-days.html>`__,
+`elvish <../E/elvish.html>`__. The game is extremely addictive and a
 major consumer of time better used for hacking. See also
-`*nethack* <../N/nethack.html>`__, `*rogue* <../R/rogue.html>`__,
-`*Angband* <../A/Angband.html>`__.
+`nethack <../N/nethack.html>`__, `rogue <../R/rogue.html>`__,
+`Angband <../A/Angband.html>`__.
 
 --------------
 
@@ -3148,9 +3148,9 @@ M
 
 **MOTAS**: /moh·tahz/, n.
 
-[Usenet: Member Of The Appropriate Sex, after `*MOTOS* <MOTOS.html>`__
-and `*MOTSS* <MOTSS.html>`__] A potential or (less often) actual sex
-partner. See also `*SO* <../S/SO.html>`__.
+[Usenet: Member Of The Appropriate Sex, after `MOTOS <MOTOS.html>`__
+and `MOTSS <MOTSS.html>`__] A potential or (less often) actual sex
+partner. See also `SO <../S/SO.html>`__.
 
 --------------
 
@@ -3174,9 +3174,9 @@ M
 
 [acronym from the 1970 U.S. census forms via Usenet: Member Of The
 Opposite Sex] A potential or (less often) actual sex partner. See
-`*MOTAS* <MOTAS.html>`__, `*MOTSS* <MOTSS.html>`__,
-`*SO* <../S/SO.html>`__. Less common than MOTSS or
-`*MOTAS* <MOTAS.html>`__, which has largely displaced it.
+`MOTAS <MOTAS.html>`__, `MOTSS <MOTSS.html>`__,
+`SO <../S/SO.html>`__. Less common than MOTSS or
+`MOTAS <MOTAS.html>`__, which has largely displaced it.
 
 --------------
 
@@ -3200,9 +3200,9 @@ M
 
 [from the 1970 U.S. census forms via Usenet] Member Of The Same Sex,
 esp. one considered as a possible sexual partner. The gay-issues
-newsgroup on Usenet is called ``soc.motss``. See
-`*MOTOS* <MOTOS.html>`__ and `*MOTAS* <MOTAS.html>`__, which derive from
-it. See also `*SO* <../S/SO.html>`__.
+newsgroup on Usenet is called "soc.motss". See
+`MOTOS <MOTOS.html>`__ and `MOTAS <MOTAS.html>`__, which derive from
+it. See also `SO <../S/SO.html>`__.
 
 --------------
 
@@ -3229,7 +3229,7 @@ pointing device (almost always a mouse in this usage, but not
 necessarily) and its selection or command buttons before a computer
 program is ready to accept such input, in anticipation of the program
 accepting the input. Handling this properly is rare, but it can help
-make a `*WIMP environment* <../W/WIMP-environment.html>`__ much more
+make a `WIMP environment <../W/WIMP-environment.html>`__ much more
 usable, assuming the users are familiar with the behavior of the user
 interface.
 
@@ -3253,7 +3253,7 @@ M
 
 **mouse belt**: n.
 
-See `*rat belt* <../R/rat-belt.html>`__.
+See `rat belt <../R/rat-belt.html>`__.
 
 --------------
 
@@ -3304,7 +3304,7 @@ M
 **mouse elbow**: n.
 
 A tennis-elbow-like fatigue syndrome resulting from excessive use of a
-`*WIMP environment* <../W/WIMP-environment.html>`__. Similarly, mouse
+`WIMP environment <../W/WIMP-environment.html>`__. Similarly, mouse
 shoulder; GLS reports that he used to get this a lot before he taught
 himself to be ambimoustrous.
 
@@ -3356,7 +3356,7 @@ M
 
 [by analogy with ‘typo’] An error in mouse usage resulting in an
 inappropriate selection or graphic garbage on the screen. Compare
-`*thinko* <../T/thinko.html>`__, `*braino* <../B/braino.html>`__.
+`thinko <../T/thinko.html>`__, `braino <../B/braino.html>`__.
 
 --------------
 
@@ -3378,8 +3378,8 @@ M
 
 **MS-DOS**: /M·S·dos/, n.
 
-[MicroSoft Disk Operating System] A `*clone* <../C/clone.html>`__ of
-`*CP/M* <../C/CP-M.html>`__ for the 8088 crufted together in 6 weeks by
+[MicroSoft Disk Operating System] A `clone <../C/clone.html>`__ of
+`CP/M <../C/CP-M.html>`__ for the 8088 crufted together in 6 weeks by
 hacker Tim Paterson at Seattle Computer Products, who called the
 original QDOS (Quick and Dirty Operating System) and is said to have
 regretted it ever since. Microsoft licensed QDOS in order to have
@@ -3394,13 +3394,13 @@ now the highest-unit-volume OS in history. Often known simply as DOS,
 which annoys people familiar with other similarly abbreviated operating
 systems (the name goes back to the mid-1960s, when it was attached to
 IBM's first disk operating system for the 360). The name further annoys
-those who know what the term `*operating
-system* <../O/operating-system.html>`__ does (or ought to) connote; DOS
+those who know what the term `operating
+system <../O/operating-system.html>`__ does (or ought to) connote; DOS
 is more properly a set of relatively simple interrupt services. Some
 people like to pronounce DOS like “dose”, as in “I don't work on dose,
 man!”, or to compare it to a dose of brain-damaging drugs (a slogan
 button in wide circulation among hackers exhorts: “MS-DOS: Just say
-No!”). See `*mess-dos* <mess-dos.html>`__.
+No!”). See `mess-dos <mess-dos.html>`__.
 
 --------------
 
@@ -3445,7 +3445,7 @@ M
 
 **muddie**: n.
 
-Syn. `*mudhead* <mudhead.html>`__. More common in Great Britain,
+Syn. `mudhead <mudhead.html>`__. More common in Great Britain,
 possibly because system administrators there like to mutter “bloody
 muddies” when annoyed at the species.
 
@@ -3469,7 +3469,7 @@ M
 
 **mudhead**: n.
 
-Commonly used to refer to a `*MUD* <MUD.html>`__ player who eats,
+Commonly used to refer to a `MUD <MUD.html>`__ player who eats,
 sleeps, and breathes MUD. Mudheads have been known to fail their
 degrees, drop out, etc., with the consolation, however, that they made
 wizard level. When encountered in person, on a MUD, or in a chat system,
@@ -3479,7 +3479,7 @@ a wizard or beating a favorite MUD; why the specific game he/she has
 experience with is so much better than any other; and the MUD he or she
 is writing or going to write because his/her design ideas are so much
 better than in any existing MUD. See also
-`*wannabee* <../W/wannabee.html>`__.
+`wannabee <../W/wannabee.html>`__.
 
 To the anthropologically literate, this term may recall the Zuni/Hopi
 legend of the mudheads or *koyemshi*, mythical half-formed children of
@@ -3510,7 +3510,7 @@ M
 
 [acronym, Multi-User Dungeon; alt.: Multi-User Dimension]
 
-1. A class of `*virtual reality* <../V/virtual-reality.html>`__
+1. A class of `virtual reality <../V/virtual-reality.html>`__
 experiments accessible via the Internet. These are real-time chat forums
 with structure; they have multiple ‘locations’ like an adventure game,
 and may include combat, traps, puzzles, magic, a simple economic system,
@@ -3558,11 +3558,11 @@ greater programmability and flexibility will doubtless continue.
 The state of the art in MUD design is still moving very rapidly, with
 new simulation designs appearing (seemingly) every month. Around 1991
 there was an unsuccessful movement to deprecate the term
-`*MUD* <MUD.html>`__ itself, as newer designs exhibit an exploding
+`MUD <MUD.html>`__ itself, as newer designs exhibit an exploding
 variety of names corresponding to the different simulation styles being
-explored. It survived. See also `*bonk/oif* <../B/bonk-oif.html>`__,
-`*FOD* <../F/FOD.html>`__, `*link-dead* <../L/link-dead.html>`__,
-`*mudhead* <mudhead.html>`__, `*talk mode* <../T/talk-mode.html>`__.
+explored. It survived. See also `bonk/oif <../B/bonk-oif.html>`__,
+`FOD <../F/FOD.html>`__, `link-dead <../L/link-dead.html>`__,
+`mudhead <mudhead.html>`__, `talk mode <../T/talk-mode.html>`__.
 
 --------------
 
@@ -3585,8 +3585,8 @@ M
 **muggle**
 
 [from J.K. Rowling's *Harry Potter* books, 1998] A
-non-`*wizard* <../W/wizard.html>`__. Not as disparaging as
-`*luser* <../L/luser.html>`__; implies vague pity rather than contempt.
+non-`wizard <../W/wizard.html>`__. Not as disparaging as
+`luser <../L/luser.html>`__; implies vague pity rather than contempt.
 In the universe of Rowling's enormously (and deservedly) popular
 children's series, muggles and wizards inhabit the same modern world,
 but each group is ignorant of the commonplaces of the others' existence
@@ -3596,9 +3596,9 @@ artifacts.
 
 In retrospect it seems completely inevitable that hackers would adopt
 this metaphor, and in hacker usage it readily forms compounds such as
-muggle-friendly. Compare `*luser* <../L/luser.html>`__,
-`*mundane* <mundane.html>`__, `*chainik* <../C/chainik.html>`__,
-`*newbie* <../N/newbie.html>`__.
+muggle-friendly. Compare `luser <../L/luser.html>`__,
+`mundane <mundane.html>`__, `chainik <../C/chainik.html>`__,
+`newbie <../N/newbie.html>`__.
 
 --------------
 
@@ -3636,12 +3636,12 @@ it”), or “lack of”, which may or may not be a definite, complete
 'nothing'). Native speakers of Japanese do not recognize the Discordian
 question-denying use, which almost certainly derives from
 overgeneralization of the answer in the following well-known Rinzai Zen
-`*koan* <../K/koan.html>`__:
+`koan <../K/koan.html>`__:
 
     A monk asked Joshu, “Does a dog have the Buddha nature?” Joshu
     retorted, “Mu!”
 
-See also `*has the X nature* <../H/has-the-X-nature.html>`__, `Some AI
+See also `has the X nature <../H/has-the-X-nature.html>`__, `Some AI
 Koans <../koans.html>`__, and Douglas Hofstadter's *Gödel, Escher, Bach:
 An Eternal Golden Braid* (pointer in the
 `Bibliography <../pt03.html#bibliography>`__ in Appendix C.
@@ -3667,9 +3667,9 @@ M
 **Multics**: /muhl´tiks/, n.
 
 [from “MULTiplexed Information and Computing Service”] An early
-timesharing `*operating system* <../O/operating-system.html>`__
+timesharing `operating system <../O/operating-system.html>`__
 co-designed by a consortium including MIT, GE, and Bell Laboratories as
-a successor to `*CTSS* <../C/CTSS.html>`__. The design was first
+a successor to `CTSS <../C/CTSS.html>`__. The design was first
 presented in 1965, planned for operation in 1967, first operational in
 1969, and took several more years to achieve respectable performance and
 stability.
@@ -3679,23 +3679,23 @@ provided a hierarchical file system with access control on individual
 files and introduced the idea of treating all devices uniformly as
 special files. It was also the first OS to run on a symmetric
 multiprocessor, and the only general-purpose system to be awarded a B2
-security rating by the NSA (see `*Orange
-Book* <../O/Orange-Book.html>`__).
+security rating by the NSA (see `Orange
+Book <../O/Orange-Book.html>`__).
 
 Bell Labs left the development effort in 1969 after judging that
-`*second-system effect* <../S/second-system-effect.html>`__ had bloated
+`second-system effect <../S/second-system-effect.html>`__ had bloated
 Multics to the point of practical unusability. Honeywell commercialized
 Multics in 1972 after buying out GE's computer group, but it was never
 very successful: at its peak in the 1980s, there were between 75 and 100
 Multics sites, each a multi-million dollar mainframe.
 
 One of the former Multics developers from Bell Labs was Ken Thompson,
-and `*Unix* <../U/Unix.html>`__ deliberately carried through and
+and `Unix <../U/Unix.html>`__ deliberately carried through and
 extended many of Multics' design ideas; indeed, Thompson described the
 very name ‘Unix’ as “a weak pun on Multics”. For this and other reasons,
 aspects of the Multics design remain a topic of occasional debate among
-hackers. See also `*brain-damaged* <../B/brain-damaged.html>`__ and
-`*GCOS* <../G/GCOS.html>`__.
+hackers. See also `brain-damaged <../B/brain-damaged.html>`__ and
+`GCOS <../G/GCOS.html>`__.
 
 MIT ended its development association with Multics in 1977. Honeywell
 sold its computer business to Bull in the mid 80s, and development on
@@ -3726,7 +3726,7 @@ M
 
 Often used of humans in the same meaning it has for computers, to
 describe a person doing several things at once (but see
-`*thrash* <../T/thrash.html>`__). The term multiplex, from
+`thrash <../T/thrash.html>`__). The term multiplex, from
 communications technology (meaning to handle more than one channel at
 the same time), is used similarly.
 
@@ -3750,7 +3750,7 @@ M
 
 **mumblage**: /muhm´bl@j/, n.
 
-The topic of one's mumbling (see `*mumble* <mumble.html>`__). “All that
+The topic of one's mumbling (see `mumble <mumble.html>`__). “All that
 mumblage” is used like “all that stuff” when it is not quite clear how
 the subject of discussion works, or like “all that crap” when ‘mumble’
 is being used as an implicit replacement for pejoratives.
@@ -3789,14 +3789,14 @@ COBOL emulation?” “Mumble!”
 
 3. Sometimes used as an expression of disagreement (distinguished from
 sense 2 by tone of voice and other cues). “I think we should buy a
-`*`*VAX* <../V/VAX.html>`__* <../V/VAX.html>`__.” “Mumble!” Common
-variant: mumble frotz (see `*frotz* <../F/frotz.html>`__; interestingly,
+"VAX <../V/VAX.html>`__ <../V/VAX.html>`__.” “Mumble!” Common
+variant: mumble frotz (see `frotz <../F/frotz.html>`__; interestingly,
 one does not say ‘mumble frobnitz’ even though ‘frotz’ is short for
 ‘frobnitz’).
 
-4. Yet another `*metasyntactic
-variable* <metasyntactic-variable.html>`__, like
-`*foo* <../F/foo.html>`__.
+4. Yet another `metasyntactic
+variable <metasyntactic-variable.html>`__, like
+`foo <../F/foo.html>`__.
 
 5. When used as a question (“Mumble?”) means “I didn't understand you”.
 
@@ -3808,8 +3808,8 @@ Mumbleco.”
 
 7. A conversational wild card used to designate something one doesn't
 want to bother spelling out, but which can be
-`*glark* <../G/glark.html>`__\ ed from context. Compare
-`*blurgle* <../B/blurgle.html>`__.
+`glark <../G/glark.html>`__\ ed from context. Compare
+`blurgle <../B/blurgle.html>`__.
 
 8. [XEROX PARC] A colloquialism used to suggest that further discussion
 would be fruitless.
@@ -3834,11 +3834,11 @@ M
 
 **munch**: vt.
 
-[often confused with `*mung* <mung.html>`__, q.v.] To transform
+[often confused with `mung <mung.html>`__, q.v.] To transform
 information in a serial fashion, often requiring large amounts of
 computation. To trace down a data structure. Related to
-`*crunch* <../C/crunch.html>`__ and nearly synonymous with
-`*grovel* <../G/grovel.html>`__, but connotes less pain.
+`crunch <../C/crunch.html>`__ and nearly synonymous with
+`grovel <../G/grovel.html>`__, but connotes less pain.
 
 --------------
 
@@ -3862,8 +3862,8 @@ M
 
 Exploration of security holes of someone else's computer for thrills,
 notoriety, or to annoy the system manager. Compare
-`*cracker* <../C/cracker.html>`__. See also `*hacked
-off* <../H/hacked-off.html>`__.
+`cracker <../C/cracker.html>`__. See also `hacked
+off <../H/hacked-off.html>`__.
 
 --------------
 
@@ -3885,10 +3885,10 @@ M
 
 **munching squares**: n.
 
-A `*display hack* <../D/display-hack.html>`__ dating back to the PDP-1
+A `display hack <../D/display-hack.html>`__ dating back to the PDP-1
 (ca. 1962, reportedly discovered by Jackson Wright), which employs a
 trivial computation (repeatedly plotting the graph Y = X XOR T for
-successive values of T — see `*HAKMEM* <../H/HAKMEM.html>`__ items
+successive values of T — see `HAKMEM <../H/HAKMEM.html>`__ items
 146--148) to produce an impressive display of moving and growing squares
 that devour the screen. The initial value of T is treated as a
 parameter, which, when well-chosen, can produce amazing effects. Some of
@@ -3899,8 +3899,8 @@ suppose a graphics program produces an impressive and ever-changing
 display of some basic form, foo, on a display terminal, and does it
 using a relatively simple program; then the program (or the resulting
 display) is likely to be referred to as munching foos. [This is a good
-example of the use of the word `*foo* <../F/foo.html>`__ as a
-`*metasyntactic variable* <metasyntactic-variable.html>`__.]
+example of the use of the word `foo <../F/foo.html>`__ as a
+`metasyntactic variable <metasyntactic-variable.html>`__.]
 
 --------------
 
@@ -3925,11 +3925,11 @@ M
 [from the squeaky-voiced little people in L. Frank Baum's *The Wizard of
 Oz*] A teenage-or-younger micro enthusiast hacking BASIC or something
 else equally constricted. A term of mild derision — munchkins are
-annoying but some grow up to be hackers after passing through a `*larval
-stage* <../L/larval-stage.html>`__. The term
-`*urchin* <../U/urchin.html>`__ is also used. See also
-`*wannabee* <../W/wannabee.html>`__, `*bitty
-box* <../B/bitty-box.html>`__.
+annoying but some grow up to be hackers after passing through a `larval
+stage <../L/larval-stage.html>`__. The term
+`urchin <../U/urchin.html>`__ is also used. See also
+`wannabee <../W/wannabee.html>`__, `bitty
+box <../B/bitty-box.html>`__.
 
 --------------
 
@@ -3957,7 +3957,7 @@ M
 
 2. A person who is not in the computer industry. In this sense, most
 often an adjectival modifier as in “in my mundane life....” See also
-`*Real World* <../R/Real-World.html>`__, `*muggle* <muggle.html>`__.
+`Real World <../R/Real-World.html>`__, `muggle <muggle.html>`__.
 
 --------------
 
@@ -3985,16 +3985,16 @@ M
 program.
 
 3. To modify data in some way the speaker doesn't need to go into right
-now or cannot describe succinctly (compare `*mumble* <mumble.html>`__).
+now or cannot describe succinctly (compare `mumble <mumble.html>`__).
 
-4. To add `*spamblock* <../S/spamblock.html>`__ to an email address.
+4. To add `spamblock <../S/spamblock.html>`__ to an email address.
 
-This term is often confused with `*mung* <mung.html>`__, which probably
+This term is often confused with `mung <mung.html>`__, which probably
 was derived from it. However, it also appears the word munge was in
 common use in Scotland in the 1940s, and in Yorkshire in the 1950s, as a
 verb, meaning to munch up into a masticated mess, and as a noun, meaning
 the result of munging something up (the parallel with the
-`*kluge* <../K/kluge.html>`__/`*kludge* <../K/kludge.html>`__ pair is
+`kluge <../K/kluge.html>`__/`kludge <../K/kludge.html>`__ pair is
 amusing). The OED reports “munge” as an archaic verb meaning “to wipe (a
 person's nose)”.
 
@@ -4019,41 +4019,41 @@ M
 **mung**: /muhng/, vt.
 
 [in 1960 at MIT, “Mash Until No Good”; sometime after that the
-derivation from the `*recursive
-acronym* <../R/recursive-acronym.html>`__ “Mung Until No Good” became
-standard; but see `*munge* <munge.html>`__]
+derivation from the `recursive
+acronym <../R/recursive-acronym.html>`__ “Mung Until No Good” became
+standard; but see `munge <munge.html>`__]
 
 1. To make changes to a file, esp. large-scale and irrevocable changes.
-See `*BLT* <../B/BLT.html>`__.
+See `BLT <../B/BLT.html>`__.
 
 2. To destroy, usually accidentally, occasionally maliciously. The
 system only mungs things maliciously; this is a consequence of
-`*Finagle's Law* <../F/Finagles-Law.html>`__. See
-`*scribble* <../S/scribble.html>`__, `*mangle* <mangle.html>`__,
-`*trash* <../T/trash.html>`__, `*nuke* <../N/nuke.html>`__. Reports from
-`*Usenet* <../U/Usenet.html>`__ suggest that the pronunciation /muhnj/
+`Finagle's Law <../F/Finagles-Law.html>`__. See
+`scribble <../S/scribble.html>`__, `mangle <mangle.html>`__,
+`trash <../T/trash.html>`__, `nuke <../N/nuke.html>`__. Reports from
+`Usenet <../U/Usenet.html>`__ suggest that the pronunciation /muhnj/
 is now usual in speech, but the spelling ‘mung’ is still common in
 program comments (compare the widespread confusion over the proper
-spelling of `*kluge* <../K/kluge.html>`__).
+spelling of `kluge <../K/kluge.html>`__).
 
-3. In the wake of the `*spam* <../S/spam.html>`__ epidemics of the
+3. In the wake of the `spam <../S/spam.html>`__ epidemics of the
 1990s, mung is now commonly used to describe the act of modifying an
 email address in a sig block in a way that human beings can readily
-reverse but that will fool an `*address
-harvester* <../A/address-harvester.html>`__. Example:
+reverse but that will fool an `address
+harvester <../A/address-harvester.html>`__. Example:
 johnNOSPAMsmith@isp.net.
 
 4. The kind of beans the sprouts of which are used in Chinese food.
 (That's their real name! Mung beans! Really!)
 
 Like many early hacker terms, this one seems to have originated at
-`*TMRC* <../T/TMRC.html>`__; it was already in use there in 1958. Peter
+`TMRC <../T/TMRC.html>`__; it was already in use there in 1958. Peter
 Samson (compiler of the original TMRC lexicon) thinks it may originally
 have been onomatopoeic for the sound of a relay spring (contact) being
 twanged. However, it is known that during the World Wars, ‘mung’ was
 U.S.: army slang for the ersatz creamed chipped beef better known as
 ‘SOS’, and it seems quite likely that the word in fact goes back to
-Scots-dialect `*munge* <munge.html>`__.
+Scots-dialect `munge <munge.html>`__.
 
 Charles Mackay's 1874 book *Lost Beauties of the English Language*
 defined “mung” as follows: “Preterite of ming, to ming or mingle; when
@@ -4087,11 +4087,11 @@ The correct, *original* Murphy's Law reads: “If there are two or more
 ways to do something, and one of those ways can result in a catastrophe,
 then someone will do it.” This is a principle of defensive design, cited
 here because it is usually given in mutant forms less descriptive of the
-challenges of design for `*luser* <../L/luser.html>`__\ s. For example,
+challenges of design for `luser <../L/luser.html>`__\ s. For example,
 you don't make a two-pin plug symmetrical and then label it “THIS WAY
 UP”; if it matters which way it is plugged in, then you make the design
-asymmetrical (see also the anecdote under `*magic
-smoke* <magic-smoke.html>`__).
+asymmetrical (see also the anecdote under `magic
+smoke <magic-smoke.html>`__).
 
 Edward A. Murphy, Jr. was one of McDonnell-Douglas's test engineers on
 the rocket-sled experiments that were done by the U.S. Air Force in 1949
@@ -4108,8 +4108,8 @@ Within months ‘Murphy's Law’ had spread to various technical cultures
 connected to aerospace engineering. Before too many years had gone by
 variants had passed into the popular imagination, changing as they went.
 Most of these are variants on “Anything that can go wrong, will”; this
-is more correctly referred to as `*Finagle's
-Law* <../F/Finagles-Law.html>`__. The memetic drift apparent in these
+is more correctly referred to as `Finagle's
+Law <../F/Finagles-Law.html>`__. The memetic drift apparent in these
 mutants clearly demonstrates Murphy's Law acting on itself!
 
 --------------
@@ -4132,10 +4132,10 @@ M
 
 **music**: n.
 
-A common extracurricular interest of hackers (compare `*science-fiction
-fandom* <../S/science-fiction-fandom.html>`__, `*oriental
-food* <../O/oriental-food.html>`__; see also
-`*filk* <../F/filk.html>`__). Hackish folklore has long claimed that
+A common extracurricular interest of hackers (compare `science-fiction
+fandom <../S/science-fiction-fandom.html>`__, `oriental
+food <../O/oriental-food.html>`__; see also
+`filk <../F/filk.html>`__). Hackish folklore has long claimed that
 musical and programming abilities are closely related, and there has
 been at least one large-scale statistical study that supports this.
 Hackers, as a rule, like music and often develop musical appreciation in
@@ -4148,7 +4148,7 @@ Metheny, Scott Joplin, Tangerine Dream, Dream Theater, King Sunny Ade,
 The Pretenders, Screaming Trees, or the Brandenburg Concerti. It is also
 apparently true that hackerdom includes a much higher concentration of
 talented amateur musicians than one would expect from a similar-sized
-control group of `*mundane* <mundane.html>`__ types.
+control group of `mundane <mundane.html>`__ types.
 
 --------------
 
@@ -4172,8 +4172,8 @@ M
 
 To quietly enter a command not meant for the ears, eyes, or fingers of
 ordinary mortals. Often used in “mutter an
-`*incantation* <../I/incantation.html>`__\ ”. See also
-`*wizard* <../W/wizard.html>`__.
+`incantation <../I/incantation.html>`__\ ”. See also
+`wizard <../W/wizard.html>`__.
 
 --------------
 

@@ -623,7 +623,7 @@ Dataglove to allow the user to interact with the simulation. See
 2. A form of network interaction incorporating aspects of role-playing
 games, interactive theater, improvisational comedy, and ‘true
 confessions’ magazines. In a virtual reality forum (such as Usenet's
-``alt.callahans`` newsgroup or the `MUD <../M/MUD.html>`__ experiments
+"alt.callahans" newsgroup or the `MUD <../M/MUD.html>`__ experiments
 on Internet), interaction between the participants is written like a
 shared novel complete with scenery, foreground characters that may be
 personae utterly unlike the people who write them, and common background

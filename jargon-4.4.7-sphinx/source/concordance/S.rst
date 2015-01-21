@@ -24,7 +24,7 @@ saga
 
 **saga**: n.
 
-[WPI] A cuspy but bogus raving story about ``N`` random broken people.
+[WPI] A cuspy but bogus raving story about "N" random broken people.
 
 Here is a classic example of the saga form, as told by Guy L. Steele:
 
@@ -260,7 +260,7 @@ salt mines
 
 Dense quarters housing large numbers of programmers working long hours
 on grungy projects, with some hope of seeing the end of the tunnel in
-``N`` years. Noted for their absence of sunshine. Compare
+"N" years. Noted for their absence of sunshine. Compare
 `playpen <../P/playpen.html>`__, `sandbox <sandbox.html>`__.
 
 
@@ -463,7 +463,7 @@ scary devil monastery
 **scary devil monastery**: n.
 
 Anagram frequently used to refer to the newsgroup
-``alt.sysadmin.recovery``, which is populated with characters that
+"alt.sysadmin.recovery", which is populated with characters that
 rather justify the reference.
 
 
@@ -1099,8 +1099,8 @@ immediate cause may be that a pointer has been trashed due to a previous
 fandango may have been due to an *earlier* fandango, so no amount of
 analysis will reveal (directly) how the damage occurred. “The data
 structure was clobbered, but it was secondary damage.” By extension, the
-corruption resulting from ``N`` cascaded fandangoes on core is
-‘\ ``N``\ th-level damage’. There is at least one case on record in
+corruption resulting from "N" cascaded fandangoes on core is
+‘\ "N"\ th-level damage’. There is at least one case on record in
 which 17 hours of `grovel <../G/grovel.html>`__\ ling with **adb**
 actually dug up the underlying bug behind an instance of seventh-level
 damage! The hacker who accomplished this near-superhuman feat was
@@ -1184,7 +1184,7 @@ where would we be?
 
 Historical note: There are conflicting stories about the origin of this
 term. It has been claimed that it was first used in the Usenet newsgroup
-``comp.sys.apollo`` during a campaign to get HP/Apollo to fix security
+"comp.sys.apollo" during a campaign to get HP/Apollo to fix security
 problems in its Unix-`clone <../C/clone.html>`__ Aegis/DomainOS (they
 didn't change a thing). `ITS <../I/ITS.html>`__ fans, on the other
 hand, say it was coined years earlier in opposition to the incredibly
@@ -1472,7 +1472,7 @@ S
 
 1. n. Abbreviation for ‘semicolon’, when speaking. “Commands to
 `grind <../G/grind.html>`__ are prefixed by semi-semi-star” means that
-the prefix is ``;;*``, not 1/4 of a star.
+the prefix is ";;*", not 1/4 of a star.
 
 2. A prefix used with words such as ‘immediately’ as a qualifier. “When
 is the system coming up?” “Semi-immediately.” (That is, maybe not for an
@@ -2190,7 +2190,7 @@ Number God <../R/Random-Number-God.html>`__.
 [January 1996: It develops that one of the computer administrators in
 the basement of the Pentagon read this entry and fell over laughing. As
 a result, you too can now poke Shub-Internet by
-`ping <../P/ping.html>`__\ ing ``shub-internet.ims.disa.mil``. Compare
+`ping <../P/ping.html>`__\ ing "shub-internet.ims.disa.mil". Compare
 `kremvax <../K/kremvax.html>`__. —ESR]
 
 [April 1999: shub-internet.ims.disa.mil is no more, alas. But
@@ -3255,7 +3255,7 @@ S
 
 **smurf**: /smerf/, n.
 
-1. [from the ``soc.motss`` newsgroup on Usenet, after some obnoxiously
+1. [from the "soc.motss" newsgroup on Usenet, after some obnoxiously
 gooey cartoon characters] A newsgroup regular with a habitual style that
 is irreverent, silly, and cute. Like many other hackish terms for
 people, this one may be praise or insult depending on who uses it. In
@@ -3578,7 +3578,7 @@ computer (especially if it might be a boojum). Often used to refer to an
 event or a log file entry that might indicate an attempted security
 violation.
 
-3. UUCP name of ``snark.thyrsus.com``, home site of the Jargon File
+3. UUCP name of "snark.thyrsus.com", home site of the Jargon File
 versions from 2.\*.\* on (i.e., this lexicon).
 
 --------------
@@ -4291,7 +4291,7 @@ S
 
 **spaceship operator**: n.
 
-The glyph ``<=>``, so-called apparently because in the low-resolution
+The glyph "<=>", so-called apparently because in the low-resolution
 constant-width font used on many terminals it vaguely resembles a flying
 saucer. `Perl <../P/Perl.html>`__ uses this to denote the
 signum-of-difference operation.
@@ -4428,8 +4428,8 @@ S
 
 [poss. by analogy to sunblock] Text inserted in an email address to
 render it invalid and thus useless to spammers. For example, the address
-``<jrandom@hacker.org>`` might be transformed to
-``<jrandom@NOSPAM.hacker.org>``. Adding spamblock to an address is often
+"<jrandom@hacker.org>" might be transformed to
+"<jrandom@NOSPAM.hacker.org>". Adding spamblock to an address is often
 referred to as munging it (see `munge <../M/munge.html>`__). This
 evasion tactic depends on the fact that most spammers collect names with
 some sort of `address harvester <../A/address-harvester.html>`__ on
@@ -4512,9 +4512,9 @@ stack <smash-the-stack.html>`__.
 2. To cause a newsgroup to be flooded with irrelevant or inappropriate
 messages. You can spam a newsgroup with as little as one well- (or ill-)
 planned message (e.g. asking “What do you think of abortion?” on
-``soc.women``). This is often done with
+"soc.women"). This is often done with
 `cross-post <../C/cross-post.html>`__\ ing (e.g. any message which is
-cross-posted to ``alt.rush-limbaugh`` and ``alt.politics.homosexuality``
+cross-posted to "alt.rush-limbaugh" and "alt.politics.homosexuality"
 will almost inevitably spam both groups). This overlaps with
 `troll <../T/troll.html>`__ behavior; the latter more specific term
 has become more common.
@@ -4703,7 +4703,7 @@ S
 
 A pattern of lights displayed on a linear set of LEDs (today) or nixie
 tubes (yesterday, on ancient mainframes). The pattern is shifted left
-every ``N`` times the operating system goes through its `main
+every "N" times the operating system goes through its `main
 loop <../M/main-loop.html>`__. A swiftly moving pattern indicates that
 the system is mostly idle; the speedometer slows down as the system
 becomes overloaded. The speedometer on Sun Microsystems hardware bounces
@@ -4974,10 +4974,10 @@ S
 **splat**: n.
 
 1. Name used in many places (DEC, IBM, and others) for the asterisk
-(````) character (ASCII 0101010). This may derive from the
+("") character (ASCII 0101010). This may derive from the
 ‘squashed-bug’ appearance of the asterisk on many early line printers.
 
-2. [MIT] Name used by some people for the ``#`` character (ASCII
+2. [MIT] Name used by some people for the "#" character (ASCII
 0100011).
 
 3. The `feature key <../F/feature-key.html>`__ on a Mac (same as
@@ -5340,7 +5340,7 @@ articles intended to disrupt a newsgroup. Typically these have
 reasonable-looking headers but complete gibberish for content, making
 the legitimate articles too difficult to find. This tactic has been most
 notoriously used by the Church of Scientology to disrupt discussion on
-the newsgroup ``alt.religion.scientology``, but is unfortunately not by
+the newsgroup "alt.religion.scientology", but is unfortunately not by
 any means confined to that group.
 
 --------------
@@ -5446,7 +5446,7 @@ S
 
 **squirrelcide**: n.
 
-[common on Usenet's ``comp.risks`` newsgroup.] (alt.: squirrelicide)
+[common on Usenet's "comp.risks" newsgroup.] (alt.: squirrelicide)
 What all too frequently happens when a squirrel decides to exercise its
 species's unfortunate penchant for shorting out power lines with their
 little furry bodies. Result: one dead squirrel, one down computer

@@ -11,7 +11,7 @@ L
 **lag**: n.
 
 [MUD, IRC; very common] When used without qualification this is
-synonymous with `*netlag* <../N/netlag.html>`__. Curiously, people will
+synonymous with `netlag <../N/netlag.html>`__. Curiously, people will
 often complain “I'm really lagged” when in fact it is their server or
 network connection that is lagging.
 
@@ -37,12 +37,12 @@ L
 
 [originally among Amiga fans]
 
-1. Synonym for `*luser* <luser.html>`__, not used much by hackers but
-common among `*warez d00dz* <../W/warez-d00dz.html>`__, crackers, and
-`*phreaker* <../P/phreaker.html>`__\ s. A person who downloads much, but
+1. Synonym for `luser <luser.html>`__, not used much by hackers but
+common among `warez d00dz <../W/warez-d00dz.html>`__, crackers, and
+`phreaker <../P/phreaker.html>`__\ s. A person who downloads much, but
 who never uploads. (Also known as leecher). Oppose
-`*elite* <../E/elite.html>`__. Has the same connotations of
-self-conscious elitism that use of `*luser* <luser.html>`__ does among
+`elite <../E/elite.html>`__. Has the same connotations of
+self-conscious elitism that use of `luser <luser.html>`__ does among
 hackers.
 
 2. Someone who tries to crack a BBS.
@@ -52,10 +52,10 @@ posting lots of silly messages, uploading virus-ridden software,
 frequently dropping carrier, etc.
 
 Crackers also use it to refer to cracker
-`*wannabee* <../W/wannabee.html>`__\ s. In phreak culture, a lamer is
+`wannabee <../W/wannabee.html>`__\ s. In phreak culture, a lamer is
 one who scams codes off others rather than doing cracks or really
-understanding the fundamental concepts. In `*warez
-d00dz* <../W/warez-d00dz.html>`__ culture, where the ability to wave
+understanding the fundamental concepts. In `warez
+d00dz <../W/warez-d00dz.html>`__ culture, where the ability to wave
 around cracked commercial software within days of (or before) release to
 the commercial market is much esteemed, the lamer might try to upload
 garbage or shareware or something incredibly old (old in this context is
@@ -95,8 +95,8 @@ features (both useful and esoteric) applicable to one or more computer
 programming languages. A language lawyer is distinguished by the ability
 to show you the five sentences scattered through a 200-plus-page manual
 that together imply the answer to your question “if only you had thought
-to look there”. Compare `*wizard* <../W/wizard.html>`__,
-`*legal* <legal.html>`__, `*legalese* <legalese.html>`__.
+to look there”. Compare `wizard <../W/wizard.html>`__,
+`legal <legal.html>`__, `legalese <legalese.html>`__.
 
 --------------
 
@@ -118,31 +118,31 @@ L
 
 **languages of choice**: n.
 
-`*C* <../C/C.html>`__, `*Perl* <../P/Perl.html>`__,
-`*Python* <../P/Python.html>`__, `*Java* <../J/Java.html>`__ and
-`*LISP* <LISP.html>`__ — the dominant languages in open-source
+`C <../C/C.html>`__, `Perl <../P/Perl.html>`__,
+`Python <../P/Python.html>`__, `Java <../J/Java.html>`__ and
+`LISP <LISP.html>`__ — the dominant languages in open-source
 development. This list has changed over time, but slowly. Java bumped
 C++ off of it, and Python appears to be recruiting people who would
 otherwise gravitate to LISP (which used to be much more important than
 it is now). Smalltalk and Prolog are also popular in small but
 influential communities.
 
-The `*Real Programmer* <../R/Real-Programmer.html>`__\ s who loved
+The `Real Programmer <../R/Real-Programmer.html>`__\ s who loved
 FORTRAN and assembler have pretty much all retired or died since 1990.
 Assembler is generally no longer considered interesting or appropriate
-for anything but `*HLL* <../H/HLL.html>`__ implementation,
-`*glue* <../G/glue.html>`__, and a few time-critical and
+for anything but `HLL <../H/HLL.html>`__ implementation,
+`glue <../G/glue.html>`__, and a few time-critical and
 hardware-specific uses in systems programs. FORTRAN occupies a shrinking
 niche in scientific programming.
 
 Most hackers tend to frown on languages like
-`*Pascal* <../P/Pascal.html>`__ and Ada, which don't give them the
+`Pascal <../P/Pascal.html>`__ and Ada, which don't give them the
 near-total freedom considered necessary for hacking (see
-`*bondage-and-discipline
-language* <../B/bondage-and-discipline-language.html>`__), and to regard
-everything even remotely connected with `*COBOL* <../C/COBOL.html>`__ or
-other traditional `*DP* <../D/DP.html>`__ languages as a total and
-unmitigated `*loss* <loss.html>`__.
+`bondage-and-discipline
+language <../B/bondage-and-discipline-language.html>`__), and to regard
+everything even remotely connected with `COBOL <../C/COBOL.html>`__ or
+other traditional `DP <../D/DP.html>`__ languages as a total and
+unmitigated `loss <loss.html>`__.
 
 --------------
 
@@ -198,16 +198,16 @@ L
 
 Luser Attitude Readjustment Tool.
 
-1. n. In the collective mythos of `*scary devil
-monastery* <../S/scary-devil-monastery.html>`__, this is an essential
-item in the toolkit of every `*BOFH* <../B/BOFH.html>`__. The LART
+1. n. In the collective mythos of `scary devil
+monastery <../S/scary-devil-monastery.html>`__, this is an essential
+item in the toolkit of every `BOFH <../B/BOFH.html>`__. The LART
 classic is a 2x4 or other large billet of wood usable as a club, to be
 applied upside the head of spammers and other people who cause sysadmins
 more grief than just naturally goes with the job. Perennial debates rage
-on ``alt.sysadmin.recovery`` over what constitutes the truly effective
+on "alt.sysadmin.recovery" over what constitutes the truly effective
 LART; knobkerries, automatic weapons, flamethrowers, and tactical nukes
 all have their partisans. Compare
-`*clue-by-four* <../C/clue-by-four.html>`__.
+`clue-by-four <../C/clue-by-four.html>`__.
 
 2. v. To use a LART. Some would add “in malice”, but some sysadmins do
 prefer to gently lart their users as a first (and sometimes final)
@@ -216,7 +216,7 @@ warning.
 3. interj. Calling for one's LART, much as a surgeon might call
 “Scalpel!”.
 
-4. interj. [rare] Used in `*flame* <../F/flame.html>`__\ s as a rebuke.
+4. interj. [rare] Used in `flame <../F/flame.html>`__\ s as a rebuke.
 “LART! LART! LART!”
 
 --------------
@@ -241,16 +241,16 @@ L
 
 Describes a period of monomaniacal concentration on coding apparently
 passed through by all fledgling hackers. Common symptoms include the
-perpetration of more than one 36-hour `*hacking
-run* <../H/hacking-run.html>`__ in a given week; neglect of all other
+perpetration of more than one 36-hour `hacking
+run <../H/hacking-run.html>`__ in a given week; neglect of all other
 activities including usual basics like food, sleep, and personal
 hygiene; and a chronic case of advanced bleary-eye. Can last from 6
 months to 2 years, the apparent median being around 18 months. A few so
 afflicted never resume a more ‘normal’ life, but the ordeal seems to be
 necessary to produce really wizardly (as opposed to merely competent)
-programmers. See also `*wannabee* <../W/wannabee.html>`__. A less
+programmers. See also `wannabee <../W/wannabee.html>`__. A less
 protracted and intense version of larval stage (typically lasting about
-a month) may recur when one is learning a new `*OS* <../O/OS.html>`__ or
+a month) may recur when one is learning a new `OS <../O/OS.html>`__ or
 programming language.
 
 --------------
@@ -298,7 +298,7 @@ L
 
 Kung Pao Chicken, a standard Chinese dish containing chicken, peanuts,
 and hot red peppers in a spicy pepper-oil sauce. Many hackers call it
-laser chicken for two reasons: It can `*zap* <../Z/zap.html>`__ you just
+laser chicken for two reasons: It can `zap <../Z/zap.html>`__ you just
 like a laser, and the sauce has a red color reminiscent of some laser
 beams. The dish has also been called gunpowder chicken.
 
@@ -332,8 +332,8 @@ L
 merely originated and read Usenet news or mail, and did not relay any
 third-party traffic. It was often uttered in a critical tone; when the
 ratio of leaf sites to backbone, rib, and other relay sites got too
-high, the network tended to develop bottlenecks. Compare `*backbone
-site* <../B/backbone-site.html>`__. Now that traffic patterns depend
+high, the network tended to develop bottlenecks. Compare `backbone
+site <../B/backbone-site.html>`__. Now that traffic patterns depend
 more on the distribution of routers than of host machines this term has
 largely fallen out of use.
 
@@ -360,8 +360,8 @@ L
 With qualifier, one of a class of resource-management bugs that occur
 when resources are not freed properly after operations on them are
 finished, so they effectively disappear (leak out). This leads to
-eventual exhaustion as new allocation requests come in. `*memory
-leak* <../M/memory-leak.html>`__ has its own entry; one might also
+eventual exhaustion as new allocation requests come in. `memory
+leak <../M/memory-leak.html>`__ has its own entry; one might also
 refer, to, say, a window handle leak in a window system.
 
 --------------
@@ -384,8 +384,8 @@ L
 
 **leaky heap**: n.
 
-[Cambridge] An `*arena* <../A/arena.html>`__ with a `*memory
-leak* <../M/memory-leak.html>`__.
+[Cambridge] An `arena <../A/arena.html>`__ with a `memory
+leak <../M/memory-leak.html>`__.
 
 --------------
 
@@ -433,15 +433,15 @@ L
 
 **leech**
 
-1. n. (Also leecher.) Among BBS types, crackers and `*warez
-d00dz* <../W/warez-d00dz.html>`__, one who consumes knowledge without
+1. n. (Also leecher.) Among BBS types, crackers and `warez
+d00dz <../W/warez-d00dz.html>`__, one who consumes knowledge without
 generating new software, cracks, or techniques. BBS culture specifically
 defines a leech as someone who downloads files with few or no uploads in
 return, and who does not contribute to the message section. Cracker
-culture extends this definition to someone (a `*lamer* <lamer.html>`__,
+culture extends this definition to someone (a `lamer <lamer.html>`__,
 usually) who constantly presses informed sources for information and/or
 assistance, but has nothing to contribute. See
-`*troughie* <../T/troughie.html>`__.
+`troughie <../T/troughie.html>`__.
 
 2. v. [common, Toronto area] v. To download a file across any kind of
 internet link. “Hop on IRC later so I can leech some MP3s from you.”
@@ -450,8 +450,8 @@ file requests, to Napster searches (but never to downloading email with
 file attachments; the implication is that the download is the result of
 a browse or search of some sort of file server). Seems to be a holdover
 from the early 1990s when Toronto had a very active BBS and warez scene.
-Synonymous with `*snarf* <../S/snarf.html>`__ (sense 2), and contrast
-`*snarf* <../S/snarf.html>`__ (sense 4).
+Synonymous with `snarf <../S/snarf.html>`__ (sense 2), and contrast
+`snarf <../S/snarf.html>`__ (sense 4).
 
 --------------
 
@@ -476,9 +476,9 @@ L
 [warez d00dz] “Leech mode” or “leech access” or (simply “leech” as in
 “You get leech”) is the access mode on a FTP site where one can download
 as many files as one wants, without having to upload. Leech mode is
-often promised on banner sites, but rarely obtained. See `*ratio
-site* <../R/ratio-site.html>`__, `*banner
-site* <../B/banner-site.html>`__.
+often promised on banner sites, but rarely obtained. See `ratio
+site <../R/ratio-site.html>`__, `banner
+site <../B/banner-site.html>`__.
 
 --------------
 
@@ -502,11 +502,11 @@ L
 
 Dense, pedantic verbiage in a language description, product
 specification, or interface standard; text that seems designed to
-obfuscate and requires a `*language lawyer* <language-lawyer.html>`__ to
-`*parse* <../P/parse.html>`__ it. Though hackers are not afraid of high
+obfuscate and requires a `language lawyer <language-lawyer.html>`__ to
+`parse <../P/parse.html>`__ it. Though hackers are not afraid of high
 information density and complexity in language (indeed, they rather
 enjoy both), they share a deep and abiding loathing for legalese; they
-associate it with deception, `*suit* <../S/suit.html>`__\ s, and
+associate it with deception, `suit <../S/suit.html>`__\ s, and
 situations in which hackers generally get the short end of the stick.
 
 --------------
@@ -538,8 +538,8 @@ played with the environment in which the objective is to maneuver
 through the thicket of ‘natural laws’ to achieve a desired objective.
 Their use of legal is flavored as much by this game-playing sense as by
 the more conventional one having to do with courts and lawyers. Compare
-`*language lawyer* <language-lawyer.html>`__,
-`*legalese* <legalese.html>`__.
+`language lawyer <language-lawyer.html>`__,
+`legalese <legalese.html>`__.
 
 --------------
 
@@ -572,8 +572,8 @@ quarter century of remaining completely unaware that she had become an
 icon, a gray-haired but still winsome Lenna finally met her fans at a
 computer graphics conference in 1997. There is a fan page at
 `www.lenna.org <http://www.lenna.org>`__, with more details. Compare
-`*Utah teapot* <../U/Utah-teapot.html>`__ and `*Stanford
-Bunny* <../S/Stanford-Bunny.html>`__
+`Utah teapot <../U/Utah-teapot.html>`__ and `Stanford
+Bunny <../S/Stanford-Bunny.html>`__
 
 |image0|
 
@@ -604,7 +604,7 @@ n.
 
 1. [TMRC, from ‘Light-Emitting Diode’] A light-emitting resistor (that
 is, one in the process of burning up). Ohm's law was broken. See also
-`*SED* <../S/SED.html>`__.
+`SED <../S/SED.html>`__.
 
 2. An incandescent light bulb (the filament emits light because it's
 resistively heated).
@@ -653,22 +653,22 @@ L
 
 **letterbomb**
 
-1. n. A piece of `*email* <../E/email.html>`__ containing `*live
-data* <live-data.html>`__ intended to do nefarious things to the
+1. n. A piece of `email <../E/email.html>`__ containing `live
+data <live-data.html>`__ intended to do nefarious things to the
 recipient's machine or terminal. It used to be possible, for example, to
 send letterbombs that would lock up some specific kinds of terminals
 when they are viewed, so thoroughly that the user must cycle power (see
-`*cycle* <../C/cycle.html>`__, sense 3) to unwedge them. Under Unix, a
+`cycle <../C/cycle.html>`__, sense 3) to unwedge them. Under Unix, a
 letterbomb can also try to get part of its contents interpreted as a
 shell command to the mailer. The results of this could range from silly
 to tragic; fortunately it has been some years since any of the standard
 Unix/Internet mail software was vulnerable to such an attack (though, as
 the Melissa virus attack demonstrated in early 1999, Microsoft systems
-can have serious problems). See also `*Trojan
-horse* <../T/Trojan-horse.html>`__; compare
-`*nastygram* <../N/nastygram.html>`__.
+can have serious problems). See also `Trojan
+horse <../T/Trojan-horse.html>`__; compare
+`nastygram <../N/nastygram.html>`__.
 
-2. Loosely, a `*mailbomb* <../M/mailbomb.html>`__.
+2. Loosely, a `mailbomb <../M/mailbomb.html>`__.
 
 --------------
 
@@ -690,8 +690,8 @@ L
 
 **let the smoke out**: v.
 
-To fry hardware (see `*fried* <../F/fried.html>`__). See `*magic
-smoke* <../M/magic-smoke.html>`__ for a discussion of the underlying
+To fry hardware (see `fried <../F/fried.html>`__). See `magic
+smoke <../M/magic-smoke.html>`__ for a discussion of the underlying
 mythology.
 
 --------------
@@ -746,7 +746,7 @@ which it could reasonably be played, as it's no fun to simulate the
 cells by hand. Many hackers pass through a stage of fascination with it,
 and hackers at various places contributed heavily to the mathematical
 analysis of this game (most notably Bill Gosper at MIT, who even
-implemented life in `*TECO* <../T/TECO.html>`__!). When a hacker
+implemented life in `TECO <../T/TECO.html>`__!). When a hacker
 mentions ‘life’, he is much more likely to mean this game than the
 magazine, the breakfast cereal, or the human state of existence. Many
 web resources are available starting from the `Open Directory page of
@@ -759,8 +759,8 @@ is a good indicator of what makes the game so fascinating.
 A glider, possibly the best known of the quasi-organic phenomena in the
 Game of Life.
 
-2. The opposite of `*Usenet* <../U/Usenet.html>`__. As in “\ `*Get a
-life!* <../G/Get-a-life-.html>`__\ ”
+2. The opposite of `Usenet <../U/Usenet.html>`__. As in “\ `Get a
+life! <../G/Get-a-life-.html>`__\ ”
 
 --------------
 
@@ -809,7 +809,7 @@ L
 
 **light pipe**: n.
 
-Fiber optic cable. Oppose `*copper* <../C/copper.html>`__.
+Fiber optic cable. Oppose `copper <../C/copper.html>`__.
 
 --------------
 
@@ -831,7 +831,7 @@ L
 
 **lightweight**: adj.
 
-Opposite of `*heavyweight* <../H/heavyweight.html>`__; usually found in
+Opposite of `heavyweight <../H/heavyweight.html>`__; usually found in
 combining forms such as lightweight process.
 
 --------------
@@ -858,7 +858,7 @@ Describes a slow, difficult, and disgusting process. First popularized
 by a famous quote about the difficulty of getting work done under one of
 IBM's mainframe OSes. “Well, you *could* write a C compiler in COBOL,
 but it would be like kicking dead whales down the beach.” See also
-`*fear and loathing* <../F/fear-and-loathing.html>`__.
+`fear and loathing <../F/fear-and-loathing.html>`__.
 
 --------------
 
@@ -942,7 +942,7 @@ L
 
 **linearithmic**: adj.
 
-Of an algorithm, having running time that is ``O(N log    N)``. Coined
+Of an algorithm, having running time that is "O(N log    N)". Coined
 as a portmanteau of ‘linear’ and ‘logarithmic’ in *Algorithms In C* by
 Robert Sedgewick (Addison-Wesley 1990, ISBN 0-201-51425-7).
 
@@ -976,11 +976,11 @@ actually eaten, since the bug was avoided; but if there *was* a space or
 tab before it, then the line eater would eat the food *and* the
 beginning of the text it was supposed to be protecting. The practice of
 sacrificing to the line eater continued for some time after the bug had
-been `*nailed to the wall* <../N/nailed-to-the-wall.html>`__, and is
+been `nailed to the wall <../N/nailed-to-the-wall.html>`__, and is
 still humorously referred to. The bug itself was still occasionally
 reported to be lurking in some mail-to-netnews gateways as late as 1991.
 
-2. See `*NSA line eater* <../N/NSA-line-eater.html>`__.
+2. See `NSA line eater <../N/NSA-line-eater.html>`__.
 
 --------------
 
@@ -1005,7 +1005,7 @@ L
 1. [techspeak] Spurious characters due to electrical noise in a
 communications link, especially an RS-232 serial connection. Line noise
 may be induced by poor connections, interference or crosstalk from other
-circuits, electrical storms, `*cosmic rays* <../C/cosmic-rays.html>`__,
+circuits, electrical storms, `cosmic rays <../C/cosmic-rays.html>`__,
 or (notionally) birds crapping on the phone wires.
 
 2. Any chunk of data in a file or elsewhere that looks like the results
@@ -1014,12 +1014,12 @@ of line noise in sense 1.
 3. Text that is theoretically a readable text or program source but
 employs syntax so bizarre that it looks like line noise in senses 1 or
 2. Yes, there are languages this ugly. The canonical example is
-`*TECO* <../T/TECO.html>`__; it is often claimed that “TECO's input
+`TECO <../T/TECO.html>`__; it is often claimed that “TECO's input
 syntax is indistinguishable from line noise.” Other
-non-`*WYSIWYG* <../W/WYSIWYG.html>`__ editors, such as Multics **qed**
+non-`WYSIWYG <../W/WYSIWYG.html>`__ editors, such as Multics **qed**
 and Unix **ed**, in the hands of a real hacker, also qualify easily, as
 do deliberately obfuscated languages such as
-`*INTERCAL* <../I/INTERCAL.html>`__.
+`INTERCAL <../I/INTERCAL.html>`__.
 
 --------------
 
@@ -1042,11 +1042,11 @@ L
 **link-dead**: adj.
 
 [MUD] The state a player is in when they kill their connection to a
-`*MUD* <../M/MUD.html>`__ without leaving it properly. The player is
+`MUD <../M/MUD.html>`__ without leaving it properly. The player is
 then commonly left as a statue in the game, and is only removed after a
 certain period of time (an hour on most MUDs). Used on
-`*IRC* <../I/IRC.html>`__ as well, although it is inappropriate in that
-context. Compare `*netdead* <../N/netdead.html>`__.
+`IRC <../I/IRC.html>`__ as well, although it is inappropriate in that
+context. Compare `netdead <../N/netdead.html>`__.
 
 --------------
 
@@ -1076,9 +1076,9 @@ freeze the source and then rebuild the FROBOZZ-3 and FROBOZZ-4 link
 farms.” Link farms may also be used to get around restrictions on the
 number of **-I** (include-file directory) arguments on older C
 preprocessors. However, they can also get completely out of hand,
-becoming the filesystem equivalent of `*spaghetti
-code* <../S/spaghetti-code.html>`__. See also
-`*farm* <../F/farm.html>`__.
+becoming the filesystem equivalent of `spaghetti
+code <../S/spaghetti-code.html>`__. See also
+`farm <../F/farm.html>`__.
 
 --------------
 
@@ -1101,7 +1101,7 @@ L
 **link rot**: n.
 
 The natural decay of web links as the sites they're connected to change
-or die. Compare `*bit rot* <../B/bit-rot.html>`__.
+or die. Compare `bit rot <../B/bit-rot.html>`__.
 
 --------------
 
@@ -1123,9 +1123,9 @@ L
 
 **Lintel**: n.
 
-The emerging `*Linux* <Linux.html>`__/Intel alliance. This term began to
+The emerging `Linux <Linux.html>`__/Intel alliance. This term began to
 be used in early 1999 after it became clear that the
-`*Wintel* <../W/Wintel.html>`__ alliance was under increasing strain and
+`Wintel <../W/Wintel.html>`__ alliance was under increasing strain and
 Intel started taking stakes in Linux companies.
 
 --------------
@@ -1157,7 +1157,7 @@ analysis tools, most esp. if the Unix utility lint(1) is used. This term
 used to be restricted to use of lint(1) itself, but (judging by
 references on Usenet) it has become a shorthand for any exhaustive
 review process at some non-Unix shops, even in languages other than C.
-Also as v. `*delint* <../D/delint.html>`__.
+Also as v. `delint <../D/delint.html>`__.
 
 2. n. Excess verbiage in a document, as in “This draft has too much
 lint”.
@@ -1182,9 +1182,9 @@ L
 
 **Linus**: /leen´us/, /lin´us/, /li:´nus/
 
-Linus Torvalds, the author of `*Linux* <Linux.html>`__. Nobody in the
+Linus Torvalds, the author of `Linux <Linux.html>`__. Nobody in the
 hacker culture has been as readily recognized by first name alone since
-`*ken* <../K/ken.html>`__.
+`ken <../K/ken.html>`__.
 
 --------------
 
@@ -1215,7 +1215,7 @@ remarkable hacker project in history — an entire clone of Unix for 386,
 486 and Pentium micros, distributed for free with sources over the net
 (ports to Alpha and Sparc and many other machines are also in use).
 
-Linux is what `*GNU* <../G/GNU.html>`__ aimed to be, and it relies on
+Linux is what `GNU <../G/GNU.html>`__ aimed to be, and it relies on
 the GNU toolset. But the Free Software Foundation didn't produce the
 kernel to go with that toolset until 1999, which was too late. Other,
 similar efforts like FreeBSD and NetBSD have been technically successful
@@ -1227,12 +1227,12 @@ the Internet-server market and over 25% of general business servers.
 An earlier version of this entry opined “The secret of Linux's success
 seems to be that Linus worked much harder early on to keep the
 development process open and recruit other hackers, creating a snowball
-effect.” Truer than we knew. See `*bazaar* <../B/bazaar.html>`__.
+effect.” Truer than we knew. See `bazaar <../B/bazaar.html>`__.
 
 (Some people object that the name ‘Linux’ should be used to refer only
 to the kernel, not the entire operating system. This claim is a proxy
 for an underlying territorial dispute; people who insist on the term
-GNU/Linux want the `*FSF* <../F/FSF.html>`__ to get most of the credit
+GNU/Linux want the `FSF <../F/FSF.html>`__ to get most of the credit
 for Linux because RMS and friends wrote many of its user-level tools.
 Neither this theory nor the term GNU/Linux has gained more than minority
 acceptance).
@@ -1296,7 +1296,7 @@ detailed kernel documentation available to anyone outside Bell Labs.
 Because Western Electric wished to maintain trade secret status on the
 kernel, the Lions Book was only supposed to be distributed to affiliates
 of source licensees. In spite of this, it soon spread by
-`*samizdat* <../S/samizdat.html>`__ to a good many of the early Unix
+`samizdat <../S/samizdat.html>`__ to a good many of the early Unix
 hackers.
 
 [1996 update: The Lions book lives again! It was put back in print as
@@ -1332,13 +1332,13 @@ Irritating Superfluous Parentheses’] AI's mother tongue, a language
 based on the ideas of (a) variable-length lists and trees as fundamental
 data types, and (b) the interpretation of code as data and vice-versa.
 Invented by John McCarthy at MIT in the late 1950s, it is actually older
-than any other `*HLL* <../H/HLL.html>`__ still in use except FORTRAN.
+than any other `HLL <../H/HLL.html>`__ still in use except FORTRAN.
 Accordingly, it has undergone considerable adaptive radiation over the
 years; modern variants are quite different in detail from the original
 LISP 1.5. The dominant HLL among hackers until the early 1980s, LISP has
-since shared the throne with `*C* <../C/C.html>`__. Its partisans claim
-it is the only language that is truly beautiful. See `*languages of
-choice* <languages-of-choice.html>`__.
+since shared the throne with `C <../C/C.html>`__. Its partisans claim
+it is the only language that is truly beautiful. See `languages of
+choice <languages-of-choice.html>`__.
 
 All LISP functions and programs are expressions that return values;
 this, together with the high memory utilization of LISPs, gave rise to
@@ -1346,10 +1346,10 @@ Alan Perlis's famous quip (itself a take on an Oscar Wilde quote) that
 “LISP programmers know the value of everything and the cost of nothing”.
 
 One significant application for LISP has been as a proof by example that
-most newer languages, such as `*COBOL* <../C/COBOL.html>`__ and Ada, are
-full of unnecessary `*crock* <../C/crock.html>`__\ s. When the `*Right
-Thing* <../R/Right-Thing.html>`__ has already been done once, there is
-no justification for `*bogosity* <../B/bogosity.html>`__ in newer
+most newer languages, such as `COBOL <../C/COBOL.html>`__ and Ada, are
+full of unnecessary `crock <../C/crock.html>`__\ s. When the `Right
+Thing <../R/Right-Thing.html>`__ has already been done once, there is
+no justification for `bogosity <../B/bogosity.html>`__ in newer
 languages.
 
 |image0|
@@ -1377,7 +1377,7 @@ L
 
 **list-bomb**: v.
 
-To `*mailbomb* <../M/mailbomb.html>`__ someone by forging messages
+To `mailbomb <../M/mailbomb.html>`__ someone by forging messages
 causing the victim to become a subscriber to many mailing lists. This is
 a self-defeating tactic; it merely forces mailing list servers to
 require confirmation by return message for every subscription.
@@ -1430,12 +1430,12 @@ L
 
 Describes a computer architecture in which, within a given 16- or 32-bit
 word, bytes at lower addresses have lower significance (the word is
-stored ‘little-end-first’). The `*PDP-11* <../P/PDP-11.html>`__ and
-`*VAX* <../V/VAX.html>`__ families of computers and Intel
+stored ‘little-end-first’). The `PDP-11 <../P/PDP-11.html>`__ and
+`VAX <../V/VAX.html>`__ families of computers and Intel
 microprocessors and a lot of communications and networking hardware are
-little-endian. See `*big-endian* <../B/big-endian.html>`__,
-`*middle-endian* <../M/middle-endian.html>`__, `*NUXI
-problem* <../N/NUXI-problem.html>`__. The term is sometimes used to
+little-endian. See `big-endian <../B/big-endian.html>`__,
+`middle-endian <../M/middle-endian.html>`__, `NUXI
+problem <../N/NUXI-problem.html>`__. The term is sometimes used to
 describe the ordering of units other than bytes; most often, bits within
 a byte.
 
@@ -1464,16 +1464,16 @@ when triggered by some un-obvious operation, such as viewing it. One use
 of such hacks is to break security. For example, some smart terminals
 have commands that allow one to download strings to program keys; this
 can be used to write live data that, when listed to the terminal,
-infects it with a security-breaking `*virus* <../V/virus.html>`__ that
+infects it with a security-breaking `virus <../V/virus.html>`__ that
 is triggered the next time a hapless user strikes that key. For another,
-there are some well-known bugs in `*vi* <../V/vi.html>`__ that allow
+there are some well-known bugs in `vi <../V/vi.html>`__ that allow
 certain texts to send arbitrary commands back to the machine when they
 are simply viewed.
 
 2. In C code, data that includes pointers to function
-`*hook* <../H/hook.html>`__\ s (executable code).
+`hook <../H/hook.html>`__\ s (executable code).
 
-3. An object, such as a `*trampoline* <../T/trampoline.html>`__, that is
+3. An object, such as a `trampoline <../T/trampoline.html>`__, that is
 constructed on the fly by a program and intended to be executed as code.
 
 --------------
@@ -1502,12 +1502,12 @@ automobile license plates.
 2. A slogan associated with Unix in the romantic days when Unix
 aficionados saw themselves as a tiny, beleaguered underground tilting
 against the windmills of industry. The “free” referred specifically to
-freedom from the `*fascist* <../F/fascist.html>`__ design philosophies
+freedom from the `fascist <../F/fascist.html>`__ design philosophies
 and crufty misfeatures common on competing operating systems. Armando
 Stettner, one of the early Unix developers, used to give out fake
 license plates bearing this motto under a large Unix, all in New
 Hampshire colors of green and white. These are now valued collector's
-items. In 1994 `*DEC* <../D/DEC.html>`__ put an inferior imitation of
+items. In 1994 `DEC <../D/DEC.html>`__ put an inferior imitation of
 these in circulation with a red corporate logo added. Compaq (half of
 which was once DEC) continued the practice.
 
@@ -1570,7 +1570,7 @@ L
 A situation in which some critical stage of a task is unable to finish
 because its clients perpetually create more work for it to do after they
 have been serviced but before it can clear its queue. Differs from
-`*deadlock* <../D/deadlock.html>`__ in that the process is not blocked
+`deadlock <../D/deadlock.html>`__ in that the process is not blocked
 or waiting for anything, but has a virtually infinite amount of work to
 do and can never catch up.
 
@@ -1594,7 +1594,7 @@ L
 
 **liveware**: /li:v´weir/, n.
 
-1. Synonym for `*wetware* <../W/wetware.html>`__. Less common.
+1. Synonym for `wetware <../W/wetware.html>`__. Less common.
 
 2. [Cambridge] Vermin. “Waiter, there's some liveware in my salad...”
 
@@ -1623,7 +1623,7 @@ undergone. At IBM and elsewhere this term is used by both hackers and
 low-level management; the latter doubtless intend it as a joke.
 
 2. The act of removing the processor from a microcomputer in order to
-replace or upgrade it. Some very cheap `*clone* <../C/clone.html>`__
+replace or upgrade it. Some very cheap `clone <../C/clone.html>`__
 systems are sold in lobotomized form — everything but the brain.
 
 --------------
@@ -1676,7 +1676,7 @@ prepared for firing] Said of a removable disk volume properly prepared
 for use — that is, locked into the drive and with the heads loaded.
 Ironically, because their heads are ‘loaded’ whenever the power is up,
 this description is never used of
-`*Winchester* <../W/Winchester.html>`__ drives (which are named after a
+`Winchester <../W/Winchester.html>`__ drives (which are named after a
 rifle).
 
 --------------
@@ -1699,7 +1699,7 @@ L
 
 **locked up**: adj.
 
-Syn. for `*hung* <../H/hung.html>`__, `*wedged* <../W/wedged.html>`__.
+Syn. for `hung <../H/hung.html>`__, `wedged <../W/wedged.html>`__.
 
 --------------
 
@@ -1726,7 +1726,7 @@ referred to by an arbitrary ‘logical’ name] Having the role of. If a
 person (say, Les Earnest at SAIL) who had long held a certain post left
 and were replaced, the replacement would for a while be known as the
 logical Les Earnest. (This does not imply any judgment on the
-replacement.) Compare `*virtual* <../V/virtual.html>`__.
+replacement.) Compare `virtual <../V/virtual.html>`__.
 
 At Stanford, ‘logical’ compass directions denote a coordinate system
 relative to El Camino Real, in which ‘logical north’ is always toward
@@ -1737,7 +1737,7 @@ everywhere in between. (The best rule of thumb here is that, by
 definition, El Camino Real always runs logical north-south.)
 
 In giving directions, one might say: “To get to Rincon Tarasco
-restaurant, get onto `*El Camino Bignum* <../E/El-Camino-Bignum.html>`__
+restaurant, get onto `El Camino Bignum <../E/El-Camino-Bignum.html>`__
 going logical north.” Using the word ‘logical’ helps to prevent the
 recipient from worrying about that the fact that the sun is setting
 almost directly in front of him. The concept is reinforced by North
@@ -1774,8 +1774,8 @@ L
 
 Code surreptitiously inserted into an application or OS that causes it
 to perform some destructive or security-compromising activity whenever
-specified conditions are met. Compare `*back
-door* <../B/back-door.html>`__.
+specified conditions are met. Compare `back
+door <../B/back-door.html>`__.
 
 --------------
 
@@ -1799,7 +1799,7 @@ L
 
 To process each element of a list of things. “Hold on, I've got to loop
 through my paper mail.” Derives from the computer-language notion of an
-iterative loop; compare cdr down (under `*cdr* <../C/cdr.html>`__),
+iterative loop; compare cdr down (under `cdr <../C/cdr.html>`__),
 which is less common among C and Unix programmers. ITS hackers used to
 say IRP over after an obscure pseudo-op in the MIDAS PDP-10 assembler
 (the same IRP op can nowadays be found in Microsoft's assembler).
@@ -1825,7 +1825,7 @@ L
 **loose bytes**: n.
 
 Commonwealth hackish term for the padding bytes or
-`*shim* <../S/shim.html>`__\ s many compilers insert between members of
+`shim <../S/shim.html>`__\ s many compilers insert between members of
 a record or structure to cope with alignment requirements imposed by the
 machine architecture.
 
@@ -1851,7 +1851,7 @@ L
 
 [primarily British, from Gilbert & Sullivan's ‘lord high executioner’]
 The person in an organization who knows the most about some aspect of a
-system. See `*wizard* <../W/wizard.html>`__.
+system. See `wizard <../W/wizard.html>`__.
 
 --------------
 
@@ -1879,9 +1879,9 @@ exceptional condition or fails to work in the expected manner.
 2. To be exceptionally unesthetic or crocky.
 
 3. Of people, to be obnoxious or unusually stupid (as opposed to
-ignorant). See also `*deserves to lose* <../D/deserves-to-lose.html>`__.
+ignorant). See also `deserves to lose <../D/deserves-to-lose.html>`__.
 
-4. n. Refers to something that is `*losing* <losing.html>`__, especially
+4. n. Refers to something that is `losing <losing.html>`__, especially
 in the phrases “That's a lose!” and “What a lose!”
 
 --------------
@@ -1931,7 +1931,7 @@ An unexpectedly bad situation, program, programmer, or person. Someone
 who habitually loses. (Even winners can lose occasionally.) Someone who
 knows not and knows not that he knows not. Emphatic forms are real
 loser, total loser, and complete loser (but not \*\*moby loser, which
-would be a contradiction in terms). See `*luser* <luser.html>`__.
+would be a contradiction in terms). See `luser <luser.html>`__.
 
 --------------
 
@@ -1953,8 +1953,8 @@ L
 
 **losing**: adj.
 
-Said of anything that is or causes a `*lose* <lose.html>`__ or
-`*lossage* <lossage.html>`__. “The compiler is losing badly when I try
+Said of anything that is or causes a `lose <lose.html>`__ or
+`lossage <lossage.html>`__. “The compiler is losing badly when I try
 to use templates.”
 
 --------------
@@ -1981,7 +1981,7 @@ L
 collective noun. “What a loss!” and “What lossage!” are nearly
 synonymous. The former is slightly more particular to the speaker's
 present circumstances; the latter implies a continuing
-`*lose* <lose.html>`__ of which the speaker is currently a victim. Thus
+`lose <lose.html>`__ of which the speaker is currently a victim. Thus
 (for example) a temporary hardware failure is a loss, but bugs in an
 important tool (like a compiler) are serious lossage.
 
@@ -2011,7 +2011,7 @@ Common interjections are “What a loss!” and “What a moby loss!” Note
 that moby loss is OK even though \*\*moby loser is not used; applied to
 an abstract noun, moby is simply a magnifier, whereas when applied to a
 person it implies substance and has positive connotations. Compare
-`*lossage* <lossage.html>`__.
+`lossage <lossage.html>`__.
 
 --------------
 
@@ -2068,7 +2068,7 @@ L
 
 **lost in the noise**: adj.
 
-Syn. `*lost in the underflow* <lost-in-the-underflow.html>`__. This term
+Syn. `lost in the underflow <lost-in-the-underflow.html>`__. This term
 is from signal processing, where signals of very small amplitude cannot
 be separated from low-intensity noise in the system. Though popular
 among hackers, it is not confined to hackerdom; physicists, engineers,
@@ -2102,9 +2102,9 @@ magnitude. It is also a pun on ‘undertow’ (a kind of fast, cold current
 that sometimes runs just offshore and can be dangerous to swimmers).
 “Well, sure, photon pressure from the stadium lights alters the path of
 a thrown baseball, but that effect gets lost in the underflow.” Compare
-`*epsilon* <../E/epsilon.html>`__, `*epsilon
-squared* <../E/epsilon-squared.html>`__; see also `*overflow
-bit* <../O/overflow-bit.html>`__.
+`epsilon <../E/epsilon.html>`__, `epsilon
+squared <../E/epsilon-squared.html>`__; see also `overflow
+bit <../O/overflow-bit.html>`__.
 
 --------------
 
@@ -2153,12 +2153,12 @@ L
 **low-bandwidth**: adj.
 
 [from communication theory] Used to indicate a talk that, although not
-`*content-free* <../C/content-free.html>`__, was not terribly
+`content-free <../C/content-free.html>`__, was not terribly
 informative. “That was a low-bandwidth talk, but what can you expect for
-an audience of `*suit* <../S/suit.html>`__\ s!” Compare
-`*zero-content* <../Z/zero-content.html>`__,
-`*bandwidth* <../B/bandwidth.html>`__,
-`*math-out* <../M/math-out.html>`__.
+an audience of `suit <../S/suit.html>`__\ s!” Compare
+`zero-content <../Z/zero-content.html>`__,
+`bandwidth <../B/bandwidth.html>`__,
+`math-out <../M/math-out.html>`__.
 
 --------------
 
@@ -2202,14 +2202,14 @@ L
 
 **Lumber Cartel**: n.
 
-A mythical conspiracy accused by `*spam* <../S/spam.html>`__-spewers of
+A mythical conspiracy accused by `spam <../S/spam.html>`__-spewers of
 funding anti-spam activism in order to force the direct-mail promotions
 industry back onto paper. Hackers, predictably, responded by forming a
 “Lumber Cartel” spoofing this paranoid theory; the web page is
 `http://come.to/the.lumber.cartel/ <http://come.to/the.lumber.cartel/>`__.
 Members often include the tag TINLC (“There Is No Lumber Cartel”) in
-their postings; see `*TINC* <../T/TINC.html>`__, `*backbone
-cabal* <../B/backbone-cabal.html>`__ and `*NANA* <../N/NANA.html>`__ for
+their postings; see `TINC <../T/TINC.html>`__, `backbone
+cabal <../B/backbone-cabal.html>`__ and `NANA <../N/NANA.html>`__ for
 explanation.
 
 --------------
@@ -2233,7 +2233,7 @@ L
 **lunatic fringe**: n.
 
 [IBM] Customers who can be relied upon to accept release 1 versions of
-software. Compare `*heatseeker* <../H/heatseeker.html>`__.
+software. Compare `heatseeker <../H/heatseeker.html>`__.
 
 --------------
 
@@ -2260,7 +2260,7 @@ occasionally or not at all but is known to read the group's postings
 regularly. This term is not pejorative and indeed is casually used
 reflexively: “Oh, I'm just lurking.” Often used in the lurkers, the
 hypothetical audience for the group's
-`*flamage* <../F/flamage.html>`__-emitting regulars. When a lurker
+`flamage <../F/flamage.html>`__-emitting regulars. When a lurker
 speaks up for the first time, this is called delurking.
 
 The creator of the popular science-fiction TV series *Babylon 5* has
@@ -2288,9 +2288,9 @@ L
 
 **luser**: /loo´zr/, n.
 
-[common] A `*user* <../U/user.html>`__; esp. one who is also a
-`*loser* <loser.html>`__. (`*luser* <luser.html>`__ and
-`*loser* <loser.html>`__ are pronounced identically.) This word was
+[common] A `user <../U/user.html>`__; esp. one who is also a
+`loser <loser.html>`__. (`luser <luser.html>`__ and
+`loser <loser.html>`__ are pronounced identically.) This word was
 coined around 1975 at MIT. Under ITS, when you first walked up to a
 terminal at MIT and typed Control-Z to get the computer's attention, it
 printed out some status information, including how many people were
@@ -2306,8 +2306,8 @@ it stuck. Later one of the ITS machines supported **luser** as a
 request-for-help command. ITS died the death in mid-1990, except as a
 museum piece; the usage lives on, however, and the term luser is often
 seen in program comments and on Usenet. Compare
-`*mundane* <../M/mundane.html>`__, `*muggle* <../M/muggle.html>`__,
-`*newbie* <../N/newbie.html>`__, `*chainik* <../C/chainik.html>`__.
+`mundane <../M/mundane.html>`__, `muggle <../M/muggle.html>`__,
+`newbie <../N/newbie.html>`__, `chainik <../C/chainik.html>`__.
 
 --------------
 

@@ -83,7 +83,7 @@ of third-party traffic, especially if it is the home site of any of the
 regional coordinators for the Usenet maps. Notable backbone sites as of
 early 1993, when this sense of the term was beginning to pass out of
 general use due to wide availability of cheap Internet connections,
-included ``uunet`` and the mail machines at Rutgers University, UC
+included "uunet" and the mail machines at Rutgers University, UC
 Berkeley, `DEC <../D/DEC.html>`__'s Western Research Laboratories,
 Ohio State University, and the University of Texas. Compare `leaf
 site <../L/leaf-site.html>`__.
@@ -346,7 +346,7 @@ boxes on the residential network, when cracked, oftentimes have their
 homepages replaced (after being politely backed-up to another file) with
 a baggy-pants message; .plan files are also occasionally targeted.
 Usage: “Prof. Greenlee fell asleep in the Solaris cluster again; we
-baggy-pantsed him to ``git.cc.class.2430.flame``.” Compare
+baggy-pantsed him to "git.cc.class.2430.flame".” Compare
 `derf <../D/derf.html>`__.
 
 
@@ -449,15 +449,15 @@ bang
 
 **bang**
 
-1. n. Common spoken name for ``!`` (ASCII 0100001), especially when used
+1. n. Common spoken name for "!" (ASCII 0100001), especially when used
 in pronouncing a `bang path <bang-path.html>`__ in spoken hackish. In
 `elder days <../E/elder-days.html>`__ this was considered a CMUish
 usage, with MIT and Stanford hackers preferring
 `excl <../E/excl.html>`__ or `shriek <../S/shriek.html>`__; but the
 spread of Unix has carried ‘bang’ with it (esp. via the term `bang
 path <bang-path.html>`__) and it is now certainly the most common
-spoken name for ``!``. Note that it is used exclusively for non-emphatic
-written ``!``; one would not say “Congratulations bang” (except possibly
+spoken name for "!". Note that it is used exclusively for non-emphatic
+written "!"; one would not say “Congratulations bang” (except possibly
 for humorous purposes), but if one wanted to specify the exact
 characters “foo!” one would speak “Eff oh oh bang”. See
 `shriek <../S/shriek.html>`__, `ASCII <../A/ASCII.html>`__.
@@ -491,17 +491,17 @@ bang path
 hops to get from some assumed-reachable location to the addressee, so
 called because each `hop <../H/hop.html>`__ is signified by a
 `bang <bang.html>`__ sign. Thus, for example, the path
-``...!bigsite!foovax!barbox!me`` directs people to route their mail to
-machine ``bigsite`` (presumably a well-known location accessible to
-everybody) and from there through the machine ``foovax`` to the account
-of user ``me`` on ``barbox``.
+"...!bigsite!foovax!barbox!me" directs people to route their mail to
+machine "bigsite" (presumably a well-known location accessible to
+everybody) and from there through the machine "foovax" to the account
+of user "me" on "barbox".
 
 In the bad old days of not so long ago, before autorouting mailers and
 Internet became commonplace, people often published compound bang
 addresses using the { } convention (see `glob <../G/glob.html>`__) to
 give paths from *several* big machines, in the hopes that one's
 correspondent might be able to get mail to one of them reliably
-(example: ``...!{seismo, ut-sally,    ihnp4``!rice!beta!gamma!me}). Bang
+(example: "...!{seismo, ut-sally,    ihnp4"!rice!beta!gamma!me}). Bang
 paths of 8 to 10 hops were not uncommon. Late-night dial-up UUCP links
 would cause week-long transmission times. Bang paths were often selected
 by both transmission time and reliability, as messages would not
@@ -1238,9 +1238,9 @@ the Joint Academic Networking Team had decided to do it the other way
 round before the Internet domain standard was established. Most gateway
 sites have `ad-hockery <../A/ad-hockery.html>`__ in their mailers to
 handle this, but can still be confused. In particular, the address
-``me@uk.ac.bris.pys.as`` could be interpreted in JANET's big-endian way
-as one in the U.K. (domain ``uk``) or in the standard little-endian way
-as one in the domain ``as`` (American Samoa) on the opposite side of the
+"me@uk.ac.bris.pys.as" could be interpreted in JANET's big-endian way
+as one in the U.K. (domain "uk") or in the standard little-endian way
+as one in the domain "as" (American Samoa) on the opposite side of the
 world.
 
 big iron
@@ -1275,7 +1275,7 @@ sense 4). See also `El Camino Bignum <../E/El-Camino-Bignum.html>`__.
 
 Sense 1 may require some explanation. Most computer languages provide a
 kind of data called integer, but such computer integers are usually very
-limited in size; usually they must be smaller than ``231``
+limited in size; usually they must be smaller than "231"
 (2,147,483,648). If you want to work with numbers larger than that, you
 have to use floating-point numbers, which are usually accurate to only
 six or seven decimal places. Computer languages that provide bignums can
@@ -1850,7 +1850,7 @@ black hole
 packets) has fallen into if it disappears mysteriously between its
 origin and destination sites (that is, without returning a `bounce
 message <bounce-message.html>`__). “I think there's a black hole at
-``foovax``!” conveys suspicion that site ``foovax`` has been dropping a
+"foovax"!” conveys suspicion that site "foovax" has been dropping a
 lot of stuff on the floor lately (see `drop on the
 floor <../D/drop-on-the-floor.html>`__). The implied metaphor of email
 as interstellar travel is interesting in itself. Readily verbed as
@@ -2045,7 +2045,7 @@ serial port became available; there is some sort of plot symmetry in the
 fact that it was assembled by a German.
 
 Finally, a version updated for the Internet has been seen on
-``news.admin.net-abuse.email``::
+"news.admin.net-abuse.email"::
 
 
                      ACHTUNG! ALLES LOOKENSPEEPERS!
@@ -2587,7 +2587,7 @@ there had to be at least one “Bob” on duty at all times, just in case.
 This sillyness snowballed inexorably. Shift leaders and managers began
 to refer to their groups of “bobs”. Whole ranks of support machines were
 set up (and still exist in the DNS as of 1999) as bob1 through bobN.
-Then came ``alt.tech-support.recovery``, and it was filled with Demon
+Then came "alt.tech-support.recovery", and it was filled with Demon
 support personnel. They all referred to themselves, and to others, as
 “bob”, and after a while it caught on. There is now a `Bob
 Code <http://bob.bob.bofh.org/~giolla/bobcode.html>`__ describing the
@@ -2616,8 +2616,8 @@ with absolutely no tolerance for `luser <../L/luser.html>`__\ s. “You
 say you need more filespace? <massive-global-delete> Seems to me you
 have plenty left...” Many BOFHs (and others who would be BOFHs if they
 could get away with it) hang out in the newsgroup
-``alt.sysadmin.recovery``, although there has also been created a
-top-level newsgroup hierarchy (``bofh.*``) of their own.
+"alt.sysadmin.recovery", although there has also been created a
+top-level newsgroup hierarchy ("bofh.*") of their own.
 
 Several people have written stories about BOFHs. The set usually
 considered canonical is by Simon Travaglia and may be found at the
@@ -3638,7 +3638,7 @@ broket
 **broket**: /broh´k@t/, /broh´ket\`/, n.
 
 [rare; by analogy with ‘bracket’: a ‘broken bracket’] Either of the
-characters ``<`` and ``>``, when used as paired enclosing delimiters.
+characters "<" and ">", when used as paired enclosing delimiters.
 This word originated as a contraction of the phrase ‘broken bracket’,
 that is, a bracket that is bent in the middle. (At MIT, and apparently
 in the `Real World <../R/Real-World.html>`__ as well, these are
@@ -3653,10 +3653,10 @@ Brooks's Law
 
 “Adding manpower to a late software project makes it later” — a result
 of the fact that the expected advantage from splitting development work
-among ``N`` programmers is ``O(N)`` (that is, proportional to ``N``),
+among "N" programmers is "O(N)" (that is, proportional to "N"),
 but the complexity and communications cost associated with coordinating
-and then merging their work is ``O(N^2)`` (that is, proportional to the
-square of ``N``). The quote is from Fred Brooks, a manager of IBM's
+and then merging their work is "O(N^2)" (that is, proportional to the
+square of "N"). The quote is from Fred Brooks, a manager of IBM's
 OS/360 project and author of *The Mythical Man-Month* (Addison-Wesley,
 1975, ISBN 0-201-00650-2), an excellent early book on software
 engineering. The myth in question has been most tersely expressed as
@@ -3740,16 +3740,16 @@ repetition and devoid of any elegance or useful abstraction (see also
 The `canonical <../C/canonical.html>`__ example of a brute-force
 algorithm is associated with the ‘traveling salesman problem’ (TSP), a
 classical `NP- <../N/NP-.html>`__\ hard problem: Suppose a person is
-in, say, Boston, and wishes to drive to ``N`` other cities. In what
+in, say, Boston, and wishes to drive to "N" other cities. In what
 order should the cities be visited in order to minimize the distance
 travelled? The brute-force method is to simply generate all possible
 routes and compare the distances; while guaranteed to work and simple to
 implement, this algorithm is clearly very stupid in that it considers
 even obviously absurd routes (like going from Boston to Houston via San
-Francisco and New York, in that order). For very small ``N`` it works
-well, but it rapidly becomes absurdly inefficient when ``N`` increases
-(for ``N =    15``, there are already 1,307,674,368,000 possible routes
-to consider, and for ``N = 1000`` — well, see
+Francisco and New York, in that order). For very small "N" it works
+well, but it rapidly becomes absurdly inefficient when "N" increases
+(for "N =    15", there are already 1,307,674,368,000 possible routes
+to consider, and for "N = 1000" — well, see
 `bignum <bignum.html>`__). Sometimes, unfortunately, there is no
 better general solution than brute force. See also
 `NP- <../N/NP-.html>`__ and `rubber-hose
@@ -3814,7 +3814,7 @@ BUAF
 
 **BUAF**: //, n.
 
-[abbreviation, from ``alt.fan.warlord``] Big Ugly ASCII Font — a special
+[abbreviation, from "alt.fan.warlord"] Big Ugly ASCII Font — a special
 form of `ASCII art <../A/ASCII-art.html>`__. Various programs exist
 for rendering text strings into block, bloob, and pseudo-script fonts in
 cells between four and six character cells on a side; this is smaller
@@ -3828,7 +3828,7 @@ BUAG
 
 **BUAG**: //, n.
 
-[abbreviation, from ``alt.fan.warlord``] Big Ugly ASCII Graphic.
+[abbreviation, from "alt.fan.warlord"] Big Ugly ASCII Graphic.
 Pejorative term for ugly `ASCII art <../A/ASCII-art.html>`__,
 especially as found in `sig block <../S/sig-block.html>`__\ s. For
 some reason, mutations of the head of Bart Simpson are particularly

@@ -13,9 +13,9 @@ S. Quarterman (Addison-Wesley Publishers, 1989, ISBN 0-201-06196-1); or
 Marshall Kirk McKusick, Keith Bostic, Michael J. Karels and John S.
 Quarterman (Addison-Wesley Longman, 1996, ISBN 0-201-54979-4) Either of
 the standard reference books on the internals of
-`*BSD* <../B/BSD.html>`__ Unix. So called because the covers have a
+`BSD <../B/BSD.html>`__ Unix. So called because the covers have a
 picture depicting a little demon (a visual play on
-`*daemon* <daemon.html>`__) in sneakers, holding a pitchfork (referring
+`daemon <daemon.html>`__) in sneakers, holding a pitchfork (referring
 to one of the characteristic features of Unix, the fork(2) system call).
 
 --------------
@@ -37,7 +37,7 @@ dormant waiting for some condition(s) to occur. The idea is that the
 perpetrator of the condition need not be aware that a daemon is lurking
 (though often a program will commit an action only because it knows that
 it will implicitly invoke a daemon). For example, under
-`*ITS* <../I/ITS.html>`__, writing a file on the LPT spooler's directory
+`ITS <../I/ITS.html>`__, writing a file on the LPT spooler's directory
 would invoke the spooling daemon, which would then print the file. The
 advantage is that programs wanting (in this example) files printed need
 neither compete for access to nor understand any idiosyncrasies of the
@@ -45,11 +45,11 @@ LPT. They simply enter their implicit requests and let the daemon decide
 what to do with them. Daemons are usually spawned automatically by the
 system, and may either live forever or be regenerated at intervals.
 
-Daemon and `*demon* <demon.html>`__ are often used interchangeably, but
+Daemon and `demon <demon.html>`__ are often used interchangeably, but
 seem to have distinct connotations. The term daemon was introduced to
-computing by `*CTSS* <../C/CTSS.html>`__ people (who pronounced it
+computing by `CTSS <../C/CTSS.html>`__ people (who pronounced it
 /dee´mon/) and used it to refer to what ITS called a
-`*dragon* <dragon.html>`__; the prototype was a program called DAEMON
+`dragon <dragon.html>`__; the prototype was a program called DAEMON
 that automatically made tape backups of the file system. Although the
 meaning and the pronunciation have drifted, we think this glossary
 reflects current (2003) usage.
@@ -60,13 +60,13 @@ dahmum
 
 **dahmum**: /dah´mum/, n.
 
-[Usenet] The material of which protracted `*flame
-war* <../F/flame-war.html>`__\ s, especially those about operating
-systems, is composed. Homeomorphic to `*spam* <../S/spam.html>`__. The
+[Usenet] The material of which protracted `flame
+war <../F/flame-war.html>`__\ s, especially those about operating
+systems, is composed. Homeomorphic to `spam <../S/spam.html>`__. The
 term dahmum is derived from the name of a militant
-`*OS/2* <../O/OS-2.html>`__ advocate, and originated when an extensively
-cross-posted OS/2-versus-`*Linux* <../L/Linux.html>`__ debate was fed
-through `*Dissociated Press* <Dissociated-Press.html>`__.
+`OS/2 <../O/OS-2.html>`__ advocate, and originated when an extensively
+cross-posted OS/2-versus-`Linux <../L/Linux.html>`__ debate was fed
+through `Dissociated Press <Dissociated-Press.html>`__.
 
 
 dancing frog
@@ -102,11 +102,11 @@ dark-side hacker
 
 **dark-side hacker**: n.
 
-A criminal or malicious hacker; a `*cracker* <../C/cracker.html>`__.
+A criminal or malicious hacker; a `cracker <../C/cracker.html>`__.
 From George Lucas's Darth Vader, “seduced by the dark side of the
 Force”. The implication that hackers form a sort of elite of
 technological Jedi Knights is intended. Oppose
-`*samurai* <../S/samurai.html>`__.
+`samurai <../S/samurai.html>`__.
 
 
 Datamation
@@ -114,13 +114,13 @@ Datamation
 
 **Datamation**: /day\`t@·may´sh@n/, n.
 
-A magazine that many hackers assume all `*suit* <../S/suit.html>`__\ s
+A magazine that many hackers assume all `suit <../S/suit.html>`__\ s
 read. Used to question an unbelieved quote, as in “Did you read that in
 *Datamation?*\ ”. It used to publish something hackishly funny every
-once in a while, like the original paper on `*COME
-FROM* <../C/COME-FROM.html>`__ in 1973, and Ed Post's *Real Programmers
+once in a while, like the original paper on `COME
+FROM <../C/COME-FROM.html>`__ in 1973, and Ed Post's *Real Programmers
 Don't Use Pascal* ten years later, but for a long time after that it was
-much more exclusively `*suit* <../S/suit.html>`__-oriented and boring.
+much more exclusively `suit <../S/suit.html>`__-oriented and boring.
 Following a change of editorship in 1994, Datamation briefly tried for
 more the technical content and irreverent humor that marked its early
 days, but this did not last.
@@ -136,9 +136,9 @@ DAU
 Anzunehmender Unfall, worst assumable accident, esp. of a LNG tank farm
 plant or something with similarly disastrous consequences. In popular
 German, GAU is used only to refer to worst-case nuclear accidents such
-as a core meltdown. See `*cretin* <../C/cretin.html>`__,
-`*fool* <../F/fool.html>`__, `*loser* <../L/loser.html>`__ and
-`*weasel* <../W/weasel.html>`__.
+as a core meltdown. See `cretin <../C/cretin.html>`__,
+`fool <../F/fool.html>`__, `loser <../L/loser.html>`__ and
+`weasel <../W/weasel.html>`__.
 
 
 Dave the Resurrector
@@ -146,18 +146,18 @@ Dave the Resurrector
 
 **Dave the Resurrector**: n.
 
-[Usenet; also abbreviated DtR] A `*cancelbot* <../C/cancelbot.html>`__
+[Usenet; also abbreviated DtR] A `cancelbot <../C/cancelbot.html>`__
 that cancels cancels. Dave the Resurrector originated when some
-`*spam* <../S/spam.html>`__-spewers decided to try to impede
+`spam <../S/spam.html>`__-spewers decided to try to impede
 spam-fighting by wholesale cancellation of anti-spam coordination
-messages in the ``news.admin.net-abuse.usenet`` newsgroup.
+messages in the "news.admin.net-abuse.usenet" newsgroup.
 
 day mode
 ====================
 
 **day mode**: n.
 
-See `*phase* <../P/phase.html>`__ (sense 1). Used of people only.
+See `phase <../P/phase.html>`__ (sense 1). Used of people only.
 
 
 
@@ -166,8 +166,8 @@ dd
 
 **dd**: /dee·dee/, vt.
 
-[Unix: from IBM `*JCL* <../J/JCL.html>`__] Equivalent to
-`*cat* <../C/cat.html>`__ or `*BLT* <../B/BLT.html>`__. Originally the
+[Unix: from IBM `JCL <../J/JCL.html>`__] Equivalent to
+`cat <../C/cat.html>`__ or `BLT <../B/BLT.html>`__. Originally the
 name of a Unix copy command with special options suitable for
 block-oriented devices; it was often used in heavy-handed system
 maintenance, as in “Let's **dd** the root partition onto a tape, then
@@ -177,9 +177,9 @@ reminiscent of IBM System/360 JCL (which had an elaborate DD ‘Dataset
 Definition’ specification for I/O devices); though the command filled a
 need, the interface design was clearly a prank. The jargon usage is now
 very rare outside Unix sites and now nearly obsolete even there, as
-dd(1) has been `*deprecated* <deprecated.html>`__ for a long time
+dd(1) has been `deprecated <deprecated.html>`__ for a long time
 (though it has no exact replacement). The term has been displaced by
-`*BLT* <../B/BLT.html>`__ or simple English ‘copy’.
+`BLT <../B/BLT.html>`__ or simple English ‘copy’.
 
 DDT
 ==========
@@ -194,13 +194,13 @@ and letting the user change them. In this sense the term DDT is now
 archaic, having been widely displaced by debugger or names of individual
 programs like **adb**, **sdb**, **dbx**, or **gdb**.
 
-2. [ITS] Under MIT's fabled `*ITS* <../I/ITS.html>`__ operating system,
+2. [ITS] Under MIT's fabled `ITS <../I/ITS.html>`__ operating system,
 DDT (running under the alias HACTRN, a six-letterism for ‘Hack
-Translator’) was also used as the `*shell* <../S/shell.html>`__ or top
+Translator’) was also used as the `shell <../S/shell.html>`__ or top
 level command language used to execute other programs.
 
 3. Any one of several specific DDTs (sense 1) supported on early
-`*DEC* <DEC.html>`__ hardware and CP/M. The PDP-10 Reference Handbook
+`DEC <DEC.html>`__ hardware and CP/M. The PDP-10 Reference Handbook
 (1969) contained a footnote on the first page of the documentation for
 DDT that illuminates the origin of the term:
 
@@ -219,11 +219,11 @@ DDT that illuminates the origin of the term:
 
 (The ‘tape’ referred to was, incidentally, not magnetic but paper.)
 Sadly, this quotation was removed from later editions of the handbook
-after the `*suit* <../S/suit.html>`__\ s took over and
-`*DEC* <DEC.html>`__ became much more ‘businesslike’.
+after the `suit <../S/suit.html>`__\ s took over and
+`DEC <DEC.html>`__ became much more ‘businesslike’.
 
 The history above is known to many old-time hackers. But there's more:
-Peter Samson, compiler of the original `*TMRC* <../T/TMRC.html>`__
+Peter Samson, compiler of the original `TMRC <../T/TMRC.html>`__
 lexicon, reports that he named DDT after a similar tool on the TX-0
 computer, the direct ancestor of the PDP-1 built at MIT's Lincoln Lab in
 1957. The debugger on that ground-breaking machine (the first
@@ -243,7 +243,7 @@ making it possible to spoof a user's identity if recipients aren't
 careful about verifying keys). In PGP and GPG the key ID is the last
 eight hex digits of (for RSA keys) the product of two primes. The attack
 was demonstrated by creating a key whose ID was 0xdeadbeef (see
-`*DEADBEEF* <DEADBEEF.html>`__).
+`DEADBEEF <DEADBEEF.html>`__).
 
 DEADBEEF
 ===============
@@ -253,12 +253,12 @@ DEADBEEF
 The hexadecimal word-fill pattern for freshly allocated memory under a
 number of IBM environments, including the RS/6000. Some modern debugging
 tools deliberately fill freed memory with this value as a way of
-converting `*heisenbug* <../H/heisenbug.html>`__\ s into `*Bohr
-bug* <../B/Bohr-bug.html>`__\ s. As in “Your program is DEADBEEF”
+converting `heisenbug <../H/heisenbug.html>`__\ s into `Bohr
+bug <../B/Bohr-bug.html>`__\ s. As in “Your program is DEADBEEF”
 (meaning gone, aborted, flushed from memory); if you start from an odd
 half-word boundary, of course, you have BEEFDEAD. See also the anecdote
-under `*fool* <../F/fool.html>`__ and `*dead beef
-attack* <dead-beef-attack.html>`__.
+under `fool <../F/fool.html>`__ and `dead beef
+attack <dead-beef-attack.html>`__.
 
 
 dead code
@@ -271,13 +271,13 @@ removed, or code that cannot be reached because it is guarded by a
 control structure that provably must always transfer control somewhere
 else. The presence of dead code may reveal either logical errors due to
 alterations in the program or significant changes in the assumptions and
-environment of the program (see also `*software
-rot* <../S/software-rot.html>`__); a good compiler should report dead
+environment of the program (see also `software
+rot <../S/software-rot.html>`__); a good compiler should report dead
 code so a maintainer can think about what it means. (Sometimes it simply
-means that an *extremely* defensive programmer has inserted `*can't
-happen* <../C/can-t-happen.html>`__ tests which really can't happen —
-yet.) Syn. `*grunge* <../G/grunge.html>`__. See also
-`*dead* <dead.html>`__, and `The Story of
+means that an *extremely* defensive programmer has inserted `can't
+happen <../C/can-t-happen.html>`__ tests which really can't happen —
+yet.) Syn. `grunge <../G/grunge.html>`__. See also
+`dead <dead.html>`__, and `The Story of
 Mel' <../story-of-mel.html>`__.
 
 
@@ -286,14 +286,14 @@ dead
 
 **dead**: adj.
 
-1. Non-functional; `*down* <down.html>`__;
-`*crash* <../C/crash.html>`__\ ed. Especially used of hardware.
+1. Non-functional; `down <down.html>`__;
+`crash <../C/crash.html>`__\ ed. Especially used of hardware.
 
 2. At XEROX PARC, software that is working but not undergoing continued
 development and support.
 
-3. Useless; inaccessible. Antonym: live. Compare `*dead
-code* <dead-code.html>`__.
+3. Useless; inaccessible. Antonym: live. Compare `dead
+code <dead-code.html>`__.
 
 
 deadlock
@@ -312,8 +312,8 @@ deadlock, though the term starvation is more properly used for
 situations where a program can never run simply because it never gets
 high enough priority. Another common flavor is constipation, in which
 each process is trying to send stuff to the other but all buffers are
-full because nobody is reading anything.) See `*deadly
-embrace* <deadly-embrace.html>`__.
+full because nobody is reading anything.) See `deadly
+embrace <deadly-embrace.html>`__.
 
 2. Also used of deadlock-like interactions between humans, as when two
 people meet in a narrow corridor, and each tries to be polite by moving
@@ -328,9 +328,9 @@ deadly embrace
 
 **deadly embrace**: n.
 
-Same as `*deadlock* <deadlock.html>`__, though usually used only when
+Same as `deadlock <deadlock.html>`__, though usually used only when
 exactly two processes are involved. This is the more popular term in
-Europe, while `*deadlock* <deadlock.html>`__ predominates in the United
+Europe, while `deadlock <deadlock.html>`__ predominates in the United
 States.
 
 
@@ -341,7 +341,7 @@ dead-tree version
 
 [common] A paper version of an on-line document; one printed on dead
 trees. In this context, “dead trees” always refers to paper. See also
-`*tree-killer* <../T/tree-killer.html>`__.
+`tree-killer <../T/tree-killer.html>`__.
 
 
 death code
@@ -351,8 +351,8 @@ death code
 
 A routine whose job is to set everything in the computer — registers,
 memory, flags, everything — to zero, including that portion of memory
-where it is running; its last act is to `*stomp
-on* <../S/stomp-on.html>`__ its own “store zero” instruction. Death code
+where it is running; its last act is to `stomp
+on <../S/stomp-on.html>`__ its own “store zero” instruction. Death code
 isn't very useful, but writing it is an interesting hacking challenge on
 architectures where the instruction set makes it possible, such as the
 PDP-8 (it has also been done on the DG Nova).
@@ -371,7 +371,7 @@ Death Square
 
 The corporate logo of Novell, the people who acquired USL after AT&T let
 go of it (Novell eventually sold the Unix group to SCO). Coined by
-analogy with `*Death Star* <Death-Star.html>`__, because many people
+analogy with `Death Star <Death-Star.html>`__, because many people
 believed Novell was bungling the lead in Unix systems exactly as AT&T
 did for many years.
 
@@ -388,7 +388,7 @@ Death Star
 
 1. The AT&T corporate logo, which bears an uncanny resemblance to the
 Death Star in the Star Wars movies. This usage was particularly common
-among partisans of `*BSD* <../B/BSD.html>`__ Unix in the 1980s, who
+among partisans of `BSD <../B/BSD.html>`__ Unix in the 1980s, who
 tended to regard the AT&T versions as inferior and AT&T as a bad guy.
 Copies still circulate of a poster printed by Mt. Xinu showing a
 starscape with a space fighter labeled 4.2 BSD streaking away from a
@@ -413,12 +413,12 @@ SF fans have been using the suffix “of Death” ever since to label things
 which appear to be vastly threatening but will actually pop like a
 balloon if you prick them. Such constructions are properly spoken in a
 tone of over-exagerrated portentiousness: “Behold! The Spinning - Pizza
-- of - *Death*!” See `*Blue Screen of
-Death* <../B/Blue-Screen-of-Death.html>`__, `*Ping O'
-Death* <../P/Ping-O--Death.html>`__, `*Spinning Pizza of
-Death* <../S/Spinning-Pizza-of-Death.html>`__, `*click of
-death* <../C/click-of-death.html>`__. Compare `*Doom, X
-of* <Doom--X-of.html>`__.
+- of - *Death*!” See `Blue Screen of
+Death <../B/Blue-Screen-of-Death.html>`__, `Ping O'
+Death <../P/Ping-O--Death.html>`__, `Spinning Pizza of
+Death <../S/Spinning-Pizza-of-Death.html>`__, `click of
+death <../C/click-of-death.html>`__. Compare `Doom, X
+of <Doom--X-of.html>`__.
 
 
 decay
@@ -427,7 +427,7 @@ decay
 **decay**: n.,vi
 
 [from nuclear physics] An automatic conversion which is applied to most
-array-valued expressions in `*C* <../C/C.html>`__; they ‘decay into’
+array-valued expressions in `C <../C/C.html>`__; they ‘decay into’
 pointer-valued expressions pointing to the array's first element. This
 term is borderline techspeak, but is not used in the official standard
 for the language.
@@ -441,21 +441,21 @@ DEC
 
 n. Commonly used abbreviation for Digital Equipment Corporation, later
 deprecated by DEC itself in favor of “Digital” and now entirely obsolete
-following the buyout by Compaq. Before the `*killer
-micro* <../K/killer-micro.html>`__ revolution of the late 1980s,
+following the buyout by Compaq. Before the `killer
+micro <../K/killer-micro.html>`__ revolution of the late 1980s,
 hackerdom was closely symbiotic with DEC's pioneering timesharing
 machines. The first of the group of cultures described by this lexicon
-nucleated around the PDP-1 (see `*TMRC* <../T/TMRC.html>`__).
-Subsequently, the PDP-6, `*PDP-10* <../P/PDP-10.html>`__,
-`*PDP-20* <../P/PDP-20.html>`__, `*PDP-11* <../P/PDP-11.html>`__ and
-`*VAX* <../V/VAX.html>`__ were all foci of large and important
+nucleated around the PDP-1 (see `TMRC <../T/TMRC.html>`__).
+Subsequently, the PDP-6, `PDP-10 <../P/PDP-10.html>`__,
+`PDP-20 <../P/PDP-20.html>`__, `PDP-11 <../P/PDP-11.html>`__ and
+`VAX <../V/VAX.html>`__ were all foci of large and important
 hackerdoms, and DEC machines long dominated the ARPANET and Internet
 machine population. DEC was the technological leader of the minicomputer
 era (roughly 1967 to 1987), but its failure to embrace microcomputers
 and Unix early cost it heavily in profits and prestige after
-`*silicon* <../S/silicon.html>`__ got cheap. Nevertheless, the
+`silicon <../S/silicon.html>`__ got cheap. Nevertheless, the
 microprocessor design tradition owes a major debt to the
-`*PDP-11* <../P/PDP-11.html>`__ instruction set, and every one of the
+`PDP-11 <../P/PDP-11.html>`__ instruction set, and every one of the
 major general-purpose microcomputer OSs so far (CP/M, MS-DOS, Unix,
 OS/2, Windows NT) was either genetically descended from a DEC OS, or
 incubated on DEC hardware, or both. Accordingly, DEC was for many years
@@ -468,18 +468,18 @@ deckle
 
 **deckle**: /dek´l/, n.
 
-[from dec- and `*nybble* <../N/nybble.html>`__; the original spelling
-seems to have been decle] Two `*nickle* <../N/nickle.html>`__\ s; 10
+[from dec- and `nybble <../N/nybble.html>`__; the original spelling
+seems to have been decle] Two `nickle <../N/nickle.html>`__\ s; 10
 bits. Reported among developers for Mattel's GI 1600 (the Intellivision
 games processor), a chip with 16-bit-wide RAM but 10-bit-wide ROM. See
-`*nybble* <../N/nybble.html>`__ for other such terms.
+`nybble <../N/nybble.html>`__ for other such terms.
 
 DEC Wars
 ===================
 
 **DEC Wars**: n.
 
-A 1983 `*Usenet* <../U/Usenet.html>`__ posting by Alan Hastings and
+A 1983 `Usenet <../U/Usenet.html>`__ posting by Alan Hastings and
 Steve Tarr spoofing the *Star Wars* movies in hackish terms. Some years
 later, ESR (disappointed by Hastings and Tarr's failure to exploit a
 great premise more thoroughly) posted a 3-times-longer complete rewrite
@@ -492,10 +492,10 @@ DED
 **DED**: /D·E·D/, n.
 
 Dark-Emitting Diode (that is, a burned-out LED). Compare
-`*SED* <../S/SED.html>`__, `*LER* <../L/LER.html>`__, `*write-only
-memory* <../W/write-only-memory.html>`__. In the early 1970s both
+`SED <../S/SED.html>`__, `LER <../L/LER.html>`__, `write-only
+memory <../W/write-only-memory.html>`__. In the early 1970s both
 Signetics and Texas instruments released DED spec sheets as
-`*AFJ* <../A/AFJ.html>`__\ s (suggested uses included “as a power-off
+`AFJ <../A/AFJ.html>`__\ s (suggested uses included “as a power-off
 indicator”).
 
 
@@ -504,7 +504,7 @@ deep hack mode
 
 **deep hack mode**: n.
 
-See `*hack mode* <../H/hack-mode.html>`__.
+See `hack mode <../H/hack-mode.html>`__.
 
 deep magic
 =================
@@ -513,15 +513,15 @@ deep magic
 
 [poss. from C. S. Lewis's *Narnia* books] An awesomely arcane technique
 central to a program or system, esp. one neither generally published nor
-available to hackers at large (compare `*black
-art* <../B/black-art.html>`__); one that could only have been composed
-by a true `*wizard* <../W/wizard.html>`__. Compiler optimization
-techniques and many aspects of `*OS* <../O/OS.html>`__ design used to be
-`*deep magic* <deep-magic.html>`__; many techniques in cryptography,
-signal processing, graphics, and AI still are. Compare `*heavy
-wizardry* <../H/heavy-wizardry.html>`__. Esp.: found in comments of the
-form “Deep magic begins here...”. Compare `*voodoo
-programming* <../V/voodoo-programming.html>`__.
+available to hackers at large (compare `black
+art <../B/black-art.html>`__); one that could only have been composed
+by a true `wizard <../W/wizard.html>`__. Compiler optimization
+techniques and many aspects of `OS <../O/OS.html>`__ design used to be
+`deep magic <deep-magic.html>`__; many techniques in cryptography,
+signal processing, graphics, and AI still are. Compare `heavy
+wizardry <../H/heavy-wizardry.html>`__. Esp.: found in comments of the
+form “Deep magic begins here...”. Compare `voodoo
+programming <../V/voodoo-programming.html>`__.
 
 
 
@@ -530,18 +530,18 @@ deep space
 
 **deep space**: n.
 
-1. Describes the notional location of any program that has gone `*off
-the trolley* <../O/off-the-trolley.html>`__. Esp.: used of programs that
+1. Describes the notional location of any program that has gone `off
+the trolley <../O/off-the-trolley.html>`__. Esp.: used of programs that
 just sit there silently grinding long after either failure or some
 output is expected. “Uh oh. I should have gotten a prompt ten seconds
 ago. The program's in deep space somewhere.” Compare
-`*buzz* <../B/buzz.html>`__, `*catatonic* <../C/catatonic.html>`__,
-`*hyperspace* <../H/hyperspace.html>`__.
+`buzz <../B/buzz.html>`__, `catatonic <../C/catatonic.html>`__,
+`hyperspace <../H/hyperspace.html>`__.
 
 2. The metaphorical location of a human so dazed and/or confused or
-caught up in some esoteric form of `*bogosity* <../B/bogosity.html>`__
+caught up in some esoteric form of `bogosity <../B/bogosity.html>`__
 that he or she no longer responds coherently to normal communication.
-Compare `*page out* <../P/page-out.html>`__.
+Compare `page out <../P/page-out.html>`__.
 
 
 
@@ -579,7 +579,7 @@ defined as
 
 In the role of, usually in an organization-chart sense. “Pete is
 currently defined as bug prioritizer.” Compare
-`*logical* <../L/logical.html>`__.
+`logical <../L/logical.html>`__.
 
 
 
@@ -606,7 +606,7 @@ dehose
 
 **dehose**: /dee·hohz/, vt.
 
-To clear a `*hosed* <../H/hosed.html>`__ condition.
+To clear a `hosed <../H/hosed.html>`__ condition.
 
 
 
@@ -677,7 +677,7 @@ D
 **delint**: /dee·lint/, v. obs.
 
 To modify code to remove problems detected when
-`*lint* <../L/lint.html>`__\ ing. Confusingly, this process is also
+`lint <../L/lint.html>`__\ ing. Confusingly, this process is also
 referred to as linting code. This term is no longer in general use
 because ANSI C compilers typically issue compile-time warnings almost as
 detailed as lint warnings.
@@ -708,19 +708,19 @@ the speed of my program!” “What was the delta on program size?” “About
 30 percent.” (He doubled the speed of his program, but increased its
 size by only 30 percent.)
 
-2. [Unix] A `*diff* <diff.html>`__, especially a `*diff* <diff.html>`__
+2. [Unix] A `diff <diff.html>`__, especially a `diff <diff.html>`__
 stored under the set of version-control tools called SCCS (Source Code
 Control System) or RCS (Revision Control System).
 
 3. n. A small quantity, but not as small as
-`*epsilon* <../E/epsilon.html>`__. The jargon usage of
-`*delta* <delta.html>`__ and `*epsilon* <../E/epsilon.html>`__ stems
+`epsilon <../E/epsilon.html>`__. The jargon usage of
+`delta <delta.html>`__ and `epsilon <../E/epsilon.html>`__ stems
 from the traditional use of these letters in mathematics for very small
 numerical quantities, particularly in ‘epsilon-delta’ proofs in limit
 theory (as in the differential calculus). The term
-`*delta* <delta.html>`__ is often used, once
-`*epsilon* <../E/epsilon.html>`__ has been mentioned, to mean a quantity
-that is slightly bigger than `*epsilon* <../E/epsilon.html>`__ but still
+`delta <delta.html>`__ is often used, once
+`epsilon <../E/epsilon.html>`__ has been mentioned, to mean a quantity
+that is slightly bigger than `epsilon <../E/epsilon.html>`__ but still
 very small. “The cost isn't epsilon, but it's delta” means that the cost
 isn't totally negligible, but it is nevertheless very small. Common
 constructions include within delta of —, within epsilon of —: that is,
@@ -750,9 +750,9 @@ Yet another term of disgust used to describe a malfunctioning program.
 The connotation in this case is that the program works as designed, but
 the design is bad. Said, for example, of a program that generates large
 numbers of meaningless error messages, implying that it is on the brink
-of imminent collapse. Compare `*wonky* <../W/wonky.html>`__,
-`*brain-damaged* <../B/brain-damaged.html>`__,
-`*bozotic* <../B/bozotic.html>`__.
+of imminent collapse. Compare `wonky <../W/wonky.html>`__,
+`brain-damaged <../B/brain-damaged.html>`__,
+`bozotic <../B/bozotic.html>`__.
 
 --------------
 
@@ -779,20 +779,20 @@ role in the development of at least one design, tool, or game used by or
 known to more than half of the hacker community. To qualify as a genuine
 demigod, the person must recognizably identify with the hacker community
 and have helped shape it. Major demigods include Ken Thompson and Dennis
-Ritchie (co-inventors of `*Unix* <../U/Unix.html>`__ and
-`*C* <../C/C.html>`__), Richard M. Stallman (inventor of
-`*EMACS* <../E/EMACS.html>`__), Larry Wall (inventor of
-`*Perl* <../P/Perl.html>`__), Linus Torvalds (inventor of
-`*Linux* <../L/Linux.html>`__), and most recently James Gosling
-(inventor of Java, `*NeWS* <../N/NeWS.html>`__, and
-`*GOSMACS* <../G/GOSMACS.html>`__) and Guido van Rossum (inventor of
-`*Python* <../P/Python.html>`__). In their hearts of hearts, most
+Ritchie (co-inventors of `Unix <../U/Unix.html>`__ and
+`C <../C/C.html>`__), Richard M. Stallman (inventor of
+`EMACS <../E/EMACS.html>`__), Larry Wall (inventor of
+`Perl <../P/Perl.html>`__), Linus Torvalds (inventor of
+`Linux <../L/Linux.html>`__), and most recently James Gosling
+(inventor of Java, `NeWS <../N/NeWS.html>`__, and
+`GOSMACS <../G/GOSMACS.html>`__) and Guido van Rossum (inventor of
+`Python <../P/Python.html>`__). In their hearts of hearts, most
 hackers dream of someday becoming demigods themselves, and more than one
 major software project has been driven to completion by the author's
-veiled hopes of apotheosis. See also `*net.god* <../N/net-god.html>`__,
-`*true-hacker* <../T/true-hacker.html>`__,
-`*ubergeek* <../U/ubergeek.html>`__. Since 1995 or so this term has been
-gradually displaced by `*ubergeek* <../U/ubergeek.html>`__.
+veiled hopes of apotheosis. See also `net.god <../N/net-god.html>`__,
+`true-hacker <../T/true-hacker.html>`__,
+`ubergeek <../U/ubergeek.html>`__. Since 1995 or so this term has been
+gradually displaced by `ubergeek <../U/ubergeek.html>`__.
 
 --------------
 
@@ -814,20 +814,20 @@ D
 
 **demoeffect**: n.
 
-[`*demoscene* <demoscene.html>`__\ ]
+[`demoscene <demoscene.html>`__\ ]
 
-1. What among hackers is called a `*display
-hack* <display-hack.html>`__. Classical effects include “plasma”
-(colorful mess), “keftales” (``x*x+y*y`` and other similar patterns,
+1. What among hackers is called a `display
+hack <display-hack.html>`__. Classical effects include “plasma”
+(colorful mess), “keftales” ("x*x+y*y" and other similar patterns,
 usually combined with color-cycling), realtime fractals, realtime 3d
 graphics, etc. Historically, demo effects have cheated as much as
 possible to gain more speed and more complexity, using low-precision
 math and masses of assembler code and building animation realtime are
 three common tricks, but use of special hardware to fake effects is a
-`*Good Thing* <../G/Good-Thing.html>`__ on the demoscene (though this is
+`Good Thing <../G/Good-Thing.html>`__ on the demoscene (though this is
 becoming less common as platforms like the Amiga fade away).
 
-2. [Finland] Opposite of `*dancing frog* <dancing-frog.html>`__. The
+2. [Finland] Opposite of `dancing frog <dancing-frog.html>`__. The
 crash that happens when you demonstrate a perfectly good prototype to a
 client. Plagues most often CS students and small businesses, but there
 is a well-known case involving Bill Gates demonstrating a brand new
@@ -853,11 +853,11 @@ D
 
 **demogroup**: n.
 
-[`*demoscene* <demoscene.html>`__\ ] A group of `*demo* <demo.html>`__
+[`demoscene <demoscene.html>`__\ ] A group of `demo <demo.html>`__
 (sense 4) composers. Job titles within a group include coders (the ones
 who write programs), graphicians (the ones who painstakingly pixelate
 the fine art), musicians (the music composers),
-`*sysop* <../S/sysop.html>`__\ s, traders/swappers (the ones who do the
+`sysop <../S/sysop.html>`__\ s, traders/swappers (the ones who do the
 trading and other PR), and organizers (in larger groups). It is not
 uncommon for one person to do multiple jobs, but it has been observed
 that good coders are rarely good composers and vice versa. [How odd.
@@ -886,7 +886,7 @@ D
 [short for ‘demonstration’]
 
 1. v. To demonstrate a product or prototype. A far more effective way of
-inducing bugs to manifest than any number of `*test* <../T/test.html>`__
+inducing bugs to manifest than any number of `test <../T/test.html>`__
 runs, especially when important people are watching.
 
 2. n. The act of demoing. “I've gotta give a demo of the drool-proof
@@ -900,14 +900,14 @@ portions, or to a special version of a program (frequently with some
 features crippled) which is distributed at little or no cost to the user
 for enticement purposes.
 
-4. [`*demoscene* <demoscene.html>`__\ ] A sequence of
-`*demoeffect* <demoeffect.html>`__\ s (usually) combined with
+4. [`demoscene <demoscene.html>`__\ ] A sequence of
+`demoeffect <demoeffect.html>`__\ s (usually) combined with
 self-composed music and hand-drawn (“pixelated”) graphics. These days
-(1997) usually built to attend a `*compo* <../C/compo.html>`__. Often
+(1997) usually built to attend a `compo <../C/compo.html>`__. Often
 called eurodemos outside Europe, as most of the
-`*demoscene* <demoscene.html>`__ activity seems to have gathered in
+`demoscene <demoscene.html>`__ activity seems to have gathered in
 northern Europe and especially Scandinavia. See also
-`*intro* <../I/intro.html>`__, `*dentro* <dentro.html>`__.
+`intro <../I/intro.html>`__, `dentro <dentro.html>`__.
 
 --------------
 
@@ -929,17 +929,17 @@ D
 
 **demo mode**: n.
 
-1. [Sun] The state of being `*heads down* <../H/heads-down.html>`__ in
-order to finish code in time for a `*demo* <demo.html>`__, usually due
+1. [Sun] The state of being `heads down <../H/heads-down.html>`__ in
+order to finish code in time for a `demo <demo.html>`__, usually due
 yesterday.
 
 2. A mode in which video games sit by themselves running through a
 portion of the game, also known as attract mode. Some serious
-`*app* <../A/app.html>`__\ s have a demo mode they use as a screen
+`app <../A/app.html>`__\ s have a demo mode they use as a screen
 saver, or may go through a demo mode on startup (for example, the
 Microsoft Windows opening screen — which lets you impress your neighbors
-without actually having to put up with `*Microsloth
-Windows* <../M/Microsloth-Windows.html>`__).
+without actually having to put up with `Microsloth
+Windows <../M/Microsloth-Windows.html>`__).
 
 --------------
 
@@ -963,12 +963,12 @@ D
 
 A program which repeatedly calls the same telephone number. Demon
 dialing may be benign (as when a number of communications programs
-contend for legitimate access to a `*BBS* <../B/BBS.html>`__ line) or
+contend for legitimate access to a `BBS <../B/BBS.html>`__ line) or
 malign (that is, used as a prank or denial-of-service attack). This term
-dates from the `*blue box* <../B/blue-box.html>`__ days of the 1970s and
+dates from the `blue box <../B/blue-box.html>`__ days of the 1970s and
 early 1980s and is now semi-obsolescent among
-`*phreaker* <../P/phreaker.html>`__\ s; see `*war
-dialer* <../W/war-dialer.html>`__ for its contemporary progeny.
+`phreaker <../P/phreaker.html>`__\ s; see `war
+dialer <../W/war-dialer.html>`__ for its contemporary progeny.
 
 --------------
 
@@ -990,13 +990,13 @@ D
 
 **demon**: n.
 
-1. Often used equivalently to `*daemon* <daemon.html>`__ — especially in
-the `*Unix* <../U/Unix.html>`__ world, where the latter spelling and
+1. Often used equivalently to `daemon <daemon.html>`__ — especially in
+the `Unix <../U/Unix.html>`__ world, where the latter spelling and
 pronunciation is considered mildly archaic.
 
 2. [MIT; now probably obsolete] A portion of a program that is not
 invoked explicitly, but that lies dormant waiting for some condition(s)
-to occur. See `*daemon* <daemon.html>`__. The distinction is that demons
+to occur. See `daemon <daemon.html>`__. The distinction is that demons
 are usually processes within a program, while daemons are usually
 programs running on an operating system.
 
@@ -1030,9 +1030,9 @@ D
 
 **demoparty**: n.
 
-[`*demoscene* <demoscene.html>`__\ ] Aboveground descendant of the
-`*copyparty* <../C/copyparty.html>`__, with emphasis shifted away from
-software piracy and towards `*compo* <../C/compo.html>`__\ s. Smaller
+[`demoscene <demoscene.html>`__\ ] Aboveground descendant of the
+`copyparty <../C/copyparty.html>`__, with emphasis shifted away from
+software piracy and towards `compo <../C/compo.html>`__\ s. Smaller
 demoparties, for 100 persons or less, are held quite often, sometimes
 even once a month, and usually last for one to two days. On the other
 end of the scale, huge demo parties are held once a year (and four of
@@ -1064,9 +1064,9 @@ D
 
 [also ‘demo scene’] A culture of multimedia hackers located primarily in
 Scandinavia and northern Europe. Demoscene folklore recounts that when
-old-time `*warez d00dz* <../W/warez-d00dz.html>`__ cracked some piece of
+old-time `warez d00dz <../W/warez-d00dz.html>`__ cracked some piece of
 software they often added an advertisement in the beginning, usually
-containing colorful `*display hack* <display-hack.html>`__\ s with
+containing colorful `display hack <display-hack.html>`__\ s with
 greetings to other cracking groups. The demoscene was born among people
 who decided building these display hacks is more interesting than
 hacking — or anyway safer. Around 1990 there began to be very serious
@@ -1074,13 +1074,13 @@ police pressure on cracking groups, including raids with SWAT teams
 crashing into bedrooms to confiscate computers. Whether in response to
 this or for esthetic reasons, crackers of that period began to build
 self-contained display hacks of considerable elaboration and beauty
-(within the culture such a hack is called a `*demo* <demo.html>`__). As
-more of these `*demogroup* <demogroup.html>`__\ s emerged, they started
-to have `*compo* <../C/compo.html>`__\ s at copying parties (see
-`*copyparty* <../C/copyparty.html>`__), which later evolved to
-standalone events (see `*demoparty* <demoparty.html>`__). The demoscene
-has retained some traits from the `*warez
-d00dz* <../W/warez-d00dz.html>`__, including their style of handles and
+(within the culture such a hack is called a `demo <demo.html>`__). As
+more of these `demogroup <demogroup.html>`__\ s emerged, they started
+to have `compo <../C/compo.html>`__\ s at copying parties (see
+`copyparty <../C/copyparty.html>`__), which later evolved to
+standalone events (see `demoparty <demoparty.html>`__). The demoscene
+has retained some traits from the `warez
+d00dz <../W/warez-d00dz.html>`__, including their style of handles and
 group names and some of their jargon.
 
 Traditionally demos were written in assembly language, with lots of
@@ -1119,11 +1119,11 @@ D
 
 **dentro**: /den´troh/
 
-[`*demoscene* <demoscene.html>`__\ ] Combination of
-`*demo* <demo.html>`__ (sense 4) and `*intro* <../I/intro.html>`__.
+[`demoscene <demoscene.html>`__\ ] Combination of
+`demo <demo.html>`__ (sense 4) and `intro <../I/intro.html>`__.
 Other name mixings include intmo, dentmo etc. and are used usually when
 the authors are not quite sure whether the program is a
-`*demo* <demo.html>`__ or an `*intro* <../I/intro.html>`__.
+`demo <demo.html>`__ or an `intro <../I/intro.html>`__.
 Special-purpose coinages like wedtro (some member of a group got
 married), invtro (invitation intro) etc. have also been sighted.
 
@@ -1179,8 +1179,8 @@ replacement. Deprecated features can, unfortunately, linger on for many
 years. This term appears with distressing frequency in standards
 documents when the committees writing the documents realize that large
 amounts of extant (and presumably happily working) code depend on the
-feature(s) that have passed out of favor. See also `*dusty
-deck* <dusty-deck.html>`__.
+feature(s) that have passed out of favor. See also `dusty
+deck <dusty-deck.html>`__.
 
 [Usage note: don't confuse this word with ‘depreciated’, or the verb
 form ‘deprecate’ with ‘depreciate’. They are different words; see any
@@ -1249,8 +1249,8 @@ to post articles intended to make an ass of the victim you're
 impersonating. It has been alleged that the term originated as a
 reversal of the name of the gentleman who most usually left himself
 vulnerable to it, who also happened to be the head of the department
-that handled PLATO at the University of Delaware. Compare `*baggy
-pantsing* <../B/baggy-pantsing.html>`__.
+that handled PLATO at the University of Delaware. Compare `baggy
+pantsing <../B/baggy-pantsing.html>`__.
 
 2. n. The victim of an act of derfing, sense 1. The most typical posting
 from a derfed account read “I am a derf.”.
@@ -1275,16 +1275,16 @@ D
 
 **deserves to lose**: adj.
 
-[common] Said of someone who willfully does the `*Wrong
-Thing* <../W/Wrong-Thing.html>`__; humorously, if one uses a feature
-known to be `*marginal* <../M/marginal.html>`__. What is meant is that
-one deserves the consequences of one's `*losing* <../L/losing.html>`__
+[common] Said of someone who willfully does the `Wrong
+Thing <../W/Wrong-Thing.html>`__; humorously, if one uses a feature
+known to be `marginal <../M/marginal.html>`__. What is meant is that
+one deserves the consequences of one's `losing <../L/losing.html>`__
 actions. “Boy, anyone who tries to use
-`*mess-dos* <../M/mess-dos.html>`__ deserves to
-`*lose* <../L/lose.html>`__!” (`*ITS* <../I/ITS.html>`__ fans used to
-say the same thing of `*Unix* <../U/Unix.html>`__; many still do.) See
-also `*screw* <../S/screw.html>`__, `*chomp* <../C/chomp.html>`__,
-`*bagbiter* <../B/bagbiter.html>`__.
+`mess-dos <../M/mess-dos.html>`__ deserves to
+`lose <../L/lose.html>`__!” (`ITS <../I/ITS.html>`__ fans used to
+say the same thing of `Unix <../U/Unix.html>`__; many still do.) See
+also `screw <../S/screw.html>`__, `chomp <../C/chomp.html>`__,
+`bagbiter <../B/bagbiter.html>`__.
 
 --------------
 
@@ -1308,7 +1308,7 @@ D
 
 [Usenet] To automatically generate a large amount of garbage to the net,
 esp. from an automated posting program gone wild. See
-`*ARMM* <../A/ARMM.html>`__.
+`ARMM <../A/ARMM.html>`__.
 
 --------------
 
@@ -1335,8 +1335,8 @@ botches including the Sun 3/50 and other machines designed exclusively
 to network with an expensive central disk server. These combine all the
 disadvantages of timesharing with all the disadvantages of distributed
 personal computers; typically, they cannot even
-`*boot* <../B/boot.html>`__ themselves without help (in the form of some
-kind of `*breath-of-life packet* <../B/breath-of-life-packet.html>`__)
+`boot <../B/boot.html>`__ themselves without help (in the form of some
+kind of `breath-of-life packet <../B/breath-of-life-packet.html>`__)
 from the server.
 
 --------------
@@ -1362,8 +1362,8 @@ D
 [Usenet] An attempt to sidetrack a debate away from issues by insisting
 on meanings for key terms that presuppose a desired conclusion or
 smuggle in an implicit premise. A common tactic of people who prefer
-argument over definitions to disputes about reality. Compare `*spelling
-flame* <../S/spelling-flame.html>`__.
+argument over definitions to disputes about reality. Compare `spelling
+flame <../S/spelling-flame.html>`__.
 
 --------------
 
@@ -1386,15 +1386,15 @@ D
 **diddle**
 
 1. vt. To work with or modify in a not-particularly-serious manner. “I
-diddled a copy of `*ADVENT* <../A/ADVENT.html>`__ so it didn't
+diddled a copy of `ADVENT <../A/ADVENT.html>`__ so it didn't
 double-space all the time.” “Let's diddle this piece of code and see if
-the problem goes away.” See `*tweak* <../T/tweak.html>`__ and
-`*twiddle* <../T/twiddle.html>`__.
+the problem goes away.” See `tweak <../T/tweak.html>`__ and
+`twiddle <../T/twiddle.html>`__.
 
 2. n. The action or result of diddling.
 
-See also `*tweak* <../T/tweak.html>`__,
-`*twiddle* <../T/twiddle.html>`__, `*frob* <../F/frob.html>`__.
+See also `tweak <../T/tweak.html>`__,
+`twiddle <../T/twiddle.html>`__, `frob <../F/frob.html>`__.
 
 --------------
 
@@ -1416,9 +1416,9 @@ D
 
 **die horribly**: v.
 
-The software equivalent of `*crash and
-burn* <../C/crash-and-burn.html>`__, and the preferred emphatic form of
-`*die* <die.html>`__. “The converter choked on an FF in its input and
+The software equivalent of `crash and
+burn <../C/crash-and-burn.html>`__, and the preferred emphatic form of
+`die <die.html>`__. “The converter choked on an FF in its input and
 died horribly”.
 
 --------------
@@ -1441,11 +1441,11 @@ D
 
 **die**: v.
 
-Syn. `*crash* <../C/crash.html>`__. Unlike
-`*crash* <../C/crash.html>`__, which is used primarily of hardware, this
-verb is used of both hardware and software. See also `*go
-flatline* <../G/go-flatline.html>`__, `*casters-up
-mode* <../C/casters-up-mode.html>`__.
+Syn. `crash <../C/crash.html>`__. Unlike
+`crash <../C/crash.html>`__, which is used primarily of hardware, this
+verb is used of both hardware and software. See also `go
+flatline <../G/go-flatline.html>`__, `casters-up
+mode <../C/casters-up-mode.html>`__.
 
 --------------
 
@@ -1470,17 +1470,17 @@ D
 1. A change listing, especially giving differences between (and
 additions to) source code or documents (the term is often used in the
 plural diffs). “Send me your diffs for the Jargon File!” Compare
-`*vdiff* <../V/vdiff.html>`__.
+`vdiff <../V/vdiff.html>`__.
 
 2. Specifically, such a listing produced by the diff(1) command, esp.
 when used as specification input to the patch(1) utility (which can
-actually perform the modifications; see `*patch* <../P/patch.html>`__).
+actually perform the modifications; see `patch <../P/patch.html>`__).
 This is a common method of distributing patches and source updates in
 the Unix/C world.
 
 3. v. To compare (whether or not by use of automated tools on
-machine-readable files); see also `*vdiff* <../V/vdiff.html>`__,
-`*mod* <../M/mod.html>`__.
+machine-readable files); see also `vdiff <../V/vdiff.html>`__,
+`mod <../M/mod.html>`__.
 
 --------------
 
@@ -1536,17 +1536,17 @@ n. Name and title character of a comic strip nationally syndicated in
 the U.S. and enormously popular among hackers. Dilbert is an
 archetypical engineer-nerd who works at an anonymous high-technology
 company; the strips present a lacerating satire of insane working
-conditions and idiotic `*management* <../M/management.html>`__ practices
+conditions and idiotic `management <../M/management.html>`__ practices
 all too readily recognized by hackers. Adams, who spent nine years in
-`*cube* <../C/cube.html>`__ 4S700R at Pacific Bell (not
-`*DEC* <DEC.html>`__ as often reported), often remarks that he has never
+`cube <../C/cube.html>`__ 4S700R at Pacific Bell (not
+`DEC <DEC.html>`__ as often reported), often remarks that he has never
 been able to come up with a fictional management blunder that his
 correspondents didn't quickly either report to have actually happened or
 top with a similar but even more bizarre incident. In 1996 Adams
 distilled his insights into the collective psychology of businesses into
 an even funnier book, *The Dilbert Principle* (HarperCollins, ISBN
-0-887-30787-6). See also `*pointy-haired* <../P/pointy-haired.html>`__,
-`*rat dance* <../R/rat-dance.html>`__.
+0-887-30787-6). See also `pointy-haired <../P/pointy-haired.html>`__,
+`rat dance <../R/rat-dance.html>`__.
 
 --------------
 
@@ -1568,8 +1568,8 @@ D
 
 **ding**: n.,vi.
 
-1. Synonym for `*feep* <../F/feep.html>`__. Usage: rare among hackers,
-but more common in the `*Real World* <../R/Real-World.html>`__.
+1. Synonym for `feep <../F/feep.html>`__. Usage: rare among hackers,
+but more common in the `Real World <../R/Real-World.html>`__.
 
 2. dinged: What happens when someone in authority gives you a minor
 bitching about something, esp. something trivial. “I was dinged for
@@ -1595,14 +1595,14 @@ D
 
 **dink**: /dink/, adj.
 
-Said of a machine that has the `*bitty box* <../B/bitty-box.html>`__
+Said of a machine that has the `bitty box <../B/bitty-box.html>`__
 nature; a machine too small to be worth bothering with — sometimes the
 system you're currently forced to work on. First heard from an MIT
 hacker working on a CP/M system with 64K, in reference to any 6502
 system, then from fans of 32-bit architectures about 16-bit machines.
 “GNUMACS will never work on that dink machine.” Probably derived from
 mainstream ‘dinky’, which isn't sufficiently pejorative. See
-`*macdink* <../M/macdink.html>`__.
+`macdink <../M/macdink.html>`__.
 
 --------------
 
@@ -1629,12 +1629,12 @@ especially of old minis and mainframes, in contrast with newer
 microprocessor-based machines. In a famous quote from the 1998 Unix
 EXPO, Bill Joy compared the liquid-cooled mainframe in the massive IBM
 display with a grazing dinosaur “with a truck outside pumping its bodily
-fluids through it”. IBM was not amused. Compare `*big
-iron* <../B/big-iron.html>`__; see also
-`*mainframe* <../M/mainframe.html>`__.
+fluids through it”. IBM was not amused. Compare `big
+iron <../B/big-iron.html>`__; see also
+`mainframe <../M/mainframe.html>`__.
 
 2. [IBM] A very conservative user; a
-`*zipperhead* <../Z/zipperhead.html>`__.
+`zipperhead <../Z/zipperhead.html>`__.
 
 --------------
 
@@ -1656,10 +1656,10 @@ D
 
 **dinosaur pen**: n.
 
-A traditional `*mainframe* <../M/mainframe.html>`__ computer room
+A traditional `mainframe <../M/mainframe.html>`__ computer room
 complete with raised flooring, special power, its own ultra-heavy-duty
 air conditioning, and a side order of Halon fire extinguishers. See
-`*boa* <../B/boa.html>`__.
+`boa <../B/boa.html>`__.
 
 --------------
 
@@ -1681,10 +1681,10 @@ D
 
 **dinosaurs mating**: n.
 
-Said to occur when yet another `*big iron* <../B/big-iron.html>`__
+Said to occur when yet another `big iron <../B/big-iron.html>`__
 merger or buyout occurs; originally reflected a perception by hackers
 that these signal another stage in the long, slow dying of the
-`*mainframe* <../M/mainframe.html>`__ industry. In the mainframe
+`mainframe <../M/mainframe.html>`__ industry. In the mainframe
 industry's glory days of the 1960s, it was ‘IBM and the Seven Dwarfs’:
 Burroughs, Control Data, General Electric, Honeywell, NCR, RCA, and
 Univac. RCA and GE sold out early, and it was ‘IBM and the Bunch’
@@ -1747,10 +1747,10 @@ D
 **dirty power**: n.
 
 Electrical mains voltage that is unfriendly to the delicate innards of
-computers. Spikes, `*drop-outs* <drop-outs.html>`__, average voltage
+computers. Spikes, `drop-outs <drop-outs.html>`__, average voltage
 significantly higher or lower than nominal, or just plain noise can all
 cause problems of varying subtlety and severity (these are collectively
-known as `*power hit* <../P/power-hit.html>`__\ s).
+known as `power hit <../P/power-hit.html>`__\ s).
 
 --------------
 
@@ -1798,7 +1798,7 @@ D
 
 **Discordianism**: /dis·kor´di·@n·ism/, n.
 
-The veneration of `*Eris* <../E/Eris.html>`__, a.k.a. Discordia; widely
+The veneration of `Eris <../E/Eris.html>`__, a.k.a. Discordia; widely
 popular among hackers. Discordianism was popularized by Robert Shea and
 Robert Anton Wilson's novel *Illuminatus!* as a sort of self-subverting
 Dada-Zen for Westerners — it should on no account be taken seriously but
@@ -1808,9 +1808,9 @@ is Prohibited of Believing What he Reads.” Discordianism is usually
 connected with an elaborate conspiracy theory/joke involving
 millennia-long warfare between the anarcho-surrealist partisans of Eris
 and a malevolent, authoritarian secret society called the Illuminati.
-See `Religion <../religion.html>`__ in Appendix B, `*Church of the
-SubGenius* <../C/Church-of-the-SubGenius.html>`__, and `*ha ha only
-serious* <../H/ha-ha-only-serious.html>`__.
+See `Religion <../religion.html>`__ in Appendix B, `Church of the
+SubGenius <../C/Church-of-the-SubGenius.html>`__, and `ha ha only
+serious <../H/ha-ha-only-serious.html>`__.
 
 --------------
 
@@ -1832,8 +1832,8 @@ D
 
 **disemvowel**: v.
 
-[USENET: play on ‘disembowel’] Less common synonym for `*splat
-out* <../S/splat-out.html>`__.
+[USENET: play on ‘disembowel’] Less common synonym for `splat
+out <../S/splat-out.html>`__.
 
 --------------
 
@@ -1855,10 +1855,10 @@ D
 
 **disk farm**: n.
 
-A large room or rooms filled with disk drives (esp. `*washing
-machine* <../W/washing-machine.html>`__\ s). This term was well
+A large room or rooms filled with disk drives (esp. `washing
+machine <../W/washing-machine.html>`__\ s). This term was well
 established by 1990, and generalized by about ten years later; see
-`*farm* <../F/farm.html>`__. It has become less common as disk strange
+`farm <../F/farm.html>`__. It has become less common as disk strange
 densities reached livels where terabytes of storage can easily be fit in
 a single rack.
 
@@ -1883,18 +1883,18 @@ D
 **display hack**: n.
 
 A program with the same approximate purpose as a kaleidoscope: to make
-pretty pictures. Famous display hacks include `*munching
-squares* <../M/munching-squares.html>`__, `*smoking
-clover* <../S/smoking-clover.html>`__, the BSD Unix rain(6) program,
-worms(6) on miscellaneous Unixes, and the `*X* <../X/X.html>`__
+pretty pictures. Famous display hacks include `munching
+squares <../M/munching-squares.html>`__, `smoking
+clover <../S/smoking-clover.html>`__, the BSD Unix rain(6) program,
+worms(6) on miscellaneous Unixes, and the `X <../X/X.html>`__
 kaleid(1) program. Display hacks can also be implemented by creating
 text files containing numerous escape sequences for interpretation by a
 video terminal; one notable example displayed, on any VT100, a Christmas
-tree with twinkling lights and a toy train circling its base. The `*hack
-value* <../H/hack-value.html>`__ of a display hack is proportional to
+tree with twinkling lights and a toy train circling its base. The `hack
+value <../H/hack-value.html>`__ of a display hack is proportional to
 the esthetic value of the images times the cleverness of the algorithm
 divided by the size of the code. Syn.
-`*psychedelicware* <../P/psychedelicware.html>`__.
+`psychedelicware <../P/psychedelicware.html>`__.
 
 --------------
 
@@ -1917,7 +1917,7 @@ D
 **dispress**: vt.
 
 [contraction of ‘Dissociated Press’ due to eight-character MS-DOS
-filenames] To apply the `*Dissociated Press* <Dissociated-Press.html>`__
+filenames] To apply the `Dissociated Press <Dissociated-Press.html>`__
 algorithm to a block of text. The resultant output is also referred to
 as a 'dispression'.
 
@@ -1944,15 +1944,15 @@ D
 [play on ‘Associated Press’; perhaps inspired by a reference in the 1950
 Bugs Bunny cartoon *What's Up, Doc?*] An algorithm for transforming any
 text into potentially humorous garbage even more efficiently than by
-passing it through a `*marketroid* <../M/marketroid.html>`__. The
-algorithm starts by printing any ``N`` consecutive words (or letters) in
+passing it through a `marketroid <../M/marketroid.html>`__. The
+algorithm starts by printing any "N" consecutive words (or letters) in
 the text. Then at every step it searches for any random occurrence in
-the original text of the last ``N`` words (or letters) already printed
-and then prints the next word or letter. `*EMACS* <../E/EMACS.html>`__
+the original text of the last "N" words (or letters) already printed
+and then prints the next word or letter. `EMACS <../E/EMACS.html>`__
 has a handy command for this. Here is a short example of word-based
 Dissociated Press applied to an earlier version of this Jargon File:
 
-    wart: n. A small, crocky `*feature* <../F/feature.html>`__ that
+    wart: n. A small, crocky `feature <../F/feature.html>`__ that
     sticks out of an array (C has no checks for this). This is
     relatively benign and easy to spot if the phrase is bent so as to be
     not worth paying attention to the medium in question.
@@ -1967,13 +1967,13 @@ same source:
     logic or problem!
 
 A hackish idle pastime is to apply letter-based Dissociated Press to a
-random body of text and `*vgrep* <../V/vgrep.html>`__ the output in
+random body of text and `vgrep <../V/vgrep.html>`__ the output in
 hopes of finding an interesting new word. (In the preceding example,
 ‘window sysIWYG’ and ‘informash’ show some promise.) Iterated
 applications of Dissociated Press usually yield better results. Similar
 techniques called travesty generators have been employed with
 considerable satirical effect to the utterances of Usenet flamers; see
-`*pseudo* <../P/pseudo.html>`__.
+`pseudo <../P/pseudo.html>`__.
 
 --------------
 
@@ -1996,12 +1996,12 @@ D
 **distribution**: n.
 
 1. A software source tree packaged for distribution; but see
-`*kit* <../K/kit.html>`__. Since about 1996 unqualified use of this term
-often implies ‘\ `*Linux* <../L/Linux.html>`__ distribution’. The short
-form `*distro* <distro.html>`__ is often used for this sense.
+`kit <../K/kit.html>`__. Since about 1996 unqualified use of this term
+often implies ‘\ `Linux <../L/Linux.html>`__ distribution’. The short
+form `distro <distro.html>`__ is often used for this sense.
 
 2. A vague term encompassing mailing lists and Usenet newsgroups (but
-not `*BBS* <../B/BBS.html>`__ `*fora* <../F/fora.html>`__); any
+not `BBS <../B/BBS.html>`__ `fora <../F/fora.html>`__); any
 topic-oriented message channel with multiple recipients.
 
 3. An information-space domain (usually loosely correlated with
@@ -2028,7 +2028,7 @@ D
 
 **distro**: n.
 
-Synonym for `*distribution* <distribution.html>`__, sense 1.
+Synonym for `distribution <distribution.html>`__, sense 1.
 
 --------------
 
@@ -2055,7 +2055,7 @@ esp. for cause rather than through normal attrition. “He got disusered
 when they found out he'd been cracking through the school's Internet
 access.” The verbal form disuser is live but less common. Both usages
 probably derive from the DISUSER account status flag on VMS; setting it
-disables the account. Compare `*star out* <../S/star-out.html>`__.
+disables the account. Compare `star out <../S/star-out.html>`__.
 
 --------------
 
@@ -2079,7 +2079,7 @@ D
 
 [common] Literally, De-Militarized Zone. Figuratively, the portion of a
 private network that is visible through the network's firewalls (see
-`*firewall machine* <../F/firewall-machine.html>`__). Coined in the late
+`firewall machine <../F/firewall-machine.html>`__). Coined in the late
 1990s as jargon, this term is now borderline techspeak.
 
 --------------
@@ -2128,12 +2128,12 @@ D
 
 The multiple kilograms of macerated, pounded, steamed, bleached, and
 pressed trees that accompany most modern software or hardware products
-(see also `*tree-killer* <../T/tree-killer.html>`__). Hackers seldom
+(see also `tree-killer <../T/tree-killer.html>`__). Hackers seldom
 read paper documentation and (too) often resist writing it; they prefer
 theirs to be terse and on-line. A common comment on this predilection is
-“You can't `*grep* <../G/grep.html>`__ dead trees”. See `*drool-proof
-paper* <drool-proof-paper.html>`__, `*verbiage* <../V/verbiage.html>`__,
-`*treeware* <../T/treeware.html>`__.
+“You can't `grep <../G/grep.html>`__ dead trees”. See `drool-proof
+paper <drool-proof-paper.html>`__, `verbiage <../V/verbiage.html>`__,
+`treeware <../T/treeware.html>`__.
 
 --------------
 
@@ -2155,7 +2155,7 @@ D
 
 **dodgy**: adj.
 
-Syn. with `*flaky* <../F/flaky.html>`__. Preferred outside the U.S.
+Syn. with `flaky <../F/flaky.html>`__. Preferred outside the U.S.
 
 --------------
 
@@ -2177,14 +2177,14 @@ D
 
 **dogcow**: /dog´kow/, n.
 
-See `*Moof* <../M/Moof.html>`__. The dogcow is a semi-legendary creature
+See `Moof <../M/Moof.html>`__. The dogcow is a semi-legendary creature
 that lurks in the depths of the Macintosh Technical Notes Hypercard
 stack V3.1. The full story of the dogcow is told in technical note #31
 (the particular dogcow illustrated is properly named ‘Clarus’).
 Option-shift-click will cause it to emit a characteristic “Moof!” or
 “!fooM” sound. *Getting* to tech note 31 is the hard part; to discover
 how to do that, one must needs examine the stack script with a hackerly
-eye. Clue: `*rot13* <../R/rot13.html>`__ is involved. A dogcow also
+eye. Clue: `rot13 <../R/rot13.html>`__ is involved. A dogcow also
 appears if you choose ‘Page Setup...’ with a LaserWriter selected and
 click on the ‘Options’ button. It also lurks in other Mac printer
 drivers, notably those for the now-discontinued Style Writers. See
@@ -2218,7 +2218,7 @@ practice is normal in the Linux community and elsewhere, but the term
 ‘dogfood’ is seldom used as open-source betas tend to be quite tasty and
 nourishing. The idea is that developers who are using their own software
 will quickly learn what's missing or broken. Dogfood is typically not
-even of `*beta* <../B/beta.html>`__ quality.
+even of `beta <../B/beta.html>`__ quality.
 
 --------------
 
@@ -2244,7 +2244,7 @@ D
 unfriendly responses in short order to a single posting, they are
 sometimes said to “dogpile” or “dogpile on” the person to whom they're
 responding. For example, when a religious missionary posts a simplistic
-appeal to ``alt.atheism``, he can expect to be dogpiled. It has been
+appeal to "alt.atheism", he can expect to be dogpiled. It has been
 suggested that this derives from U.S. football slang for a tackle
 involving three or more people; among hackers, it seems at least as
 likely to derive from an ‘autobiographical’ Bugs Bunny cartoon in which
@@ -2278,7 +2278,7 @@ first”.]
 serious work.
 
 2. v. To engage in such a project. Many games and much
-`*freeware* <../F/freeware.html>`__ get written this way.
+`freeware <../F/freeware.html>`__ get written this way.
 
 --------------
 
@@ -2304,9 +2304,9 @@ A special floppy disk that is required in order to perform some task.
 Some contain special coding that allows an application to identify it
 uniquely, others *are* special code that does something that
 normally-resident programs don't or can't. (For example, AT&T's “Unix
-PC” would only come up in `*root mode* <../R/root-mode.html>`__ with a
+PC” would only come up in `root mode <../R/root-mode.html>`__ with a
 special boot disk.) Also called a key disk. See
-`*dongle* <dongle.html>`__.
+`dongle <dongle.html>`__.
 
 --------------
 
@@ -2328,8 +2328,8 @@ D
 
 **dongle**: /dong´gl/, n.
 
-1. [now obs.] A security or `*copy
-protection* <../C/copy-protection.html>`__ device for proprietary
+1. [now obs.] A security or `copy
+protection <../C/copy-protection.html>`__ device for proprietary
 software consisting of a serialized EPROM and some drivers in a D-25
 connector shell, which must be connected to an I/O port of the computer
 while the program is run. Programs that use a dongle query the port at
@@ -2340,7 +2340,7 @@ each dongle. The first sighting of a dongle was in 1984, associated with
 a software product called PaperClip. The idea was clever, but it was
 initially a failure, as users disliked tying up a serial port this way.
 By 1993, dongles would typically pass data through the port and monitor
-for `*magic* <../M/magic.html>`__ codes (and combinations of status
+for `magic <../M/magic.html>`__ codes (and combinations of status
 lines) with minimal if any interference with devices further down the
 line — this innovation was necessary to allow daisy-chained dongles for
 multiple pieces of software. These devices have become rare as the
@@ -2349,7 +2349,7 @@ industry has moved away from copy-protection schemes in general.
 2. By extension, any physical electronic key or transferable ID required
 for a program to function. Common variations on this theme have used
 parallel or even joystick ports. See
-`*dongle-disk* <dongle-disk.html>`__.
+`dongle-disk <dongle-disk.html>`__.
 
 3. An adaptor cable mating a special edge-type connector on a PCMCIA or
 on-board Ethernet card to a standard 8p8c Ethernet jack. This usage
@@ -2387,7 +2387,7 @@ D
 [from an old doctor's office joke about a patient with a trivial
 complaint] Stock response to a user complaint. “When I type control-S,
 the whole system comes to a halt for thirty seconds.” “Don't do that,
-then!” (or “So don't do that!”). Compare `*RTFM* <../R/RTFM.html>`__.
+then!” (or “So don't do that!”). Compare `RTFM <../R/RTFM.html>`__.
 
 Here's a classic example of “Don't do that then!” from Neal Stephenson's
 *In The Beginning Was The Command Line*. A friend of his built a network
@@ -2417,8 +2417,8 @@ D
 
 **Doom, X of**
 
-[common] A construction similar to ‘\ `*Death, X
-of* <Death--X-of.html>`__, but derived rather from the Cracks of Doom in
+[common] A construction similar to ‘\ `Death, X
+of <Death--X-of.html>`__, but derived rather from the Cracks of Doom in
 J.R.R. Tolkien’s *Lord of the Rings* trilogy. The connotations are
 slightly different; a Foo of Death is mainly being held up to ridicule,
 but one would have to take a Foo of Doom a bit more seriously.
@@ -2445,8 +2445,8 @@ D
 
 Used to describe equipment that is non-functional and halfway expected
 to remain so, especially obsolete equipment kept around for political
-reasons or ostensibly as a backup. Compare `*boat
-anchor* <../B/boat-anchor.html>`__.
+reasons or ostensibly as a backup. Compare `boat
+anchor <../B/boat-anchor.html>`__.
 
 --------------
 
@@ -2473,7 +2473,7 @@ somebody or something that follows a clearly defined procedure. For
 example, “Let's do protocol with the check” at a restaurant means to ask
 for the check, calculate the tip and everybody's share, collect money
 from everybody, generate change as necessary, and pay the bill. See
-`*protocol* <../P/protocol.html>`__.
+`protocol <../P/protocol.html>`__.
 
 --------------
 
@@ -2498,10 +2498,10 @@ D
 [Usenet,common; note that it's unrelated to DOS as name of an operating
 system] Abbreviation for Denial-Of-Service attack. This abbreviation is
 most often used of attempts to shut down newsgroups with floods of
-`*spam* <../S/spam.html>`__, or to flood network links with large
+`spam <../S/spam.html>`__, or to flood network links with large
 amounts of traffic, or to flood network links with large amounts of
 traffic, often by abusing network broadcast addresses. Compare
-`*slashdot effect* <../S/slashdot-effect.html>`__.
+`slashdot effect <../S/slashdot-effect.html>`__.
 
 --------------
 
@@ -2529,12 +2529,12 @@ normally presented in directory listings). Many programs define one or
 more dot files in which startup or configuration information may be
 optionally recorded; a user can customize the program's behavior by
 creating the appropriate file in the current or home directory.
-(Therefore, dot files tend to `*creep* <../C/creep.html>`__ — with every
+(Therefore, dot files tend to `creep <../C/creep.html>`__ — with every
 nontrivial application program defining at least one, a user's home
 directory can be filled with scores of dot files, of course without the
 user's really being aware of it.) See also
-`*profile* <../P/profile.html>`__ (sense 1), `*rc
-file* <../R/rc-file.html>`__.
+`profile <../P/profile.html>`__ (sense 1), `rc
+file <../R/rc-file.html>`__.
 
 --------------
 
@@ -2560,9 +2560,9 @@ Using both the CTRL and META keys. “The command to burn all LEDs is
 double bucky F.”
 
 This term originated on the Stanford extended-ASCII keyboard, and was
-later taken up by users of the `*space-cadet
-keyboard* <../S/space-cadet-keyboard.html>`__ at MIT. A typical MIT
-comment was that the Stanford `*bucky bits* <../B/bucky-bits.html>`__
+later taken up by users of the `space-cadet
+keyboard <../S/space-cadet-keyboard.html>`__ at MIT. A typical MIT
+comment was that the Stanford `bucky bits <../B/bucky-bits.html>`__
 (control and meta shifting keys) were nice, but there weren't enough of
 them; you could type only 512 different characters on a Stanford
 keyboard. An obvious way to address this was simply to add more shifting
@@ -2604,9 +2604,9 @@ were written on May 27, 1978, in celebration of the Stanford keyboard:
 |  — The Great Quux (with apologies to Jeffrey Moss)
 
 [This, by the way, is an excellent example of computer
-`*filk* <../F/filk.html>`__ —ESR] See also `*meta
-bit* <../M/meta-bit.html>`__, `*cokebottle* <../C/cokebottle.html>`__,
-and `*quadruple bucky* <../Q/quadruple-bucky.html>`__.
+`filk <../F/filk.html>`__ —ESR] See also `meta
+bit <../M/meta-bit.html>`__, `cokebottle <../C/cokebottle.html>`__,
+and `quadruple bucky <../Q/quadruple-bucky.html>`__.
 
 --------------
 
@@ -2628,12 +2628,12 @@ D
 
 **doubled sig**: n.
 
-A `*sig block* <../S/sig-block.html>`__ that has been included twice in
-a `*Usenet* <../U/Usenet.html>`__ article or, less commonly, in an
+A `sig block <../S/sig-block.html>`__ that has been included twice in
+a `Usenet <../U/Usenet.html>`__ article or, less commonly, in an
 electronic mail message. An article or message with a doubled sig can be
 caused by improperly configured software. More often, however, it
 reveals the author's lack of experience in electronic communication. See
-`*B1FF* <../B/B1FF.html>`__, `*pseudo* <../P/pseudo.html>`__.
+`B1FF <../B/B1FF.html>`__, `pseudo <../P/pseudo.html>`__.
 
 --------------
 
@@ -2664,16 +2664,16 @@ other kinds of machine is still confined to techies (e.g. boiler
 mechanics may speak of a boiler being down).
 
 2. go down vi. To stop functioning; usually said of the
-`*system* <../S/system.html>`__. The message from the
-`*console* <../C/console.html>`__ that every hacker hates to hear from
+`system <../S/system.html>`__. The message from the
+`console <../C/console.html>`__ that every hacker hates to hear from
 the operator is “System going down in 5 minutes”.
 
 3. take down, bring down vt. To deactivate purposely, usually for repair
-work or `*PM* <../P/PM.html>`__. “I'm taking the system down to work on
+work or `PM <../P/PM.html>`__. “I'm taking the system down to work on
 that bug in the tape drive.” Occasionally one hears the word down by
 itself used as a verb in this vt. sense.
 
-See `*crash* <../C/crash.html>`__; oppose `*up* <../U/up.html>`__.
+See `crash <../C/crash.html>`__; oppose `up <../U/up.html>`__.
 
 --------------
 
@@ -2698,7 +2698,7 @@ D
 To transfer data or (esp.) code from a far-away system (especially a
 larger host system) over a digital communications link to a nearby
 system (especially a smaller client system. Oppose
-`*upload* <../U/upload.html>`__.
+`upload <../U/upload.html>`__.
 
 Historical use of these terms was at one time associated with transfers
 from large timesharing machines to PCs or peripherals (download) and
@@ -2727,8 +2727,8 @@ D
 **DPer**: /dee·pee·er/, n.
 
 Data Processor. Hackers are absolutely amazed that
-`*suit* <../S/suit.html>`__\ s use this term self-referentially.
-*Computers* process data, not people! See `*DP* <DP.html>`__.
+`suit <../S/suit.html>`__\ s use this term self-referentially.
+*Computers* process data, not people! See `DP <DP.html>`__.
 
 --------------
 
@@ -2751,10 +2751,10 @@ D
 **DP**: /D·P/, n.
 
 1. Data Processing. Listed here because, according to hackers, use of
-the term marks one immediately as a `*suit* <../S/suit.html>`__. See
-`*DPer* <DPer.html>`__.
+the term marks one immediately as a `suit <../S/suit.html>`__. See
+`DPer <DPer.html>`__.
 
-2. Common abbrev for `*Dissociated Press* <Dissociated-Press.html>`__.
+2. Common abbrev for `Dissociated Press <Dissociated-Press.html>`__.
 
 --------------
 
@@ -2789,7 +2789,7 @@ Book.) The horsed knight and the Green Dragon were warily eying each
 other at a distance; now the knight is typing (wearing gauntlets!) at a
 terminal showing a video-game representation of the Red Dragon's head
 while the rest of the beast extends back in normal space. See also
-`*book titles* <../B/book-titles.html>`__.
+`book titles <../B/book-titles.html>`__.
 
 --------------
 
@@ -2811,7 +2811,7 @@ D
 
 **dragon**: n.
 
-[MIT] A program similar to a `*daemon* <daemon.html>`__, except that it
+[MIT] A program similar to a `daemon <daemon.html>`__, except that it
 is not invoked at all, but is instead used by the system to perform
 various secondary tasks. A typical example would be an accounting
 program, which keeps track of who is logged in, accumulates load-average
@@ -2820,7 +2820,7 @@ logged in, where they were, what they were running, etc., along with
 some random picture (such as a unicorn, Snoopy, or the Enterprise),
 which was generated by the ‘name dragon’. Usage: rare outside MIT —
 under Unix and most other OSes this would be called a background demon
-or `*daemon* <daemon.html>`__. The best-known Unix example of a dragon
+or `daemon <daemon.html>`__. The best-known Unix example of a dragon
 is cron(1). At SAIL, they called this sort of thing a phantom.
 
 --------------
@@ -2843,7 +2843,7 @@ D
 
 **drain**: v.
 
-[IBM] Syn. for `*flush* <../F/flush.html>`__ (sense 2). Has a
+[IBM] Syn. for `flush <../F/flush.html>`__ (sense 2). Has a
 connotation of finality about it; one speaks of draining a device before
 taking it offline.
 
@@ -2879,8 +2879,8 @@ convention in order to save 25 cents per serial line per machine; PRIME
 old-timers, on the other hand, claim they inherited the disease from
 Honeywell via customer NASA's compatibility requirements and struggled
 heroically to cure it. Whoever was responsible, this probably qualifies
-as one of the most `*cretinous* <../C/cretinous.html>`__ design
-tradeoffs ever made. See `*meta bit* <../M/meta-bit.html>`__.
+as one of the most `cretinous <../C/cretinous.html>`__ design
+tradeoffs ever made. See `meta bit <../M/meta-bit.html>`__.
 
 --------------
 
@@ -2931,12 +2931,12 @@ D
 **DRECNET**: /drek´net/, n.
 
 [from Yiddish/German ‘dreck’, meaning filth] Deliberate distortion of
-DECNET, a networking protocol used in the `*VMS* <../V/VMS.html>`__
-community. So called because `*DEC* <DEC.html>`__ helped write the
+DECNET, a networking protocol used in the `VMS <../V/VMS.html>`__
+community. So called because `DEC <DEC.html>`__ helped write the
 Ethernet specification and then (either stupidly or as a malignant
 customer-control tactic) violated that spec in the design of DRECNET in
-a way that made it incompatible. See also `*connector
-conspiracy* <../C/connector-conspiracy.html>`__.
+a way that made it incompatible. See also `connector
+conspiracy <../C/connector-conspiracy.html>`__.
 
 --------------
 
@@ -2961,19 +2961,19 @@ D
 [Stanford] The archetypal man you don't want to see about a problem,
 esp. an incompetent professional; a shyster. “Do you know a good eye
 doctor?” “Sure, try Mbogo Eye Care and Professional Dry Cleaning.” The
-name comes from synergy between `*bogus* <../B/bogus.html>`__ and the
+name comes from synergy between `bogus <../B/bogus.html>`__ and the
 original Dr. Mbogo, a witch doctor who was Gomez Addams' physician on
 the old *Addams Family* TV show. Interestingly enough, it turns out that
 under the rules for Swahili noun classes, ‘m-’ is the characteristic
 prefix of “nouns referring to human beings”. As such, “mbogo” is quite
 plausible as a Swahili coinage for a person having the nature of a
-`*bogon* <../B/bogon.html>`__. Actually, “mbogo” is indeed a Ki-Swahili
+`bogon <../B/bogon.html>`__. Actually, “mbogo” is indeed a Ki-Swahili
 word referring to the African Cape Buffalo, *syncerus caffer*. It is one
 of the “big five” dangerous African game animals, and many people with
 bush experience believe it to be the most dangerous of them. Compare
-`*Bloggs Family* <../B/Bloggs-Family.html>`__ and `*J. Random
-Hacker* <../J/J--Random-Hacker.html>`__; see also `*Fred
-Foobar* <../F/Fred-Foobar.html>`__ and `*fred* <../F/fred.html>`__.
+`Bloggs Family <../B/Bloggs-Family.html>`__ and `J. Random
+Hacker <../J/J--Random-Hacker.html>`__; see also `Fred
+Foobar <../F/Fred-Foobar.html>`__ and `fred <../F/fred.html>`__.
 
 --------------
 
@@ -2995,7 +2995,7 @@ D
 
 **driver**: n.
 
-1. The `*main loop* <../M/main-loop.html>`__ of an event-processing
+1. The `main loop <../M/main-loop.html>`__ of an event-processing
 program; the code that gets commands and dispatches them for execution.
 
 2. [techspeak] In device driver, code designed to handle a particular
@@ -3044,8 +3044,8 @@ The implication is that the rules and official procedures constitute
 software that the droid is executing; problems arise when the software
 has not been properly debugged. The term droid mentality is also used to
 describe the mindset behind this behavior. Compare
-`*suit* <../S/suit.html>`__, `*marketroid* <../M/marketroid.html>`__;
-see `*-oid* <../O/suffix-oid.html>`__.
+`suit <../S/suit.html>`__, `marketroid <../M/marketroid.html>`__;
+see `-oid <../O/suffix-oid.html>`__.
 
 In England there is equivalent mainstream slang; a ‘jobsworth’ is an
 obstructive, rule-following bureaucrat, often of the uniformed or suited
@@ -3101,9 +3101,9 @@ D
 
 **drool-proof paper**: n.
 
-Documentation that has been obsessively `*dumbed
-down* <dumbed-down.html>`__, to the point where only a
-`*cretin* <../C/cretin.html>`__ could bear to read it, is said to have
+Documentation that has been obsessively `dumbed
+down <dumbed-down.html>`__, to the point where only a
+`cretin <../C/cretin.html>`__ could bear to read it, is said to have
 succumbed to the ‘drool-proof paper syndrome’ or to have been ‘written
 on drool-proof paper’. For example, this is an actual quote from Apple's
 LaserWriter manual: “Do not expose your LaserWriter to open fire or
@@ -3130,11 +3130,11 @@ D
 
 **drop-ins**: n.
 
-[prob.: by analogy with `*drop-outs* <drop-outs.html>`__] Spurious
+[prob.: by analogy with `drop-outs <drop-outs.html>`__] Spurious
 characters appearing on a terminal or console as a result of line noise
 or a system malfunction of some sort. Esp.: used when these are
 interspersed with one's own typed input. Compare
-`*drop-outs* <drop-outs.html>`__, sense 2.
+`drop-outs <drop-outs.html>`__, sense 2.
 
 --------------
 
@@ -3159,9 +3159,9 @@ D
 To react to an error condition by silently discarding messages or other
 valuable data. “The gateway ran out of memory, so it just started
 dropping packets on the floor.” Also frequently used of faulty mail and
-netnews relay sites that lose messages. See also `*black
-hole* <../B/black-hole.html>`__, `*bit
-bucket* <../B/bit-bucket.html>`__.
+netnews relay sites that lose messages. See also `black
+hole <../B/black-hole.html>`__, `bit
+bucket <../B/bit-bucket.html>`__.
 
 --------------
 
@@ -3183,21 +3183,21 @@ D
 
 **drop-outs**: n.
 
-1. A variety of power glitch (see `*glitch* <../G/glitch.html>`__);
+1. A variety of power glitch (see `glitch <../G/glitch.html>`__);
 momentary 0 voltage on the electrical mains.
 
 2. Missing characters in typed input due to software malfunction or
 system saturation (one cause of such behavior under Unix when a bad
 connection to a modem swamps the processor with spurious character
-interrupts; see `*screaming tty* <../S/screaming-tty.html>`__).
+interrupts; see `screaming tty <../S/screaming-tty.html>`__).
 
 3. Mental glitches; used as a way of describing those occasions when the
 mind just seems to shut down for a couple of beats. See
-`*glitch* <../G/glitch.html>`__, `*fried* <../F/fried.html>`__.
+`glitch <../G/glitch.html>`__, `fried <../F/fried.html>`__.
 
 |image0|
 
-A really serious case of `*drop-outs* <drop-outs.html>`__.
+A really serious case of `drop-outs <drop-outs.html>`__.
 
 (The next cartoon in the Crunchly saga is
 `73-05-21 <../F/fascist.html#crunchly73-05-21>`__. The previous one is
@@ -3226,7 +3226,7 @@ D
 (also on drugs)
 
 1. Conspicuously stupid, heading toward
-`*brain-damaged* <../B/brain-damaged.html>`__. Often accompanied by a
+`brain-damaged <../B/brain-damaged.html>`__. Often accompanied by a
 pantomime of toking a joint.
 
 2. Of hardware, very slow relative to normal performance.
@@ -3254,9 +3254,9 @@ D
 Ancient techspeak term referring to slow, cylindrical magnetic media
 that were once state-of-the-art storage devices. Under some versions of
 BSD Unix the disk partition used for swapping is still called
-``/dev/drum``; this has led to considerable humor and not a few
+"/dev/drum"; this has led to considerable humor and not a few
 straight-faced but utterly bogus ‘explanations’ getting foisted on
-`*newbie* <../N/newbie.html>`__\ s. See also “ `The Story of
+`newbie <../N/newbie.html>`__\ s. See also “ `The Story of
 Mel' <../story-of-mel.html>`__\ ” in Appendix A.
 
 --------------
@@ -3288,7 +3288,7 @@ rotate your mouse pad 90 degrees.
 
 At Xerox PARC in the 1970s, most people kept a can of copier cleaner
 (isopropyl alcohol) at their desks. When the steel ball on the mouse had
-picked up enough `*cruft* <../C/cruft.html>`__ to be unreliable, the
+picked up enough `cruft <../C/cruft.html>`__ to be unreliable, the
 mouse was doused in cleaner, which restored it for a while. However,
 this operation left a fine residue that accelerated the accumulation of
 cruft, so the dousings became more and more frequent. Finally, the mouse
@@ -3365,8 +3365,8 @@ D
 
 **Duff's device**: n.
 
-The most dramatic use yet seen of `*fall
-through* <../F/fall-through.html>`__ in C, invented by Tom Duff when he
+The most dramatic use yet seen of `fall
+through <../F/fall-through.html>`__ in C, invented by Tom Duff when he
 was at Lucasfilm. Trying to optimize all the instructions he could out
 of an inner loop that copied data serially onto an output port, he
 decided to unroll it. He then realized that the unrolled version could
@@ -3456,8 +3456,8 @@ be implemented by *interlacing* the structures of a switch and a loop:
 +---------+
 
 Shocking though it appears to all who encounter it for the first time,
-the device is actually perfectly valid, legal C. C's default `*fall
-through* <../F/fall-through.html>`__ in case statements has long been
+the device is actually perfectly valid, legal C. C's default `fall
+through <../F/fall-through.html>`__ in case statements has long been
 its most controversial single feature; Duff observed that “This code
 forms some sort of argument in that debate, but I'm not sure whether
 it's for or against.” Duff has discussed the device in detail at
@@ -3491,9 +3491,9 @@ D
 **dumbass attack**: /duhm´as @·tak´/, n.
 
 [Purdue] Notional cause of a novice's mistake made by the experienced,
-especially one made while running as `*root* <../R/root.html>`__ under
+especially one made while running as `root <../R/root.html>`__ under
 Unix, e.g., typing **rm -r \*** or **mkfs** on a mounted file system.
-Compare `*adger* <../A/adger.html>`__.
+Compare `adger <../A/adger.html>`__.
 
 --------------
 
@@ -3516,10 +3516,10 @@ D
 **dumbed down**: adj.
 
 Simplified, with a strong connotation of *over*\ simplified. Often, a
-`*marketroid* <../M/marketroid.html>`__ will insist that the interfaces
+`marketroid <../M/marketroid.html>`__ will insist that the interfaces
 and documentation of software be dumbed down after the designer has
 burned untold gallons of midnight oil making it smart. This creates
-friction. See `*user-friendly* <../U/user-friendly.html>`__.
+friction. See `user-friendly <../U/user-friendly.html>`__.
 
 --------------
 
@@ -3541,10 +3541,10 @@ D
 
 **dumb terminal**: n.
 
-A terminal that is one step above a `*glass
-tty* <../G/glass-tty.html>`__, having a minimally addressable cursor but
-no on-screen editing or other features normally supported by a `*smart
-terminal* <../S/smart-terminal.html>`__. Once upon a time, when glass
+A terminal that is one step above a `glass
+tty <../G/glass-tty.html>`__, having a minimally addressable cursor but
+no on-screen editing or other features normally supported by a `smart
+terminal <../S/smart-terminal.html>`__. Once upon a time, when glass
 ttys were common and addressable cursors were something special, what is
 now called a dumb terminal could pass for a smart terminal.
 
@@ -3570,11 +3570,11 @@ D
 
 1. An undigested and voluminous mass of information about a problem or
 the state of a system, especially one routed to the slowest available
-output device (compare `*core dump* <../C/core-dump.html>`__), and most
-especially one consisting of hex or octal `*runes* <../R/runes.html>`__
+output device (compare `core dump <../C/core-dump.html>`__), and most
+especially one consisting of hex or octal `runes <../R/runes.html>`__
 describing the byte-by-byte state of memory, mass storage, or some file.
-In `*elder days* <../E/elder-days.html>`__, debugging was generally done
-by groveling over a dump (see `*grovel* <../G/grovel.html>`__);
+In `elder days <../E/elder-days.html>`__, debugging was generally done
+by groveling over a dump (see `grovel <../G/grovel.html>`__);
 increasing use of high-level languages and interactive debuggers has
 made such tedium uncommon, and the term dump now has a faintly archaic
 flavor.
@@ -3607,7 +3607,7 @@ installation to extract confidential data, especially
 security-compromising information (‘dumpster’ is an Americanism for what
 is elsewhere called a skip). Back in AT&T's monopoly days, before paper
 shredders became common office equipment, phone phreaks (see
-`*phreaking* <../P/phreaking.html>`__) used to organize regular dumpster
+`phreaking <../P/phreaking.html>`__) used to organize regular dumpster
 runs against phone company plants and offices. Discarded and damaged
 copies of AT&T internal manuals taught them much. The technique is still
 rumored to be a favorite of crackers operating against careless targets.
@@ -3617,7 +3617,7 @@ producers and/or consumers of high-tech equipment are located, with the
 expectation (usually justified) of finding discarded but still-valuable
 equipment to be nursed back to health in some hacker's den. Experienced
 dumpster-divers not infrequently accumulate basements full of moldering
-(but still potentially useful) `*cruft* <../C/cruft.html>`__.
+(but still potentially useful) `cruft <../C/cruft.html>`__.
 
 --------------
 
@@ -3640,14 +3640,14 @@ D
 **dusty deck**: n.
 
 Old software (especially applications) which one is obliged to remain
-compatible with, or to maintain (`*DP* <DP.html>`__ types call this
+compatible with, or to maintain (`DP <DP.html>`__ types call this
 legacy code, a term hackers consider smarmy and excessively reverent).
 The term implies that the software in question is a holdover from
 card-punch days. Used esp. when referring to old scientific and
-`*number-crunching* <../N/number-crunching.html>`__ software, much of
+`number-crunching <../N/number-crunching.html>`__ software, much of
 which was written in FORTRAN and very poorly documented but is believed
-to be too expensive to replace. See `*fossil* <../F/fossil.html>`__;
-compare `*crawling horror* <../C/crawling-horror.html>`__.
+to be too expensive to replace. See `fossil <../F/fossil.html>`__;
+compare `crawling horror <../C/crawling-horror.html>`__.
 
 --------------
 
@@ -3676,11 +3676,11 @@ when bogus input was provided.
 
 2. n. obs. The BBNLISP/INTERLISP function that attempted to accomplish
 this feat by correcting many of the more common errors. See
-`*hairy* <../H/hairy.html>`__.
+`hairy <../H/hairy.html>`__.
 
 3. Occasionally, an interjection hurled at a balky computer, esp. when
 one senses one might be tripping over legalisms (see
-`*legalese* <../L/legalese.html>`__).
+`legalese <../L/legalese.html>`__).
 
 4. Of a person, someone whose directions are incomprehensible and vague,
 but who nevertheless has the expectation that you will solve the problem
@@ -3700,7 +3700,7 @@ trying to delete any backup files left over from old editing sessions.)
 It happened that there weren't any editor backup files, so DWIM
 helpfully reported **\*$ not found, assuming you meant 'delete \*'.** It
 then started to delete all the files on the disk! The hacker managed to
-stop it with a `*Vulcan nerve pinch* <../V/Vulcan-nerve-pinch.html>`__
+stop it with a `Vulcan nerve pinch <../V/Vulcan-nerve-pinch.html>`__
 after only a half dozen or so files were lost.
 
 The disgruntled victim later said he had been sorely tempted to go to
@@ -3712,7 +3712,7 @@ program; it is also occasionally described as the single instruction the
 ideal computer would have. Back when proofs of program correctness were
 in vogue, there were also jokes about DWIMC (Do What I Mean, Correctly).
 A related term, more often seen as a verb, is DTRT (Do The Right Thing);
-see `*Right Thing* <../R/Right-Thing.html>`__.
+see `Right Thing <../R/Right-Thing.html>`__.
 
 --------------
 
@@ -3734,11 +3734,11 @@ D
 
 **dynner**: /din´r/, n.
 
-32 bits, by analogy with `*nybble* <../N/nybble.html>`__ and
-`*byte* <../B/byte.html>`__. Usage: rare and extremely silly. See also
-`*playte* <../P/playte.html>`__, `*tayste* <../T/tayste.html>`__,
-`*crumb* <../C/crumb.html>`__. General discussion of such terms is under
-`*nybble* <../N/nybble.html>`__.
+32 bits, by analogy with `nybble <../N/nybble.html>`__ and
+`byte <../B/byte.html>`__. Usage: rare and extremely silly. See also
+`playte <../P/playte.html>`__, `tayste <../T/tayste.html>`__,
+`crumb <../C/crumb.html>`__. General discussion of such terms is under
+`nybble <../N/nybble.html>`__.
 
 --------------
 

@@ -237,7 +237,7 @@ zorch
 
 1. [TMRC] v. To attack with an inverse heat sink.
 
-2. [TMRC] v. To travel, with ``v`` approaching ``c`` [that is, with
+2. [TMRC] v. To travel, with "v" approaching "c" [that is, with
 velocity approaching lightspeed —ESR].
 
 3. [MIT] v. To propel something very quickly. “The new comm software is

@@ -63,7 +63,7 @@ XON
 
 **XON**: /X·on/, n.
 
-Syn. `*control-Q* <../C/control-Q.html>`__.
+Syn. `control-Q <../C/control-Q.html>`__.
 
 
 xor
