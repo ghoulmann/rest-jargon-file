@@ -631,7 +631,8 @@ been noted that the word “chad” is Scots dialect for gravel, but nobody
 has proposed any plausible reason that card chaff should be thought of
 as gravel. None of these etymologies is really plausible.
 
-|image0|
+
+.. image:: ../_static/74-12-31.png
 
 This is *one* way to be `chad <chad.html>`__\ less.
 
@@ -643,7 +644,6 @@ cartoon was `74-12-29 <../W/winged-comments.html#crunchly74-12-29>`__.)
 
 
 
-.. image:: ../../_static/74-12-31.png
 
 chain
 =====
@@ -1157,7 +1157,7 @@ style <../I/indent-style.html>`__.
 
 
 
-.. |image0| image:: ../../_static/ansi-c.png
+.. image:: ../_static/ansi-c.png
 
 
 chug

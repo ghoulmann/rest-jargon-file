@@ -2,7 +2,8 @@
 D
 =======
 
-
+demon book
+============
 
 **daemon book**: n.
 
@@ -18,13 +19,6 @@ picture depicting a little demon (a visual play on
 `daemon <daemon.html>`__) in sneakers, holding a pitchfork (referring
 to one of the characteristic features of Unix, the fork(2) system call).
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <daemon.html>`__    | `Up <../D.html>`__         |  `Next <dahmum.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| daemon                    | `Home <../index.html>`__   |  dahmum                   |
-+---------------------------+----------------------------+---------------------------+
 
 daemon
 ================
@@ -381,7 +375,6 @@ did for many years.
 Death Star
 ================
 
-
 **Death Star**: n.
 
 [from the movie *Star Wars*]
@@ -464,6 +457,7 @@ young to have grown up on DEC machines.
 
 
 deckle
+=======
 
 
 **deckle**: /dek´l/, n.
@@ -630,23 +624,10 @@ the original. Usually written rather than spoken; often appears as a
 pseudo-tag or ellipsis in the body of the reply, as “[deletia]” or
 “<deletia>” or “<snip>”.
 
---------------
 
-+----------------------------+----------------------------+--------------------------------+
-| `Prev <Dejagoo.html>`__    | `Up <../D.html>`__         |  `Next <deliminator.html>`__   |
-+----------------------------+----------------------------+--------------------------------+
-| Dejagoo                    | `Home <../index.html>`__   |  deliminator                   |
-+----------------------------+----------------------------+--------------------------------+
 
 deliminator
-
-`Prev <deletia.html>`__ 
-
-D
-
- `Next <delint.html>`__
-
---------------
+==============
 
 **deliminator**: /de·lim'·in·ay·t@r/, n.
 
@@ -656,23 +637,10 @@ of fields. This jargon seems to have originated among Perl hackers in
 connection with the Perl split() function; however, it has been sighted
 in live use among Java and even Visual Basic programmers.
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <deletia.html>`__    | `Up <../D.html>`__         |  `Next <delint.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| deletia                    | `Home <../index.html>`__   |  delint                   |
-+----------------------------+----------------------------+---------------------------+
-
 delint
+==============
 
-`Prev <deliminator.html>`__ 
 
-D
-
- `Next <delta.html>`__
-
---------------
 
 **delint**: /dee·lint/, v. obs.
 
@@ -682,23 +650,10 @@ referred to as linting code. This term is no longer in general use
 because ANSI C compilers typically issue compile-time warnings almost as
 detailed as lint warnings.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------+
-| `Prev <deliminator.html>`__    | `Up <../D.html>`__         |  `Next <delta.html>`__   |
-+--------------------------------+----------------------------+--------------------------+
-| deliminator                    | `Home <../index.html>`__   |  delta                   |
-+--------------------------------+----------------------------+--------------------------+
 
 delta
-
-`Prev <delint.html>`__ 
-
-D
-
- `Next <demented.html>`__
-
---------------
+========
 
 **delta**: n.
 
@@ -726,23 +681,10 @@ isn't totally negligible, but it is nevertheless very small. Common
 constructions include within delta of —, within epsilon of —: that is,
 ‘close to’ and ‘even closer to’.
 
---------------
 
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <delint.html>`__    | `Up <../D.html>`__         |  `Next <demented.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| delint                    | `Home <../index.html>`__   |  demented                   |
-+---------------------------+----------------------------+-----------------------------+
 
 demented
-
-`Prev <delta.html>`__ 
-
-D
-
- `Next <demigod.html>`__
-
---------------
+============
 
 **demented**: adj.
 
@@ -754,23 +696,11 @@ of imminent collapse. Compare `wonky <../W/wonky.html>`__,
 `brain-damaged <../B/brain-damaged.html>`__,
 `bozotic <../B/bozotic.html>`__.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <delta.html>`__    | `Up <../D.html>`__         |  `Next <demigod.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| delta                    | `Home <../index.html>`__   |  demigod                   |
-+--------------------------+----------------------------+----------------------------+
 
 demigod
+=========
 
-`Prev <demented.html>`__ 
-
-D
-
- `Next <demo.html>`__
-
---------------
 
 **demigod**: n.
 
@@ -794,23 +724,9 @@ veiled hopes of apotheosis. See also `net.god <../N/net-god.html>`__,
 `ubergeek <../U/ubergeek.html>`__. Since 1995 or so this term has been
 gradually displaced by `ubergeek <../U/ubergeek.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <demented.html>`__    | `Up <../D.html>`__         |  `Next <demo.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| demented                    | `Home <../index.html>`__   |  demo                   |
-+-----------------------------+----------------------------+-------------------------+
 
 demoeffect
-
-`Prev <demo-mode.html>`__ 
-
-D
-
- `Next <demogroup.html>`__
-
---------------
+=============
 
 **demoeffect**: n.
 
@@ -833,23 +749,8 @@ client. Plagues most often CS students and small businesses, but there
 is a well-known case involving Bill Gates demonstrating a brand new
 version of a major operating system.
 
---------------
-
-+------------------------------+----------------------------+------------------------------+
-| `Prev <demo-mode.html>`__    | `Up <../D.html>`__         |  `Next <demogroup.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| demo mode                    | `Home <../index.html>`__   |  demogroup                   |
-+------------------------------+----------------------------+------------------------------+
-
 demogroup
-
-`Prev <demoeffect.html>`__ 
-
-D
-
- `Next <demon.html>`__
-
---------------
+=============
 
 **demogroup**: n.
 
@@ -863,23 +764,8 @@ uncommon for one person to do multiple jobs, but it has been observed
 that good coders are rarely good composers and vice versa. [How odd.
 Musical talent seems common among Internet/Unix hackers —ESR]
 
---------------
-
-+-------------------------------+----------------------------+--------------------------+
-| `Prev <demoeffect.html>`__    | `Up <../D.html>`__         |  `Next <demon.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
-| demoeffect                    | `Home <../index.html>`__   |  demon                   |
-+-------------------------------+----------------------------+--------------------------+
-
 demo
-
-`Prev <demigod.html>`__ 
-
-D
-
- `Next <demo-mode.html>`__
-
---------------
+==========
 
 **demo**: /de´moh/
 
@@ -909,23 +795,9 @@ called eurodemos outside Europe, as most of the
 northern Europe and especially Scandinavia. See also
 `intro <../I/intro.html>`__, `dentro <dentro.html>`__.
 
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <demigod.html>`__    | `Up <../D.html>`__         |  `Next <demo-mode.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| demigod                    | `Home <../index.html>`__   |  demo mode                   |
-+----------------------------+----------------------------+------------------------------+
 
 demo mode
-
-`Prev <demo.html>`__ 
-
-D
-
- `Next <demoeffect.html>`__
-
---------------
+==============
 
 **demo mode**: n.
 
@@ -941,23 +813,9 @@ Microsoft Windows opening screen — which lets you impress your neighbors
 without actually having to put up with `Microsloth
 Windows <../M/Microsloth-Windows.html>`__).
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <demo.html>`__    | `Up <../D.html>`__         |  `Next <demoeffect.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| demo                    | `Home <../index.html>`__   |  demoeffect                   |
-+-------------------------+----------------------------+-------------------------------+
 
 demon dialer
-
-`Prev <demon.html>`__ 
-
-D
-
- `Next <demoparty.html>`__
-
---------------
+==============
 
 **demon dialer**: n.
 
@@ -970,23 +828,8 @@ early 1980s and is now semi-obsolescent among
 `phreaker <../P/phreaker.html>`__\ s; see `war
 dialer <../W/war-dialer.html>`__ for its contemporary progeny.
 
---------------
-
-+--------------------------+----------------------------+------------------------------+
-| `Prev <demon.html>`__    | `Up <../D.html>`__         |  `Next <demoparty.html>`__   |
-+--------------------------+----------------------------+------------------------------+
-| demon                    | `Home <../index.html>`__   |  demoparty                   |
-+--------------------------+----------------------------+------------------------------+
-
 demon
-
-`Prev <demogroup.html>`__ 
-
-D
-
- `Next <demon-dialer.html>`__
-
---------------
+========
 
 **demon**: n.
 
@@ -1010,23 +853,8 @@ in turn activate more demons as the inferences filtered down through
 chains of logic. Meanwhile, the main program could continue with
 whatever its primary task was.
 
---------------
-
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <demogroup.html>`__    | `Up <../D.html>`__         |  `Next <demon-dialer.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| demogroup                    | `Home <../index.html>`__   |  demon dialer                   |
-+------------------------------+----------------------------+---------------------------------+
-
 demoparty
-
-`Prev <demon-dialer.html>`__ 
-
-D
-
- `Next <demoscene.html>`__
-
---------------
+=============
 
 **demoparty**: n.
 
@@ -1042,23 +870,9 @@ north America). These parties usually last for three to five days, have
 room for 3000-5000 people, and have a party network with connection to
 the internet.
 
---------------
-
-+---------------------------------+----------------------------+------------------------------+
-| `Prev <demon-dialer.html>`__    | `Up <../D.html>`__         |  `Next <demoscene.html>`__   |
-+---------------------------------+----------------------------+------------------------------+
-| demon dialer                    | `Home <../index.html>`__   |  demoscene                   |
-+---------------------------------+----------------------------+------------------------------+
 
 demoscene
-
-`Prev <demoparty.html>`__ 
-
-D
-
- `Next <dentro.html>`__
-
---------------
+==========
 
 **demoscene**: /dem´oh·seen/
 
@@ -1099,23 +913,9 @@ computer game industry. Demoscene resource pages are available at
 `http://www.oldskool.org/demos/explained/ <http://www.oldskool.org/demos/explained/>`__
 and `http://www.scene.org/ <http://www.scene.org/>`__.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <demoparty.html>`__    | `Up <../D.html>`__         |  `Next <dentro.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| demoparty                    | `Home <../index.html>`__   |  dentro                   |
-+------------------------------+----------------------------+---------------------------+
-
 dentro
+=============
 
-`Prev <demoscene.html>`__ 
-
-D
-
- `Next <depeditate.html>`__
-
---------------
 
 **dentro**: /den´troh/
 
@@ -1127,23 +927,8 @@ the authors are not quite sure whether the program is a
 Special-purpose coinages like wedtro (some member of a group got
 married), invtro (invitation intro) etc. have also been sighted.
 
---------------
-
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <demoscene.html>`__    | `Up <../D.html>`__         |  `Next <depeditate.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| demoscene                    | `Home <../index.html>`__   |  depeditate                   |
-+------------------------------+----------------------------+-------------------------------+
-
 depeditate
-
-`Prev <dentro.html>`__ 
-
-D
-
- `Next <deprecated.html>`__
-
---------------
+==============
 
 **depeditate**: /dee·ped'@·tayt/, n.
 
@@ -1153,23 +938,8 @@ placement of text blocks within a page or above a rule can result in
 chopped-off letter descenders. Such letters are said to have been
 depeditated.
 
---------------
-
-+---------------------------+----------------------------+-------------------------------+
-| `Prev <dentro.html>`__    | `Up <../D.html>`__         |  `Next <deprecated.html>`__   |
-+---------------------------+----------------------------+-------------------------------+
-| dentro                    | `Home <../index.html>`__   |  deprecated                   |
-+---------------------------+----------------------------+-------------------------------+
-
 deprecated
-
-`Prev <depeditate.html>`__ 
-
-D
-
- `Next <derf.html>`__
-
---------------
+===================
 
 **deprecated**: adj.
 
@@ -1186,23 +956,8 @@ deck <dusty-deck.html>`__.
 form ‘deprecate’ with ‘depreciate’. They are different words; see any
 dictionary for discussion.]
 
---------------
-
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <depeditate.html>`__    | `Up <../D.html>`__         |  `Next <derf.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| depeditate                    | `Home <../index.html>`__   |  derf                   |
-+-------------------------------+----------------------------+-------------------------+
-
 de-rezz
-
-`Prev <DDT.html>`__ 
-
-D
-
- `Next <dead.html>`__
-
---------------
+==========
 
 **de-rezz**: /dee·rez´/
 
@@ -1221,23 +976,8 @@ the program file known as resources; Rez and DeRez are a pair of
 utilities for compiling and decompiling resource files. Thus,
 decompiling a resource is derezzing. Usage: very common.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <DDT.html>`__    | `Up <../D.html>`__         |  `Next <dead.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| DDT                    | `Home <../index.html>`__   |  dead                   |
-+------------------------+----------------------------+-------------------------+
-
 derf
-
-`Prev <deprecated.html>`__ 
-
-D
-
- `Next <deserves-to-lose.html>`__
-
---------------
+=================
 
 **derf**: /derf/
 
@@ -1255,23 +995,9 @@ pantsing <../B/baggy-pantsing.html>`__.
 2. n. The victim of an act of derfing, sense 1. The most typical posting
 from a derfed account read “I am a derf.”.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------------+
-| `Prev <deprecated.html>`__    | `Up <../D.html>`__         |  `Next <deserves-to-lose.html>`__   |
-+-------------------------------+----------------------------+-------------------------------------+
-| deprecated                    | `Home <../index.html>`__   |  deserves to lose                   |
-+-------------------------------+----------------------------+-------------------------------------+
 
 deserves to lose
-
-`Prev <derf.html>`__ 
-
-D
-
- `Next <despew.html>`__
-
---------------
+=================
 
 **deserves to lose**: adj.
 
@@ -1286,23 +1012,9 @@ say the same thing of `Unix <../U/Unix.html>`__; many still do.) See
 also `screw <../S/screw.html>`__, `chomp <../C/chomp.html>`__,
 `bagbiter <../B/bagbiter.html>`__.
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <derf.html>`__    | `Up <../D.html>`__         |  `Next <despew.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| derf                    | `Home <../index.html>`__   |  despew                   |
-+-------------------------+----------------------------+---------------------------+
 
 despew
-
-`Prev <deserves-to-lose.html>`__ 
-
-D
-
- `Next <dickless-workstation.html>`__
-
---------------
+===========
 
 **despew**: /d@·spyoo´/, v.
 
@@ -1310,23 +1022,9 @@ D
 esp. from an automated posting program gone wild. See
 `ARMM <../A/ARMM.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+-----------------------------------------+
-| `Prev <deserves-to-lose.html>`__    | `Up <../D.html>`__         |  `Next <dickless-workstation.html>`__   |
-+-------------------------------------+----------------------------+-----------------------------------------+
-| deserves to lose                    | `Home <../index.html>`__   |  dickless workstation                   |
-+-------------------------------------+----------------------------+-----------------------------------------+
 
 dickless workstation
-
-`Prev <despew.html>`__ 
-
-D
-
- `Next <dictionary-flame.html>`__
-
---------------
+===========================
 
 **dickless workstation**: n.
 
@@ -1339,23 +1037,9 @@ personal computers; typically, they cannot even
 kind of `breath-of-life packet <../B/breath-of-life-packet.html>`__)
 from the server.
 
---------------
-
-+---------------------------+----------------------------+-------------------------------------+
-| `Prev <despew.html>`__    | `Up <../D.html>`__         |  `Next <dictionary-flame.html>`__   |
-+---------------------------+----------------------------+-------------------------------------+
-| despew                    | `Home <../index.html>`__   |  dictionary flame                   |
-+---------------------------+----------------------------+-------------------------------------+
 
 dictionary flame
-
-`Prev <dickless-workstation.html>`__ 
-
-D
-
- `Next <diddle.html>`__
-
---------------
+====================
 
 **dictionary flame**: n.
 
@@ -1365,23 +1049,9 @@ smuggle in an implicit premise. A common tactic of people who prefer
 argument over definitions to disputes about reality. Compare `spelling
 flame <../S/spelling-flame.html>`__.
 
---------------
-
-+-----------------------------------------+----------------------------+---------------------------+
-| `Prev <dickless-workstation.html>`__    | `Up <../D.html>`__         |  `Next <diddle.html>`__   |
-+-----------------------------------------+----------------------------+---------------------------+
-| dickless workstation                    | `Home <../index.html>`__   |  diddle                   |
-+-----------------------------------------+----------------------------+---------------------------+
 
 diddle
-
-`Prev <dictionary-flame.html>`__ 
-
-D
-
- `Next <die.html>`__
-
---------------
+===========
 
 **diddle**
 
@@ -1396,23 +1066,8 @@ the problem goes away.” See `tweak <../T/tweak.html>`__ and
 See also `tweak <../T/tweak.html>`__,
 `twiddle <../T/twiddle.html>`__, `frob <../F/frob.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+------------------------+
-| `Prev <dictionary-flame.html>`__    | `Up <../D.html>`__         |  `Next <die.html>`__   |
-+-------------------------------------+----------------------------+------------------------+
-| dictionary flame                    | `Home <../index.html>`__   |  die                   |
-+-------------------------------------+----------------------------+------------------------+
-
 die horribly
-
-`Prev <die.html>`__ 
-
-D
-
- `Next <diff.html>`__
-
---------------
+======================
 
 **die horribly**: v.
 
@@ -1421,23 +1076,8 @@ burn <../C/crash-and-burn.html>`__, and the preferred emphatic form of
 `die <die.html>`__. “The converter choked on an FF in its input and
 died horribly”.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <die.html>`__    | `Up <../D.html>`__         |  `Next <diff.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| die                    | `Home <../index.html>`__   |  diff                   |
-+------------------------+----------------------------+-------------------------+
-
 die
-
-`Prev <diddle.html>`__ 
-
-D
-
- `Next <die-horribly.html>`__
-
---------------
+============
 
 **die**: v.
 
@@ -1447,23 +1087,9 @@ verb is used of both hardware and software. See also `go
 flatline <../G/go-flatline.html>`__, `casters-up
 mode <../C/casters-up-mode.html>`__.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------+
-| `Prev <diddle.html>`__    | `Up <../D.html>`__         |  `Next <die-horribly.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
-| diddle                    | `Home <../index.html>`__   |  die horribly                   |
-+---------------------------+----------------------------+---------------------------------+
 
 diff
-
-`Prev <die-horribly.html>`__ 
-
-D
-
- `Next <dike.html>`__
-
---------------
+===========
 
 **diff**: /dif/, n.
 
@@ -1482,23 +1108,8 @@ the Unix/C world.
 machine-readable files); see also `vdiff <../V/vdiff.html>`__,
 `mod <../M/mod.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+-------------------------+
-| `Prev <die-horribly.html>`__    | `Up <../D.html>`__         |  `Next <dike.html>`__   |
-+---------------------------------+----------------------------+-------------------------+
-| die horribly                    | `Home <../index.html>`__   |  dike                   |
-+---------------------------------+----------------------------+-------------------------+
-
 dike
-
-`Prev <diff.html>`__ 
-
-D
-
- `Next <Dilbert.html>`__
-
---------------
+===========
 
 **dike**: vt.
 
@@ -1512,23 +1123,8 @@ something. Indeed, the TMRC Dictionary defined dike as “to attack with
 dikes”. Among hackers this term has been metaphorically extended to
 informational objects such as sections of code.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <diff.html>`__    | `Up <../D.html>`__         |  `Next <Dilbert.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| diff                    | `Home <../index.html>`__   |  Dilbert                   |
-+-------------------------+----------------------------+----------------------------+
-
 Dilbert
-
-`Prev <dike.html>`__ 
-
-D
-
- `Next <ding.html>`__
-
---------------
+=============
 
 **Dilbert**
 
@@ -1548,23 +1144,8 @@ an even funnier book, *The Dilbert Principle* (HarperCollins, ISBN
 0-887-30787-6). See also `pointy-haired <../P/pointy-haired.html>`__,
 `rat dance <../R/rat-dance.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <dike.html>`__    | `Up <../D.html>`__         |  `Next <ding.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| dike                    | `Home <../index.html>`__   |  ding                   |
-+-------------------------+----------------------------+-------------------------+
-
 ding
-
-`Prev <Dilbert.html>`__ 
-
-D
-
- `Next <dink.html>`__
-
---------------
+=========
 
 **ding**: n.,vi.
 
@@ -1575,23 +1156,9 @@ but more common in the `Real World <../R/Real-World.html>`__.
 bitching about something, esp. something trivial. “I was dinged for
 having a messy desk.”
 
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <Dilbert.html>`__    | `Up <../D.html>`__         |  `Next <dink.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| Dilbert                    | `Home <../index.html>`__   |  dink                   |
-+----------------------------+----------------------------+-------------------------+
 
 dink
-
-`Prev <ding.html>`__ 
-
-D
-
- `Next <dinosaur.html>`__
-
---------------
+========
 
 **dink**: /dink/, adj.
 
@@ -1604,23 +1171,9 @@ system, then from fans of 32-bit architectures about 16-bit machines.
 mainstream ‘dinky’, which isn't sufficiently pejorative. See
 `macdink <../M/macdink.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <ding.html>`__    | `Up <../D.html>`__         |  `Next <dinosaur.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| ding                    | `Home <../index.html>`__   |  dinosaur                   |
-+-------------------------+----------------------------+-----------------------------+
 
 dinosaur
-
-`Prev <dink.html>`__ 
-
-D
-
- `Next <dinosaur-pen.html>`__
-
---------------
+============
 
 **dinosaur**: n.
 
@@ -1636,23 +1189,9 @@ iron <../B/big-iron.html>`__; see also
 2. [IBM] A very conservative user; a
 `zipperhead <../Z/zipperhead.html>`__.
 
---------------
-
-+-------------------------+----------------------------+---------------------------------+
-| `Prev <dink.html>`__    | `Up <../D.html>`__         |  `Next <dinosaur-pen.html>`__   |
-+-------------------------+----------------------------+---------------------------------+
-| dink                    | `Home <../index.html>`__   |  dinosaur pen                   |
-+-------------------------+----------------------------+---------------------------------+
 
 dinosaur pen
-
-`Prev <dinosaur.html>`__ 
-
-D
-
- `Next <dinosaurs-mating.html>`__
-
---------------
+========================
 
 **dinosaur pen**: n.
 
@@ -1661,23 +1200,8 @@ complete with raised flooring, special power, its own ultra-heavy-duty
 air conditioning, and a side order of Halon fire extinguishers. See
 `boa <../B/boa.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------------+
-| `Prev <dinosaur.html>`__    | `Up <../D.html>`__         |  `Next <dinosaurs-mating.html>`__   |
-+-----------------------------+----------------------------+-------------------------------------+
-| dinosaur                    | `Home <../index.html>`__   |  dinosaurs mating                   |
-+-----------------------------+----------------------------+-------------------------------------+
-
 dinosaurs mating
-
-`Prev <dinosaur-pen.html>`__ 
-
-D
-
- `Next <dirtball.html>`__
-
---------------
+=======================
 
 **dinosaurs mating**: n.
 
@@ -1698,23 +1222,9 @@ after 1995, Digital Equipment was bought by Compaq which was bought by
 Hewlett-Packard. More such earth-shaking unions of doomed giants seem
 inevitable.
 
---------------
-
-+---------------------------------+----------------------------+-----------------------------+
-| `Prev <dinosaur-pen.html>`__    | `Up <../D.html>`__         |  `Next <dirtball.html>`__   |
-+---------------------------------+----------------------------+-----------------------------+
-| dinosaur pen                    | `Home <../index.html>`__   |  dirtball                   |
-+---------------------------------+----------------------------+-----------------------------+
 
 dirtball
-
-`Prev <dinosaurs-mating.html>`__ 
-
-D
-
- `Next <dirty-power.html>`__
-
---------------
+==============
 
 **dirtball**: n.
 
@@ -1726,23 +1236,9 @@ which usage of this term exemplifies. The brilliance and scope of PARC's
 contributions to computer science have been such that this superior
 attitude is not much resented. —ESR]
 
---------------
-
-+-------------------------------------+----------------------------+--------------------------------+
-| `Prev <dinosaurs-mating.html>`__    | `Up <../D.html>`__         |  `Next <dirty-power.html>`__   |
-+-------------------------------------+----------------------------+--------------------------------+
-| dinosaurs mating                    | `Home <../index.html>`__   |  dirty power                   |
-+-------------------------------------+----------------------------+--------------------------------+
 
 dirty power
-
-`Prev <dirtball.html>`__ 
-
-D
-
- `Next <disclaimer.html>`__
-
---------------
+================
 
 **dirty power**: n.
 
@@ -1752,23 +1248,8 @@ significantly higher or lower than nominal, or just plain noise can all
 cause problems of varying subtlety and severity (these are collectively
 known as `power hit <../P/power-hit.html>`__\ s).
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------+
-| `Prev <dirtball.html>`__    | `Up <../D.html>`__         |  `Next <disclaimer.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
-| dirtball                    | `Home <../index.html>`__   |  disclaimer                   |
-+-----------------------------+----------------------------+-------------------------------+
-
 disclaimer
-
-`Prev <dirty-power.html>`__ 
-
-D
-
- `Next <Discordianism.html>`__
-
---------------
+============
 
 **disclaimer**: n.
 
@@ -1778,23 +1259,8 @@ should be obvious, but is easily forgotten) that the article reflects
 its author's opinions and not necessarily those of the organization
 running the machine through which the article entered the network.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------------+
-| `Prev <dirty-power.html>`__    | `Up <../D.html>`__         |  `Next <Discordianism.html>`__   |
-+--------------------------------+----------------------------+----------------------------------+
-| dirty power                    | `Home <../index.html>`__   |  Discordianism                   |
-+--------------------------------+----------------------------+----------------------------------+
-
 Discordianism
-
-`Prev <disclaimer.html>`__ 
-
-D
-
- `Next <disemvowel.html>`__
-
---------------
+================
 
 **Discordianism**: /dis·kor´di·@n·ism/, n.
 
@@ -1812,46 +1278,16 @@ See `Religion <../religion.html>`__ in Appendix B, `Church of the
 SubGenius <../C/Church-of-the-SubGenius.html>`__, and `ha ha only
 serious <../H/ha-ha-only-serious.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------+
-| `Prev <disclaimer.html>`__    | `Up <../D.html>`__         |  `Next <disemvowel.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
-| disclaimer                    | `Home <../index.html>`__   |  disemvowel                   |
-+-------------------------------+----------------------------+-------------------------------+
-
 disemvowel
-
-`Prev <Discordianism.html>`__ 
-
-D
-
- `Next <disk-farm.html>`__
-
---------------
+=============
 
 **disemvowel**: v.
 
 [USENET: play on ‘disembowel’] Less common synonym for `splat
 out <../S/splat-out.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <Discordianism.html>`__    | `Up <../D.html>`__         |  `Next <disk-farm.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| Discordianism                    | `Home <../index.html>`__   |  disk farm                   |
-+----------------------------------+----------------------------+------------------------------+
-
 disk farm
-
-`Prev <disemvowel.html>`__ 
-
-D
-
- `Next <display-hack.html>`__
-
---------------
+=============
 
 **disk farm**: n.
 
@@ -1862,23 +1298,8 @@ established by 1990, and generalized by about ten years later; see
 densities reached livels where terabytes of storage can easily be fit in
 a single rack.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------------+
-| `Prev <disemvowel.html>`__    | `Up <../D.html>`__         |  `Next <display-hack.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
-| disemvowel                    | `Home <../index.html>`__   |  display hack                   |
-+-------------------------------+----------------------------+---------------------------------+
-
 display hack
-
-`Prev <disk-farm.html>`__ 
-
-D
-
- `Next <dispress.html>`__
-
---------------
+================
 
 **display hack**: n.
 
@@ -1896,23 +1317,8 @@ the esthetic value of the images times the cleverness of the algorithm
 divided by the size of the code. Syn.
 `psychedelicware <../P/psychedelicware.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <disk-farm.html>`__    | `Up <../D.html>`__         |  `Next <dispress.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| disk farm                    | `Home <../index.html>`__   |  dispress                   |
-+------------------------------+----------------------------+-----------------------------+
-
 dispress
-
-`Prev <display-hack.html>`__ 
-
-D
-
- `Next <Dissociated-Press.html>`__
-
---------------
+==========
 
 **dispress**: vt.
 
@@ -1921,23 +1327,8 @@ filenames] To apply the `Dissociated Press <Dissociated-Press.html>`__
 algorithm to a block of text. The resultant output is also referred to
 as a 'dispression'.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------------+
-| `Prev <display-hack.html>`__    | `Up <../D.html>`__         |  `Next <Dissociated-Press.html>`__   |
-+---------------------------------+----------------------------+--------------------------------------+
-| display hack                    | `Home <../index.html>`__   |  Dissociated Press                   |
-+---------------------------------+----------------------------+--------------------------------------+
-
 Dissociated Press
-
-`Prev <dispress.html>`__ 
-
-D
-
- `Next <distribution.html>`__
-
---------------
+=======================
 
 **Dissociated Press**: n.
 
@@ -1975,23 +1366,9 @@ techniques called travesty generators have been employed with
 considerable satirical effect to the utterances of Usenet flamers; see
 `pseudo <../P/pseudo.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------------+
-| `Prev <dispress.html>`__    | `Up <../D.html>`__         |  `Next <distribution.html>`__   |
-+-----------------------------+----------------------------+---------------------------------+
-| dispress                    | `Home <../index.html>`__   |  distribution                   |
-+-----------------------------+----------------------------+---------------------------------+
 
 distribution
-
-`Prev <Dissociated-Press.html>`__ 
-
-D
-
- `Next <distro.html>`__
-
---------------
+=============
 
 **distribution**: n.
 
@@ -2008,45 +1385,16 @@ topic-oriented message channel with multiple recipients.
 geography) to which propagation of a Usenet message is restricted; a
 much-underutilized feature.
 
---------------
-
-+--------------------------------------+----------------------------+---------------------------+
-| `Prev <Dissociated-Press.html>`__    | `Up <../D.html>`__         |  `Next <distro.html>`__   |
-+--------------------------------------+----------------------------+---------------------------+
-| Dissociated Press                    | `Home <../index.html>`__   |  distro                   |
-+--------------------------------------+----------------------------+---------------------------+
-
 distro
-
-`Prev <distribution.html>`__ 
-
-D
-
- `Next <disusered.html>`__
-
---------------
+=================
 
 **distro**: n.
 
 Synonym for `distribution <distribution.html>`__, sense 1.
 
---------------
-
-+---------------------------------+----------------------------+------------------------------+
-| `Prev <distribution.html>`__    | `Up <../D.html>`__         |  `Next <disusered.html>`__   |
-+---------------------------------+----------------------------+------------------------------+
-| distribution                    | `Home <../index.html>`__   |  disusered                   |
-+---------------------------------+----------------------------+------------------------------+
 
 disusered
-
-`Prev <distro.html>`__ 
-
-D
-
- `Next <DMZ.html>`__
-
---------------
+==============
 
 **disusered**: adj.
 
@@ -2057,23 +1405,9 @@ access.” The verbal form disuser is live but less common. Both usages
 probably derive from the DISUSER account status flag on VMS; setting it
 disables the account. Compare `star out <../S/star-out.html>`__.
 
---------------
-
-+---------------------------+----------------------------+------------------------+
-| `Prev <distro.html>`__    | `Up <../D.html>`__         |  `Next <DMZ.html>`__   |
-+---------------------------+----------------------------+------------------------+
-| distro                    | `Home <../index.html>`__   |  DMZ                   |
-+---------------------------+----------------------------+------------------------+
 
 DMZ
 
-`Prev <disusered.html>`__ 
-
-D
-
- `Next <do-protocol.html>`__
-
---------------
 
 **DMZ**
 
@@ -2082,23 +1416,9 @@ private network that is visible through the network's firewalls (see
 `firewall machine <../F/firewall-machine.html>`__). Coined in the late
 1990s as jargon, this term is now borderline techspeak.
 
---------------
-
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <disusered.html>`__    | `Up <../D.html>`__         |  `Next <do-protocol.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| disusered                    | `Home <../index.html>`__   |  do protocol                   |
-+------------------------------+----------------------------+--------------------------------+
 
 doc
-
-`Prev <do-protocol.html>`__ 
-
-D
-
- `Next <documentation.html>`__
-
---------------
+========
 
 **doc**: /dok/, n.
 
@@ -2106,23 +1426,9 @@ Common spoken and written shorthand for ‘documentation’. Often used in
 the plural docs and in the construction doc file (i.e., documentation
 available on-line).
 
---------------
-
-+--------------------------------+----------------------------+----------------------------------+
-| `Prev <do-protocol.html>`__    | `Up <../D.html>`__         |  `Next <documentation.html>`__   |
-+--------------------------------+----------------------------+----------------------------------+
-| do protocol                    | `Home <../index.html>`__   |  documentation                   |
-+--------------------------------+----------------------------+----------------------------------+
 
 documentation
-
-`Prev <doc.html>`__ 
-
-D
-
- `Next <dodgy.html>`__
-
---------------
+==============
 
 **documentation**: n.
 
@@ -2135,45 +1441,17 @@ theirs to be terse and on-line. A common comment on this predilection is
 paper <drool-proof-paper.html>`__, `verbiage <../V/verbiage.html>`__,
 `treeware <../T/treeware.html>`__.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <doc.html>`__    | `Up <../D.html>`__         |  `Next <dodgy.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| doc                    | `Home <../index.html>`__   |  dodgy                   |
-+------------------------+----------------------------+--------------------------+
 
 dodgy
-
-`Prev <documentation.html>`__ 
-
-D
-
- `Next <dogcow.html>`__
-
---------------
+==========
 
 **dodgy**: adj.
 
 Syn. with `flaky <../F/flaky.html>`__. Preferred outside the U.S.
 
---------------
-
-+----------------------------------+----------------------------+---------------------------+
-| `Prev <documentation.html>`__    | `Up <../D.html>`__         |  `Next <dogcow.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
-| documentation                    | `Home <../index.html>`__   |  dogcow                   |
-+----------------------------------+----------------------------+---------------------------+
 
 dogcow
-
-`Prev <dodgy.html>`__ 
-
-D
-
- `Next <dogfood.html>`__
-
---------------
+========
 
 **dogcow**: /dog´kow/, n.
 
@@ -2190,23 +1468,9 @@ click on the ‘Options’ button. It also lurks in other Mac printer
 drivers, notably those for the now-discontinued Style Writers. See
 `http://developer.apple.com/products/techsupport/dogcow/tn31.html <http://developer.apple.com/products/techsupport/dogcow/tn31.html>`__.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <dodgy.html>`__    | `Up <../D.html>`__         |  `Next <dogfood.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| dodgy                    | `Home <../index.html>`__   |  dogfood                   |
-+--------------------------+----------------------------+----------------------------+
 
 dogfood
-
-`Prev <dogcow.html>`__ 
-
-D
-
- `Next <dogpile.html>`__
-
---------------
+============
 
 **dogfood**: n.
 
@@ -2220,23 +1484,8 @@ nourishing. The idea is that developers who are using their own software
 will quickly learn what's missing or broken. Dogfood is typically not
 even of `beta <../B/beta.html>`__ quality.
 
---------------
-
-+---------------------------+----------------------------+----------------------------+
-| `Prev <dogcow.html>`__    | `Up <../D.html>`__         |  `Next <dogpile.html>`__   |
-+---------------------------+----------------------------+----------------------------+
-| dogcow                    | `Home <../index.html>`__   |  dogpile                   |
-+---------------------------+----------------------------+----------------------------+
-
 dogpile
-
-`Prev <dogfood.html>`__ 
-
-D
-
- `Next <dogwash.html>`__
-
---------------
+=========
 
 **dogpile**: v.
 
@@ -2250,23 +1499,9 @@ involving three or more people; among hackers, it seems at least as
 likely to derive from an ‘autobiographical’ Bugs Bunny cartoon in which
 a gang of attacking canines actually yells “Dogpile on the rabbit!”.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <dogfood.html>`__    | `Up <../D.html>`__         |  `Next <dogwash.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| dogfood                    | `Home <../index.html>`__   |  dogwash                   |
-+----------------------------+----------------------------+----------------------------+
 
 dogwash
-
-`Prev <dogpile.html>`__ 
-
-D
-
- `Next <Don-t-do-that-then-.html>`__
-
---------------
+===========
 
 **dogwash**: /dog´wosh/
 
@@ -2280,23 +1515,9 @@ serious work.
 2. v. To engage in such a project. Many games and much
 `freeware <../F/freeware.html>`__ get written this way.
 
---------------
-
-+----------------------------+----------------------------+----------------------------------------+
-| `Prev <dogpile.html>`__    | `Up <../D.html>`__         |  `Next <Don-t-do-that-then-.html>`__   |
-+----------------------------+----------------------------+----------------------------------------+
-| dogpile                    | `Home <../index.html>`__   |  Don't do that then!                   |
-+----------------------------+----------------------------+----------------------------------------+
 
 dongle-disk
-
-`Prev <dongle.html>`__ 
-
-D
-
- `Next <Doom--X-of.html>`__
-
---------------
+============
 
 **dongle-disk**: /don´gl disk/, n.
 
@@ -2308,23 +1529,9 @@ PC” would only come up in `root mode <../R/root-mode.html>`__ with a
 special boot disk.) Also called a key disk. See
 `dongle <dongle.html>`__.
 
---------------
-
-+---------------------------+----------------------------+-------------------------------+
-| `Prev <dongle.html>`__    | `Up <../D.html>`__         |  `Next <Doom--X-of.html>`__   |
-+---------------------------+----------------------------+-------------------------------+
-| dongle                    | `Home <../index.html>`__   |  Doom, X of                   |
-+---------------------------+----------------------------+-------------------------------+
 
 dongle
-
-`Prev <Don-t-do-that-then-.html>`__ 
-
-D
-
- `Next <dongle-disk.html>`__
-
---------------
+=============
 
 **dongle**: /dong´gl/, n.
 
@@ -2364,23 +1571,9 @@ receptionist will cheerfully tell you that the story is a myth invented
 for the ad copy. Nevertheless, I expect it to haunt my life as a
 lexicographer for at least the next ten years. :-( —ESR]
 
---------------
-
-+----------------------------------------+----------------------------+--------------------------------+
-| `Prev <Don-t-do-that-then-.html>`__    | `Up <../D.html>`__         |  `Next <dongle-disk.html>`__   |
-+----------------------------------------+----------------------------+--------------------------------+
-| Don't do that then!                    | `Home <../index.html>`__   |  dongle-disk                   |
-+----------------------------------------+----------------------------+--------------------------------+
 
 Don't do that then!
-
-`Prev <dogwash.html>`__ 
-
-D
-
- `Next <dongle.html>`__
-
---------------
+=====================
 
 **Don't do that then!**: imp.
 
@@ -2397,23 +1590,8 @@ reason. The problem was eventually tracked down to MacOS's cooperative
 multitasking: when a user held down the mouse button for too long, the
 network stack wouldn't get a chance to run...
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <dogwash.html>`__    | `Up <../D.html>`__         |  `Next <dongle.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| dogwash                    | `Home <../index.html>`__   |  dongle                   |
-+----------------------------+----------------------------+---------------------------+
-
 Doom, X of
-
-`Prev <dongle-disk.html>`__ 
-
-D
-
- `Next <doorstop.html>`__
-
---------------
+===============
 
 **Doom, X of**
 
@@ -2423,23 +1601,8 @@ J.R.R. Tolkien’s *Lord of the Rings* trilogy. The connotations are
 slightly different; a Foo of Death is mainly being held up to ridicule,
 but one would have to take a Foo of Doom a bit more seriously.
 
---------------
-
-+--------------------------------+----------------------------+-----------------------------+
-| `Prev <dongle-disk.html>`__    | `Up <../D.html>`__         |  `Next <doorstop.html>`__   |
-+--------------------------------+----------------------------+-----------------------------+
-| dongle-disk                    | `Home <../index.html>`__   |  doorstop                   |
-+--------------------------------+----------------------------+-----------------------------+
-
 doorstop
-
-`Prev <Doom--X-of.html>`__ 
-
-D
-
- `Next <DoS-attack.html>`__
-
---------------
+============
 
 **doorstop**: n.
 
@@ -2448,23 +1611,8 @@ to remain so, especially obsolete equipment kept around for political
 reasons or ostensibly as a backup. Compare `boat
 anchor <../B/boat-anchor.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------+
-| `Prev <Doom--X-of.html>`__    | `Up <../D.html>`__         |  `Next <DoS-attack.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
-| Doom, X of                    | `Home <../index.html>`__   |  DoS attack                   |
-+-------------------------------+----------------------------+-------------------------------+
-
 do protocol
-
-`Prev <DMZ.html>`__ 
-
-D
-
- `Next <doc.html>`__
-
---------------
+============
 
 **do protocol**: vi.
 
@@ -2475,23 +1623,9 @@ for the check, calculate the tip and everybody's share, collect money
 from everybody, generate change as necessary, and pay the bill. See
 `protocol <../P/protocol.html>`__.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <DMZ.html>`__    | `Up <../D.html>`__         |  `Next <doc.html>`__   |
-+------------------------+----------------------------+------------------------+
-| DMZ                    | `Home <../index.html>`__   |  doc                   |
-+------------------------+----------------------------+------------------------+
 
 DoS attack
-
-`Prev <doorstop.html>`__ 
-
-D
-
- `Next <dot-file.html>`__
-
---------------
+===========
 
 **DoS attack**: //
 
@@ -2503,23 +1637,9 @@ amounts of traffic, or to flood network links with large amounts of
 traffic, often by abusing network broadcast addresses. Compare
 `slashdot effect <../S/slashdot-effect.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-----------------------------+
-| `Prev <doorstop.html>`__    | `Up <../D.html>`__         |  `Next <dot-file.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
-| doorstop                    | `Home <../index.html>`__   |  dot file                   |
-+-----------------------------+----------------------------+-----------------------------+
 
 dot file
-
-`Prev <DoS-attack.html>`__ 
-
-D
-
- `Next <double-bucky.html>`__
-
---------------
+==========
 
 **dot file**: n.
 
@@ -2536,23 +1656,9 @@ user's really being aware of it.) See also
 `profile <../P/profile.html>`__ (sense 1), `rc
 file <../R/rc-file.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------------+
-| `Prev <DoS-attack.html>`__    | `Up <../D.html>`__         |  `Next <double-bucky.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
-| DoS attack                    | `Home <../index.html>`__   |  double bucky                   |
-+-------------------------------+----------------------------+---------------------------------+
 
 double bucky
-
-`Prev <dot-file.html>`__ 
-
-D
-
- `Next <doubled-sig.html>`__
-
---------------
+==============
 
 **double bucky**: adj.
 
@@ -2574,57 +1680,43 @@ on such a keyboard would be very much like playing a full pipe organ.
 This idea is mentioned in a parody of a very fine song by Jeffrey Moss
 called *Rubber Duckie*, which was published in *The Sesame Street
 Songbook* (Simon and Schuster 1971, ISBN 0-671-21036-X). These lyrics
-were written on May 27, 1978, in celebration of the Stanford keyboard:
+were written on May 27, 1978, in celebration of the Stanford keyboard::
 
-| 
-|  Double Bucky
-| 
-|  Double bucky, you're the one!
-|  You make my keyboard lots of fun.
-|      Double bucky, an additional bit or two:
-|  (Vo-vo-de-o!)
-|  Control and meta, side by side,
-|  Augmented ASCII, nine bits wide!
-|      Double bucky!  Half a thousand glyphs, plus a few!
-|  Oh,
-|  I sure wish that I
-|  Had a couple of
-|      Bits more!
-|  Perhaps a
-|  Set of pedals to
-|  Make the number of
-|      Bits four:
-|  Double double bucky!
-|  Double bucky, left and right
-|  OR'd together, outta sight!
-|      Double bucky, I'd like a whole word of
-|      Double bucky, I'm happy I heard of
-|      Double bucky, I'd like a whole word of you!
-| 
-|  — The Great Quux (with apologies to Jeffrey Moss)
+ 
+  Double Bucky
+ 
+  Double bucky, you're the one!
+  You make my keyboard lots of fun.
+      Double bucky, an additional bit or two:
+  (Vo-vo-de-o!)
+  Control and meta, side by side,
+  Augmented ASCII, nine bits wide!
+      Double bucky!  Half a thousand glyphs, plus a few!
+  Oh,
+  I sure wish that I
+  Had a couple of
+      Bits more!
+  Perhaps a
+  Set of pedals to
+  Make the number of
+      Bits four:
+  Double double bucky!
+  Double bucky, left and right
+  OR'd together, outta sight!
+      Double bucky, I'd like a whole word of
+      Double bucky, I'm happy I heard of
+      Double bucky, I'd like a whole word of you!
+ 
+  — The Great Quux (with apologies to Jeffrey Moss)
 
 [This, by the way, is an excellent example of computer
 `filk <../F/filk.html>`__ —ESR] See also `meta
 bit <../M/meta-bit.html>`__, `cokebottle <../C/cokebottle.html>`__,
 and `quadruple bucky <../Q/quadruple-bucky.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------------+
-| `Prev <dot-file.html>`__    | `Up <../D.html>`__         |  `Next <doubled-sig.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
-| dot file                    | `Home <../index.html>`__   |  doubled sig                   |
-+-----------------------------+----------------------------+--------------------------------+
 
 doubled sig
-
-`Prev <double-bucky.html>`__ 
-
-D
-
- `Next <down.html>`__
-
---------------
+==============
 
 **doubled sig**: n.
 
@@ -2635,23 +1727,9 @@ caused by improperly configured software. More often, however, it
 reveals the author's lack of experience in electronic communication. See
 `B1FF <../B/B1FF.html>`__, `pseudo <../P/pseudo.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+-------------------------+
-| `Prev <double-bucky.html>`__    | `Up <../D.html>`__         |  `Next <down.html>`__   |
-+---------------------------------+----------------------------+-------------------------+
-| double bucky                    | `Home <../index.html>`__   |  down                   |
-+---------------------------------+----------------------------+-------------------------+
 
 down
-
-`Prev <doubled-sig.html>`__ 
-
-D
-
- `Next <download.html>`__
-
---------------
+=========
 
 **down**
 
@@ -2675,23 +1753,9 @@ itself used as a verb in this vt. sense.
 
 See `crash <../C/crash.html>`__; oppose `up <../U/up.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-----------------------------+
-| `Prev <doubled-sig.html>`__    | `Up <../D.html>`__         |  `Next <download.html>`__   |
-+--------------------------------+----------------------------+-----------------------------+
-| doubled sig                    | `Home <../index.html>`__   |  download                   |
-+--------------------------------+----------------------------+-----------------------------+
 
 download
-
-`Prev <down.html>`__ 
-
-D
-
- `Next <DP.html>`__
-
---------------
+===========
 
 **download**: vt.
 
@@ -2706,23 +1770,9 @@ vice-versa (upload). The modern usage relative to the speaker (rather
 than as an indicator of the size and role of the machines) evolved as
 machine categories lost most of their former functional importance.
 
---------------
-
-+-------------------------+----------------------------+-----------------------+
-| `Prev <down.html>`__    | `Up <../D.html>`__         |  `Next <DP.html>`__   |
-+-------------------------+----------------------------+-----------------------+
-| down                    | `Home <../index.html>`__   |  DP                   |
-+-------------------------+----------------------------+-----------------------+
 
 DPer
-
-`Prev <DP.html>`__ 
-
-D
-
- `Next <Dr--Fred-Mbogo.html>`__
-
---------------
+=======
 
 **DPer**: /dee·pee·er/, n.
 
@@ -2730,23 +1780,8 @@ Data Processor. Hackers are absolutely amazed that
 `suit <../S/suit.html>`__\ s use this term self-referentially.
 *Computers* process data, not people! See `DP <DP.html>`__.
 
---------------
-
-+-----------------------+----------------------------+-----------------------------------+
-| `Prev <DP.html>`__    | `Up <../D.html>`__         |  `Next <Dr--Fred-Mbogo.html>`__   |
-+-----------------------+----------------------------+-----------------------------------+
-| DP                    | `Home <../index.html>`__   |  Dr. Fred Mbogo                   |
-+-----------------------+----------------------------+-----------------------------------+
-
 DP
-
-`Prev <download.html>`__ 
-
-D
-
- `Next <DPer.html>`__
-
---------------
+========
 
 **DP**: /D·P/, n.
 
@@ -2756,23 +1791,9 @@ the term marks one immediately as a `suit <../S/suit.html>`__. See
 
 2. Common abbrev for `Dissociated Press <Dissociated-Press.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <download.html>`__    | `Up <../D.html>`__         |  `Next <DPer.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| download                    | `Home <../index.html>`__   |  DPer                   |
-+-----------------------------+----------------------------+-------------------------+
 
 Dragon Book
-
-`Prev <dragon.html>`__ 
-
-D
-
- `Next <drain.html>`__
-
---------------
+===============
 
 **Dragon Book**: n.
 
@@ -2791,23 +1812,9 @@ terminal showing a video-game representation of the Red Dragon's head
 while the rest of the beast extends back in normal space. See also
 `book titles <../B/book-titles.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <dragon.html>`__    | `Up <../D.html>`__         |  `Next <drain.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| dragon                    | `Home <../index.html>`__   |  drain                   |
-+---------------------------+----------------------------+--------------------------+
 
 dragon
 
-`Prev <Dr--Fred-Mbogo.html>`__ 
-
-D
-
- `Next <Dragon-Book.html>`__
-
---------------
 
 **dragon**: n.
 
@@ -2823,23 +1830,9 @@ under Unix and most other OSes this would be called a background demon
 or `daemon <daemon.html>`__. The best-known Unix example of a dragon
 is cron(1). At SAIL, they called this sort of thing a phantom.
 
---------------
-
-+-----------------------------------+----------------------------+--------------------------------+
-| `Prev <Dr--Fred-Mbogo.html>`__    | `Up <../D.html>`__         |  `Next <Dragon-Book.html>`__   |
-+-----------------------------------+----------------------------+--------------------------------+
-| Dr. Fred Mbogo                    | `Home <../index.html>`__   |  Dragon Book                   |
-+-----------------------------------+----------------------------+--------------------------------+
 
 drain
-
-`Prev <Dragon-Book.html>`__ 
-
-D
-
- `Next <dread-high-bit-disease.html>`__
-
---------------
+=========
 
 **drain**: v.
 
@@ -2847,23 +1840,8 @@ D
 connotation of finality about it; one speaks of draining a device before
 taking it offline.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------------------------+
-| `Prev <Dragon-Book.html>`__    | `Up <../D.html>`__         |  `Next <dread-high-bit-disease.html>`__   |
-+--------------------------------+----------------------------+-------------------------------------------+
-| Dragon Book                    | `Home <../index.html>`__   |  dread high-bit disease                   |
-+--------------------------------+----------------------------+-------------------------------------------+
-
 dread high-bit disease
-
-`Prev <drain.html>`__ 
-
-D
-
- `Next <dread-questionmark-disease.html>`__
-
---------------
+========================
 
 **dread high-bit disease**: n.
 
@@ -2882,23 +1860,10 @@ heroically to cure it. Whoever was responsible, this probably qualifies
 as one of the most `cretinous <../C/cretinous.html>`__ design
 tradeoffs ever made. See `meta bit <../M/meta-bit.html>`__.
 
---------------
 
-+--------------------------+----------------------------+-----------------------------------------------+
-| `Prev <drain.html>`__    | `Up <../D.html>`__         |  `Next <dread-questionmark-disease.html>`__   |
-+--------------------------+----------------------------+-----------------------------------------------+
-| drain                    | `Home <../index.html>`__   |  dread questionmark disease                   |
-+--------------------------+----------------------------+-----------------------------------------------+
 
 dread questionmark disease
-
-`Prev <dread-high-bit-disease.html>`__ 
-
-D
-
- `Next <DRECNET.html>`__
-
---------------
+===========================
 
 **dread questionmark disease**
 
@@ -2910,23 +1875,9 @@ feature in Microsoft Word. For more details (and a program called
 demoroniser that cleans up the mess) see
 `http://www.fourmilab.ch/webtools/demoroniser/ <http://www.fourmilab.ch/webtools/demoroniser/>`__.
 
---------------
-
-+-------------------------------------------+----------------------------+----------------------------+
-| `Prev <dread-high-bit-disease.html>`__    | `Up <../D.html>`__         |  `Next <DRECNET.html>`__   |
-+-------------------------------------------+----------------------------+----------------------------+
-| dread high-bit disease                    | `Home <../index.html>`__   |  DRECNET                   |
-+-------------------------------------------+----------------------------+----------------------------+
 
 DRECNET
-
-`Prev <dread-questionmark-disease.html>`__ 
-
-D
-
- `Next <driver.html>`__
-
---------------
+=========
 
 **DRECNET**: /drek´net/, n.
 
@@ -2938,23 +1889,8 @@ customer-control tactic) violated that spec in the design of DRECNET in
 a way that made it incompatible. See also `connector
 conspiracy <../C/connector-conspiracy.html>`__.
 
---------------
-
-+-----------------------------------------------+----------------------------+---------------------------+
-| `Prev <dread-questionmark-disease.html>`__    | `Up <../D.html>`__         |  `Next <driver.html>`__   |
-+-----------------------------------------------+----------------------------+---------------------------+
-| dread questionmark disease                    | `Home <../index.html>`__   |  driver                   |
-+-----------------------------------------------+----------------------------+---------------------------+
-
 Dr. Fred Mbogo
-
-`Prev <DPer.html>`__ 
-
-D
-
- `Next <dragon.html>`__
-
---------------
+===============
 
 **Dr. Fred Mbogo**: /@m·boh´goh, dok´tr fred/, n.
 
@@ -2975,23 +1911,9 @@ bush experience believe it to be the most dangerous of them. Compare
 Hacker <../J/J--Random-Hacker.html>`__; see also `Fred
 Foobar <../F/Fred-Foobar.html>`__ and `fred <../F/fred.html>`__.
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <DPer.html>`__    | `Up <../D.html>`__         |  `Next <dragon.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| DPer                    | `Home <../index.html>`__   |  dragon                   |
-+-------------------------+----------------------------+---------------------------+
 
 driver
-
-`Prev <DRECNET.html>`__ 
-
-D
-
- `Next <droid.html>`__
-
---------------
+===========
 
 **driver**: n.
 
@@ -3005,23 +1927,9 @@ peripheral device such as a magnetic disk or tape unit.
 program that translates some device-independent or other common format
 to something a real device can actually understand.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <DRECNET.html>`__    | `Up <../D.html>`__         |  `Next <droid.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| DRECNET                    | `Home <../index.html>`__   |  droid                   |
-+----------------------------+----------------------------+--------------------------+
 
 droid
-
-`Prev <driver.html>`__ 
-
-D
-
- `Next <drone.html>`__
-
---------------
+=========
 
 **droid**: n.
 
@@ -3053,23 +1961,9 @@ variety. Named for the habit of denying a reasonable request by sucking
 his teeth and saying “Oh no, guv, sorry I can't help you: that's more
 than my job's worth”.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <driver.html>`__    | `Up <../D.html>`__         |  `Next <drone.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| driver                    | `Home <../index.html>`__   |  drone                   |
-+---------------------------+----------------------------+--------------------------+
 
 drone
-
-`Prev <droid.html>`__ 
-
-D
-
- `Next <drool-proof-paper.html>`__
-
---------------
+=======
 
 **drone**: n.
 
@@ -3081,23 +1975,8 @@ probably sucks, it was recommended by a drone at Fry's” In the year
 2000, their natural habitats include Fry's Electronics, Best Buy, and
 CompUSA.
 
---------------
-
-+--------------------------+----------------------------+--------------------------------------+
-| `Prev <droid.html>`__    | `Up <../D.html>`__         |  `Next <drool-proof-paper.html>`__   |
-+--------------------------+----------------------------+--------------------------------------+
-| droid                    | `Home <../index.html>`__   |  drool-proof paper                   |
-+--------------------------+----------------------------+--------------------------------------+
-
 drool-proof paper
-
-`Prev <drone.html>`__ 
-
-D
-
- `Next <drop-on-the-floor.html>`__
-
---------------
+==================
 
 **drool-proof paper**: n.
 
@@ -3110,23 +1989,9 @@ LaserWriter manual: “Do not expose your LaserWriter to open fire or
 flame.” The SGI Indy manual included the line “[Do not] dangle the mouse
 by the cord or throw it at coworkers.”
 
---------------
-
-+--------------------------+----------------------------+--------------------------------------+
-| `Prev <drone.html>`__    | `Up <../D.html>`__         |  `Next <drop-on-the-floor.html>`__   |
-+--------------------------+----------------------------+--------------------------------------+
-| drone                    | `Home <../index.html>`__   |  drop on the floor                   |
-+--------------------------+----------------------------+--------------------------------------+
 
 drop-ins
-
-`Prev <drop-on-the-floor.html>`__ 
-
-D
-
- `Next <drop-outs.html>`__
-
---------------
+============
 
 **drop-ins**: n.
 
@@ -3136,23 +2001,8 @@ or a system malfunction of some sort. Esp.: used when these are
 interspersed with one's own typed input. Compare
 `drop-outs <drop-outs.html>`__, sense 2.
 
---------------
-
-+--------------------------------------+----------------------------+------------------------------+
-| `Prev <drop-on-the-floor.html>`__    | `Up <../D.html>`__         |  `Next <drop-outs.html>`__   |
-+--------------------------------------+----------------------------+------------------------------+
-| drop on the floor                    | `Home <../index.html>`__   |  drop-outs                   |
-+--------------------------------------+----------------------------+------------------------------+
-
 drop on the floor
-
-`Prev <drool-proof-paper.html>`__ 
-
-D
-
- `Next <drop-ins.html>`__
-
---------------
+===================
 
 **drop on the floor**: vt.
 
@@ -3163,23 +2013,9 @@ netnews relay sites that lose messages. See also `black
 hole <../B/black-hole.html>`__, `bit
 bucket <../B/bit-bucket.html>`__.
 
---------------
-
-+--------------------------------------+----------------------------+-----------------------------+
-| `Prev <drool-proof-paper.html>`__    | `Up <../D.html>`__         |  `Next <drop-ins.html>`__   |
-+--------------------------------------+----------------------------+-----------------------------+
-| drool-proof paper                    | `Home <../index.html>`__   |  drop-ins                   |
-+--------------------------------------+----------------------------+-----------------------------+
 
 drop-outs
-
-`Prev <drop-ins.html>`__ 
-
-D
-
- `Next <drugged.html>`__
-
---------------
+==============
 
 **drop-outs**: n.
 
@@ -3203,23 +2039,8 @@ A really serious case of `drop-outs <drop-outs.html>`__.
 `73-05-21 <../F/fascist.html#crunchly73-05-21>`__. The previous one is
 `73-05-19 <../S/space-cadet-keyboard.html#crunchly73-05-19>`__.)
 
---------------
-
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <drop-ins.html>`__    | `Up <../D.html>`__         |  `Next <drugged.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| drop-ins                    | `Home <../index.html>`__   |  drugged                   |
-+-----------------------------+----------------------------+----------------------------+
-
 drugged
-
-`Prev <drop-outs.html>`__ 
-
-D
-
- `Next <drum.html>`__
-
---------------
+==========
 
 **drugged**: adj.
 
@@ -3231,23 +2052,9 @@ pantomime of toking a joint.
 
 2. Of hardware, very slow relative to normal performance.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <drop-outs.html>`__    | `Up <../D.html>`__         |  `Next <drum.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| drop-outs                    | `Home <../index.html>`__   |  drum                   |
-+------------------------------+----------------------------+-------------------------+
 
 drum
-
-`Prev <drugged.html>`__ 
-
-D
-
- `Next <drunk-mouse-syndrome.html>`__
-
---------------
+=========
 
 **drum**: n.
 
@@ -3259,23 +2066,9 @@ straight-faced but utterly bogus ‘explanations’ getting foisted on
 `newbie <../N/newbie.html>`__\ s. See also “ `The Story of
 Mel' <../story-of-mel.html>`__\ ” in Appendix A.
 
---------------
-
-+----------------------------+----------------------------+-----------------------------------------+
-| `Prev <drugged.html>`__    | `Up <../D.html>`__         |  `Next <drunk-mouse-syndrome.html>`__   |
-+----------------------------+----------------------------+-----------------------------------------+
-| drugged                    | `Home <../index.html>`__   |  drunk mouse syndrome                   |
-+----------------------------+----------------------------+-----------------------------------------+
 
 drunk mouse syndrome
-
-`Prev <drum.html>`__ 
-
-D
-
- `Next <DSW.html>`__
-
---------------
+=====================
 
 **drunk mouse syndrome**: n.
 
@@ -3295,23 +2088,9 @@ cruft, so the dousings became more and more frequent. Finally, the mouse
 was declared ‘alcoholic’ and sent to the clinic to be dried out in a CFC
 ultrasonic bath.
 
---------------
-
-+-------------------------+----------------------------+------------------------+
-| `Prev <drum.html>`__    | `Up <../D.html>`__         |  `Next <DSW.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| drum                    | `Home <../index.html>`__   |  DSW                   |
-+-------------------------+----------------------------+------------------------+
 
 DSW
-
-`Prev <drunk-mouse-syndrome.html>`__ 
-
-D
-
- `Next <dub-dub-dub.html>`__
-
---------------
+==========
 
 **DSW**: n.
 
@@ -3321,23 +2100,9 @@ machine, keys on (either physical or cryptographic) keyring, greyer
 hair, or almost anything. Salvos in a DSW are typically humorous and
 playful, often self-mocking.
 
---------------
-
-+-----------------------------------------+----------------------------+--------------------------------+
-| `Prev <drunk-mouse-syndrome.html>`__    | `Up <../D.html>`__         |  `Next <dub-dub-dub.html>`__   |
-+-----------------------------------------+----------------------------+--------------------------------+
-| drunk mouse syndrome                    | `Home <../index.html>`__   |  dub dub dub                   |
-+-----------------------------------------+----------------------------+--------------------------------+
 
 dub dub dub
-
-`Prev <DSW.html>`__ 
-
-D
-
- `Next <Duffs-device.html>`__
-
---------------
+=============
 
 **dub dub dub**
 
@@ -3345,23 +2110,10 @@ D
 double-u) in many web host names. Nothing to do with the style of reggae
 music called ‘dub’.
 
---------------
 
-+------------------------+----------------------------+---------------------------------+
-| `Prev <DSW.html>`__    | `Up <../D.html>`__         |  `Next <Duffs-device.html>`__   |
-+------------------------+----------------------------+---------------------------------+
-| DSW                    | `Home <../index.html>`__   |  Duff's device                  |
-+------------------------+----------------------------+---------------------------------+
 
 Duff's device
-
-`Prev <dub-dub-dub.html>`__ 
-
-D
-
- `Next <dumb-terminal.html>`__
-
---------------
+================
 
 **Duff's device**: n.
 
@@ -3370,90 +2122,87 @@ through <../F/fall-through.html>`__ in C, invented by Tom Duff when he
 was at Lucasfilm. Trying to optimize all the instructions he could out
 of an inner loop that copied data serially onto an output port, he
 decided to unroll it. He then realized that the unrolled version could
-be implemented by *interlacing* the structures of a switch and a loop:
+be implemented by *interlacing* the structures of a switch and a loop::
 
-+---------+
-| .. code |
-| :: prog |
-| ramlist |
-| ing     |
-|         |
-|         |
-| registe |
-| r n = ( |
-| count + |
-|  7) / 8 |
-| ;       |
-| /* coun |
-| t > 0 a |
-| ssumed  |
-| */      |
-|         |
-|         |
-| switch  |
-| (count  |
-| % 8)    |
-|         |
-| {       |
-|         |
-| case 0: |
-|         |
-|  do {   |
-| *to = * |
-| from++; |
-|         |
-| case 7: |
-|         |
-|         |
-| *to = * |
-| from++; |
-|         |
-| case 6: |
-|         |
-|         |
-| *to = * |
-| from++; |
-|         |
-| case 5: |
-|         |
-|         |
-| *to = * |
-| from++; |
-|         |
-| case 4: |
-|         |
-|         |
-| *to = * |
-| from++; |
-|         |
-| case 3: |
-|         |
-|         |
-| *to = * |
-| from++; |
-|         |
-| case 2: |
-|         |
-|         |
-| *to = * |
-| from++; |
-|         |
-| case 1: |
-|         |
-|         |
-| *to = * |
-| from++; |
-|         |
-|         |
-|         |
-|      }  |
-| while ( |
-| --n > 0 |
-| );      |
-|         |
-| }       |
+ .. code 
+ :: prog 
+ ramlist 
+ ing     
          
-+---------+
+ registe 
+ r n = ( 
+ count + 
+  7) / 8 
+ ;       
+ /* coun 
+ t > 0 a 
+ ssumed  
+ */      
+         
+         
+ switch  
+ (count  
+ % 8)    
+         
+ {       
+         
+ case 0: 
+         
+  do {   
+ *to = * 
+ from++; 
+         
+ case 7: 
+         
+         
+ *to = * 
+ from++; 
+         
+ case 6: 
+         
+ *to = * 
+ from++; 
+         
+ case 5: 
+         
+         
+ *to = * 
+ from++; 
+         
+ case 4: 
+        
+         
+ *to = * 
+ from++; 
+        
+ case 3: 
+         
+         
+ *to = * 
+ from++; 
+         
+ case 2: 
+         
+         
+ *to = * 
+ from++; 
+         
+ case 1: 
+         
+         
+ *to = * 
+ from++; 
+         
+         
+         
+      }  
+ while ( 
+ --n > 0 
+ );      
+         
+ }       
+         
+
 
 Shocking though it appears to all who encounter it for the first time,
 the device is actually perfectly valid, legal C. C's default `fall
@@ -3470,23 +2219,9 @@ register.
 [For maximal obscurity, the outermost pair of braces above could
 actually be removed — GLS]
 
---------------
-
-+--------------------------------+----------------------------+----------------------------------+
-| `Prev <dub-dub-dub.html>`__    | `Up <../D.html>`__         |  `Next <dumb-terminal.html>`__   |
-+--------------------------------+----------------------------+----------------------------------+
-| dub dub dub                    | `Home <../index.html>`__   |  dumb terminal                   |
-+--------------------------------+----------------------------+----------------------------------+
 
 dumbass attack
-
-`Prev <dumb-terminal.html>`__ 
-
-D
-
- `Next <dumbed-down.html>`__
-
---------------
+================
 
 **dumbass attack**: /duhm´as @·tak´/, n.
 
@@ -3495,23 +2230,9 @@ especially one made while running as `root <../R/root.html>`__ under
 Unix, e.g., typing **rm -r \*** or **mkfs** on a mounted file system.
 Compare `adger <../A/adger.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+--------------------------------+
-| `Prev <dumb-terminal.html>`__    | `Up <../D.html>`__         |  `Next <dumbed-down.html>`__   |
-+----------------------------------+----------------------------+--------------------------------+
-| dumb terminal                    | `Home <../index.html>`__   |  dumbed down                   |
-+----------------------------------+----------------------------+--------------------------------+
 
 dumbed down
-
-`Prev <dumbass-attack.html>`__ 
-
-D
-
- `Next <dump.html>`__
-
---------------
+=============
 
 **dumbed down**: adj.
 
@@ -3521,23 +2242,8 @@ and documentation of software be dumbed down after the designer has
 burned untold gallons of midnight oil making it smart. This creates
 friction. See `user-friendly <../U/user-friendly.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <dumbass-attack.html>`__    | `Up <../D.html>`__         |  `Next <dump.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| dumbass attack                    | `Home <../index.html>`__   |  dump                   |
-+-----------------------------------+----------------------------+-------------------------+
-
 dumb terminal
-
-`Prev <Duffs-device.html>`__ 
-
-D
-
- `Next <dumbass-attack.html>`__
-
---------------
+==============
 
 **dumb terminal**: n.
 
@@ -3548,23 +2254,8 @@ terminal <../S/smart-terminal.html>`__. Once upon a time, when glass
 ttys were common and addressable cursors were something special, what is
 now called a dumb terminal could pass for a smart terminal.
 
---------------
-
-+---------------------------------+----------------------------+-----------------------------------+
-| `Prev <Duffs-device.html>`__    | `Up <../D.html>`__         |  `Next <dumbass-attack.html>`__   |
-+---------------------------------+----------------------------+-----------------------------------+
-| Duff's device                   | `Home <../index.html>`__   |  dumbass attack                   |
-+---------------------------------+----------------------------+-----------------------------------+
-
 dump
-
-`Prev <dumbed-down.html>`__ 
-
-D
-
- `Next <dumpster-diving.html>`__
-
---------------
+==========
 
 **dump**: n.
 
@@ -3582,23 +2273,8 @@ flavor.
 2. A backup. This usage is typical only at large timesharing
 installations.
 
---------------
-
-+--------------------------------+----------------------------+------------------------------------+
-| `Prev <dumbed-down.html>`__    | `Up <../D.html>`__         |  `Next <dumpster-diving.html>`__   |
-+--------------------------------+----------------------------+------------------------------------+
-| dumbed down                    | `Home <../index.html>`__   |  dumpster diving                   |
-+--------------------------------+----------------------------+------------------------------------+
-
 dumpster diving
-
-`Prev <dump.html>`__ 
-
-D
-
- `Next <dusty-deck.html>`__
-
---------------
+=================
 
 **dumpster diving**: /dump'·ster di:´·ving/, n.
 
@@ -3619,23 +2295,8 @@ equipment to be nursed back to health in some hacker's den. Experienced
 dumpster-divers not infrequently accumulate basements full of moldering
 (but still potentially useful) `cruft <../C/cruft.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <dump.html>`__    | `Up <../D.html>`__         |  `Next <dusty-deck.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| dump                    | `Home <../index.html>`__   |  dusty deck                   |
-+-------------------------+----------------------------+-------------------------------+
-
 dusty deck
-
-`Prev <dumpster-diving.html>`__ 
-
-D
-
- `Next <DWIM.html>`__
-
---------------
+============
 
 **dusty deck**: n.
 
@@ -3649,23 +2310,8 @@ which was written in FORTRAN and very poorly documented but is believed
 to be too expensive to replace. See `fossil <../F/fossil.html>`__;
 compare `crawling horror <../C/crawling-horror.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+-------------------------+
-| `Prev <dumpster-diving.html>`__    | `Up <../D.html>`__         |  `Next <DWIM.html>`__   |
-+------------------------------------+----------------------------+-------------------------+
-| dumpster diving                    | `Home <../index.html>`__   |  DWIM                   |
-+------------------------------------+----------------------------+-------------------------+
-
 DWIM
-
-`Prev <dusty-deck.html>`__ 
-
-D
-
- `Next <dynner.html>`__
-
---------------
+========
 
 **DWIM**: /dwim/
 
@@ -3714,23 +2360,8 @@ in vogue, there were also jokes about DWIMC (Do What I Mean, Correctly).
 A related term, more often seen as a verb, is DTRT (Do The Right Thing);
 see `Right Thing <../R/Right-Thing.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <dusty-deck.html>`__    | `Up <../D.html>`__         |  `Next <dynner.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| dusty deck                    | `Home <../index.html>`__   |  dynner                   |
-+-------------------------------+----------------------------+---------------------------+
-
 dynner
-
-`Prev <DWIM.html>`__ 
-
-D
-
- `Next <../E.html>`__
-
---------------
+=======
 
 **dynner**: /din´r/, n.
 
@@ -3740,12 +2371,4 @@ D
 `crumb <../C/crumb.html>`__. General discussion of such terms is under
 `nybble <../N/nybble.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <DWIM.html>`__    | `Up <../D.html>`__         |  `Next <../E.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| DWIM                    | `Home <../index.html>`__   |  E                      |
-+-------------------------+----------------------------+-------------------------+
-
-.. |image0| image:: ../_static/73-05-20.png
+.. image:: ../_static/73-05-20.png
