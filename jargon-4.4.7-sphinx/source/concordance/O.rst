@@ -1,3 +1,7 @@
+===
+O
+===
+
 Obfuscated C Contest
 
 `Prev <Ob-.html>`__ 
