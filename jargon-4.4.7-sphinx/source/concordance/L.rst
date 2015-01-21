@@ -587,7 +587,7 @@ Miss Lena Sjööblom
 | legalese                    | `Home <../index.html>`__   |  LER                   |
 +-----------------------------+----------------------------+------------------------+
 
-.. |image0| image:: ../graphics/len_std.jpg
+.. |image0| image:: ../_static/len_std.jpg
 LER
 
 `Prev <lenna.html>`__ 
@@ -770,7 +770,7 @@ life!* <../G/Get-a-life-.html>`__\ ”
 | lexer                    | `Home <../index.html>`__   |  Life is hard                   |
 +--------------------------+----------------------------+---------------------------------+
 
-.. |image0| image:: ../graphics/glider.png
+.. |image0| image:: ../_static/glider.png
 Life is hard
 
 `Prev <life.html>`__ 
@@ -1364,7 +1364,7 @@ We've got your numbers....
 | Lions Book                    | `Home <../index.html>`__   |  list-bomb                   |
 +-------------------------------+----------------------------+------------------------------+
 
-.. |image0| image:: ../graphics/lisp.png
+.. |image0| image:: ../_static/lisp.png
 list-bomb
 
 `Prev <LISP.html>`__ 
@@ -1523,7 +1523,7 @@ Armando Stettner's original Unix license plate.
 | live data                    | `Home <../index.html>`__   |  livelock                   |
 +------------------------------+----------------------------+-----------------------------+
 
-.. |image0| image:: ../graphics/licenseplate.jpg
+.. |image0| image:: ../_static/licenseplate.jpg
 live
 
 `Prev <little-endian.html>`__ 

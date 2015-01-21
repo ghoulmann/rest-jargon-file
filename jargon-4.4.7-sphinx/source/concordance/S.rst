@@ -4277,8 +4277,8 @@ An early `space-cadet keyboard <space-cadet-keyboard.html>`__
 | source of all good bits                    | `Home <../index.html>`__   |  spaceship operator                   |
 +--------------------------------------------+----------------------------+---------------------------------------+
 
-.. |image0| image:: ../graphics/symbolics-keyboard.jpg
-.. |image1| image:: ../graphics/73-05-19.png
+.. |image0| image:: ../_static/symbolics-keyboard.jpg
+.. |image1| image:: ../_static/73-05-19.png
 spaceship operator
 
 `Prev <space-cadet-keyboard.html>`__ 
@@ -5848,7 +5848,7 @@ who were there for the `Stone Age <Stone-Age.html>`__ (sense 1).
 | stomp on                    | `Home <../index.html>`__   |  stone knives and bearskins                   |
 +-----------------------------+----------------------------+-----------------------------------------------+
 
-.. |image0| image:: ../graphics/76-05-01.png
+.. |image0| image:: ../_static/76-05-01.png
 stone knives and bearskins
 
 `Prev <Stone-Age.html>`__ 

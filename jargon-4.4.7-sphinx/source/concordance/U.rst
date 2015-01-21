@@ -270,7 +270,7 @@ File uses ‘Unix’ in deference to dmr's wishes.
 
  
 
-.. |image0| image:: ../graphics/richiethompson.jpg
+.. |image0| image:: ../_static/richiethompson.jpg
 
 unixism
 =========

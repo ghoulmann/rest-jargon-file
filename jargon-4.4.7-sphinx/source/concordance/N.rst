@@ -2183,7 +2183,7 @@ cartoon was `74-08-18 <../W/water-MIPS.html#crunchly74-08-18>`__.)
 | nuke                    | `Home <../index.html>`__   |  numbers                   |
 +-------------------------+----------------------------+----------------------------+
 
-.. |image0| image:: ../graphics/74-12-25.png
+.. |image0| image:: ../_static/74-12-25.png
 numbers
 
 `Prev <number-crunching.html>`__ 

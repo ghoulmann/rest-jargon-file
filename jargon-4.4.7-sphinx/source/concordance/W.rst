@@ -546,7 +546,7 @@ these were called bit hoses (see `hose <../H/hose.html>`__, sense 3).
 software <washing-software.html>`__. CMU has clusters of these.
 
 
-.. |image0| image:: ../graphics/76-02-14.png
+.. |image0| image:: ../_static/76-02-14.png
 
 washing software
 =================
@@ -577,7 +577,7 @@ A really unusual kind of `water MIPS <water-MIPS.html>`__.
 
 
 
-.. |image0| image:: ../graphics/74-08-18.png
+.. |image0| image:: ../_static/74-08-18.png
 
 wave a dead chicken
 =====================
@@ -1428,7 +1428,7 @@ Generally these refer only to the action(s) taken on that line.
 
 -------------------------+----------------------------+---------------------------+
 
-.. |image0| image:: ../graphics/74-12-29.png
+.. |image0| image:: ../_static/74-12-29.png
 
 win
 ========

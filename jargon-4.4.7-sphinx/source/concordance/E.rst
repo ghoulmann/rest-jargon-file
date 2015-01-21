@@ -95,7 +95,7 @@ IPM tells us to `*eat flaming death* <eat-flaming-death.html>`__.
 | Easter egging                    | `Home <../index.html>`__   |  EBCDIC                   |
 +----------------------------------+----------------------------+---------------------------+
 
-.. |image0| image:: ../graphics/eat-flaming-death.png
+.. |image0| image:: ../_static/eat-flaming-death.png
 EBCDIC
 
 `Prev <eat-flaming-death.html>`__ 

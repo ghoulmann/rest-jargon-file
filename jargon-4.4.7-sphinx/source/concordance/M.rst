@@ -1177,7 +1177,7 @@ previous one is the `frontispiece <../lexicon.html#crunchly-1>`__.)
 | massage                    | `Home <../index.html>`__   |  Matrix                   |
 +----------------------------+----------------------------+---------------------------+
 
-.. |image0| image:: ../graphics/73-05-18.png
+.. |image0| image:: ../_static/73-05-18.png
 Matrix
 
 `Prev <math-out.html>`__ 

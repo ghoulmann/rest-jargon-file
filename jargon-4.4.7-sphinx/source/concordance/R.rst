@@ -670,7 +670,7 @@ also `fear and loathing <../F/fear-and-loathing.html>`__,
 
  
 
-.. |image0| image:: ../graphics/cobol.png
+.. |image0| image:: ../_static/cobol.png
 
 reaper
 =======

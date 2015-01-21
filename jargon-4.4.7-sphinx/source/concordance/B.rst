@@ -4069,8 +4069,8 @@ cartoon was `73-07-24 <../O/overflow-bit.html#crunchly73-07-24>`__.)
 
 
 
-.. |image0| image:: ../graphics/bugpic-color.jpg
-.. |image1| image:: ../graphics/73-07-29.png
+.. |image0| image:: ../_static/bugpic-color.jpg
+.. |image1| image:: ../_static/73-07-29.png
 
 bug-of-the-month club
 ===========================

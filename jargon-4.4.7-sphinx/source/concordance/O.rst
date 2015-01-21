@@ -1287,7 +1287,7 @@ Crunchly and the `*overflow bit* <overflow-bit.html>`__.
 | overclock                    | `Home <../index.html>`__   |  overrun                   |
 +------------------------------+----------------------------+----------------------------+
 
-.. |image0| image:: ../graphics/73-07-24.png
+.. |image0| image:: ../_static/73-07-24.png
 overrun
 
 `Prev <overflow-bit.html>`__ 
