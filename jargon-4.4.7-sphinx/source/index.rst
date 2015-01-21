@@ -43,13 +43,13 @@ Hacker Folklore
    appendixa/magic-story
    appendixa/koans
    appendixa/os-and-jedgar
-   appenixa/story-of-mel
+   appendixa/story-of-mel
    
 Lexicon
 ------------
    
 .. toctree::
-   :maxdepth:0
+   :maxdepth: 1
    :glob:
    
    concordance/*
