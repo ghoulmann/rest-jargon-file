@@ -27,7 +27,7 @@ the @-party tradition has been in decline since about 1996, mainly
 because having an @-address no longer functions as an effective lodge
 pin.
 
-We are informed, however, that ``rec.skydiving`` members have maintained
+We are informed, however, that "rec.skydiving" members have maintained
 a tradition of formation jumps in the shape of an @.
 
 

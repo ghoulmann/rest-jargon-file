@@ -208,7 +208,7 @@ The GCOS people won the political war, and this led in the orphaning and
 eventual death of Honeywell `Multics <../M/Multics.html>`__, and (2)
 GECOS/GCOS left one permanent mark on Unix. Some early Unix systems at
 Bell Labs used GCOS machines for print spooling and various other
-services; the field added to ``/etc/passwd`` to carry GCOS ID
+services; the field added to "/etc/passwd" to carry GCOS ID
 information was called the GECOS field and survives today as the
 **pw\_gecos** member used for the user's full name and other human-ID
 information. GCOS later played a major role in keeping Honeywell a
@@ -620,7 +620,7 @@ gillion
 **gillion**: /gil´y@n/, /jil´y@n/, n.
 
 [formed from `giga- <giga-.html>`__ by analogy with mega/million and
-tera/trillion] ``10^9``. Same as an American billion or a British
+tera/trillion] "10^9". Same as an American billion or a British
 milliard. How one pronounces this depends on whether one speaks
 `giga- <giga-.html>`__ with a hard or soft ‘g’.
 
@@ -877,7 +877,7 @@ Foundation's imprimatur. The GNU project has a web page at
 `General Public Virus <General-Public-Virus.html>`__,
 `Linux <../L/Linux.html>`__.
 
-2. Noted Unix hacker John Gilmore ``<gnu@toad.com>``}, founder of
+2. Noted Unix hacker John Gilmore "<gnu@toad.com>"}, founder of
 Usenet's anarchic alt.\* hierarchy.
 
 
@@ -1200,7 +1200,7 @@ gorets
 **gorets**: /gor´ets/, n.
 
 The unknown ur-noun, fill in your own meaning. Found esp. on the Usenet
-newsgroup ``alt.gorets``, which seems to be a running contest to
+newsgroup "alt.gorets", which seems to be a running contest to
 redefine the word by implication in the funniest and most peculiar way,
 with the understanding that no definition is ever final. [A
 correspondent from the former Soviet Union informs me that *gorets* is
@@ -1361,8 +1361,8 @@ The `flag day <../F/flag-day.html>`__ in 1987 on which all of the
 non-local groups on the `Usenet <../U/Usenet.html>`__ had their names
 changed from the net.- format to the current multiple-hierarchies
 scheme. Used esp. in discussing the history of newsgroup names. “The
-oldest sources group is ``comp.sources.misc``; before the Great
-Renaming, it was ``net.sources``.” There is a `Great Renaming
+oldest sources group is "comp.sources.misc"; before the Great
+Renaming, it was "net.sources".” There is a `Great Renaming
 FAQ <http://www.vrx.net/usenet/history/rename.html>`__ on the Web.
 
 
@@ -1396,8 +1396,8 @@ great-wall
 
 [from SF fandom] A mass expedition to an oriental restaurant, esp. one
 where food is served family-style and shared. There is a common
-heuristic about the amount of food to order, expressed as “Get ``N - 1``
-entrees”; the value of ``N``, which is the number of people in the
+heuristic about the amount of food to order, expressed as “Get "N - 1"
+entrees”; the value of "N", which is the number of people in the
 group, can be inferred from context (see `N <../N/N.html>`__). See
 `oriental food <../O/oriental-food.html>`__,
 `ravs <../R/ravs.html>`__, `stir-fried

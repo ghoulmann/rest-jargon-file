@@ -1,13 +1,5 @@
-Anthropomorphization
 
-`Prev <inarticulations.html>`__ 
-
-Chapter 4. Jargon Construction
-
- `Next <comparatives.html>`__
-
---------------
-
+--------------------
 Anthropomorphization
 --------------------
 
@@ -100,12 +92,4 @@ behavioral complexities that we don't completely understand.
 
 All three explanations accurately model hacker psychology, and should be
 considered complementary rather than competing.
-
---------------
-
-+------------------------------------+------------------------------+---------------------------------+
-| `Prev <inarticulations.html>`__    | `Up <construction.html>`__   |  `Next <comparatives.html>`__   |
-+------------------------------------+------------------------------+---------------------------------+
-| Spoken inarticulations             | `Home <index.html>`__        |  Comparatives                   |
-+------------------------------------+------------------------------+---------------------------------+
 

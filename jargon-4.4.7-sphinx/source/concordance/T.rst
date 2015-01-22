@@ -216,7 +216,7 @@ TAN
 
 **TAN**: adj.
 
-[Usenet, particularly ``rec.arts.sf.written.robert-jordan``] Abbrev. of
+[Usenet, particularly "rec.arts.sf.written.robert-jordan"] Abbrev. of
 ‘tangent’, as in “off on a tangent”, and synonym for
 `OT <../O/OT.html>`__. A number of hacker-humor synonyms are used for
 TAN in some newsgroups. Instances such as BEIGE, OFF-WHITE,
@@ -332,7 +332,7 @@ taste
 
 1. The quality in a program that tends to be inversely proportional to
 the number of features, hacks, and kluges programmed into it. Also
-tasty, tasteful, tastefulness. “This feature comes in ``N`` tasty
+tasty, tasteful, tastefulness. “This feature comes in "N" tasty
 flavors.” Although tasty and flavorful are essentially synonyms, taste
 and `flavor <../F/flavor.html>`__ are not. Taste refers to sound
 judgment on the part of the creator; a program or feature can *exhibit*
@@ -1246,13 +1246,13 @@ time T
 **time T**: /ti:m T/, n.
 
 1. An unspecified but usually well-understood time, often used in
-conjunction with a later time ``T+1``. “We'll meet on campus at time
-``T`` or at Louie's at time ``T+1``\ ” means, in the context of going
+conjunction with a later time "T+1". “We'll meet on campus at time
+"T" or at Louie's at time "T+1"\ ” means, in the context of going
 out for dinner: “We can meet on campus and go to Louie's, or we can meet
 at Louie's itself a bit later.” (Louie's was a Chinese restaurant in
 Palo Alto that was a favorite with hackers.) Had the number 30 been used
 instead of the number 1, it would have implied that the travel time from
-campus to Louie's is 30 minutes; whatever time ``T`` is (and that hasn't
+campus to Louie's is 30 minutes; whatever time "T" is (and that hasn't
 been decided on yet), you can meet half an hour later at Louie's than
 you could on campus and end up eating at the same time. See also `since
 time T equals minus
@@ -1328,9 +1328,9 @@ tits on a keyboard
 **tits on a keyboard**: n.
 
 Small bumps on certain keycaps to keep touch-typists registered. Usually
-on the ``5`` of a numeric keypad, and on the ``F`` and ``J`` of a
+on the "5" of a numeric keypad, and on the "F" and "J" of a
 `QWERTY <../Q/QWERTY.html>`__ keyboard; but older Macs (like pre-PC
-electric typewriters) had them on the ``D`` and ``K`` keys (this changed
+electric typewriters) had them on the "D" and "K" keys (this changed
 in 1999).
 
 TLA
@@ -1358,7 +1358,7 @@ bemoan the plethora of TLAs in use. In 1989, a random of the
 journalistic persuasion asked hacker Paul Boutin “What do you think will
 be the biggest problem in computing in the 90s?” Paul's straight-faced
 response: “There are only 17,000 three-letter acronyms.” (To be exact,
-there are ``26^3    = 17,576``.) There is probably some karmic justice
+there are "26^3    = 17,576".) There is probably some karmic justice
 in the fact that Paul Boutin subsequently became a journalist.
 
 
@@ -2117,7 +2117,7 @@ troll
 
 **troll**
 
-1. v.,n. [From the Usenet group ``alt.folklore.urban``] To utter a
+1. v.,n. [From the Usenet group "alt.folklore.urban"] To utter a
 posting on `Usenet <../U/Usenet.html>`__ designed to attract
 predictable responses or `flame <../F/flame.html>`__\ s; or, the post
 itself. Derives from the phrase “trolling for
@@ -2475,7 +2475,7 @@ twiddle
 
 **twiddle**: n.
 
-1. Tilde (ASCII 1111110, ``~``). Also called squiggle, sqiggle (sic —
+1. Tilde (ASCII 1111110, "~"). Also called squiggle, sqiggle (sic —
 pronounced /skig´l/), and twaddle, but twiddle is the most common term.
 
 2. A small and insignificant change to a program. Usually fixes one bug
@@ -2514,7 +2514,7 @@ twink
 one.
 
 2. [UCSC] A `read-only user <../R/read-only-user.html>`__. Also
-reported on the Usenet group ``soc.motss``; may derive from gay slang
+reported on the Usenet group "soc.motss"; may derive from gay slang
 for a cute young thing with nothing upstairs (compare mainstream
 ‘chick’).
 
@@ -2572,7 +2572,7 @@ two-to-the-N
 **two-to-the-N**: quant.
 
 An amount much larger than `N <../N/N.html>`__ but smaller than
-`infinity <../I/infinity.html>`__. “I have 2-to-the-``N`` things to do
+`infinity <../I/infinity.html>`__. “I have 2-to-the-"N" things to do
 before I can go out for lunch” means you probably won't show up.
 
 

@@ -33,12 +33,12 @@ that can come up in discussions of programming, American-style quoting
 can even be grossly misleading. When communicating command lines or
 small pieces of code, extra characters can be a real pain in the neck.
 
-Consider, for example, a sentence in a `*vi* <V/vi.html>`__ tutorial
-that looks like this:
+Consider, for example, a sentence in a `vi <V/vi.html>`__ tutorial
+that looks like this::
 
     Then delete a line from the file by typing “dd”.
 
-Standard usage would make this
+Standard usage would make this::
 
     Then delete a line from the file by typing “dd.”
 
@@ -72,7 +72,7 @@ programming languages (reinforced by the fact that many character-only
 terminals display the apostrophe in typewriter style, as a vertical
 single quote).
 
-One quirk that shows up frequently in the `*email* <E/email.html>`__
+One quirk that shows up frequently in the `email <E/email.html>`__
 style of Unix hackers in particular is a tendency for some things that
 are normally all-lowercase (including usernames and the names of
 commands and C routines) to remain uncapitalized even when they occur at
@@ -80,7 +80,7 @@ the beginning of sentences. It is clear that, for many hackers, the case
 of such identifiers becomes a part of their internal representation (the
 ‘spelling’) and cannot be overridden without mental effort (an
 appropriate reflex because Unix and C both distinguish cases and
-confusing them can lead to `*lossage* <L/lossage.html>`__). A way of
+confusing them can lead to `lossage <L/lossage.html>`__). A way of
 escaping this dilemma is simply to avoid using these constructions at
 the beginning of sentences.
 
@@ -101,7 +101,7 @@ normal means of font changes, underlining, and the like are available.
 
 One of these is that TEXT IN ALL CAPS IS INTERPRETED AS ‘LOUD’, and this
 becomes such an ingrained synesthetic reflex that a person who goes to
-caps-lock while in `*talk mode* <T/talk-mode.html>`__ may be asked to
+caps-lock while in `talk mode <T/talk-mode.html>`__ may be asked to
 “stop shouting, please, you're hurting my ears!”.
 
 Also, it is common to use bracketing with unusual characters to signify
@@ -132,17 +132,17 @@ made. Examples: \*bang\*, \*hic\*, \*ring\*, \*grin\*, \*kick\*,
 One might also see the above sound effects as <bang>, <hic>, <ring>,
 <grin>, <kick>, <stomp>, <mumble>. This use of angle brackets to mark
 their contents originally derives from conventions used in
-`*BNF* <B/BNF.html>`__, but since about 1993 it has been reinforced by
+`BNF <B/BNF.html>`__, but since about 1993 it has been reinforced by
 the HTML markup used on the World Wide Web.
 
 Angle-bracket enclosure is also used to indicate that a term stands for
-some `*random* <R/random.html>`__ member of a larger class (this is
-straight from `*BNF* <B/BNF.html>`__). Examples like the following are
-common:
+some `random <R/random.html>`__ member of a larger class (this is
+straight from `BNF <B/BNF.html>`__). Examples like the following are
+common::
 
     So this <ethnic> walks into a bar one day...
 
-There is also an accepted convention for ‘writing under erasure’; the
+There is also an accepted convention for 'writing under erasure'; the
 text>
 
     Be nice to this fool^H^H^H^Hgentleman, he's visiting from corporate
@@ -174,24 +174,21 @@ fanzines.
 A related habit uses editor commands to signify corrections to previous
 text. This custom faded in email as more mailers got good editing
 capabilities, only to take on new life on IRCs and other line-based chat
-systems.
+systems::                                                        
 
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|     charlie: I've seen that term used on alt.foobar often.               |
-|     lisa: Send it to Erik for the File.                                  |
-|     lisa: Oops...s/Erik/Eric/.                                           |                                                                         
-+--------------------------------------------------------------------------+
+     charlie: I've seen that term used on alt.foobar often.               
+     lisa: Send it to Erik for the File.                                  
+     lisa: Oops...s/Erik/Eric/.                                                                                                                    
+
 
 
 The s/Erik/Eric/ says “change Erik to Eric in the preceding”. This
 syntax is borrowed from the Unix editing tools **ed** and **sed**, but
 is widely recognized by non-Unix hackers as well.
 
-In a formula, \* signifies multiplication but two asterisks in a row are
+In a formula, * signifies multiplication but two asterisks in a row are
 a shorthand for exponentiation (this derives from FORTRAN, and is also
-used in Ada). Thus, one might write 2 \*\* 8 = 256.
+used in Ada). Thus, one might write 2 ** 8 = 256.
 
 Another notation for exponentiation one sees more frequently uses the
 caret (^, ASCII 1011110); one might write instead 2^8 = 256. This goes
@@ -215,58 +212,55 @@ the high status of scientific notation.
 
 Another on-line convention, used especially for very large or very small
 numbers, is taken from C (which derived it from FORTRAN). This is a form
-of ‘scientific notation’ using ‘e’ to replace ‘\*10^’; for example, one
-year is about 3e7 (that is, 3 × 10 :sup:`7`) seconds long.
+of ‘scientific notation’ using ‘e’ to replace '\*10^'; for example, one
+year is about 3e7 (that is, 3 × 10 :sup: '7') seconds long.
 
 The tilde (~) is commonly used in a quantifying sense of
-‘approximately’; that is, ``~50`` means ‘about fifty’.
+‘approximately’; that is, "~50" means ‘about fifty’.
 
-On Usenet and in the `*MUD* <M/MUD.html>`__ world, common C boolean,
-logical, and relational operators such as ``|``, ``&``, ``||``, ``&&``,
-``!``, ``==``, ``!=``, ``>``, ``<``, ``>=``, and ``<=`` are often
-combined with English. The Pascal not-equals, ``<>``, is also
-recognized, and occasionally one sees ``/=`` for not-equals (from Ada,
+On Usenet and in the `MUD <M/MUD.html>`__ world, common C boolean,
+logical, and relational operators such as "|", "&", "||", "&&",
+"!", "==", "!=", ">", "<", ">=", and "<=" are often
+combined with English. The Pascal not-equals, "<>", is also
+recognized, and occasionally one sees "/=" for not-equals (from Ada,
 Common Lisp, and Fortran 90). The use of prefix ‘!’ as a loose synonym
 for ‘not-’ or ‘no-’ is particularly common; thus, ‘!clue’ is read
 ‘no-clue’ or ‘clueless’.
 
 A related practice borrows syntax from preferred programming languages
 to express ideas in a natural-language text. For example, one might see
-the following:
+the following::
+                                                                         
+      In <jrh578689@thudpucker.com> J. R. Hacker wrote:                     
+      <I recently had occasion to field-test the Snafu                      
+      <Systems 2300E adaptive gonkulator.  The price was                    
+      <right, and the racing stripe on the case looked                      
+      <kind of neat, but its performance left something                     
+      <to be desired.                                                       
+                                                                            
+      Yeah, I tried one out too.                                            
+                                                                            
+      #ifdef FLAME                                                          
+      Hasn't anyone told those idiots that you can't get                    
+      decent bogon suppression with AFJ filters at today's                  
+      net volumes?                                                          
+      #endif /* FLAME */                                                    
+                                                                            
+      I guess they figured the price premium for true                       
+      frame-based semantic analysis was too high.                           
+      Unfortunately, it's also the only workable approach.                  
+      I wouldn't recommend purchase of this product unless                  
+      you're on a *very* tight budget.                                      
+                                                                            
+      #include <disclaimer.h>                                               
+                                                                          
+                       == Frank Foonly (Fubarco Systems)                                                                                            
 
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|     In <jrh578689@thudpucker.com> J. R. Hacker wrote:                    |
-|     <I recently had occasion to field-test the Snafu                     |
-|     <Systems 2300E adaptive gonkulator.  The price was                   |
-|     <right, and the racing stripe on the case looked                     |
-|     <kind of neat, but its performance left something                    |
-|     <to be desired.                                                      |
-|                                                                          |
-|     Yeah, I tried one out too.                                           |
-|                                                                          |
-|     #ifdef FLAME                                                         |
-|     Hasn't anyone told those idiots that you can't get                   |
-|     decent bogon suppression with AFJ filters at today's                 |
-|     net volumes?                                                         |
-|     #endif /* FLAME */                                                   |
-|                                                                          |
-|     I guess they figured the price premium for true                      |
-|     frame-based semantic analysis was too high.                          |
-|     Unfortunately, it's also the only workable approach.                 |
-|     I wouldn't recommend purchase of this product unless                 |
-|     you're on a *very* tight budget.                                     |
-|                                                                          |
-|     #include <disclaimer.h>                                              |
-|     --                                                                   |
-|                      == Frank Foonly (Fubarco Systems)                   |                                                                        
-+--------------------------------------------------------------------------+
 
-In the above, the ``#ifdef``/``#endif`` pair is a conditional
+In the above, the "#ifdef"/"#endif" pair is a conditional
 compilation syntax from C; here, it implies that the text between (which
-is a `*flame* <F/flame.html>`__) should be evaluated only if you have
-turned on (or defined on) the switch FLAME. The ``#include`` at the end
+is a `flame <F/flame.html>`__) should be evaluated only if you have
+turned on (or defined on) the switch FLAME. The "#include" at the end
 is C for “include standard disclaimer here”; the ‘standard disclaimer’
 is understood to read, roughly, “These are my personal opinions and not
 to be construed as the official position of my employer.”
@@ -276,29 +270,22 @@ of an inclusion convention we'll discuss below.
 
 More recently, following on the huge popularity of the World Wide Web,
 pseudo-HTML markup has become popular for similar purposes:
+                                                                        
+      <flame>                                                               
+      Your mother was a hamster and your father smelt of elderberries!      
+      </flame>                                                                                                                                       
 
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|     <flame>                                                              |
-|     Your mother was a hamster and your father smelt of elderberries!     |
-|     </flame>                                                             |                                                                         
-+--------------------------------------------------------------------------+
 
-You'll even see this with an HTML-style attribute modifier:
-
-+--------------------------------------------------------------------------+
-| .. code:: screen                                                         |
-|                                                                          |
-|     <flame intensity="100%">                                             |
-|     You seem well-suited for a career in government.                     |
-|     </flame>                                                             |                                                                         
-+--------------------------------------------------------------------------+
+You'll even see this with an HTML-style attribute modifier:                                                       
+                                                                            
+      <flame intensity="100%">                                              
+      You seem well-suited for a career in government.                      
+      </flame>                                                                                                                                       
 
 Another recent (late 1990s) construction now common on Usenet seems to
 be borrowed from Unix shell syntax or Perl. It consists of using a
 dollar sign before an uppercased form of a word or acronym to suggest
-any `*random* <R/random.html>`__ member of the class indicated by the
+any `random <R/random.html>`__ member of the class indicated by the
 word. Thus: ‘$PHB’ means “any random member of the class ‘Pointy-Haired
 Boss’”.
 

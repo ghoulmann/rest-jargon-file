@@ -1,13 +1,5 @@
-Comparatives
 
-`Prev <anthropomorphization.html>`__ 
-
-Chapter 4. Jargon Construction
-
- `Next <writing-style.html>`__
-
---------------
-
+------------
 Comparatives
 ------------
 
@@ -25,20 +17,14 @@ reliability of software:
 
 broken flaky dodgy fragile brittle solid robust bulletproof armor-plated
 
-Note, however, that ‘dodgy’ is primarily Commonwealth Hackish (it is
+Note, however, that *dodgy* is primarily Commonwealth Hackish (it is
 rare in the U.S., where ‘squirrelly’ may be more common) and may change
 places with ‘flaky’ for some speakers.
 
-Coinages for describing `*lossage* <L/lossage.html>`__ seem to call
+Coinages for describing `lossage <concordance/L.html#lossage>`__ seem to call
 forth the very finest in hackish linguistic inventiveness; it has been
 truly said that hackers have even more words for equipment failures than
 Yiddish has for obnoxious people.
 
---------------
 
-+-----------------------------------------+------------------------------+------------------------------------+
-| `Prev <anthropomorphization.html>`__    | `Up <construction.html>`__   |  `Next <writing-style.html>`__     |
-+-----------------------------------------+------------------------------+------------------------------------+
-| Anthropomorphization                    | `Home <index.html>`__        |  Chapter 5. Hacker Writing Style   |
-+-----------------------------------------+------------------------------+------------------------------------+
 

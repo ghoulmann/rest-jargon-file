@@ -72,8 +72,8 @@ Despite these problems, the organized collection of jargon-related oral
 history for the new compilations has enabled us to put to rest quite a
 number of folk etymologies, place credit where credit is due, and
 illuminate the early history of many important hackerisms such as
-`*kluge* <K/kluge.html>`__, `*cruft* <C/cruft.html>`__, and
-`*foo* <F/foo.html>`__. We believe specialist lexicographers will find
+`kluge <K/kluge.html>`__, `cruft <C/cruft.html>`__, and
+`foo <F/foo.html>`__. We believe specialist lexicographers will find
 many of the historical notes more than casually instructive.
 
 

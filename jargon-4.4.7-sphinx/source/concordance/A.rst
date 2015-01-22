@@ -25,7 +25,7 @@ abend because it is what system operators do to the machine late on
 Friday when they want to call it a day, and hence is from the German
 *Abend* = ‘Evening’.
 
-2. [``alt.callahans``\ ] Absent By Enforced Net Deprivation — used in
+2. ["alt.callahans"\ ] Absent By Enforced Net Deprivation — used in
 the subject lines of postings warning friends of an imminent loss of
 Internet access. (This can be because of computer downtime, loss of
 provider, moving or illness.) Variants of this also appear: ABVND =
@@ -483,9 +483,9 @@ that the speaker hacked PCs before coming to the Mac (see also `feature
 key <../F/feature-key.html>`__, which is sometimes *incorrectly* called
 ‘alt’).
 
-3. The ``alt`` hierarchy on Usenet, the tree of newsgroups created by
+3. The "alt" hierarchy on Usenet, the tree of newsgroups created by
 users without a formal vote and approval procedure. There is a myth, not
-entirely implausible, that ``alt`` is acronymic for “anarchists,
+entirely implausible, that "alt" is acronymic for “anarchists,
 lunatics, and terrorists”; but in fact it is simply short for
 “alternative”.
 
@@ -645,7 +645,7 @@ angle brackets
 
 **angle brackets**: n.
 
-Either of the characters ``<`` (ASCII 0111100) and ``>`` (ASCII 0111110)
+Either of the characters "<" (ASCII 0111100) and ">" (ASCII 0111110)
 (ASCII less-than or greater-than signs). Typographers in the `Real
 World <../R/Real-World.html>`__ use angle brackets which are either
 taller and slimmer (the ISO lang 〈 and rang 〉 characters), or
@@ -828,7 +828,7 @@ anonymous postings triggered on its own automatically-generated control
 messages! Transformed by this stroke of programming ineptitude into a
 monster of Frankensteinian proportions, it broke loose on the night of
 March 30, 1993 and proceeded to `spam <../S/spam.html>`__
-``news.admin.policy`` with a recursive explosion of over 200 messages.
+"news.admin.policy" with a recursive explosion of over 200 messages.
 
 ARMM's bug produced a recursive `cascade <../C/cascade.html>`__ of
 messages each of which mechanically added text to the ID and Subject and
@@ -903,133 +903,102 @@ ASCII art
 **ASCII art**: n.
 
 The fine art of drawing diagrams using the ASCII character set (mainly
-``|``, ``-``, ``/``, ``\``, and ``+``). Also known as character graphics
+"|", "-", "/", "\", and "+"). Also known as character graphics
 or ASCII graphics; see also `boxology <../B/boxology.html>`__. Here is
-a serious example:
-
-+--------------------------------------------------------------------------+
-|                                                                          |
-|                                                                          |
-|                                                                          |
-|         o----)||(--+--|<----+   +---------o + D O                        |
-|           L  )||(  |        |   |             C U                        |
-|         A I  )||(  +-->|-+  |   +-\/\/-+--o -   T                        |
-|         C N  )||(        |  |   |      |        P                        |
-|           E  )||(  +-->|-+--)---+--|(--+-o      U                        |
-|              )||(  |        |          | GND    T                        |
-|         o----)||(--+--|<----+----------+                                 |
-|                                                                          |
-|         A power supply consisting of a full wave rectifier circuit       |
-|         feeding a capacitor input filter circuit                         |
+a serious example::                                                                                                                                          
+                                                                         
+         o----)||(--+--|<----+   +---------o + D O                        
+           L  )||(  |        |   |             C U                        
+         A I  )||(  +-->|-+  |   +-\/\/-+--o -   T                        
+         C N  )||(        |  |   |      |        P                        
+           E  )||(  +-->|-+--)---+--|(--+-o      U                        
+              )||(  |        |          | GND    T                        
+         o----)||(--+--|<----+----------+                                 
                                                                           
-+--------------------------------------------------------------------------+
-
-And here are some very silly examples:
-
-+--------------------------------------------------------------------------+
-|                                                                          |
-|                                                                          |
-|       |\/\/\/|     ____/|              ___    |\_/|    ___               |
-|       |      |     \ o.O|   ACK!      /   \_  |` '|  _/   \              |
-|       |      |      =(_)=  THPHTH!   /      \/     \/      \             |
-|       | (o)(o)        U             /                       \            |
-|       C      _)  (__)                \/\/\/\  _____  /\/\/\/             |
-|       | ,___|    (oo)                       \/     \/                    |
-|       |   /       \/-------\         U                  (__)             |
-|      /____\        ||     | \    /---V  `v'-            oo )             |
-|     /      \       ||---W||  *  * |--|   || |`.         |_/\             |
-|                                                                          |
-|                    //-o-\\                                               |
-|             ____---=======---____                                        |
-|         ====___\   /.. ..\   /___====      Klingons rule OK!             |
-|       //        ---\__O__/---        \\                                  |
-|       \_\                           /_/                                  |
+A power supply consisting of a full wave rectifier circuit feeding a capacitor input filter circuit                         
                                                                           
-+--------------------------------------------------------------------------+
+
+
+And here are some very silly examples::
+                                                                          
+       |\/\/\/|     ____/|              ___    |\_/|    ___               
+       |      |     \ o.O|   ACK!      /   \_  |` '|  _/   \              
+       |      |      =(_)=  THPHTH!   /      \/     \/      \             
+       | (o)(o)        U             /                       \            
+       C      _)  (__)                \/\/\/\  _____  /\/\/\/             
+       | ,___|    (oo)                       \/     \/                    
+       |   /       \/-------\         U                  (__)             
+      /____\        ||     | \    /---V  `v'-            oo )             
+     /      \       ||---W||  *  * |--|   || |`.         |_/\             
+                                                                          
+                    //-o-\\                                               
+             ____---=======---____                                        
+         ====___\   /.. ..\   /___====      Klingons rule OK!             
+       //        ---\__O__/---        \\                                  
+       \_\                           /_/                                  
+                                                                          
+
 
 There is an important subgenre of ASCII art that puns on the standard
-character names in the fashion of a rebus.
+character names in the fashion of a rebus::                                                           
+              
+            ^^^^^^^^^^^^                                                
+       ^^^^^^^^^^^            ^^^^^^^^^                                
+                       ^^^^^^^^^^^^^            ^^^^^^^^^^^^^           
+              ^^^^^^^         B       ^^^^^^^^^                        
+        ^^^^^^^^^          ^^^            ^^^^^^^^^^^^^^               
+         
 
-+--------------------------------------------------------------------------+
-|                                                                          |
-|                                                                          |
-|     +--------------------------------------------------------+           |
-|     |      ^^^^^^^^^^^^                                      |           |
-|     | ^^^^^^^^^^^            ^^^^^^^^^                       |           |
-|     |                 ^^^^^^^^^^^^^            ^^^^^^^^^^^^^ |           |
-|     |        ^^^^^^^         B       ^^^^^^^^^               |           |
-|     |  ^^^^^^^^^          ^^^            ^^^^^^^^^^^^^^      |           |
-|     +--------------------------------------------------------+           |
-|                  " A Bee in the Carrot Patch "                           |
+"A Bee in the Carrot Patch"                           
                                                                           
-+--------------------------------------------------------------------------+
+
 
 Within humorous ASCII art, there is for some reason an entire
 flourishing subgenre of pictures of silly cows. Four of these are
-reproduced in the examples above, here are three more:
-
-+--------------------------------------------------------------------------+
-|                                                                          |
-|                                                                          |
-|                                                                          |
-|              (__)              (__)              (__)                    |
-|              (\/)              ($$)              (**)                    |
-|       /-------\/        /-------\/        /-------\/                     |
-|      / | 666 ||        / |=====||        / |     ||                      |
-|     *  ||----||       *  ||----||       *  ||----||                      |
-|        ~~    ~~          ~~    ~~          ~~    ~~                      |
-|     Satanic cow    This cow is a Yuppie   Cow in love                    |
+reproduced in the examples above, here are three more::
+                                                                      
+              (__)              (__)              (__)                    
+              (\/)              ($$)              (**)                    
+       /-------\/        /-------\/        /-------\/                     
+      / | 666 ||        / |=====||        / |     ||                      
+     *  ||----||       *  ||----||       *  ||----||                      
+        ~~    ~~          ~~    ~~          ~~    ~~                      
+     Satanic cow    This cow is a Yuppie   Cow in love                    
                                                                           
-+--------------------------------------------------------------------------+
+
 
 Finally, here's a magnificent example of ASCII art depicting an
-Edwardian train station in Dunedin, New Zealand:
+Edwardian train station in Dunedin, New Zealand::
+                                                                          
+                                       .-.                                
+                                      /___\                               
+                                      |___|                               
+                                      |]_[|                               
+                                      / I \                               
+                                   JL/  |  \JL                            
+        .-.                    i   ()   |   ()   i                    .-. 
+        |_|     .^.           /_\  LJ=======LJ  /_\           .^.     |_| 
+     ._/___\._./___\_._._._._.L_J_/.-.     .-.\_L_J._._._._._/___\._./___ \._._._                                                                  
+            ., |-,-| .,       L_J  |_| [I] |_|  L_J       ., |-,-| .,      .,                                                                   
+            JL |-O-| JL       L_J%%%%%%%%%%%%%%%L_J       JL |-O-| JL      JL                                                                   
+     IIIIII_HH_'-'-'_HH_IIIIII|_|=======H=======|_|IIIIII_HH_'-'-'_HH_III III_HH_                                                                  
+     -------[]-------[]-------[_]----\.=I=./----[_]-------[]-------[]---- ----[]-                                                                  
+      _/\_  ||\\_I_//||  _/\_ [_] []_/_L_J_\_[] [_] _/\_  ||\\_I_//||  _/ \_  ||\                                                                  
+      |__|  ||=/_|_\=||  |__|_|_|   _L_L_J_J_   |_|_|__|  ||=/_|_\=||  |_ _|  ||-                                                                  
+      |__|  |||__|__|||  |__[___]__--__===__--__[___]__|  |||__|__|||  |_ _|  |||                                                                  
+     IIIIIII[_]IIIII[_]IIIIIL___J__II__|_|__II__L___JIIIII[_]IIIII[_]IIII IIII[_]                                                                  
+      \_I_/ [_]\_I_/[_] \_I_[_]\II/[]\_\I/_/[]\II/[_]\_I_/ [_]\_I_/[_] \_ I_/ [_]                                                                  
+     ./   \.L_J/   \L_J./   L_JI  I[]/     \[]I  IL_J    \.L_J/   \L_J./    \.L_J                                                                  
+     |     |L_J|   |L_J|    L_J|  |[]|     |[]|  |L_J     |L_J|   |L_J|      |L_J                                                                  
+     |_____JL_JL___JL_JL____|-||  |[]|     |[]|  ||-|_____JL_JL___JL_JL__ ___JL_J                                                                                                                                          
 
-+--------------------------------------------------------------------------+
-|                                                                          |
-|                                                                          |
-|                                       .-.                                |
-|                                      /___\                               |
-|                                      |___|                               |
-|                                      |]_[|                               |
-|                                      / I \                               |
-|                                   JL/  |  \JL                            |
-|        .-.                    i   ()   |   ()   i                    .-. |
-|        |_|     .^.           /_\  LJ=======LJ  /_\           .^.     |_| |
-|     ._/___\._./___\_._._._._.L_J_/.-.     .-.\_L_J._._._._._/___\._./___ |
-| \._._._                                                                  |
-|            ., |-,-| .,       L_J  |_| [I] |_|  L_J       ., |-,-| .,     |
-|     .,                                                                   |
-|            JL |-O-| JL       L_J%%%%%%%%%%%%%%%L_J       JL |-O-| JL     |
-|     JL                                                                   |
-|     IIIIII_HH_'-'-'_HH_IIIIII|_|=======H=======|_|IIIIII_HH_'-'-'_HH_III |
-| III_HH_                                                                  |
-|     -------[]-------[]-------[_]----\.=I=./----[_]-------[]-------[]---- |
-| ----[]-                                                                  |
-|      _/\_  ||\\_I_//||  _/\_ [_] []_/_L_J_\_[] [_] _/\_  ||\\_I_//||  _/ |
-| \_  ||\                                                                  |
-|      |__|  ||=/_|_\=||  |__|_|_|   _L_L_J_J_   |_|_|__|  ||=/_|_\=||  |_ |
-| _|  ||-                                                                  |
-|      |__|  |||__|__|||  |__[___]__--__===__--__[___]__|  |||__|__|||  |_ |
-| _|  |||                                                                  |
-|     IIIIIII[_]IIIII[_]IIIIIL___J__II__|_|__II__L___JIIIII[_]IIIII[_]IIII |
-| IIII[_]                                                                  |
-|      \_I_/ [_]\_I_/[_] \_I_[_]\II/[]\_\I/_/[]\II/[_]\_I_/ [_]\_I_/[_] \_ |
-| I_/ [_]                                                                  |
-|     ./   \.L_J/   \L_J./   L_JI  I[]/     \[]I  IL_J    \.L_J/   \L_J./  |
-|   \.L_J                                                                  |
-|     |     |L_J|   |L_J|    L_J|  |[]|     |[]|  |L_J     |L_J|   |L_J|   |
-|    |L_J                                                                  |
-|     |_____JL_JL___JL_JL____|-||  |[]|     |[]|  ||-|_____JL_JL___JL_JL__ |
-| ___JL_J                                                                  |                                                                        
-+--------------------------------------------------------------------------+
 
 The next step beyond static tableaux in ASCII art is ASCII animation.
 There are not many large examples of this; perhaps the best known is the
 ASCII animation of the original *Star Wars* movie at
 `http://www.asciimation.co.nz/ <http://www.asciimation.co.nz/>`__.
 
-There is a newsgroup, ``alt.ascii-art``, devoted to this genre; however,
+There is a newsgroup, "alt.ascii-art", devoted to this genre; however,
 see also `warlording <../W/warlording.html>`__.
 
 ASCIIbetical order
@@ -1083,74 +1052,49 @@ Square brackets mark the particularly silly names introduced by
 stand for left/right and “open/close” respectively. Ordinary
 parentheticals provide some usage information.
 
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| !     | Common: `bang <../B/bang.html>`__ ; pling; excl; not; shriek; ball-bat; <exclamation mark>. Rare: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka; [spark-spot]; soldier, control.                                                                                                       |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| "     | Common: double quote; quote. Rare: literal mark; double-glitch; snakebite; <quotation marks>; <dieresis>; dirk; [rabbit-ears]; double prime.                                                                                                                                                                   |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| #     | Common: number sign; pound; pound sign; hash; sharp; `crunch <../C/crunch.html>`__ ; hex; [mesh]. Rare: grid; cross­hatch; oc­to­thorpe; flash; <square>, pig-pen; tic­tac­toe; scratchmark; thud; thump; `splat <../S/splat.html>`__ .                                                                    |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| $     | Common: dollar; <dollar sign>. Rare: currency symbol; buck; cash; bling; string (from BASIC); escape (when used as the echo of ASCII ESC); ding; cache; [big money].                                                                                                                                           |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| %     | Common: percent; <percent sign>; mod; grapes. Rare: [double-oh-seven].                                                                                                                                                                                                                                         |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| &     | Common: <ampersand>; amp; amper; and, and sign. Rare: address (from C); reference (from C++); andpersand; bitand; background (from sh(1) ); pretzel. [INTERCAL called this ampersand ; what could be sillier?]                                                                                                 |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| '     | Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk; pop; [spark]; <closing single quotation mark>; <acute accent>.                                                                                                                                                                      |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ( )   | Common: l/r paren; l/r parenthesis; left/right; o­pen­/­close; par­en/the­sis; o/c paren; o/c par­en­the­sis; l/r paren­the­sis; l/r ba­na­na. Rare: so/al­ready; lparen/rparen; <opening/closing parenthesis>; o/c round bracket, l/r round bracket, [wax/wane]; par­en­this­ey/un­par­en­this­ey; l/r ear.   |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \*    | Common: star; [ `splat <../S/splat.html>`__ ]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster; times; twinkle; glob (see `glob <../G/glob.html>`__ ); `Nathan Hale <../N/Nathan-Hale.html>`__ .                                                                                           |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| +     | Common: <plus>; add. Rare: cross; [intersection].                                                                                                                                                                                                                                                              |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ,     | Common: <comma>. Rare: <cedilla>; [tail].                                                                                                                                                                                                                                                                      |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| -     | Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe.                                                                                                                                                                                                                                          |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| .     | Common: dot; point; <period>; <decimal point>. Rare: radix point; full stop; [spot].                                                                                                                                                                                                                           |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| /     | Common: slash; stroke; <slant>; forward slash. Rare: diagonal; solidus; over; slak; virgule; [slat].                                                                                                                                                                                                           |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| :     | Common: <colon>. Rare: dots; [two-spot].                                                                                                                                                                                                                                                                       |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ;     | Common: <semicolon>; semi. Rare: weenie; [hybrid], pit-thwong.                                                                                                                                                                                                                                                 |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| < >   | Common: <less/great­er than>; bra/ket; l/r angle; l/r angle bracket; l/r broket. Rare: from/{into, towards}; read from/write to; suck/blow; comes-from/gozinta; in/out; crunch/zap (all from UNIX); tic/tac; [angle/right angle].                                                                              |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| =     | Common: <equals>; gets; takes. Rare: quadrathorpe; [half-mesh].                                                                                                                                                                                                                                                |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ?     | Common: query; <question mark>; `ques <../Q/ques.html>`__ . Rare: quiz; whatmark; [what]; wildchar; huh; hook; buttonhook; hunchback.                                                                                                                                                                        |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| @     | Common: at sign; at; strudel. Rare: each; vortex; whorl; [whirlpool]; cyclone; snail; ape; cat; rose; cabbage; <commercial at>.                                                                                                                                                                                |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| V     | Rare: [book].                                                                                                                                                                                                                                                                                                  |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| [ ]   | Common: l/r square bracket; l/r bracket; <opening/closing brack­et>; brack­et/un­brack­et. Rare: square­/­un­square; [U turn/U turn back].                                                                                                                                                                     |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \\    | Common: backslash, hack, whack; escape (from C/UNIX); reverse slash; slosh; backslant; backwhack. Rare: bash; <reverse slant>; reversed virgule; [backslat].                                                                                                                                                   |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ^     | Common: hat; control; uparrow; caret; <circumflex>. Rare: xor sign, chevron; [shark (or shark-fin)]; to the (‘to the power of’); fang; pointer (in Pascal).                                                                                                                                                    |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \_    | Common: <underline>; underscore; underbar; under. Rare: score; backarrow; skid; [flatworm].                                                                                                                                                                                                                    |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \`    | Common: backquote; left quote; left single quote; open quote; <grave accent>; grave. Rare: backprime; [backspark]; unapostrophe; birk; blugle; back tick; back glitch; push; <opening single quotation mark>; quasiquote.                                                                                      |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| { }   | Common: o/c brace; l/r brace; l/r squiggly; l/r squiggly bracket/brace; l/r curly bracket/brace; <opening/closing brace>. Rare: brace/unbrace; curly/un­curly; leftit/rytit; l/r squirrelly; [embrace/bracelet]. A balanced pair of these may be called curlies .                                              |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \|    | Common: bar; or; or-bar; v-bar; pipe; vertical bar. Rare: <vertical line>; gozinta; thru; pipesinta (last three from UNIX); [spike].                                                                                                                                                                           |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ~     | Common: <tilde>; squiggle; `twiddle <../T/twiddle.html>`__ ; not. Rare: approx; wiggle; swung dash; enyay; [sqiggle (sic)].                                                                                                                                                                                  |
-+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+========   =================================================================================================================================================================================================================================================================================================================
+Char.      Notes 
+========   =================================================================================================================================================================================================================================================================================================================
+ !         Common: `bang <../B/bang.html>`__ ; pling; excl; not; shriek; ball-bat; <exclamation mark>. Rare: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka; [spark-spot]; soldier, control.                                                                                                         
+ "         Common: double quote; quote. Rare: literal mark; double-glitch; snakebite; <quotation marks>; <dieresis>; dirk; [rabbit-ears]; double prime.                                                                                                                                                                   
+ #         Common: number sign; pound; pound sign; hash; sharp; `crunch <../C/crunch.html>`__ ; hex; [mesh]. Rare: grid; cross­hatch; oc­to­thorpe; flash; <square>, pig-pen; tic­tac­toe; scratchmark; thud; thump; `splat <../S/splat.html>`__ .                                                                             
+ $         Common: dollar; <dollar sign>. Rare: currency symbol; buck; cash; bling; string (from BASIC); escape (when used as the echo of ASCII ESC); ding; cache; [big money].                                                                                                                                           
+ %         Common: percent; <percent sign>; mod; grapes. Rare: [double-oh-seven].                                                                                                                                                                                                                                         
+ &         Common: <ampersand>; amp; amper; and, and sign. Rare: address (from C); reference (from C++); andpersand; bitand; background (from sh(1) ); pretzel. [INTERCAL called this ampersand ; what could be sillier?]                                                                                                 
+ '         Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk; pop; [spark]; <closing single quotation mark>; <acute accent>.                                                                                                                                                                      
+ ( )       Common: l/r paren; l/r parenthesis; left/right; o­pen­/­close; par­en/the­sis; o/c paren; o/c par­en­the­sis; l/r paren­the­sis; l/r ba­na­na. Rare: so/al­ready; lparen/rparen; <opening/closing parenthesis>; o/c round bracket, l/r round bracket, [wax/wane]; par­en­this­ey/un­par­en­this­ey; l/r ear.                       
+ \*        Common: star; [ `splat <../S/splat.html>`__ ]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster; times; twinkle; glob (see `glob <../G/glob.html>`__ ); `Nathan Hale <../N/Nathan-Hale.html>`__ .                                                                                                 
+ \+        Common: <plus>; add. Rare: cross; [intersection].                                                                                                                                                                                                                                                              
+ ,         Common: <comma>. Rare: <cedilla>; [tail].                                                                                                                                                                                                                                                                      
+ \-        Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe.                                                                                                                                                                                                                                          
+ .         Common: dot; point; <period>; <decimal point>. Rare: radix point; full stop; [spot].                                                                                                                                                                                                                           
+ /         Common: slash; stroke; <slant>; forward slash. Rare: diagonal; solidus; over; slak; virgule; [slat].                                                                                                                                                                                                           
+ :         Common: <colon>. Rare: dots; [two-spot].                                                                                                                                                                                                                                                                       
+ ;         Common: <semicolon>; semi. Rare: weenie; [hybrid], pit-thwong.                                                                                                                                                                                                                                                 
+ < >       Common: <less/great­er than>; bra/ket; l/r angle; l/r angle bracket; l/r broket. Rare: from/{into, towards}; read from/write to; suck/blow; comes-from/gozinta; in/out; crunch/zap (all from UNIX); tic/tac; [angle/right angle].                                                                               
+ \=        Common: <equals>; gets; takes. Rare: quadrathorpe; [half-mesh].                                                                                                                                                                                                                                                
+ ?         Common: query; <question mark>; `ques <../Q/ques.html>`__ . Rare: quiz; whatmark; [what]; wildchar; huh; hook; buttonhook; hunchback.                                                                                                                                                                          
+ @         Common: at sign; at; strudel. Rare: each; vortex; whorl; [whirlpool]; cyclone; snail; ape; cat; rose; cabbage; <commercial at>.                                                                                                                                                                                
+ V         Rare: [book].                                                                                                                                                                                                                                                                                                  
+ [ ]       Common: l/r square bracket; l/r bracket; <opening/closing brack­et>; brack­et/un­brack­et. Rare: square­/­un­square; [U turn/U turn back].                                                                                                                                                                            
+ \\        Common: backslash, hack, whack; escape (from C/UNIX); reverse slash; slosh; backslant; backwhack. Rare: bash; <reverse slant>; reversed virgule; [backslat].                                                                                                                                                   
+ ^         Common: hat; control; uparrow; caret; <circumflex>. Rare: xor sign, chevron; [shark (or shark-fin)]; to the (‘to the power of’); fang; pointer (in Pascal).                                                                                                                                                    
+ \_        Common: <underline>; underscore; underbar; under. Rare: score; backarrow; skid; [flatworm].                                                                                                                                                                                                                    
+ \`        Common: backquote; left quote; left single quote; open quote; <grave accent>; grave. Rare: backprime; [backspark]; unapostrophe; birk; blugle; back tick; back glitch; push; <opening single quotation mark>; quasiquote.                                                                                      
+ { }       Common: o/c brace; l/r brace; l/r squiggly; l/r squiggly bracket/brace; l/r curly bracket/brace; <opening/closing brace>. Rare: brace/unbrace; curly/un­curly; leftit/rytit; l/r squirrelly; [embrace/bracelet]. A balanced pair of these may be called curlies .                                               
+ \|        Common: bar; or; or-bar; v-bar; pipe; vertical bar. Rare: <vertical line>; gozinta; thru; pipesinta (last three from UNIX); [spike].                                                                                                                                                                           
+ ~         Common: <tilde>; squiggle; `twiddle <../T/twiddle.html>`__ ; not. Rare: approx; wiggle; swung dash; enyay; [sqiggle (sic)].                                                                                                                                                                                    
+========   =================================================================================================================================================================================================================================================================================================================
 
 
-The pronunciation of ``#`` as ‘pound’ is common in the U.S. but a bad
+
+The pronunciation of "#" as ‘pound’ is common in the U.S. but a bad
 idea; `Commonwealth Hackish <../C/Commonwealth-Hackish.html>`__ has
 its own, rather more apposite use of ‘pound sign’ (confusingly, on
-British keyboards the £ happens to replace ``#``; thus Britishers
-sometimes call ``#`` on a U.S.-ASCII keyboard ‘pound’, compounding the
+British keyboards the £ happens to replace "#"; thus Britishers
+sometimes call "#" on a U.S.-ASCII keyboard ‘pound’, compounding the
 American error). The U.S. usage derives from an old-fashioned commercial
-practice of using a ``#`` suffix to tag pound weights on bills of
+practice of using a "#" suffix to tag pound weights on bills of
 lading. The character is usually pronounced ‘hash’ outside the U.S.
 There are more culture wars over the correct pronunciation of this
 character than any other, which has led to the `ha ha only
@@ -1166,12 +1110,12 @@ The ‘swung dash’ or ‘approximation’ sign (∼) is not quite the same as
 tilde ~ in typeset material, but the ASCII tilde serves for both
 (compare `angle brackets <angle-brackets.html>`__).
 
-Some other common usages cause odd overlaps. The ``#``, ``$``, ``>``,
-and ``&`` characters, for example, are all pronounced “hex” in different
+Some other common usages cause odd overlaps. The "#", "$", ">",
+and "&" characters, for example, are all pronounced “hex” in different
 communities because various assemblers use them as a prefix tag for
-hexadecimal constants (in particular, ``#`` in many
-assembler-programming cultures, ``$`` in the 6502 world, ``>`` at Texas
-Instruments, and ``&`` on the BBC Micro, Sinclair, and some Z80
+hexadecimal constants (in particular, "#" in many
+assembler-programming cultures, "$" in the 6502 world, ">" at Texas
+Instruments, and "&" on the BBC Micro, Sinclair, and some Z80
 machines). See also `splat <../S/splat.html>`__.
 
 The inability of ASCII text to correctly represent any of the world's
@@ -1242,8 +1186,8 @@ attoparsec
 **attoparsec**: n.
 
 About an inch. *atto-* is the standard SI prefix for multiplication by
-``10-18``. A parsec (parallax-second) is 3.26 light-years; an attoparsec
-is thus ``3.26 ×    10-18`` light years, or about 3.1 cm (thus, 1
+"10-18". A parsec (parallax-second) is 3.26 light-years; an attoparsec
+is thus "3.26 ×    10-18" light years, or about 3.1 cm (thus, 1
 attoparsec/\ `microfortnight <../M/microfortnight.html>`__ equals
 about 1 inch/sec). This unit is reported to be in use (though probably
 not very seriously) among hackers in the U.K. See

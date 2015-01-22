@@ -1,3 +1,8 @@
+==
+I
+==
+
+
 IANAL
 
 `Prev <I-for-one-welcome-our-new-X-overlords.html>`__ 
@@ -40,13 +45,13 @@ From hackerdom's beginnings in the mid-1960s to the early 1990s, IBM was
 regarded with active loathing. Common expansions of the corporate name
 included: Inferior But Marketable; It's Better Manually; Insidious Black
 Magic; It's Been Malfunctioning; Incontinent Bowel Movement; and a
-near-`*infinite* <infinite.html>`__ number of even less complimentary
-expansions (see also `*fear and
-loathing* <../F/fear-and-loathing.html>`__). What galled hackers about
+near-`infinite <infinite.html>`__ number of even less complimentary
+expansions (see also `fear and
+loathing <../F/fear-and-loathing.html>`__). What galled hackers about
 most IBM machines above the PC level wasn't so much that they were
 underpowered and overpriced (though that counted against them), but that
-the designs were incredibly archaic, `*crufty* <../C/crufty.html>`__,
-and `*elephantine* <../E/elephantine.html>`__ ... and you couldn't *fix*
+the designs were incredibly archaic, `crufty <../C/crufty.html>`__,
+and `elephantine <../E/elephantine.html>`__ ... and you couldn't *fix*
 them — source code was locked up tight, and programming tools were
 expensive, hard to find, and bletcherous to use once you had found them.
 
@@ -57,11 +62,11 @@ noxious and omnipresent than IBM had ever been.
 
 In the late 1990s IBM re-invented itself as a services company, began to
 release open-source software through its AlphaWorks group, and began
-shipping `*Linux* <../L/Linux.html>`__ systems and building ties to the
+shipping `Linux <../L/Linux.html>`__ systems and building ties to the
 Linux community. To the astonishment of all parties, IBM emerged as a
-staunch friend of the hacker community and `*open
-source* <../O/open-source.html>`__ development, with ironic consequences
-noted in the `*FUD* <../F/FUD.html>`__ entry.
+staunch friend of the hacker community and `open
+source <../O/open-source.html>`__ development, with ironic consequences
+noted in the `FUD <../F/FUD.html>`__ entry.
 
 This lexicon includes a number of entries attributed to ‘IBM’; these
 derive from some rampantly unofficial jargon lists circulated within
@@ -93,7 +98,7 @@ blank for longitude and latitude, preferably to seconds-of-arc accuracy.
 This was actually used for generating geographically-correct maps of
 Usenet links on a plotter; however, it became traditional to refer to
 this as one's ICBM address or missile address, and some people include
-it in their `*sig block* <../S/sig-block.html>`__ with that name. (A
+it in their `sig block <../S/sig-block.html>`__ with that name. (A
 real missile address would include target elevation.)
 
 --------------
@@ -155,7 +160,7 @@ I
 
 [from mathematical techspeak] Acting as if used only once, even if used
 multiple times. This term is often used with respect to
-`*C* <../C/C.html>`__ header files, which contain common definitions and
+`C <../C/C.html>`__ header files, which contain common definitions and
 declarations to be included by several source files. If a header file is
 ever included twice during the same compilation (perhaps due to nested
 #include files), compilation errors can result unless the header file
@@ -186,15 +191,15 @@ I
 **I didn't change anything!**: interj.
 
 An aggrieved cry often heard as bugs manifest during a regression test.
-The `*canonical* <../C/canonical.html>`__ reply to this assertion is
+The `canonical <../C/canonical.html>`__ reply to this assertion is
 “Then it works just the same as it did before, doesn't it?” See also
-`*one-line fix* <../O/one-line-fix.html>`__. This is also heard from
+`one-line fix <../O/one-line-fix.html>`__. This is also heard from
 applications programmers trying to blame an obvious applications problem
 on an unrelated systems software change, for example a divide-by-0 fault
 after terminals were added to a network. Usually, their statement is
 found to be false. Upon close questioning, they will admit some major
 restructuring of the program that shouldn't have broken anything, in
-their opinion, but which actually `*hosed* <../H/hosed.html>`__ the code
+their opinion, but which actually `hosed <../H/hosed.html>`__ the code
 completely.
 
 --------------
@@ -217,7 +222,7 @@ I
 
 **ID10T error**: /I·D·ten·T er'@r/
 
-Synonym for `*PEBKAC* <../P/PEBKAC.html>`__, e.g. “The user is being an
+Synonym for `PEBKAC <../P/PEBKAC.html>`__, e.g. “The user is being an
 idiot”. Tech-support people passing a problem report to someone higher
 up the food chain (and presumably better equipped to deal with idiots)
 may ask the user to convey that there seems to be an I-D-ten-T error.
@@ -243,10 +248,10 @@ I
 
 **IDP**: /I·D·P/, v.,n.
 
-[Usenet] Abbreviation for `*Internet Death
-Penalty* <Internet-Death-Penalty.html>`__. Common (probably now more so
+[Usenet] Abbreviation for `Internet Death
+Penalty <Internet-Death-Penalty.html>`__. Common (probably now more so
 than the full form), and frequently verbed. Compare
-`*UDP* <../U/UDP.html>`__.
+`UDP <../U/UDP.html>`__.
 
 --------------
 
@@ -268,8 +273,8 @@ I
 
 **ifdef out**: /if´def owt/, v.
 
-Syn. for `*condition out* <../C/condition-out.html>`__, specific to
-`*C* <../C/C.html>`__.
+Syn. for `condition out <../C/condition-out.html>`__, specific to
+`C <../C/C.html>`__.
 
 --------------
 
@@ -321,15 +326,15 @@ I
 **If you want X, you know where to find it.**
 
 There is a legend that Dennis Ritchie, inventor of
-`*C* <../C/C.html>`__, once responded to demands for features resembling
+`C <../C/C.html>`__, once responded to demands for features resembling
 those of what at the time was a much more popular language by observing
 “If you want PL/I, you know where to find it.” Ever since, this has been
 hackish standard form for fending off requests to alter a new design to
 mimic some older (and, by implication, inferior and
-`*baroque* <../B/baroque.html>`__) one. The case X =
-`*Pascal* <../P/Pascal.html>`__ manifests semi-regularly on Usenet's
-``comp.lang.c`` newsgroup. Indeed, the case X = X has been reported in
-discussions of graphics software (see `*X* <../X/X.html>`__).
+`baroque <../B/baroque.html>`__) one. The case X =
+`Pascal <../P/Pascal.html>`__ manifests semi-regularly on Usenet's
+"comp.lang.c" newsgroup. Indeed, the case X = X has been reported in
+discussions of graphics software (see `X <../X/X.html>`__).
 
 --------------
 
@@ -377,16 +382,16 @@ I
 that tends to blow up because of accumulated roundoff error or poor
 convergence properties.
 
-2. [obs.] Software that bypasses the defined `*OS* <../O/OS.html>`__
+2. [obs.] Software that bypasses the defined `OS <../O/OS.html>`__
 interfaces to do things (like screen, keyboard, and disk I/O) itself,
 often in a way that depends on the hardware of the machine it is running
 on or which is nonportable or incompatible with other pieces of
 software. In the MS-DOS world, there was a folk theorem (nearly true) to
 the effect that (owing to gross inadequacies and performance penalties
 in the OS interface) all interesting applications were ill-behaved. See
-also `*bare metal* <../B/bare-metal.html>`__. Oppose
-`*well-behaved* <../W/well-behaved.html>`__. See also
-`*mess-dos* <../M/mess-dos.html>`__.
+also `bare metal <../B/bare-metal.html>`__. Oppose
+`well-behaved <../W/well-behaved.html>`__. See also
+`mess-dos <../M/mess-dos.html>`__.
 
 3. In modern usage, a program is called ill-behaved if it uses
 interfaces to the OS or other programs that are private, undocumented,
@@ -439,16 +444,16 @@ I
 
 **Imminent Death Of The Net Predicted!**: prov.
 
-[Usenet] Since `*Usenet* <../U/Usenet.html>`__ first got off the ground
+[Usenet] Since `Usenet <../U/Usenet.html>`__ first got off the ground
 in 1980--81, it has grown exponentially, approximately doubling in size
-every year. On the other hand, most people feel the `*signal-to-noise
-ratio* <../S/signal-to-noise-ratio.html>`__ of Usenet has dropped
+every year. On the other hand, most people feel the `signal-to-noise
+ratio <../S/signal-to-noise-ratio.html>`__ of Usenet has dropped
 steadily. These trends led, as far back as mid-1983, to predictions of
 the imminent collapse (or death) of the net. Ten years and numerous
 doublings later, enough of these gloomy prognostications have been
 confounded that the phrase “Imminent Death Of The Net Predicted!” has
 become a running joke, hauled out any time someone grumbles about the
-`*S/N ratio* <../S/S-N-ratio.html>`__ or the huge and steadily
+`S/N ratio <../S/S-N-ratio.html>`__ or the huge and steadily
 increasing volume, or the possible loss of a key node or link, or the
 potential for lawsuits when ignoramuses post copyrighted material, etc.,
 etc., etc.
@@ -477,9 +482,9 @@ Any particularly arbitrary or obscure command that one must mutter at a
 system to attain a desired result. Not used of passwords or other
 explicit security features. Especially used of tricks that are so poorly
 documented that they must be learned from a
-`*wizard* <../W/wizard.html>`__. “This compiler normally locates
+`wizard <../W/wizard.html>`__. “This compiler normally locates
 initialized data in the data segment, but if you
-`*mutter* <../M/mutter.html>`__ the right incantation they will be
+`mutter <../M/mutter.html>`__ the right incantation they will be
 forced into text space.”
 
 --------------
@@ -509,9 +514,9 @@ with attribution to the source) in a reply or followup, for clarifying
 the context of one's response. See the discussion of inclusion styles
 under *Hacker Writing Style*.
 
-2. [from `*C* <../C/C.html>`__] **#include <disclaimer.h>** has appeared
-in `*sig block* <../S/sig-block.html>`__\ s to refer to a notional
-standard `*disclaimer* <../D/disclaimer.html>`__ file.
+2. [from `C <../C/C.html>`__] **#include <disclaimer.h>** has appeared
+in `sig block <../S/sig-block.html>`__\ s to refer to a notional
+standard `disclaimer <../D/disclaimer.html>`__ file.
 
 --------------
 
@@ -534,10 +539,10 @@ I
 **include war**: n.
 
 Excessive multi-leveled inclusion within a discussion
-`*thread* <../T/thread.html>`__, a practice that tends to annoy readers.
+`thread <../T/thread.html>`__, a practice that tends to annoy readers.
 In a forum with high-traffic newsgroups, such as Usenet, this can lead
-to `*flame* <../F/flame.html>`__\ s and the urge to start a `*kill
-file* <../K/kill-file.html>`__.
+to `flame <../F/flame.html>`__\ s and the urge to start a `kill
+file <../K/kill-file.html>`__.
 
 --------------
 
@@ -590,12 +595,12 @@ readable fashion. There are four major C indent styles, described below;
 all have the aim of making it easier for the reader to visually track
 the scope of control constructs. They have been inherited by C++ and
 Java, which have C-like syntaxes. The significant variable is the
-placement of ``{`` and ``}`` with respect to the statement(s) they
+placement of "{" and "}" with respect to the statement(s) they
 enclose and to the guard or controlling statement (**if**, **else**,
 **for**, **while**, or **do**) on the block, if any.
 
 K&R style — Named after Kernighan & Ritchie, because the examples in
-`*K&R* <../K/K-ampersand-R.html>`__ are formatted this way. Also called
+`K&R <../K/K-ampersand-R.html>`__ are formatted this way. Also called
 kernel style because the Unix kernel is written in it, and the ‘One True
 Brace Style’ (abbrev. 1TBS) by its partisans. In C code, the body is
 typically indented by eight spaces (or one tab) per level, as shown
@@ -645,7 +650,7 @@ Surveys have shown the Allman and Whitesmiths styles to be the most
 common, with about equal mind shares. K&R/1TBS used to be nearly
 universal, but is now much less common in C (the opening brace tends to
 get lost against the right paren of the guard part in an **if** or
-**while**, which is a `*Bad Thing* <../B/Bad-Thing.html>`__). Defenders
+**while**, which is a `Bad Thing <../B/Bad-Thing.html>`__). Defenders
 of 1TBS argue that any putative gain in readability is less important
 than their style's relative economy with vertical space, which enables
 one to see more code on one's screen at once. The Java Language
@@ -656,8 +661,8 @@ stops short of also standardizing on a bracing style, all source code
 originating from Sun Laboratories uses the K&R style. This has set a
 precedent for Java programmers, which most follow.
 
-Doubtless these issues will continue to be the subject of `*holy
-wars* <../H/holy-wars.html>`__.
+Doubtless these issues will continue to be the subject of `holy
+wars <../H/holy-wars.html>`__.
 
 --------------
 
@@ -679,7 +684,7 @@ I
 
 **index of X**: n.
 
-See `*coefficient of X* <../C/coefficient-of-X.html>`__.
+See `coefficient of X <../C/coefficient-of-X.html>`__.
 
 --------------
 
@@ -710,8 +715,8 @@ components has accumulated for the machine to start going senile). Up to
 half of all chip and wire failures happen within a new system's first
 few weeks; such failures are often referred to as infant mortality
 problems (or, occasionally, as sudden infant death syndrome). See
-`*bathtub curve* <../B/bathtub-curve.html>`__, `*burn-in
-period* <../B/burn-in-period.html>`__.
+`bathtub curve <../B/bathtub-curve.html>`__, `burn-in
+period <../B/burn-in-period.html>`__.
 
 --------------
 
@@ -736,12 +741,12 @@ I
 [common] Consisting of a large number of objects; extreme. Used very
 loosely as in: “This program produces infinite garbage.” “He is an
 infinite loser.” The word most likely to follow infinite, though, is
-`*hair* <../H/hair.html>`__. (It has been pointed out that fractals are
+`hair <../H/hair.html>`__. (It has been pointed out that fractals are
 an excellent example of infinite hair.) These uses are abuses of the
 word's mathematical meaning. The term semi-infinite, denoting an
 immoderately large amount of some resource, is also heard. “This
 compiler is taking a semi-infinite amount of time to optimize my
-program.” See also `*semi* <../S/semi.html>`__.
+program.” See also `semi <../S/semi.html>`__.
 
 --------------
 
@@ -764,8 +769,8 @@ I
 **infinite loop**: n.
 
 One that never terminates (that is, the machine
-`*spin* <../S/spin.html>`__\ s or `*buzz* <../B/buzz.html>`__\ es
-forever and goes `*catatonic* <../C/catatonic.html>`__). There is a
+`spin <../S/spin.html>`__\ s or `buzz <../B/buzz.html>`__\ es
+forever and goes `catatonic <../C/catatonic.html>`__). There is a
 standard joke that has been made about each generation's exemplar of the
 ultra-fast machine: “The Cray-3 is so fast it can execute an infinite
 loop in under 2 seconds!”
@@ -790,19 +795,19 @@ I
 
 **Infinite-Monkey Theorem**: n.
 
-“If you put an `*infinite* <infinite.html>`__ number of monkeys at
+“If you put an `infinite <infinite.html>`__ number of monkeys at
 typewriters, eventually one will bash out the script for Hamlet.” (One
 may also hypothesize a small number of monkeys and a very long period of
 time.) This theorem asserts nothing about the intelligence of the one
-`*random* <../R/random.html>`__ monkey that eventually comes up with the
+`random <../R/random.html>`__ monkey that eventually comes up with the
 script (and note that the mob will also type out all the possible
 *incorrect* versions of Hamlet). It may be referred to semi-seriously
-when justifying a `*brute force* <../B/brute-force.html>`__ method; the
+when justifying a `brute force <../B/brute-force.html>`__ method; the
 implication is that, with enough resources thrown at it, any technical
-challenge becomes a `*one-banana
-problem* <../O/one-banana-problem.html>`__. This argument gets more
-respect since `*Linux* <../L/Linux.html>`__ justified the
-`*bazaar* <../B/bazaar.html>`__ mode of development.
+challenge becomes a `one-banana
+problem <../O/one-banana-problem.html>`__. This argument gets more
+respect since `Linux <../L/Linux.html>`__ justified the
+`bazaar <../B/bazaar.html>`__ mode of development.
 
 Other hackers maintain that the Infinite-Monkey Theorem cannot be true —
 otherwise Usenet would have reproduced the entire canon of great
@@ -855,9 +860,9 @@ I
 variable (register, memory location, data type, whatever).
 
 2. minus infinity: The smallest such value, not necessarily or even
-usually the simple negation of plus infinity. In ``N``-bit
-twos-complement arithmetic, infinity is ``2N-1 -    1`` but minus
-infinity is ``-    (2N-1)``, not ``-(2N-1 - 1)``. Note also that this is
+usually the simple negation of plus infinity. In "N"-bit
+twos-complement arithmetic, infinity is "2N-1 -    1" but minus
+infinity is "-    (2N-1)", not "-(2N-1 - 1)". Note also that this is
 different from time T equals minus infinity, which is closer to a
 mathematician's usage of infinity.
 
@@ -881,7 +886,7 @@ I
 
 **inflate**: vt.
 
-To decompress or `*puff* <../P/puff.html>`__ a file. Rare among Internet
+To decompress or `puff <../P/puff.html>`__ a file. Rare among Internet
 hackers, used primarily by MS-DOS/Windows types.
 
 --------------
@@ -906,7 +911,7 @@ I
 
 A now-legendary games company, active from 1979 to 1989, that
 commercialized the MDL parser technology used for
-`*Zork* <../Z/Zork.html>`__ to produce a line of text adventure games
+`Zork <../Z/Zork.html>`__ to produce a line of text adventure games
 that remain favorites among hackers. Infocom's games were intelligent,
 funny, witty, erudite, irreverent, challenging, satirical, and most
 thoroughly hackish in spirit. The physical game packages from Infocom
@@ -945,15 +950,15 @@ I
 
 **initgame**: /in·it´gaym/, n.
 
-[IRC] An `*IRC* <IRC.html>`__ version of the trivia game “Botticelli”,
-in which one user changes his `*nick* <../N/nick.html>`__ to the
+[IRC] An `IRC <IRC.html>`__ version of the trivia game “Botticelli”,
+in which one user changes his `nick <../N/nick.html>`__ to the
 initials of a famous person or other named entity, and the others on the
 channel ask yes or no questions, with the one to guess the person
 getting to be “it” next. As a courtesy, the one picking the initials
 starts by providing a 4-letter hint of the form sex, nationality,
 life-status, reality-status. For example, MAAR means “Male, American,
 Alive, Real” (as opposed to “fictional”). Initgame can be surprisingly
-addictive. See also `*hing* <../H/hing.html>`__.
+addictive. See also `hing <../H/hing.html>`__.
 
 [1996 update: a recognizable version of the initgame has become a staple
 of some radio talk shows in the U.S. We had it first! -- ESR]
@@ -979,9 +984,9 @@ I
 **insanely great**: adj.
 
 [Mac community, from Steve Jobs; also BSD Unix people via Bill Joy]
-Something so incredibly `*elegant* <../E/elegant.html>`__ that it is
+Something so incredibly `elegant <../E/elegant.html>`__ that it is
 imaginable only to someone possessing the most puissant of
-`*hacker* <../H/hacker.html>`__-natures.
+`hacker <../H/hacker.html>`__-natures.
 
 --------------
 
@@ -1056,14 +1061,14 @@ unspeakable. The Woods-Lyons implementation was actually used by many
 (well, at least several) people at Princeton. The language has been
 recently reimplemented as C-INTERCAL and is consequently enjoying an
 unprecedented level of unpopularity; there is even an
-``alt.lang.intercal`` newsgroup devoted to the study and ...
+"alt.lang.intercal" newsgroup devoted to the study and ...
 appreciation of the language on Usenet.
 
 Inevitably, INTERCAL has a home page on the Web:
 `http://www.catb.org/~esr/intercal/ <http://www.catb.org/~esr/intercal/>`__.
 An extended version, implemented in (what else?)
-`*Perl* <../P/Perl.html>`__ and adding object-oriented features, is
-rumored to exist. See also `*Befunge* <../B/Befunge.html>`__.
+`Perl <../P/Perl.html>`__ and adding object-oriented features, is
+rumored to exist. See also `Befunge <../B/Befunge.html>`__.
 
 --------------
 
@@ -1086,7 +1091,7 @@ I
 **InterCaps**
 
 [Great Britain] Synonym for
-`*BiCapitalization* <../B/BiCapitalization.html>`__.
+`BiCapitalization <../B/BiCapitalization.html>`__.
 
 --------------
 
@@ -1111,8 +1116,8 @@ I
 In hacker parlance, this word has strong connotations of ‘annoying’, or
 ‘difficult’, or both. Hackers relish a challenge, and enjoy wringing all
 the irony possible out of the ancient Chinese curse “May you live in
-interesting times”. Oppose `*trivial* <../T/trivial.html>`__,
-`*uninteresting* <../U/uninteresting.html>`__.
+interesting times”. Oppose `trivial <../T/trivial.html>`__,
+`uninteresting <../U/uninteresting.html>`__.
 
 --------------
 
@@ -1135,10 +1140,10 @@ I
 **Internet Death Penalty**
 
 [Usenet] (often abbreviated IDP) The ultimate sanction against
-`*spam* <../S/spam.html>`__-emitting sites — complete shunning at the
+`spam <../S/spam.html>`__-emitting sites — complete shunning at the
 router level of all mail and packets, as well as Usenet messages, from
-the offending domain(s). Compare `*Usenet Death
-Penalty* <../U/Usenet-Death-Penalty.html>`__, with which it is sometimes
+the offending domain(s). Compare `Usenet Death
+Penalty <../U/Usenet-Death-Penalty.html>`__, with which it is sometimes
 confused.
 
 --------------
@@ -1163,10 +1168,10 @@ I
 
 [very common] Pejorative hackerism for Microsoft's “Internet Explorer”
 web browser (also “Internet Exploiter”). Compare
-`*HP-SUX* <../H/HP-SUX.html>`__,
-`*Macintrash* <../M/Macintrash.html>`__,
-`*sun-stools* <../S/sun-stools.html>`__,
-`*Slowlaris* <../S/Slowlaris.html>`__.
+`HP-SUX <../H/HP-SUX.html>`__,
+`Macintrash <../M/Macintrash.html>`__,
+`sun-stools <../S/sun-stools.html>`__,
+`Slowlaris <../S/Slowlaris.html>`__.
 
 --------------
 
@@ -1189,11 +1194,11 @@ I
 **Internet Exploiter**: n.
 
 Another common name-of-insult for Internet Explorer, Microsoft's
-overweight Web Browser; more hostile than `*Internet
-Exploder* <Internet-Exploder.html>`__. Reflects widespread hostility to
+overweight Web Browser; more hostile than `Internet
+Exploder <Internet-Exploder.html>`__. Reflects widespread hostility to
 Microsoft and a sense that it is seeking to hijack, monopolize, and
-corrupt the Internet. Compare `*Exploder* <../E/Exploder.html>`__ and
-the less pejorative `*Netscrape* <../N/Netscrape.html>`__.
+corrupt the Internet. Compare `Exploder <../E/Exploder.html>`__ and
+the less pejorative `Netscrape <../N/Netscrape.html>`__.
 
 --------------
 
@@ -1236,14 +1241,14 @@ techies, hippies, SF fans, hackers, and anarchists. The roots of this
 lexicon lie in those early years.
 
 Over the next quarter-century the Internet evolved in many ways. The
-typical machine/OS combination moved from `*DEC* <../D/DEC.html>`__
-`*PDP-10* <../P/PDP-10.html>`__\ s and
-`*PDP-20* <../P/PDP-20.html>`__\ s, running
-`*TOPS-10* <../T/TOPS-10.html>`__ and `*TOPS-20* <../T/TOPS-20.html>`__,
-to PDP-11s and `*VAX* <../V/VAX.html>`__\ en and Suns running
-`*Unix* <../U/Unix.html>`__, and in the 1990s to Unix on Intel
+typical machine/OS combination moved from `DEC <../D/DEC.html>`__
+`PDP-10 <../P/PDP-10.html>`__\ s and
+`PDP-20 <../P/PDP-20.html>`__\ s, running
+`TOPS-10 <../T/TOPS-10.html>`__ and `TOPS-20 <../T/TOPS-20.html>`__,
+to PDP-11s and `VAX <../V/VAX.html>`__\ en and Suns running
+`Unix <../U/Unix.html>`__, and in the 1990s to Unix on Intel
 microcomputers. The Internet's protocols grew more capable, most notably
-in the move from NCP/IP to `*TCP/IP* <../T/TCP-IP.html>`__ in 1982 and
+in the move from NCP/IP to `TCP/IP <../T/TCP-IP.html>`__ in 1982 and
 the implementation of Domain Name Service in 1983. It was around this
 time that people began referring to the collection of interconnected
 networks with ARPANET at its core as “the Internet”.
@@ -1259,7 +1264,7 @@ late 1994 the pieces of NSFnet were sold to major telecommunications
 companies until the Internet backbone had gone completely commercial.
 
 That year, 1994, was also the year the mainstream culture discovered the
-Internet. Once again, the `*killer app* <../K/killer-app.html>`__ was
+Internet. Once again, the `killer app <../K/killer-app.html>`__ was
 not the anticipated one — rather, what caught the public imagination was
 the hypertext and multimedia features of the World Wide Web.
 Subsequently the Internet has seen off its only serious challenger (the
@@ -1268,8 +1273,8 @@ the process of absorbing into itself many of the proprietary networks
 built during the second wave of wide-area networking after 1980. By 1996
 it had become a commonplace even in mainstream media to predict that a
 globally-extended Internet would become the key unifying communications
-technology of the next century. See also `*the
-network* <../T/the-network.html>`__.
+technology of the next century. See also `the
+network <../T/the-network.html>`__.
 
 --------------
 
@@ -1293,11 +1298,11 @@ I
 
 1. [techspeak] n. On a computer, an event that interrupts normal
 processing and temporarily diverts flow-of-control through an “interrupt
-handler” routine. See also `*trap* <../T/trap.html>`__.
+handler” routine. See also `trap <../T/trap.html>`__.
 
 2. interj. A request for attention from a hacker. Often explicitly
-spoken. “Interrupt — have you seen Joe recently?” See `*priority
-interrupt* <../P/priority-interrupt.html>`__.
+spoken. “Interrupt — have you seen Joe recently?” See `priority
+interrupt <../P/priority-interrupt.html>`__.
 
 --------------
 
@@ -1324,7 +1329,7 @@ attempts to get the waitress's attention, a hacker might well observe
 “She must have interrupts locked out”. The synonym interrupts disabled
 is also common. Variations abound; “to have one's interrupt mask bit
 set” and “interrupts masked out” are also heard. See also
-`*spl* <../S/spl.html>`__.
+`spl <../S/spl.html>`__.
 
 --------------
 
@@ -1371,8 +1376,8 @@ I
 **in the extreme**: adj.
 
 A preferred superlative suffix for many hackish terms. See, for example,
-obscure in the extreme under `*obscure* <../O/obscure.html>`__, and
-compare `*highly* <../H/highly.html>`__.
+obscure in the extreme under `obscure <../O/obscure.html>`__, and
+compare `highly <../H/highly.html>`__.
 
 --------------
 
@@ -1394,15 +1399,15 @@ I
 
 **intro**: n.
 
-[`*demoscene* <../D/demoscene.html>`__\ ] Introductory
-`*screen* <../S/screen.html>`__ of some production.
+[`demoscene <../D/demoscene.html>`__\ ] Introductory
+`screen <../S/screen.html>`__ of some production.
 
-2. A short `*demo* <../D/demo.html>`__, usually showing just one or two
-`*screen* <../S/screen.html>`__\ s.
+2. A short `demo <../D/demo.html>`__, usually showing just one or two
+`screen <../S/screen.html>`__\ s.
 
-3. Small, usually 64k, 40k or 4k `*demo* <../D/demo.html>`__. Sizes are
-generally dictated by `*compo* <../C/compo.html>`__ rules. See also
-`*dentro* <../D/dentro.html>`__, `*demo* <../D/demo.html>`__.
+3. Small, usually 64k, 40k or 4k `demo <../D/demo.html>`__. Sizes are
+generally dictated by `compo <../C/compo.html>`__ rules. See also
+`dentro <../D/dentro.html>`__, `demo <../D/demo.html>`__.
 
 --------------
 
@@ -1428,13 +1433,13 @@ I
 to converse with others in real time. IRC is structured as a network of
 Internet servers, each of which accepts connections from client
 programs, one per user. The IRC community and the
-`*Usenet* <../U/Usenet.html>`__ and `*MUD* <../M/MUD.html>`__
+`Usenet <../U/Usenet.html>`__ and `MUD <../M/MUD.html>`__
 communities overlap to some extent, including both hackers and regular
 folks who have discovered the wonders of computer networks. Some Usenet
 jargon has been adopted on IRC, as have some conventions such as
-`*emoticon* <../E/emoticon.html>`__\ s. There is also a vigorous native
+`emoticon <../E/emoticon.html>`__\ s. There is also a vigorous native
 jargon, represented in this lexicon by entries marked ‘[IRC]’. See also
-`*talk mode* <../T/talk-mode.html>`__.
+`talk mode <../T/talk-mode.html>`__.
 
 --------------
 
@@ -1457,13 +1462,13 @@ I
 **Iron Age**: n.
 
 In the history of computing, 1961-1971 — the formative era of commercial
-`*mainframe* <../M/mainframe.html>`__ technology, when ferrite-core
-`*dinosaur* <../D/dinosaur.html>`__\ s ruled the earth. The Iron Age
+`mainframe <../M/mainframe.html>`__ technology, when ferrite-core
+`dinosaur <../D/dinosaur.html>`__\ s ruled the earth. The Iron Age
 began, ironically enough, with the delivery of the first minicomputer
 (the PDP-1) and ended with the introduction of the first commercial
-microprocessor (the Intel 4004) in 1971. See also `*Stone
-Age* <../S/Stone-Age.html>`__; compare `*elder
-days* <../E/elder-days.html>`__.
+microprocessor (the Intel 4004) in 1971. See also `Stone
+Age <../S/Stone-Age.html>`__; compare `elder
+days <../E/elder-days.html>`__.
 
 --------------
 
@@ -1486,17 +1491,17 @@ I
 **iron box**: n.
 
 [Unix/Internet] A special environment set up to trap a
-`*cracker* <../C/cracker.html>`__ logging in over remote connections
+`cracker <../C/cracker.html>`__ logging in over remote connections
 long enough to be traced. May include a modified
-`*shell* <../S/shell.html>`__ restricting the cracker's movements in
+`shell <../S/shell.html>`__ restricting the cracker's movements in
 unobvious ways, and ‘bait’ files designed to keep him interested and
-logged on. See also `*back door* <../B/back-door.html>`__, `*firewall
-machine* <../F/firewall-machine.html>`__, `*Venus
-flytrap* <../V/Venus-flytrap.html>`__, and Clifford Stoll's account in
+logged on. See also `back door <../B/back-door.html>`__, `firewall
+machine <../F/firewall-machine.html>`__, `Venus
+flytrap <../V/Venus-flytrap.html>`__, and Clifford Stoll's account in
 *`The Cuckoo's Egg <../pt03.html#Stoll>`__* of how he made and used one
 (see the `Bibliography <../pt03.html#bibliography>`__ in Appendix C).
-Compare `*padded cell* <../P/padded-cell.html>`__, `*honey
-pot* <../H/honey-pot.html>`__.
+Compare `padded cell <../P/padded-cell.html>`__, `honey
+pot <../H/honey-pot.html>`__.
 
 --------------
 
@@ -1519,11 +1524,11 @@ I
 **iron**: n.
 
 Hardware, especially older and larger hardware of
-`*mainframe* <../M/mainframe.html>`__ class with big metal cabinets
+`mainframe <../M/mainframe.html>`__ class with big metal cabinets
 housing relatively low-density electronics (but the term is also used of
-modern supercomputers). Often in the phrase `*big
-iron* <../B/big-iron.html>`__. Oppose `*silicon* <../S/silicon.html>`__.
-See also `*dinosaur* <../D/dinosaur.html>`__.
+modern supercomputers). Often in the phrase `big
+iron <../B/big-iron.html>`__. Oppose `silicon <../S/silicon.html>`__.
+See also `dinosaur <../D/dinosaur.html>`__.
 
 --------------
 
@@ -1546,8 +1551,8 @@ I
 **ironmonger**: n.
 
 [IBM] A hardware specialist (derogatory). Compare
-`*sandbender* <../S/sandbender.html>`__, `*polygon
-pusher* <../P/polygon-pusher.html>`__.
+`sandbender <../S/sandbender.html>`__, `polygon
+pusher <../P/polygon-pusher.html>`__.
 
 --------------
 
@@ -1572,7 +1577,7 @@ I
 Hackers (and the interactive computer games they write) traditionally
 favor this slightly marked usage over other possible equivalents such as
 “There's no X here!” or “X is missing.” or “Where's the X?”. This goes
-back to the original PDP-10 `*ADVENT* <../A/ADVENT.html>`__, which would
+back to the original PDP-10 `ADVENT <../A/ADVENT.html>`__, which would
 respond in this wise if you asked it to do something involving an object
 not present at your location in the game.
 
@@ -1646,7 +1651,7 @@ market. While the big nationwide commercial BBSs with Internet access
 ISPs, the term is usually reserved for local or regional small providers
 (often run by hackers turned entrepreneurs) who resell Internet access
 cheaply without themselves being information providers or selling
-advertising. Compare `*NSP* <../N/NSP.html>`__.
+advertising. Compare `NSP <../N/NSP.html>`__.
 
 --------------
 
@@ -1704,19 +1709,19 @@ terminal-independent I/O. After about 1982, most actual work was shifted
 to newer machines, with the remaining ITS boxes run essentially as a
 hobby and service to the hacker community. The shutdown of the lab's
 last ITS machine in May 1990 marked the end of an era and sent old-time
-hackers into mourning nationwide (see `*high
-moby* <../H/high-moby.html>`__). There is an `ITS home
+hackers into mourning nationwide (see `high
+moby <../H/high-moby.html>`__). There is an `ITS home
 page <http://www.its.os.org/>`__.
 
 2. A mythical image of operating-system perfection worshiped by a
 bizarre, fervent retro-cult of old-time hackers and ex-users (see
-`*troglodyte* <../T/troglodyte.html>`__, sense 2). ITS worshipers manage
+`troglodyte <../T/troglodyte.html>`__, sense 2). ITS worshipers manage
 somehow to continue believing that an OS maintained by assembly-language
 hand-hacking that supported only monocase 6-character filenames in one
 directory per account remains superior to today's state of commercial
-art (their venom against `*Unix* <../U/Unix.html>`__ is particularly
-intense). See also `*holy wars* <../H/holy-wars.html>`__,
-`*Weenix* <../W/Weenix.html>`__.
+art (their venom against `Unix <../U/Unix.html>`__ is particularly
+intense). See also `holy wars <../H/holy-wars.html>`__,
+`Weenix <../W/Weenix.html>`__.
 
 --------------
 
@@ -1739,7 +1744,7 @@ I
 **IWBNI**: //
 
 Abbreviation for ‘It Would Be Nice If’. Compare
-`*WIBNI* <../W/WIBNI.html>`__.
+`WIBNI <../W/WIBNI.html>`__.
 
 --------------
 
@@ -1763,7 +1768,7 @@ I
 
 [Usenet] Abbreviation for ‘Insert Your Favorite Ethnic Group’. Used as a
 meta-name when telling ethnic jokes on the net to avoid offending
-anyone. See `*JEDR* <../J/JEDR.html>`__.
+anyone. See `JEDR <../J/JEDR.html>`__.
 
 --------------
 

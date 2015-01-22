@@ -1,7 +1,6 @@
 
-
 ==========================================
-Hacker Slang and Hacker Culture
+[Of] Hacker Slang and Hacker Culture
 ==========================================
 
 This document is a collection of slang terms used by various subcultures
@@ -23,7 +22,7 @@ As usual with slang, the special vocabulary of hackers helps hold places
 in the community and expresses shared values and experiences. Also as
 usual, *not* knowing the slang (or using it inappropriately) defines one
 as an outsider, a mundane, or (worst of all in hackish vocabulary)
-possibly even a `*suit* <S/suit.html>`__. All human cultures use slang
+possibly even a `suit <concordance/S.html#suit>`__. All human cultures use slang
 in this threefold way — as a tool of communication, and of inclusion,
 and of exclusion.
 
@@ -36,8 +35,8 @@ which don't fit into conventional linguistic reality any better than a
 Coltrane solo or one of Maurits Escher's surreal *trompe l'oeil*
 compositions (Escher is a favorite of hackers), and hacker slang encodes
 these subtleties in many unobvious ways. As a simple example, take the
-distinction between a `*kluge* <K/kluge.html>`__ and an
-`*elegant* <E/elegant.html>`__ solution, and the differing connotations
+distinction between a `kluge <concordance/K.html#kluge>`__ and an
+`elegant <concordance/E.html#elegant.html>`__ solution, and the differing connotations
 attached to each. The distinction is not only of engineering
 significance; it reaches right back into the nature of the generative
 processes in program design and asserts something important about two
@@ -104,7 +103,7 @@ fledgling hackers already partway inside the culture — will benefit from
 them.
 
 A selection of longer items of hacker folklore and humor is included in
-`Appendix A <appendixa.html>`__. The ‘outside’ reader's attention is
+`Appendix A <appendixa.html>`__. The 'outside' reader's attention is
 particularly directed to the Portrait of J. Random Hacker in `Appendix
 B <appendixb.html>`__. The `Bibliography <pt03.html#bibliography>`__,
 lists some non-technical works which have either influenced or described

@@ -31,12 +31,25 @@ Introduction
    pronunciation
    conventions
    submitting-new-entries
+
+Hacker Folklore
+----------------------------
+
+.. toctree::
+   :maxdepth: 2
    
-Concordance
+   appendixa/meaning-of-hack
+   appendixa/tv-typewriters
+   appendixa/magic-story
+   appendixa/koans
+   appendixa/os-and-jedgar
+   appendixa/story-of-mel
+   
+Lexicon
 ------------
    
 .. toctree::
-   :maxdepth:0
+   :maxdepth: 1
    :glob:
    
    concordance/*
