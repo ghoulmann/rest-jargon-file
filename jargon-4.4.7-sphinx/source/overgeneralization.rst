@@ -18,20 +18,20 @@ make nouns and verbs, often by extending a standard rule to nonuniform
 cases (or vice versa). For example, because porous → porosity and
 generous → generosity, hackers happily generalize:
 
--  mysterious → mysteriosity
--  ferrous → ferrosity
--  obvious → obviosity
--  dubious → dubiosity
+-  mysterious -> mysteriosity
+-  ferrous -> ferrosity
+-  obvious -> obviosity
+-  dubious -> dubiosity
 
 Another class of common construction uses the suffix ‘-itude’ to
 abstract a quality from just about any adjective or noun. This usage
 arises especially in cases where mainstream English would perform the
 same abstraction through ‘-iness’ or ‘-ingness’. Thus:
 
--  win → winnitude (a common exclamation)
--  loss → lossitude
--  cruft → cruftitude
--  lame → lameitude
+-  win -> winnitude (a common exclamation)
+-  loss -> lossitude
+-  cruft -> cruftitude
+-  lame -> lameitude
 
 Some hackers cheerfully reverse this transformation; they argue, for
 example, that the horizontal degree lines on a globe ought to be called
@@ -61,9 +61,9 @@ Similarly, all verbs can be nouned. This is only a slight
 overgeneralization in modern English; in hackish, however, it is good
 form to mark them in some standard nonstandard way. Thus:
 
-* win → winnitude, winnage
-* disgust → disgustitude
-* hack → hackification
+* win -> winnitude, winnage
+* disgust -> disgustitude
+* hack -> hackification
 
 Further, note the prevalence of certain kinds of nonstandard plural
 forms. Some of these go back quite a ways; the TMRC Dictionary includes

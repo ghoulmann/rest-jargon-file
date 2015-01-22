@@ -1,16 +1,12 @@
-===
+========
 H
-===
+========
+
+
 
 hack attack
+===========
 
-`Prev <hack.html>`__ 
-
-H
-
- `Next <hack-mode.html>`__
-
---------------
 
 **hack attack**: n.
 
@@ -19,23 +15,9 @@ fast-food chain; the variant big hack attack is reported] Nearly
 synonymous with `hacking run <hacking-run.html>`__, though the latter
 more strongly implies an all-nighter.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <hack.html>`__    | `Up <../H.html>`__         |  `Next <hack-mode.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| hack                    | `Home <../index.html>`__   |  hack mode                   |
-+-------------------------+----------------------------+------------------------------+
-
 hacked off
+===========
 
-`Prev <hack-value.html>`__ 
-
-H
-
- `Next <hacked-up.html>`__
-
---------------
 
 **hacked off**: adj.
 
@@ -52,23 +34,11 @@ It has been pointed out that there is precedent for this usage in U.S.
 Navy slang, in which officers under discipline are sometimes said to be
 “in hack” and one may speak of “hacking off the C.O.”.
 
---------------
 
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <hack-value.html>`__    | `Up <../H.html>`__         |  `Next <hacked-up.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| hack value                    | `Home <../index.html>`__   |  hacked up                   |
-+-------------------------------+----------------------------+------------------------------+
 
 hacked up
+============
 
-`Prev <hacked-off.html>`__ 
-
-H
-
- `Next <hacker.html>`__
-
---------------
 
 **hacked up**: adj.
 
@@ -79,23 +49,11 @@ become hacked up; if modifications are done with some eye to coherence
 and continued maintainability, the software may emerge better for the
 experience. Contrast `hack up <hack-up.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <hacked-off.html>`__    | `Up <../H.html>`__         |  `Next <hacker.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| hacked off                    | `Home <../index.html>`__   |  hacker                   |
-+-------------------------------+----------------------------+---------------------------+
 
 hacker ethic
+===============
 
-`Prev <hacker.html>`__ 
-
-H
-
- `Next <hacker-humor.html>`__
-
---------------
 
 **hacker ethic**: n.
 
@@ -135,23 +93,11 @@ without central control because of this trait; they both rely on and
 reinforce a sense of community that may be hackerdom's most valuable
 intangible asset.
 
---------------
 
-+---------------------------+----------------------------+---------------------------------+
-| `Prev <hacker.html>`__    | `Up <../H.html>`__         |  `Next <hacker-humor.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
-| hacker                    | `Home <../index.html>`__   |  hacker humor                   |
-+---------------------------+----------------------------+---------------------------------+
 
 hacker
+=========
 
-`Prev <hacked-up.html>`__ 
-
-H
-
- `Next <hacker-ethic.html>`__
-
---------------
 
 **hacker**: n.
 
@@ -206,23 +152,11 @@ the hacker culture surrounding TMRC and the MIT AI Lab. We have a report
 that it was used in a sense close to this entry's by teenage radio hams
 and electronics tinkerers in the mid-1950s.
 
---------------
 
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <hacked-up.html>`__    | `Up <../H.html>`__         |  `Next <hacker-ethic.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| hacked up                    | `Home <../index.html>`__   |  hacker ethic                   |
-+------------------------------+----------------------------+---------------------------------+
 
 hacker humor
+================
 
-`Prev <hacker-ethic.html>`__ 
-
-H
-
- `Next <Hackers-the-movie.html>`__
-
---------------
 
 **hacker humor**
 
@@ -270,23 +204,10 @@ correct and (b) responding like a hacker. These traits are also
 recognizable (though in a less marked form) throughout `science-fiction
 fandom <../S/science-fiction-fandom.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------------+
-| `Prev <hacker-ethic.html>`__    | `Up <../H.html>`__         |  `Next <Hackers-the-movie.html>`__   |
-+---------------------------------+----------------------------+--------------------------------------+
-| hacker ethic                    | `Home <../index.html>`__   |  Hackers (the movie)                 |
-+---------------------------------+----------------------------+--------------------------------------+
 
 Hackers (the movie)
+=======================
 
-`Prev <hacker-humor.html>`__ 
-
-H
-
- `Next <hacking-run.html>`__
-
---------------
 
 **Hackers (the movie)**: n.
 
@@ -295,23 +216,11 @@ cracking is what the movie was about. It's understandable that they
 didn't however; titles redolent of snack food are probably a tough sell
 in Hollywood.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <hacker-humor.html>`__    | `Up <../H.html>`__         |  `Next <hacking-run.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| hacker humor                    | `Home <../index.html>`__   |  hacking run                   |
-+---------------------------------+----------------------------+--------------------------------+
 
 hack
+=========
 
-`Prev <ha-ha-only-serious.html>`__ 
 
-H
-
- `Next <hack-attack.html>`__
-
---------------
 
 **hack**
 
@@ -356,23 +265,11 @@ temporary farewell). For more on this totipotent term see *`The Meaning
 of Hack <../meaning-of-hack.html>`__*. See also `neat
 hack <../N/neat-hack.html>`__, `real hack <../R/real-hack.html>`__.
 
---------------
-
-+---------------------------------------+----------------------------+--------------------------------+
-| `Prev <ha-ha-only-serious.html>`__    | `Up <../H.html>`__         |  `Next <hack-attack.html>`__   |
-+---------------------------------------+----------------------------+--------------------------------+
-| ha ha only serious                    | `Home <../index.html>`__   |  hack attack                   |
-+---------------------------------------+----------------------------+--------------------------------+
 
 hacking run
+================
 
-`Prev <Hackers-the-movie.html>`__ 
 
-H
-
- `Next <Hacking-X-for-Y.html>`__
-
---------------
 
 **hacking run**: n.
 
@@ -381,23 +278,10 @@ outside normal working times, especially one longer than 12 hours. May
 cause you to change phase the hard way (see
 `phase <../P/phase.html>`__).
 
---------------
-
-+--------------------------------------+----------------------------+------------------------------------+
-| `Prev <Hackers-the-movie.html>`__    | `Up <../H.html>`__         |  `Next <Hacking-X-for-Y.html>`__   |
-+--------------------------------------+----------------------------+------------------------------------+
-| Hackers (the movie)                  | `Home <../index.html>`__   |  Hacking X for Y                   |
-+--------------------------------------+----------------------------+------------------------------------+
 
 Hacking X for Y
+=================
 
-`Prev <hacking-run.html>`__ 
-
-H
-
- `Next <Hackintosh.html>`__
-
---------------
 
 **Hacking X for Y**: n.
 
@@ -411,23 +295,11 @@ been carried over to other systems with more general facilities for
 self-advertisement (such as Unix `plan
 file <../P/plan-file.html>`__\ s).
 
---------------
-
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <hacking-run.html>`__    | `Up <../H.html>`__         |  `Next <Hackintosh.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| hacking run                    | `Home <../index.html>`__   |  Hackintosh                   |
-+--------------------------------+----------------------------+-------------------------------+
 
 Hackintosh
+============
 
-`Prev <Hacking-X-for-Y.html>`__ 
 
-H
-
- `Next <hackish.html>`__
-
---------------
 
 **Hackintosh**: n.
 
@@ -437,23 +309,11 @@ called a ‘Mac XL’).
 2. A Macintosh assembled from parts theoretically belonging to different
 models in the line.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <Hacking-X-for-Y.html>`__    | `Up <../H.html>`__         |  `Next <hackish.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| Hacking X for Y                    | `Home <../index.html>`__   |  hackish                   |
-+------------------------------------+----------------------------+----------------------------+
 
 hackish
+=========
 
-`Prev <Hackintosh.html>`__ 
 
-H
-
- `Next <hackishness.html>`__
-
---------------
 
 **hackish**: /hak´ish/, adj.
 
@@ -464,69 +324,33 @@ H
 2. Of or pertaining to hackers or the hacker subculture. See also
 `true-hacker <../T/true-hacker.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+--------------------------------+
-| `Prev <Hackintosh.html>`__    | `Up <../H.html>`__         |  `Next <hackishness.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
-| Hackintosh                    | `Home <../index.html>`__   |  hackishness                   |
-+-------------------------------+----------------------------+--------------------------------+
 
 hackishness
+==============
 
-`Prev <hackish.html>`__ 
 
-H
-
- `Next <hackitude.html>`__
-
---------------
 
 **hackishness**: n.
 
 The quality of being or involving a hack. This term is considered mildly
 silly. Syn. `hackitude <hackitude.html>`__.
 
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <hackish.html>`__    | `Up <../H.html>`__         |  `Next <hackitude.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| hackish                    | `Home <../index.html>`__   |  hackitude                   |
-+----------------------------+----------------------------+------------------------------+
 
 hackitude
+===========
 
-`Prev <hackishness.html>`__ 
 
-H
-
- `Next <hair.html>`__
-
---------------
 
 **hackitude**: n.
 
 Syn. `hackishness <hackishness.html>`__; this word is considered
 sillier.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <hackishness.html>`__    | `Up <../H.html>`__         |  `Next <hair.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| hackishness                    | `Home <../index.html>`__   |  hair                   |
-+--------------------------------+----------------------------+-------------------------+
 
 hack mode
+===========
 
-`Prev <hack-attack.html>`__ 
-
-H
-
- `Next <hack-on.html>`__
-
---------------
 
 **hack mode**: n.
 
@@ -560,23 +384,10 @@ you might be in `hack mode <hack-mode.html>`__ with a lot of delicate
 good point to pause. See also `juggling
 eggs <../J/juggling-eggs.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <hack-attack.html>`__    | `Up <../H.html>`__         |  `Next <hack-on.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| hack attack                    | `Home <../index.html>`__   |  hack on                   |
-+--------------------------------+----------------------------+----------------------------+
 
 hack on
+===========
 
-`Prev <hack-mode.html>`__ 
-
-H
-
- `Next <hack-together.html>`__
-
---------------
 
 **hack on**: vt.
 
@@ -584,23 +395,11 @@ H
 some pre-existing hunk of code that one is evolving, as opposed to
 something one might `hack up <hack-up.html>`__.
 
---------------
 
-+------------------------------+----------------------------+----------------------------------+
-| `Prev <hack-mode.html>`__    | `Up <../H.html>`__         |  `Next <hack-together.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
-| hack mode                    | `Home <../index.html>`__   |  hack together                   |
-+------------------------------+----------------------------+----------------------------------+
 
 hack together
+==============
 
-`Prev <hack-on.html>`__ 
-
-H
-
- `Next <hack-up.html>`__
-
---------------
 
 **hack together**: vt.
 
@@ -608,23 +407,10 @@ H
 together or `cruft together <../C/cruft-together.html>`__, this does
 not necessarily have negative connotations.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <hack-on.html>`__    | `Up <../H.html>`__         |  `Next <hack-up.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| hack on                    | `Home <../index.html>`__   |  hack up                   |
-+----------------------------+----------------------------+----------------------------+
 
 hack up
+===========
 
-`Prev <hack-together.html>`__ 
-
-H
-
- `Next <hack-value.html>`__
-
---------------
 
 **hack up**: vt.
 
@@ -637,23 +423,11 @@ existing system. Contrast `hacked up <hacked-up.html>`__; compare
 up <../M/monkey-up.html>`__, `cruft
 together <../C/cruft-together.html>`__.
 
---------------
 
-+----------------------------------+----------------------------+-------------------------------+
-| `Prev <hack-together.html>`__    | `Up <../H.html>`__         |  `Next <hack-value.html>`__   |
-+----------------------------------+----------------------------+-------------------------------+
-| hack together                    | `Home <../index.html>`__   |  hack value                   |
-+----------------------------------+----------------------------+-------------------------------+
 
 hack value
+===============
 
-`Prev <hack-up.html>`__ 
-
-H
-
- `Next <hacked-off.html>`__
-
---------------
 
 **hack value**: n.
 
@@ -667,23 +441,10 @@ Armstrong once said when asked to explain jazz: “Man, if you gotta ask
 you'll never know.” (Feminists please note Fats Waller's explanation of
 rhythm: “Lady, if you got to ask, you ain't got it.”)
 
---------------
 
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <hack-up.html>`__    | `Up <../H.html>`__         |  `Next <hacked-off.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| hack up                    | `Home <../index.html>`__   |  hacked off                   |
-+----------------------------+----------------------------+-------------------------------+
 
 ha ha only serious
-
-`Prev <h.html>`__ 
-
-H
-
- `Next <hack.html>`__
-
---------------
+=========================
 
 **ha ha only serious**
 
@@ -701,23 +462,10 @@ person as an outsider, a `wannabee <../W/wannabee.html>`__, or in
 on this subject, consult any Zen master. See also `hacker
 humor <hacker-humor.html>`__, and `koan <../K/koan.html>`__.
 
---------------
-
-+----------------------+----------------------------+-------------------------+
-| `Prev <h.html>`__    | `Up <../H.html>`__         |  `Next <hack.html>`__   |
-+----------------------+----------------------------+-------------------------+
-| h                    | `Home <../index.html>`__   |  hack                   |
-+----------------------+----------------------------+-------------------------+
 
 hairball
+==========
 
-`Prev <hair.html>`__ 
-
-H
-
- `Next <hairy.html>`__
-
---------------
 
 **hairball**: n.
 
@@ -733,23 +481,11 @@ effort bogged down because the code was a huge hairball.”
 3. Any large amount of garbage coming out suddenly. “Sendmail is
 coughing up a hairball, so expect some slowness accessing the Internet.”
 
---------------
 
-+-------------------------+----------------------------+--------------------------+
-| `Prev <hair.html>`__    | `Up <../H.html>`__         |  `Next <hairy.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| hair                    | `Home <../index.html>`__   |  hairy                   |
-+-------------------------+----------------------------+--------------------------+
 
 hair
+==============
 
-`Prev <hackitude.html>`__ 
-
-H
-
- `Next <hairball.html>`__
-
---------------
 
 **hair**: n.
 
@@ -761,23 +497,11 @@ promote hair growth): “GNUMACS elisp encourages lusers to write complex
 editing modes.” “Yeah, it's pretty hairiferous all right.” (or just:
 “Hair squared!”)
 
---------------
 
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <hackitude.html>`__    | `Up <../H.html>`__         |  `Next <hairball.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| hackitude                    | `Home <../index.html>`__   |  hairball                   |
-+------------------------------+----------------------------+-----------------------------+
 
 hairy
+======
 
-`Prev <hairball.html>`__ 
-
-H
-
- `Next <HAKMEM.html>`__
-
---------------
 
 **hairy**: adj.
 
@@ -812,23 +536,10 @@ in British programming terms, “hairy” may be used to denote complicated
 and/or incomprehensible code, but only if that complexity or
 incomprehesiveness is also considered dangerous.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <hairball.html>`__    | `Up <../H.html>`__         |  `Next <HAKMEM.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| hairball                    | `Home <../index.html>`__   |  HAKMEM                   |
-+-----------------------------+----------------------------+---------------------------+
 
 HAKMEM
+===========
 
-`Prev <hairy.html>`__ 
-
-H
-
- `Next <hakspek.html>`__
-
---------------
 
 **HAKMEM**: /hak´mem/, n.
 
@@ -841,7 +552,7 @@ the category of mathematical and computer trivia. Here is a sampling of
 the entries (with authors), slightly paraphrased:
 
 Item 41 (Gene Salamin): There are exactly 23,000 prime numbers less than
-"218".
+``218``.
 
 Item 46 (Rich Schroeppel): The most *probable* suit distribution in
 bridge hands is 4-4-3-2, as compared to 4-3-3-3, which is the most
@@ -857,9 +568,9 @@ reflection.
 
 Item 154 (Bill Gosper): The myth that any given programming language is
 machine independent is easily exploded by computing the sum of powers of
-2. If the result loops with period "= 1" with sign "+", you are on a
-sign-magnitude machine. If the result loops with period "=    1" at
-"-1", you are on a twos-complement machine. If the result loops with
+2. If the result loops with period ``= 1`` with sign ``+``, you are on a
+sign-magnitude machine. If the result loops with period ``=    1`` at
+``-1``, you are on a twos-complement machine. If the result loops with
 period greater than 1, including the beginning, you are on a
 ones-complement machine. If the result loops with period greater than 1,
 not including the beginning, your machine isn't binary — the pattern
@@ -868,9 +579,9 @@ or bignum system. If arithmetic overflow is a fatal error, some fascist
 pig with a read-only mind is trying to enforce machine independence. But
 the very ability to trap overflow is machine dependent. By this
 strategy, consider the universe, or, more precisely, algebra: Let
-"X =" the sum of many powers of 2 = ...111111 (base 2). Now add "X"
-to itself: "X + X    =" ...111110. Thus, "2X = X -    1", so
-"X = -1". Therefore algebra is run on a machine (the universe) that is
+``X =`` the sum of many powers of 2 = ...111111 (base 2). Now add ``X``
+to itself: ``X + X    =`` ...111110. Thus, ``2X = X -    1``, so
+``X = -1``. Therefore algebra is run on a machine (the universe) that is
 two's-complement.
 
 Item 174 (Bill Gosper and Stuart Nelson): 21963283741 is the only number
@@ -884,13 +595,13 @@ searching for a random occurrence of that sequence in the text, taking
 the letter following that occurrence, typing it out, and iterating. This
 ensures that every 4-letter string output occurs in the original. The
 program typed BANANANANANANANA.... We note an ambiguity in the phrase,
-“the "N"\ th occurrence of.” In one sense, there are five 00's in
+“the ``N``\ th occurrence of.” In one sense, there are five 00's in
 0000000000; in another, there are nine. The editing program TECO finds
 five. Thus it finds only the first ANA in BANANA, and is thus obligated
 to type N next. By Murphy's Law, there is but one NAN, thus forcing A,
 and thus a loop. An option to find overlapped instances would be useful,
-although it would require backing up "N" − 1 characters before seeking
-the next "N"-character string.
+although it would require backing up ``N`` − 1 characters before seeking
+the next ``N``-character string.
 
 Note: This last item refers to a `Dissociated
 Press <../D/Dissociated-Press.html>`__ implementation. See also
@@ -902,23 +613,11 @@ technical items, but these examples show some of its fun flavor.
 An HTML transcription of the entire document is available at
 `http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html <http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html>`__.
 
---------------
 
-+--------------------------+----------------------------+----------------------------+
-| `Prev <hairy.html>`__    | `Up <../H.html>`__         |  `Next <hakspek.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| hairy                    | `Home <../index.html>`__   |  hakspek                   |
-+--------------------------+----------------------------+----------------------------+
 
 hakspek
+========
 
-`Prev <HAKMEM.html>`__ 
-
-H
-
- `Next <Halloween-Documents.html>`__
-
---------------
 
 **hakspek**: /hak´speek/, n.
 
@@ -944,23 +643,11 @@ vice-versa.
 
 See also `talk mode <../T/talk-mode.html>`__.
 
---------------
 
-+---------------------------+----------------------------+----------------------------------------+
-| `Prev <HAKMEM.html>`__    | `Up <../H.html>`__         |  `Next <Halloween-Documents.html>`__   |
-+---------------------------+----------------------------+----------------------------------------+
-| HAKMEM                    | `Home <../index.html>`__   |  Halloween Documents                   |
-+---------------------------+----------------------------+----------------------------------------+
 
 Halloween Documents
+========================
 
-`Prev <hakspek.html>`__ 
-
-H
-
- `Next <ham.html>`__
-
---------------
 
 **Halloween Documents**: n.
 
@@ -974,68 +661,29 @@ Internet protocols and services. They were extensively cited on the
 Internet and in the press and proved so embarrassing that Microsoft PR
 barely said a word in public for six months afterwards.
 
---------------
-
-+----------------------------+----------------------------+------------------------+
-| `Prev <hakspek.html>`__    | `Up <../H.html>`__         |  `Next <ham.html>`__   |
-+----------------------------+----------------------------+------------------------+
-| hakspek                    | `Home <../index.html>`__   |  ham                   |
-+----------------------------+----------------------------+------------------------+
 
 ham
+==========
 
-`Prev <Halloween-Documents.html>`__ 
-
-H
-
- `Next <hammer.html>`__
-
---------------
 
 **ham**
 
 The opposite of `spam <../S/spam.html>`__, sense 3; that is, incoming
 mail that the user actually wants to see.
 
---------------
-
-+----------------------------------------+----------------------------+---------------------------+
-| `Prev <Halloween-Documents.html>`__    | `Up <../H.html>`__         |  `Next <hammer.html>`__   |
-+----------------------------------------+----------------------------+---------------------------+
-| Halloween Documents                    | `Home <../index.html>`__   |  hammer                   |
-+----------------------------------------+----------------------------+---------------------------+
 
 hammer
+==========
 
-`Prev <ham.html>`__ 
-
-H
-
- `Next <hamster.html>`__
-
---------------
 
 **hammer**: vt.
 
 Commonwealth hackish syn. for `bang on <../B/bang-on.html>`__.
 
---------------
-
-+------------------------+----------------------------+----------------------------+
-| `Prev <ham.html>`__    | `Up <../H.html>`__         |  `Next <hamster.html>`__   |
-+------------------------+----------------------------+----------------------------+
-| ham                    | `Home <../index.html>`__   |  hamster                   |
-+------------------------+----------------------------+----------------------------+
 
 hamster
+===========
 
-`Prev <hammer.html>`__ 
-
-H
-
- `Next <HAND.html>`__
-
---------------
 
 **hamster**: n.
 
@@ -1049,45 +697,19 @@ the machine, as opposed to the conventional cable.
 3. [UK] Any item of hardware made by Amstrad, a company famous for its
 cheap plastic PC-almost-compatibles.
 
---------------
-
-+---------------------------+----------------------------+-------------------------+
-| `Prev <hammer.html>`__    | `Up <../H.html>`__         |  `Next <HAND.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| hammer                    | `Home <../index.html>`__   |  HAND                   |
-+---------------------------+----------------------------+-------------------------+
 
 hand cruft
+===============
 
-`Prev <HAND.html>`__ 
-
-H
-
- `Next <hand-hacking.html>`__
-
---------------
 
 **hand cruft**: vt.
 
 [pun on ‘hand craft’] See `cruft <../C/cruft.html>`__, sense 3.
 
---------------
-
-+-------------------------+----------------------------+---------------------------------+
-| `Prev <HAND.html>`__    | `Up <../H.html>`__         |  `Next <hand-hacking.html>`__   |
-+-------------------------+----------------------------+---------------------------------+
-| HAND                    | `Home <../index.html>`__   |  hand-hacking                   |
-+-------------------------+----------------------------+---------------------------------+
 
 hand-hacking
+===============
 
-`Prev <hand-cruft.html>`__ 
-
-H
-
- `Next <hand-roll.html>`__
-
---------------
 
 **hand-hacking**: n.
 
@@ -1103,23 +725,10 @@ that would normally be generated by a translation utility and
 interpreted by another program, and aren't really designed to be read or
 modified by humans.
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <hand-cruft.html>`__    | `Up <../H.html>`__         |  `Next <hand-roll.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| hand cruft                    | `Home <../index.html>`__   |  hand-roll                   |
-+-------------------------------+----------------------------+------------------------------+
 
 HAND
+=====
 
-`Prev <hamster.html>`__ 
-
-H
-
- `Next <hand-cruft.html>`__
-
---------------
 
 **HAND**: //
 
@@ -1127,23 +736,9 @@ H
 close a `Usenet <../U/Usenet.html>`__ posting, but also used to
 informally close emails; often preceded by `HTH <HTH.html>`__.
 
---------------
-
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <hamster.html>`__    | `Up <../H.html>`__         |  `Next <hand-cruft.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| hamster                    | `Home <../index.html>`__   |  hand cruft                   |
-+----------------------------+----------------------------+-------------------------------+
 
 handle
-
-`Prev <hand-roll.html>`__ 
-
-H
-
- `Next <handshaking.html>`__
-
---------------
+=============
 
 **handle**: n.
 
@@ -1172,23 +767,10 @@ references to the allocated memory. Compare `snap <../S/snap.html>`__
 bug <../A/aliasing-bug.html>`__, `dangling
 pointer <../D/dangling-pointer.html>`__.
 
---------------
-
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <hand-roll.html>`__    | `Up <../H.html>`__         |  `Next <handshaking.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| hand-roll                    | `Home <../index.html>`__   |  handshaking                   |
-+------------------------------+----------------------------+--------------------------------+
 
 hand-roll
+=============
 
-`Prev <hand-hacking.html>`__ 
-
-H
-
- `Next <handle.html>`__
-
---------------
 
 **hand-roll**: v.
 
@@ -1201,23 +783,10 @@ worst thing about being a gateway between four different nets is having
 to hand-roll a new sendmail configuration every time any of them
 upgrades.”
 
---------------
-
-+---------------------------------+----------------------------+---------------------------+
-| `Prev <hand-hacking.html>`__    | `Up <../H.html>`__         |  `Next <handle.html>`__   |
-+---------------------------------+----------------------------+---------------------------+
-| hand-hacking                    | `Home <../index.html>`__   |  handle                   |
-+---------------------------------+----------------------------+---------------------------+
 
 handshaking
+=============
 
-`Prev <handle.html>`__ 
-
-H
-
- `Next <handwave.html>`__
-
---------------
 
 **handshaking**: n.
 
@@ -1228,23 +797,10 @@ thus, a hacker might watch two people in conversation nodding their
 heads to indicate that they have heard each others' points and say “Oh,
 they're handshaking!”. See also `protocol <../P/protocol.html>`__.
 
---------------
-
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <handle.html>`__    | `Up <../H.html>`__         |  `Next <handwave.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| handle                    | `Home <../index.html>`__   |  handwave                   |
-+---------------------------+----------------------------+-----------------------------+
 
 handwave
+==========
 
-`Prev <handshaking.html>`__ 
-
-H
-
- `Next <hang.html>`__
-
---------------
 
 **handwave**: /hand´wayv/
 
@@ -1275,23 +831,10 @@ assumption, you might simply wave your hands in this way, as an
 accusation, far more eloquent than words could express, that his logic
 is faulty.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <handshaking.html>`__    | `Up <../H.html>`__         |  `Next <hang.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| handshaking                    | `Home <../index.html>`__   |  hang                   |
-+--------------------------------+----------------------------+-------------------------+
 
 hang
+=====
 
-`Prev <handwave.html>`__ 
-
-H
-
- `Next <Hanlons-Razor.html>`__
-
---------------
 
 **hang**: v.
 
@@ -1308,23 +851,11 @@ character.” Compare `block <../B/block.html>`__.
 device attached with cables, rather than something that is strictly
 inside the machine's chassis.
 
---------------
 
-+-----------------------------+----------------------------+----------------------------------+
-| `Prev <handwave.html>`__    | `Up <../H.html>`__         |  `Next <Hanlons-Razor.html>`__   |
-+-----------------------------+----------------------------+----------------------------------+
-| handwave                    | `Home <../index.html>`__   |  Hanlon's Razor                  |
-+-----------------------------+----------------------------+----------------------------------+
 
 Hanlon's Razor
+===================
 
-`Prev <hang.html>`__ 
-
-H
-
- `Next <happily.html>`__
-
---------------
 
 **Hanlon's Razor**: prov.
 
@@ -1350,23 +881,10 @@ calls the error it indicates the ‘devil theory’ of sociology. Similar
 epigrams have been attributed to William James and (on dubious evidence)
 Napoleon Bonaparte.
 
---------------
 
-+-------------------------+----------------------------+----------------------------+
-| `Prev <hang.html>`__    | `Up <../H.html>`__         |  `Next <happily.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| hang                    | `Home <../index.html>`__   |  happily                   |
-+-------------------------+----------------------------+----------------------------+
 
 happily
-
-`Prev <Hanlons-Razor.html>`__ 
-
-H
-
- `Next <hard-boot.html>`__
-
---------------
+===========
 
 **happily**: adv.
 
@@ -1384,45 +902,18 @@ it was just eager to do its job. We'd like to be angry at it but we
 shouldn't, we should try to understand it instead. The adjective
 “cheerfully” is often used in exactly the same way.
 
---------------
-
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <Hanlons-Razor.html>`__    | `Up <../H.html>`__         |  `Next <hard-boot.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| Hanlon's Razor                   | `Home <../index.html>`__   |  hard boot                   |
-+----------------------------------+----------------------------+------------------------------+
 
 hard boot
-
-`Prev <happily.html>`__ 
-
-H
-
- `Next <hardcoded.html>`__
-
---------------
+=============
 
 **hard boot**: n.
 
 See `boot <../B/boot.html>`__.
 
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <happily.html>`__    | `Up <../H.html>`__         |  `Next <hardcoded.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| happily                    | `Home <../index.html>`__   |  hardcoded                   |
-+----------------------------+----------------------------+------------------------------+
 
 hardcoded
+===============
 
-`Prev <hard-boot.html>`__ 
-
-H
-
- `Next <hardwarily.html>`__
-
---------------
 
 **hardcoded**: adj.
 
@@ -1435,23 +926,10 @@ a `user <../U/user.html>`__ or hacker can easily modify.
 2. In C, this is esp. applied to use of a literal instead of a
 **#define** macro (see `magic number <../M/magic-number.html>`__).
 
---------------
-
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <hard-boot.html>`__    | `Up <../H.html>`__         |  `Next <hardwarily.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| hard boot                    | `Home <../index.html>`__   |  hardwarily                   |
-+------------------------------+----------------------------+-------------------------------+
 
 hardwarily
+==============
 
-`Prev <hardcoded.html>`__ 
-
-H
-
- `Next <hardwired.html>`__
-
---------------
 
 **hardwarily**: /hard·weir'@·lee/, adv.
 
@@ -1460,23 +938,10 @@ The adjective ‘hardwary’ is *not* traditionally used, though it has
 recently been reported from the U.K. See
 `softwarily <../S/softwarily.html>`__.
 
---------------
-
-+------------------------------+----------------------------+------------------------------+
-| `Prev <hardcoded.html>`__    | `Up <../H.html>`__         |  `Next <hardwired.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| hardcoded                    | `Home <../index.html>`__   |  hardwired                   |
-+------------------------------+----------------------------+------------------------------+
 
 hardwired
+==============
 
-`Prev <hardwarily.html>`__ 
-
-H
-
- `Next <has-the-X-nature.html>`__
-
---------------
 
 **hardwired**: adj.
 
@@ -1485,23 +950,10 @@ H
 2. By extension, anything that is not modifiable, especially in the
 sense of customizable to one's particular needs or tastes.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------------+
-| `Prev <hardwarily.html>`__    | `Up <../H.html>`__         |  `Next <has-the-X-nature.html>`__   |
-+-------------------------------+----------------------------+-------------------------------------+
-| hardwarily                    | `Home <../index.html>`__   |  has the X nature                   |
-+-------------------------------+----------------------------+-------------------------------------+
 
 hash bucket
+=============
 
-`Prev <has-the-X-nature.html>`__ 
-
-H
-
- `Next <hash-collision.html>`__
-
---------------
 
 **hash bucket**: n.
 
@@ -1516,23 +968,9 @@ discriminate, and may be confused. “If you hash English words only by
 length, you get too many common grammar words in the first couple of
 hash buckets.” Compare `hash collision <hash-collision.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+-----------------------------------+
-| `Prev <has-the-X-nature.html>`__    | `Up <../H.html>`__         |  `Next <hash-collision.html>`__   |
-+-------------------------------------+----------------------------+-----------------------------------+
-| has the X nature                    | `Home <../index.html>`__   |  hash collision                   |
-+-------------------------------------+----------------------------+-----------------------------------+
 
 hash collision
-
-`Prev <hash-bucket.html>`__ 
-
-H
-
- `Next <hat.html>`__
-
---------------
+================
 
 **hash collision**: n.
 
@@ -1545,23 +983,11 @@ have this mental picture of naked women throwing Molotov cocktails, but
 I think that's just a collision in my hash tables.” Compare `hash
 bucket <hash-bucket.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+------------------------+
-| `Prev <hash-bucket.html>`__    | `Up <../H.html>`__         |  `Next <hat.html>`__   |
-+--------------------------------+----------------------------+------------------------+
-| hash bucket                    | `Home <../index.html>`__   |  hat                   |
-+--------------------------------+----------------------------+------------------------+
 
 has the X nature
+===================
 
-`Prev <hardwired.html>`__ 
-
-H
-
- `Next <hash-bucket.html>`__
-
---------------
 
 **has the X nature**
 
@@ -1573,46 +999,22 @@ See also `the X that can be Y is not the true
 X <../T/the-X-that-can-be-Y-is-not-the-true-X.html>`__. See also
 `mu <../M/mu.html>`__.
 
---------------
 
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <hardwired.html>`__    | `Up <../H.html>`__         |  `Next <hash-bucket.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| hardwired                    | `Home <../index.html>`__   |  hash bucket                   |
-+------------------------------+----------------------------+--------------------------------+
 
 hat
+=========
 
-`Prev <hash-collision.html>`__ 
-
-H
-
- `Next <HCF.html>`__
-
---------------
 
 **hat**: n.
 
 Common (spoken) name for the circumflex (‘^’, ASCII 1011110) character.
 See `ASCII <../A/ASCII.html>`__ for other synonyms.
 
---------------
 
-+-----------------------------------+----------------------------+------------------------+
-| `Prev <hash-collision.html>`__    | `Up <../H.html>`__         |  `Next <HCF.html>`__   |
-+-----------------------------------+----------------------------+------------------------+
-| hash collision                    | `Home <../index.html>`__   |  HCF                   |
-+-----------------------------------+----------------------------+------------------------+
 
 HCF
+==========
 
-`Prev <hat.html>`__ 
-
-H
-
- `Next <heads-down.html>`__
-
---------------
 
 **HCF**: /H·C·F/, n.
 
@@ -1626,23 +1028,10 @@ known. This instruction caused the processor to
 it could; in some configurations this could actually cause lines to burn
 up. Compare `killer poke <../K/killer-poke.html>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------------+
-| `Prev <hat.html>`__    | `Up <../H.html>`__         |  `Next <heads-down.html>`__   |
-+------------------------+----------------------------+-------------------------------+
-| hat                    | `Home <../index.html>`__   |  heads down                   |
-+------------------------+----------------------------+-------------------------------+
 
 heads down
+============
 
-`Prev <HCF.html>`__ 
-
-H
-
- `Next <heartbeat.html>`__
-
---------------
 
 **heads down**: adj.
 
@@ -1652,23 +1041,10 @@ mode <hack-mode.html>`__ and `larval
 stage <../L/larval-stage.html>`__, although this mode is hardly
 confined to fledgling hackers.
 
---------------
-
-+------------------------+----------------------------+------------------------------+
-| `Prev <HCF.html>`__    | `Up <../H.html>`__         |  `Next <heartbeat.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| HCF                    | `Home <../index.html>`__   |  heartbeat                   |
-+------------------------+----------------------------+------------------------------+
 
 heartbeat
+============
 
-`Prev <heads-down.html>`__ 
-
-H
-
- `Next <heatseeker.html>`__
-
---------------
 
 **heartbeat**: n.
 
@@ -1687,23 +1063,10 @@ it is still alive. Sometimes hardware is designed to reboot the machine
 if it stops hearing a heartbeat. See also `breath-of-life
 packet <../B/breath-of-life-packet.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------+
-| `Prev <heads-down.html>`__    | `Up <../H.html>`__         |  `Next <heatseeker.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
-| heads down                    | `Home <../index.html>`__   |  heatseeker                   |
-+-------------------------------+----------------------------+-------------------------------+
 
 heatseeker
+==================
 
-`Prev <heartbeat.html>`__ 
-
-H
-
- `Next <heavy-metal.html>`__
-
---------------
 
 **heatseeker**: n.
 
@@ -1717,45 +1080,19 @@ could be made by just fixing some of the bugs in each release (n) and
 selling it to them as release (n+1). Microsoft in fact seems to have
 mastered this technique.
 
---------------
-
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <heartbeat.html>`__    | `Up <../H.html>`__         |  `Next <heavy-metal.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| heartbeat                    | `Home <../index.html>`__   |  heavy metal                   |
-+------------------------------+----------------------------+--------------------------------+
 
 heavy metal
-
-`Prev <heatseeker.html>`__ 
-
-H
-
- `Next <heavy-wizardry.html>`__
-
---------------
+==============
 
 **heavy metal**: n.
 
 [Cambridge] Syn. `big iron <../B/big-iron.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+-----------------------------------+
-| `Prev <heatseeker.html>`__    | `Up <../H.html>`__         |  `Next <heavy-wizardry.html>`__   |
-+-------------------------------+----------------------------+-----------------------------------+
-| heatseeker                    | `Home <../index.html>`__   |  heavy wizardry                   |
-+-------------------------------+----------------------------+-----------------------------------+
 
 heavyweight
+===============
 
-`Prev <heavy-wizardry.html>`__ 
-
-H
-
- `Next <Hed-Rat.html>`__
-
---------------
 
 **heavyweight**: adj.
 
@@ -1772,23 +1109,9 @@ term isn't pejorative, but one hacker's heavyweight is another's
 now borders on techspeak, especially in the compound heavyweight
 process.
 
---------------
-
-+-----------------------------------+----------------------------+----------------------------+
-| `Prev <heavy-wizardry.html>`__    | `Up <../H.html>`__         |  `Next <Hed-Rat.html>`__   |
-+-----------------------------------+----------------------------+----------------------------+
-| heavy wizardry                    | `Home <../index.html>`__   |  Hed Rat                   |
-+-----------------------------------+----------------------------+----------------------------+
 
 heavy wizardry
-
-`Prev <heavy-metal.html>`__ 
-
-H
-
- `Next <heavyweight.html>`__
-
---------------
+====================
 
 **heavy wizardry**: n.
 
@@ -1801,23 +1124,11 @@ interfacing to `X <../X/X.html>`__ (sense 2) without a toolkit. Esp.:
 found in source-code comments of the form “Heavy wizardry begins here”.
 Compare `voodoo programming <../V/voodoo-programming.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+--------------------------------+
-| `Prev <heavy-metal.html>`__    | `Up <../H.html>`__         |  `Next <heavyweight.html>`__   |
-+--------------------------------+----------------------------+--------------------------------+
-| heavy metal                    | `Home <../index.html>`__   |  heavyweight                   |
-+--------------------------------+----------------------------+--------------------------------+
 
 Hed Rat
+============
 
-`Prev <heavyweight.html>`__ 
-
-H
-
- `Next <heisenbug.html>`__
-
---------------
 
 **Hed Rat**
 
@@ -1827,23 +1138,11 @@ Unflattering spoonerism of Red Hat, a popular
 `sun-stools <../S/sun-stools.html>`__, `HP-SUX <HP-SUX.html>`__,
 `Slowlaris <../S/Slowlaris.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <heavyweight.html>`__    | `Up <../H.html>`__         |  `Next <heisenbug.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| heavyweight                    | `Home <../index.html>`__   |  heisenbug                   |
-+--------------------------------+----------------------------+------------------------------+
 
 heisenbug
+===========
 
-`Prev <Hed-Rat.html>`__ 
-
-H
-
- `Next <hell-desk.html>`__
-
---------------
 
 **heisenbug**: /hi:´zen·buhg/, n.
 
@@ -1861,46 +1160,21 @@ core <../F/fandango-on-core.html>`__ phenomena (esp. lossage related to
 corruption of the malloc `arena <../A/arena.html>`__) or errors that
 `smash the stack <../S/smash-the-stack.html>`__.
 
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <Hed-Rat.html>`__    | `Up <../H.html>`__         |  `Next <hell-desk.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| Hed Rat                    | `Home <../index.html>`__   |  hell desk                   |
-+----------------------------+----------------------------+------------------------------+
 
 hell desk
+===========
 
-`Prev <heisenbug.html>`__ 
-
-H
-
- `Next <hello-sailor-.html>`__
-
---------------
 
 **hell desk**
 
 Common mispronunciation of ‘help desk’, especially among people who have
 to answer phones at one.
 
---------------
-
-+------------------------------+----------------------------+----------------------------------+
-| `Prev <heisenbug.html>`__    | `Up <../H.html>`__         |  `Next <hello-sailor-.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
-| heisenbug                    | `Home <../index.html>`__   |  hello sailor!                   |
-+------------------------------+----------------------------+----------------------------------+
 
 hello sailor!
+===============
 
-`Prev <hell-desk.html>`__ 
 
-H
-
- `Next <hello-world.html>`__
-
---------------
 
 **hello sailor!**: interj.
 
@@ -1914,45 +1188,19 @@ Zork/Dungeon games, only in Infocom's Zork 3 is “Hello, Sailor” actually
 useful (excluding the unique situation where \_knowing\_ this fact is
 important in Dungeon...).
 
---------------
-
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <hell-desk.html>`__    | `Up <../H.html>`__         |  `Next <hello-world.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| hell desk                    | `Home <../index.html>`__   |  hello world                   |
-+------------------------------+----------------------------+--------------------------------+
 
 hello, wall!
+================
 
-`Prev <hello-world.html>`__ 
-
-H
-
- `Next <hex.html>`__
-
---------------
 
 **hello, wall!**: excl.
 
 See `wall <../W/wall.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+------------------------+
-| `Prev <hello-world.html>`__    | `Up <../H.html>`__         |  `Next <hex.html>`__   |
-+--------------------------------+----------------------------+------------------------+
-| hello world                    | `Home <../index.html>`__   |  hex                   |
-+--------------------------------+----------------------------+------------------------+
 
 hello world
+================
 
-`Prev <hello-sailor-.html>`__ 
-
-H
-
- `Next <hello--wall-.html>`__
-
---------------
 
 **hello world**: interj.
 
@@ -1972,23 +1220,11 @@ considered to `lose <../L/lose.html>`__ (see `X <../X/X.html>`__).
 3. Greeting uttered by a hacker making an entrance or requesting
 information from anyone present. “Hello, world! Is the LAN back up yet?”
 
---------------
 
-+----------------------------------+----------------------------+---------------------------------+
-| `Prev <hello-sailor-.html>`__    | `Up <../H.html>`__         |  `Next <hello--wall-.html>`__   |
-+----------------------------------+----------------------------+---------------------------------+
-| hello sailor!                    | `Home <../index.html>`__   |  hello, wall!                   |
-+----------------------------------+----------------------------+---------------------------------+
 
 hexadecimal
+============
 
-`Prev <hex.html>`__ 
-
-H
-
- `Next <hexit.html>`__
-
---------------
 
 **hexadecimal**: n.
 
@@ -2011,23 +1247,10 @@ implements a base-3 computer, computer scientists will be faced with the
 unprecedented dilemma of a choice between two *correct* forms; both
 ternary and trinary have a claim to this throne.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <hex.html>`__    | `Up <../H.html>`__         |  `Next <hexit.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| hex                    | `Home <../index.html>`__   |  hexit                   |
-+------------------------+----------------------------+--------------------------+
 
 hex
+=====
 
-`Prev <hello--wall-.html>`__ 
-
-H
-
- `Next <hexadecimal.html>`__
-
---------------
 
 **hex**: n.
 
@@ -2040,92 +1263,39 @@ occasionally used by hackers. True story: As a joke, some hackers once
 offered some surplus ICs for sale to be worn as protective amulets
 against hostile magic. The chips were, of course, hex inverters.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <hello--wall-.html>`__    | `Up <../H.html>`__         |  `Next <hexadecimal.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| hello, wall!                    | `Home <../index.html>`__   |  hexadecimal                   |
-+---------------------------------+----------------------------+--------------------------------+
 
 hexit
+=======
 
-`Prev <hexadecimal.html>`__ 
-
-H
-
- `Next <HHOK.html>`__
-
---------------
 
 **hexit**: /hek´sit/, n.
-
+ 
 A hexadecimal digit (0-9, and A-F or a-f). Used by people who claim that
 there are only *ten* digits, dammit; sixteen-fingered human beings are
 rather rare, despite what some keyboard designs might seem to imply (see
 `space-cadet keyboard <../S/space-cadet-keyboard.html>`__).
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <hexadecimal.html>`__    | `Up <../H.html>`__         |  `Next <HHOK.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| hexadecimal                    | `Home <../index.html>`__   |  HHOK                   |
-+--------------------------------+----------------------------+-------------------------+
 
 HHOK
-
-`Prev <hexit.html>`__ 
-
-H
-
- `Next <HHOS.html>`__
-
---------------
+======
 
 **HHOK**
 
 See `ha ha only serious <ha-ha-only-serious.html>`__.
 
---------------
 
-+--------------------------+----------------------------+-------------------------+
-| `Prev <hexit.html>`__    | `Up <../H.html>`__         |  `Next <HHOS.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| hexit                    | `Home <../index.html>`__   |  HHOS                   |
-+--------------------------+----------------------------+-------------------------+
 
 HHOS
+===========
 
-`Prev <HHOK.html>`__ 
-
-H
-
- `Next <hidden-flag.html>`__
-
---------------
 
 **HHOS**
 
 See `ha ha only serious <ha-ha-only-serious.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <HHOK.html>`__    | `Up <../H.html>`__         |  `Next <hidden-flag.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| HHOK                    | `Home <../index.html>`__   |  hidden flag                   |
-+-------------------------+----------------------------+--------------------------------+
 
 h
-
-`Prev <../H.html>`__ 
-
-H
-
- `Next <ha-ha-only-serious.html>`__
-
---------------
+====
 
 **h**
 
@@ -2140,23 +1310,10 @@ become an expected feature of benchmark names (Dhrystone, Rhealstone,
 etc.); this is probably patterning on the original Whetstone (the name
 of a laboratory) but influenced by the fannish/counterculture h infix.
 
---------------
-
-+-------------------------+----------------------------+---------------------------------------+
-| `Prev <../H.html>`__    | `Up <../H.html>`__         |  `Next <ha-ha-only-serious.html>`__   |
-+-------------------------+----------------------------+---------------------------------------+
-| H                       | `Home <../index.html>`__   |  ha ha only serious                   |
-+-------------------------+----------------------------+---------------------------------------+
 
 hidden flag
+=============
 
-`Prev <HHOS.html>`__ 
-
-H
-
- `Next <high-bit.html>`__
-
---------------
 
 **hidden flag**: n.
 
@@ -2169,23 +1326,10 @@ use of hidden flags can make a program very hard to debug and
 understand, but is all too common wherever programs are hacked on in a
 hurry.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <HHOS.html>`__    | `Up <../H.html>`__         |  `Next <high-bit.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| HHOS                    | `Home <../index.html>`__   |  high bit                   |
-+-------------------------+----------------------------+-----------------------------+
 
 high bit
+=========
 
-`Prev <hidden-flag.html>`__ 
-
-H
-
- `Next <high-moby.html>`__
-
---------------
 
 **high bit**: n.
 
@@ -2199,23 +1343,11 @@ give me the high bit.” See also `meta bit <../M/meta-bit.html>`__,
 `dread high-bit disease <../D/dread-high-bit-disease.html>`__, and
 compare the mainstream slang bottom line.
 
---------------
 
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <hidden-flag.html>`__    | `Up <../H.html>`__         |  `Next <high-moby.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| hidden flag                    | `Home <../index.html>`__   |  high moby                   |
-+--------------------------------+----------------------------+------------------------------+
 
 highly
+========
 
-`Prev <high-moby.html>`__ 
-
-H
-
- `Next <hing.html>`__
-
---------------
 
 **highly**: adv.
 
@@ -2230,23 +1362,10 @@ paper <../D/drool-proof-paper.html>`__). In other computing cultures,
 postfixing of `in the extreme <../I/in-the-extreme.html>`__ might be
 preferred.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <high-moby.html>`__    | `Up <../H.html>`__         |  `Next <hing.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| high moby                    | `Home <../index.html>`__   |  hing                   |
-+------------------------------+----------------------------+-------------------------+
 
 high moby
+===========
 
-`Prev <high-bit.html>`__ 
-
-H
-
- `Next <highly.html>`__
-
---------------
 
 **high moby**: /hi:´ mohb´ee/, n.
 
@@ -2261,23 +1380,11 @@ the upper floor was dubbed the ‘high moby’ and the other the ‘low moby’.
 All parties involved `grok <../G/grok.html>`__\ ked this instantly.
 See `moby <../M/moby.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <high-bit.html>`__    | `Up <../H.html>`__         |  `Next <highly.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| high bit                    | `Home <../index.html>`__   |  highly                   |
-+-----------------------------+----------------------------+---------------------------+
 
 hing
+======
 
-`Prev <highly.html>`__ 
 
-H
-
- `Next <hired-gun.html>`__
-
---------------
 
 **hing**: //, n.
 
@@ -2285,23 +1392,11 @@ H
 players of `initgame <../I/initgame.html>`__. Compare
 `newsfroup <../N/newsfroup.html>`__, `filk <../F/filk.html>`__.
 
---------------
 
-+---------------------------+----------------------------+------------------------------+
-| `Prev <highly.html>`__    | `Up <../H.html>`__         |  `Next <hired-gun.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| highly                    | `Home <../index.html>`__   |  hired gun                   |
-+---------------------------+----------------------------+------------------------------+
 
 hired gun
+==========
 
-`Prev <hing.html>`__ 
-
-H
-
- `Next <hirsute.html>`__
-
---------------
 
 **hired gun**: n.
 
@@ -2309,45 +1404,19 @@ A contract programmer, as opposed to a full-time staff member. All the
 connotations of this term suggested by innumerable spaghetti Westerns
 are intentional.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <hing.html>`__    | `Up <../H.html>`__         |  `Next <hirsute.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| hing                    | `Home <../index.html>`__   |  hirsute                   |
-+-------------------------+----------------------------+----------------------------+
 
 hirsute
-
-`Prev <hired-gun.html>`__ 
-
-H
-
- `Next <HLL.html>`__
-
---------------
+==========
 
 **hirsute**: adj.
 
 Occasionally used humorously as a synonym for `hairy <hairy.html>`__.
 
---------------
 
-+------------------------------+----------------------------+------------------------+
-| `Prev <hired-gun.html>`__    | `Up <../H.html>`__         |  `Next <HLL.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| hired gun                    | `Home <../index.html>`__   |  HLL                   |
-+------------------------------+----------------------------+------------------------+
 
 HLL
+======
 
-`Prev <hirsute.html>`__ 
-
-H
-
- `Next <hoarding.html>`__
-
---------------
 
 **HLL**: /H·L·L/, n.
 
@@ -2362,45 +1431,19 @@ half-jokingly to describe `C <../C/C.html>`__, alluding to its
 ‘structured-assembler’ image. See also `languages of
 choice <../L/languages-of-choice.html>`__.
 
---------------
-
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <hirsute.html>`__    | `Up <../H.html>`__         |  `Next <hoarding.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| hirsute                    | `Home <../index.html>`__   |  hoarding                   |
-+----------------------------+----------------------------+-----------------------------+
 
 hoarding
+===========
 
-`Prev <HLL.html>`__ 
-
-H
-
- `Next <hog.html>`__
-
---------------
 
 **hoarding**: n.
 
 See `software hoarding <../S/software-hoarding.html>`__.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <HLL.html>`__    | `Up <../H.html>`__         |  `Next <hog.html>`__   |
-+------------------------+----------------------------+------------------------+
-| HLL                    | `Home <../index.html>`__   |  hog                   |
-+------------------------+----------------------------+------------------------+
 
 hog
+=======
 
-`Prev <hoarding.html>`__ 
-
-H
-
- `Next <hole.html>`__
-
---------------
 
 **hog**: n.,vt.
 
@@ -2420,23 +1463,11 @@ course, once disk hogs fill up one filesystem, they typically find some
 other new one to infect, claiming to the sysadmin that they have an
 important new project to complete.
 
---------------
 
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <hoarding.html>`__    | `Up <../H.html>`__         |  `Next <hole.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| hoarding                    | `Home <../index.html>`__   |  hole                   |
-+-----------------------------+----------------------------+-------------------------+
 
 hole
+============
 
-`Prev <hog.html>`__ 
-
-H
-
- `Next <hollised.html>`__
-
---------------
 
 **hole**: n.
 
@@ -2449,32 +1480,20 @@ memory-mapped I/O devices which may not actually be present is called
 ‘the I/O hole’, since memory-management systems must skip over this area
 when filling user requests for memory.
 
---------------
 
-+------------------------+----------------------------+-----------------------------+
-| `Prev <hog.html>`__    | `Up <../H.html>`__         |  `Next <hollised.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| hog                    | `Home <../index.html>`__   |  hollised                   |
-+------------------------+----------------------------+-----------------------------+
 
 hollised
+==========
 
-`Prev <hole.html>`__ 
-
-H
-
- `Next <holy-penguin-pee.html>`__
-
---------------
 
 **hollised**: /hol´ist/, adj.
 
-[Usenet: "sci.space"] To be hollised is to have been ordered by one's
+[Usenet: ``sci.space``] To be hollised is to have been ordered by one's
 employer not to post any even remotely job-related material to Usenet
 (or, by extension, to other Internet media). The original and most
 notorious case of this involved one Ken Hollis, a Lockheed employee and
 space-program enthusiast who posted publicly available material on
-access to Space Shuttle launches to "sci.space". He was gagged under
+access to Space Shuttle launches to ``sci.space``. He was gagged under
 threat of being fired in 1994 at the behest of NASA public-relations
 officers. The result was, of course, a huge publicity black eye for
 NASA. Nevertheless several other NASA contractor employees were
@@ -2483,23 +1502,10 @@ the strong connotation that the persons doing the gagging are
 bureaucratic idiots blinded to their own best interests by territorial
 reflexes.
 
---------------
 
-+-------------------------+----------------------------+-------------------------------------+
-| `Prev <hole.html>`__    | `Up <../H.html>`__         |  `Next <holy-penguin-pee.html>`__   |
-+-------------------------+----------------------------+-------------------------------------+
-| hole                    | `Home <../index.html>`__   |  holy penguin pee                   |
-+-------------------------+----------------------------+-------------------------------------+
 
 holy penguin pee
-
-`Prev <hollised.html>`__ 
-
-H
-
- `Next <holy-wars.html>`__
-
---------------
+=====================
 
 **holy penguin pee**: n.
 
@@ -2509,23 +1515,10 @@ this ritual, he blesses them, officially making them part of the kernel.
 First used in November 1998 just after Linus had handed the maintenance
 of the stable kernel over to Alan Cox.
 
---------------
-
-+-----------------------------+----------------------------+------------------------------+
-| `Prev <hollised.html>`__    | `Up <../H.html>`__         |  `Next <holy-wars.html>`__   |
-+-----------------------------+----------------------------+------------------------------+
-| hollised                    | `Home <../index.html>`__   |  holy wars                   |
-+-----------------------------+----------------------------+------------------------------+
 
 holy wars
+==============
 
-`Prev <holy-penguin-pee.html>`__ 
-
-H
-
- `Next <home-box.html>`__
-
---------------
 
 **holy wars**: n.
 
@@ -2553,46 +1546,19 @@ objective technical evaluations. This happens precisely because in a
 true holy war, the actual substantive differences between the sides are
 relatively minor. See also `theology <../T/theology.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+-----------------------------+
-| `Prev <holy-penguin-pee.html>`__    | `Up <../H.html>`__         |  `Next <home-box.html>`__   |
-+-------------------------------------+----------------------------+-----------------------------+
-| holy penguin pee                    | `Home <../index.html>`__   |  home box                   |
-+-------------------------------------+----------------------------+-----------------------------+
 
 home box
+==========
 
-`Prev <holy-wars.html>`__ 
-
-H
-
- `Next <home-machine.html>`__
-
---------------
 
 **home box**: n.
 
 A hacker's personal machine, especially one he or she owns. “Yeah? Well,
 *my* home box runs a full 4.4 BSD, so there!”
 
---------------
-
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <holy-wars.html>`__    | `Up <../H.html>`__         |  `Next <home-machine.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| holy wars                    | `Home <../index.html>`__   |  home machine                   |
-+------------------------------+----------------------------+---------------------------------+
 
 home machine
-
-`Prev <home-box.html>`__ 
-
-H
-
- `Next <home-page.html>`__
-
---------------
+==============
 
 **home machine**: n.
 
@@ -2602,23 +1568,9 @@ H
 for example, for a hacker who owns one computer at home, but reads email
 at work.
 
---------------
-
-+-----------------------------+----------------------------+------------------------------+
-| `Prev <home-box.html>`__    | `Up <../H.html>`__         |  `Next <home-page.html>`__   |
-+-----------------------------+----------------------------+------------------------------+
-| home box                    | `Home <../index.html>`__   |  home page                   |
-+-----------------------------+----------------------------+------------------------------+
 
 home page
-
-`Prev <home-machine.html>`__ 
-
-H
-
- `Next <honey-pot.html>`__
-
---------------
+=============
 
 **home page**: n.
 
@@ -2630,23 +1582,10 @@ be very public.
 2. By extension, a WWW repository for information and links related to a
 project or organization. Compare `home box <home-box.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+------------------------------+
-| `Prev <home-machine.html>`__    | `Up <../H.html>`__         |  `Next <honey-pot.html>`__   |
-+---------------------------------+----------------------------+------------------------------+
-| home machine                    | `Home <../index.html>`__   |  honey pot                   |
-+---------------------------------+----------------------------+------------------------------+
 
 honey pot
+============
 
-`Prev <home-page.html>`__ 
-
-H
-
- `Next <hook.html>`__
-
---------------
 
 **honey pot**: n.
 
@@ -2664,23 +1603,10 @@ get messed with. The concept was presented in Cheswick & Bellovin's book
 attempted to send through it, but discards or diverts for examination
 messages that are detected to be part of a spam run.
 
---------------
 
-+------------------------------+----------------------------+-------------------------+
-| `Prev <home-page.html>`__    | `Up <../H.html>`__         |  `Next <hook.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| home page                    | `Home <../index.html>`__   |  hook                   |
-+------------------------------+----------------------------+-------------------------+
 
 hook
-
-`Prev <honey-pot.html>`__ 
-
-H
-
- `Next <hop.html>`__
-
---------------
+==========
 
 **hook**: n.
 
@@ -2702,23 +1628,9 @@ flexible for future expansion of capabilities
 (`EMACS <../E/EMACS.html>`__, for example, is *all* hooks). The term
 user exit is synonymous but much more formal and less hackish.
 
---------------
-
-+------------------------------+----------------------------+------------------------+
-| `Prev <honey-pot.html>`__    | `Up <../H.html>`__         |  `Next <hop.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| honey pot                    | `Home <../index.html>`__   |  hop                   |
-+------------------------------+----------------------------+------------------------+
 
 hop
-
-`Prev <hook.html>`__ 
-
-H
-
- `Next <horked.html>`__
-
---------------
+=======
 
 **hop**
 
@@ -2733,23 +1645,10 @@ path <../B/bang-path.html>`__.
 2. v. [rare] To log in to a remote machine, esp. via rlogin or telnet.
 “I'll hop over to foovax to FTP that.”
 
---------------
 
-+-------------------------+----------------------------+---------------------------+
-| `Prev <hook.html>`__    | `Up <../H.html>`__         |  `Next <horked.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| hook                    | `Home <../index.html>`__   |  horked                   |
-+-------------------------+----------------------------+---------------------------+
 
 horked
-
-`Prev <hop.html>`__ 
-
-H
-
- `Next <hose.html>`__
-
---------------
+===========
 
 **horked**: adj.
 
@@ -2759,23 +1658,10 @@ definitions <http://www.syddware.com/hork.html>`__, few of which seem to
 be in live use but many of which would be in the recognition vocabulary
 of anyone familiar with the adjective.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <hop.html>`__    | `Up <../H.html>`__         |  `Next <hose.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| hop                    | `Home <../index.html>`__   |  hose                   |
-+------------------------+----------------------------+-------------------------+
 
 hosed
+==========
 
-`Prev <hose.html>`__ 
-
-H
-
- `Next <hot-chat.html>`__
-
---------------
 
 **hosed**: adj.
 
@@ -2794,23 +1680,11 @@ hoses. The problem was corrected, and users were then assured that
 everything was OK because the system had been rehosed. See also
 `dehose <../D/dehose.html>`__.
 
---------------
 
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <hose.html>`__    | `Up <../H.html>`__         |  `Next <hot-chat.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| hose                    | `Home <../index.html>`__   |  hot chat                   |
-+-------------------------+----------------------------+-----------------------------+
 
 hose
+=======
 
-`Prev <horked.html>`__ 
-
-H
-
- `Next <hosed.html>`__
-
---------------
 
 **hose**
 
@@ -2825,46 +1699,22 @@ Generally denotes data paths that represent performance bottlenecks.
 bit hose or hosery (play on ‘hosiery’) or ‘etherhose’. See also
 `washing machine <../W/washing-machine.html>`__.
 
---------------
 
-+---------------------------+----------------------------+--------------------------+
-| `Prev <horked.html>`__    | `Up <../H.html>`__         |  `Next <hosed.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| horked                    | `Home <../index.html>`__   |  hosed                   |
-+---------------------------+----------------------------+--------------------------+
 
 hot chat
+=============
 
-`Prev <hosed.html>`__ 
-
-H
-
- `Next <hot-spot.html>`__
-
---------------
 
 **hot chat**: n.
 
 Sexually explicit one-on-one chat. See
 `teledildonics <../T/teledildonics.html>`__.
 
---------------
 
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <hosed.html>`__    | `Up <../H.html>`__         |  `Next <hot-spot.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| hosed                    | `Home <../index.html>`__   |  hot spot                   |
-+--------------------------+----------------------------+-----------------------------+
 
 hotlink
+===============
 
-`Prev <hot-spot.html>`__ 
-
-H
-
- `Next <house-wizard.html>`__
-
---------------
 
 **hotlink**: /hot´link/, n.
 
@@ -2876,23 +1726,10 @@ suggested by `web pointer <../W/web-pointer.html>`__. Your screen
 shows hotlinks but your document has web pointers, not (in normal usage)
 the other way around.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------------+
-| `Prev <hot-spot.html>`__    | `Up <../H.html>`__         |  `Next <house-wizard.html>`__   |
-+-----------------------------+----------------------------+---------------------------------+
-| hot spot                    | `Home <../index.html>`__   |  house wizard                   |
-+-----------------------------+----------------------------+---------------------------------+
 
 hot spot
+=============
 
-`Prev <hot-chat.html>`__ 
-
-H
-
- `Next <hotlink.html>`__
-
---------------
 
 **hot spot**: n.
 
@@ -2925,23 +1762,11 @@ the same lock).
 5. More generally, any place in a hardware design that turns into a
 performance bottleneck due to resource contention.
 
---------------
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <hot-chat.html>`__    | `Up <../H.html>`__         |  `Next <hotlink.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| hot chat                    | `Home <../index.html>`__   |  hotlink                   |
-+-----------------------------+----------------------------+----------------------------+
 
 house wizard
+==============
 
-`Prev <hotlink.html>`__ 
-
-H
-
- `Next <HP-SUX.html>`__
-
---------------
 
 **house wizard**: n.
 
@@ -2951,23 +1776,11 @@ really effective house wizard can have influence out of all proportion
 to his/her ostensible rank and still not have to wear a suit. Used esp.
 of Unix wizards. The term house guru is equivalent.
 
---------------
 
-+----------------------------+----------------------------+---------------------------+
-| `Prev <hotlink.html>`__    | `Up <../H.html>`__         |  `Next <HP-SUX.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| hotlink                    | `Home <../index.html>`__   |  HP-SUX                   |
-+----------------------------+----------------------------+---------------------------+
 
 HP-SUX
+===========
 
-`Prev <house-wizard.html>`__ 
-
-H
-
- `Next <HTH.html>`__
-
---------------
 
 **HP-SUX**: /H·P suhks/, n.
 
@@ -2984,23 +1797,10 @@ the greater eloquence of the resulting acronym. See
 `sun-stools <../S/sun-stools.html>`__,
 `Slowlaris <../S/Slowlaris.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+------------------------+
-| `Prev <house-wizard.html>`__    | `Up <../H.html>`__         |  `Next <HTH.html>`__   |
-+---------------------------------+----------------------------+------------------------+
-| house wizard                    | `Home <../index.html>`__   |  HTH                   |
-+---------------------------------+----------------------------+------------------------+
 
 HTH
+========
 
-`Prev <HP-SUX.html>`__ 
-
-H
-
- `Next <huff.html>`__
-
---------------
 
 **HTH**: //
 
@@ -3008,23 +1808,10 @@ H
 response to a technical question). Often used just before
 `HAND <HAND.html>`__. See also `YHBT <../Y/YHBT.html>`__.
 
---------------
-
-+---------------------------+----------------------------+-------------------------+
-| `Prev <HP-SUX.html>`__    | `Up <../H.html>`__         |  `Next <huff.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| HP-SUX                    | `Home <../index.html>`__   |  huff                   |
-+---------------------------+----------------------------+-------------------------+
 
 huff
+============
 
-`Prev <HTH.html>`__ 
-
-H
-
- `Next <hung.html>`__
-
---------------
 
 **huff**: v.
 
@@ -3033,23 +1820,10 @@ methods have been called ‘HUFF’ or some variant thereof. Oppose
 `puff <../P/puff.html>`__. Compare `crunch <../C/crunch.html>`__,
 `compress <../C/compress.html>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <HTH.html>`__    | `Up <../H.html>`__         |  `Next <hung.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| HTH                    | `Home <../index.html>`__   |  hung                   |
-+------------------------+----------------------------+-------------------------+
 
 hung
+=======
 
-`Prev <huff.html>`__ 
-
-H
-
- `Next <hungry-puppy.html>`__
-
---------------
 
 **hung**: adj.
 
@@ -3057,7 +1831,10 @@ H
 but more common at Unix/C sites. Not generally used of people. Syn. with
 `locked up <../L/locked-up.html>`__, `wedged <../W/wedged.html>`__;
 compare `hosed <hosed.html>`__. See also `hang <hang.html>`__. A
-hung state is distinguished from `crash <../C/crash.html>`__\ ed or
+hun
+ `Next <hack-mode.html>`__
+
+--------------g state is distinguished from `crash <../C/crash.html>`__\ ed or
 `down <../D/down.html>`__, where the program or system is also
 unusable but because it is not running rather than because it is waiting
 for something. However, the recovery from both situations is often the
@@ -3066,45 +1843,21 @@ same. It is also distinguished from the similar but more drastic state
 easy things like interrupt keys, but wedged will need a kill -9 or even
 reboot.
 
---------------
 
-+-------------------------+----------------------------+---------------------------------+
-| `Prev <huff.html>`__    | `Up <../H.html>`__         |  `Next <hungry-puppy.html>`__   |
-+-------------------------+----------------------------+---------------------------------+
-| huff                    | `Home <../index.html>`__   |  hungry puppy                   |
-+-------------------------+----------------------------+---------------------------------+
 
 hungry puppy
+===============
 
-`Prev <hung.html>`__ 
-
-H
-
- `Next <hungus.html>`__
-
---------------
 
 **hungry puppy**: n.
 
 Syn. `slopsucker <../S/slopsucker.html>`__.
 
---------------
 
-+-------------------------+----------------------------+---------------------------+
-| `Prev <hung.html>`__    | `Up <../H.html>`__         |  `Next <hungus.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| hung                    | `Home <../index.html>`__   |  hungus                   |
-+-------------------------+----------------------------+---------------------------+
 
 hungus
+=============
 
-`Prev <hungry-puppy.html>`__ 
-
-H
-
- `Next <hyperspace.html>`__
-
---------------
 
 **hungus**: /huhng´g@s/, adj.
 
@@ -3113,23 +1866,10 @@ unmanageable. “TCP is a hungus piece of code.” “This is a hungus set of
 modifications.” The `Infocom <../I/Infocom.html>`__ text adventure
 game *Beyond Zork* included two monsters called hunguses.
 
---------------
-
-+---------------------------------+----------------------------+-------------------------------+
-| `Prev <hungry-puppy.html>`__    | `Up <../H.html>`__         |  `Next <hyperspace.html>`__   |
-+---------------------------------+----------------------------+-------------------------------+
-| hungry puppy                    | `Home <../index.html>`__   |  hyperspace                   |
-+---------------------------------+----------------------------+-------------------------------+
 
 hyperspace
+===============
 
-`Prev <hungus.html>`__ 
-
-H
-
- `Next <hysterical-reasons.html>`__
-
---------------
 
 **hyperspace**: /hi:´per·spays/, n.
 
@@ -3144,23 +1884,11 @@ shortcut through higher-dimensional space — in other words, bypassing
 this universe. The variant east hyperspace is recorded among CMU and
 Bliss hackers.
 
---------------
 
-+---------------------------+----------------------------+---------------------------------------+
-| `Prev <hungus.html>`__    | `Up <../H.html>`__         |  `Next <hysterical-reasons.html>`__   |
-+---------------------------+----------------------------+---------------------------------------+
-| hungus                    | `Home <../index.html>`__   |  hysterical reasons                   |
-+---------------------------+----------------------------+---------------------------------------+
 
 hysterical reasons
+===================
 
-`Prev <hyperspace.html>`__ 
-
-H
-
- `Next <../I.html>`__
-
---------------
 
 **hysterical reasons**: n.
 
@@ -3172,11 +1900,5 @@ place. “All IBM PC video adapters have to support MDA text mode for
 hysterical reasons.” Compare `bug-for-bug
 compatible <../B/bug-for-bug-compatible.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <hyperspace.html>`__    | `Up <../H.html>`__         |  `Next <../I.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| hyperspace                    | `Home <../index.html>`__   |  I                      |
-+-------------------------------+----------------------------+-------------------------+
 

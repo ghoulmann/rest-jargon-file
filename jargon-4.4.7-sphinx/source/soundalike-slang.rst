@@ -11,48 +11,47 @@ magazine *Dr. Dobb's Journal* is almost always referred to among hackers
 as ‘Dr. Frob's Journal’ or simply ‘Dr. Frob's’. Terms of this kind that
 have been in fairly wide use include names for newspapers:
 
-* Boston Herald → Horrid (or Harried)
+* Boston Herald -> Horrid (or Harried)
 
-* Boston Globe → Boston Glob
+* Boston Globe -> Boston Glob
 
-* Houston (or San Francisco) Chronicle → the Crocknicle (or the
+* Houston (or San Francisco) Chronicle -> the Crocknicle (or the
    Comical)
 
-* New York Times → New York Slime
+* New York Times -> New York Slime
 
-* Wall Street Journal → Wall Street Urinal
+* Wall Street Journal -> Wall Street Urinal
 
 However, terms like these are often made up on the spur of the moment.
 Standard examples include:
 
-* Data General → Dirty Genitals
+* Data General -> Dirty Genitals
 
-* IBM 360 → IBM Three-Sickly
+* IBM 360 -> IBM Three-Sickly
 
-* Government Property — Do Not Duplicate (on keys) → Government Duplicity — Do Not Propagate
+* Government Property — Do Not Duplicate (on keys) -> Government Duplicity — Do Not Propagate
 
-* for historical reasons → for hysterical raisins
+* for historical reasons -> for hysterical raisins
 
-* Margaret Jacks Hall (the CS building at Stanford) → Marginal Hacks
-   Hall
+* Margaret Jacks Hall (the CS building at Stanford) -> Marginal Hacks Hall
 
-* Microsoft → Microsloth
+* Microsoft -> Microsloth
 
-* Internet Explorer → Internet Exploiter
+* Internet Explorer -> Internet Exploiter
 
-* FrontPage → AffrontPage
+* FrontPage -> AffrontPage
 
-* VB.NET → VB Nyet
+* VB.NET -> VB Nyet
 
-* Lotus Notes → Lotus Bloats
+* Lotus Notes -> Lotus Bloats
 
-* Microsoft Outlook → Microsoft Outhouse
+* Microsoft Outlook -> Microsoft Outhouse
 
-* Linux → Linsux
+* Linux -> Linsux
 
-* FreeBSD → FreeLSD
+* FreeBSD -> FreeLSD
 
-* C# → C Flat
+* C# -> C Flat
 
 This is not really similar to the Cockney rhyming slang it has been
 compared to in the past, because Cockney substitutions are opaque

@@ -538,7 +538,7 @@ Russian hacker jargon. See also `walking
 drives <walking-drives.html>`__. The thick channel cables connecting
 these were called bit hoses (see `hose <../H/hose.html>`__, sense 3).
 
-|image0|
+.. image:: ../_static/76-02-14.png
 
 
 
@@ -546,7 +546,7 @@ these were called bit hoses (see `hose <../H/hose.html>`__, sense 3).
 software <washing-software.html>`__. CMU has clusters of these.
 
 
-.. |image0| image:: ../_static/76-02-14.png
+
 
 washing software
 =================
@@ -571,13 +571,13 @@ water MIPS
 of either today's ECL-supercomputer flavor or yesterday's traditional
 `mainframe <../M/mainframe.html>`__ type.
 
-|image0|
+.. image:: ../_static/74-08-18.png
 
 A really unusual kind of `water MIPS <water-MIPS.html>`__.
 
 
 
-.. |image0| image:: ../_static/74-08-18.png
+
 
 wave a dead chicken
 =====================
@@ -715,72 +715,34 @@ the typesetting for that page could be made.
 wedgie
 ===========
 
-`Prev <wedged.html>`__ 
 
-W
-
- `Next <wedgitude.html>`__
-
---------------
 
 **wedgie**: n.
 
 [Fairchild] A bug. Prob. related to `wedged <wedged.html>`__.
 
---------------
 
-+---------------------------+----------------------------+------------------------------+
-| `Prev <wedged.html>`__    | `Up <../W.html>`__         |  `Next <wedgitude.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| wedged                    | `Home <../index.html>`__   |  wedgitude                   |
-+---------------------------+----------------------------+------------------------------+
 
 wedgitude
 ==============
 
-`Prev <wedgie.html>`__ 
-
-W
-
- `Next <weeble.html>`__
-
---------------
 
 **wedgitude**: /wedj´i·t[y]ood/, n.
 
 The quality or state of being `wedged <wedged.html>`__.
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <wedgie.html>`__    | `Up <../W.html>`__         |  `Next <weeble.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| wedgie                    | `Home <../index.html>`__   |  weeble                   |
-+---------------------------+----------------------------+---------------------------+
 
 weeble
 ======================
 
-`Prev <wedgitude.html>`__ 
 
-W
-
- `Next <weeds.html>`__
-
---------------
 
 **weeble**: /weeb´l/, interj.
 
 [Cambridge] Used to denote frustration, usually at amazing stupidity. “I
 stuck the disk in upside down.” “Weeble....”.
 
---------------
 
-+------------------------------+----------------------------+--------------------------+
-| `Prev <wedgitude.html>`__    | `Up <../W.html>`__         |  `Next <weeds.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| wedgitude                    | `Home <../index.html>`__   |  weeds                   |
-+------------------------------+----------------------------+--------------------------+
 
 weeds
 ==================
@@ -803,24 +765,10 @@ in phrases like “lexical analysis for microcode is serious weeds....”
 equivalent mainstream hackerdom's `jump off into never-never
 land <../J/jump-off-into-never-never-land.html>`__.
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <weeble.html>`__    | `Up <../W.html>`__         |  `Next <weenie.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| weeble                    | `Home <../index.html>`__   |  weenie                   |
-+---------------------------+----------------------------+---------------------------+
-
 weenie
 =============
 
-`Prev <weeds.html>`__ 
 
-W
-
- `Next <Weenix.html>`__
-
---------------
 
 **weenie**: n.
 
@@ -848,24 +796,11 @@ of how the speaker feels about that area. See also
 
 3. The semicolon character, ";" (ASCII 0111011).
 
---------------
-
-+--------------------------+----------------------------+---------------------------+
-| `Prev <weeds.html>`__    | `Up <../W.html>`__         |  `Next <Weenix.html>`__   |
-+--------------------------+----------------------------+---------------------------+
-| weeds                    | `Home <../index.html>`__   |  Weenix                   |
-+--------------------------+----------------------------+---------------------------+
 
 Weenix
 ===========
 
-`Prev <weenie.html>`__ 
 
-W
-
- `Next <well-behaved.html>`__
-
---------------
 
 **Weenix**: /wee´niks/, n.
 
@@ -883,13 +818,7 @@ Brown University. See
 `http://www.cs.brown.edu/courses/cs167/weenix.html <http://www.cs.brown.edu/courses/cs167/weenix.html>`__.
 Named independently of the ITS usage.
 
---------------
 
-+---------------------------+----------------------------+---------------------------------+
-| `Prev <weenie.html>`__    | `Up <../W.html>`__         |  `Next <well-behaved.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
-| weenie                    | `Home <../index.html>`__   |  well-behaved                   |
-+---------------------------+----------------------------+---------------------------------+
 
 well-behaved
 ==================
@@ -915,7 +844,7 @@ simple and well-defined that it can be used as a
 stability of the algorithm is intrinsic, which makes this somewhat
 different from `bulletproof <../B/bulletproof.html>`__.
 
---------------
+
 
 +---------------------------+----------------------------+-----------------------------------+
 | `Prev <Weenix.html>`__    | `Up <../W.html>`__         |  `Next <well-connected.html>`__   |
@@ -926,13 +855,6 @@ different from `bulletproof <../B/bulletproof.html>`__.
 well-connected
 ====================
 
-`Prev <well-behaved.html>`__ 
-
-W
-
- `Next <wetware.html>`__
-
---------------
 
 **well-connected**: adj.
 
@@ -1415,20 +1337,15 @@ winged comments
 
 **winged comments**: n.
 
-Comments set on the same line as code, as opposed to *boxed
-comments <../B/boxed-comments.html>`__. In C, for example:
-
-| 
-|  d = sqrt(x\*x + y\*y);  /\* distance from origin \*/
+Comments set on the same line as code, as opposed to `boxed
+comments <../B/boxed-comments.html>`__. In C, for example::
+ 
+  d = sqrt(x\*x + y\*y);  /\* distance from origin \*/
 
 Generally these refer only to the action(s) taken on that line.
 
-|image0|
+.. image:: ../_static/74-12-29.png
 
-
--------------------------+----------------------------+---------------------------+
-
-.. |image0| image:: ../_static/74-12-29.png
 
 win
 ========
@@ -1456,7 +1373,7 @@ which isn't quite just an intensification of win.
 winkey
 ===========
 
---------------
+
 
 **winkey**: n.
 
@@ -1522,7 +1439,7 @@ Wintendo
 
 [Play on “Nintendo”] A PC running the Windows operating system kept
 primarily for the purpose of viewing multimedia and playing games. The
-implication is that the speaker uses a Linux or *BSD box for everything
+implication is that the speaker uses a Linux or \*BSD box for everything
 else.
 
 
@@ -1611,7 +1528,7 @@ See `delta <../D/delta.html>`__.
 within epsilon of
 =====================
 
---------------
+
 
 **within epsilon of**: adj.
 

@@ -1,6 +1,6 @@
 
 ----------------------
-Spoken inarticulations
+Spoken Inarticulations
 ----------------------
 
 Words such as ‘mumble’, ‘sigh’, and ‘groan’ are spoken in places where
