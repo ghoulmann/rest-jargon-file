@@ -1,0 +1,30 @@
+Geographical Distribution
+
+`Prev <communication_style.html>`__ 
+
+Appendix B. A Portrait of J. Random Hacker
+
+ `Next <sex.html>`__
+
+--------------
+
+Geographical Distribution
+-------------------------
+
+In the United States, hackerdom revolves on a Bay Area-to-Boston axis;
+about half of the hard core seems to live within a hundred miles of
+Cambridge (Massachusetts) or Berkeley (California), although there are
+significant contingents in Los Angeles, in the Pacific Northwest, and
+around Washington DC. Hackers tend to cluster around large cities,
+especially ‘university towns’ such as the Raleigh-Durham area in North
+Carolina or Princeton, New Jersey (this may simply reflect the fact that
+many are students or ex-students living near their alma maters).
+
+--------------
+
++----------------------------------------+---------------------------+------------------------+
+| `Prev <communication_style.html>`__    | `Up <appendixb.html>`__   |  `Next <sex.html>`__   |
++----------------------------------------+---------------------------+------------------------+
+| Communication Style                    | `Home <index.html>`__     |  Sexual Habits         |
++----------------------------------------+---------------------------+------------------------+
+
