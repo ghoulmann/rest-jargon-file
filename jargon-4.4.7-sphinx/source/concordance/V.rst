@@ -19,14 +19,14 @@ vadding
 **vadding**: /vad´ing/, n.
 
 [from VAD, a permutation of ADV (i.e., `ADVENT <../A/ADVENT.html>`__),
-used to avoid a particular `admin <../A/admin.html>`__'s continual
+used to avoid a particular `admin <./A.html#admin.html>`__'s continual
 search-and-destroy sweeps for the game] A leisure-time activity of
 certain hackers involving the covert exploration of the ‘secret’ parts
 of large buildings — basements, roofs, freight elevators, maintenance
 crawlways, steam tunnels, and the like. A few go so far as to learn
 locksmithing in order to synthesize vadding keys. The verb is to vad
 (compare `phreaking <../P/phreaking.html>`__; see also
-`hack <../H/hack.html>`__, sense 9). This term dates from the late
+`hack <./H.html#hack.html>`__, sense 9). This term dates from the late
 1970s, before which such activity was simply called ‘hacking’; the older
 usage is still prevalent at MIT.
 
@@ -44,17 +44,17 @@ vanilla
 **vanilla**: adj.
 
 [from the default flavor of ice cream in the U.S.] Ordinary
-`flavor <../F/flavor.html>`__, standard. When used of food, very often
+`flavor <./F.html#flavor.html>`__, standard. When used of food, very often
 does not mean that the food is flavored with vanilla extract! For
 example, vanilla wonton soup means ordinary wonton soup, as opposed to
 hot-and-sour wonton soup. Applied to hardware and software, as in
 “Vanilla Version 7 Unix can't run on a vanilla 11/34.” Also used to
 orthogonalize chip nomenclature; for instance, a 74V00 means what TI
 calls a 7400, as distinct from a 74LS00, etc. This word differs from
-`canonical <../C/canonical.html>`__ in that the latter means
+`canonical <./C.html#canonical.html>`__ in that the latter means
 ‘default’, whereas vanilla simply means ‘ordinary’. For example, when
-hackers go on a `great-wall <../G/great-wall.html>`__, hot-and-sour
-soup is the `canonical <../C/canonical.html>`__ soup to get (because
+hackers go on a `great-wall <./G.html#great-wall.html>`__, hot-and-sour
+soup is the `canonical <./C.html#canonical.html>`__ soup to get (because
 that is what most of them usually order) even though it isn't the
 vanilla (wonton) soup.
 
@@ -121,7 +121,7 @@ var
 
 **var**: /veir/, /var/, n.
 
-Short for variable. Compare `arg <../A/arg.html>`__,
+Short for variable. Compare `arg <./A.html#arg.html>`__,
 `param <../P/param.html>`__.
 
 
@@ -148,7 +148,7 @@ VAXen
 [from ‘oxen’, perhaps influenced by ‘vixen’] (alt.: vaxen) The plural
 canonically used among hackers for the `DEC <../D/DEC.html>`__ VAX
 computers. “Our installation has four PDP-10s and twenty vaxen.” See
-`boxen <../B/boxen.html>`__.
+`boxen <./B.html#boxen.html>`__.
 
 
 
@@ -162,7 +162,7 @@ VAX
 1. [from Virtual Address eXtension] The most successful minicomputer
 design in industry history, possibly excepting its immediate ancestor,
 the `PDP-11 <../P/PDP-11.html>`__. Between its release in 1978 and its
-eclipse by `killer micro <../K/killer-micro.html>`__\ s after about
+eclipse by `killer micro <./K.html#killer-micro.html>`__\ s after about
 1986, the VAX was probably the hacker's favorite machine of them all,
 esp. after the 1982 release of 4.2 BSD Unix (see
 `BSD <../B/BSD.html>`__). Especially noted for its large,
@@ -246,7 +246,7 @@ elsewhere. Among these are:
    the array reference **foo[-1]** is necessarily valid. Problem: this
    fails at 0, or other places on segment-addressed machines like Intel
    chips (yes, segmentation is universally considered a
-   `brain-damaged <../B/brain-damaged.html>`__ way to design machines
+   `brain-damaged <./B.html#brain-damaged.html>`__ way to design machines
    (see `moby <../M/moby.html>`__), but that is a separate issue).
 
 #. The assumption that objects can be arbitrarily large with no special
@@ -259,7 +259,7 @@ elsewhere. Among these are:
 
 #. The assumption that bits and addressable units within an object are
    ordered in the same way and that this order is a constant of nature.
-   Problem: this fails on `big-endian <../B/big-endian.html>`__
+   Problem: this fails on `big-endian <./B.html#big-endian.html>`__
    machines.
 
 #. The assumption that it is meaningful to compare pointers to different
@@ -296,13 +296,13 @@ vdiff
 **vdiff**: /vee´dif/, v.,n.
 
 Visual diff. The operation of finding differences between two files by
-`eyeball search <../E/eyeball-search.html>`__. The term optical diff
+`eyeball search <./E.html#eyeball-search.html>`__. The term optical diff
 has also been reported, and is sometimes more specifically used for the
 act of superimposing two nearly identical printouts on one another and
 holding them up to a light to spot differences. Though this method is
 poor for detecting omissions in the ‘rear’ file, it can also be used
 with printouts of graphics, a claim few if any diff programs can make.
-See `diff <../D/diff.html>`__.
+See `diff <./D.html#diff.html>`__.
 
 An interesting variant of the vdiff technique usable by anyone who has
 sufficient control over the parallax of their eyeballs (e.g. those who
@@ -323,7 +323,7 @@ veeblefester
 [from the *Born Loser* comix via Commodore; prob.: originally from *Mad*
 Magazine's ‘Veeblefetzer’ parodies beginning in #15, 1954] Any obnoxious
 person engaged in the (alleged) professions of marketing or management.
-Antonym of `hacker <../H/hacker.html>`__. Compare
+Antonym of `hacker <./H.html#hacker.html>`__. Compare
 `suit <../S/suit.html>`__, `marketroid <../M/marketroid.html>`__.
 
 
@@ -339,7 +339,7 @@ processed-cheese spread.] Also knows as `ECP <../E/ECP.html>`__; a
 message that is excessively cross-posted, as opposed to
 `spam <../S/spam.html>`__ which is too frequently posted. This term is
 widely recognized but not commonly used; most people refer to both kinds
-of abuse as spam. Compare `jello <../J/jello.html>`__.
+of abuse as spam. Compare `jello <./J.html#jello.html>`__.
 
 
 
@@ -350,7 +350,7 @@ Venus flytrap
 **Venus flytrap**: n.
 
 [after the insect-eating plant] See `firewall
-machine <../F/firewall-machine.html>`__.
+machine <./F.html#firewall-machine.html>`__.
 
 
 
@@ -363,7 +363,7 @@ verbage
 
 A deliberate misspelling and mispronunciation of
 `verbiage <verbiage.html>`__ that assimilates it to the word
-‘garbage’. Compare `content-free <../C/content-free.html>`__. More
+‘garbage’. Compare `content-free <./C.html#content-free.html>`__. More
 pejorative than ‘verbiage’.
 
 
@@ -375,7 +375,7 @@ verbiage
 **verbiage**: n.
 
 When the context involves a software or hardware system, this refers to
-`documentation <../D/documentation.html>`__. This term borrows the
+`documentation <./D.html#documentation.html>`__. This term borrows the
 connotations of mainstream ‘verbiage’ to suggest that the documentation
 is of marginal utility and that the motives behind its production have
 little to do with the ostensible subject.
@@ -414,7 +414,7 @@ vgrep
 
 Visual grep. The operation of finding patterns in a file optically
 rather than digitally (also called an optical grep). See
-`grep <../G/grep.html>`__; compare `vdiff <vdiff.html>`__.
+`grep <./G.html#grep.html>`__; compare `vdiff <vdiff.html>`__.
 
 videotex
 ======================================
@@ -431,7 +431,7 @@ timesharing services and do the things for which videotex might have
 been worthwhile better and cheaper. Videotex planners badly
 overestimated both the appeal of getting information from a computer and
 the cost of local intelligence at the user's end. Like the `gorilla
-arm <../G/gorilla-arm.html>`__ effect, this has been a cautionary tale
+arm <./G.html#gorilla-arm.html>`__ effect, this has been a cautionary tale
 to hackers ever since. See also `vannevar <vannevar.html>`__.
 
 
@@ -490,7 +490,7 @@ Nevertheless vi (and variants such as vim and elvis) is still widely
 used (about half the respondents in a 1991 Usenet poll preferred it),
 and even EMACS fans often resort to it as a mail editor and for small
 editing jobs (mainly because it starts up faster than the bulkier
-versions of EMACS). See `holy wars <../H/holy-wars.html>`__.
+versions of EMACS). See `holy wars <./H.html#holy-wars.html>`__.
 
 --------------
 
@@ -586,7 +586,7 @@ V
 [via the technical term virtual memory, prob.: from the term virtual
 image in optics]
 
-1. Common alternative to `logical <../L/logical.html>`__; often used
+1. Common alternative to `logical <./L.html#logical.html>`__; often used
 to refer to the artificial objects (like addressable virtual memory
 larger than physical memory) simulated by a computer system as a
 convenient way to manage access to shared resources.
@@ -618,7 +618,7 @@ V
 
 1. Computer simulations that use 3-D graphics and devices such as the
 Dataglove to allow the user to interact with the simulation. See
-`cyberspace <../C/cyberspace.html>`__.
+`cyberspace <./C.html#cyberspace.html>`__.
 
 2. A form of network interaction incorporating aspects of role-playing
 games, interactive theater, improvisational comedy, and ‘true
@@ -630,7 +630,7 @@ personae utterly unlike the people who write them, and common background
 characters manipulable by all parties. The one iron law is that you may
 not write irreversible changes to a character without the consent of the
 person who ‘owns’ it. Otherwise anything goes. See
-`bamf <../B/bamf.html>`__, `cyberspace <../C/cyberspace.html>`__,
+`bamf <./B.html#bamf.html>`__, `cyberspace <./C.html#cyberspace.html>`__,
 `teledildonics <../T/teledildonics.html>`__.
 
 --------------
@@ -654,7 +654,7 @@ V
 
 **virtual shredder**: n.
 
-The jargonic equivalent of the `bit bucket <../B/bit-bucket.html>`__
+The jargonic equivalent of the `bit bucket <./B.html#bit-bucket.html>`__
 at shops using IBM's VM/CMS operating system. VM/CMS officially supports
 a whole bestiary of virtual card readers, virtual printers, and other
 phantom devices; these are used to supply some of the same capabilities
@@ -694,9 +694,9 @@ may do nothing but propagate itself and then allow the program to run
 normally. Usually, however, after propagating silently for a while, it
 starts doing things like writing cute messages on the terminal or
 playing strange tricks with the display (some viruses include nice
-`display hack <../D/display-hack.html>`__\ s). Many nasty viruses,
+`display hack <./D.html#display-hack.html>`__\ s). Many nasty viruses,
 written by particularly perversely minded
-`cracker <../C/cracker.html>`__\ s, do irreversible damage, like
+`cracker <./C.html#cracker.html>`__\ s, do irreversible damage, like
 nuking all the user's files.
 
 In the 1990s, viruses became a serious problem, especially among Windows
@@ -705,13 +705,13 @@ easily, even infecting the operating system (Unix machines, by contrast,
 are immune to such attacks). The production of special anti-virus
 software has become an industry, and a number of exaggerated media
 reports have caused outbreaks of near hysteria among users; many
-`luser <../L/luser.html>`__\ s tend to blame *everything* that doesn't
+`luser <./L.html#luser.html>`__\ s tend to blame *everything* that doesn't
 work as they had expected on virus attacks. Accordingly, this sense of
 virus has passed not only into techspeak but into also popular usage
 (where it is often incorrectly used to denote a
 `worm <../W/worm.html>`__ or even a `Trojan
 horse <../T/Trojan-horse.html>`__). See `phage <../P/phage.html>`__;
-compare `back door <../B/back-door.html>`__; see also `Unix
+compare `back door <./B.html#back-door.html>`__; see also `Unix
 conspiracy <../U/Unix-conspiracy.html>`__.
 
 
@@ -888,15 +888,15 @@ V
 [from George Bush Sr.'s “voodoo economics”]
 
 1. The use by guess or cookbook of an `obscure <../O/obscure.html>`__
-or `hairy <../H/hairy.html>`__ system, feature, or algorithm that one
+or `hairy <./H.html#hairy.html>`__ system, feature, or algorithm that one
 does not truly understand. The implication is that the technique may not
 work, and if it doesn't, one will never know why. Almost synonymous with
-`black magic <../B/black-magic.html>`__, except that black magic
+`black magic <./B.html#black-magic.html>`__, except that black magic
 typically isn't documented and *nobody* understands it. Compare
-`magic <../M/magic.html>`__, `deep magic <../D/deep-magic.html>`__,
-`heavy wizardry <../H/heavy-wizardry.html>`__, `rain
+`magic <../M/magic.html>`__, `deep magic <./D.html#deep-magic.html>`__,
+`heavy wizardry <./H.html#heavy-wizardry.html>`__, `rain
 dance <../R/rain-dance.html>`__, `cargo cult
-programming <../C/cargo-cult-programming.html>`__, `wave a dead
+programming <./C.html#cargo-cult-programming.html>`__, `wave a dead
 chicken <../W/wave-a-dead-chicken.html>`__, `SCSI
 voodoo <../S/SCSI-voodoo.html>`__.
 

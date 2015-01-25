@@ -51,9 +51,9 @@ E
 
 [IBM] The act of replacing unrelated components more or less at random
 in hopes that a malfunction will go away. Hackers consider this the
-normal operating mode of `field circus <../F/field-circus.html>`__
+normal operating mode of `field circus <./F.html#field-circus.html>`__
 techs and do not love them for it. See also the jokes under `field
-circus <../F/field-circus.html>`__. Compare `shotgun
+circus <./F.html#field-circus.html>`__. Compare `shotgun
 debugging <../S/shotgun-debugging.html>`__.
 
 --------------
@@ -114,7 +114,7 @@ E
 
 [abbreviation, Extended Binary Coded Decimal Interchange Code] An
 alleged character set used on IBM
-`dinosaur <../D/dinosaur.html>`__\ s. It exists in at least six
+`dinosaur <./D.html#dinosaur.html>`__\ s. It exists in at least six
 mutually incompatible versions, all featuring such delights as
 non-contiguous letter sequences and the absence of several ASCII
 punctuation characters fairly important for modern computer languages
@@ -122,13 +122,13 @@ punctuation characters fairly important for modern computer languages
 of EBCDIC you're looking at). IBM adapted EBCDIC from `punched
 card <../P/punched-card.html>`__ code in the early 1960s and
 promulgated it as a customer-control tactic (see `connector
-conspiracy <../C/connector-conspiracy.html>`__), spurning the already
+conspiracy <./C.html#connector-conspiracy.html>`__), spurning the already
 established ASCII standard. Today, IBM claims to be an open-systems
 company, but IBM's own description of the EBCDIC variants and how to
 convert between them is still internally classified top-secret,
 burn-before-reading. Hackers blanch at the very *name* of EBCDIC and
 consider it a manifestation of purest `evil <evil.html>`__. See also
-`fear and loathing <../F/fear-and-loathing.html>`__.
+`fear and loathing <./F.html#fear-and-loathing.html>`__.
 
 --------------
 
@@ -181,7 +181,7 @@ beginning of an emacs vs. vi holy war on
 `Usenet <../U/Usenet.html>`__, with the (vain) hope to quench the
 discussion before it really takes off. Often followed by a standard text
 describing the many virtues of ed (such as the small memory
-`footprint <../F/footprint.html>`__ on a Timex Sinclair, and the
+`footprint <./F.html#footprint.html>`__ on a Timex Sinclair, and the
 consistent (because nearly non-existent) user interface).
 
 --------------
@@ -276,10 +276,10 @@ climactic lines of which are as follows:
 The eighty-column mind was thought by most hackers to dominate IBM's
 customer base and its thinking. This only began to change in the
 mid-1990s when IBM began to reinvent itself after the triumph of the
-`killer micro <../K/killer-micro.html>`__. See
+`killer micro <./K.html#killer-micro.html>`__. See
 `IBM <../I/IBM.html>`__, `fear and
-loathing <../F/fear-and-loathing.html>`__, `code
-grinder <../C/code-grinder.html>`__. A copy of *The Last Bug* lives on
+loathing <./F.html#fear-and-loathing.html>`__, `code
+grinder <./C.html#code-grinder.html>`__. A copy of *The Last Bug* lives on
 the the GNU site at
 `http://www.gnu.org/fun/jokes/last.bug.html <http://www.gnu.org/fun/jokes/last.bug.html>`__.
 
@@ -307,7 +307,7 @@ The road mundanely called El Camino Real, running along San Francisco
 peninsula. It originally extended all the way down to Mexico City; many
 portions of the old road are still intact. Navigation on the San
 Francisco peninsula is usually done relative to El Camino Real, which
-defines `logical <../L/logical.html>`__ north and south even though it
+defines `logical <./L.html#logical.html>`__ north and south even though it
 isn't really north-south in many places. El Camino Real runs right past
 Stanford University and so is familiar to hackers.
 
@@ -322,7 +322,7 @@ When a hacker from MIT visited Stanford in 1976, he remarked what a long
 road El Camino Real was. Making a pun on ‘real’, he started calling it
 ‘El Camino Double Precision’ — but when the hacker was told that the
 road was hundreds of miles long, he renamed it ‘El Camino Bignum’, and
-that name has stuck. (See `bignum <../B/bignum.html>`__.)
+that name has stuck. (See `bignum <./B.html#bignum.html>`__.)
 
 [GLS has since let slip that the unnamed hacker in this story was in
 fact himself —ESR]
@@ -384,7 +384,7 @@ E
 
 [common; from mathematical usage] Combining simplicity, power, and a
 certain ineffable grace of design. Higher praise than ‘clever’,
-‘winning’, or even `cuspy <../C/cuspy.html>`__.
+‘winning’, or even `cuspy <./C.html#cuspy.html>`__.
 
 The French aviator, adventurer, and author Antoine de Saint-Exupéry,
 probably best known for his classic children's book *The Little Prince*,
@@ -414,9 +414,9 @@ E
 **elephantine**: adj.
 
 Used of programs or systems that are both conspicuous
-`hog <../H/hog.html>`__\ s (owing perhaps to poor design founded on
-`brute force and ignorance <../B/brute-force-and-ignorance.html>`__)
-and exceedingly `hairy <../H/hairy.html>`__ in source form. An
+`hog <./H.html#hog.html>`__\ s (owing perhaps to poor design founded on
+`brute force and ignorance <./B.html#brute-force-and-ignorance.html>`__)
+and exceedingly `hairy <./H.html#hairy.html>`__ in source form. An
 elephantine program may be functional and even friendly, but (as in the
 old joke about being in bed with an elephant) it's tough to have around
 all the same (and, like a pachyderm, difficult to maintain). In extreme
@@ -425,7 +425,7 @@ expressive proboscatory mime at the mention of the offending program.
 Usage: semi-humorous. Compare ‘has the elephant nature’ and the somewhat
 more pejorative `monstrosity <../M/monstrosity.html>`__. See also
 `second-system effect <../S/second-system-effect.html>`__ and
-`baroque <../B/baroque.html>`__.
+`baroque <./B.html#baroque.html>`__.
 
 --------------
 
@@ -455,7 +455,7 @@ stupid, memory-limited computation environment. “You can't require
 printf(3) to be part of the default runtime library — what if you're
 targeting an elevator controller?” Elevator controllers became important
 rhetorical weapons on both sides of several `holy
-wars <../H/holy-wars.html>`__.
+wars <./H.html#holy-wars.html>`__.
 
 --------------
 
@@ -491,7 +491,7 @@ d00dz style abound; the forms l337 eleet, and 31337 (among others) have
 been sighted.
 
 A true hacker would be more likely to use ‘wizardly’. Oppose
-`lamer <../L/lamer.html>`__.
+`lamer <./L.html#lamer.html>`__.
 
 --------------
 
@@ -530,7 +530,7 @@ meanings which the computer never put there. The ELIZA effect is a
 `Good Thing <../G/Good-Thing.html>`__ when writing a programming
 language, but it can blind you to serious shortcomings when analyzing an
 Artificial Intelligence system. Compare
-`ad-hockery <../A/ad-hockery.html>`__; see also
+`ad-hockery <./A.html#ad-hockery.html>`__; see also
 `AI-complete <../A/AI-complete.html>`__. Sources for a clone of the
 original Eliza are available at
 `ftp://ftp.cc.utexas.edu/pub/AI\_ATTIC/Programs/Classic/Eliza/Eliza.c <ftp://ftp.cc.utexas.edu/pub/AI-ATTIC/Programs/Classic/Eliza/Eliza.c>`__.
@@ -610,12 +610,12 @@ all-caps spelling here, it is nowadays very commonly ‘Emacs’.) Some
 EMACS versions running under window managers iconify as an overflowing
 kitchen sink, perhaps to suggest the one feature the editor does not
 (yet) include. Indeed, some hackers find EMACS too
-`heavyweight <../H/heavyweight.html>`__ and
-`baroque <../B/baroque.html>`__ for their taste, and expand the name
+`heavyweight <./H.html#heavyweight.html>`__ and
+`baroque <./B.html#baroque.html>`__ for their taste, and expand the name
 as ‘Escape Meta Alt Control Shift’ to spoof its heavy reliance on
-keystrokes decorated with `bucky bits <../B/bucky-bits.html>`__. Other
+keystrokes decorated with `bucky bits <./B.html#bucky-bits.html>`__. Other
 spoof expansions include ‘Eight Megabytes And Constantly Swapping’ (from
-when that was a lot of `core <../C/core.html>`__), ‘Eventually
+when that was a lot of `core <./C.html#core.html>`__), ‘Eventually
 malloc()s All Computer Storage’, and ‘EMACS Makes A Computer Slow’ (see
 `recursive acronym <../R/recursive-acronym.html>`__). See also
 `vi <../V/vi.html>`__.
@@ -693,7 +693,7 @@ Usenet; the lack of verbal and visual cues can otherwise cause what were
 intended to be humorous, sarcastic, ironic, or otherwise
 non-100%-serious comments to be badly misinterpreted (not always even by
 `newbie <../N/newbie.html>`__\ s), resulting in arguments and `flame
-war <../F/flame-war.html>`__\ s.
+war <./F.html#flame-war.html>`__\ s.
 
 Hundreds of emoticons have been proposed, but only a few are in common
 use. These include:
@@ -703,7 +703,7 @@ use. These include:
 +-------+-----------------------------------------------------------------------------------------------------------------------+
 | :-(   | ‘frowney face’ (for sadness, anger, or upset)                                                                         |
 +-------+-----------------------------------------------------------------------------------------------------------------------+
-| ;-)   | ‘half-smiley’ ( `ha ha only serious <../H/ha-ha-only-serious.html>`__); also known as semi-smiley or winkey face.   |
+| ;-)   | ‘half-smiley’ ( `ha ha only serious <./H.html#ha-ha-only-serious.html>`__); also known as semi-smiley or winkey face.   |
 +-------+-----------------------------------------------------------------------------------------------------------------------+
 | :-/   | ‘wry face’                                                                                                            |
 +-------+-----------------------------------------------------------------------------------------------------------------------+
@@ -711,7 +711,7 @@ use. These include:
 (These may become more comprehensible if you tilt your head sideways, to
 the left.) The first two listed are by far the most frequently
 encountered. Hyphenless forms of them are common on CompuServe, GEnie,
-and BIX; see also `bixie <../B/bixie.html>`__. On
+and BIX; see also `bixie <./B.html#bixie.html>`__. On
 `Usenet <../U/Usenet.html>`__, smiley is often used as a generic term
 synonymous with `emoticon <emoticon.html>`__, as well as specifically
 for the happy-face emoticon.
@@ -816,7 +816,7 @@ E
 **engine**: n.
 
 1. A piece of hardware that encapsulates some function but can't be used
-without some kind of `front end <../F/front-end.html>`__. Today we
+without some kind of `front end <./F.html#front-end.html>`__. Today we
 have, especially, print engine: the guts of a laser printer.
 
 2. An analogous piece of software; notionally, one that does a lot of
@@ -886,10 +886,10 @@ E
 **enhancement**: n.
 
 Common `marketroid <../M/marketroid.html>`__-speak for a bug
-`fix <../F/fix.html>`__. This abuse of language is a popular and
+`fix <./F.html#fix.html>`__. This abuse of language is a popular and
 time-tested way to turn incompetence into increased revenue. A hacker
 being ironic would instead call the fix a
-`feature <../F/feature.html>`__ — or perhaps save some effort by
+`feature <./F.html#feature.html>`__ — or perhaps save some effort by
 declaring the bug itself to be a feature.
 
 --------------
@@ -919,7 +919,7 @@ hack mode, one might type **SYN SYN ENQ?** (the SYNs representing
 notional synchronization bytes), and expect a return of
 `ACK <../A/ACK.html>`__ or `NAK <../N/NAK.html>`__ depending on
 whether or not the person felt interruptible. Compare
-`ping <../P/ping.html>`__, `finger <../F/finger.html>`__, and the
+`ping <../P/ping.html>`__, `finger <./F.html#finger.html>`__, and the
 usage of **FOO?** listed under `talk mode <../T/talk-mode.html>`__.
 
 --------------
@@ -1098,7 +1098,7 @@ E
 
 **epsilon**
 
-[see `delta <../D/delta.html>`__]
+[see `delta <./D.html#delta.html>`__]
 
 1. n. A small quantity of anything. “The cost is epsilon.”
 
@@ -1138,8 +1138,8 @@ negligible. If you buy a supercomputer for a million dollars, the cost
 of the thousand-dollar terminal to go with it is
 `epsilon <epsilon.html>`__, and the cost of the ten-dollar cable to
 connect them is epsilon squared. Compare `lost in the
-underflow <../L/lost-in-the-underflow.html>`__, `lost in the
-noise <../L/lost-in-the-noise.html>`__.
+underflow <./L.html#lost-in-the-underflow.html>`__, `lost in the
+noise <./L.html#lost-in-the-noise.html>`__.
 
 --------------
 
@@ -1194,7 +1194,7 @@ Python oeuvre. There do indeed seem to be considerably more mustachioed
 Erics in hackerdom than the frequency of these three traits can account
 for unless they are correlated in some arcane way. Well-known examples
 include Eric Allman (he of the ‘Allman style’ described under `indent
-style <../I/indent-style.html>`__) and Erik Fair (co-author of NNTP);
+style <./I.html#indent-style.html>`__) and Erik Fair (co-author of NNTP);
 your editor has heard from more than a hundred others by email, and the
 organization line ‘Eric Conspiracy Secret Laboratories’ now emanates
 regularly from more than one site. See the Eric Conspiracy Web Page at
@@ -1301,7 +1301,7 @@ E
 
 **eurodemo**: /yoor´o·dem\`·o/
 
-a `demo <../D/demo.html>`__, sense 4
+a `demo <./D.html#demo.html>`__, sense 4
 
 --------------
 
@@ -1386,7 +1386,7 @@ E
 As used by hackers, implies that some system, program, person, or
 institution is sufficiently maldesigned as to be not worth the bother of
 dealing with. Unlike the adjectives in the
-`cretinous <../C/cretinous.html>`__/`losing <../L/losing.html>`__/`brain-damaged <../B/brain-damaged.html>`__
+`cretinous <./C.html#cretinous.html>`__/`losing <./L.html#losing.html>`__/`brain-damaged <./B.html#brain-damaged.html>`__
 series, evil does not imply incompetence or bad design, but rather a set
 of goals or design criteria fatally incompatible with the speaker's.
 This usage is more an esthetic and engineering judgment than a moral one
@@ -1439,13 +1439,13 @@ E
 
 **examining the entrails**: n.
 
-The process of `grovel <../G/grovel.html>`__\ ling through a `core
-dump <../C/core-dump.html>`__ or hex image in an attempt to discover
+The process of `grovel <./G.html#grovel.html>`__\ ling through a `core
+dump <./C.html#core-dump.html>`__ or hex image in an attempt to discover
 the bug that brought a program or system down. The reference is to
 divination from the entrails of a sacrificed animal. Compare
 `runes <../R/runes.html>`__,
-`incantation <../I/incantation.html>`__, `black
-art <../B/black-art.html>`__.
+`incantation <./I.html#incantation.html>`__, `black
+art <./B.html#black-art.html>`__.
 
 --------------
 
@@ -1495,7 +1495,7 @@ E
 
 **excl**: /eks´kl/, n.
 
-Abbreviation for ‘exclamation point’. See `bang <../B/bang.html>`__,
+Abbreviation for ‘exclamation point’. See `bang <./B.html#bang.html>`__,
 `shriek <../S/shriek.html>`__, `ASCII <../A/ASCII.html>`__.
 
 --------------
@@ -1518,7 +1518,7 @@ E
 
 **exec**: /eg·zek´/, /eks´ek/, n.
 
-1. [Unix: from execute] Synonym for `chain <../C/chain.html>`__,
+1. [Unix: from execute] Synonym for `chain <./C.html#chain.html>`__,
 derives from the exec(2) call.
 
 2. [from executive] obs. The command interpreter for an
@@ -1578,7 +1578,7 @@ E
 **exercise, left as an**: adj.
 
 [from technical books] Used to complete a proof when one doesn't mind a
-`handwave <../H/handwave.html>`__, or to avoid one entirely. The
+`handwave <./H.html#handwave.html>`__, or to avoid one entirely. The
 complete phrase is: “The proof [or ‘the rest’] is left as an exercise
 for the reader.” This comment *has* occasionally been attached to
 unsolved research problems by authors possessed of either an evil sense
@@ -1715,7 +1715,7 @@ E
 
 To look for something in a mass of code or data with one's own native
 optical sensors, as opposed to using some sort of pattern matching
-software like `grep <../G/grep.html>`__ or any other automated search
+software like `grep <./G.html#grep.html>`__ or any other automated search
 tool. Also called a `vgrep <../V/vgrep.html>`__; compare
 `vdiff <../V/vdiff.html>`__.
 
@@ -1740,7 +1740,7 @@ E
 **eye candy**: /i:´ kand\`ee/, n.
 
 [from mainstream slang “ear candy”] A display of some sort that's
-presented to `luser <../L/luser.html>`__\ s to keep them distracted
+presented to `luser <./L.html#luser.html>`__\ s to keep them distracted
 while the program performs necessary background tasks. “Give 'em some
 eye candy while the back-end `slurp <../S/slurp.html>`__\ s that
 `BLOB <../B/BLOB.html>`__ into core.” Reported as mainstream usage

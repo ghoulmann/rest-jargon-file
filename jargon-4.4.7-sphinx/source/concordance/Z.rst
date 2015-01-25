@@ -219,7 +219,7 @@ process table slot (because the parent process hasn't executed a wait(2)
 for it yet). These can be seen in ps(1) listings occasionally. Compare
 `orphan <../O/orphan.html>`__.
 
-2. A machine, especially someone's `home box <../H/home-box.html>`__,
+2. A machine, especially someone's `home box <./H.html#home-box.html>`__,
 that has been cracked and is being used as part of a second-stage attack
 by miscreants trying to mask their home IP address. Especially used of
 machines being exploited in large gangs for a mechanized
@@ -279,7 +279,7 @@ source was later rewritten for portability and released to Usenet under
 the name “Dungeon”. Both FORTRAN “Dungeon” and translated C versions are
 available at many FTP sites; the commercial Zork trilogy is available at
 `http://www.ifarchive.org/ <http://www.ifarchive.org/>`__. See also
-`grue <../G/grue.html>`__. You can play Zork via a `Java
+`grue <./G.html#grue.html>`__. You can play Zork via a `Java
 Applet <http://www.forkexec.com/html/play-zork1.html>`__.
 
 

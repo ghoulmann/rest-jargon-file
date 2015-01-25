@@ -19,7 +19,7 @@ To log on to a machine or connect to a network or
 reality <../V/virtual-reality.html>`__ simulation such as a
 `MUD <../M/MUD.html>`__ or `IRC <../I/IRC.html>`__ (leaving is
 “jacking out”). This term derives from
-`cyberpunk <../C/cyberpunk.html>`__ SF, in which it was used for the
+`cyberpunk <./C.html#cyberpunk.html>`__ SF, in which it was used for the
 act of plugging an electrode set into neural sockets in order to
 interface the brain directly to a virtual reality. It is primarily used
 by MUD and IRC fans and younger hackers on BBS systems.
@@ -119,8 +119,8 @@ J
 
 1. IBM's supremely `rude <../R/rude.html>`__ Job Control Language. JCL
 is the script language used to control the execution of programs in
-IBM's batch systems. JCL has a very `fascist <../F/fascist.html>`__
-syntax, and some versions will, for example, `barf <../B/barf.html>`__
+IBM's batch systems. JCL has a very `fascist <./F.html#fascist.html>`__
+syntax, and some versions will, for example, `barf <./B.html#barf.html>`__
 if two spaces appear where it expects one. Most programmers confronted
 with JCL simply copy a working file (or card deck), changing the file
 names. Someone who actually understands and generates unique JCL is
@@ -135,7 +135,7 @@ a hacker is expected to use. “That's as bad as JCL.” As with
 `COBOL <../C/COBOL.html>`__, JCL is often used as an archetype of
 ugliness even by those who haven't experienced it. See also
 `IBM <../I/IBM.html>`__, `fear and
-loathing <../F/fear-and-loathing.html>`__.
+loathing <./F.html#fear-and-loathing.html>`__.
 
 A (poorly documented, naturally) shell simulating JCL syntax is
 available at the Retrocomputing Museum
@@ -212,10 +212,10 @@ Like B1FF, Jeff K. is (fortunately) a hoax. Jeff K. was created by
 internet game journalist Richard “Lowtax” Kyanka, whose web site
 Something Awful (http://www.somethingawful.com) highlights
 unintentionally humorous news items and Web sites, as a parody of the
-kind of teenage `luser <../L/luser.html>`__ who infests Quake servers,
+kind of teenage `luser <./L.html#luser.html>`__ who infests Quake servers,
 chat rooms, and other places where computer enthusiasts congregate. He
 is well-recognized in the PC game community and his influence has spread
-to hacker `fora <../F/fora.html>`__ like Slashdot as well.
+to hacker `fora <./F.html#fora.html>`__ like Slashdot as well.
 
 --------------
 
@@ -287,7 +287,7 @@ J
 **jibble**
 
 [UK] Unspecified stuff. An unspecified action. A deliberately blank
-word; compare `gorets <../G/gorets.html>`__. A deliberate experiment
+word; compare `gorets <./G.html#gorets.html>`__. A deliberate experiment
 in tracking the spread of a near-meaningless word. See
 `http://www.jibble.org/jibblemeaning.php <http://www.jibble.org/jibblemeaning.php>`__.
 
@@ -381,7 +381,7 @@ J
 **jock**: n.
 
 1. A programmer who is characterized by large and somewhat brute-force
-programs. See `brute force <../B/brute-force.html>`__.
+programs. See `brute force <./B.html#brute-force.html>`__.
 
 2. When modified by another noun, describes a specialist in some
 particular computing area. The compounds compiler jock and systems jock
@@ -538,7 +538,7 @@ Larry Niven and Jerry Pournelle, an alien describes a very difficult
 task by saying “We juggle priceless eggs in variable gravity.” It is
 possible that this was intended as tribute to a less colorful use of the
 same image in Robert Heinlein's influential 1961 novel *Stranger in a
-Strange Land*. See also `hack mode <../H/hack-mode.html>`__ and `on
+Strange Land*. See also `hack mode <./H.html#hack-mode.html>`__ and `on
 the gripping hand <../O/on-the-gripping-hand.html>`__.
 
 --------------
@@ -563,7 +563,7 @@ J
 
 The weight of a given node in some sort of graph (like a web of trust or
 a relevance-weighted search query). This appears to have been
-generalized from `google juice <../G/google-juice.html>`__, but may
+generalized from `google juice <./G.html#google-juice.html>`__, but may
 derive from black urban slang for power or a respect. Example: “I signed
 your key, but I really don't have the juice to be authoritative.”
 
@@ -589,7 +589,7 @@ J
 
 [from J. M. Barrie's *Peter Pan*] An unexpected jump in a program that
 produces catastrophic or just plain weird results. Compare
-`hyperspace <../H/hyperspace.html>`__.
+`hyperspace <./H.html#hyperspace.html>`__.
 
 --------------
 
@@ -611,7 +611,7 @@ J
 
 **jupiter**: vt.
 
-[IRC] To kill an `IRC <../I/IRC.html>`__ `bot <../B/bot.html>`__ or
+[IRC] To kill an `IRC <../I/IRC.html>`__ `bot <./B.html#bot.html>`__ or
 user and then take its place by adopting its `nick <../N/nick.html>`__
 so that it cannot reconnect. Named after a particular IRC user who did
 this to NickServ, the robot in charge of preventing people from

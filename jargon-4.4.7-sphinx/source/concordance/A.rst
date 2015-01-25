@@ -16,10 +16,10 @@ ABEND
 
 [ABnormal END]
 
-1. Abnormal termination (of software); `crash <../C/crash.html>`__;
-`lossage <../L/lossage.html>`__. Derives from an error message on the
+1. Abnormal termination (of software); `crash <./C.html#crash>`__;
+`lossage <./L.html#lossage>`__. Derives from an error message on the
 IBM 360; used jokingly by hackers but seriously mainly by `code
-grinder <../C/code-grinder.html>`__\ s. Usually capitalized, but may
+grinder <./C.html#code-grinder>`__\ s. Usually capitalized, but may
 appear as ‘abend’. Hackers will try to persuade you that ABEND is called
 abend because it is what system operators do to the machine late on
 Friday when they want to call it a day, and hence is from the German
@@ -58,7 +58,7 @@ accumulator.”
 
 3. One's in-basket (esp. among old-timers who might use sense 1). “You
 want this reviewed? Sure, just put it in the accumulator.” (See
-`stack <../S/stack.html>`__.)
+`stack <./S.html#stack>`__.)
 
 
 ACK
@@ -70,7 +70,7 @@ ACK
 
 1. [common; from the ASCII mnemonic for 0000110] Acknowledge. Used to
 register one's presence (compare mainstream *Yo!*). An appropriate
-response to `ping <../P/ping.html>`__ or `ENQ <../E/ENQ.html>`__.
+response to `ping <./P.html#ping>`__ or `ENQ <./E.html#ENQ>`__.
 
 2. [from the comic strip *Bloom County*] An exclamation of surprised
 disgust, esp. in “Ack pffft!” Semi-humorous. Generally this sense is not
@@ -78,7 +78,7 @@ spelled in caps (ACK) and is distinguished by a following exclamation
 point.
 
 3. Used to politely interrupt someone to tell them you understand their
-point (see `NAK <../N/NAK.html>`__). Thus, for example, you might cut
+point (see `NAK <./N.html#NAK>`__). Thus, for example, you might cut
 off an overly long explanation with “Ack. Ack. Ack. I get it now”.
 
 4. An affirmative. “Think we ought to ditch that damn NT server for a
@@ -86,9 +86,9 @@ Linux box?” “ACK!”
 
 There is also a usage “ACK?” (from sense 1) meaning “Are you there?”,
 often used in email when earlier mail has produced no reply, or during a
-lull in `talk mode <../T/talk-mode.html>`__ to see if the person has
+lull in `talk mode <./T.html#talk-mode>`__ to see if the person has
 gone away (the standard humorous response is of course
-`NAK <../N/NAK.html>`__, i.e., “I'm not here”).
+`NAK <./N.html#NAK>`__, i.e., “I'm not here”).
 
 
 Acme
@@ -103,10 +103,10 @@ in elaborate contraptions) shop. The name has been humorously expanded
 as A (or American) Company Making Everything. (In fact, Acme was a real
 brand sold from Sears Roebuck catalogs in the early 1900s.) Describing
 some X as an “Acme X” either means “This is `insanely
-great <../I/insanely-great.html>`__\ ”, or, more likely, “This looks
-`insanely great <../I/insanely-great.html>`__ on paper, but in
+great <./I.html#insanely-great>`__\ ”, or, more likely, “This looks
+`insanely great <./I.html#insanely-great>`__ on paper, but in
 practice it's really easy to shoot yourself in the foot with it.”
-Compare `pistol <../P/pistol.html>`__.
+Compare `pistol <./P.html#pistol>`__.
 
 This term, specially cherished by American hackers and explained here
 for the benefit of our overseas brethren, comes from the Warner
@@ -132,21 +132,21 @@ address harvester
 A robot that searches web pages and/or filters netnews traffic looking
 for valid email addresses. Some address harvesters are benign, used only
 for compiling address directories. Most, unfortunately, are run by
-miscreants compiling address lists to `spam <../S/spam.html>`__.
+miscreants compiling address lists to `spam <./S.html#spam>`__.
 Address harvesters can be foiled by a
-`teergrube <../T/teergrube.html>`__.
+`teergrube <./T.html#teergrube>`__.
 
 adger
 =====
 
 **adger**: /aj´r/, vt.
 
-[UCLA mutant of `nadger <../N/nadger.html>`__, poss. also from the
+[UCLA mutant of `nadger <./N.html#nadger>`__, poss. also from the
 middle name of an infamous `tenured graduate
-student <../T/tenured-graduate-student.html>`__] To make a bonehead
+student <./T.html#tenured-graduate-student>`__] To make a bonehead
 move with consequences that could have been foreseen with even slight
 mental effort. E.g., “He started removing files and promptly adgered the
-whole project”. Compare `dumbass attack <../D/dumbass-attack.html>`__.
+whole project”. Compare `dumbass attack <./D.html#dumbass-attack>`__.
 
 
 ad-hockery
@@ -163,15 +163,15 @@ tokens that might be typing errors against a symbol table can make it
 look as though a program knows how to spell.
 
 2. Special-case code to cope with some awkward input that would
-otherwise cause a program to `choke <../C/choke.html>`__, presuming
+otherwise cause a program to `choke <./C.html#choke>`__, presuming
 normal inputs are dealt with in some cleaner and more regular way.
 
 Also called ad-hackery, ad-hocity (/ad-hos'@-tee/), ad-crockery. See
-also `ELIZA effect <../E/ELIZA-effect.html>`__.
+also `ELIZA effect <./E.html#ELIZA-effect>`__.
 
-.. image:: ../_static/73-10-31.png
+.. image:: ./_static/73-10-31.png
 
-This is `ad-hockery <ad-hockery.html>`__ in action.
+This is `ad-hockery <A.html#ad-hockery>`__ in action.
 
 (The next cartoon in the Crunchly saga is
 `74-08-18 <./W.html#water-MIPS>`__. The previous one
@@ -188,8 +188,8 @@ refer to the systems person in charge on a computer. Common
 constructions on this include sysadmin and site admin (emphasizing the
 administrator's role as a site contact for email and news) or newsadmin
 (focusing specifically on news). Compare
-`postmaster <../P.html#postmaster>`__, `sysop <../S/sysop.html>`__,
-`system mangler <../S.html#system-mangler>`__.
+`postmaster <./P.html#postmaster>`__, `sysop <./S.html#sysop>`__,
+`system mangler <./S.html#system-mangler>`__.
 
 
 ADVENT
@@ -199,15 +199,15 @@ ADVENT
 **ADVENT**: /ad´vent/, n.
 
 The prototypical computer adventure game, first designed by Will
-Crowther on the `PDP-10 <../P/PDP-10.html>`__ in the mid-1970s as an
+Crowther on the `PDP-10 <./P.html#PDP-10>`__ in the mid-1970s as an
 attempt at computer-refereed fantasy gaming, and expanded into a
 puzzle-oriented game by Don Woods at Stanford in 1976. (Woods had been
-one of the authors of `INTERCAL <../I/INTERCAL.html>`__.) Now better
+one of the authors of `INTERCAL <./I.html#INTERCAL>`__.) Now better
 known as Adventure or Colossal Cave Adventure, but the
-`TOPS-10 <../T/TOPS-10.html>`__ operating system permitted only
+`TOPS-10 <./T.html#TOPS-10>`__ operating system permitted only
 six-letter filenames in uppercase. See also
-`vadding <../V/vadding.html>`__, `Zork <../Z/Zork.html>`__, and
-`Infocom <../I/Infocom.html>`__.
+`vadding <./V.html#vadding>`__, `Zork <./Z.html#Zork>`__, and
+`Infocom <./I.html#Infocom>`__.
 
 
 This game defined the terse, dryly humorous style since expected in text
@@ -215,8 +215,8 @@ adventure games, and popularized several tag lines that have become
 fixtures of hacker-speak: “A huge green fierce snake bars the way!” “I
 see no X here” (for some noun X). “You are in a maze of twisty little
 passages, all alike.” “You are in a little maze of twisty passages, all
-different.” The ‘magic words’ `xyzzy <../X/xyzzy.html>`__ and
-`plugh <../P/plugh.html>`__ also derive from this game.
+different.” The ‘magic words’ `xyzzy <./X.html#xyzzy>`__ and
+`plugh <./P.html#plugh>`__ also derive from this game.
 
 Crowther, by the way, participated in the exploration of the Mammoth &
 Flint Ridge cave system; it actually *has* a Colossal Cave and a
@@ -226,7 +226,7 @@ for a map reference to a secondary entrance.
 ADVENT sources are available for FTP at
 `ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z <ftp://ftp.wustl.edu/doc/misc/if-archive/games/source/advent.tar.Z>`__.
 You can also play it as a `Java
-applet <http://www.forkexec.com/html/play-advent.html>`__. There is a
+applet <http://www.forkexec.com/html/play-advent>`__. There is a
 good page of resources at the `Colossal Cave Adventure
 Page <http://www.rickadams.org/adventure/>`__.
 
@@ -237,7 +237,7 @@ adware
 **adware**: n.
 
 Software which is free to download and use but includes pop-up banner
-ads somewhere. See also `-ware <../W/suffix-ware.html>`__.
+ads somewhere. See also `-ware <./W/suffix-ware>`__.
 
 
 AFAIK
@@ -259,7 +259,7 @@ AFJ
 
 Written-only abbreviation for “April Fool's Joke”. Elaborate April
 Fool's hoaxes are a long-established tradition on Usenet and Internet;
-see `kremvax <../K/kremvax.html>`__ for an example. In fact, April
+see `kremvax <./K.html#kremvax>`__ for an example. In fact, April
 Fool's Day is the *only* seasonal holiday consistently marked by
 customary observances on Internet and other hacker networks.
 
@@ -283,7 +283,7 @@ AI-complete
 **AI-complete**: /A·I k@m·pleet'/, adj.
 
 [MIT, Stanford: by analogy with NP-complete (see
-`NP- <../N#NP->`__)] Used to describe problems or subproblems in
+`NP- <./N#NP->`__)] Used to describe problems or subproblems in
 AI, to indicate that the solution presupposes a solution to the ‘strong
 AI problem’ (that is, the synthesis of a human-level intelligence). A
 problem that is AI-complete is, in other words, just too hard.
@@ -294,7 +294,7 @@ Problem’ (building a system that can understand and speak a natural
 language as well as a human). These may appear to be modular, but all
 attempts so far (2003) to solve them have foundered on the amount of
 context information and ‘intelligence’ they seem to require. See also
-`gedanken <../G.html#gedanken>`__.
+`gedanken <./G.html#gedanken>`__.
 
 
 AI
@@ -317,15 +317,15 @@ analogy, in both software and electronics, the rule that simplicity
 increases robustness. It is correspondingly argued that the right way to
 build reliable systems is to put all your eggs in one basket, after
 making sure that you've built a really *good* basket. See also `KISS
-Principle <../K.html#KISS-Principle.html>`__,
-`elegant <../E.html#elegant.html>`__.
+Principle <./K.html#KISS-Principle>`__,
+`elegant <./E.html#elegant>`__.
 
 Alderson loop
 =============
 
 **Alderson loop**: n.
 
-[Intel] A special version of an `infinite loop <../I/infinite-loop.html>`__ where there is an exit condition
+[Intel] A special version of an `infinite loop <./I.html#infinite-loop>`__ where there is an exit condition
 available, but inaccessible in the current implementation of the code.
 Typically this is created while debugging user interface code. An
 example would be when there is a menu stating, “Select 1-3 or 9 to quit”
@@ -351,17 +351,17 @@ pointers address (are aliases for) a given hunk of storage, it may
 happen that the storage is freed or reallocated (and thus moved) through
 one alias and then referenced through another, which may lead to subtle
 (and possibly intermittent) lossage depending on the state and the
-allocation history of the malloc `arena <arena.html>`__. Avoidable by
+allocation history of the malloc `arena <arena>`__. Avoidable by
 use of allocation strategies that never alias allocated core, or by use
-of higher-level languages, such as `LISP <../L/LISP.html>`__, which
-employ a garbage collector (see `GC <../G/GC.html>`__). Also called a
-`stale pointer bug <../S/stale-pointer-bug.html>`__. See also
-`precedence lossage <../P/precedence-lossage.html>`__, `smash the
-stack <../S/smash-the-stack.html>`__, `fandango on
-core <../F/fandango-on-core.html>`__, `memory
-leak <../M/memory-leak.html>`__, `memory
-smash <../M/memory-smash.html>`__, `overrun
-screw <../O/overrun-screw.html>`__, `spam <../S/spam.html>`__.
+of higher-level languages, such as `LISP <./L#LISP>`__, which
+employ a garbage collector (see `GC <./G.html#GC>`__). Also called a
+`stale pointer bug <./S.html#stale-pointer-bug>`__. See also
+`precedence lossage <./P.html#precedence-lossage>`__, `smash the
+stack <./S.html#smash-the-stack>`__, `fandango on
+core <./F.html#fandango-on-core>`__, `memory
+leak <./M.html#memory-leak>`__, `memory
+smash <./M.html#memory-smash>`__, `overrun
+screw <./O.html#overrun-screw>`__, `spam <./S.html#spam>`__.
 
 Historical note: Though this term is nowadays associated with C
 programming, it was already in use in a very similar sense in the
@@ -386,7 +386,7 @@ someone claiming to be Bob, and to be sure, Alice tests that Bob knows a
 secret number K. Alice sends to Bob a random number X. Bob then forms Y
 by encrypting X under key K and sends Y back to Alice”. A whole
 mythology rapidly grew up around the metasyntactic names; see
-`http://www.conceptlabs.co.uk/alicebob.html <http://www.conceptlabs.co.uk/alicebob.html>`__.
+`http://www.conceptlabs.co.uk/alicebob.html <http://www.conceptlabs.co.uk/alicebob>`__.
 
 In Bruce Schneier's definitive introductory text *Applied Cryptography*
 (2nd ed., 1996, John Wiley & Sons, ISBN 0-471-11709-9) he introduced a
@@ -405,12 +405,12 @@ All hardware sucks, all software sucks.
 
 **All hardware sucks, all software sucks.**: prov.
 
-[from `scary devil monastery <../S/scary-devil-monastery.html>`__] A
+[from `scary devil monastery <./S.html#scary-devil-monastery>`__] A
 general recognition of the fallibility of any computer system, ritually
 intoned as an attempt to quell incipient `holy
-wars <../H/holy-wars.html>`__. It is a common response to any sort of
-`bigot <../B/bigot.html>`__. When discussing
-`Wintel <../W/Wintel.html>`__ systems, however, it is often snidely
+wars <./H.html#holy-wars>`__. It is a common response to any sort of
+`bigot <./B.html#bigot>`__. When discussing
+`Wintel <./W/Wintel>`__ systems, however, it is often snidely
 appended with, ‘but some suck more than others.’
 
 
@@ -441,9 +441,9 @@ where X is filled in to connote a sinister takeover of some sort. Thus,
 “When Joe signed up for his new job at Yoyodyne, he had to sign a
 draconian NDA. It basically said: All your code are belong to us.” Has
 many of the connotations of “Resistance is futile; you will be
-assimilated” (see `Borg <../B/Borg.html>`__). Considered silly, and
+assimilated” (see `Borg <./B.html#Borg>`__). Considered silly, and
 most likely to be used by the type of person that finds `Jeff
-K. <../J/Jeff-K-.html>`__ hilarious.
+K. <./J.html#Jeff-K->`__ hilarious.
 
 alpha geek
 ===========
@@ -459,14 +459,14 @@ alpha particles
 
 **alpha particles**: n.
 
-See `bit rot <../B/bit-rot.html>`__.
+See `bit rot <./B.html#bit-rot>`__.
 
 alt bit
 =======
 
 **alt bit**: /awlt bit/, adj.
 
-See `meta bit <../M/meta-bit.html>`__.
+See `meta bit <./M.html#meta-bit>`__.
 
 alt
 ===
@@ -474,13 +474,13 @@ alt
 
 **alt**: /awlt/
 
-1. n. The alt shift key on an IBM PC or `clone <../C/clone.html>`__
-keyboard; see `bucky bits <../B/bucky-bits.html>`__, sense 2 (though
+1. n. The alt shift key on an IBM PC or `clone <./C.html#clone>`__
+keyboard; see `bucky bits <./B.html#bucky-bits>`__, sense 2 (though
 typical PC usage does not simply set the 0200 bit).
 
 2. n. The option key on a Macintosh; use of this term usually reveals
 that the speaker hacked PCs before coming to the Mac (see also `feature
-key <../F/feature-key.html>`__, which is sometimes *incorrectly* called
+key <./F.html#feature-key>`__, which is sometimes *incorrectly* called
 ‘alt’).
 
 3. The "alt" hierarchy on Usenet, the tree of newsgroups created by
@@ -491,7 +491,7 @@ lunatics, and terrorists”; but in fact it is simply short for
 
 4. n.,obs. Rare alternate name for the ASCII ESC character (ASCII
 0011011). This use, derives, with the alt key itself, from archaic
-PDP-10 operating systems, especially `ITS <../I/ITS.html>`__.
+PDP-10 operating systems, especially `ITS <./I.html#ITS>`__.
 
 Aluminum Book
 =============
@@ -502,7 +502,7 @@ Aluminum Book
 first edition 1984, second edition 1990). Note that due to a technical
 screwup some printings of the second edition are actually of a color the
 author describes succinctly as “yucky green”. See also `book
-titles <../B/book-titles.html>`__.
+titles <./B.html#book-titles>`__.
 
 
 ambimouseterous
@@ -528,12 +528,12 @@ despite the fact that the first Amigas had a substantial technological
 lead on the IBM XTs of the time. Instead, it acquired a small but
 zealous population of enthusiastic hackers who dreamt of one day
 unseating the clones (see `Amiga Persecution
-Complex <Amiga-Persecution-Complex.html>`__). The traits of this
+Complex <Amiga-Persecution-Complex>`__). The traits of this
 culture are both spoofed and illuminated in `The BLAZE Humor
 Viewer <http://www.blazemonger.com/BM/>`__. The strength of the Amiga
 platform seeded a small industry of companies building software and
 hardware for the platform, especially in graphics and video applications
-(see `video toaster <../V/video-toaster.html>`__).
+(see `video toaster <./V.html#video-toaster>`__).
 
 Due to spectacular mismanagement, Commodore did hardly any R&D, allowing
 the competition to close Amiga's technological lead. After Commodore
@@ -549,21 +549,21 @@ Amiga Persecution Complex
 **Amiga Persecution Complex**: n.
 
 The disorder suffered by a particularly egregious variety of
-`bigot <../B/bigot.html>`__, those who believe that the marginality of
+`bigot <./B.html#bigot>`__, those who believe that the marginality of
 their preferred machine is the result of some kind of industry-wide
 conspiracy (for without a conspiracy of some kind, the eminent
 superiority of their beloved shining jewel of a platform would obviously
 win over all, market pressures be damned!) Those afflicted are prone to
-engaging in `flame war <../F/flame-war.html>`__\ s and calling for
+engaging in `flame war <./F.html#flame-war>`__\ s and calling for
 boycotts and mailbombings. Amiga Persecution Complex is by no means
-limited to Amiga users; NeXT, `NeWS <../N/NeWS.html>`__,
-`OS/2 <../O/OS-2.html>`__, Macintosh, `LISP <../L/LISP.html>`__, and
-`GNU <../G/GNU.html>`__ users are also common victims.
-`Linux <../L/Linux.html>`__ users used to display symptoms very
+limited to Amiga users; NeXT, `NeWS <./N.html#NeWS>`__,
+`OS/2 <./O.html#OS-2>`__, Macintosh, `LISP <./L#LISP>`__, and
+`GNU <./G.html#GNU>`__ users are also common victims.
+`Linux <./L#Linux>`__ users used to display symptoms very
 frequently before Linux started winning; some still do. See also
-`newbie <../N/newbie.html>`__, `troll <../T/troll.html>`__, `holy
-wars <../H/holy-wars.html>`__, `weenie <../W/weenie.html>`__, `Get a
-life! <../G/Get-a-life-.html>`__.
+`newbie <./N.html#newbie>`__, `troll <./T.html#troll>`__, `holy
+wars <./H.html#holy-wars>`__, `weenie <./W.html#weenie>`__, `Get a
+life! <./G.html#Get-a-life->`__.
 
 amper
 =====
@@ -571,7 +571,7 @@ amper
 **amper**: n.
 
 Common abbreviation for the name of the ampersand (‘&’, ASCII 0100110)
-character. See `ASCII <ASCII.html>`__ for other synonyms.
+character. See `ASCII <ASCII>`__ for other synonyms.
 
 
 amp off
@@ -580,7 +580,7 @@ amp off
 
 **amp off**: vt.
 
-[Purdue] To run in `background <../B/background.html>`__. From the
+[Purdue] To run in `background <./B.html#background>`__. From the
 Unix shell ‘&’ operator.
 
 
@@ -614,12 +614,12 @@ Angband
 
 **Angband**: n., /ang´band/
 
-Like `nethack <../N/nethack.html>`__, `moria <../M/moria.html>`__,
-and `rogue <../R/rogue.html>`__, one of the large freely distributed
+Like `nethack <./N.html#nethack>`__, `moria <./M.html#moria>`__,
+and `rogue <./R.html#rogue>`__, one of the large freely distributed
 Dungeons-and-Dragons-like simulation games, available for a wide range
 of machines and operating systems. The name is from Tolkien's Pits of
-Angband (compare `elder days <../E/elder-days.html>`__,
-`elvish <../E/elvish.html>`__). Has been described as “Moria on
+Angband (compare `elder days <./E.html#elder-days>`__,
+`elvish <./E.html#elvish>`__). Has been described as “Moria on
 steroids”; but, unlike Moria, many aspects of the game are customizable.
 This leads many hackers and would-be hackers into fooling with these
 instead of doing productive work. There are many Angband variants, of
@@ -636,7 +636,7 @@ at
 `http://thangorodrim.angband.org/ <http://thangorodrim.angband.org/>`__
 and a zangband one at
 `http://www.zangband.org/ <http://www.zangband.org/>`__. See also
-`Random Number God <../R/Random-Number-God.html>`__.
+`Random Number God <./R/Random-Number-God>`__.
 
 
 angle brackets
@@ -647,11 +647,11 @@ angle brackets
 
 Either of the characters "<" (ASCII 0111100) and ">" (ASCII 0111110)
 (ASCII less-than or greater-than signs). Typographers in the `Real
-World <../R/Real-World.html>`__ use angle brackets which are either
+World <./R/Real-World>`__ use angle brackets which are either
 taller and slimmer (the ISO lang 〈 and rang 〉 characters), or
 significantly smaller (single or double guillemets) than the less-than
-and greater-than signs. See `broket <../B/broket.html>`__,
-`ASCII <ASCII.html>`__.
+and greater-than signs. See `broket <./B.html#broket>`__,
+`ASCII <ASCII>`__.
 
 
 angry fruit salad
@@ -661,7 +661,7 @@ angry fruit salad
 A bad visual-interface design that uses too many colors. (This term
 derives, of course, from the bizarre day-glo colors found in canned
 fruit salad.) Too often one sees similar effects from interface
-designers using color window systems such as `X <../X/X.html>`__;
+designers using color window systems such as `X <./X/X>`__;
 there is a tendency to create displays that are flashy and
 attention-getting but uncomfortable for long-term use.
 
@@ -671,27 +671,27 @@ annoybot
 
 **annoybot**: /@·noy·bot/, n.
 
-[IRC] See `bot <../B.html#bot>`__.
+[IRC] See `bot <./B.html#bot>`__.
 
 annoyware
 =========
 
 **annoyware**: n.
 
-A type of `shareware <../S/shareware.html>`__ that frequently disrupts
+A type of `shareware <./S.html#shareware>`__ that frequently disrupts
 normal program operation to display requests for payment to the author
 in return for the ability to disable the request messages. (Also called
 nagware) The requests generally require user action to acknowledge the
 message before normal operation is resumed and are often tied to the
 most frequently used features of the software. See also
-`careware <../C/careware.html>`__,
-`charityware <../C/charityware.html>`__,
-`crippleware <../C/crippleware.html>`__,
-`freeware <../F/freeware.html>`__, `FRS <../F/FRS.html>`__,
-`guiltware <../G/guiltware.html>`__,
-`postcardware <../P/postcardware.html>`__, and
-`-ware <../W/suffix-ware.html>`__; compare
-`payware <../P/payware.html>`__.
+`careware <./C.html#careware>`__,
+`charityware <./C.html#charityware>`__,
+`crippleware <./C.html#crippleware>`__,
+`freeware <./F.html#freeware>`__, `FRS <./F.html#FRS>`__,
+`guiltware <./G.html#guiltware>`__,
+`postcardware <./P.html#postcardware>`__, and
+`-ware <./W/suffix-ware>`__; compare
+`payware <./P.html#payware>`__.
 
 
 ANSI standard
@@ -708,8 +708,8 @@ ANSI standard word tripling in names of usenet alt groups.
 This usage derives from the American National Standards Institute. ANSI,
 along with the International Organization for Standards (ISO),
 standardized the C programming language (see
-`K&R <../K/K-ampersand-R.html>`__, `Classic
-C <../C/Classic-C.html>`__), and promulgates many other important
+`K&R <./K.html#K-ampersand-R>`__, `Classic
+C <./C.html#Classic-C>`__), and promulgates many other important
 software standards.
 
 
@@ -720,9 +720,9 @@ ANSI standard pizza
 
 [CMU] Pepperoni and mushroom pizza. Coined allegedly because most pizzas
 ordered by CMU hackers during some period leading up to mid-1990 were of
-that flavor. See also `rotary debugger <../R/rotary-debugger.html>`__;
+that flavor. See also `rotary debugger <./R.html#rotary-debugger>`__;
 compare `ISO standard cup of
-tea <../I.html#ISO-standard-cup-of-tea>`__.
+tea <./I.html#ISO-standard-cup-of-tea>`__.
 
 
 anti-idiotarianism
@@ -731,7 +731,7 @@ anti-idiotarianism
 **anti-idiotarianism**: n.
 
 [very common] Opposition to idiots of all political stripes. First
-coined in the `blog <../B/blog.html>`__ named `Little Green
+coined in the `blog <./B.html#blog>`__ named `Little Green
 Footballs <http://www.littlegreenfootballs.com/weblog/weblog.php>`__ as
 part of a post expressing disgust with inane responses to post-9/11
 Islamic terrorism. Anti-idiotarian wrath has focused on Islamic
@@ -755,7 +755,7 @@ five or so. The pseudo-HTML
     `<AOL>Me, too!</AOL>`
 
 is also frequently seen. See also `September that never
-ended <../S.html#September-that-never-ended>`__.
+ended <./S.html#September-that-never-ended>`__.
 
 
 app
@@ -772,8 +772,8 @@ messaging systems, though a user would consider all those to be apps.
 (Broadly, an app is often a self-contained environment for performing
 some well-defined task such as ‘word processing’; hackers tend to prefer
 more general-purpose tools.) See `killer
-app <../K/killer-app.html>`__; oppose `tool <../T/tool.html>`__,
-`operating system <../O/operating-system.html>`__.
+app <./K.html#killer-app>`__; oppose `tool <./T.html#tool>`__,
+`operating system <./O.html#operating-system>`__.
 
 Archimedes
 ==========
@@ -798,10 +798,10 @@ arena
 sbrk(2) and used by malloc(3) as dynamic storage. So named from a
 **malloc: corrupt arena** message emitted when some early versions
 detected an impossible value in the free block list. See `overrun
-screw <../O/overrun-screw.html>`__, `aliasing
-bug <aliasing-bug.html>`__, `memory leak <../M/memory-leak.html>`__,
-`memory smash <../M/memory-smash.html>`__, `smash the
-stack <../S/smash-the-stack.html>`__.
+screw <./O.html#overrun-screw>`__, `aliasing
+bug <aliasing-bug>`__, `memory leak <./M.html#memory-leak>`__,
+`memory smash <./M.html#memory-smash>`__, `smash the
+stack <./S.html#smash-the-stack>`__.
 
 
 arg
@@ -812,8 +812,8 @@ arg
 Abbreviation for ‘argument’ (to a function), used so often as to have
 become a new word (like ‘piano’ from ‘pianoforte’). “The sine function
 takes 1 arg, but the arc-tangent function can take either 1 or 2 args.”
-Compare `param <../P/param.html>`__, `parm <../P/parm.html>`__,
-`var <../V/var.html>`__.
+Compare `param <./P.html#param>`__, `parm <./P.html#parm>`__,
+`var <./V.html#var>`__.
 
 ARMM
 ====
@@ -821,16 +821,16 @@ ARMM
 **ARMM**: n.
 
 [acronym, ‘Automated Retroactive Minimal Moderation’] A Usenet
-`cancelbot <../C/cancelbot.html>`__ created by Dick Depew of Munroe
+`cancelbot <./C.html#cancelbot>`__ created by Dick Depew of Munroe
 Falls, Ohio. ARMM was intended to automatically cancel posts from
 anonymous-posting sites. Unfortunately, the robot's recognizer for
 anonymous postings triggered on its own automatically-generated control
 messages! Transformed by this stroke of programming ineptitude into a
 monster of Frankensteinian proportions, it broke loose on the night of
-March 30, 1993 and proceeded to `spam <../S/spam.html>`__
+March 30, 1993 and proceeded to `spam <./S.html#spam>`__
 "news.admin.policy" with a recursive explosion of over 200 messages.
 
-ARMM's bug produced a recursive `cascade <../C/cascade.html>`__ of
+ARMM's bug produced a recursive `cascade <./C.html#cascade>`__ of
 messages each of which mechanically added text to the ID and Subject and
 some other headers of its parent. This produced a flood of messages in
 which each header took up several screens and each message ID and
@@ -840,15 +840,15 @@ Reactions varied from amusement to outrage. The pathological messages
 crashed at least one mail system, and upset people paying line charges
 for their Usenet feeds. One poster described the ARMM debacle as
 “instant Usenet history” (also establishing the term
-`despew <../D/despew.html>`__), and it has since been widely cited as
+`despew <./D.html#despew>`__), and it has since been widely cited as
 a cautionary example of the havoc the combination of good intentions and
 incompetence can wreak on a network. The Usenet thread on the subject is
 `archived
 here <http://groups.google.com/groups?threadm=tweekC4qM0A.H3q%40netcom.com>`__.
-Compare `Great Worm <../G/Great-Worm.html>`__; `sorcerer's apprentice
-mode <../S/sorcerers-apprentice-mode.html>`__. See also `software
-laser <../S/software-laser.html>`__, `network
-meltdown <../N/network-meltdown.html>`__.
+Compare `Great Worm <./G.html#Great-Worm>`__; `sorcerer's apprentice
+mode <./S.html#sorcerers-apprentice-mode>`__. See also `software
+laser <./S.html#software-laser>`__, `network
+meltdown <./N.html#network-meltdown>`__.
 
 
 armor-plated
@@ -857,7 +857,7 @@ armor-plated
 
 **armor-plated**: n.
 
-Syn. for `bulletproof <../B/bulletproof.html>`__.
+Syn. for `bulletproof <./B.html#bulletproof>`__.
 
 
 asbestos cork award
@@ -865,12 +865,12 @@ asbestos cork award
 
 **asbestos cork award**: n.
 
-Once, long ago at MIT, there was a `flamer <../F/flamer.html>`__ so
+Once, long ago at MIT, there was a `flamer <./F.html#flamer>`__ so
 consistently obnoxious that another hacker designed, had made, and
 distributed posters announcing that said flamer had been nominated for
 the asbestos cork award. (Any reader in doubt as to the intended
 application of the cork should consult the etymology under
-`flame <../F/flame.html>`__.) Since then, it is agreed that only a
+`flame <./F.html#flame>`__.) Since then, it is agreed that only a
 select few have risen to the heights of bombast required to earn this
 dubious dignity — but there is no agreement on *which* few.
 
@@ -880,10 +880,10 @@ asbestos
 **asbestos**: adj.
 
 [common] Used as a modifier to anything intended to protect one from
-`flame <../F/flame.html>`__\ s; also in other highly
-`flame <../F/flame.html>`__-suggestive usages. See, for example,
-`asbestos longjohns <asbestos-longjohns.html>`__ and `asbestos cork
-award <asbestos-cork-award.html>`__.
+`flame <./F.html#flame>`__\ s; also in other highly
+`flame <./F.html#flame>`__-suggestive usages. See, for example,
+`asbestos longjohns <asbestos-longjohns>`__ and `asbestos cork
+award <asbestos-cork-award>`__.
 
 
 asbestos longjohns
@@ -891,10 +891,10 @@ asbestos longjohns
 
 **asbestos longjohns**: n.
 
-Notional garments donned by `Usenet <../U/Usenet.html>`__ posters just
+Notional garments donned by `Usenet <./U/Usenet>`__ posters just
 before emitting a remark they expect will elicit
-`flamage <../F/flamage.html>`__. This is the most common of the
-`asbestos <asbestos.html>`__ coinages. Also asbestos underwear,
+`flamage <./F.html#flamage>`__. This is the most common of the
+`asbestos <asbestos>`__ coinages. Also asbestos underwear,
 asbestos overcoat, etc.
 
 ASCII art
@@ -904,7 +904,7 @@ ASCII art
 
 The fine art of drawing diagrams using the ASCII character set (mainly
 "|", "-", "/", "\", and "+"). Also known as character graphics
-or ASCII graphics; see also `boxology <../B/boxology.html>`__. Here is
+or ASCII graphics; see also `boxology <./B.html#boxology>`__. Here is
 a serious example::                                                                                                                                          
                                                                          
          o----)||(--+--|<----+   +---------o + D O                        
@@ -999,7 +999,7 @@ ASCII animation of the original *Star Wars* movie at
 `http://www.asciimation.co.nz/ <http://www.asciimation.co.nz/>`__.
 
 There is a newsgroup, "alt.ascii-art", devoted to this genre; however,
-see also `warlording <../W/warlording.html>`__.
+see also `warlording <./W.html#warlording>`__.
 
 ASCIIbetical order
 ==================
@@ -1022,25 +1022,25 @@ Interchange) but now merely conventional] The predominant character set
 encoding of present-day computers. The standard version uses 7 bits for
 each character, whereas most earlier codes (including early drafts of
 ASCII prior to June 1961) used fewer. This change allowed the inclusion
-of lowercase letters — a major `win <../W/win.html>`__ — but it did
+of lowercase letters — a major `win <./W.html#win>`__ — but it did
 not provide for accented letters or any other letterforms not used in
 English (such as the German sharp-S ß. or the ae-ligature æ which is a
 letter in, for example, Norwegian). It could be worse, though. It could
-be much worse. See `EBCDIC <../E/EBCDIC.html>`__ to understand how. A
+be much worse. See `EBCDIC <./E.html#EBCDIC>`__ to understand how. A
 history of ASCII and its ancestors is at
-`http://www.wps.com/texts/codes/index.html <http://www.wps.com/texts/codes/index.html>`__.
+`http://www.wps.com/texts/codes/index.html <http://www.wps.com/texts/codes/index>`__.
 
 Computers are much pickier and less flexible about spelling than humans;
 thus, hackers need to be very precise when talking about characters, and
 have developed a considerable amount of verbal shorthand for them. Every
 character has one or more names — some formal, some concise, some silly.
 Common jargon names for ASCII characters are collected here. See also
-individual entries for `bang <../B/bang.html>`__,
-`excl <../E/excl.html>`__, `open <../O/open.html>`__,
-`ques <../Q/ques.html>`__, `semi <../S/semi.html>`__,
-`shriek <../S/shriek.html>`__, `splat <../S/splat.html>`__,
-`twiddle <../T/twiddle.html>`__, and `Yu-Shiang Whole
-Fish <../Y/Yu-Shiang-Whole-Fish.html>`__.
+individual entries for `bang <./B.html#bang>`__,
+`excl <./E.html#excl>`__, `open <./O.html#open>`__,
+`ques <./Q.html#ques>`__, `semi <./S.html#semi>`__,
+`shriek <./S.html#shriek>`__, `splat <./S.html#splat>`__,
+`twiddle <./T.html#twiddle>`__, and `Yu-Shiang Whole
+Fish <./Y/Yu-Shiang-Whole-Fish>`__.
 
 This list derives from revision 2.3 of the Usenet ASCII pronunciation
 guide. Single characters are listed in ASCII order; character pairs are
@@ -1048,22 +1048,22 @@ sorted in by first member. For each character, common names are given in
 rough order of popularity, followed by names that are reported but
 rarely seen; official ANSI/CCITT names are surrounded by brokets: <>.
 Square brackets mark the particularly silly names introduced by
-`INTERCAL <../I/INTERCAL.html>`__. The abbreviations “l/r” and “o/c”
+`INTERCAL <./I.html#INTERCAL>`__. The abbreviations “l/r” and “o/c”
 stand for left/right and “open/close” respectively. Ordinary
 parentheticals provide some usage information.
 
 ========   =================================================================================================================================================================================================================================================================================================================
 Char.      Notes 
 ========   =================================================================================================================================================================================================================================================================================================================
- !         Common: `bang <../B/bang.html>`__ ; pling; excl; not; shriek; ball-bat; <exclamation mark>. Rare: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka; [spark-spot]; soldier, control.                                                                                                         
+ !         Common: `bang <./B.html#bang>`__ ; pling; excl; not; shriek; ball-bat; <exclamation mark>. Rare: factorial; exclam; smash; cuss; boing; yell; wow; hey; wham; eureka; [spark-spot]; soldier, control.                                                                                                         
  "         Common: double quote; quote. Rare: literal mark; double-glitch; snakebite; <quotation marks>; <dieresis>; dirk; [rabbit-ears]; double prime.                                                                                                                                                                   
- #         Common: number sign; pound; pound sign; hash; sharp; `crunch <../C/crunch.html>`__ ; hex; [mesh]. Rare: grid; cross­hatch; oc­to­thorpe; flash; <square>, pig-pen; tic­tac­toe; scratchmark; thud; thump; `splat <../S/splat.html>`__ .                                                                             
+ #         Common: number sign; pound; pound sign; hash; sharp; `crunch <./C.html#crunch>`__ ; hex; [mesh]. Rare: grid; cross­hatch; oc­to­thorpe; flash; <square>, pig-pen; tic­tac­toe; scratchmark; thud; thump; `splat <./S.html#splat>`__ .                                                                             
  $         Common: dollar; <dollar sign>. Rare: currency symbol; buck; cash; bling; string (from BASIC); escape (when used as the echo of ASCII ESC); ding; cache; [big money].                                                                                                                                           
  %         Common: percent; <percent sign>; mod; grapes. Rare: [double-oh-seven].                                                                                                                                                                                                                                         
  &         Common: <ampersand>; amp; amper; and, and sign. Rare: address (from C); reference (from C++); andpersand; bitand; background (from sh(1) ); pretzel. [INTERCAL called this ampersand ; what could be sillier?]                                                                                                 
  '         Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk; pop; [spark]; <closing single quotation mark>; <acute accent>.                                                                                                                                                                      
  ( )       Common: l/r paren; l/r parenthesis; left/right; o­pen­/­close; par­en/the­sis; o/c paren; o/c par­en­the­sis; l/r paren­the­sis; l/r ba­na­na. Rare: so/al­ready; lparen/rparen; <opening/closing parenthesis>; o/c round bracket, l/r round bracket, [wax/wane]; par­en­this­ey/un­par­en­this­ey; l/r ear.                       
- \*        Common: star; [ `splat <../S/splat.html>`__ ]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster; times; twinkle; glob (see `glob <../G/glob.html>`__ ); `Nathan Hale <../N/Nathan-Hale.html>`__ .                                                                                                 
+ \*        Common: star; [ `splat <./S.html#splat>`__ ]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster; times; twinkle; glob (see `glob <./G.html#glob>`__ ); `Nathan Hale <./N.html#Nathan-Hale>`__ .                                                                                                 
  \+        Common: <plus>; add. Rare: cross; [intersection].                                                                                                                                                                                                                                                              
  ,         Common: <comma>. Rare: <cedilla>; [tail].                                                                                                                                                                                                                                                                      
  \-        Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe.                                                                                                                                                                                                                                          
@@ -1073,7 +1073,7 @@ Char.      Notes
  ;         Common: <semicolon>; semi. Rare: weenie; [hybrid], pit-thwong.                                                                                                                                                                                                                                                 
  < >       Common: <less/great­er than>; bra/ket; l/r angle; l/r angle bracket; l/r broket. Rare: from/{into, towards}; read from/write to; suck/blow; comes-from/gozinta; in/out; crunch/zap (all from UNIX); tic/tac; [angle/right angle].                                                                               
  \=        Common: <equals>; gets; takes. Rare: quadrathorpe; [half-mesh].                                                                                                                                                                                                                                                
- ?         Common: query; <question mark>; `ques <../Q/ques.html>`__ . Rare: quiz; whatmark; [what]; wildchar; huh; hook; buttonhook; hunchback.                                                                                                                                                                          
+ ?         Common: query; <question mark>; `ques <./Q.html#ques>`__ . Rare: quiz; whatmark; [what]; wildchar; huh; hook; buttonhook; hunchback.                                                                                                                                                                          
  @         Common: at sign; at; strudel. Rare: each; vortex; whorl; [whirlpool]; cyclone; snail; ape; cat; rose; cabbage; <commercial at>.                                                                                                                                                                                
  V         Rare: [book].                                                                                                                                                                                                                                                                                                  
  [ ]       Common: l/r square bracket; l/r bracket; <opening/closing brack­et>; brack­et/un­brack­et. Rare: square­/­un­square; [U turn/U turn back].                                                                                                                                                                            
@@ -1083,13 +1083,13 @@ Char.      Notes
  \`        Common: backquote; left quote; left single quote; open quote; <grave accent>; grave. Rare: backprime; [backspark]; unapostrophe; birk; blugle; back tick; back glitch; push; <opening single quotation mark>; quasiquote.                                                                                      
  { }       Common: o/c brace; l/r brace; l/r squiggly; l/r squiggly bracket/brace; l/r curly bracket/brace; <opening/closing brace>. Rare: brace/unbrace; curly/un­curly; leftit/rytit; l/r squirrelly; [embrace/bracelet]. A balanced pair of these may be called curlies .                                               
  \|        Common: bar; or; or-bar; v-bar; pipe; vertical bar. Rare: <vertical line>; gozinta; thru; pipesinta (last three from UNIX); [spike].                                                                                                                                                                           
- ~         Common: <tilde>; squiggle; `twiddle <../T/twiddle.html>`__ ; not. Rare: approx; wiggle; swung dash; enyay; [sqiggle (sic)].                                                                                                                                                                                    
+ ~         Common: <tilde>; squiggle; `twiddle <./T.html#twiddle>`__ ; not. Rare: approx; wiggle; swung dash; enyay; [sqiggle (sic)].                                                                                                                                                                                    
 ========   =================================================================================================================================================================================================================================================================================================================
 
 
 
 The pronunciation of "#" as ‘pound’ is common in the U.S. but a bad
-idea; `Commonwealth Hackish <../C/Commonwealth-Hackish.html>`__ has
+idea; `Commonwealth Hackish <./C.html#Commonwealth-Hackish>`__ has
 its own, rather more apposite use of ‘pound sign’ (confusingly, on
 British keyboards the £ happens to replace "#"; thus Britishers
 sometimes call "#" on a U.S.-ASCII keyboard ‘pound’, compounding the
@@ -1098,7 +1098,7 @@ practice of using a "#" suffix to tag pound weights on bills of
 lading. The character is usually pronounced ‘hash’ outside the U.S.
 There are more culture wars over the correct pronunciation of this
 character than any other, which has led to the `ha ha only
-serious <../H/ha-ha-only-serious.html>`__ suggestion that it be
+serious <./H.html#ha-ha-only-serious>`__ suggestion that it be
 pronounced “shibboleth” (see Judges 12:6 in an Old Testament or Tanakh).
 
 The ‘uparrow’ name for circumflex and ‘leftarrow’ name for underline are
@@ -1108,7 +1108,7 @@ characters.
 
 The ‘swung dash’ or ‘approximation’ sign (∼) is not quite the same as
 tilde ~ in typeset material, but the ASCII tilde serves for both
-(compare `angle brackets <angle-brackets.html>`__).
+(compare `angle brackets <angle-brackets>`__).
 
 Some other common usages cause odd overlaps. The "#", "$", ">",
 and "&" characters, for example, are all pronounced “hex” in different
@@ -1116,13 +1116,13 @@ communities because various assemblers use them as a prefix tag for
 hexadecimal constants (in particular, "#" in many
 assembler-programming cultures, "$" in the 6502 world, ">" at Texas
 Instruments, and "&" on the BBC Micro, Sinclair, and some Z80
-machines). See also `splat <../S/splat.html>`__.
+machines). See also `splat <./S.html#splat>`__.
 
 The inability of ASCII text to correctly represent any of the world's
 other major languages makes the designers' choice of 7 bits look more
-and more like a serious `misfeature <../M/misfeature.html>`__ as the
+and more like a serious `misfeature <./M.html#misfeature>`__ as the
 use of international networks continues to increase (see `software
-rot <../S/software-rot.html>`__). Hardware and software from the U.S.
+rot <./S.html#software-rot>`__). Hardware and software from the U.S.
 still tends to embody the assumption that ASCII is the universal
 character set and that characters have 7 bits; this is a major irritant
 to people who want to use a character set suited to their own languages.
@@ -1141,7 +1141,7 @@ movement, through means like letters to newspapers from soi-disant
 ‘concerned citizens’, paid opinion pieces, and the formation of
 grass-roots lobbying groups that are actually funded by a PR group
 (AstroTurf is fake grass; hence the term). See also `sock
-puppet <../S/sock-puppet.html>`__, `tentacle <../T/tentacle.html>`__.
+puppet <./S.html#sock-puppet>`__, `tentacle <./T.html#tentacle>`__.
 
 2. What an individual posting to a public forum under an assumed name is
 said to be doing.
@@ -1188,10 +1188,10 @@ attoparsec
 About an inch. *atto-* is the standard SI prefix for multiplication by
 "10-18". A parsec (parallax-second) is 3.26 light-years; an attoparsec
 is thus "3.26 ×    10-18" light years, or about 3.1 cm (thus, 1
-attoparsec/\ `microfortnight <../M/microfortnight.html>`__ equals
+attoparsec/\ `microfortnight <./M.html#microfortnight>`__ equals
 about 1 inch/sec). This unit is reported to be in use (though probably
 not very seriously) among hackers in the U.K. See
-`micro- <../M.html#micro->`__.
+`micro- <./M.html#micro->`__.
 
 
 Aunt Tillie
@@ -1219,7 +1219,7 @@ autobogotiphobia
 
 **autobogotiphobia**: /aw´toh·boh·got\`@·foh´bee·@/
 
-n. See `bogotify <../B.html#bogotify>`__.
+n. See `bogotify <./B.html#bogotify>`__.
 
 
 autoconfiscate
@@ -1227,7 +1227,7 @@ autoconfiscate
 
 **autoconfiscate**
 
-To set up or modify a source-code `distribution <../D/distribution.html>`__ so that it configures and
+To set up or modify a source-code `distribution <./D.html#distribution>`__ so that it configures and
 builds using the GNU project's autoconf/automake/libtools suite. Among
 open-source hackers, a mere running binary of a program is not
 considered a full release; what's interesting is a source tree that can
@@ -1244,7 +1244,7 @@ automagically
 Automatically, but in a way that, for some reason (typically because it
 is too complicated, or too ugly, or perhaps even too trivial), the
 speaker doesn't feel like explaining to you. See
-`magic <../M/magic.html>`__. “The C-INTERCAL compiler generates C,
+`magic <./M.html#magic>`__. “The C-INTERCAL compiler generates C,
 then automagically invokes cc(1) to produce an executable.”
 
 This term is quite old, going back at least to the mid-70s in jargon and
@@ -1260,12 +1260,12 @@ avatar
 [in Hindu mythology, the incarnation of a god]
 
 1. Among people working on virtual reality and
-`cyberspace <../C/cyberspace.html>`__ interfaces, an avatar is an icon
+`cyberspace <./C.html#cyberspace>`__ interfaces, an avatar is an icon
 or representation of a user in a shared virtual reality. The term is
-sometimes used on `MUD <../M/MUD.html>`__\ s.
+sometimes used on `MUD <./M.html#MUD>`__\ s.
 
-2. [CMU, Tektronix] `root <../R/root.html>`__,
-`superuser <../S/superuser.html>`__. There are quite a few Unix
+2. [CMU, Tektronix] `root <./R.html#root>`__,
+`superuser <./S.html#superuser>`__. There are quite a few Unix
 machines on which the name of the superuser account is ‘avatar’ rather
 than ‘root’. This quirk was originated by a CMU hacker who found the
 terms root and superuser unimaginative, and thought ‘avatar’ might
@@ -1283,11 +1283,11 @@ developed by Alfred Aho, Peter Weinberger, and Brian Kernighan (the name
 derives from their initials). It is characterized by C-like syntax, a
 declaration-free approach to variable typing and declarations,
 associative arrays, and field-oriented text processing. See also
-`Perl <../P/Perl.html>`__.
+`Perl <./P.html#Perl>`__.
 
 2. n. Editing term for an expression awkward to manipulate through
-normal `regexp <../R/regexp.html>`__ facilities (for example, one
-containing a `newline <../N/newline.html>`__).
+normal `regexp <./R.html#regexp>`__ facilities (for example, one
+containing a `newline <./N#newline>`__).
 
 3. vt. To process data using awk(1).
 

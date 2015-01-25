@@ -17,7 +17,7 @@ address <../N/network-address.html>`__ to get in, or at least be in
 company with someone who does. One of the most reliable opportunities
 for hackers to meet face to face with people who might otherwise be
 represented by mere phosphor dots on their screens. Compare
-`boink <../B/boink.html>`__.
+`boink <./B.html#boink.html>`__.
 
 The first recorded @-party was held at the Westercon (a U.S. western
 regional SF convention) over the July 4th weekend in 1980. It is not
@@ -68,7 +68,7 @@ May be used reflexively; “Uh, I'm 404ing” means “I'm drawing a blank”.
 in any information space being discussed, used, or referred to. A
 controversial posting, for example, might end “Kudos to
 rasputin@kremlin.org, flames to /dev/null”. See `bit
-bucket <../B/bit-bucket.html>`__.
+bucket <./B.html#bit-bucket.html>`__.
 
 
 
@@ -148,7 +148,7 @@ corner). Are we sufficiently confused yet?
 **1TBS**: //, n.
 
 The “One True Brace Style”; see `indent
-style <../I/indent-style.html>`__.
+style <./I.html#indent-style.html>`__.
 
 
 (TM)

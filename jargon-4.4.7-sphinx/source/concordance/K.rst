@@ -15,7 +15,7 @@ K
 **kahuna**: /k@·hoo´n@/, n.
 
 [IBM: from the Hawaiian title for a shaman] Synonym for
-`wizard <../W/wizard.html>`__, `guru <../G/guru.html>`__.
+`wizard <../W/wizard.html>`__, `guru <./G.html#guru.html>`__.
 
 --------------
 
@@ -123,7 +123,7 @@ because it's a login name and mail address) in third-person reference;
 it is widely understood (on Usenet, in particular) that without a last
 name ‘Ken’ refers only to Ken Thompson. Similarly, ‘Dennis’ without last
 name means Dennis Ritchie (and he is often known as "dmr"). See also
-`demigod <../D/demigod.html>`__, `Unix <../U/Unix.html>`__.
+`demigod <./D.html#demigod.html>`__, `Unix <../U/Unix.html>`__.
 
 2. A flaming user. This was originated by the Software Support group at
 Symbolics because the two greatest flamers in the user community were
@@ -150,12 +150,12 @@ K
 **kernel-of-the-week club**
 
 The fictional society that `BSD <../B/BSD.html>`__
-`bigot <../B/bigot.html>`__\ s claim `Linux <../L/Linux.html>`__
+`bigot <./B.html#bigot.html>`__\ s claim `Linux <../L/Linux.html>`__
 users belong to, alluding to the release-early-release-often style
 preferred by the kernel maintainers. See
-`bazaar <../B/bazaar.html>`__. This was almost certainly inspired by
+`bazaar <./B.html#bazaar.html>`__. This was almost certainly inspired by
 the earlier `bug-of-the-month
-club <../B/bug-of-the-month-club.html>`__.
+club <./B.html#bug-of-the-month-club.html>`__.
 
 --------------
 
@@ -205,7 +205,7 @@ compounds such as k-kool /K´kool´/, k-rad /K´rad´/, and k-awesome
 /K´aw\`sm/. Also used to intensify negatives; thus, k-evil, k-lame,
 k-screwed, and k-annoying. Overuse of this prefix, or use in more formal
 or technical contexts, is considered an indicator of
-`lamer <../L/lamer.html>`__ status.
+`lamer <./L.html#lamer.html>`__ status.
 
 --------------
 
@@ -229,7 +229,7 @@ K
 
 [from `kilo- <kilo-.html>`__] A kilobyte. Used both as a spoken word
 and a written suffix (like `meg <../M/meg.html>`__ and
-`gig <../G/gig.html>`__ for megabyte and gigabyte). See
+`gig <./G.html#gig.html>`__ for megabyte and gigabyte). See
 `quantifiers <../Q/quantifiers.html>`__.
 
 --------------
@@ -284,7 +284,7 @@ K
 
 **kiboze**: v.
 
-[Usenet] To `grep <../G/grep.html>`__ the Usenet news for a string,
+[Usenet] To `grep <./G.html#grep.html>`__ the Usenet news for a string,
 especially with the intention of posting a follow-up. This activity was
 popularised by Kibo (see `KIBO <KIBO.html>`__, sense 2).
 
@@ -334,7 +334,7 @@ K
 1. [IRC] To cause somebody to be removed from a
 `IRC <../I/IRC.html>`__ channel, an option only available to channel
 ops. This is an extreme measure, often used to combat extreme
-`flamage <../F/flamage.html>`__ or `flood <../F/flood.html>`__\ ing,
+`flamage <./F.html#flamage.html>`__ or `flood <./F.html#flood.html>`__\ ing,
 but sometimes used at the `CHOP <../C/CHOP.html>`__'s whim.
 
 2. To reboot a machine or kill a running process. “The server's down,
@@ -397,9 +397,9 @@ the battle cry of the downsizers.
 
 The popularity of the phrase ‘attack of the killer micros’ is doubtless
 reinforced by the title of the movie *Attack Of The Killer Tomatoes*
-(one of the `canonical <../C/canonical.html>`__ examples of
+(one of the `canonical <./C.html#canonical.html>`__ examples of
 so-bad-it's-wonderful among hackers). This has even more
-`flavor <../F/flavor.html>`__ now that killer micros have gone on the
+`flavor <./F.html#flavor.html>`__ now that killer micros have gone on the
 offensive not just individually (in workstations) but in hordes (within
 massively parallel computers).
 
@@ -433,7 +433,7 @@ K
 A recipe for inducing hardware damage on a machine via insertion of
 invalid values (see `poke <../P/poke.html>`__) into a memory-mapped
 control register; used esp. of various fairly well-known tricks on
-`bitty box <../B/bitty-box.html>`__\ es without hardware memory
+`bitty box <./B.html#bitty-box.html>`__\ es without hardware memory
 management (such as the IBM PC and Commodore PET) that can overload and
 trash analog electronics in the monitor. See also
 `HCF <../H/HCF.html>`__.
@@ -490,7 +490,7 @@ K
 
 The standard unit of measurement for Web search hits: a thousand Google
 matches. “There are about a kilogoogle and a half sites with that band's
-name on it.” Compare `google juice <../G/google-juice.html>`__.
+name on it.” Compare `google juice <./G.html#google-juice.html>`__.
 
 --------------
 
@@ -559,7 +559,7 @@ K
 **KISS Principle**: /kis´ prin´si·pl/, n.
 
 “Keep It Simple, Stupid”. A maxim often invoked when discussing design
-to fend off `creeping featurism <../C/creeping-featurism.html>`__ and
+to fend off `creeping featurism <./C.html#creeping-featurism.html>`__ and
 control development complexity. Possibly related to the
 `marketroid <../M/marketroid.html>`__ maxim on sales presentations,
 “Keep It Short and Simple”.
@@ -591,7 +591,7 @@ distribution that has been packaged in such a way that it can
 using only standard Unix tools, and entirely documented by some
 reasonable chain of references from the top-level `README
 file <../R/README-file.html>`__. The more general term
-`distribution <../D/distribution.html>`__ may imply that special tools
+`distribution <./D.html#distribution.html>`__ may imply that special tools
 or more stringent conditions on the host environment are required.
 
 --------------
@@ -638,7 +638,7 @@ K
 
 **klone**: /klohn/, n.
 
-See `clone <../C/clone.html>`__, sense 4.
+See `clone <./C.html#clone.html>`__, sense 4.
 
 --------------
 
@@ -665,7 +665,7 @@ K
 American usage since the early 1960s, and widely confounded in Great
 Britain since the end of World War II.
 
-2. [TMRC] A `crock <../C/crock.html>`__ that works. (A long-ago
+2. [TMRC] A `crock <./C.html#crock.html>`__ that works. (A long-ago
 *Datamation* article by Jackson Granholme similarly said: “An
 ill-assorted collection of poorly matching parts, forming a distressing
 whole.”)
@@ -735,8 +735,8 @@ software.
 
 2. n. A clever programming trick intended to solve a particular nasty
 case in an expedient, if not clear, manner. Often used to repair bugs.
-Often involves `ad-hockery <../A/ad-hockery.html>`__ and verges on
-being a `crock <../C/crock.html>`__.
+Often involves `ad-hockery <./A.html#ad-hockery.html>`__ and verges on
+being a `crock <./C.html#crock.html>`__.
 
 3. n. Something that works for the wrong reason.
 
@@ -782,7 +782,7 @@ feeder was the most likely source of the folklore.
 
 `TMRC <../T/TMRC.html>`__ and the MIT hacker culture of the early '60s
 seems to have developed in a milieu that remembered and still used some
-WWII military slang (see also `foobar <../F/foobar.html>`__). It seems
+WWII military slang (see also `foobar <./F.html#foobar.html>`__). It seems
 likely that ‘kluge’ came to MIT via alumni of the many military
 electronics projects that had been located in Cambridge (many in MIT's
 venerable Building 20, in which `TMRC <../T/TMRC.html>`__ is also
@@ -838,10 +838,10 @@ K
 **kluge up**: vt.
 
 To lash together a quick hack to perform a task; this is milder than
-`cruft together <../C/cruft-together.html>`__ and has some of the
-connotations of `hack up <../H/hack-up.html>`__ (note, however, that
+`cruft together <./C.html#cruft-together.html>`__ and has some of the
+connotations of `hack up <./H.html#hack-up.html>`__ (note, however, that
 the construction kluge on corresponding to `hack
-on <../H/hack-on.html>`__ is never used). “I've kluged up this routine
+on <./H.html#hack-on.html>`__ is never used). “I've kluged up this routine
 to dump the buffer contents to a safe place.”
 
 --------------
@@ -918,7 +918,7 @@ K
 **knurd**: n.
 
 1. [RPI] Renssaleer Polytechnic Institute local slang roughly equivalent
-to the positive sense of `geek <../G/geek.html>`__, referring to
+to the positive sense of `geek <./G.html#geek.html>`__, referring to
 people who prefer technical hobbies to socializing.
 
 2. In older usage at RPI, the term signified someone new to college
@@ -956,7 +956,7 @@ reference that answers all questions about data structures or
 algorithms. A safe answer when you do not know: “I think you can find
 that in Knuth.” Contrast `the
 literature <../T/the-literature.html>`__. See also
-`bible <../B/bible.html>`__. There is a Donald Knuth home page at
+`bible <./B.html#bible.html>`__. There is a Donald Knuth home page at
 `http://Sunburn.Stanford.EDU/~knuth/ <http://Sunburn.Stanford.EDU/~knuth/>`__.
 
 --------------
@@ -986,8 +986,8 @@ interesting can happen (this practice is associated with Rinzai Zen
 Buddhism). Defined here because hackers are very fond of the koan form
 and compose their own koans for humorous and/or enlightening effect. See
 `Some AI Koans <../koans.html>`__, `has the X
-nature <../H/has-the-X-nature.html>`__, `hacker
-humor <../H/hacker-humor.html>`__.
+nature <./H.html#has-the-X-nature.html>`__, `hacker
+humor <./H.html#hacker-humor.html>`__.
 
 --------------
 
@@ -1156,7 +1156,7 @@ K
 
 **kyrka**: /chur´ka/, n.
 
-[Swedish] See `feature key <../F/feature-key.html>`__.
+[Swedish] See `feature key <./F.html#feature-key.html>`__.
 
 --------------
 

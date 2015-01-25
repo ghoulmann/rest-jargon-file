@@ -9,7 +9,7 @@ W
 **-ware**: suff.
 
 [from ‘software’] Commonly used to form jargon terms for classes of
-software. For examples, see `annoyware <../A/annoyware.html>`__, `careware <../C/careware.html>`__, `crippleware <../C/crippleware.html>`__, `crudware <../C/crudware.html>`__, `freeware <../F/freeware.html>`__, `fritterware <../F/fritterware.html>`__, `guiltware <../G/guiltware.html>`__, `liveware <../L/liveware.html>`__, `meatware <../M/meatware.html>`__, `payware <../P/payware.html>`__, `psychedelicware <../P/psychedelicware.html>`__, `shareware <../S/shareware.html>`__, `shelfware <../S/shelfware.html>`__, `vaporware <../V/vaporware.html>`__, `wetware <wetware.html>`__, `spyware <../S/spyware.html>`__, `adware <../A/adware.html>`__.
+software. For examples, see `annoyware <./A.html#annoyware.html>`__, `careware <./C.html#careware.html>`__, `crippleware <./C.html#crippleware.html>`__, `crudware <./C.html#crudware.html>`__, `freeware <./F.html#freeware.html>`__, `fritterware <./F.html#fritterware.html>`__, `guiltware <./G.html#guiltware.html>`__, `liveware <./L.html#liveware.html>`__, `meatware <../M/meatware.html>`__, `payware <../P/payware.html>`__, `psychedelicware <../P/psychedelicware.html>`__, `shareware <../S/shareware.html>`__, `shelfware <../S/shelfware.html>`__, `vaporware <../V/vaporware.html>`__, `wetware <wetware.html>`__, `spyware <../S/spyware.html>`__, `adware <./A.html#adware.html>`__.
 
 
 
@@ -49,9 +49,9 @@ copies of itself every time it was run, eventually crashing the system.
 
 2. By extension, any hack that includes infinite self-replication but is
 not a `virus <../V/virus.html>`__ or `worm <worm.html>`__. See
-`fork bomb <../F/fork-bomb.html>`__ and `rabbit
+`fork bomb <./F.html#fork-bomb.html>`__ and `rabbit
 job <../R/rabbit-job.html>`__, see also `cookie
-monster <../C/cookie-monster.html>`__.
+monster <./C.html#cookie-monster.html>`__.
 
 
 WAITS
@@ -76,7 +76,7 @@ insertion/overwriting. The modern style of multi-region windowing is
 said to have originated there, and WAITS alumni at XEROX PARC and
 elsewhere played major roles in the developments that led to the XEROX
 Star, the Macintosh, and the Sun workstations. Also invented there were
-`bucky bits <../B/bucky-bits.html>`__ — thus, the ALT key on every IBM
+`bucky bits <./B.html#bucky-bits.html>`__ — thus, the ALT key on every IBM
 PC is a WAITS legacy. One WAITS feature very notable in pre-Web days was
 a news-wire interface that allowed WAITS hackers to read, store, and
 filter AP and UPI dispatches from their terminals; the system also
@@ -102,9 +102,9 @@ telefactoring, this technology is of intense interest to NASA for tasks
 like space station maintenance.
 
 2. At Harvard (particularly by Tom Cheatham and students), this is used
-instead of `foobar <../F/foobar.html>`__ as a metasyntactic variable
-and general nonsense word. See `foo <../F/foo.html>`__,
-`bar <../B/bar.html>`__, `foobar <../F/foobar.html>`__,
+instead of `foobar <./F.html#foobar.html>`__ as a metasyntactic variable
+and general nonsense word. See `foo <./F.html#foo.html>`__,
+`bar <./B.html#bar.html>`__, `foobar <./F.html#foobar.html>`__,
 `quux <../Q/quux.html>`__.
 
 
@@ -116,9 +116,9 @@ walk
 **walk**: n.,vt.
 
 Traversal of a data structure, especially an array or linked-list data
-structure in `core <../C/core.html>`__. See also
-`codewalker <../C/codewalker.html>`__, `silly
-walk <../S/silly-walk.html>`__, `clobber <../C/clobber.html>`__.
+structure in `core <./C.html#core.html>`__. See also
+`codewalker <./C.html#codewalker.html>`__, `silly
+walk <../S/silly-walk.html>`__, `clobber <./C.html#clobber.html>`__.
 
 
 
@@ -131,7 +131,7 @@ walking drives
 
 An occasional failure mode of magnetic-disk drives back in the days when
 they were huge, clunky `washing machines <washing-machine.html>`__ .
-Those old `dinosaur <../D/dinosaur.html>`__ parts carried terrific
+Those old `dinosaur <./D.html#dinosaur.html>`__ parts carried terrific
 angular momentum; the combination of a misaligned spindle or worn
 bearings and stick-slip interactions with the floor could cause them to
 ‘walk’ across a room, lurching alternate corners forward a couple of
@@ -156,7 +156,7 @@ walk off the end of
 To run past the end of an array, list, or medium after stepping through
 it — a good way to land in trouble. Often the result of an `off-by-one
 error <../O/off-by-one-error.html>`__. Compare
-`clobber <../C/clobber.html>`__, `roach <../R/roach.html>`__,
+`clobber <./C.html#clobber.html>`__, `roach <../R/roach.html>`__,
 `smash the stack <../S/smash-the-stack.html>`__.
 
 
@@ -178,8 +178,8 @@ fact, Harvey outperformed more sophisticated robots that tried to
 ‘learn’ each maze by building an internal representation of it. Used of
 humans, the term *is* pejorative and implies an uncreative,
 bureaucratic, by-the-book mentality. See also `code
-grinder <../C/code-grinder.html>`__; compare
-`droid <../D/droid.html>`__.
+grinder <./C.html#code-grinder.html>`__; compare
+`droid <./D.html#droid.html>`__.
 
 wallhack
 ================
@@ -268,7 +268,7 @@ wango
 
 **wango**: /wang´goh/, n.
 
-Random bit-level `grovelling <../G/grovel.html>`__ going on in a
+Random bit-level `grovelling <./G.html#grovel.html>`__ going on in a
 system during some unspecified operation. Often used in combination with
 `mumble <../M/mumble.html>`__. For example: “You start with the ‘.o’
 file, run it through this postprocessor that does mumble-wango — and it
@@ -285,7 +285,7 @@ wank
 **wank**: /wangk/, n.,v.,adj.
 
 [Columbia University: prob.: by mutation from Commonwealth slang v.
-wank, to masturbate] Used much as `hack <../H/hack.html>`__ is
+wank, to masturbate] Used much as `hack <./H.html#hack.html>`__ is
 elsewhere, as a noun denoting a clever technique or person or the result
 of such cleverness. May describe (negatively) the act of hacking for
 hacking's sake (“Quit wanking, let's go get supper!”) or (more
@@ -293,7 +293,7 @@ positively) a `wizard <wizard.html>`__. Adj. wanky describes something
 particularly clever (a person, program, or algorithm). Conversations can
 also get wanky when there are too many wanks involved. This excess
 wankiness is signalled by an overload of the wankometer (compare
-`bogometer <../B/bogometer.html>`__). When the wankometer overloads,
+`bogometer <./B.html#bogometer.html>`__). When the wankometer overloads,
 the conversation's subject must be changed, or all non-wanks will leave.
 Compare neep-neeping (under `neep-neep <../N/neep-neep.html>`__).
 Usage: U.S. only. In Britain and the Commonwealth this word is
@@ -311,10 +311,10 @@ wannabee
 
 (also, more plausibly, spelled wannabe) [from a term recently used to
 describe Madonna fans who dress, talk, and act like their idol; prob.:
-originally from biker slang] A would-be `hacker <../H/hacker.html>`__.
+originally from biker slang] A would-be `hacker <./H.html#hacker.html>`__.
 The connotations of this term differ sharply depending on the age and
 exposure of the subject. Used of a person who is in or might be entering
-`larval stage <../L/larval-stage.html>`__, it is semi-approving; such
+`larval stage <./L.html#larval-stage.html>`__, it is semi-approving; such
 wannabees can be annoying but most hackers remember that they, too, were
 once such creatures. When used of any professional programmer, CS
 academic, writer, or `suit <../S/suit.html>`__, it is derogatory,
@@ -327,7 +327,7 @@ the `wannabee <wannabee.html>`__ nature. Compare
 Historical note: The wannabee phenomenon has a slightly different flavor
 now (1993) than it did ten or fifteen years ago. When the people who are
 now hackerdom's tribal elders were in `larval
-stage <../L/larval-stage.html>`__, the process of becoming a hacker was
+stage <./L.html#larval-stage.html>`__, the process of becoming a hacker was
 largely unconscious and unaffected by models known in popular culture —
 communities formed spontaneously around people who, *as individuals*,
 felt irresistibly drawn to do hackerly things, and what wannabees
@@ -379,7 +379,7 @@ Some of these programs have become quite sophisticated, and can now
 detect modem, fax, or PBX tones and log each one separately. The war
 dialer is one of the most important tools in the
 `phreaker's <../P/phreaker.html>`__ kit. These programs evolved from
-early `demon dialer <../D/demon-dialer.html>`__\ s.
+early `demon dialer <./D.html#demon-dialer.html>`__\ s.
 
 
 
@@ -404,7 +404,7 @@ warez d00dz
 
 **warez d00dz**: /weirz doodz/, n.
 
-A substantial subculture of `crackers <../C/cracker.html>`__ refer
+A substantial subculture of `crackers <./C.html#cracker.html>`__ refer
 to themselves as warez d00dz; there is evidently some connection with
 `B1FF <../B/B1FF.html>`__ here. As ‘Ozone Pilot’, one former warez
 d00d, wrote:
@@ -444,7 +444,7 @@ Pilot acutely observes:
 
 The contrast with Internet hackers is stark and instructive. See
 
-`cracker <../C/cracker.html>`__, `wannabee <wannabee.html>`__, `handle <../H/handle.html>`__, `elite <../E/elite.html>`__, `courier <../C/courier.html>`__, `leech <../L/leech.html>`__; compare `weenie <weenie.html>`__, `spod <../S/spod.html>`__.
+`cracker <./C.html#cracker.html>`__, `wannabee <wannabee.html>`__, `handle <./H.html#handle.html>`__, `elite <./E.html#elite.html>`__, `courier <./C.html#courier.html>`__, `leech <./L.html#leech.html>`__; compare `weenie <weenie.html>`__, `spod <../S/spod.html>`__.
 
 
 
@@ -455,11 +455,11 @@ warez
 
 **warez**: /weirz/, n.
 
-Widely used in `cracker <../C/cracker.html>`__ subcultures to denote
+Widely used in `cracker <./C.html#cracker.html>`__ subcultures to denote
 cracked version of commercial software, that is versions from which
 copy-protection has been stripped. Hackers recognize this term but don't
 use it themselves. See `warez d00dz <warez-d00dz.html>`__,
-`courier <../C/courier.html>`__, `leech <../L/leech.html>`__, `elite <../E/elite.html>`__.
+`courier <./C.html#courier.html>`__, `leech <./L.html#leech.html>`__, `elite <./E.html#elite.html>`__.
 
 
 
@@ -504,7 +504,7 @@ warm boot
 
 **warm boot**: n.
 
-See `boot <../B/boot.html>`__.
+See `boot <./B.html#boot.html>`__.
 
 
 
@@ -515,7 +515,7 @@ wart
 
 **wart**: n.
 
-A small, `crocky <../C/crock.html>`__ `feature <../F/feature.html>`__ that sticks out of an otherwise `clean <../C/clean.html>`__ design. Something conspicuous for
+A small, `crocky <./C.html#crock.html>`__ `feature <./F.html#feature.html>`__ that sticks out of an otherwise `clean <./C.html#clean.html>`__ design. Something conspicuous for
 localized ugliness, especially a special-case exception to a general
 rule. For example, in some versions of csh(1), single quotes literalize
 every character inside them except "!". In ANSI C, the "??" syntax
@@ -536,7 +536,7 @@ media packs — and, of course, they were always set on ‘spin cycle’. The
 washing-machine idiom transcends language barriers; it is even used in
 Russian hacker jargon. See also `walking
 drives <walking-drives.html>`__. The thick channel cables connecting
-these were called bit hoses (see `hose <../H/hose.html>`__, sense 3).
+these were called bit hoses (see `hose <./H.html#hose.html>`__, sense 3).
 
 .. image:: ../_static/76-02-14.png
 
@@ -591,7 +591,7 @@ that one believes to be futile but is nevertheless necessary so that
 others are satisfied that an appropriate degree of effort has been
 expended. “I'll wave a dead chicken over the source code, but I really
 think we've run into an OS bug.” Compare `voodoo
-programming <../V/voodoo-programming.html>`__, `rain dance <../R/rain-dance.html>`__; see also `casting the runes <../C/casting-the-runes.html>`__.
+programming <../V/voodoo-programming.html>`__, `rain dance <../R/rain-dance.html>`__; see also `casting the runes <./C.html#casting-the-runes.html>`__.
 
 
 
@@ -604,7 +604,7 @@ weasel
 
 [Cambridge] A naive user, one who deliberately or accidentally does
 things that are stupid or ill-advised. Roughly synonymous with
-`loser <../L/loser.html>`__.
+`loser <./L.html#loser.html>`__.
 
 
 
@@ -645,7 +645,7 @@ web pointer
 **web pointer**: n.
 
 A World Wide Web `URL <../U/URL.html>`__. See also
-`hotlink <../H/hotlink.html>`__, which has slightly different
+`hotlink <./H.html#hotlink.html>`__, which has slightly different
 connotations.
 
 
@@ -691,11 +691,11 @@ from having crashed. If the system has crashed, it has become totally
 non-functioning. If the system is wedged, it is trying to do something
 but cannot make progress; it may be capable of doing a few things, but
 not be fully operational. For example, a process may become wedged if it
-`deadlocks <../D/deadlock.html>`__ with another (but not all
+`deadlocks <./D.html#deadlock.html>`__ with another (but not all
 instances of wedging are deadlocks). See also
-`gronk <../G/gronk.html>`__, `locked up <../L/locked-up.html>`__,
-`hosed <../H/hosed.html>`__, `hung <../H/hung.html>`__ (wedged is
-more severe than `hung <../H/hung.html>`__).
+`gronk <./G.html#gronk.html>`__, `locked up <./L.html#locked-up.html>`__,
+`hosed <./H.html#hosed.html>`__, `hung <./H.html#hung.html>`__ (wedged is
+more severe than `hung <./H.html#hung.html>`__).
 
 2. Often refers to humans suffering misconceptions. “He's totally wedged
 — he's convinced that he can levitate through meditation.”
@@ -763,7 +763,7 @@ in phrases like “lexical analysis for microcode is serious weeds....”
 
 2. At CDC/ETA before its demise, the phrase go off in the weeds was
 equivalent mainstream hackerdom's `jump off into never-never
-land <../J/jump-off-into-never-never-land.html>`__.
+land <./J.html#jump-off-into-never-never-land.html>`__.
 
 weenie
 =============
@@ -776,11 +776,11 @@ weenie
 version of `B1FF <../B/B1FF.html>`__ that infests many
 `BBS <../B/BBS.html>`__ systems. The typical weenie is a teenage boy
 with poor social skills travelling under a grandiose
-`handle <../H/handle.html>`__ derived from fantasy or heavy-metal rock
+`handle <./H.html#handle.html>`__ derived from fantasy or heavy-metal rock
 lyrics. Among sysops, the weenie problem refers to the marginally
-literate and profanity-laden `flamage <../F/flamage.html>`__ weenies
+literate and profanity-laden `flamage <./F.html#flamage.html>`__ weenies
 tend to spew all over a newly-discovered BBS. Compare
-`spod <../S/spod.html>`__, `geek <../G/geek.html>`__, `terminal
+`spod <../S/spod.html>`__, `geek <./G.html#geek.html>`__, `terminal
 junkie <../T/terminal-junkie.html>`__, `warez
 d00dz <warez-d00dz.html>`__.
 
@@ -792,7 +792,7 @@ herself to be the same sort of weenie. Implies that the weenie has put a
 major investment of time, effort, and concentration into the area
 indicated; whether this is good or bad depends on the hearer's judgment
 of how the speaker feels about that area. See also
-`bigot <../B/bigot.html>`__.
+`bigot <./B.html#bigot.html>`__.
 
 3. The semicolon character, ";" (ASCII 0111011).
 
@@ -836,13 +836,13 @@ W
 effects. Esp.: said of software having an interface spec sufficiently
 simple and well-defined that it can be used as a
 `tool <../T/tool.html>`__ by other software. See
-`cat <../C/cat.html>`__.
+`cat <./C.html#cat.html>`__.
 
-2. Said of an algorithm that doesn't `crash <../C/crash.html>`__ or
-`blow up <../B/blow-up.html>`__, even when given
+2. Said of an algorithm that doesn't `crash <./C.html#crash.html>`__ or
+`blow up <./B.html#blow-up.html>`__, even when given
 `pathological <../P/pathological.html>`__ input. Implies that the
 stability of the algorithm is intrinsic, which makes this somewhat
-different from `bulletproof <../B/bulletproof.html>`__.
+different from `bulletproof <./B.html#bulletproof.html>`__.
 
 
 
@@ -885,7 +885,7 @@ software. “Wetware has 7 plus or minus 2 temporary registers.”
 
 2. Human beings (programmers, operators, administrators) attached to a
 computer system, as opposed to the system's hardware or software. See
-`liveware <../L/liveware.html>`__,
+`liveware <./L.html#liveware.html>`__,
 `meatware <../M/meatware.html>`__.
 
 --------------
@@ -944,9 +944,9 @@ W
 
 **whacker**: n.
 
-[University of Maryland: from `hacker <../H/hacker.html>`__]
+[University of Maryland: from `hacker <./H.html#hacker.html>`__]
 
-1. A person, similar to a `hacker <../H/hacker.html>`__, who enjoys
+1. A person, similar to a `hacker <./H.html#hacker.html>`__, who enjoys
 exploring the details of programmable systems and how to stretch their
 capabilities. Whereas a hacker tends to produce great hacks, a whacker
 only ends up whacking the system or program in question. Whackers are
@@ -969,7 +969,7 @@ According to arch-hacker James Gosling (designer of
 Java), to “...modify a program with no idea whatsoever how it works.”
 (See `whacker <whacker.html>`__.) It is actually possible to do this
 in nontrivial circumstances if the change is small and well-defined and
-you are very good at `glarking <../G/glark.html>`__\ ing things from
+you are very good at `glarking <./G.html#glark.html>`__\ ing things from
 context. As a trivial example, it is relatively easy to change all
 **stderr** writes to **stdout** writes in a piece of C filter code which
 remains otherwise mysterious.
@@ -983,7 +983,7 @@ whales
 **whales**: n.
 
 See `like kicking dead whales down the
-beach <../L/like-kicking-dead-whales-down-the-beach.html>`__.
+beach <./L.html#like-kicking-dead-whales-down-the-beach.html>`__.
 
 
 What's a spline?
@@ -1039,7 +1039,7 @@ unwedge the hung tape drives.” (See `wedged <wedged.html>`__, sense
 `BSD <../B/BSD.html>`__ (to which the major system-internal users like
 `root <../R/root.html>`__ belong) is ‘wheel’. Some vendors have
 expanded on this usage, modifying Unix so that only members of group
-‘wheel’ can `go root <../G/go-root.html>`__.
+‘wheel’ can `go root <./G.html#go-root.html>`__.
 
 
 
@@ -1064,7 +1064,7 @@ Several iterations of this cycle have been observed in
 graphics-processor design, and at least one or two in communications and
 floating-point processors. Also known as the Wheel of Life, the Wheel of
 Samsara, and other variations of the basic Hindu/Buddhist theological
-idea. See also `blitter <../B/blitter.html>`__.
+idea. See also `blitter <./B.html#blitter.html>`__.
 
 
 
@@ -1076,7 +1076,7 @@ wheel wars
 **wheel wars**: n.
 
 [Stanford University] A period in `larval
-stage <../L/larval-stage.html>`__ during which student hackers hassle
+stage <./L.html#larval-stage.html>`__ during which student hackers hassle
 each other by attempting to log each other out of the system, delete
 each other's files, and otherwise wreak havoc, usually at the expense of
 the lesser users.
@@ -1088,7 +1088,7 @@ white hat
 
 **white hat**
 
-See `black hat <../B/black-hat.html>`__.
+See `black hat <./B.html#black-hat.html>`__.
 
 
 
@@ -1112,7 +1112,7 @@ whizzy
 
 **whizzy**: adj.
 
-(alt.: wizzy) [Sun] Describes a `cuspy <../C/cuspy.html>`__ program;
+(alt.: wizzy) [Sun] Describes a `cuspy <./C.html#cuspy.html>`__ program;
 one that is feature-rich and well presented.
 
 
@@ -1166,8 +1166,8 @@ series with **wobble**, **wubble**, and **flob** (attributed to the
 hilarious historical comedy *Blackadder*).
 
 4. A pronunciation of the letters “www”, as seen in URLs; i.e.,
-www.`foo.com <../F/foo.html>`__ may be pronounced “wibble dot foo
-dot com” (compare `dub dub dub <../D/dub-dub-dub.html>`__).
+www.`foo.com <./F.html#foo.html>`__ may be pronounced “wibble dot foo
+dot com” (compare `dub dub dub <./D.html#dub-dub-dub.html>`__).
 
 
 
@@ -1223,7 +1223,7 @@ wild side
 **wild side**
 
 The public or uncontrolled side of a `firewall
-machine <../F/firewall-machine.html>`__.
+machine <./F.html#firewall-machine.html>`__.
 
 
 
@@ -1252,7 +1252,7 @@ win big
 **win big**: vi.
 
 To experience serendipity. “I went shopping and won big; there was a
-2-for-1 sale.” See `big win <../B/big-win.html>`__.
+2-for-1 sale.” See `big win <./B.html#big-win.html>`__.
 
 Winchester
 ==============
@@ -1302,7 +1302,7 @@ borders — now they perfectly match my medium slate blue background.”
 Serious window shoppers will spend their days with bitmap editors,
 creating new and different icons and background patterns for all to see.
 Also: window dressing, the act of applying new fonts, colors, etc. See
-`fritterware <../F/fritterware.html>`__, compare
+`fritterware <./F.html#fritterware.html>`__, compare
 `macdink <../M/macdink.html>`__.
 
 
@@ -1338,7 +1338,7 @@ winged comments
 **winged comments**: n.
 
 Comments set on the same line as code, as opposed to `boxed
-comments <../B/boxed-comments.html>`__. In C, for example::
+comments <./B.html#boxed-comments.html>`__. In C, for example::
  
   d = sqrt(x\*x + y\*y);  /\* distance from origin \*/
 
@@ -1360,12 +1360,12 @@ win
 take exceptions in stride.
 
 2. n. Success, or a specific instance thereof. A pleasing outcome. “So
-it turned out I could use a `lexer <../L/lexer.html>`__ generator
+it turned out I could use a `lexer <./L.html#lexer.html>`__ generator
 instead of hand-coding my own pattern recognizer. What a win!” Emphatic
 forms: moby win, super win, hyper-win (often used interjectively as a
 reply). For some reason suitable win is also common at MIT, usually in
 reference to a satisfactory solution to a problem. Oppose
-`lose <../L/lose.html>`__; see also `big win <../B/big-win.html>`__,
+`lose <./L.html#lose.html>`__; see also `big win <./B.html#big-win.html>`__,
 which isn't quite just an intensification of win.
 
 
@@ -1377,7 +1377,7 @@ winkey
 
 **winkey**: n.
 
-(alt.: winkey face) See `emoticon <../E/emoticon.html>`__.
+(alt.: winkey face) See `emoticon <./E.html#emoticon.html>`__.
 
 
 winnage
@@ -1461,7 +1461,7 @@ wired
 
 **wired**: n.
 
-See `hardwired <../H/hardwired.html>`__.
+See `hardwired <./H.html#hardwired.html>`__.
 
 
 
@@ -1522,7 +1522,7 @@ within delta of
 
 **within delta of**: adj.
 
-See `delta <../D/delta.html>`__.
+See `delta <./D.html#delta.html>`__.
 
 
 within epsilon of
@@ -1532,7 +1532,7 @@ within epsilon of
 
 **within epsilon of**: adj.
 
-See `epsilon <../E/epsilon.html>`__.
+See `epsilon <./E.html#epsilon.html>`__.
 
 
 
@@ -1547,7 +1547,7 @@ Wizard Book
 Sussman and Julie Sussman; MIT Press, 1984, 1996; ISBN 0-262-01153-0),
 an excellent computer science text used in introductory courses at MIT.
 So called because of the wizard on the jacket. One of the
-`bibles <../B/bible.html>`__ of the LISP/Scheme world. Also, less
+`bibles <./B.html#bible.html>`__ of the LISP/Scheme world. Also, less
 commonly, known as the `Purple Book <../P/Purple-Book.html>`__. Now
 available on the `http://mitpress.mit.edu/sicp/ <http://mitpress.mit.edu/sicp/>`__
 
@@ -1581,9 +1581,9 @@ wizard
 **wizard**: n.
 
 1. Transitively, a person who knows how a complex piece of software or
-hardware works (that is, who `groks <../G/grok.html>`__ it); esp.
+hardware works (that is, who `groks <./G.html#grok.html>`__ it); esp.
 someone who can find and fix bugs quickly in an emergency. Someone is a
-`hacker <../H/hacker.html>`__ if he or she has general hacking
+`hacker <./H.html#hacker.html>`__ if he or she has general hacking
 ability, but is a wizard with respect to something only if he or she has
 specific detailed knowledge of that thing. A good hacker could become a
 wizard for something given the time to study it.
@@ -1598,10 +1598,10 @@ one who has `wheel <wheel.html>`__ privileges on a system.
 enough established that ‘Unix Wizard’ is a recognized job title at some
 corporations and to most headhunters.
 
-See `guru <../G/guru.html>`__, `lord high fixer <../L/lord-high-fixer.html>`__. See also `deep
-magic <../D/deep-magic.html>`__, `heavy
-wizardry <../H/heavy-wizardry.html>`__,
-`incantation <../I/incantation.html>`__,
+See `guru <./G.html#guru.html>`__, `lord high fixer <./L.html#lord-high-fixer.html>`__. See also `deep
+magic <./D.html#deep-magic.html>`__, `heavy
+wizardry <./H.html#heavy-wizardry.html>`__,
+`incantation <./I.html#incantation.html>`__,
 `magic <../M/magic.html>`__, `mutter <../M/mutter.html>`__, `rain
 dance <../R/rain-dance.html>`__, `voodoo
 programming <../V/voodoo-programming.html>`__, `wave a dead
@@ -1614,7 +1614,7 @@ wizardly
 
 **wizardly**: adj.
 
-Pertaining to wizards. A wizardly `feature <../F/feature.html>`__ is
+Pertaining to wizards. A wizardly `feature <./F.html#feature.html>`__ is
 one that only a wizard could understand or use properly.
 
 
@@ -1657,7 +1657,7 @@ WOMBAT
 are both profoundly `uninteresting <../U/uninteresting.html>`__ in
 themselves and unlikely to benefit anyone interesting even if solved.
 Often used in fanciful constructions such as wrestling with a wombat.
-See also `crawling horror <../C/crawling-horror.html>`__,
+See also `crawling horror <./C.html#crawling-horror.html>`__,
 `SMOP <../S/SMOP.html>`__. Also note the rather different usage as a
 metasyntactic variable in `Commonwealth
 Hackish <../C/Commonwealth-Hackish.html>`__.
@@ -1690,7 +1690,7 @@ womble
 
 [Unisys UK: from British puppet-show characters] A user who has great
 difficulty in communicating their requirements and/or in using the
-resulting software. Extreme case of `luser <../L/luser.html>`__. An
+resulting software. Extreme case of `luser <./L.html#luser.html>`__. An
 especially senior or high-ranking womble is referred to as Great-Uncle
 Bulgaria. Compare `Aunt Tillie <../A/Aunt-Tillie.html>`__.
 
@@ -1702,12 +1702,12 @@ wonky
 **wonky**: /wong´kee/, adj.
 
 [from Australian slang] Yet another approximate synonym for
-`broken <../B/broken.html>`__. Specifically connotes a malfunction
+`broken <./B.html#broken.html>`__. Specifically connotes a malfunction
 that produces behavior seen as crazy, humorous, or amusingly perverse.
 “That was the day the printer's font logic went wonky and everybody's
 listings came out in Tengwar.” Also in wonked out. See
-`funky <../F/funky.html>`__, `demented <../D/demented.html>`__,
-`bozotic <../B/bozotic.html>`__.
+`funky <./F.html#funky.html>`__, `demented <./D.html#demented.html>`__,
+`bozotic <./B.html#bozotic.html>`__.
 
 
 
@@ -1718,10 +1718,10 @@ workaround
 
 **workaround**: n.
 
-1. A temporary `kluge <../K/kluge.html>`__ used to bypass, mask, or
-otherwise avoid a `bug <../B/bug.html>`__ or
+1. A temporary `kluge <./K.html#kluge.html>`__ used to bypass, mask, or
+otherwise avoid a `bug <./B.html#bug.html>`__ or
 `misfeature <../M/misfeature.html>`__ in some system. Theoretically,
-workarounds are always replaced by `fix <../F/fix.html>`__\ es; in
+workarounds are always replaced by `fix <./F.html#fix.html>`__\ es; in
 practice, customers often find themselves living with workarounds for
 long periods of time. “The code died on NUL characters in the input, so
 I fixed it to interpret them as spaces.” “That's not a fix, that's a
@@ -1729,9 +1729,9 @@ workaround!”
 
 2. A procedure to be employed by the user in order to do what some
 currently non-working feature should do. Hypothetical example: “Using
-META-F7 `crash <../C/crash.html>`__\ es the 4.43 build of Weemax, but
+META-F7 `crash <./C.html#crash.html>`__\ es the 4.43 build of Weemax, but
 as a workaround you can type CTRL-R, then SHIFT-F5, and delete the
-remaining `cruft <../C/cruft.html>`__ by hand.”
+remaining `cruft <./C.html#cruft.html>`__ by hand.”
 
 
 working as designed
@@ -1795,7 +1795,7 @@ link to join two or more amateur VHF networks. So called because traffic
 routed through a wormhole leaves and re-enters the amateur network over
 great distances with usually little clue in the message routing header
 as to how it got from one relay to the other. Compare `gopher
-hole <../G/gopher-hole.html>`__ (sense 2).
+hole <./G.html#gopher-hole.html>`__ (sense 2).
 
 --------------
 
@@ -1822,12 +1822,12 @@ W
 PARC] A program that propagates itself over a network, reproducing
 itself as it goes. Compare `virus <../V/virus.html>`__. Nowadays the
 term has negative connotations, as it is assumed that only
-`cracker <../C/cracker.html>`__\ s write worms. Perhaps the best-known
+`cracker <./C.html#cracker.html>`__\ s write worms. Perhaps the best-known
 example was Robert T. Morris's `Great Worm <../G/Great-Worm.html>`__
 of 1988, a ‘benign’ one that got out of control and hogged hundreds of
 Suns and VAXen across the U.S. See also
-`cracker <../C/cracker.html>`__, `RTM <../R/RTM.html>`__, `Trojan
-horse <../T/Trojan-horse.html>`__, `ice <../I/ice.html>`__.
+`cracker <./C.html#cracker.html>`__, `RTM <../R/RTM.html>`__, `Trojan
+horse <../T/Trojan-horse.html>`__, `ice <./I.html#ice.html>`__.
 
 --------------
 
@@ -1876,7 +1876,7 @@ W
 (also n. wraparound and v. shorthand wrap)
 
 1. [techspeak] The action of a counter that starts over at zero or at
-minus infinity (see `infinity <../I/infinity.html>`__) after its
+minus infinity (see `infinity <./I.html#infinity.html>`__) after its
 maximum value has been reached, and continues incrementing, either
 because it is programmed to do so or because of an overflow (as when a
 car's odometer starts over at 0).
@@ -1996,7 +1996,7 @@ W
 **wugga wugga**: /wuh´g@ wuh´g@/, n.
 
 Imaginary sound that a computer program makes as it labors with a
-tedious or difficult task.\ `grind <../G/grind.html>`__ (sense 4).
+tedious or difficult task.\ `grind <./G.html#grind.html>`__ (sense 4).
 
 
 wumpus

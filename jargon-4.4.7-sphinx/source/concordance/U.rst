@@ -12,9 +12,9 @@ UBD
 [abbreviation for ‘User Brain Damage’] An abbreviation used to close out
 trouble reports obviously due to utter cluelessness on the user's part.
 Compare `pilot error <../P/pilot-error.html>`__,
-`PEBKAC <../P/PEBKAC.html>`__, `ID10T <../I/idiot.html>`__; oppose
+`PEBKAC <../P/PEBKAC.html>`__, `ID10T <./I.html#idiot.html>`__; oppose
 `PBD <../P/PBD.html>`__; see also
-`brain-damaged <../B/brain-damaged.html>`__.
+`brain-damaged <./B.html#brain-damaged.html>`__.
 
  
 
@@ -39,11 +39,11 @@ ubergeek
 **ubergeek**: n., /oo´ber·geek/
 
 [common; often spelled with initial ü; from German über +
-`geek <../G/geek.html>`__] Almost synonymous with
-`demigod <../D/demigod.html>`__; used as a compliment of someone
-regarded as a paragon of `geek <../G/geek.html>`__ achievement and
+`geek <./G.html#geek.html>`__] Almost synonymous with
+`demigod <./D.html#demigod.html>`__; used as a compliment of someone
+regarded as a paragon of `geek <./G.html#geek.html>`__ achievement and
 virtue. Has partially replaced earlier
-`demigod <../D/demigod.html>`__.
+`demigod <./D.html#demigod.html>`__.
  
 
 UCE
@@ -99,7 +99,7 @@ legal force, but the asterisk usage is entrenched anyhow. It has been
 suggested that there may be a psychological connection to practice in
 certain religions (especially Judaism) in which the name of the deity is
 never written out in full, e.g., ‘YHWH’ or ‘G--d’ is used. See also
-`glob <../G/glob.html>`__ and `splat out <../S/splat-out.html>`__.
+`glob <./G.html#glob.html>`__ and `splat out <../S/splat-out.html>`__.
 
 
 undefined external reference
@@ -124,7 +124,7 @@ under the hood
 1. Used to introduce the underlying implementation of a product
 (hardware, software, or idea). Implies that the implementation is not
 intuitively obvious from the appearance, but the speaker is about to
-enable the listener to `grok <../G/grok.html>`__ it. “Let's now look
+enable the listener to `grok <./G.html#grok.html>`__ it. “Let's now look
 under the hood to see how ....”
 
 2. Can also imply that the implementation is much simpler than the
@@ -140,7 +140,7 @@ undocumented feature
 
 **undocumented feature**: n.
 
-See `feature <../F/feature.html>`__.
+See `feature <./F.html#feature.html>`__.
 
  
 
@@ -166,7 +166,7 @@ occasionally turning a molehill into a mountain, or a mountain into a
 tectonic plate). See `WOMBAT <../W/WOMBAT.html>`__,
 `SMOP <../S/SMOP.html>`__; compare `toy
 problem <../T/toy-problem.html>`__, oppose
-`interesting <../I/interesting.html>`__.
+`interesting <./I.html#interesting.html>`__.
 
  
 
@@ -186,11 +186,11 @@ not. Unix brain damage happens because it is much easier for other
 than it is to change all the hundreds of thousands of Unix systems out
 there.
 
-An example of Unix brain damage is a `kluge <../K/kluge.html>`__ in a
+An example of Unix brain damage is a `kluge <./K.html#kluge.html>`__ in a
 mail server to recognize bare line feed (the Unix newline) as an
 equivalent form to the Internet standard newline, which is a carriage
 return followed by a line feed. Such things can make even a hardened
-`jock <../J/jock.html>`__ weep.
+`jock <./J.html#jock.html>`__ weep.
 
  
 
@@ -209,7 +209,7 @@ control. This would be accomplished by disseminating an operating system
 that is apparently inexpensive and easily portable, but also relatively
 unreliable and insecure (so as to require continuing upgrades from
 AT&T). This theory was lent a substantial impetus in 1984 by the paper
-referenced in the `back door <../B/back-door.html>`__ entry.
+referenced in the `back door <./B.html#back-door.html>`__ entry.
 
 In this view, Unix was designed to be one of the first computer viruses
 (see `virus <../V/virus.html>`__) — but a virus spread to computers
@@ -365,7 +365,7 @@ up
 **up**: adj.
 
 1. Working, in order. “The down escalator is up.” Oppose
-`down <../D/down.html>`__.
+`down <./D.html#down.html>`__.
 
 2. bring up: vt. To create a working version and start it. “They brought
 up a down system.”
@@ -384,7 +384,7 @@ upload
 communications link from a system near you (especially a smaller or
 peripheral client system) to one further away from you (especially a
 larger or central host system). A transfer in the other direction is, of
-course, called a `download <../D/download.html>`__
+course, called a `download <./D.html#download.html>`__
 
 2. [speculatively] To move the essential patterns and algorithms that
 make up one's mind from one's brain into a computer. Those who are
@@ -416,7 +416,7 @@ upthread
 
 Earlier in the discussion (see `thread <../T/thread.html>`__), i.e.,
 ‘above’. “As Joe pointed out upthread, ...” See also
-`followup <../F/followup.html>`__.
+`followup <./F.html#followup.html>`__.
 
  
 
@@ -478,7 +478,7 @@ Usenet
 
 [from ‘Users' Network’; the original spelling was USENET, but the
 mixed-case form is now widely preferred] A distributed
-`bboard <../B/bboard.html>`__ (bulletin board) system supported mainly
+`bboard <./B.html#bboard.html>`__ (bulletin board) system supported mainly
 by Unix machines. Originally implemented in 1979--1980 by Steve
 Bellovin, Jim Ellis, Tom Truscott, and Steve Daniel at Duke University
 and the University of North Carolina, it has swiftly grown to become
@@ -486,7 +486,7 @@ international in scope and is now probably the largest decentralized
 information utility in existence. As of late 2002, it hosts over 100,000
 `newsgroup <../N/newsgroup.html>`__\ s and an unguessably huge volume
 of new technical articles, news, discussion, chatter, and
-`flamage <../F/flamage.html>`__ every day (and that leaves out the
+`flamage <./F.html#flamage.html>`__ every day (and that leaves out the
 graphics...).
 
 By the year the Internet hit the mainstream (1994) the original UUCP
@@ -508,7 +508,7 @@ Programmer-hostile. Generally used by hackers in a critical tone, to
 describe systems that hold the user's hand so obsessively that they make
 it painful for the more experienced and knowledgeable to get any work
 done. See `menuitis <../M/menuitis.html>`__, `drool-proof
-paper <../D/drool-proof-paper.html>`__,
+paper <./D.html#drool-proof-paper.html>`__,
 `Macintrash <../M/Macintrash.html>`__,
 `user-obsequious <user-obsequious.html>`__.
 
@@ -530,7 +530,7 @@ users ask questions (of necessity). Sometimes they are thoughtful or
 deep. Very often they are annoying or downright stupid, apparently
 because the user failed to think for two seconds or look in the
 documentation before bothering the maintainer.] See
-`luser <../L/luser.html>`__.
+`luser <./L.html#luser.html>`__.
 
 3. Someone who uses a program from the outside, however skillfully,
 without getting into the internals of the program. One who reports bugs
@@ -538,7 +538,7 @@ instead of just going ahead and fixing them.
 
 The general theory behind this term is that there are two classes of
 people who work with a program: there are implementors (hackers) and
-`luser <../L/luser.html>`__\ s. The users are looked down on by
+`luser <./L.html#luser.html>`__\ s. The users are looked down on by
 hackers to some extent because they don't understand the full
 ramifications of the system in all its glory. (The few users who do are
 known as real winners.) The term is a relative one: a skilled hacker may
@@ -594,7 +594,7 @@ model is trivial to render and thus is often not suited to demonstrate
 the complexity of modern research. Despite this, the tea pot still
 appears, now and then, in recent papers. More on the teapot's history
 lives at `The History Of The Teapot <http://www.sjbaker.org/teapot/>`__.
-Compare `lenna <../L/lenna.html>`__, `Stanford
+Compare `lenna <./L.html#lenna.html>`__, `Stanford
 Bunny <../S/Stanford-Bunny.html>`__
 
  
@@ -613,7 +613,7 @@ making yet another futile pass through the manuals, or broadcasting
 questions on Usenet that haven't attracted
 `wizard <../W/wizard.html>`__\ s to answer them.
 
-Once upon a time in `elder days <../E/elder-days.html>`__, everyone
+Once upon a time in `elder days <./E.html#elder-days.html>`__, everyone
 running Unix had source. After 1978, AT&T's policy tightened up, so this
 objurgation was in theory appropriately directed only at associates of
 some outfit with a Unix source license. In practice, bootlegs of Unix
@@ -635,7 +635,7 @@ UUOC
 **UUOC**
 
 [from the comp.unix.shell group on Usenet] Stands for Useless Use of
-`cat <../C/cat.html>`__; the reference is to the Unix command cat(1),
+`cat <./C.html#cat.html>`__; the reference is to the Unix command cat(1),
 not the feline animal. As received wisdom on comp.unix.shell observes,
 “The purpose of cat is to concatenate (or ‘catenate’) files. If it's
 only one file, concatenating it with nothing at all is a waste of time,

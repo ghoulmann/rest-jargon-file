@@ -22,7 +22,7 @@ take the string text from the instruction stream, thus a print call
 looks like **jsr print:"Hello world"**. The print routine has to nadger
 the saved instruction pointer so that the processor doesn't try to
 execute the text as instructions when the subroutine returns. See
-`adger <../A/adger.html>`__.
+`adger <./A.html#adger.html>`__.
 
 --------------
 
@@ -48,8 +48,8 @@ N
 displays a large screen at the beginning or end reminding you to
 register, typically requiring some sort of keystroke to continue so that
 you can't use the software in batch mode. Compare
-`annoyware <../A/annoyware.html>`__,
-`crippleware <../C/crippleware.html>`__.
+`annoyware <./A.html#annoyware.html>`__,
+`crippleware <./C.html#crippleware.html>`__.
 
 --------------
 
@@ -95,7 +95,7 @@ N
 **nailing jelly**: vi.
 
 See `like nailing jelly to a
-tree <../L/like-nailing-jelly-to-a-tree.html>`__.
+tree <./L.html#like-nailing-jelly-to-a-tree.html>`__.
 
 --------------
 
@@ -127,13 +127,13 @@ computing that the natural opposite of this term is often claimed to be
 experienced user but is really more like cynical user.
 
 2. Said of an algorithm that doesn't take advantage of some superior but
-advanced technique, e.g., the `bubble sort <../B/bubble-sort.html>`__.
+advanced technique, e.g., the `bubble sort <./B.html#bubble-sort.html>`__.
 It may imply naivete on the part of the programmer, although there are
 situations where a naive algorithm is preferred, because it is more
 important to keep the code comprehensible than to go for maximum
 performance. “I know the linear search is naive, but in this case the
 list typically only has half a dozen items.” Compare `brute
-force <../B/brute-force.html>`__.
+force <./B.html#brute-force.html>`__.
 
 --------------
 
@@ -155,7 +155,7 @@ N
 
 **naive user**: n.
 
-A `luser <../L/luser.html>`__. Tends to imply someone who is ignorant
+A `luser <./L.html#luser.html>`__. Tends to imply someone who is ignorant
 mainly owing to inexperience. When this is applied to someone who *has*
 experience, there is a definite implication of stupidity.
 
@@ -221,7 +221,7 @@ would refer to "news.admin.net-abuse.usenet".
 
 When spam began to be a serious problem around 1995, and a loose network
 of anti-spammers formed to combat it, spammers immediately accused them
-of being the `backbone cabal <../B/backbone-cabal.html>`__, or the
+of being the `backbone cabal <./B.html#backbone-cabal.html>`__, or the
 Cabal reborn. Though this was not true, spam-fighters ironically
 accepted the label and the tag line “There is No Cabal” reappeared
 (later, and now commonly, abbreviated to “TINC”). Nowadays “the Cabal”
@@ -324,7 +324,7 @@ N
 [Adelaide University] 1 fortnight "×    10-9", or about 1.2 msec. This
 unit was used largely by students doing undergraduate practicals. See
 `microfortnight <../M/microfortnight.html>`__,
-`attoparsec <../A/attoparsec.html>`__, and
+`attoparsec <./A.html#attoparsec.html>`__, and
 `micro- <../M/micro-.html>`__.
 
 --------------
@@ -382,7 +382,7 @@ N
 [CMU: from nanosecond] A brief period of time. “Be with you in a nano”
 means you really will be free shortly, i.e., implies what mainstream
 people mean by “in a jiffy” (whereas the hackish use of ‘jiffy’ is quite
-different — see `jiffy <../J/jiffy.html>`__).
+different — see `jiffy <./J.html#jiffy.html>`__).
 
 --------------
 
@@ -416,8 +416,8 @@ that nanotechnology could give rise to replicating assemblers,
 permitting an exponential growth of productivity and personal wealth
 (there's an authorized transcription at
 `http://www.foresight.org/EOC/index.html <http://www.foresight.org/EOC/index.html>`__).
-See also `blue goo <../B/blue-goo.html>`__, `gray
-goo <../G/gray-goo.html>`__, `nanobot <nanobot.html>`__.
+See also `blue goo <./B.html#blue-goo.html>`__, `gray
+goo <./G.html#gray-goo.html>`__, `nanobot <nanobot.html>`__.
 
 --------------
 
@@ -494,7 +494,7 @@ N
 **nastygram**: /nas´tee·gram/, n.
 
 1. A protocol packet or item of email (the latter is also called a
-`letterbomb <../L/letterbomb.html>`__) that takes advantage of
+`letterbomb <./L.html#letterbomb.html>`__) that takes advantage of
 misfeatures or security holes on the target system to do untoward
 things.
 
@@ -508,8 +508,8 @@ Compare `shitogram <../S/shitogram.html>`__,
 “What'd Corporate say in today's nastygram?”
 
 4. [deprecated] An error reply by mail from a
-`daemon <../D/daemon.html>`__; in particular, a `bounce
-message <../B/bounce-message.html>`__.
+`daemon <./D.html#daemon.html>`__; in particular, a `bounce
+message <./B.html#bounce-message.html>`__.
 
 --------------
 
@@ -558,7 +558,7 @@ N
 
 **nature**: n.
 
-See `has the X nature <../H/has-the-X-nature.html>`__.
+See `has the X nature <./H.html#has-the-X-nature.html>`__.
 
 --------------
 
@@ -587,7 +587,7 @@ N
 2. A brilliant practical joke, where neatness is correlated with
 cleverness, harmlessness, and surprise value. Example: the Caltech Rose
 Bowl card display switch (see `Appendix A <../appendixa.html>`__ for
-discussion). See also `hack <../H/hack.html>`__.
+discussion). See also `hack <./H.html#hack.html>`__.
 
 --------------
 
@@ -610,7 +610,7 @@ N
 **neats vs. scruffies**: n.
 
 The label used to refer to one of the continuing `holy
-wars <../H/holy-wars.html>`__ in AI research. This conflict tangles
+wars <./H.html#holy-wars.html>`__ in AI research. This conflict tangles
 together two separate issues. One is the relationship between human
 reasoning and AI; ‘neats’ tend to try to build systems that ‘reason’ in
 some way identifiably similar to the way humans report themselves as
@@ -645,7 +645,7 @@ N
 
 [onomatopoeic, widely spread through SF fandom but reported to have
 originated at Caltech in the 1970s] One who is fascinated by computers.
-Less specific than `hacker <../H/hacker.html>`__, as it need not imply
+Less specific than `hacker <./H.html#hacker.html>`__, as it need not imply
 more skill than is required to play games on a PC. The derived noun
 neeping applies specifically to the long conversations about computers
 that tend to develop in the corners at most SF-convention parties (the
@@ -676,7 +676,7 @@ The trait of being excited and pleased by novelty. Common among most
 hackers, SF fans, and members of several other connected leading-edge
 subcultures, including the pro-technology ‘Whole Earth’ wing of the
 ecology movement, space activists, many members of Mensa, and the
-Discordian/neo-pagan underground (see `geek <../G/geek.html>`__). All
+Discordian/neo-pagan underground (see `geek <./G.html#geek.html>`__). All
 these groups overlap heavily and (where evidence is available) seem to
 share characteristic hacker tropisms for science fiction,
 `music <../M/music.html>`__, and `oriental
@@ -708,14 +708,14 @@ IQ and few gifts at small talk and ordinary social rituals.
 2. [jargon] Term of praise applied (in conscious ironic reference to
 sense 1) to someone who knows what's really important and interesting
 and doesn't care to be distracted by trivial chatter and silly status
-games. Compare `geek <../G/geek.html>`__.
+games. Compare `geek <./G.html#geek.html>`__.
 
 The word itself appears to derive from the lines “And then, just to show
 them, I'll sail to Ka-Troo / And Bring Back an It-Kutch, a Preep and a
 Proo, / A Nerkle, a Nerd, and a Seersucker, too!” in the Dr. Seuss book
 *If I Ran the Zoo* (1950). (The spellings ‘nurd’ and ‘gnurd’ also used
 to be current at MIT, where ‘nurd’ is reported from as far back as 1957;
-however, `knurd <../K/knurd.html>`__ appears to have a separate
+however, `knurd <./K.html#knurd.html>`__ appears to have a separate
 etymology.) How it developed its mainstream meaning is unclear, but
 sense 1 seems to have entered mass culture in the early 1970s (there are
 reports that in the mid-1960s it meant roughly “annoying misfit” without
@@ -751,7 +751,7 @@ be used by an extremely experienced user to tweak a setting of one sort
 or another - a setting which the average user may not even know exists.
 Nerd knobs tend to be toggles, turning on or off a particular, specific,
 narrowly defined behavior. Special case of
-`knobs <../K/knobs.html>`__.
+`knobs <./K.html#knobs.html>`__.
 
 --------------
 
@@ -804,7 +804,7 @@ N
 [IRC] The state of someone who signs off `IRC <../I/IRC.html>`__,
 perhaps during a `netburp <netburp.html>`__, and doesn't sign back on
 until later. In the interim, he is “dead to the net”. Compare
-`link-dead <../L/link-dead.html>`__.
+`link-dead <./L.html#link-dead.html>`__.
 
 --------------
 
@@ -830,7 +830,7 @@ Accolade referring to anyone who satisfies some combination of the
 following conditions: has been visible on Usenet for more than 5 years,
 ran one of the original backbone sites, moderated an important
 newsgroup, wrote news software, or knows Gene, Mark, Rick, Mel, Henry,
-Chuq, and Greg personally. See `demigod <../D/demigod.html>`__.
+Chuq, and Greg personally. See `demigod <./D.html#demigod.html>`__.
 Net.goddesses such as Rissa or the Slime Sisters have (so far) been
 distinguished more by personality than by authority.
 
@@ -891,8 +891,8 @@ From the time before the `Great
 Renaming <../G/Great-Renaming.html>`__, when most non-local newsgroups
 had names beginning “net.”. Includes `net.god <net-god.html>`__\ s,
 net.goddesses (various charismatic net.women with circles of on-line
-admirers), net.lurkers (see `lurker <../L/lurker.html>`__),
-net.person, net.parties (a synonym for `boink <../B/boink.html>`__,
+admirers), net.lurkers (see `lurker <./L.html#lurker.html>`__),
+net.person, net.parties (a synonym for `boink <./B.html#boink.html>`__,
 sense 2), and many similar constructs. See also
 `net.police <net-police.html>`__.
 
@@ -1021,11 +1021,11 @@ N
 **net.police**: /net·p@·lees'/, n.
 
 (var.: net.cops) Those Usenet readers who feel it is their
-responsibility to pounce on and `flame <../F/flame.html>`__ any
+responsibility to pounce on and `flame <./F.html#flame.html>`__ any
 posting which they regard as offensive or in violation of their
 understanding of `netiquette <netiquette.html>`__. Generally used
 sarcastically or pejoratively. Also spelled ‘net police’. See also
-`net.- <net--.html>`__, `code police <../C/code-police.html>`__.
+`net.- <net--.html>`__, `code police <./C.html#code-police.html>`__.
 
 --------------
 
@@ -1122,7 +1122,7 @@ N
 
 (also net address) As used by hackers, means an address on ‘the’ network
 (see `the network <../T/the-network.html>`__; this used to include
-`bang path <../B/bang-path.html>`__ addresses but now always implies
+`bang path <./B.html#bang-path.html>`__ addresses but now always implies
 an Internet address). Net addresses are often used in email text as a
 more concise substitute for personal names; indeed, hackers may come to
 know each other quite well by network names without ever learning each
@@ -1156,8 +1156,8 @@ N
 A state of complete network overload; the network equivalent of
 `thrash <../T/thrash.html>`__\ ing. This may be induced by a
 `Chernobyl packet <../C/Chernobyl-packet.html>`__. See also
-`broadcast storm <../B/broadcast-storm.html>`__, `kamikaze
-packet <../K/kamikaze-packet.html>`__.
+`broadcast storm <./B.html#broadcast-storm.html>`__, `kamikaze
+packet <./K.html#kamikaze-packet.html>`__.
 
 Network meltdown is often a result of network designs that are optimized
 for a steady state of moderate load and don't cope well with the very
@@ -1198,8 +1198,8 @@ in one newsgroup while remaining a respected regular in another. The
 label newbie is sometimes applied as a serious insult to a person who
 has been around Usenet for a long time but who carefully hides all
 evidence of having a clue. See `B1FF <../B/B1FF.html>`__; see also
-`gnubie <../G/gnubie.html>`__. Compare
-`chainik <../C/chainik.html>`__, `luser <../L/luser.html>`__.
+`gnubie <./G.html#gnubie.html>`__. Compare
+`chainik <./C.html#chainik.html>`__, `luser <./L.html#luser.html>`__.
 
 --------------
 
@@ -1232,7 +1232,7 @@ names of newsgroups themselves become a form of comment or humor; e.g.,
 the group "alt.swedish.chef.bork.bork.bork" which originated as a
 birthday joke for a Muppets fan, or any number of specialized abuse
 groups named after particularly notorious
-`flamer <../F/flamer.html>`__\ s, e.g., "alt.weemba".
+`flamer <./F.html#flamer.html>`__\ s, e.g., "alt.weemba".
 
 --------------
 
@@ -1289,7 +1289,7 @@ general computing world before Unix.
 
 2. More generally, any magic character, character sequence, or operation
 (like Pascal's writeln procedure) required to terminate a text record or
-separate lines. See `crlf <../C/crlf.html>`__.
+separate lines. See `crlf <./C.html#crlf.html>`__.
 
 --------------
 
@@ -1313,9 +1313,9 @@ N
 
 [Usenet] Silly synonym for `newsgroup <newsgroup.html>`__, originally
 a typo but now in regular use on Usenet's talk.bizarre, and other
-lunatic-fringe groups. Compare `hing <../H/hing.html>`__,
-`grilf <../G/grilf.html>`__, `pr0n <../P/pr0n.html>`__ and
-`filk <../F/filk.html>`__.
+lunatic-fringe groups. Compare `hing <./H.html#hing.html>`__,
+`grilf <./G.html#grilf.html>`__, `pr0n <../P/pr0n.html>`__ and
+`filk <./F.html#filk.html>`__.
 
 --------------
 
@@ -1338,7 +1338,7 @@ N
 **newsgroup**: n.
 
 [Usenet] One of `Usenet <../U/Usenet.html>`__'s huge collection of
-topic groups or `fora <../F/fora.html>`__. Usenet groups can be
+topic groups or `fora <./F.html#fora.html>`__. Usenet groups can be
 unmoderated (anyone can post) or moderated (submissions are
 automatically directed to a moderator, who edits or filters and then
 posts the results). Some newsgroups have parallel `mailing
@@ -1353,7 +1353,7 @@ Among the best-known are "comp.lang.c" (the C-language forum),
 "comp.arch" (on computer architectures), "comp.unix.wizards" (for
 Unix wizards), "rec.arts.sf.written" and siblings (for science-fiction
 fans), and "talk.politics.misc" (miscellaneous political discussions
-and `flamage <../F/flamage.html>`__).
+and `flamage <./F.html#flamage.html>`__).
 
 --------------
 
@@ -1442,7 +1442,7 @@ understood to mean however many people there are at the table. From the
 remark “We'd like to order "N" wonton soups and a family dinner for
 "N - 1"\ ” you can deduce that one person at the table wants to eat
 only soup, even though you don't know how many people there are (see
-`great-wall <../G/great-wall.html>`__).
+`great-wall <./G.html#great-wall.html>`__).
 
 3. "Nth": adj. The ordinal counterpart of "N", senses 1 and 2.
 
@@ -1476,7 +1476,7 @@ N
 [IRC; very common] Short for nickname. On `IRC <../I/IRC.html>`__,
 every user must pick a nick, which is sometimes the same as the user's
 real name or login name, but is often more fanciful. Compare
-`handle <../H/handle.html>`__, `screen
+`handle <./H.html#handle.html>`__, `screen
 name <../S/screen-name.html>`__.
 
 --------------
@@ -1503,7 +1503,7 @@ N
 `nybble <nybble.html>`__ + 1; 5 bits. Reported among developers for
 Mattel's GI 1600 (the Intellivision games processor), a chip with
 16-bit-wide RAM but 10-bit-wide ROM. See also
-`deckle <../D/deckle.html>`__, and `nybble <nybble.html>`__ for
+`deckle <./D.html#deckle.html>`__, and `nybble <nybble.html>`__ for
 names of other bit units.
 
 --------------
@@ -1545,7 +1545,7 @@ great feature (critics, of course, call it a great
 `misfeature <../M/misfeature.html>`__). (ITS partisans are apt to cite
 this as proof of Unix's alleged bogosity; ITS had a working NFS-like
 shared file system with none of these problems in the early 1970s.) See
-also `broadcast storm <../B/broadcast-storm.html>`__.
+also `broadcast storm <./B.html#broadcast-storm.html>`__.
 
 --------------
 
@@ -1678,7 +1678,7 @@ Non-Maskable Interrupt. An IRQ 7 on the `PDP-11 <../P/PDP-11.html>`__
 or 680[01234]0; the NMI line on an 80[1234]86. In contrast with a
 `priority interrupt <../P/priority-interrupt.html>`__ (which might be
 ignored, although that is unlikely), an NMI is *never* ignored. Except,
-that is, on `clone <../C/clone.html>`__ boxes, where NMI is often
+that is, on `clone <./C.html#clone.html>`__ boxes, where NMI is often
 ignored on the motherboard because flaky hardware can generate many
 spurious ones.
 
@@ -1706,17 +1706,17 @@ N
 
 1. Small and un-useful, but demonstrating a point. Noddy programs are
 often written by people learning a new language or system. The
-archetypal noddy program is `hello world <../H/hello-world.html>`__.
+archetypal noddy program is `hello world <./H.html#hello-world.html>`__.
 Noddy code may be used to demonstrate a feature or bug of a compiler.
 May be used of real hardware or software to imply that it isn't worth
 using. “This editor's a bit noddy.”
 
 2. A program that is more or less instant to produce. In this use, the
 term does not necessarily connote uselessness, but describes a
-`hack <../H/hack.html>`__ sufficiently trivial that it can be written
+`hack <./H.html#hack.html>`__ sufficiently trivial that it can be written
 and debugged while carrying on (and during the space of) a normal
 conversation. “I'll just throw together a noddy
-`awk <../A/awk.html>`__ script to dump all the first fields.” In North
+`awk <./A.html#awk.html>`__ script to dump all the first fields.” In North
 America this might be called a `mickey mouse
 program <../M/mickey-mouse-program.html>`__. See `toy
 program <../T/toy-program.html>`__.
@@ -1751,7 +1751,7 @@ may be triggered when a more mundane bug sends the computation far off
 from its expected course.
 
 2. When describing the behavior of a person, suggests a tantrum or a
-`flame <../F/flame.html>`__. “When you talk to Bob, don't mention the
+`flame <./F.html#flame.html>`__. “When you talk to Bob, don't mention the
 drug problem or he'll go nonlinear for hours.” In this context, go
 nonlinear connotes ‘blow up out of proportion’ (proportion connotes
 linearity).
@@ -1808,7 +1808,7 @@ impractical, or even entirely unsolvable (“Proving P=NP is nontrivial”).
 The preferred emphatic form is decidedly nontrivial. See
 `trivial <../T/trivial.html>`__,
 `uninteresting <../U/uninteresting.html>`__,
-`interesting <../I/interesting.html>`__.
+`interesting <./I.html#interesting.html>`__.
 
 --------------
 
@@ -1844,7 +1844,7 @@ circling the block without finding a parking space, or putting money
 into a vending machine and having it fall immediately into the
 coin-return box, or asking someone for help and being told to go away.
 “Oh, well, that was a no-op.” Hot-and-sour soup (see
-`great-wall <../G/great-wall.html>`__) that is insufficiently either
+`great-wall <./G.html#great-wall.html>`__) that is insufficiently either
 is no-op soup; so is wonton soup if everybody else is having
 hot-and-sour.
 
@@ -1901,7 +1901,7 @@ solid `Real Soon Now <../R/Real-Soon-Now.html>`__. This term comes
 from the ensemble name of the original cast of *Saturday Night Live*,
 the “Not Ready for Prime Time Players”. It has extra flavor for hackers
 because of the special (though now semi-obsolescent) meaning of `prime
-time <../P/prime-time.html>`__. Compare `beta <../B/beta.html>`__.
+time <../P/prime-time.html>`__. Compare `beta <./B.html#beta.html>`__.
 
 --------------
 
@@ -1923,8 +1923,8 @@ N
 
 **notwork**: /not´werk/, n.
 
-A network, when it is acting `flaky <../F/flaky.html>`__ or is
-`down <../D/down.html>`__. Compare `nyetwork <nyetwork.html>`__.
+A network, when it is acting `flaky <./F.html#flaky.html>`__ or is
+`down <./D.html#down.html>`__. Compare `nyetwork <nyetwork.html>`__.
 Said at IBM to have originally referred to a particular period of
 flakiness on IBM's VNET corporate network ca. 1988; but there are
 independent reports of the term from elsewhere.
@@ -2060,7 +2060,7 @@ N
 **nude**: adj.
 
 Said of machines delivered without an operating system (compare `bare
-metal <../B/bare-metal.html>`__). “We ordered 50 systems, but they all
+metal <./B.html#bare-metal.html>`__). “We ordered 50 systems, but they all
 arrived nude, so we had to spend an extra weekend with the installation
 disks.” This usage is a recent innovation reflecting the fact that most
 IBM-PC clones are now delivered with an operating system pre-installed
@@ -2122,9 +2122,9 @@ N
 1. To intentionally delete the entire contents of a given directory or
 storage volume. “On Unix, **rm -r /usr** will nuke everything in the usr
 filesystem.” Never used for accidental deletion; contrast `blow
-away <../B/blow-away.html>`__.
+away <./B.html#blow-away.html>`__.
 
-2. Syn. for `dike <../D/dike.html>`__, applied to smaller things such
+2. Syn. for `dike <./D.html#dike.html>`__, applied to smaller things such
 as files, features, or code sections. Often used to express a final
 verdict. “What do you want me to do with that 80-meg session file?”
 “Nuke it.”
@@ -2133,7 +2133,7 @@ verdict. “What do you want me to do with that 80-meg session file?”
 for **kill -9** on Unix.
 
 4. On IBM PCs, a bug that results in `fandango on
-core <../F/fandango-on-core.html>`__ can trash the operating system,
+core <./F.html#fandango-on-core.html>`__ can trash the operating system,
 including the FAT (the in-core copy of the disk block chaining
 information). This can utterly scramble attached disks, which are then
 said to have been nuked. This term is also used of analogous lossages on
@@ -2165,11 +2165,11 @@ extensive use of floating-point numbers. The only thing
 widespread informal use outside hackerdom and even in mainstream slang,
 but has additional hackish connotations: namely, that the computations
 are mindless and involve massive use of `brute
-force <../B/brute-force.html>`__. This is not always
-`evil <../E/evil.html>`__, esp. if it involves ray tracing or fractals
+force <./B.html#brute-force.html>`__. This is not always
+`evil <./E.html#evil.html>`__, esp. if it involves ray tracing or fractals
 or some other use that makes `pretty
 pictures <../P/pretty-pictures.html>`__, esp. if such pictures can be
-used as screen backgrounds. See also `crunch <../C/crunch.html>`__.
+used as screen backgrounds. See also `crunch <./C.html#crunch.html>`__.
 
 |image0|
 
@@ -2232,11 +2232,11 @@ N
 Refers to the problem of transferring data between machines with
 differing byte-order. The string “UNIX” might look like “NUXI” on a
 machine with a different byte sex (e.g., when transferring data from a
-`little-endian <../L/little-endian.html>`__ to a
-`big-endian <../B/big-endian.html>`__, or vice-versa). See also
+`little-endian <./L.html#little-endian.html>`__ to a
+`big-endian <./B.html#big-endian.html>`__, or vice-versa). See also
 `middle-endian <../M/middle-endian.html>`__,
 `swab <../S/swab.html>`__, and
-`bytesexual <../B/bytesexual.html>`__.
+`bytesexual <./B.html#bytesexual.html>`__.
 
 --------------
 
@@ -2259,9 +2259,9 @@ N
 **nybble**: /nib´l/, nibble, n.
 
 [from v. nibble by analogy with ‘bite’ → ‘byte’] Four bits; one
-`hex <../H/hex.html>`__ digit; a half-byte. Though ‘byte’ is now
+`hex <./H.html#hex.html>`__ digit; a half-byte. Though ‘byte’ is now
 techspeak, this useful relative is still jargon. Compare
-`byte <../B/byte.html>`__; see also `bit <../B/bit.html>`__. The
+`byte <./B.html#byte.html>`__; see also `bit <./B.html#bit.html>`__. The
 more mundane spelling “nibble” is also commonly used. Apparently the
 ‘nybble’ spelling is uncommon in Commonwealth Hackish, as British
 orthography would suggest the pronunciation /ni:´bl/.
@@ -2276,23 +2276,23 @@ word’, and ‘quad’ or quad word; some (indicated) have substantial
 information separate entries.
 
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 2 bits:     | `crumb <../C/crumb.html>`__, `quad <../Q/quad.html>`__, `quarter <../Q/quarter.html>`__, tayste, tydbit, morsel         |
+| 2 bits:     | `crumb <./C.html#crumb.html>`__, `quad <../Q/quad.html>`__, `quarter <../Q/quarter.html>`__, tayste, tydbit, morsel         |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
 | 4 bits:     | nybble                                                                                                                        |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
 | 5 bits:     | `nickle <nickle.html>`__                                                                                                    |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 10 bits:    | `deckle <../D/deckle.html>`__                                                                                               |
+| 10 bits:    | `deckle <./D.html#deckle.html>`__                                                                                               |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 16 bits:    | playte, `chawmp <../C/chawmp.html>`__ (on a 32-bit machine), word (on a 16-bit machine), half-word (on a 32-bit machine).   |
+| 16 bits:    | playte, `chawmp <./C.html#chawmp.html>`__ (on a 32-bit machine), word (on a 16-bit machine), half-word (on a 32-bit machine).   |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 18 bits:    | `chawmp <../C/chawmp.html>`__ (on a 36-bit machine), half-word (on a 36-bit machine)                                        |
+| 18 bits:    | `chawmp <./C.html#chawmp.html>`__ (on a 36-bit machine), half-word (on a 36-bit machine)                                        |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 32 bits:    | dynner, `gawble <../G/gawble.html>`__ (on a 32-bit machine), word (on a 32-bit machine), longword (on a 16-bit machine).    |
+| 32 bits:    | dynner, `gawble <./G.html#gawble.html>`__ (on a 32-bit machine), word (on a 32-bit machine), longword (on a 16-bit machine).    |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
 | 36 bits:    | word (on a 36-bit machine)                                                                                                    |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 48 bits:    | `gawble <../G/gawble.html>`__ (under circumstances that remain obscure)                                                     |
+| 48 bits:    | `gawble <./G.html#gawble.html>`__ (under circumstances that remain obscure)                                                     |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
 | 64 bits:    | double word (on a 32-bit machine) quad (on a 16-bit machine)                                                                  |
 +-------------+-------------------------------------------------------------------------------------------------------------------------------+
@@ -2324,7 +2324,7 @@ N
 **nyetwork**: /nyet´werk/, n.
 
 [from Russian ‘nyet’ = no] A network, when it is acting
-`flaky <../F/flaky.html>`__ or is `down <../D/down.html>`__. Compare
+`flaky <./F.html#flaky.html>`__ or is `down <./D.html#down.html>`__. Compare
 `notwork <notwork.html>`__.
 
 --------------

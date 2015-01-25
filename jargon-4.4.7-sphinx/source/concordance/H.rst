@@ -44,7 +44,7 @@ hacked up
 
 Sufficiently patched, kluged, and tweaked that the surgical scars are
 beginning to crowd out normal tissue (compare `critical
-mass <../C/critical-mass.html>`__). Not all programs that are hacked
+mass <./C.html#critical-mass.html>`__). Not all programs that are hacked
 become hacked up; if modifications are done with some eye to coherence
 and continued maintainability, the software may emerge better for the
 experience. Contrast `hack up <hack-up.html>`__.
@@ -77,7 +77,7 @@ Sense 2 is more controversial: some people consider the act of cracking
 itself to be unethical, like breaking and entering. But the belief that
 ‘ethical’ cracking excludes destruction at least moderates the behavior
 of people who see themselves as ‘benign’ crackers (see also
-`samurai <../S/samurai.html>`__, `gray hat <../G/gray-hat.html>`__).
+`samurai <../S/samurai.html>`__, `gray hat <./G.html#gray-hat.html>`__).
 On this view, it may be one of the highest forms of hackerly courtesy to
 (a) break into a system, and then (b) explain to the sysop, preferably
 by email from a `superuser <../S/superuser.html>`__ account, exactly
@@ -129,7 +129,7 @@ circumventing limitations.
 
 8. [deprecated] A malicious meddler who tries to discover sensitive
 information by poking around. Hence password hacker, network hacker. The
-correct term for this sense is `cracker <../C/cracker.html>`__.
+correct term for this sense is `cracker <./C.html#cracker.html>`__.
 
 The term ‘hacker’ also tends to connote membership in the global
 community defined by the net (see `the
@@ -144,8 +144,8 @@ oneself that way. Hackers consider themselves something of an elite (a
 meritocracy based on ability), though one to which new members are
 gladly welcome. There is thus a certain ego satisfaction to be had in
 identifying yourself as a hacker (but if you claim to be one and are
-not, you'll quickly be labeled `bogus <../B/bogus.html>`__). See also
-`geek <../G/geek.html>`__, `wannabee <../W/wannabee.html>`__.
+not, you'll quickly be labeled `bogus <./B.html#bogus.html>`__). See also
+`geek <./G.html#geek.html>`__, `wannabee <../W/wannabee.html>`__.
 
 This term seems to have been first adopted as a badge in the 1960s by
 the hacker culture surrounding TMRC and the MIT AI Lab. We have a report
@@ -175,7 +175,7 @@ memory <../W/write-only-memory.html>`__), standards documents, language
 descriptions (see `INTERCAL <../I/INTERCAL.html>`__), and even entire
 scientific theories (see `quantum
 bogodynamics <../Q/quantum-bogodynamics.html>`__,
-`computron <../C/computron.html>`__).
+`computron <./C.html#computron.html>`__).
 
 3. Jokes that involve screwily precise reasoning from bizarre,
 ludicrous, or just grossly counter-intuitive premises.
@@ -193,9 +193,9 @@ Zen Buddhism and (less often) Taoism. See `has the X
 nature <has-the-X-nature.html>`__,
 `Discordianism <../D/Discordianism.html>`__,
 `zen <../Z/zen.html>`__, `ha ha only
-serious <ha-ha-only-serious.html>`__, `koan <../K/koan.html>`__.
+serious <ha-ha-only-serious.html>`__, `koan <./K.html#koan.html>`__.
 
-See also `filk <../F/filk.html>`__,
+See also `filk <./F.html#filk.html>`__,
 `retrocomputing <../R/retrocomputing.html>`__, and the Portrait of J.
 Random Hacker in `Appendix B <../appendixb.html>`__. If you have an
 itchy feeling that all six of these traits are really aspects of one
@@ -360,7 +360,7 @@ hack mode
 that may be achieved when one is hacking (this is why every good hacker
 is part mystic). Ability to enter such concentration at will correlates
 strongly with wizardliness; it is one of the most important skills
-learned during `larval stage <../L/larval-stage.html>`__. Sometimes
+learned during `larval stage <./L.html#larval-stage.html>`__. Sometimes
 amplified as deep hack mode.
 
 Being yanked out of hack mode (see `priority
@@ -369,7 +369,7 @@ physical shock, and the sensation of being in hack mode is more than a
 little habituating. The intensity of this experience is probably by
 itself sufficient explanation for the existence of hackers, and explains
 why many resist being promoted out of positions where they can code. See
-also `cyberspace <../C/cyberspace.html>`__ (sense 3).
+also `cyberspace <./C.html#cyberspace.html>`__ (sense 3).
 
 Some aspects of hacker etiquette will appear quite odd to an observer
 unaware of the high value placed on hack mode. For example, if someone
@@ -382,7 +382,7 @@ you might be in `hack mode <hack-mode.html>`__ with a lot of delicate
 `state <../S/state.html>`__ (sense 2) in your head, and you dare not
 `swap <../S/swap.html>`__ that context out until you have reached a
 good point to pause. See also `juggling
-eggs <../J/juggling-eggs.html>`__.
+eggs <./J.html#juggling-eggs.html>`__.
 
 
 hack on
@@ -404,7 +404,7 @@ hack together
 **hack together**: vt.
 
 [common] To throw something together so it will work. Unlike kluge
-together or `cruft together <../C/cruft-together.html>`__, this does
+together or `cruft together <./C.html#cruft-together.html>`__, this does
 not necessarily have negative connotations.
 
 
@@ -419,9 +419,9 @@ hack in sense 1 (a quick hack). Contrast this with `hack
 on <hack-on.html>`__. To hack up on implies a
 `quick-and-dirty <../Q/quick-and-dirty.html>`__ modification to an
 existing system. Contrast `hacked up <hacked-up.html>`__; compare
-`kluge up <../K/kluge-up.html>`__, `monkey
+`kluge up <./K.html#kluge-up.html>`__, `monkey
 up <../M/monkey-up.html>`__, `cruft
-together <../C/cruft-together.html>`__.
+together <./C.html#cruft-together.html>`__.
 
 
 
@@ -435,7 +435,7 @@ Often adduced as the reason or motivation for expending effort toward a
 seemingly useless goal, the point being that the accomplished goal is a
 hack. For example, MacLISP had features for reading and printing Roman
 numerals, which were installed purely for hack value. See `display
-hack <../D/display-hack.html>`__ for one method of computing hack
+hack <./D.html#display-hack.html>`__ for one method of computing hack
 value, but this cannot really be explained, only experienced. As Louis
 Armstrong once said when asked to explain jazz: “Man, if you gotta ask
 you'll never know.” (Feminists please note Fats Waller's explanation of
@@ -458,9 +458,9 @@ ha-ha-only-serious in both form and content. Indeed, the entirety of
 hacker culture is often perceived as ha-ha-only-serious by hackers
 themselves; to take it either too lightly or too seriously marks a
 person as an outsider, a `wannabee <../W/wannabee.html>`__, or in
-`larval stage <../L/larval-stage.html>`__. For further enlightenment
+`larval stage <./L.html#larval-stage.html>`__. For further enlightenment
 on this subject, consult any Zen master. See also `hacker
-humor <hacker-humor.html>`__, and `koan <../K/koan.html>`__.
+humor <hacker-humor.html>`__, and `koan <./K.html#koan.html>`__.
 
 
 hairball
@@ -605,7 +605,7 @@ the next ``N``-character string.
 
 Note: This last item refers to a `Dissociated
 Press <../D/Dissociated-Press.html>`__ implementation. See also
-`banana problem <../B/banana-problem.html>`__.
+`banana problem <./B.html#banana-problem.html>`__.
 
 HAKMEM also contains some rather more complicated mathematical and
 technical items, but these examples show some of its fun flavor.
@@ -678,7 +678,7 @@ hammer
 
 **hammer**: vt.
 
-Commonwealth hackish syn. for `bang on <../B/bang-on.html>`__.
+Commonwealth hackish syn. for `bang on <./B.html#bang-on.html>`__.
 
 
 hamster
@@ -704,7 +704,7 @@ hand cruft
 
 **hand cruft**: vt.
 
-[pun on ‘hand craft’] See `cruft <../C/cruft.html>`__, sense 3.
+[pun on ‘hand craft’] See `cruft <./C.html#cruft.html>`__, sense 3.
 
 
 hand-hacking
@@ -717,8 +717,8 @@ hand-hacking
 from an `HLL <HLL.html>`__ into hand-tuned assembler, as opposed to
 trying to coerce the compiler into generating better code. Both the term
 and the practice are becoming uncommon. See `tune <../T/tune.html>`__,
-`by hand <../B/by-hand.html>`__; syn. with v.
-`cruft <../C/cruft.html>`__.
+`by hand <./B.html#by-hand.html>`__; syn. with v.
+`cruft <./C.html#cruft.html>`__.
 
 2. [common] More generally, manual construction or patching of data sets
 that would normally be generated by a translation utility and
@@ -747,7 +747,7 @@ to conceal the user's true identity. Network and BBS handles function as
 the same sort of simultaneous concealment and display one finds on
 Citizen's Band radio, from which the term was adopted. Use of grandiose
 handles is characteristic of `warez d00dz <../W/warez-d00dz.html>`__,
-`cracker <../C/cracker.html>`__\ s,
+`cracker <./C.html#cracker.html>`__\ s,
 `weenie <../W/weenie.html>`__\ s, `spod <../S/spod.html>`__\ s, and
 other lower forms of network life; true hackers travel on their own
 reputations rather than invented legendry. Compare
@@ -764,8 +764,8 @@ down on fragmentation) or aging out of unused resources, with minimal
 impact on the (possibly multiple) parts of the larger program containing
 references to the allocated memory. Compare `snap <../S/snap.html>`__
 (to snap a handle would defeat its purpose); see also `aliasing
-bug <../A/aliasing-bug.html>`__, `dangling
-pointer <../D/dangling-pointer.html>`__.
+bug <./A.html#aliasing-bug.html>`__, `dangling
+pointer <./D.html#dangling-pointer.html>`__.
 
 
 hand-roll
@@ -776,7 +776,7 @@ hand-roll
 
 [from obs. mainstream slang hand-rolled in opposition to ready-made,
 referring to cigarettes] To perform a normally automated software
-installation or configuration process `by hand <../B/by-hand.html>`__;
+installation or configuration process `by hand <./B.html#by-hand.html>`__;
 implies that the normal process failed due to bugs in the configurator
 or was defeated by something exceptional in the local environment. “The
 worst thing about being a gateway between four different nets is having
@@ -792,7 +792,7 @@ handshaking
 
 [very common] Hardware or software activity designed to start or keep
 two machines or programs in synchronization as they `do
-protocol <../D/do-protocol.html>`__. Often applied to human activity;
+protocol <./D.html#do-protocol.html>`__. Often applied to human activity;
 thus, a hacker might watch two people in conversation nodding their
 heads to indicate that they have heard each others' points and say “Oh,
 they're handshaking!”. See also `protocol <../P/protocol.html>`__.
@@ -817,7 +817,7 @@ is self-evident that...”, it is a good bet he is about to handwave
 paraphrase of someone else's argument suggests that it is a handwave).
 The theory behind this term is that if you wave your hands at the right
 moment, the listener may be sufficiently distracted to not notice that
-what you have said is `bogus <../B/bogus.html>`__. Failing that, if a
+what you have said is `bogus <./B.html#bogus.html>`__. Failing that, if a
 listener does object, you might try to dismiss the objection with a wave
 of your hand.
 
@@ -844,7 +844,7 @@ is hanging because it can't read from the crashed drive”. See
 
 2. To wait for some event to occur; to hang around until something
 happens. “The program displays a menu and then hangs until you type a
-character.” Compare `block <../B/block.html>`__.
+character.” Compare `block <./B.html#block.html>`__.
 
 3. To attach a peripheral device, esp. in the construction ‘hang off’:
 “We're going to hang another tape drive off the file server.” Implies a
@@ -864,7 +864,7 @@ Occam's Razor, that reads “Never attribute to malice that which can be
 adequately explained by stupidity.” Quoted here because it seems to be a
 particular favorite of hackers, often showing up in `sig
 block <../S/sig-block.html>`__\ s, `fortune
-cookie <../F/fortune-cookie.html>`__ files and the login banners of BBS
+cookie <./F.html#fortune-cookie.html>`__ files and the login banners of BBS
 systems and commercial networks. This probably reflects the hacker's
 daily experience of environments created by well-intentioned but
 short-sighted people. Compare `Sturgeon's
@@ -908,7 +908,7 @@ hard boot
 
 **hard boot**: n.
 
-See `boot <../B/boot.html>`__.
+See `boot <./B.html#boot.html>`__.
 
 
 hardcoded
@@ -920,7 +920,7 @@ hardcoded
 1. [common] Said of data inserted directly into a program, where it
 cannot be easily modified, as opposed to data in some
 `profile <../P/profile.html>`__, resource (see
-`de-rezz <../D/de-rezz.html>`__ sense 2), or environment variable that
+`de-rezz <./D.html#de-rezz.html>`__ sense 2), or environment variable that
 a `user <../U/user.html>`__ or hacker can easily modify.
 
 2. In C, this is esp. applied to use of a literal instead of a
@@ -994,7 +994,7 @@ has the X nature
 [seems to derive from Zen Buddhist koans of the form “Does an X have the
 Buddha-nature?”] adj. Common hacker construction for ‘is an X’, used for
 humorous emphasis. “Anyone who can't even use a program with on-screen
-help embedded in it truly has the `loser <../L/loser.html>`__ nature!”
+help embedded in it truly has the `loser <./L.html#loser.html>`__ nature!”
 See also `the X that can be Y is not the true
 X <../T/the-X-that-can-be-Y-is-not-the-true-X.html>`__. See also
 `mu <../M/mu.html>`__.
@@ -1026,7 +1026,7 @@ microprocessor was the first for which an HCF opcode became widely
 known. This instruction caused the processor to
 `toggle <../T/toggle.html>`__ a subset of the bus lines as rapidly as
 it could; in some configurations this could actually cause lines to burn
-up. Compare `killer poke <../K/killer-poke.html>`__.
+up. Compare `killer poke <./K.html#killer-poke.html>`__.
 
 
 heads down
@@ -1038,7 +1038,7 @@ heads down
 Concentrating, usually so heavily and for so long that everything
 outside the focus area is missed. See also `hack
 mode <hack-mode.html>`__ and `larval
-stage <../L/larval-stage.html>`__, although this mode is hardly
+stage <./L.html#larval-stage.html>`__, although this mode is hardly
 confined to fledgling hackers.
 
 
@@ -1061,7 +1061,7 @@ before frequency division down to the machine's clock rate.
 4. A signal emitted at regular intervals by software to demonstrate that
 it is still alive. Sometimes hardware is designed to reboot the machine
 if it stops hearing a heartbeat. See also `breath-of-life
-packet <../B/breath-of-life-packet.html>`__.
+packet <./B.html#breath-of-life-packet.html>`__.
 
 
 heatseeker
@@ -1072,7 +1072,7 @@ heatseeker
 
 [IBM] A customer who can be relied upon to buy, without fail, the latest
 version of an existing product (not quite the same as a member of the
-`lunatic fringe <../L/lunatic-fringe.html>`__). A 1993 example of a
+`lunatic fringe <./L.html#lunatic-fringe.html>`__). A 1993 example of a
 heatseeker was someone who, owning a 286 PC and Windows 3.0, went out
 and bought Windows 3.1 (which offers no worthwhile benefits unless you
 have a 386). If all customers were heatseekers, vast amounts of money
@@ -1086,7 +1086,7 @@ heavy metal
 
 **heavy metal**: n.
 
-[Cambridge] Syn. `big iron <../B/big-iron.html>`__.
+[Cambridge] Syn. `big iron <./B.html#big-iron.html>`__.
 
 
 
@@ -1096,7 +1096,7 @@ heavyweight
 
 **heavyweight**: adj.
 
-[common] High-overhead; `baroque <../B/baroque.html>`__;
+[common] High-overhead; `baroque <./B.html#baroque.html>`__;
 code-intensive; featureful, but costly. Esp. used of communication
 protocols, language designs, and any sort of implementation in which
 maximum generality and/or ease of implementation has been pushed at the
@@ -1104,7 +1104,7 @@ expense of mundane considerations such as speed, memory utilization, and
 startup time. `EMACS <../E/EMACS.html>`__ is a heavyweight editor;
 `X <../X/X.html>`__ is an *extremely* heavyweight window system. This
 term isn't pejorative, but one hacker's heavyweight is another's
-`elephantine <../E/elephantine.html>`__ and a third's
+`elephantine <./E.html#elephantine.html>`__ and a third's
 `monstrosity <../M/monstrosity.html>`__. Oppose lightweight. Usage:
 now borders on techspeak, especially in the compound heavyweight
 process.
@@ -1118,7 +1118,7 @@ heavy wizardry
 Code or designs that trade on a particularly intimate knowledge or
 experience of a particular operating system or language or complex
 application interface. Distinguished from `deep
-magic <../D/deep-magic.html>`__, which trades more on arcane
+magic <./D.html#deep-magic.html>`__, which trades more on arcane
 *theoretical* knowledge. Writing device drivers is heavy wizardry; so is
 interfacing to `X <../X/X.html>`__ (sense 2) without a toolkit. Esp.:
 found in source-code comments of the form “Heavy wizardry begins here”.
@@ -1156,8 +1156,8 @@ bug <../B/Bohr-bug.html>`__; see also
 `mandelbug <../M/mandelbug.html>`__,
 `schroedinbug <../S/schroedinbug.html>`__. In C, nine out of ten
 heisenbugs result from uninitialized auto variables, `fandango on
-core <../F/fandango-on-core.html>`__ phenomena (esp. lossage related to
-corruption of the malloc `arena <../A/arena.html>`__) or errors that
+core <./F.html#fandango-on-core.html>`__ phenomena (esp. lossage related to
+corruption of the malloc `arena <./A.html#arena.html>`__) or errors that
 `smash the stack <../S/smash-the-stack.html>`__.
 
 
@@ -1215,7 +1215,7 @@ environment is one that just prints “hello, world” to standard output
 `K&R <../K/K-ampersand-R.html>`__). Environments that generate an
 unreasonably large executable for this trivial test or which require a
 `hairy <hairy.html>`__ compiler-linker invocation to generate it are
-considered to `lose <../L/lose.html>`__ (see `X <../X/X.html>`__).
+considered to `lose <./L.html#lose.html>`__ (see `X <../X/X.html>`__).
 
 3. Greeting uttered by a hacker making an entrance or requesting
 information from anyone present. “Hello, world! Is the LAN back up yet?”
@@ -1258,7 +1258,7 @@ hex
 
 2. A 6-pack of anything (compare `quad <../Q/quad.html>`__, sense 2).
 Neither usage has anything to do with `magic <../M/magic.html>`__ or
-`black art <../B/black-art.html>`__, though the pun is appreciated and
+`black art <./B.html#black-art.html>`__, though the pun is appreciated and
 occasionally used by hackers. True story: As a joke, some hackers once
 offered some surplus ICs for sale to be worn as protective amulets
 against hostile magic. The chips were, of course, hex inverters.
@@ -1340,7 +1340,7 @@ high bit
 2. [common] By extension, the most significant part of something other
 than a data byte: “Spare me the whole `saga <../S/saga.html>`__, just
 give me the high bit.” See also `meta bit <../M/meta-bit.html>`__,
-`dread high-bit disease <../D/dread-high-bit-disease.html>`__, and
+`dread high-bit disease <./D.html#dread-high-bit-disease.html>`__, and
 compare the mainstream slang bottom line.
 
 
@@ -1356,10 +1356,10 @@ understatement. As in: highly nonoptimal, the worst possible way to do
 something; highly nontrivial, either impossible or requiring a major
 research project; highly nonlinear, completely erratic and
 unpredictable; highly nontechnical, drivel written for
-`luser <../L/luser.html>`__\ s, oversimplified to the point of being
+`luser <./L.html#luser.html>`__\ s, oversimplified to the point of being
 misleading or incorrect (compare `drool-proof
-paper <../D/drool-proof-paper.html>`__). In other computing cultures,
-postfixing of `in the extreme <../I/in-the-extreme.html>`__ might be
+paper <./D.html#drool-proof-paper.html>`__). In other computing cultures,
+postfixing of `in the extreme <./I.html#in-the-extreme.html>`__ might be
 preferred.
 
 
@@ -1377,7 +1377,7 @@ D.C. Area Science Fiction Conclave (Disclave), when a miscommunication
 resulted in two separate wakes being held in commemoration of the
 shutdown of MIT's last `ITS <../I/ITS.html>`__ machines, the one on
 the upper floor was dubbed the ‘high moby’ and the other the ‘low moby’.
-All parties involved `grok <../G/grok.html>`__\ ked this instantly.
+All parties involved `grok <./G.html#grok.html>`__\ ked this instantly.
 See `moby <../M/moby.html>`__.
 
 
@@ -1389,8 +1389,8 @@ hing
 **hing**: //, n.
 
 [IRC] Fortuitous typo for ‘hint’, now in wide intentional use among
-players of `initgame <../I/initgame.html>`__. Compare
-`newsfroup <../N/newsfroup.html>`__, `filk <../F/filk.html>`__.
+players of `initgame <./I.html#initgame.html>`__. Compare
+`newsfroup <../N/newsfroup.html>`__, `filk <./F.html#filk.html>`__.
 
 
 
@@ -1424,12 +1424,12 @@ HLL
 and news rather than speech. Rarely, the variants ‘VHLL’ and ‘MLL’ are
 found. VHLL stands for ‘Very-High-Level Language’ and is used to
 describe a `bondage-and-discipline
-language <../B/bondage-and-discipline-language.html>`__ that the
+language <./B.html#bondage-and-discipline-language.html>`__ that the
 speaker happens to like; Prolog and Backus's FP are often called VHLLs.
 ‘MLL’ stands for ‘Medium-Level Language’ and is sometimes used
 half-jokingly to describe `C <../C/C.html>`__, alluding to its
 ‘structured-assembler’ image. See also `languages of
-choice <../L/languages-of-choice.html>`__.
+choice <./L.html#languages-of-choice.html>`__.
 
 
 hoarding
@@ -1471,7 +1471,7 @@ hole
 
 **hole**: n.
 
-A region in an otherwise `flat <../F/flat.html>`__ entity which is not
+A region in an otherwise `flat <./F.html#flat.html>`__ entity which is not
 actually present. For example, some Unix filesystems can store large
 files with holes so that unused regions of the file are never actually
 stored on disk. (In techspeak, these are referred to as ‘sparse’ files.)
@@ -1523,10 +1523,10 @@ holy wars
 **holy wars**: n.
 
 [from `Usenet <../U/Usenet.html>`__, but may predate it; common] n.
-`flame war <../F/flame-war.html>`__\ s over `religious
+`flame war <./F.html#flame-war.html>`__\ s over `religious
 issues <../R/religious-issues.html>`__. The paper by Danny Cohen that
-popularized the terms `big-endian <../B/big-endian.html>`__ and
-`little-endian <../L/little-endian.html>`__ in connection with the
+popularized the terms `big-endian <./B.html#big-endian.html>`__ and
+`little-endian <./L.html#little-endian.html>`__ in connection with the
 LSB-first/MSB-first controversy was entitled *On Holy Wars and a Plea
 for Peace*.
 
@@ -1589,11 +1589,11 @@ honey pot
 
 **honey pot**: n.
 
-1. A box designed to attract `cracker <../C/cracker.html>`__\ s so
+1. A box designed to attract `cracker <./C.html#cracker.html>`__\ s so
 that they can be observed in action. It is usually well isolated from
 the rest of the network, but has extensive logging (usually network
 layer, on a different machine). Different from an `iron
-box <../I/iron-box.html>`__ in that its purpose is to attract, not
+box <./I.html#iron-box.html>`__ in that its purpose is to attract, not
 merely observe. Sometimes, it is also a defensive network security
 tactic — you set up an easy-to-crack box so that your real servers don't
 get messed with. The concept was presented in Cheswick & Bellovin's book
@@ -1640,7 +1640,7 @@ from point A to point B on a store-and-forward network. On such networks
 `FidoNet <../F/FidoNet.html>`__), an important inter-machine metric is
 the number of hops in the shortest path between them, which can be more
 significant than their geographical separation. See `bang
-path <../B/bang-path.html>`__.
+path <./B.html#bang-path.html>`__.
 
 2. v. [rare] To log in to a remote machine, esp. via rlogin or telnet.
 “I'll hop over to foovax to FTP that.”
@@ -1665,7 +1665,7 @@ hosed
 
 **hosed**: adj.
 
-Same as `down <../D/down.html>`__. Used primarily by Unix hackers.
+Same as `down <./D.html#down.html>`__. Used primarily by Unix hackers.
 Humorous: also implies a condition thought to be relatively easy to
 reverse. Probably derived from the Canadian slang ‘hoser’ popularized by
 the Bob and Doug Mackenzie skits on SCTV, but this usage predated SCTV
@@ -1678,7 +1678,7 @@ difficulties crashed, and it was announced to have been hosed. It was
 discovered that the crash was due to the disconnection of some coolant
 hoses. The problem was corrected, and users were then assured that
 everything was OK because the system had been rehosed. See also
-`dehose <../D/dehose.html>`__.
+`dehose <./D.html#dehose.html>`__.
 
 
 
@@ -1749,14 +1749,14 @@ mouse's hot spot on the ‘ON’ widget and click the left button.”
 
 3. A screen region that is sensitive to mouse gestures, which trigger
 some action. World Wide Web pages now provide the
-`canonical <../C/canonical.html>`__ examples; WWW browsers present
+`canonical <./C.html#canonical.html>`__ examples; WWW browsers present
 hypertext links as hot spots which, when clicked on, point the browser
 at another document (these are specifically called
 `hotlink <hotlink.html>`__\ s).
 
 4. In a massively parallel computer with shared memory, the one location
 that all 10,000 processors are trying to read or write at once (perhaps
-because they are all doing a `busy-wait <../B/busy-wait.html>`__ on
+because they are all doing a `busy-wait <./B.html#busy-wait.html>`__ on
 the same lock).
 
 5. More generally, any place in a hardware design that turns into a
@@ -1817,8 +1817,8 @@ huff
 
 To compress data using a Huffman code. Various programs that use such
 methods have been called ‘HUFF’ or some variant thereof. Oppose
-`puff <../P/puff.html>`__. Compare `crunch <../C/crunch.html>`__,
-`compress <../C/compress.html>`__.
+`puff <../P/puff.html>`__. Compare `crunch <./C.html#crunch.html>`__,
+`compress <./C.html#compress.html>`__.
 
 
 hung
@@ -1829,13 +1829,13 @@ hung
 
 [from ‘hung up’; common] Equivalent to `wedged <../W/wedged.html>`__,
 but more common at Unix/C sites. Not generally used of people. Syn. with
-`locked up <../L/locked-up.html>`__, `wedged <../W/wedged.html>`__;
+`locked up <./L.html#locked-up.html>`__, `wedged <../W/wedged.html>`__;
 compare `hosed <hosed.html>`__. See also `hang <hang.html>`__. A
 hun
  `Next <hack-mode.html>`__
 
---------------g state is distinguished from `crash <../C/crash.html>`__\ ed or
-`down <../D/down.html>`__, where the program or system is also
+--------------g state is distinguished from `crash <./C.html#crash.html>`__\ ed or
+`down <./D.html#down.html>`__, where the program or system is also
 unusable but because it is not running rather than because it is waiting
 for something. However, the recovery from both situations is often the
 same. It is also distinguished from the similar but more drastic state
@@ -1878,7 +1878,7 @@ should be pointing, especially a place that is inaccessible because it
 is not even mapped in by the virtual-memory system. “Another core dump —
 looks like the program jumped off to hyperspace somehow.” (Compare
 `jump off into never-never
-land <../J/jump-off-into-never-never-land.html>`__.) This usage is from
+land <./J.html#jump-off-into-never-never-land.html>`__.) This usage is from
 the SF notion of a spaceship jumping into hyperspace, that is, taking a
 shortcut through higher-dimensional space — in other words, bypassing
 this universe. The variant east hyperspace is recorded among CMU and
@@ -1898,7 +1898,7 @@ stupid way for backwards compatibility, and moreover that the feature it
 must be compatible with was the result of a bad design in the first
 place. “All IBM PC video adapters have to support MDA text mode for
 hysterical reasons.” Compare `bug-for-bug
-compatible <../B/bug-for-bug-compatible.html>`__.
+compatible <./B.html#bug-for-bug-compatible.html>`__.
 
 
 

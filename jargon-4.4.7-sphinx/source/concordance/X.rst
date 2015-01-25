@@ -39,7 +39,7 @@ roughly its algebraic sense of ‘unknown within a set defined by context’
 68000, 68010, 68020, 68030, or 68040, and 80x86 stands for 80186, 80286,
 80386, 80486, 80586 or 80686 (note that a Unix hacker might write these
 as 680[0-6]0 and 80[1-6]86 or 680?0 and 80?86 respectively; see
-`glob <../G/glob.html>`__).
+`glob <./G.html#glob.html>`__).
 
 2. [after the name of an earlier window system called ‘W’] An
 over-sized, over-featured, over-engineered and incredibly
@@ -53,7 +53,7 @@ XOFF
 
 **XOFF**: /X·of/, n.
 
-Syn. `control-S <../C/control-S.html>`__.
+Syn. `control-S <./C.html#control-S.html>`__.
 
 XON
 ======
@@ -63,7 +63,7 @@ XON
 
 **XON**: /X·on/, n.
 
-Syn. `control-Q <../C/control-Q.html>`__.
+Syn. `control-Q <./C.html#control-Q.html>`__.
 
 
 xor
@@ -112,7 +112,7 @@ xyzzy
 
 **xyzzy**: /X·Y·Z·Z·Y/, /X·Y·ziz´ee/, /ziz´ee/, /ik·ziz´ee/, adj.
 
-[from the ADVENT game] The `canonical <../C/canonical.html>`__ ‘magic
+[from the ADVENT game] The `canonical <./C.html#canonical.html>`__ ‘magic
 word’. This comes from `ADVENT <../A/ADVENT.html>`__, in which the
 idea is to explore an underground cave with many rooms and to collect
 the treasures you find there. If you type xyzzy at the appropriate time,

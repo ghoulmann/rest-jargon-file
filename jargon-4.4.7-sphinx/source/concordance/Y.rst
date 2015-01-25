@@ -88,7 +88,7 @@ yellow card
 
 **yellow card**: n.
 
-See `green card <../G/green-card.html>`__.
+See `green card <./G.html#green-card.html>`__.
 
 
 yellow wire
@@ -100,7 +100,7 @@ yellow wire
 [IBM] Repair wires used when connectors (especially ribbon connectors)
 got broken due to some schlemiel pinching them, or to reconnect cut
 traces after the FE mistakenly cut one. Compare `blue
-wire <../B/blue-wire.html>`__, `purple
+wire <./B.html#blue-wire.html>`__, `purple
 wire <../P/purple-wire.html>`__, `red wire <../R/red-wire.html>`__.
 
 

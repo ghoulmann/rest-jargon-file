@@ -8,9 +8,9 @@ quad
 **quad**: n.
 
 1. Two bits; syn. for `quarter <quarter.html>`__,
-`crumb <../C/crumb.html>`__, `tayste <../T/tayste.html>`__.
+`crumb <./C.html#crumb.html>`__, `tayste <../T/tayste.html>`__.
 
-2. A four-pack of anything (compare `hex <../H/hex.html>`__, sense 2).
+2. A four-pack of anything (compare `hex <./H.html#hex.html>`__, sense 2).
 
 3. The rectangle or box glyph used in the APL language for various
 arcane purposes mostly related to I/O. Former Ivy-Leaguers and Oxford
@@ -42,9 +42,9 @@ character that was easier to type. If you want to imply that a program
 has ridiculously many commands or features, you can say something like:
 “Oh, the command that makes it spin the tapes while whistling
 Beethoven's Fifth Symphony is quadruple-bucky-cokebottle.” See `double
-bucky <../D/double-bucky.html>`__, `bucky
-bits <../B/bucky-bits.html>`__,
-`cokebottle <../C/cokebottle.html>`__.
+bucky <./D.html#double-bucky.html>`__, `bucky
+bits <./B.html#bucky-bits.html>`__,
+`cokebottle <./C.html#cokebottle.html>`__.
  
 
 quantifiers
@@ -104,7 +104,7 @@ use of these terms. ‘Femto’ and ‘atto’ (which, interestingly, derive not
 from Greek but from Danish) have not yet acquired jargon loadings,
 though it is easy to predict what those will be once computing
 technology enters the required realms of magnitude (however, see
-`attoparsec <../A/attoparsec.html>`__).
+`attoparsec <./A.html#attoparsec.html>`__).
 
 There are, of course, some standard unit prefixes for powers of 10. In
 the following table, the ‘prefix’ column is the international standard
@@ -138,7 +138,7 @@ Confusing 1000 and 1024 (or other powers of 2 and 10 close in magnitude)
 512K — is a sure sign of the `marketroid <../M/marketroid.html>`__.
 One example of this: it is common to refer to the capacity of 3.5"
 floppies as ‘1.44 MB’ In fact, this is a completely
-`bogus <../B/bogus.html>`__ number. The correct size is 1440 KB, that
+`bogus <./B.html#bogus.html>`__ number. The correct size is 1440 KB, that
 is, 1440 \* 1024 = 1474560 bytes. So the ‘mega’ in ‘1.44 MB’ is
 compounded of two ‘kilos’, one of which is 1024 and the other of which
 is 1000. The correct number of megabytes would of course be 1440 / 1024
@@ -177,8 +177,8 @@ however, the precise mechanics of the bogon-computron interaction are
 not yet understood and remain to be elucidated. Quantum bogodynamics is
 most often invoked to explain the sharp increase in hardware and
 software failures in the presence of suits; the latter emit bogons,
-which the former absorb. See `bogon <../B/bogon.html>`__,
-`computron <../C/computron.html>`__, `suit <../S/suit.html>`__,
+which the former absorb. See `bogon <./B.html#bogon.html>`__,
+`computron <./C.html#computron.html>`__, `suit <../S/suit.html>`__,
 `psyton <../P/psyton.html>`__.
 
 Here is a representative QBD theory: The bogon is a boson (integral
@@ -203,7 +203,7 @@ movies — Spanish silver crowns that could be broken into eight
 pie-slice-shaped ‘bits’ to make change. Early in American history the
 Spanish coin was considered equal to a dollar, so each of these ‘bits’
 was considered worth 12.5 cents. Syn. `tayste <../T/tayste.html>`__,
-`crumb <../C/crumb.html>`__, `quad <quad.html>`__. Usage: rare.
+`crumb <./C.html#crumb.html>`__, `quad <quad.html>`__. Usage: rare.
 General discussion of such terms is under
 `nybble <../N/nybble.html>`__.
 
@@ -225,12 +225,12 @@ quick-and-dirty
 
 **quick-and-dirty**: adj.
 
-[common] Describes a `crock <../C/crock.html>`__ put together under
+[common] Describes a `crock <./C.html#crock.html>`__ put together under
 time or user pressure. Used esp. when you want to convey that you think
 the fast way might lead to trouble further down the road. “I can have a
 quick-and-dirty fix in place tonight, but I'll have to rewrite the whole
 module to solve the underlying design problem.” See also
-`kluge <../K/kluge.html>`__.
+`kluge <./K.html#kluge.html>`__.
 
  
 quine
@@ -310,11 +310,11 @@ quote chapter and verse
 **quote chapter and verse**: v.
 
 [by analogy with the mainstream phrase] To cite a relevant excerpt from
-an appropriate `bible <../B/bible.html>`__. “I don't care if **rn**
+an appropriate `bible <./B.html#bible.html>`__. “I don't care if **rn**
 gets it wrong; ‘Followup-To: poster’ is explicitly permitted by
 `RFC <../R/RFC.html>`__-1036. I'll quote chapter and verse if you
-don't believe me.” See also `legalese <../L/legalese.html>`__,
-`language lawyer <../L/language-lawyer.html>`__,
+don't believe me.” See also `legalese <./L.html#legalese.html>`__,
+`language lawyer <./L.html#language-lawyer.html>`__,
 `RTFS <../R/RTFS.html>`__ (sense 2).
  
 
@@ -323,7 +323,7 @@ quotient
 
 **quotient**: n.
 
-See `coefficient of X <../C/coefficient-of-X.html>`__.
+See `coefficient of X <./C.html#coefficient-of-X.html>`__.
  
 
 quux
@@ -338,14 +338,14 @@ out of seven in all, using up all the ‘u’ letters in Scrabble).]
 
 1. Originally, a `metasyntactic
 variable <../M/metasyntactic-variable.html>`__ like
-`foo <../F/foo.html>`__ and `foobar <../F/foobar.html>`__. Invented
+`foo <./F.html#foo.html>`__ and `foobar <./F.html#foobar.html>`__. Invented
 by Guy Steele for precisely this purpose when he was young and naive and
 not yet interacting with the real computing community. Many people
 invent such words; this one seems simply to have been lucky enough to
 have spread a little. In an eloquent display of poetic justice, it has
 returned to the originator in the form of a nickname.
 
-2. interj. See `foo <../F/foo.html>`__; however, denotes very little
+2. interj. See `foo <./F.html#foo.html>`__; however, denotes very little
 disgust, and is uttered mostly for the sake of the sound of it.
 
 3. Guy Steele in his persona as ‘The Great Quux’, which is somewhat
@@ -364,13 +364,13 @@ qux
 
 The fourth of the standard `metasyntactic
 variable <../M/metasyntactic-variable.html>`__, after
-`baz <../B/baz.html>`__ and before the quu(u...)x series. See
-`foo <../F/foo.html>`__, `bar <../B/bar.html>`__,
-`baz <../B/baz.html>`__, `quux <quux.html>`__. This appears to be a
+`baz <./B.html#baz.html>`__ and before the quu(u...)x series. See
+`foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__,
+`baz <./B.html#baz.html>`__, `quux <quux.html>`__. This appears to be a
 recent mutation from `quux <quux.html>`__, and many versions
 (especially older versions) of the standard series just run
-`foo <../F/foo.html>`__, `bar <../B/bar.html>`__,
-`baz <../B/baz.html>`__, `quux <quux.html>`__, ....
+`foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__,
+`baz <./B.html#baz.html>`__, `quux <quux.html>`__, ....
 
 
 QWERTY
@@ -385,7 +385,7 @@ layouts or a `space-cadet keyboard <../S/space-cadet-keyboard.html>`__
 or APL keyboard.
 
 Historical note: The QWERTY layout is a fine example of a
-`fossil <../F/fossil.html>`__. It is sometimes said that it was
+`fossil <./F.html#fossil.html>`__. It is sometimes said that it was
 designed to slow down the typist, but this is wrong; it was designed to
 allow *faster* typing — under a constraint now long obsolete. In early
 typewriters, fast typing using nearby type-bars jammed the mechanism. So
@@ -393,7 +393,7 @@ Sholes fiddled the layout to separate the letters of many common
 digraphs (he did a far from perfect job, though; ‘th’, ‘tr’, ‘ed’, and
 ‘er’, for example, each use two nearby keys). Also, putting the letters
 of ‘typewriter’ on one line allowed it to be typed with particular speed
-and accuracy for `demo <../D/demo.html>`__\ s. The jamming problem was
+and accuracy for `demo <./D.html#demo.html>`__\ s. The jamming problem was
 essentially solved soon afterward by a suitable use of springs, but the
 keyboard layout lives on.
 

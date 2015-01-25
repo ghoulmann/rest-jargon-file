@@ -45,7 +45,7 @@ The use of large numbers of loosely coupled programmers in an attempt to
 wedge a great many features into a product in a short time. Though there
 have been memorable gang bangs (e.g., that over-the-weekend assembler
 port mentioned in Steven Levy's *Hackers*), and large numbers of
-loosely-coupled programmers operating in `bazaar <../B/bazaar.html>`__
+loosely-coupled programmers operating in `bazaar <./B.html#bazaar.html>`__
 mode can do very useful work when they're not on a deadline, most are
 perpetrated by large companies trying to meet unrealistic deadlines; the
 inevitable result is enormous buggy masses of code entirely lacking in
@@ -53,8 +53,8 @@ inevitable result is enormous buggy masses of code entirely lacking in
 managers make a list of all the features the competition has and assign
 one programmer to implement each, the probability of maintaining a
 coherent (or even functional) design goes to
-`epsilon <../E/epsilon.html>`__. See also
-`firefighting <../F/firefighting.html>`__, `Mongolian Hordes
+`epsilon <./E.html#epsilon.html>`__. See also
+`firefighting <./F.html#firefighting.html>`__, `Mongolian Hordes
 technique <../M/Mongolian-Hordes-technique.html>`__, `Conway's
 Law <../C/Conways-Law.html>`__.
 
@@ -99,7 +99,7 @@ garply
 **garply**: /gar´plee/, n.
 
 [Stanford] Another metasyntactic variable (see
-`foo <../F/foo.html>`__); once popular among SAIL hackers.
+`foo <./F.html#foo.html>`__); once popular among SAIL hackers.
 
 
 gas
@@ -118,7 +118,7 @@ irritation. “Some loser just reloaded the system for no reason! Gas!”
 out of mercy. “The system's getting `wedged <../W/wedged.html>`__
 every few minutes. Gas!”
 
-3. vt. To `flush <../F/flush.html>`__ (sense 1). “You should gas that
+3. vt. To `flush <./F.html#flush.html>`__ (sense 1). “You should gas that
 old crufty software.”
 
 4. [IBM] n. Dead space in nonsequentially organized files that was
@@ -151,7 +151,7 @@ gawble
 
 **gawble**: /gaw´bl/, n.
 
-See `chawmp <../C/chawmp.html>`__.
+See `chawmp <./C.html#chawmp.html>`__.
 
 
 
@@ -181,7 +181,7 @@ be recycled and used for another purpose. Implementations of the LISP
 language usually use garbage collection.
 
 In jargon, the full phrase is sometimes heard but the
-`abbrev <../A/abbrev.html>`__ GC is more frequently used because it is
+`abbrev <./A.html#abbrev.html>`__ GC is more frequently used because it is
 shorter. Note that there is an ambiguity in usage that has to be
 resolved by context: “I'm going to garbage-collect my desk” usually
 means to clean out the drawers, but it could also mean to throw away or
@@ -195,7 +195,7 @@ GCOS
 **GCOS**: /jee´kohs/, n.
 
 A `quick-and-dirty <../Q/quick-and-dirty.html>`__
-`clone <../C/clone.html>`__ of System/360 DOS that emerged from GE
+`clone <./C.html#clone.html>`__ of System/360 DOS that emerged from GE
 around 1970; originally called GECOS (the General Electric Comprehensive
 Operating System). Later kluged to support primitive timesharing and
 transaction processing. After the buyout of GE's computer division by
@@ -214,7 +214,7 @@ information was called the GECOS field and survives today as the
 information. GCOS later played a major role in keeping Honeywell a
 dismal also-ran in the mainframe market, and was itself mostly ditched
 for Unix in the late 1980s when Honeywell began to retire its aging
-`big iron <../B/big-iron.html>`__ designs.
+`big iron <./B.html#big-iron.html>`__ designs.
 
 
 
@@ -264,7 +264,7 @@ geef
 **geef**: v.
 
 [ostensibly from ‘gefingerpoken’] vt. Syn. `mung <../M/mung.html>`__.
-See also `blinkenlights <../B/blinkenlights.html>`__.
+See also `blinkenlights <./B.html#blinkenlights.html>`__.
 
 
 
@@ -326,7 +326,7 @@ A person who has chosen concentration rather than conformity; one who
 pursues skill (especially technical skill) and imagination, not
 mainstream social acceptance. Geeks usually have a strong case of
 `neophilia <../N/neophilia.html>`__. Most geeks are adept with
-computers and treat `hacker <../H/hacker.html>`__ as a term of
+computers and treat `hacker <./H.html#hacker.html>`__ as a term of
 respect, but not all are hackers themselves — and some who *are* in fact
 hackers normally call themselves geeks anyway, because they (quite
 properly) regard ‘hacker’ as a label that should be bestowed by others
@@ -351,11 +351,11 @@ respect. Correspondingly, there are now ‘geek pride’ festivals (the
 implied reference to ‘gay pride’ is not accidental).
 
 See also `propeller head <../P/propeller-head.html>`__,
-`clustergeeking <../C/clustergeeking.html>`__, `geek
+`clustergeeking <./C.html#clustergeeking.html>`__, `geek
 out <geek-out.html>`__, `wannabee <../W/wannabee.html>`__, `terminal
 junkie <../T/terminal-junkie.html>`__, `spod <../S/spod.html>`__,
 `weenie <../W/weenie.html>`__, `geek code <geek-code.html>`__,
-`alpha geek <../A/alpha-geek.html>`__.
+`alpha geek <./A.html#alpha-geek.html>`__.
 
 
 geek out
@@ -381,7 +381,7 @@ gender mender
 
 [common] A cable connector shell with either two male or two female
 connectors on it, used to correct the mismatches that result when some
-`loser <../L/loser.html>`__ didn't understand the RS232C specification
+`loser <./L.html#loser.html>`__ didn't understand the RS232C specification
 and the distinction between DTE and DCE. Used esp. for RS-232C parts in
 either the original D-25 or the IBM PC's bogus D-9 format. Also called
 gender bender, gender blender, sex changer, and even homosexual adapter;
@@ -397,8 +397,8 @@ General Public Virus
 **General Public Virus**: n.
 
 Pejorative name for some versions of the `GNU <GNU.html>`__ project
-`copyleft <../C/copyleft.html>`__ or General Public License (GPL),
-which requires that any tools or `app <../A/app.html>`__\ s
+`copyleft <./C.html#copyleft.html>`__ or General Public License (GPL),
+which requires that any tools or `app <./A.html#app.html>`__\ s
 incorporating copylefted code must be source-distributed on the same
 anti-proprietary terms as GNU stuff. Thus it is alleged that the
 copyleft ‘infects’ software generated with GNU tools, which may in turn
@@ -407,7 +407,7 @@ Foundation's official position is that copyright law limits the scope of
 the GPL to “programs textually incorporating significant amounts of GNU
 code”, and that the ‘infection’ is not passed on to third parties unless
 actual GNU source is transmitted. Nevertheless, widespread suspicion
-that the `copyleft <../C/copyleft.html>`__ language is ‘boobytrapped’
+that the `copyleft <./C.html#copyleft.html>`__ language is ‘boobytrapped’
 has caused many developers to avoid using GNU tools and the GPL. Changes
 in the language of the version 2.0 GPL did not eliminate this problem.
 
@@ -425,7 +425,7 @@ algorithm or program. The opposite of `parse <../P/parse.html>`__.
 This term retains its mechanistic connotations (though often humorously)
 when used of human behavior. “The guy is rational most of the time, but
 mention nuclear energy around him and he'll generate
-`infinite <../I/infinite.html>`__ flamage.”
+`infinite <./I.html#infinite.html>`__ flamage.”
 
 
 gen
@@ -469,7 +469,7 @@ where nnnn represents a number; any LISP hacker would recognize G0093
 
 3. A freshly generated data structure with a gensymmed name. Gensymmed
 names are useful for storing or uniquely identifying crufties (see
-`cruft <../C/cruft.html>`__).
+`cruft <./C.html#cruft.html>`__).
 
 
 Get a life!
@@ -503,7 +503,7 @@ done on a system that (a) was single-tasking, (b) had no hard disk, or
 (c) had an address space smaller than 16 megabytes. In 2003 anything
 less powerful than a 500MHz Pentium with a multi-gigabyte hard disk
 would probably be similarly written off. The threshold for ‘real
-computer’ rises with time. See `bitty box <../B/bitty-box.html>`__ and
+computer’ rises with time. See `bitty box <./B.html#bitty-box.html>`__ and
 `toy <../T/toy.html>`__.
 
 
@@ -518,7 +518,7 @@ G
 2. The letter G has special significance in the hacker community,
 largely thanks to the GNU project and the GPL.
 
-Many `free software <../F/free-software.html>`__ projects have names
+Many `free software <./F.html#free-software.html>`__ projects have names
 that names that begin with G. The GNU project gave many of its projects
 names that were acronyms beginning with the word “GNU”, such as “GNU C
 Compiler” (gcc) and “GNU Debugger” (gdb), and this launched a tradition.
@@ -538,7 +538,7 @@ gib
 
 **gib**: /jib/
 
-1. vi. To destroy utterly. Like `frag <../F/frag.html>`__, but much
+1. vi. To destroy utterly. Like `frag <./F.html#frag.html>`__, but much
 more violent and final. “There's no trace left. You definitely gibbed
 that bug”.
 
@@ -557,7 +557,7 @@ GIFs at 11
 **GIFs at 11**
 
 [Fidonet] Fidonet alternative to `film at
-11 <../F/film-at-11.html>`__, especially in echoes (Fidonet topic
+11 <./F.html#film-at-11.html>`__, especially in echoes (Fidonet topic
 areas) where uuencoded GIFs are permitted. Other formats, especially
 JPEG and MPEG, may be referenced instead.
 
@@ -589,7 +589,7 @@ GIGO
 **GIGO**: /gi:´goh/
 
 1. ‘Garbage In, Garbage Out’ — usually said in response to
-`luser <../L/luser.html>`__\ s who complain that a program didn't “do
+`luser <./L.html#luser.html>`__\ s who complain that a program didn't “do
 the right thing” when given imperfect input or otherwise mistreated in
 some way. Also commonly used to describe failures in human decision
 making due to faulty, incomplete, or imprecise data.
@@ -606,7 +606,7 @@ gilley
 
 **gilley**: n.
 
-[Usenet] The unit of analogical `bogosity <../B/bogosity.html>`__.
+[Usenet] The unit of analogical `bogosity <./B.html#bogosity.html>`__.
 According to its originator, the standard for one gilley was “the act of
 bogotoficiously comparing the shutting down of 1000 machines for a day
 with the killing of one person”. The milligilley has been found to
@@ -685,7 +685,7 @@ glassfet
 **glassfet**: /glas´fet/, n.
 
 [by analogy with MOSFET, the acronym for Metal-Oxide-Semiconductor
-Field-Effect Transistor] Syn. `firebottle <../F/firebottle.html>`__, a
+Field-Effect Transistor] Syn. `firebottle <./F.html#firebottle.html>`__, a
 humorous way to refer to a vacuum tube.
 
 
@@ -711,7 +711,7 @@ printing terminal, it can't do fancy display hacks, and like a display
 terminal, it doesn't produce hard copy. An example is the early ‘dumb’
 version of Lear-Siegler ADM 3 (without cursor control). See
 `tube <../T/tube.html>`__, `tty <../T/tty.html>`__; compare `dumb
-terminal <../D/dumb-terminal.html>`__. See *`TV
+terminal <./D.html#dumb-terminal.html>`__. See *`TV
 Typewriters <../tv-typewriters.html>`__* (Appendix A) for an interesting
 true story about a glass tty.
 
@@ -748,7 +748,7 @@ change to some `random <../R/random.html>`__ value for some very brief
 time before they settle down to the correct value. If another circuit
 inspects the output at just the wrong time, reading the random value,
 the results can be very wrong and very hard to debug (a glitch is one of
-many causes of electronic `heisenbug <../H/heisenbug.html>`__\ s).
+many causes of electronic `heisenbug <./H.html#heisenbug.html>`__\ s).
 
 .. image:: ../_static/73-06-04.png
 
@@ -806,7 +806,7 @@ one attempts to save the results of two hours of editing and finds that
 the system has just crashed.
 
 2. Used as a name for just about anything. See
-`foo <../F/foo.html>`__.
+`foo <./F.html#foo.html>`__.
 
 3. vt. Similar to `glitch <glitch.html>`__, but usually used
 reflexively. “My program just glorked itself.”
@@ -834,7 +834,7 @@ gnarly
 
 **gnarly**: /nar´lee/, adj.
 
-Both `obscure <../O/obscure.html>`__ and `hairy <../H/hairy.html>`__
+Both `obscure <../O/obscure.html>`__ and `hairy <./H.html#hairy.html>`__
 (sense 1). “\ `Yow! <../Y/Yow-.html>`__ — the tuned assembler
 implementation of BitBlt is really gnarly!” From a similar but less
 specific usage in surfer slang.
@@ -873,7 +873,7 @@ disagree with RMS have nevertheless cooperated to produce large amounts
 of high-quality software for free redistribution under the Free Software
 Foundation's imprimatur. The GNU project has a web page at
 `http://www.gnu.org/ <http://www.gnu.org/>`__. See
-`EMACS <../E/EMACS.html>`__, `copyleft <../C/copyleft.html>`__,
+`EMACS <../E/EMACS.html>`__, `copyleft <./C.html#copyleft.html>`__,
 `General Public Virus <General-Public-Virus.html>`__,
 `Linux <../L/Linux.html>`__.
 
@@ -976,7 +976,7 @@ go-faster stripes
 
 **go-faster stripes**: n.
 
-[UK] Syn. `chrome <../C/chrome.html>`__. Mainstream in some parts of
+[UK] Syn. `chrome <./C.html#chrome.html>`__. Mainstream in some parts of
 UK.
 
 
@@ -989,7 +989,7 @@ go flatline
 [from cyberpunk SF, refers to flattening of EEG traces upon brain-death]
 (also adjectival flatlined).
 
-1. To `die <../D/die.html>`__, terminate, or fail, esp. irreversibly.
+1. To `die <./D.html#die.html>`__, terminate, or fail, esp. irreversibly.
 In hacker parlance, this is used of machines only, human death being
 considered somewhat too serious a matter to employ jargon-jokes about.
 
@@ -1094,7 +1094,7 @@ panache. (Thompson's original sense.)
 2. More loosely: Overwhelming; outrageous; over the top; very large,
 esp. used of collections of source code, source files, or individual
 functions. Has some of the connotations of `moby <../M/moby.html>`__
-and `hairy <../H/hairy.html>`__, but without the implication of
+and `hairy <./H.html#hairy.html>`__, but without the implication of
 obscurity or complexity.
 
 
@@ -1152,7 +1152,7 @@ of a particular search on Google or frequent placement in the results of
 a various searches is said to have “a lot of google juice” or “good
 google juice”. Also used to compare web pages or web sites, for example
 “CrackMonkey has more google juice than KPMG”. See also
-`juice <../J/juice.html>`__, `kilogoogle <../K/kilogoogle.html>`__.
+`juice <./J.html#juice.html>`__, `kilogoogle <./K.html#kilogoogle.html>`__.
 
 
 gopher hole
@@ -1206,7 +1206,7 @@ with the understanding that no definition is ever final. [A
 correspondent from the former Soviet Union informs me that *gorets* is
 Russian for ‘mountain dweller’. Another from France informs me that
 *goret* is archaic French for a young pig —ESR] Compare
-`frink <../F/frink.html>`__.
+`frink <./F.html#frink.html>`__.
 
 
 
@@ -1251,7 +1251,7 @@ gorp
 [CMU: perhaps from the canonical hiker's food, Good Old Raisins and
 Peanuts] Another `metasyntactic
 variable <../M/metasyntactic-variable.html>`__, like
-`foo <../F/foo.html>`__ and `bar <../B/bar.html>`__.
+`foo <./F.html#foo.html>`__ and `bar <./B.html#bar.html>`__.
 
 
 
@@ -1267,7 +1267,7 @@ largely eclipsed by `GNUMACS <GNUMACS.html>`__. Originally freeware; a
 commercial version was modestly popular as ‘UniPress EMACS’ during the
 1980s. The author, James Gosling, went on to invent
 `NeWS <../N/NeWS.html>`__ and the programming language Java; the
-latter earned him `demigod <../D/demigod.html>`__ status.
+latter earned him `demigod <./D.html#demigod.html>`__ status.
 
 
 gotcha
@@ -1294,7 +1294,7 @@ GPL
 **GPL**: /G·P·L/, n.
 
 Abbreviation for ‘General Public License’ in widespread use; see
-`copyleft <../C/copyleft.html>`__, `General Public
+`copyleft <./C.html#copyleft.html>`__, `General Public
 Virus <General-Public-Virus.html>`__. Often mis-expanded as ‘GNU Public
 License’.
 
@@ -1323,7 +1323,7 @@ term is one of the entire biosphere of Earth being eventually converted
 to robot goo. This is the simplest of the
 `nanotechnology <../N/nanotechnology.html>`__ disaster scenarios,
 easily refuted by arguments from energy requirements and elemental
-abundances. Compare `blue goo <../B/blue-goo.html>`__.
+abundances. Compare `blue goo <./B.html#blue-goo.html>`__.
 
 
 
@@ -1333,7 +1333,7 @@ gray hat
 
 **gray hat**
 
-See `black hat <../B/black-hat.html>`__.
+See `black hat <./B.html#black-hat.html>`__.
 
 
 
@@ -1357,7 +1357,7 @@ Great Renaming
 
 **Great Renaming**: n.
 
-The `flag day <../F/flag-day.html>`__ in 1987 on which all of the
+The `flag day <./F.html#flag-day.html>`__ in 1987 on which all of the
 non-local groups on the `Usenet <../U/Usenet.html>`__ had their names
 changed from the net.- format to the current multiple-hierarchies
 scheme. Used esp. in discussing the history of newsgroup names. “The
@@ -1375,7 +1375,7 @@ Great Runes
 
 Uppercase-only text or display messages. Some archaic operating systems
 still emit these. See also `runes <../R/runes.html>`__, `smash
-case <../S/smash-case.html>`__, `fold case <../F/fold-case.html>`__.
+case <../S/smash-case.html>`__, `fold case <./F.html#fold-case.html>`__.
 
 There is a widespread legend (repeated by earlier versions of this
 entry, though tagged as folklore) that the uppercase-only support of
@@ -1413,8 +1413,8 @@ Great Worm
 
 The 1988 Internet `worm <../W/worm.html>`__ perpetrated by
 `RTM <../R/RTM.html>`__. This is a play on Tolkien (compare
-`elvish <../E/elvish.html>`__, `elder
-days <../E/elder-days.html>`__). In the fantasy history of his Middle
+`elvish <./E.html#elvish.html>`__, `elder
+days <./E.html#elder-days.html>`__). In the fantasy history of his Middle
 Earth books, there were dragons powerful enough to lay waste to entire
 regions; two of these (Scatha and Glaurung) were known as “the Great
 Worms”. This usage expresses the connotation that the RTM crack was a
@@ -1454,7 +1454,7 @@ green.
 file contains, among other things, green bytes describing the packing
 method for the image.” Compare
 `out-of-band <../O/out-of-band.html>`__,
-`zigamorph <../Z/zigamorph.html>`__, `fence <../F/fence.html>`__
+`zigamorph <../Z/zigamorph.html>`__, `fence <./F.html#fence.html>`__
 (sense 1).
 
 
@@ -1474,7 +1474,7 @@ for that instruction.”
 The original green card became a yellow card when the System/370 was
 introduced, and later a yellow booklet. An anecdote from IBM refers to a
 scene that took place in a programmers' terminal room at Yorktown in
-1978. A `luser <../L/luser.html>`__ overheard one of the programmers
+1978. A `luser <./L.html#luser.html>`__ overheard one of the programmers
 ask another “Do you have a green card?” The other grunted and passed the
 first a thick yellow booklet. At this point the luser turned a delicate
 shade of olive and rapidly left the room, never to return.
@@ -1502,7 +1502,7 @@ Later microprocessor-driven IBM color graphics displays were actually
 2. [proposed] Any bug perverted into an alleged feature by adroit
 rationalization or marketing. “Motorola calls the CISC cruft in the
 88000 architecture ‘compatibility logic’, but I call it green
-lightning”. See also `feature <../F/feature.html>`__ (sense 6).
+lightning”. See also `feature <./F.html#feature.html>`__ (sense 6).
 
 
 
@@ -1574,7 +1574,7 @@ grilf
 **grilf**: //, n.
 
 Girlfriend. Like `newsfroup <../N/newsfroup.html>`__ and
-`filk <../F/filk.html>`__, a typo reincarnated as a new word. Seems to
+`filk <./F.html#filk.html>`__, a typo reincarnated as a new word. Seems to
 have originated sometime in 1990 on `Usenet <../U/Usenet.html>`__. [A
 friend tells me there was a Lloyd Biggle SF novel *Watchers Of The
 Dark*, in which alien species after species goes insane and begins to
@@ -1629,9 +1629,9 @@ source.
 
 3. [common] To run seemingly interminably, esp. (but not necessarily) if
 performing some tedious and inherently useless task. Similar to
-`crunch <../C/crunch.html>`__ or `grovel <grovel.html>`__. Grinding
+`crunch <./C.html#crunch.html>`__ or `grovel <grovel.html>`__. Grinding
 has a connotation of using a lot of CPU time, but it is possible to
-grind a disk, network, etc. See also `hog <../H/hog.html>`__.
+grind a disk, network, etc. See also `hog <./H.html#hog.html>`__.
 
 4. To make the whole system slow. “Troff really grinds a
 `PDP-11 <../P/PDP-11.html>`__.”
@@ -1701,7 +1701,7 @@ down.”
 
 2. Of people, the condition of feeling very tired or (less commonly)
 sick. “I've been chasing that bug for 17 hours now and I am thoroughly
-gronked!” Compare `broken <../B/broken.html>`__, which means about the
+gronked!” Compare `broken <./B.html#broken.html>`__, which means about the
 same as `gronk <gronk.html>`__ used of hardware, but connotes
 depression or mental/emotional problems in people.
 
@@ -1716,7 +1716,7 @@ gronk
 apparently predates that]
 
 1. To clear the state of a wedged device and restart it. More severe
-than ‘to `frob <../F/frob.html>`__\ ’ (sense 2).
+than ‘to `frob <./F.html#frob.html>`__\ ’ (sense 2).
 
 2. [TMRC] To cut, sever, smash, or similarly disable.
 
@@ -1743,7 +1743,7 @@ grovel
 1. To work interminably and without apparent progress. Often used
 transitively with ‘over’ or ‘through’. “The file scavenger has been
 groveling through the /usr directories for 10 minutes now.” Compare
-`grind <grind.html>`__ and `crunch <../C/crunch.html>`__. Emphatic
+`grind <grind.html>`__ and `crunch <./C.html#crunch.html>`__. Emphatic
 form: grovel obscenely.
 
 2. To examine minutely or in complete detail. “The compiler grovels over
@@ -1793,7 +1793,7 @@ grunge
 
 2. [Cambridge] Code which is inaccessible due to changes in other parts
 of the program. The preferred term in North America is `dead
-code <../D/dead-code.html>`__.
+code <./D.html#dead-code.html>`__.
 
 
 gubbish
@@ -1829,7 +1829,7 @@ guiltware
 
 **guiltware**: /gilt´weir/, n.
 
-1. A piece of `freeware <../F/freeware.html>`__ decorated with a
+1. A piece of `freeware <./F.html#freeware.html>`__ decorated with a
 message telling one how long and hard the author worked on it and
 intimating that one is a no-good freeloader if one does not immediately
 send the poor suffering martyr gobs of money.
@@ -1875,7 +1875,7 @@ gunpowder chicken
 
 **gunpowder chicken**: n.
 
-Same as `laser chicken <../L/laser-chicken.html>`__.
+Same as `laser chicken <./L.html#laser-chicken.html>`__.
 
 
 guru
@@ -1924,20 +1924,20 @@ gweep
 
 [WPI]
 
-1. v. To `hack <../H/hack.html>`__, usually at night. At WPI, from
+1. v. To `hack <./H.html#hack.html>`__, usually at night. At WPI, from
 1975 onwards, one who gweeped could often be found at the College
 Computing Center punching cards or crashing the
 `PDP-10 <../P/PDP-10.html>`__ or, later, the DEC-20. A correspondent
 who was there at the time opines that the term was originally
 onomatopoetic, describing the keyclick sound of the Datapoint terminals
 long connected to the PDP-10; others allege that ‘gweep’ was the sound
-of the Datapoint's bell (compare `feep <../F/feep.html>`__). The term
+of the Datapoint's bell (compare `feep <./F.html#feep.html>`__). The term
 has survived the demise of those technologies, however, and was still
 alive in early 1999. “I'm going to go gweep for a while. See you in the
 morning.” “I gweep from 8 PM till 3 AM during the week.”
 
 2. n. One who habitually gweeps in sense 1; a
-`hacker <../H/hacker.html>`__. “He's a hard-core gweep, mumbles code
+`hacker <./H.html#hacker.html>`__. “He's a hard-core gweep, mumbles code
 in his sleep.” Around 1979 this was considered derogatory and not used
 in self-reference; it has since been proudly claimed in much the same
 way as `geek <geek.html>`__.
@@ -1950,7 +1950,7 @@ GWF
 **GWF**: n.
 
 “Common abbreviation for Goober with Firewall”. A
-`luser <../L/luser.html>`__ who has equipped his desktop computer with
+`luser <./L.html#luser.html>`__ who has equipped his desktop computer with
 a hypersensitive “software firewall” or host intrusion detection
 program, and who gives its alerts absolute credence. ISP tech support
 and abuse desks dread hearing from such persons, who insist that every
@@ -1958,7 +1958,7 @@ packet of abnormal traffic the software detects is “a hacker” (sic) and,
 occasionally, threatening lawsuits or prosecution. GWFs have been known
 to assert that they are being attacked from 127.0.0.1, and that their
 ISP is criminally negligent for failing to block these attacks. “GWF” is
-used similarly to `ID10T error <../I/idiot.html>`__ and
+used similarly to `ID10T error <./I.html#idiot.html>`__ and
 `PEBKAC <../P/PEBKAC.html>`__ to flag trouble tickets opened by such
 users.
 
