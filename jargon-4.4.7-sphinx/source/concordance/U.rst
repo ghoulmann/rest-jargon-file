@@ -92,7 +92,7 @@ Used to refer to the Unix operating system (a trademark of AT&T, then of
 Novell, then of Unix Systems Laboratories, then of the Open Group; the
 source code parted company with it after Novell and was owned by SCO,
 which was acquired by Caldera) in writing, but avoiding the need for the
-ugly ™ typography (see also `(TM) <../0/TM.html>`__). Also used to
+ugly ™ typography (see also `(TM) <./other.html#TM.html>`__). Also used to
 refer to any or all varieties of Unixoid operating systems. Ironically,
 lawyers now say that the requirement for the trademark postfix has no
 legal force, but the asterisk usage is entrenched anyhow. It has been

@@ -2899,7 +2899,7 @@ Commonwealth hackish the variant ‘bonk’ is more common.
 gathering, e.g., Miniboink, a small boink held by Nancy Gillett in 1988;
 Minniboink, a Boinkcon in Minnesota in 1989; Humpdayboinks, Wednesday
 get-togethers held in the San Francisco Bay Area. Compare
-`@-party <../0/at-party>`__.
+`@-party <./other.html#at-party>`__.
 
 3. Var of bonk; see `bonk/oif <#bonk-oif>`__.
 
