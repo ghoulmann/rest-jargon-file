@@ -9,7 +9,7 @@ tail recursion
 **tail recursion**: n.
 
 If you aren't sick of it already, see `tail
-recursion <tail-recursion>`__.
+recursion <#tail-recursion>`__.
 
 
 talker system
@@ -19,7 +19,7 @@ talker system
 **talker system**: n.
 
 British hackerism for software that enables real-time chat or `talk
-mode <talk-mode>`__.
+mode <#talk-mode>`__.
 
 
 talk mode
@@ -96,7 +96,7 @@ derived from) Morse-code jargon used by ham-radio amateurs since the
 + ------+                          -------------+
 | SYN                | Are you busy? (expects ACK, SYN\|ACK, or RST in return; this is modeled on the TCP/IP handshake sequence)                                                                                                                                                                                                                                                                               |
 + ------+                          -------------+
-| T                  | yes (see the main entry for `T <T>`__)                                                                                                                                                                                                                                                                                                                                           |
+| T                  | yes (see the main entry for `T <#T>`__)                                                                                                                                                                                                                                                                                                                                           |
 + ------+                          -------------+
 | TNX                | thanks                                                                                                                                                                                                                                                                                                                                                                                  |
 + ------+                          -------------+
@@ -164,7 +164,7 @@ derived from) Morse-code jargon used by ham-radio amateurs since the
 Most of these are not used at universities or in the Unix world, though
 ROTF and TTFN have gained some currency there and IMHO is common;
 conversely, most of the people who know these are unfamiliar with FOO?,
-BCNU, HELLOP, `NIL <./N.html#NIL>`__, and `T <T>`__.
+BCNU, HELLOP, `NIL <./N.html#NIL>`__, and `T <#T>`__.
 
 The `MUD <./M.html#MUD>`__ community uses a mixture of
 Usenet/Internet emoticons, a few of the more natural of the old-style
@@ -292,7 +292,7 @@ feathering partly for euphony and (if only for contrived effect) by
 analogy to what you do with an airplane propeller to decrease wind
 resistance, or with an oar to reduce water resistance; smaller files,
 after all, slip through comm links more easily. Compare the more common
-`tarball <tarball>`__. Earlier, the phrase referred to a
+`tarball <#tarball>`__. Earlier, the phrase referred to a
 punishment in which the victims had tar being poured upon them and then,
 whilst the tar was still sticky, having a pillow full of feathers - or
 other material — thrown at them. See
@@ -342,7 +342,7 @@ has the additional meaning of ‘kind’ or ‘variety’ not shared by taste.
 The marked sense of `flavor <./F.html#flavor>`__ is more popular than
 taste, though both are widely used. See also `elegant <./E.html#elegant>`__.
 
-2. Alt. sp. of `tayste <tayste>`__.
+2. Alt. sp. of `tayste <#tayste>`__.
 
 
 tayste
@@ -351,7 +351,7 @@ tayste
 
 **tayste**: /tayst/
 
-n. Two bits; also as `taste <taste>`__. Syn.
+n. Two bits; also as `taste <#taste>`__. Syn.
 `crumb <./C.html#crumb>`__, `quarter <./Q.html#quarter>`__. See
 `nybble <./N.html#nybble>`__.
 
@@ -609,7 +609,7 @@ terminal brain death
 
 **terminal brain death**: n.
 
-The extreme form of `terminal illness <terminal-illness>`__
+The extreme form of `terminal illness <#terminal-illness>`__
 (sense 1). What someone who has obviously been hacking continuously for
 far too long is said to be suffering from.
 
@@ -638,7 +638,7 @@ time. Variants include terminal jockey, console junkie, and `console
 jockey <./C.html#console-jockey>`__. The term console jockey seems to
 imply more expertise than the other three (possibly because of the
 exalted status of the `console <./C.html#console>`__ relative to an
-ordinary terminal). See also `twink <twink>`__, `ead-only
+ordinary terminal). See also `twink <#twink>`__, `ead-only
 user <./R.html#read-only-user>`__. Appropriately, this term was used
 in the works of William S. Burroughs to describe a heroin addict with an
 unlimited supply.
@@ -667,7 +667,7 @@ TeX
 An extremely powerful `macro <./M.html#macro>`__-based text formatter
 written by Donald E. `Knuth <./K.html#Knuth>`__, very popular in the
 computer-science community (it is good enough to have displaced Unix
-`troff <troff>`__, the other favored formatter, even at many Unix
+`troff <#troff>`__, the other favored formatter, even at many Unix
 installations). TeX fans insist on the correct (guttural) pronunciation,
 and the correct spelling (all caps, squished together, with the E
 depressed below the baseline; the mixed-case ‘TeX’ is considered an
@@ -687,7 +687,7 @@ was finally frozen around 1985, but volume IV of *The Art of Computer
 Programming* is not expected to appear until 2007. The impact and
 influence of TeX's design has been such that nobody minds this very
 much. Many grand hackish projects have started as a bit of
-`toolsmith <toolsmith>`__\ ing on the way to something else;
+`toolsmith <#toolsmith>`__\ ing on the way to something else;
 Knuth's diversion was simply on a grander scale than most.
 
 TeX has also been a noteworthy example of free, shared, but high-quality
@@ -750,7 +750,7 @@ the literature
 
 Computer-science journals and other publications, vaguely gestured at to
 answer a question that the speaker believes is
-`trivial <trivial>`__. Thus, one might answer an annoying
+`trivial <#trivial>`__. Thus, one might answer an annoying
 question by saying “It's in the literature.” Oppose
 `Knuth <./K.html#Knuth>`__, which has no connotation of triviality.
 
@@ -832,7 +832,7 @@ references — a common humorous way of making exclusive statements about
 a class of things. The template is from the *Tao te Ching*: “The Tao
 which can be spoken of is not the true Tao.” The implication is often
 that the X is a mystery accessible only to the enlightened. See the
-`trampoline <trampoline>`__ entry for an example, and compare
+`trampoline <#trampoline>`__ entry for an example, and compare
 `has the X nature <./H.html#has-the-X-nature>`__.
 
 
@@ -954,13 +954,13 @@ Fortunately, most hackers (particularly those who frequent Chinese
 restaurants) like tea at least as well as coffee — so it is not that big
 a problem.
 
-2. See `time T <time-T>`__ (also `since time T equals minus
+2. See `time T <#time-T>`__ (also `since time T equals minus
 infinity <./S.html#since-time-T-equals-minus-infinity>`__).
 
 3. [techspeak] In transaction-processing circles, an abbreviation for
 the noun ‘transaction’.
 
-4. [Purdue] Alternate spelling of `tee <tee>`__.
+4. [Purdue] Alternate spelling of `tee <#tee>`__.
 
 5. A dialect of `LISP <./L.html#LISP>`__ developed at Yale. (There is
 an intended allusion to NIL, “New Implementation of Lisp”, another
@@ -1032,7 +1032,7 @@ is called forcing.
 
 3. A `stubroutine <./S.html#stubroutine>`__, in an overlay
 programming environment, that loads and jumps to the correct overlay.
-Compare `trampoline <trampoline>`__.
+Compare `trampoline <#trampoline>`__.
 
 4. Microsoft and IBM have both defined, in their Intel-based systems, a
 “16-bit environment” (with bletcherous segment registers and 64K address
@@ -1295,7 +1295,7 @@ TINLC
 
 Abbreviation: “There Is No Lumber Cartel”. See `Lumber
 Cartel <./L.html#Lumber-Cartel>`__. TINLC is a takeoff on
-`TINC <TINC>`__.
+`TINC <#TINC>`__.
 
 
 tip of the ice-cube
@@ -1411,7 +1411,7 @@ TMRCie
 
 **TMRCie**: /tmerk´ee/, n.
 
-[MIT] A denizen of `TMRC <TMRC>`__.
+[MIT] A denizen of `TMRC <#TMRC>`__.
 
 
 TMTOWTDI
@@ -1473,7 +1473,7 @@ running Unix on your toaster!”
 
 2. A very, very dumb computer. “You could run this program on any dumb
 toaster.” See `bitty box <./B.html#bitty-box>`__, `Get a real
-computer! <./G.html#Get-a-real-computer->`__, `toy <toy>`__,
+computer! <./G.html#Get-a-real-computer->`__, `toy <#toy>`__,
 `beige toaster <./B.html#beige-toaster>`__.
 
 3. A Macintosh, esp. a Mac in the original unitary case. Some hold that
@@ -1530,7 +1530,7 @@ TOFU
 
 **TOFU**
 
-Text Over, Fullquote Under; see `top-post <top-post>`__.
+Text Over, Fullquote Under; see `top-post <#top-post>`__.
 
 
 
@@ -1587,7 +1587,7 @@ tool
 other programs, such as a compiler or an editor or a cross-referencing
 program. Oppose `app <./A.html#app>`__, `operating
 system <./O.html#operating-system>`__; see also
-`toolchain <toolchain>`__.
+`toolchain <#toolchain>`__.
 
 2. [Unix] An application program with a simple, ‘transparent’ (typically
 text-stream) interface designed specifically to be used in programmed
@@ -1610,7 +1610,7 @@ toolsmith
 **toolsmith**: n.
 
 The software equivalent of a tool-and-die specialist; one who
-specializes in making the `tool <tool>`__\ s with which other
+specializes in making the `tool <#tool>`__\ s with which other
 programmers create applications. Many hackers consider this more fun
 than applications per se; to understand why, see
 `uninteresting <./U.html#uninteresting>`__. Jon Bentley, in the
@@ -1639,7 +1639,7 @@ topic drift
 **topic drift**: n.
 
 Term used on GEnie, Usenet and other electronic fora to describe the
-tendency of a `thread <thread>`__ to drift away from the original
+tendency of a `thread <#thread>`__ to drift away from the original
 subject of discussion (and thus, from the Subject header of the
 originating message), or the results of that tendency. The header in
 each post can be changed to keep current with the posts, but usually
@@ -1714,8 +1714,8 @@ TOPS-10
 `DEC <./D.html#DEC>`__'s proprietary OS for the fabled
 `PDP-10 <./P.html#PDP-10>`__ machines, long a favorite of hackers but
 now long extinct. A fountain of hacker folklore; see Appendix A. See
-also `ITS <./I.html#ITS>`__, `TOPS-20 <TOPS-20>`__,
-`TWENEX <TWENEX>`__, `VMS <./V.html#VMS>`__, `operating
+also `ITS <./I.html#ITS>`__, `TOPS-20 <#TOPS-20>`__,
+`TWENEX <#TWENEX>`__, `VMS <./V.html#VMS>`__, `operating
 system <./O.html#operating-system>`__. TOPS-10 was sometimes called
 BOTS-10 (from ‘bottoms-ten’) as a comment on the inappropriateness of
 describing it as the top of anything.
@@ -1727,7 +1727,7 @@ TOPS-20
 
 **TOPS-20**: /tops·twen´tee/, n.
 
-See `TWENEX <TWENEX>`__.
+See `TWENEX <#TWENEX>`__.
 
 
 TOS
@@ -1755,11 +1755,11 @@ tourist
 over a network from a remote location for `comm
 mode <./C.html#comm-mode>`__, email, games, and other trivial
 purposes. One step below `luser <./L.html#luser>`__. ITS hackers
-often used to spell this `turist <turist>`__, perhaps by some
+often used to spell this `turist <#turist>`__, perhaps by some
 sort of tenuous analogy with `luser <./L.html#luser>`__ (this usage
 may also have expressed the ITS culture's penchant for six-letterisms,
 and/or been some sort of tribute to Alan Turing). Compare
-`twink <twink>`__, `lurker <./L.html#lurker>`__, `read-only
+`twink <#twink>`__, `lurker <./L.html#lurker>`__, `read-only
 user <./R.html#read-only-user>`__.
 
 2. [IRC] An `IRC <./I.html#IRC>`__ user who goes from channel to
@@ -1773,7 +1773,7 @@ touristic
 
 **touristic**: adj.
 
-Having the quality of a `tourist <tourist>`__. Often used as a
+Having the quality of a `tourist <#tourist>`__. Often used as a
 pejorative, as in ‘losing touristic scum’. Often spelled ‘turistic’ or
 ‘turistik’, so that phrase might be more properly rendered ‘lusing
 turistic scum’.
@@ -1839,7 +1839,7 @@ toy problem
 [AI] A deliberately oversimplified case of a challenging problem used to
 investigate, prototype, or test algorithms for a real problem. Sometimes
 used pejoratively. See also `gedanken <./G.html#gedanken>`__, `toy
-program <toy-program>`__.
+program <#toy-program>`__.
 
 
 toy program
@@ -1973,7 +1973,7 @@ treeware
 **treeware**: /tree´weir/, n.
 
 Printouts, books, and other information media made from pulped dead
-trees. Compare `tree-killer <tree-killer>`__, see
+trees. Compare `tree-killer <#tree-killer>`__, see
 `documentation <./D.html#documentation>`__.
 
 
@@ -2052,7 +2052,7 @@ internals, Kernighan concludes:
     forced into uses that were never conceived of in the original
     design, all with considerable grace under fire.
 
-The success of `TeX <TeX>`__ and desktop publishing systems have
+The success of `TeX <#TeX>`__ and desktop publishing systems have
 reduced **troff**'s relative importance, but this tribute perfectly
 captures the strengths that secured **troff** a place in hacker
 folklore; indeed, it could be taken more generally as an indication of
@@ -2148,7 +2148,7 @@ cavelike corners.
 Some people claim that the troll (sense 1) is properly a narrower
 category than `flame bait <./F.html#flame-bait>`__, that a troll is
 categorized by containing some assertion that is wrong but not overtly
-controversial. See also `Troll-O-Meter <Troll-O-Meter>`__.
+controversial. See also `Troll-O-Meter <#Troll-O-Meter>`__.
 
 The use of ‘troll’ in any of these senses is a live metaphor that
 readily produces elaborations and combining forms. For example, one not
@@ -2164,7 +2164,7 @@ Troll-O-Meter
 **Troll-O-Meter**: n.
 
 Common Usenet jargon for a notional instrument used to measure the
-provocation level of a Usenet `troll <troll>`__. “Come on,
+provocation level of a Usenet `troll <#troll>`__. “Come on,
 everyone! If the above doesn't set off the Troll-O-Meter, we're going to
 have to get him to run around with a big blinking sign saying ‘I am a
 troll, I’m only in it for the controversy and flames', and shooting
@@ -2380,7 +2380,7 @@ turist
 
 **turist**: /too´rist/, n.
 
-Var. sp. of `tourist <tourist>`__, q.v. Also in adjectival form,
+Var. sp. of `tourist <#tourist>`__, q.v. Also in adjectival form,
 ‘turistic’. Poss. influenced by `luser <./L.html#luser>`__ and
 ‘Turing’.
 
@@ -2422,13 +2422,13 @@ tweak
 **tweak**: vt.
 
 1. To change slightly, usually in reference to a value. Also used
-synonymously with `twiddle <twiddle>`__. If a program is almost
+synonymously with `twiddle <#twiddle>`__. If a program is almost
 correct, rather than figure out the precise problem you might just keep
 tweaking it until it works. See `frobnicate <./F.html#frobnicate>`__
 and `fudge factor <./F.html#fudge-factor>`__; also see `shotgun
 debugging <./S.html#shotgun-debugging>`__.
 
-2. To `tune <tune>`__ a program; preferred usage in the U.K.
+2. To `tune <#tune>`__ a program; preferred usage in the U.K.
 
 TWENEX
 ======================
@@ -2488,8 +2488,8 @@ much less sense of purpose than toggling or tweaking it; see
 `frobnicate <./F.html#frobnicate>`__. To speak of twiddling a bit
 connotes aimlessness, and at best doesn't specify what you're doing to
 the bit; ‘toggling a bit’ has a more specific meaning (see `bit
-twiddling <./B.html#bit-twiddling>`__, `toggle <toggle>`__). 4.
-Uncommon name for the `twirling baton <twirling-baton>`__ prompt.
+twiddling <./B.html#bit-twiddling>`__, `toggle <#toggle>`__). 4.
+Uncommon name for the `twirling baton <#twirling-baton>`__ prompt.
 
 
 twilight zone

@@ -1940,7 +1940,7 @@ morning.” “I gweep from 8 PM till 3 AM during the week.”
 `hacker <./H.html#hacker>`__. “He's a hard-core gweep, mumbles code
 in his sleep.” Around 1979 this was considered derogatory and not used
 in self-reference; it has since been proudly claimed in much the same
-way as `geek <geek>`__.
+way as `geek <#geek>`__.
 
 
 GWF

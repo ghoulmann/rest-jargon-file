@@ -46,12 +46,7 @@ pejorative than `Macintrash <Macintrash>`__.
 
 
 Macintrash
-
-`Prev <Macintoy>`__ 
-
-M
-
- `Next <macro>`__
+============
 
  
 
@@ -72,12 +67,7 @@ paper <./D.html#drool-proof-paper>`__,
 
 
 macro-
-
-`Prev <macro>`__ 
-
-M
-
- `Next <macrology>`__
+===========
 
  
 
@@ -93,12 +83,7 @@ restrict the latter to quantification.
 
 
 macro
-
-`Prev <Macintrash>`__ 
-
-M
-
- `Next <macro->`__
+============
 
  
 
@@ -132,12 +117,7 @@ keyboard enhancers).
 
 
 macrology
-
-`Prev <macro->`__ 
-
-M
-
- `Next <maggotbox>`__
+============
 
  
 
@@ -156,12 +136,7 @@ construction. See also `boxology <./B.html#boxology>`__.
 
 
 maggotbox
-
-`Prev <macrology>`__ 
-
-M
-
- `Next <magic>`__
+==============
 
  
 
@@ -173,12 +148,7 @@ See `Macintrash <Macintrash>`__. This is even more derogatory.
 
 
 magic cookie
-
-`Prev <magic>`__ 
-
-M
-
- `Next <magic-number>`__
+==============
 
  
 
@@ -208,12 +178,7 @@ compare `mouse droppings <mouse-droppings>`__). See also
 
 
 magic
-
-`Prev <maggotbox>`__ 
-
-M
-
- `Next <magic-cookie>`__
+=============
 
  
 
@@ -250,13 +215,7 @@ wizardry <./H.html#heavy-wizardry>`__.
 
 
 magic number
-
-`Prev <magic-cookie>`__ 
-
-M
-
- `Next <magic-smoke>`__
-
+================
  
 
 **magic number**: n.
@@ -306,12 +265,7 @@ design of the phone system.
 
 
 magic smoke
-
-`Prev <magic-number>`__ 
-
-M
-
- `Next <mail-storm>`__
+==============
 
  
 
@@ -339,12 +293,7 @@ the magic smoke didn't get let out.” Compare the original phrasing of
 
 
 mailbomb
-
-`Prev <mail-storm>`__ 
-
-M
-
- `Next <mailing-list>`__
+===============
 
  
 
@@ -370,12 +319,7 @@ victim's system, and in extreme cases, even at upstream sites.
 
 
 mailing list
-
-`Prev <mailbomb>`__ 
-
-M
-
- `Next <main-loop>`__
+=======================
 
  
 
@@ -420,12 +364,7 @@ criticized and polished on just such a mailing list (called
 
 
 mail storm
-
-`Prev <magic-smoke>`__ 
-
-M
-
- `Next <mailbomb>`__
+==============
 
  
 
@@ -442,12 +381,7 @@ flood of incoming mail that brings the machine to its knees. See also
 
 
 mainframe
-
-`Prev <main-loop>`__ 
-
-M
-
- `Next <mainsleaze>`__
+=============
 
  
 
@@ -487,12 +421,7 @@ saving IBM's mainframe division from almost certain extinction.
 
 
 main loop
-
-`Prev <mailing-list>`__ 
-
-M
-
- `Next <mainframe>`__
+==============
 
  
 
@@ -507,12 +436,7 @@ input. See also `driver <./D.html#driver>`__.
 
 
 mainsleaze
-
-`Prev <mainframe>`__ 
-
-M
-
- `Next <malware>`__
+==============
 
  
 
@@ -532,12 +456,7 @@ down.
 
 
 malware
-
-`Prev <mainsleaze>`__ 
-
-M
-
- `Next <man-page>`__
+==================
 
  
 
@@ -549,12 +468,7 @@ unwitting user would not choose; especially used of
 horse <./T.html#Trojan-horse>`__ software.
 
 management
-
-`Prev <man-page>`__ 
-
-M
-
- `Next <mandelbug>`__
+===========
 
  
 
@@ -573,12 +487,7 @@ Mgt’; this derives from the *Illuminatus* novels (see the
 
 
 mandelbug
-
-`Prev <management>`__ 
-
-M
-
- `Next <manged>`__
+====================
 
  
 
@@ -595,12 +504,7 @@ non-deterministic. This term implies that the speaker thinks it is a
 
 
 manged
-
-`Prev <mandelbug>`__ 
-
-M
-
- `Next <mangle>`__
+===================
 
  
 
@@ -614,12 +518,7 @@ after the electrical storm.” Compare `mung <mung>`__.
  
 
 mangled name
-
-`Prev <mangle>`__ 
-
-M
-
- `Next <mangler>`__
+====================
 
  
 
@@ -638,12 +537,7 @@ int)” as “@memchr$qpxviui”.
  
 
 mangle
-
-`Prev <manged>`__ 
-
-M
-
- `Next <mangled-name>`__
+================
 
  
 
@@ -661,13 +555,7 @@ to a C++ declaration.
 
 
 mangler
-
-`Prev <mangled-name>`__ 
-
-M
-
- `Next <manularity>`__
-
+=================
  
 
 **mangler**: n.
@@ -681,12 +569,7 @@ connotation.
 
 
 man page
-
-`Prev <malware>`__ 
-
-M
-
- `Next <management>`__
+=============
 
  
 
@@ -724,12 +607,7 @@ itself a major subsystem.
 +  +  +  ---+
 
 manularity
-
-`Prev <mangler>`__ 
-
-M
-
- `Next <marching-ants>`__
+===============
 
  
 
@@ -754,12 +632,7 @@ will inevitably seize the opportunity to build another tool (see
 +  +  +  ------+
 
 marbles
-
-`Prev <marching-ants>`__ 
-
-M
-
- `Next <marginal>`__
+================
 
  
 
@@ -781,12 +654,7 @@ enough marbles to compile `hello world <./H.html#hello-world>`__.”
 +  ------+  +  -+
 
 marching ants
-
-`Prev <manularity>`__ 
-
-M
-
- `Next <marbles>`__
+==================
 
  
 
@@ -805,12 +673,7 @@ programs.
 +  ---+  +  +
 
 marginal
-
-`Prev <marbles>`__ 
-
-M
-
- `Next <marginally>`__
+==============
 
  
 
@@ -839,13 +702,7 @@ me.”
 +  +  +  ---+
 
 marginally
-
-`Prev <marginal>`__ 
-
-M
-
- `Next <marketroid>`__
-
+============
  
 
 **marginally**: adv.
@@ -862,12 +719,7 @@ Place.” See `epsilon <./E.html#epsilon>`__.
 +  -+  +  ---+
 
 marketroid
-
-`Prev <marginally>`__ 
-
-M
-
- `Next <Mars>`__
+==============
 
  
 
@@ -890,12 +742,7 @@ adspeak. Derogatory. Compare `droid <./D.html#droid>`__.
 +  ---+  + -----------+
 
 Mars
-
-`Prev <marketroid>`__ 
-
-M
-
- `Next <martian>`__
+===============
 
  
 
@@ -945,13 +792,7 @@ World <./R.html#Real-World>`__, you need to learn Real World moves.
 +  ---+  +  +
 
 martian
-
-`Prev <Mars>`__ 
-
-M
-
- `Next <massage>`__
-
+=============
  
 
 **martian**: n.
@@ -973,13 +814,7 @@ packet <./C.html#Christmas-tree-packet>`__,
 + -----------+  +  +
 
 massage
-
-`Prev <martian>`__ 
-
-M
-
- `Next <math-out>`__
-
+==============
  
 
 **massage**: vt.
@@ -999,12 +834,7 @@ bitmap files into GIF format.” Compare `slurp <./S.html#slurp>`__.
 +  +  +  -+
 
 math-out
-
-`Prev <massage>`__ 
-
-M
-
- `Next <Matrix>`__
+==============
 
  
 
@@ -1034,13 +864,9 @@ previous one is the `frontispiece <../lexicon.html#crunchly-1>`__.)
 +  +  + -------------+
 
 .. |image0| image:: ../_static/73-05-18.png
+
 Matrix
-
-`Prev <math-out>`__ 
-
-M
-
- `Next <maximum-Maytag-mode>`__
+=============
 
  
 
@@ -1069,13 +895,7 @@ sense by John Quarterman; rare outside academic literature).
 +  -+  +  ------------+
 
 maximum Maytag mode
-
-`Prev <Matrix>`__ 
-
-M
-
- `Next <McQuary-limit>`__
-
+====================
  
 
 **maximum Maytag mode**: n.
@@ -1097,12 +917,7 @@ has recently been reported with 24X CD-ROM drives.
 + -------------+  +  ------+
 
 McQuary limit
-
-`Prev <maximum-Maytag-mode>`__ 
-
-M
-
- `Next <meatspace>`__
+===============
 
  
 
@@ -1129,12 +944,7 @@ to avoid sigs that are large, repetitive, and distracting. See also
 +  ------------+  +  --+
 
 meatspace
-
-`Prev <McQuary-limit>`__ 
-
-M
-
- `Next <meatware>`__
+============
 
  
 
@@ -1155,12 +965,7 @@ Compare `RL <./R.html#RL>`__.
 +  ------+  +  -+
 
 meatware
-
-`Prev <meatspace>`__ 
-
-M
-
- `Next <meeces>`__
+=================
 
  
 
@@ -1177,12 +982,7 @@ Synonym for `wetware <./W.html#wetware>`__. Less common.
 +  --+  + -------------+
 
 meeces
-
-`Prev <meatware>`__ 
-
-M
-
- `Next <meg>`__
+============
 
  
 
@@ -1202,12 +1002,7 @@ cartoon character Mr. Jinks: “I hate meeces to *pieces*!” — ESR]
 +  -+  + ----------+
 
 mega-
-
-`Prev <meg>`__ 
-
-M
-
- `Next <megapenny>`__
+===========
 
  
 
@@ -1224,13 +1019,7 @@ M
 + ----------+  +  --+
 
 megapenny
-
-`Prev <mega->`__ 
-
-M
-
- `Next <MEGO>`__
-
+==============
  
 
 **megapenny**: /meg'@·pen\`ee/, n.
@@ -1247,12 +1036,7 @@ computer cost and performance figures.
 + ------------+  + -----------+
 
 meg
-
-`Prev <meeces>`__ 
-
-M
-
- `Next <mega->`__
+=============
 
  
 
@@ -1269,12 +1053,7 @@ See `quantifiers <./Q.html#quantifiers>`__.
 + -------------+  + ------------+
 
 MEGO
-
-`Prev <megapenny>`__ 
-
-M
-
- `Next <meltdown--network>`__
+=========
 
  
 
@@ -1305,12 +1084,7 @@ actual excess of it.
 +  --+  +  ----------+
 
 meltdown, network
-
-`Prev <MEGO>`__ 
-
-M
-
- `Next <meme>`__
+====================
 
  
 
@@ -1327,13 +1101,7 @@ See `network meltdown <./N.html#network-meltdown>`__.
 + -----------+  + -----------+
 
 meme
-
-`Prev <meltdown--network>`__ 
-
-M
-
- `Next <meme-plague>`__
-
+=============
  
 
 **meme**: /meem/, n.
@@ -1361,13 +1129,7 @@ obvious reasons.
 +  ----------+  +  ----+
 
 meme plague
-
-`Prev <meme>`__ 
-
-M
-
- `Next <memetics>`__
-
+================
  
 
 **meme plague**: n.
@@ -1389,12 +1151,7 @@ followed by collapses to small reservoir populations.
 + -----------+  +  -+
 
 memetics
-
-`Prev <meme-plague>`__ 
-
-M
-
- `Next <memory-farts>`__
+==============
 
  
 
@@ -1416,12 +1173,7 @@ information ecologies in which memes live and replicate.
 +  ----+  +  -----+
 
 memory farts
-
-`Prev <memetics>`__ 
-
-M
-
- `Next <memory-leak>`__
+=================
 
  
 
@@ -1439,12 +1191,7 @@ when checking memory on bootup.
 +  -+  +  ----+
 
 memory leak
-
-`Prev <memory-farts>`__ 
-
-M
-
- `Next <memory-smash>`__
+==============
 
  
 
@@ -1475,12 +1222,7 @@ heap <./L.html#leaky-heap>`__, `leak <./L.html#leak>`__.
 +  -----+  +  -----+
 
 memory smash
-
-`Prev <memory-leak>`__ 
-
-M
-
- `Next <menuitis>`__
+=============
 
  
 
@@ -1502,12 +1244,7 @@ imply an allocation error or overrun condition.
 +  ----+  +  -+
 
 menuitis
-
-`Prev <memory-smash>`__ 
-
-M
-
- `Next <mess-dos>`__
+=============
 
  
 
@@ -1532,13 +1269,7 @@ us <./F.html#for-the-rest-of-us>`__.
 +  -----+  +  -+
 
 mess-dos
-
-`Prev <menuitis>`__ 
-
-M
-
- `Next <meta>`__
-
+===============
  
 
 **mess-dos**: /mes·dos/, n.
@@ -1563,12 +1294,7 @@ brand of toilet cleanser.
 +  -+  + -----------+
 
 meta bit
-
-`Prev <meta>`__ 
-
-M
-
- `Next <metasyntactic-variable>`__
+=========
 
  
 
@@ -1598,12 +1324,7 @@ keyboard <./S.html#space-cadet-keyboard>`__) generated hex 100 (octal
 + -----------+  +   -+
 
 meta
-
-`Prev <mess-dos>`__ 
-
-M
-
- `Next <meta-bit>`__
+===========
 
  
 
@@ -1624,13 +1345,7 @@ between meta-levels. See `hacker humor <./H.html#hacker-humor>`__.
 +  -+  +  -+
 
 metasyntactic variable
-
-`Prev <meta-bit>`__ 
-
-M
-
- `Next <MFTL>`__
-
+========================
  
 
 **metasyntactic variable**: n.
@@ -1710,12 +1425,7 @@ and the Commonwealth.
 +  -+  + -----------+
 
 MFTL
-
-`Prev <metasyntactic-variable>`__ 
-
-M
-
- `Next <mickey>`__
+==========
 
  
 
@@ -1767,12 +1477,7 @@ OS-supported and -imposed “file types”.)
 +   -+  + -------------+
 
 M
-
-`Prev <../M>`__ 
-
-M
-
- `Next <MS>`__
+======
 
  
 
@@ -1789,12 +1494,7 @@ M
 + -----------+  + ---------+
 
 mickey
-
-`Prev <MFTL>`__ 
-
-M
-
- `Next <mickey-mouse-program>`__
+==========
 
  
 
@@ -1812,12 +1512,7 @@ disney will become a benchmark unit for animation graphics performance.
 + -----------+  +  -------------+
 
 mickey mouse program
-
-`Prev <mickey>`__ 
-
-M
-
- `Next <micro->`__
+=====================
 
  
 
@@ -1837,12 +1532,7 @@ trivial programs can be very useful.
 + -------------+  + -------------+
 
 MicroDroid
-
-`Prev <micro->`__ 
-
-M
-
- `Next <microfortnight>`__
+=========================
 
  
 
@@ -1864,12 +1554,7 @@ sounding like visiting fundamentalist missionaries. See also
 + -------------+  +  -------+
 
 microfortnight
-
-`Prev <MicroDroid>`__ 
-
-M
-
- `Next <microLenat>`__
+=================
 
  
 
@@ -1896,12 +1581,7 @@ Multiple uses of the millifortnight (about 20 minutes) and
 +  ---+  +  ---+
 
 micro-
-
-`Prev <mickey-mouse-program>`__ 
-
-M
-
- `Next <MicroDroid>`__
+============
 
  
 
@@ -1939,12 +1619,7 @@ or (best of all) telecommuting.
 +  -------------+  +  ---+
 
 microLenat
-
-`Prev <microfortnight>`__ 
-
-M
-
- `Next <microReid>`__
+=================
 
  
 
@@ -1972,12 +1647,7 @@ as the microReid.
 +  -------+  +  --+
 
 microReid
-
-`Prev <microLenat>`__ 
-
-M
-
- `Next <microserf>`__
+===========
 
  
 
@@ -1994,19 +1664,13 @@ See `microLenat <microLenat>`__.
 +  ---+  +  --+
 
 microserf
-
-`Prev <microReid>`__ 
-
-M
-
- `Next <Microsloth-Windows>`__
-
+=====================
  
 
 **microserf**: /mi:´kro·s@rf/
 
 [popularized, though not originated, by Douglas Coupland's book
-*Microserfs*] A programmer at `Microsoft <Microsoft>`__,
+*Microserfs*] A programmer at `Microsoft <#Microsoft>`__,
 especially a low-level coder with little chance of fame or fortune.
 Compare `MicroDroid <MicroDroid>`__.
 
@@ -2019,12 +1683,7 @@ Compare `MicroDroid <MicroDroid>`__.
 +  --+  +  -----------+
 
 Microsloth Windows
-
-`Prev <microserf>`__ 
-
-M
-
- `Next <Microsoft>`__
+====================
 
  
 
@@ -2051,13 +1710,7 @@ Death <./B.html#Blue-Screen-of-Death>`__; compare
 +  --+  +  --+
 
 Microsoft
-
-`Prev <Microsloth-Windows>`__ 
-
-M
-
- `Next <micros-tilde-1>`__
-
+===============
  
 
 **Microsoft**
@@ -2078,12 +1731,7 @@ Documents <./H.html#Halloween-Documents>`__.
 +  -----------+  +  -------+
 
 micros~1
-
-`Prev <Microsoft>`__ 
-
-M
-
- `Next <middle-endian>`__
+=============
 
  
 
@@ -2108,12 +1756,7 @@ exist after a break-up.
 +  --+  +  ------+
 
 middle-endian
-
-`Prev <micros-tilde-1>`__ 
-
-M
-
- `Next <middle-out-implementation>`__
+===============
 
  
 
@@ -2137,12 +1780,7 @@ big-endian yy/mm/dd for Western dates).
 +  -------+  +   ----+
 
 middle-out implementation
-
-`Prev <middle-endian>`__ 
-
-M
-
- `Next <milliLampson>`__
+===========================
 
  
 
@@ -2159,12 +1797,7 @@ See `bottom-up implementation <./B.html#bottom-up-implementation>`__.
 +  ------+  +  -----+
 
 milliLampson
-
-`Prev <middle-out-implementation>`__ 
-
-M
-
- `Next <minor-detail>`__
+==============
 
  
 
@@ -2190,12 +1823,7 @@ up with his speeding brain.
 +   ----+  +  -----+
 
 minor detail
-
-`Prev <milliLampson>`__ 
-
-M
-
- `Next <MIPS>`__
+===============
 
  
 
@@ -2215,12 +1843,7 @@ it crashes the system right after is a minor detail.” Compare
 +  -----+  + -----------+
 
 MIPS
-
-`Prev <minor-detail>`__ 
-
-M
-
- `Next <misbug>`__
+============
 
  
 
@@ -2259,12 +1882,7 @@ sense 1).
 +  -----+  + -------------+
 
 misbug
-
-`Prev <MIPS>`__ 
-
-M
-
- `Next <misfeature>`__
+=============
 
  
 
@@ -2286,12 +1904,7 @@ lightning <./G.html#green-lightning>`__. See
 + -----------+  +  ---+
 
 misfeature
-
-`Prev <misbug>`__ 
-
-M
-
- `Next <missile-address>`__
+=============
 
  
 
@@ -2325,12 +1938,7 @@ wanted to save directory space and we're stuck with it for now.”
 + -------------+  +  --------+
 
 missile address
-
-`Prev <misfeature>`__ 
-
-M
-
- `Next <MiSTing>`__
+==================
 
  
 
@@ -2347,12 +1955,7 @@ See `ICBM address <./I.html#ICBM-address>`__.
 +  ---+  +  +
 
 MiSTing
-
-`Prev <missile-address>`__ 
-
-M
-
- `Next <miswart>`__
+============
 
  
 
@@ -2373,12 +1976,7 @@ and Caligula.
 +  --------+  +  +
 
 miswart
-
-`Prev <MiSTing>`__ 
-
-M
-
- `Next <MMF>`__
+===========
 
  
 
@@ -2405,12 +2003,7 @@ experimentation to be what most users want. This feature is a miswart.
 +  +  + ----------+
 
 MMF
-
-`Prev <miswart>`__ 
-
-M
-
- `Next <mobo>`__
+============
 
  
 
@@ -2433,12 +2026,7 @@ Page <http://www.stopspam.org/usenet/mmf/>`__.
 +  +  + -----------+
 
 mobo
-
-`Prev <MMF>`__ 
-
-M
-
- `Next <moby>`__
+=========
 
  
 
@@ -2455,12 +2043,7 @@ Written and (rarely) spoken contraction of “motherboard”
 + ----------+  + -----------+
 
 moby
-
-`Prev <mobo>`__ 
-
-M
-
- `Next <mockingbird>`__
+===========
 
  
 
@@ -2530,13 +2113,7 @@ exactly 1 megabyte of 9-bit bytes).
 + -----------+  +  ----+
 
 mockingbird
-
-`Prev <moby>`__ 
-
-M
-
- `Next <mod>`__
-
+=============
  
 
 **mockingbird**: n.
@@ -2555,12 +2132,7 @@ special case of `Trojan horse <./T.html#Trojan-horse>`__.
 + -----------+  + ----------+
 
 mode bit
-
-`Prev <mode>`__ 
-
-M
-
- `Next <modulo>`__
+===========
 
  
 
@@ -2583,12 +2155,7 @@ Program Status Word of the IBM 360.
 + -----------+  + -------------+
 
 mode
-
-`Prev <mod>`__ 
-
-M
-
- `Next <mode-bit>`__
+===========
 
  
 
@@ -2633,13 +2200,7 @@ times.
 + ----------+  +  -+
 
 mod
-
-`Prev <mockingbird>`__ 
-
-M
-
- `Next <mode>`__
-
+===========
  
 
 **mod**: vt.,n.
@@ -2665,12 +2226,7 @@ techspeak sense.
 +  ----+  + -----------+
 
 modulo
-
-`Prev <mode-bit>`__ 
-
-M
-
- `Next <mojibake>`__
+===============
 
  
 
@@ -2691,12 +2247,7 @@ headache.”
 +  -+  +  -+
 
 mojibake
-
-`Prev <modulo>`__ 
-
-M
-
- `Next <molly-guard>`__
+============
 
  
 
@@ -2716,12 +2267,7 @@ configured for them. There is a page on the topic at
 + -------------+  +  ----+
 
 molly-guard
-
-`Prev <mojibake>`__ 
-
-M
-
- `Next <Mongolian-Hordes-technique>`__
+===============
 
  
 
@@ -2744,13 +2290,7 @@ see the much less interesting description “guarded button”.
 +  -+  +   -----+
 
 Mongolian Hordes technique
-
-`Prev <molly-guard>`__ 
-
-M
-
- `Next <monkey-up>`__
-
+===================================================
  
 
 **Mongolian Hordes technique**: n.
@@ -2771,13 +2311,7 @@ see also `Brooks's Law <./B.html#Brookss-Law>`__.
 +  ----+  +  --+
 
 monkey, scratch
-
-`Prev <monkey-up>`__ 
-
-M
-
- `Next <monstrosity>`__
-
+=========================
  
 
 **monkey, scratch**: n.
@@ -2793,13 +2327,7 @@ See `scratch monkey <./S.html#scratch-monkey>`__.
 +  --+  +  ----+
 
 monkey up
-
-`Prev <Mongolian-Hordes-technique>`__ 
-
-M
-
- `Next <monkey--scratch>`__
-
+==============
  
 
 **monkey up**: vt.
@@ -2819,13 +2347,7 @@ together <./C.html#cruft-together>`__.
 +   -----+  +  --------+
 
 monstrosity
-
-`Prev <monkey--scratch>`__ 
-
-M
-
- `Next <monty>`__
-
+=================
  
 
 **monstrosity**
@@ -2846,12 +2368,7 @@ of jargonification). See also `baroque <./B.html#baroque>`__.
 +  --------+  + ------------+
 
 monty
-
-`Prev <monstrosity>`__ 
-
-M
-
- `Next <Moof>`__
+================
 
  
 
@@ -2884,13 +2401,7 @@ phrase. Compare American `moby <moby>`__.
 +  ----+  + -----------+
 
 Moof
-
-`Prev <monty>`__ 
-
-M
-
- `Next <Moores-Law>`__
-
+===============
  
 
 **Moof**: /moof/
@@ -2921,12 +2432,7 @@ say “I got moofed”.
 + ------------+  +  ---+
 
 Moore's Law
-
-`Prev <Moof>`__ 
-
-M
-
- `Next <moria>`__
+====================
 
  
 
@@ -2945,8 +2451,7 @@ reconstructing the meaning of the terminology he used in the original
 turns out to be fraught with difficulties. Further variants were spawned
 by Intel's PR department and various journalists.
 
-It has been
-`shown <http://firstmonday.org/issues/issue7_11/tuomi/index>`__
+It has been `shown <http://firstmonday.org/issues/issue7_11/tuomi/index.html>`__
 that none of the variants of Moore's Law actually fit the data very well
 (the price curves within DRAM generations perhaps come closest).
 Nevertheless, Moore's Law is constantly invoked to set up expectations
@@ -2963,12 +2468,7 @@ about the next generation of computing technology. See also
 + -----------+  + ------------+
 
 moria
-
-`Prev <Moores-Law>`__ 
-
-M
-
- `Next <MOTAS>`__
+===========
 
  
 
@@ -2993,12 +2493,7 @@ major consumer of time better used for hacking. See also
 +  ---+  + ------------+
 
 MOTAS
-
-`Prev <moria>`__ 
-
-M
-
- `Next <MOTOS>`__
+===========
 
  
 
@@ -3017,12 +2512,7 @@ partner. See also `SO <./S.html#SO>`__.
 + ------------+  + ------------+
 
 MOTOS
-
-`Prev <MOTAS>`__ 
-
-M
-
- `Next <MOTSS>`__
+===========
 
  
 
@@ -3043,12 +2533,7 @@ Opposite Sex] A potential or (less often) actual sex partner. See
 + ------------+  + ------------+
 
 MOTSS
-
-`Prev <MOTOS>`__ 
-
-M
-
- `Next <mouse-ahead>`__
+==============
 
  
 
@@ -3069,12 +2554,7 @@ it. See also `SO <./S.html#SO>`__.
 + ------------+  +  ----+
 
 mouse ahead
-
-`Prev <MOTSS>`__ 
-
-M
-
- `Next <mouse-belt>`__
+================
 
  
 
@@ -3098,13 +2578,7 @@ interface.
 + ------------+  +  ---+
 
 mouse belt
-
-`Prev <mouse-ahead>`__ 
-
-M
-
- `Next <mouse-droppings>`__
-
+=============
  
 
 **mouse belt**: n.
@@ -3120,12 +2594,7 @@ See `rat belt <./R.html#rat-belt>`__.
 +  ----+  +  --------+
 
 mouse droppings
-
-`Prev <mouse-belt>`__ 
-
-M
-
- `Next <mouse-elbow>`__
+===================
 
  
 
@@ -3148,12 +2617,7 @@ quite support the graphics mode in use.
 +  ---+  +  ----+
 
 mouse elbow
-
-`Prev <mouse-droppings>`__ 
-
-M
-
- `Next <mouse-pusher>`__
+================
 
  
 
@@ -3173,12 +2637,7 @@ himself to be ambimoustrous.
 +  --------+  +  -----+
 
 mouse pusher
-
-`Prev <mouse-elbow>`__ 
-
-M
-
- `Next <mouso>`__
+=================
 
  
 
@@ -3199,12 +2658,7 @@ the command line.
 +  ----+  + ------------+
 
 mouso
-
-`Prev <mouse-pusher>`__ 
-
-M
-
- `Next <MS-DOS>`__
+==============
 
  
 
@@ -3223,12 +2677,7 @@ inappropriate selection or graphic garbage on the screen. Compare
 +  -----+  + -------------+
 
 MS-DOS
-
-`Prev <mouso>`__ 
-
-M
-
- `Next <mu>`__
+==============
 
  
 
@@ -3267,12 +2716,7 @@ No!”). See `mess-dos <mess-dos>`__.
 + ------------+  + ---------+
 
 M$
-
-`Prev <M>`__ 
-
-M
-
- `Next <macdink>`__
+======
 
  
 
@@ -3290,12 +2734,7 @@ monopoly.
 + --------+  +  +
 
 muddie
-
-`Prev <MUD>`__ 
-
-M
-
- `Next <mudhead>`__
+=============
 
  
 
@@ -3314,12 +2753,7 @@ muddies” when annoyed at the species.
 + ----------+  +  +
 
 mudhead
-
-`Prev <muddie>`__ 
-
-M
-
- `Next <muggle>`__
+============
 
  
 
@@ -3353,13 +2787,7 @@ Pliers*, in which there is a character named “Mudhead”.
 + -------------+  + -------------+
 
 MUD
-
-`Prev <mu>`__ 
-
-M
-
- `Next <muddie>`__
-
+=========
  
 
 **MUD**: /muhd/, n.
@@ -3429,12 +2857,7 @@ explored. It survived. See also `bonk/oif <./B.html#bonk-oif>`__,
 + ---------+  + -------------+
 
 muggle
-
-`Prev <mudhead>`__ 
-
-M
-
- `Next <Multics>`__
+============
 
  
 
@@ -3465,13 +2888,7 @@ muggle-friendly. Compare `luser <./L.html#luser>`__,
 +  +  +  +
 
 mu
-
-`Prev <MS-DOS>`__ 
-
-M
-
- `Next <MUD>`__
-
+================
  
 
 **mu**: /moo/
@@ -3511,13 +2928,7 @@ An Eternal Golden Braid* (pointer in the
 + -------------+  + ----------+
 
 Multics
-
-`Prev <muggle>`__ 
-
-M
-
- `Next <multitask>`__
-
+=============
  
 
 **Multics**: /muhl´tiks/, n.
@@ -3569,13 +2980,7 @@ decommissioned in November 2000. There is a Multics page at
 + -------------+  +  --+
 
 multitask
-
-`Prev <Multics>`__ 
-
-M
-
- `Next <mumblage>`__
-
+===============
  
 
 **multitask**: n.
@@ -3595,13 +3000,7 @@ the same time), is used similarly.
 +  +  +  -+
 
 mumblage
-
-`Prev <multitask>`__ 
-
-M
-
- `Next <mumble>`__
-
+===========
  
 
 **mumblage**: /muhm´bl@j/, n.
@@ -3620,12 +3019,7 @@ is being used as an implicit replacement for pejoratives.
 +  --+  + -------------+
 
 mumble
-
-`Prev <mumblage>`__ 
-
-M
-
- `Next <munch>`__
+===========
 
  
 
@@ -3679,12 +3073,7 @@ would be fruitless.
 +  -+  + ------------+
 
 munch
-
-`Prev <mumble>`__ 
-
-M
-
- `Next <munching>`__
+============
 
  
 
@@ -3705,12 +3094,7 @@ computation. To trace down a data structure. Related to
 + -------------+  +  -+
 
 munching
-
-`Prev <munch>`__ 
-
-M
-
- `Next <munching-squares>`__
+============
 
  
 
@@ -3730,12 +3114,7 @@ off <./H.html#hacked-off>`__.
 + ------------+  +  ---------+
 
 munching squares
-
-`Prev <munching>`__ 
-
-M
-
- `Next <munchkin>`__
+=================
 
  
 
@@ -3767,12 +3146,7 @@ example of the use of the word `foo <./F.html#foo>`__ as a
 +  -+  +  -+
 
 munchkin
-
-`Prev <munching-squares>`__ 
-
-M
-
- `Next <mundane>`__
+===========
 
  
 
@@ -3796,12 +3170,7 @@ box <./B.html#bitty-box>`__.
 +  ---------+  +  +
 
 mundane
-
-`Prev <munchkin>`__ 
-
-M
-
- `Next <mung>`__
+===========
 
  
 
@@ -3824,13 +3193,7 @@ often an adjectival modifier as in “in my mundane life....” See also
 +  -+  + -----------+
 
 munge
-
-`Prev <mung>`__ 
-
-M
-
- `Next <Murphys-Law>`__
-
+=========
  
 
 **munge**: /muhnj/, vt.
@@ -3863,13 +3226,7 @@ person's nose)”.
 + -----------+  +  ----+
 
 mung
-
-`Prev <mundane>`__ 
-
-M
-
- `Next <munge>`__
-
+============
  
 
 **mung**: /muhng/, vt.
@@ -3928,12 +3285,7 @@ is impossible to distinguish one from another.”
 +  +  + ------------+
 
 Murphy's Law
-
-`Prev <munge>`__ 
-
-M
-
- `Next <music>`__
+=================
 
  
 
@@ -3977,12 +3329,7 @@ mutants clearly demonstrates Murphy's Law acting on itself!
 + ------------+  + ------------+
 
 music
-
-`Prev <Murphys-Law>`__ 
-
-M
-
- `Next <mutter>`__
+=================
 
  
 
@@ -4015,13 +3362,7 @@ control group of `mundane <mundane>`__ types.
 +  ----+  + -------------+
 
 mutter
-
-`Prev <music>`__ 
-
-M
-
- `Next <../N>`__
-
+========
  
 
 **mutter**: vt.

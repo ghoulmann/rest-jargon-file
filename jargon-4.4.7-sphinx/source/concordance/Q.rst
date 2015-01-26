@@ -370,7 +370,7 @@ variable <./M.html#metasyntactic-variable>`__, after
 recent mutation from `quux <quux>`__, and many versions
 (especially older versions) of the standard series just run
 `foo <./F.html#foo>`__, `bar <./B.html#bar>`__,
-`baz <./B.html#baz>`__, `quux <quux>`__, ....
+`baz <./B.html#baz>`__, `quux <#quux>`__, ....
 
 
 QWERTY
