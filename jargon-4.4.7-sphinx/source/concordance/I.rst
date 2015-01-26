@@ -5,11 +5,11 @@ I
 
 IANAL
 
-`Prev <I-for-one-welcome-our-new-X-overlords.html>`__ 
+`Prev <I-for-one-welcome-our-new-X-overlords>`__ 
 
 I
 
- `Next <IBM.html>`__
+ `Next <IBM>`__
 
  
 
@@ -21,18 +21,18 @@ advice.
  
 
 +    --+  + ----------+
-| `Prev <I-for-one-welcome-our-new-X-overlords.html>`__    | `Up <../I.html>`__         |  `Next <IBM.html>`__   |
+| `Prev <I-for-one-welcome-our-new-X-overlords>`__    | `Up <../I>`__         |  `Next <IBM>`__   |
 +    --+  + ----------+
-| I for one welcome our new X overlords                    | `Home <../index.html>`__   |  IBM                   |
+| I for one welcome our new X overlords                    | `Home <../index>`__   |  IBM                   |
 +    --+  + ----------+
 
 IBM
 
-`Prev <IANAL.html>`__ 
+`Prev <IANAL>`__ 
 
 I
 
- `Next <ICBM-address.html>`__
+ `Next <ICBM-address>`__
 
  
 
@@ -45,13 +45,13 @@ From hackerdom's beginnings in the mid-1960s to the early 1990s, IBM was
 regarded with active loathing. Common expansions of the corporate name
 included: Inferior But Marketable; It's Better Manually; Insidious Black
 Magic; It's Been Malfunctioning; Incontinent Bowel Movement; and a
-near-`infinite <infinite.html>`__ number of even less complimentary
+near-`infinite <infinite>`__ number of even less complimentary
 expansions (see also `fear and
-loathing <./F.html#fear-and-loathing.html>`__). What galled hackers about
+loathing <./F.html#fear-and-loathing>`__). What galled hackers about
 most IBM machines above the PC level wasn't so much that they were
 underpowered and overpriced (though that counted against them), but that
-the designs were incredibly archaic, `crufty <./C.html#crufty.html>`__,
-and `elephantine <./E.html#elephantine.html>`__ ... and you couldn't *fix*
+the designs were incredibly archaic, `crufty <./C.html#crufty>`__,
+and `elephantine <./E.html#elephantine>`__ ... and you couldn't *fix*
 them — source code was locked up tight, and programming tools were
 expensive, hard to find, and bletcherous to use once you had found them.
 
@@ -62,11 +62,11 @@ noxious and omnipresent than IBM had ever been.
 
 In the late 1990s IBM re-invented itself as a services company, began to
 release open-source software through its AlphaWorks group, and began
-shipping `Linux <./L.html#Linux.html>`__ systems and building ties to the
+shipping `Linux <./L.html#Linux>`__ systems and building ties to the
 Linux community. To the astonishment of all parties, IBM emerged as a
 staunch friend of the hacker community and `open
-source <./O.html#open-source.html>`__ development, with ironic consequences
-noted in the `FUD <./F.html#FUD.html>`__ entry.
+source <./O.html#open-source>`__ development, with ironic consequences
+noted in the `FUD <./F.html#FUD>`__ entry.
 
 This lexicon includes a number of entries attributed to ‘IBM’; these
 derive from some rampantly unofficial jargon lists circulated within
@@ -75,18 +75,18 @@ IBM's formerly beleaguered hacker underground.
  
 
 + ------------+  +  -----+
-| `Prev <IANAL.html>`__    | `Up <../I.html>`__         |  `Next <ICBM-address.html>`__   |
+| `Prev <IANAL>`__    | `Up <../I>`__         |  `Next <ICBM-address>`__   |
 + ------------+  +  -----+
-| IANAL                    | `Home <../index.html>`__   |  ICBM address                   |
+| IANAL                    | `Home <../index>`__   |  ICBM address                   |
 + ------------+  +  -----+
 
 ICBM address
 
-`Prev <IBM.html>`__ 
+`Prev <IBM>`__ 
 
 I
 
- `Next <ice.html>`__
+ `Next <ice>`__
 
  
 
@@ -98,24 +98,24 @@ blank for longitude and latitude, preferably to seconds-of-arc accuracy.
 This was actually used for generating geographically-correct maps of
 Usenet links on a plotter; however, it became traditional to refer to
 this as one's ICBM address or missile address, and some people include
-it in their `sig block <./S.html#sig-block.html>`__ with that name. (A
+it in their `sig block <./S.html#sig-block>`__ with that name. (A
 real missile address would include target elevation.)
 
  
 
 + ----------+  + ----------+
-| `Prev <IBM.html>`__    | `Up <../I.html>`__         |  `Next <ice.html>`__   |
+| `Prev <IBM>`__    | `Up <../I>`__         |  `Next <ice>`__   |
 + ----------+  + ----------+
-| IBM                    | `Home <../index.html>`__   |  ice                   |
+| IBM                    | `Home <../index>`__   |  ice                   |
 + ----------+  + ----------+
 
 ice
 
-`Prev <ICBM-address.html>`__ 
+`Prev <ICBM-address>`__ 
 
 I
 
- `Next <idiot.html>`__
+ `Next <idiot>`__
 
  
 
@@ -141,18 +141,18 @@ strong cryptography.
  
 
 +  -----+  + ------------+
-| `Prev <ICBM-address.html>`__    | `Up <../I.html>`__         |  `Next <idiot.html>`__   |
+| `Prev <ICBM-address>`__    | `Up <../I>`__         |  `Next <idiot>`__   |
 +  -----+  + ------------+
-| ICBM address                    | `Home <../index.html>`__   |  ID10T error             |
+| ICBM address                    | `Home <../index>`__   |  ID10T error             |
 +  -----+  + ------------+
 
 idempotent
 
-`Prev <idiot.html>`__ 
+`Prev <idiot>`__ 
 
 I
 
- `Next <IDP.html>`__
+ `Next <IDP>`__
 
  
 
@@ -160,7 +160,7 @@ I
 
 [from mathematical techspeak] Acting as if used only once, even if used
 multiple times. This term is often used with respect to
-`C <./C.html#C.html>`__ header files, which contain common definitions and
+`C <./C.html#C>`__ header files, which contain common definitions and
 declarations to be included by several source files. If a header file is
 ever included twice during the same compilation (perhaps due to nested
 #include files), compilation errors can result unless the header file
@@ -173,56 +173,56 @@ times.
  
 
 + ------------+  + ----------+
-| `Prev <idiot.html>`__    | `Up <../I.html>`__         |  `Next <IDP.html>`__   |
+| `Prev <idiot>`__    | `Up <../I>`__         |  `Next <IDP>`__   |
 + ------------+  + ----------+
-| ID10T error              | `Home <../index.html>`__   |  IDP                   |
+| ID10T error              | `Home <../index>`__   |  IDP                   |
 + ------------+  + ----------+
 
 I didn't change anything!
 
-`Prev <../I.html>`__ 
+`Prev <../I>`__ 
 
 I
 
- `Next <I-see-no-X-here-.html>`__
+ `Next <I-see-no-X-here->`__
 
  
 
 **I didn't change anything!**: interj.
 
 An aggrieved cry often heard as bugs manifest during a regression test.
-The `canonical <./C.html#canonical.html>`__ reply to this assertion is
+The `canonical <./C.html#canonical>`__ reply to this assertion is
 “Then it works just the same as it did before, doesn't it?” See also
-`one-line fix <./O.html#one-line-fix.html>`__. This is also heard from
+`one-line fix <./O.html#one-line-fix>`__. This is also heard from
 applications programmers trying to blame an obvious applications problem
 on an unrelated systems software change, for example a divide-by-0 fault
 after terminals were added to a network. Usually, their statement is
 found to be false. Upon close questioning, they will admit some major
 restructuring of the program that shouldn't have broken anything, in
-their opinion, but which actually `hosed <./H.html#hosed.html>`__ the code
+their opinion, but which actually `hosed <./H.html#hosed>`__ the code
 completely.
 
  
 
 + -----------+  +  ---------+
-| `Prev <../I.html>`__    | `Up <../I.html>`__         |  `Next <I-see-no-X-here-.html>`__   |
+| `Prev <../I>`__    | `Up <../I>`__         |  `Next <I-see-no-X-here->`__   |
 + -----------+  +  ---------+
-| I                       | `Home <../index.html>`__   |  I see no X here.                   |
+| I                       | `Home <../index>`__   |  I see no X here.                   |
 + -----------+  +  ---------+
 
 ID10T error
 
-`Prev <ice.html>`__ 
+`Prev <ice>`__ 
 
 I
 
- `Next <idempotent.html>`__
+ `Next <idempotent>`__
 
  
 
 **ID10T error**: /I·D·ten·T er'@r/
 
-Synonym for `PEBKAC <./P.html#PEBKAC.html>`__, e.g. “The user is being an
+Synonym for `PEBKAC <./P.html#PEBKAC>`__, e.g. “The user is being an
 idiot”. Tech-support people passing a problem report to someone higher
 up the food chain (and presumably better equipped to deal with idiots)
 may ask the user to convey that there seems to be an I-D-ten-T error.
@@ -231,66 +231,66 @@ Users never twig.
  
 
 + ----------+  +  ---+
-| `Prev <ice.html>`__    | `Up <../I.html>`__         |  `Next <idempotent.html>`__   |
+| `Prev <ice>`__    | `Up <../I>`__         |  `Next <idempotent>`__   |
 + ----------+  +  ---+
-| ice                    | `Home <../index.html>`__   |  idempotent                   |
+| ice                    | `Home <../index>`__   |  idempotent                   |
 + ----------+  +  ---+
 
 IDP
 
-`Prev <idempotent.html>`__ 
+`Prev <idempotent>`__ 
 
 I
 
- `Next <If-you-want-X--you-know-where-to-find-it-.html>`__
+ `Next <If-you-want-X--you-know-where-to-find-it->`__
 
  
 
 **IDP**: /I·D·P/, v.,n.
 
 [Usenet] Abbreviation for `Internet Death
-Penalty <Internet-Death-Penalty.html>`__. Common (probably now more so
+Penalty <Internet-Death-Penalty>`__. Common (probably now more so
 than the full form), and frequently verbed. Compare
-`UDP <./U.html#UDP.html>`__.
+`UDP <./U.html#UDP>`__.
 
  
 
 +  ---+  +    ------+
-| `Prev <idempotent.html>`__    | `Up <../I.html>`__         |  `Next <If-you-want-X--you-know-where-to-find-it-.html>`__   |
+| `Prev <idempotent>`__    | `Up <../I>`__         |  `Next <If-you-want-X--you-know-where-to-find-it->`__   |
 +  ---+  +    ------+
-| idempotent                    | `Home <../index.html>`__   |  If you want X, you know where to find it.                   |
+| idempotent                    | `Home <../index>`__   |  If you want X, you know where to find it.                   |
 +  ---+  +    ------+
 
 ifdef out
 
-`Prev <If-you-want-X--you-know-where-to-find-it-.html>`__ 
+`Prev <If-you-want-X--you-know-where-to-find-it->`__ 
 
 I
 
- `Next <IIRC.html>`__
+ `Next <IIRC>`__
 
  
 
 **ifdef out**: /if´def owt/, v.
 
-Syn. for `condition out <./C.html#condition-out.html>`__, specific to
-`C <./C.html#C.html>`__.
+Syn. for `condition out <./C.html#condition-out>`__, specific to
+`C <./C.html#C>`__.
 
  
 
 +    ------+  + -----------+
-| `Prev <If-you-want-X--you-know-where-to-find-it-.html>`__    | `Up <../I.html>`__         |  `Next <IIRC.html>`__   |
+| `Prev <If-you-want-X--you-know-where-to-find-it->`__    | `Up <../I>`__         |  `Next <IIRC>`__   |
 +    ------+  + -----------+
-| If you want X, you know where to find it.                    | `Home <../index.html>`__   |  IIRC                   |
+| If you want X, you know where to find it.                    | `Home <../index>`__   |  IIRC                   |
 +    ------+  + -----------+
 
 I for one welcome our new X overlords
 
-`Prev <I-see-no-X-here-.html>`__ 
+`Prev <I-see-no-X-here->`__ 
 
 I
 
- `Next <IANAL.html>`__
+ `Next <IANAL>`__
 
  
 
@@ -308,49 +308,49 @@ race of giant space ants.
  
 
 +  ---------+  + ------------+
-| `Prev <I-see-no-X-here-.html>`__    | `Up <../I.html>`__         |  `Next <IANAL.html>`__   |
+| `Prev <I-see-no-X-here->`__    | `Up <../I>`__         |  `Next <IANAL>`__   |
 +  ---------+  + ------------+
-| I see no X here.                    | `Home <../index.html>`__   |  IANAL                   |
+| I see no X here.                    | `Home <../index>`__   |  IANAL                   |
 +  ---------+  + ------------+
 
 If you want X, you know where to find it.
 
-`Prev <IDP.html>`__ 
+`Prev <IDP>`__ 
 
 I
 
- `Next <ifdef-out.html>`__
+ `Next <ifdef-out>`__
 
  
 
 **If you want X, you know where to find it.**
 
 There is a legend that Dennis Ritchie, inventor of
-`C <./C.html#C.html>`__, once responded to demands for features resembling
+`C <./C.html#C>`__, once responded to demands for features resembling
 those of what at the time was a much more popular language by observing
 “If you want PL/I, you know where to find it.” Ever since, this has been
 hackish standard form for fending off requests to alter a new design to
 mimic some older (and, by implication, inferior and
-`baroque <./B.html#baroque.html>`__) one. The case X =
-`Pascal <./P.html#Pascal.html>`__ manifests semi-regularly on Usenet's
+`baroque <./B.html#baroque>`__) one. The case X =
+`Pascal <./P.html#Pascal>`__ manifests semi-regularly on Usenet's
 "comp.lang.c" newsgroup. Indeed, the case X = X has been reported in
-discussions of graphics software (see `X <./X.html#X.html>`__).
+discussions of graphics software (see `X <./X.html#X>`__).
 
  
 
 + ----------+  +  --+
-| `Prev <IDP.html>`__    | `Up <../I.html>`__         |  `Next <ifdef-out.html>`__   |
+| `Prev <IDP>`__    | `Up <../I>`__         |  `Next <ifdef-out>`__   |
 + ----------+  +  --+
-| IDP                    | `Home <../index.html>`__   |  ifdef out                   |
+| IDP                    | `Home <../index>`__   |  ifdef out                   |
 + ----------+  +  --+
 
 IIRC
 
-`Prev <ifdef-out.html>`__ 
+`Prev <ifdef-out>`__ 
 
 I
 
- `Next <ill-behaved.html>`__
+ `Next <ill-behaved>`__
 
  
 
@@ -361,18 +361,18 @@ Common abbreviation for “If I Recall Correctly”.
  
 
 +  --+  +  ----+
-| `Prev <ifdef-out.html>`__    | `Up <../I.html>`__         |  `Next <ill-behaved.html>`__   |
+| `Prev <ifdef-out>`__    | `Up <../I>`__         |  `Next <ill-behaved>`__   |
 +  --+  +  ----+
-| ifdef out                    | `Home <../index.html>`__   |  ill-behaved                   |
+| ifdef out                    | `Home <../index>`__   |  ill-behaved                   |
 +  --+  +  ----+
 
 ill-behaved
 
-`Prev <IIRC.html>`__ 
+`Prev <IIRC>`__ 
 
 I
 
- `Next <IMHO.html>`__
+ `Next <IMHO>`__
 
  
 
@@ -382,16 +382,16 @@ I
 that tends to blow up because of accumulated roundoff error or poor
 convergence properties.
 
-2. [obs.] Software that bypasses the defined `OS <./O.html#OS.html>`__
+2. [obs.] Software that bypasses the defined `OS <./O.html#OS>`__
 interfaces to do things (like screen, keyboard, and disk I/O) itself,
 often in a way that depends on the hardware of the machine it is running
 on or which is nonportable or incompatible with other pieces of
 software. In the MS-DOS world, there was a folk theorem (nearly true) to
 the effect that (owing to gross inadequacies and performance penalties
 in the OS interface) all interesting applications were ill-behaved. See
-also `bare metal <./B.html#bare-metal.html>`__. Oppose
-`well-behaved <./W.html#well-behaved.html>`__. See also
-`mess-dos <./M.html#mess-dos.html>`__.
+also `bare metal <./B.html#bare-metal>`__. Oppose
+`well-behaved <./W.html#well-behaved>`__. See also
+`mess-dos <./M.html#mess-dos>`__.
 
 3. In modern usage, a program is called ill-behaved if it uses
 interfaces to the OS or other programs that are private, undocumented,
@@ -401,18 +401,18 @@ or files that are theoretically private to another application.
  
 
 + -----------+  + -----------+
-| `Prev <IIRC.html>`__    | `Up <../I.html>`__         |  `Next <IMHO.html>`__   |
+| `Prev <IIRC>`__    | `Up <../I>`__         |  `Next <IMHO>`__   |
 + -----------+  + -----------+
-| IIRC                    | `Home <../index.html>`__   |  IMHO                   |
+| IIRC                    | `Home <../index>`__   |  IMHO                   |
 + -----------+  + -----------+
 
 IMHO
 
-`Prev <ill-behaved.html>`__ 
+`Prev <ill-behaved>`__ 
 
 I
 
- `Next <Imminent-Death-Of-The-Net-Predicted-.html>`__
+ `Next <Imminent-Death-Of-The-Net-Predicted->`__
 
  
 
@@ -427,33 +427,33 @@ Not-So-Humble Opinion) and IMAO (In My Arrogant Opinion).
  
 
 +  ----+  +    -+
-| `Prev <ill-behaved.html>`__    | `Up <../I.html>`__         |  `Next <Imminent-Death-Of-The-Net-Predicted-.html>`__   |
+| `Prev <ill-behaved>`__    | `Up <../I>`__         |  `Next <Imminent-Death-Of-The-Net-Predicted->`__   |
 +  ----+  +    -+
-| ill-behaved                    | `Home <../index.html>`__   |  Imminent Death Of The Net Predicted!                   |
+| ill-behaved                    | `Home <../index>`__   |  Imminent Death Of The Net Predicted!                   |
 +  ----+  +    -+
 
 Imminent Death Of The Net Predicted!
 
-`Prev <IMHO.html>`__ 
+`Prev <IMHO>`__ 
 
 I
 
- `Next <in-the-extreme.html>`__
+ `Next <in-the-extreme>`__
 
  
 
 **Imminent Death Of The Net Predicted!**: prov.
 
-[Usenet] Since `Usenet <./U.html#Usenet.html>`__ first got off the ground
+[Usenet] Since `Usenet <./U.html#Usenet>`__ first got off the ground
 in 1980--81, it has grown exponentially, approximately doubling in size
 every year. On the other hand, most people feel the `signal-to-noise
-ratio <./S.html#signal-to-noise-ratio.html>`__ of Usenet has dropped
+ratio <./S.html#signal-to-noise-ratio>`__ of Usenet has dropped
 steadily. These trends led, as far back as mid-1983, to predictions of
 the imminent collapse (or death) of the net. Ten years and numerous
 doublings later, enough of these gloomy prognostications have been
 confounded that the phrase “Imminent Death Of The Net Predicted!” has
 become a running joke, hauled out any time someone grumbles about the
-`S/N ratio <./S.html#S-N-ratio.html>`__ or the huge and steadily
+`S/N ratio <./S.html#S-N-ratio>`__ or the huge and steadily
 increasing volume, or the possible loss of a key node or link, or the
 potential for lawsuits when ignoramuses post copyrighted material, etc.,
 etc., etc.
@@ -461,18 +461,18 @@ etc., etc.
  
 
 + -----------+  +  -------+
-| `Prev <IMHO.html>`__    | `Up <../I.html>`__         |  `Next <in-the-extreme.html>`__   |
+| `Prev <IMHO>`__    | `Up <../I>`__         |  `Next <in-the-extreme>`__   |
 + -----------+  +  -------+
-| IMHO                    | `Home <../index.html>`__   |  in the extreme                   |
+| IMHO                    | `Home <../index>`__   |  in the extreme                   |
 + -----------+  +  -------+
 
 incantation
 
-`Prev <in-the-extreme.html>`__ 
+`Prev <in-the-extreme>`__ 
 
 I
 
- `Next <include.html>`__
+ `Next <include>`__
 
  
 
@@ -482,26 +482,26 @@ Any particularly arbitrary or obscure command that one must mutter at a
 system to attain a desired result. Not used of passwords or other
 explicit security features. Especially used of tricks that are so poorly
 documented that they must be learned from a
-`wizard <./W.html#wizard.html>`__. “This compiler normally locates
+`wizard <./W.html#wizard>`__. “This compiler normally locates
 initialized data in the data segment, but if you
-`mutter <./M.html#mutter.html>`__ the right incantation they will be
+`mutter <./M.html#mutter>`__ the right incantation they will be
 forced into text space.”
 
  
 
 +  -------+  +  +
-| `Prev <in-the-extreme.html>`__    | `Up <../I.html>`__         |  `Next <include.html>`__   |
+| `Prev <in-the-extreme>`__    | `Up <../I>`__         |  `Next <include>`__   |
 +  -------+  +  +
-| in the extreme                    | `Home <../index.html>`__   |  include                   |
+| in the extreme                    | `Home <../index>`__   |  include                   |
 +  -------+  +  +
 
 include
 
-`Prev <incantation.html>`__ 
+`Prev <incantation>`__ 
 
 I
 
- `Next <include-war.html>`__
+ `Next <include-war>`__
 
  
 
@@ -514,51 +514,51 @@ with attribution to the source) in a reply or followup, for clarifying
 the context of one's response. See the discussion of inclusion styles
 under *Hacker Writing Style*.
 
-2. [from `C <./C.html#C.html>`__] **#include <disclaimer.h>** has appeared
-in `sig block <./S.html#sig-block.html>`__\ s to refer to a notional
-standard `disclaimer <./D.html#disclaimer.html>`__ file.
+2. [from `C <./C.html#C>`__] **#include <disclaimer.h>** has appeared
+in `sig block <./S.html#sig-block>`__\ s to refer to a notional
+standard `disclaimer <./D.html#disclaimer>`__ file.
 
  
 
 +  ----+  +  ----+
-| `Prev <incantation.html>`__    | `Up <../I.html>`__         |  `Next <include-war.html>`__   |
+| `Prev <incantation>`__    | `Up <../I>`__         |  `Next <include-war>`__   |
 +  ----+  +  ----+
-| incantation                    | `Home <../index.html>`__   |  include war                   |
+| incantation                    | `Home <../index>`__   |  include war                   |
 +  ----+  +  ----+
 
 include war
 
-`Prev <include.html>`__ 
+`Prev <include>`__ 
 
 I
 
- `Next <indent-style.html>`__
+ `Next <indent-style>`__
 
  
 
 **include war**: n.
 
 Excessive multi-leveled inclusion within a discussion
-`thread <./T.html#thread.html>`__, a practice that tends to annoy readers.
+`thread <./T.html#thread>`__, a practice that tends to annoy readers.
 In a forum with high-traffic newsgroups, such as Usenet, this can lead
-to `flame <./F.html#flame.html>`__\ s and the urge to start a `kill
-file <./K.html#kill-file.html>`__.
+to `flame <./F.html#flame>`__\ s and the urge to start a `kill
+file <./K.html#kill-file>`__.
 
  
 
 +  +  +  -----+
-| `Prev <include.html>`__    | `Up <../I.html>`__         |  `Next <indent-style.html>`__   |
+| `Prev <include>`__    | `Up <../I>`__         |  `Next <indent-style>`__   |
 +  +  +  -----+
-| include                    | `Home <../index.html>`__   |  indent style                   |
+| include                    | `Home <../index>`__   |  indent style                   |
 +  +  +  -----+
 
 Indent-o-Meter
 
-`Prev <indent-style.html>`__ 
+`Prev <indent-style>`__ 
 
 I
 
- `Next <index-of-X.html>`__
+ `Next <index-of-X>`__
 
  
 
@@ -568,23 +568,23 @@ I
 1993-1994; it used combinations of tabs and spaces to produce an analog
 indicator of the amount of indentation an included portion of a reply
 had undergone. The full story is at
-`http://world.std.com/~mmcirvin/indent.html <http://world.std.com/~mmcirvin/indent.html>`__.
+`http://world.std.com/~mmcirvin/indent.html <http://world.std.com/~mmcirvin/indent>`__.
 
  
 
 +  -----+  +  ---+
-| `Prev <indent-style.html>`__    | `Up <../I.html>`__         |  `Next <index-of-X.html>`__   |
+| `Prev <indent-style>`__    | `Up <../I>`__         |  `Next <index-of-X>`__   |
 +  -----+  +  ---+
-| indent style                    | `Home <../index.html>`__   |  index of X                   |
+| indent style                    | `Home <../index>`__   |  index of X                   |
 +  -----+  +  ---+
 
 indent style
 
-`Prev <include-war.html>`__ 
+`Prev <include-war>`__ 
 
 I
 
- `Next <Indent-o-Meter.html>`__
+ `Next <Indent-o-Meter>`__
 
  
 
@@ -600,7 +600,7 @@ enclose and to the guard or controlling statement (**if**, **else**,
 **for**, **while**, or **do**) on the block, if any.
 
 K&R style — Named after Kernighan & Ritchie, because the examples in
-`K&R <./K.html#K-ampersand-R.html>`__ are formatted this way. Also called
+`K&R <./K.html#K-ampersand-R>`__ are formatted this way. Also called
 kernel style because the Unix kernel is written in it, and the ‘One True
 Brace Style’ (abbrev. 1TBS) by its partisans. In C code, the body is
 typically indented by eight spaces (or one tab) per level, as shown
@@ -650,7 +650,7 @@ Surveys have shown the Allman and Whitesmiths styles to be the most
 common, with about equal mind shares. K&R/1TBS used to be nearly
 universal, but is now much less common in C (the opening brace tends to
 get lost against the right paren of the guard part in an **if** or
-**while**, which is a `Bad Thing <./B.html#Bad-Thing.html>`__). Defenders
+**while**, which is a `Bad Thing <./B.html#Bad-Thing>`__). Defenders
 of 1TBS argue that any putative gain in readability is less important
 than their style's relative economy with vertical space, which enables
 one to see more code on one's screen at once. The Java Language
@@ -662,45 +662,45 @@ originating from Sun Laboratories uses the K&R style. This has set a
 precedent for Java programmers, which most follow.
 
 Doubtless these issues will continue to be the subject of `holy
-wars <./H.html#holy-wars.html>`__.
+wars <./H.html#holy-wars>`__.
 
  
 
 +  ----+  +  -------+
-| `Prev <include-war.html>`__    | `Up <../I.html>`__         |  `Next <Indent-o-Meter.html>`__   |
+| `Prev <include-war>`__    | `Up <../I>`__         |  `Next <Indent-o-Meter>`__   |
 +  ----+  +  -------+
-| include war                    | `Home <../index.html>`__   |  Indent-o-Meter                   |
+| include war                    | `Home <../index>`__   |  Indent-o-Meter                   |
 +  ----+  +  -------+
 
 index of X
 
-`Prev <Indent-o-Meter.html>`__ 
+`Prev <Indent-o-Meter>`__ 
 
 I
 
- `Next <infant-mortality.html>`__
+ `Next <infant-mortality>`__
 
  
 
 **index of X**: n.
 
-See `coefficient of X <./C.html#coefficient-of-X.html>`__.
+See `coefficient of X <./C.html#coefficient-of-X>`__.
 
  
 
 +  -------+  +  ---------+
-| `Prev <Indent-o-Meter.html>`__    | `Up <../I.html>`__         |  `Next <infant-mortality.html>`__   |
+| `Prev <Indent-o-Meter>`__    | `Up <../I>`__         |  `Next <infant-mortality>`__   |
 +  -------+  +  ---------+
-| Indent-o-Meter                    | `Home <../index.html>`__   |  infant mortality                   |
+| Indent-o-Meter                    | `Home <../index>`__   |  infant mortality                   |
 +  -------+  +  ---------+
 
 infant mortality
 
-`Prev <index-of-X.html>`__ 
+`Prev <index-of-X>`__ 
 
 I
 
- `Next <infinite.html>`__
+ `Next <infinite>`__
 
  
 
@@ -715,24 +715,24 @@ components has accumulated for the machine to start going senile). Up to
 half of all chip and wire failures happen within a new system's first
 few weeks; such failures are often referred to as infant mortality
 problems (or, occasionally, as sudden infant death syndrome). See
-`bathtub curve <./B.html#bathtub-curve.html>`__, `burn-in
-period <./B.html#burn-in-period.html>`__.
+`bathtub curve <./B.html#bathtub-curve>`__, `burn-in
+period <./B.html#burn-in-period>`__.
 
  
 
 +  ---+  +  -+
-| `Prev <index-of-X.html>`__    | `Up <../I.html>`__         |  `Next <infinite.html>`__   |
+| `Prev <index-of-X>`__    | `Up <../I>`__         |  `Next <infinite>`__   |
 +  ---+  +  -+
-| index of X                    | `Home <../index.html>`__   |  infinite                   |
+| index of X                    | `Home <../index>`__   |  infinite                   |
 +  ---+  +  -+
 
 infinite
 
-`Prev <infant-mortality.html>`__ 
+`Prev <infant-mortality>`__ 
 
 I
 
- `Next <infinite-loop.html>`__
+ `Next <infinite-loop>`__
 
  
 
@@ -741,36 +741,36 @@ I
 [common] Consisting of a large number of objects; extreme. Used very
 loosely as in: “This program produces infinite garbage.” “He is an
 infinite loser.” The word most likely to follow infinite, though, is
-`hair <./H.html#hair.html>`__. (It has been pointed out that fractals are
+`hair <./H.html#hair>`__. (It has been pointed out that fractals are
 an excellent example of infinite hair.) These uses are abuses of the
 word's mathematical meaning. The term semi-infinite, denoting an
 immoderately large amount of some resource, is also heard. “This
 compiler is taking a semi-infinite amount of time to optimize my
-program.” See also `semi <./S.html#semi.html>`__.
+program.” See also `semi <./S.html#semi>`__.
 
  
 
 +  ---------+  +  ------+
-| `Prev <infant-mortality.html>`__    | `Up <../I.html>`__         |  `Next <infinite-loop.html>`__   |
+| `Prev <infant-mortality>`__    | `Up <../I>`__         |  `Next <infinite-loop>`__   |
 +  ---------+  +  ------+
-| infant mortality                    | `Home <../index.html>`__   |  infinite loop                   |
+| infant mortality                    | `Home <../index>`__   |  infinite loop                   |
 +  ---------+  +  ------+
 
 infinite loop
 
-`Prev <infinite.html>`__ 
+`Prev <infinite>`__ 
 
 I
 
- `Next <Infinite-Monkey-Theorem.html>`__
+ `Next <Infinite-Monkey-Theorem>`__
 
  
 
 **infinite loop**: n.
 
 One that never terminates (that is, the machine
-`spin <./S.html#spin.html>`__\ s or `buzz <./B.html#buzz.html>`__\ es
-forever and goes `catatonic <./C.html#catatonic.html>`__). There is a
+`spin <./S.html#spin>`__\ s or `buzz <./B.html#buzz>`__\ es
+forever and goes `catatonic <./C.html#catatonic>`__). There is a
 standard joke that has been made about each generation's exemplar of the
 ultra-fast machine: “The Cray-3 is so fast it can execute an infinite
 loop in under 2 seconds!”
@@ -778,36 +778,36 @@ loop in under 2 seconds!”
  
 
 +  -+  +   --+
-| `Prev <infinite.html>`__    | `Up <../I.html>`__         |  `Next <Infinite-Monkey-Theorem.html>`__   |
+| `Prev <infinite>`__    | `Up <../I>`__         |  `Next <Infinite-Monkey-Theorem>`__   |
 +  -+  +   --+
-| infinite                    | `Home <../index.html>`__   |  Infinite-Monkey Theorem                   |
+| infinite                    | `Home <../index>`__   |  Infinite-Monkey Theorem                   |
 +  -+  +   --+
 
 Infinite-Monkey Theorem
 
-`Prev <infinite-loop.html>`__ 
+`Prev <infinite-loop>`__ 
 
 I
 
- `Next <infinity.html>`__
+ `Next <infinity>`__
 
  
 
 **Infinite-Monkey Theorem**: n.
 
-“If you put an `infinite <infinite.html>`__ number of monkeys at
+“If you put an `infinite <infinite>`__ number of monkeys at
 typewriters, eventually one will bash out the script for Hamlet.” (One
 may also hypothesize a small number of monkeys and a very long period of
 time.) This theorem asserts nothing about the intelligence of the one
-`random <./R.html#random.html>`__ monkey that eventually comes up with the
+`random <./R.html#random>`__ monkey that eventually comes up with the
 script (and note that the mob will also type out all the possible
 *incorrect* versions of Hamlet). It may be referred to semi-seriously
-when justifying a `brute force <./B.html#brute-force.html>`__ method; the
+when justifying a `brute force <./B.html#brute-force>`__ method; the
 implication is that, with enough resources thrown at it, any technical
 challenge becomes a `one-banana
-problem <./O.html#one-banana-problem.html>`__. This argument gets more
-respect since `Linux <./L.html#Linux.html>`__ justified the
-`bazaar <./B.html#bazaar.html>`__ mode of development.
+problem <./O.html#one-banana-problem>`__. This argument gets more
+respect since `Linux <./L.html#Linux>`__ justified the
+`bazaar <./B.html#bazaar>`__ mode of development.
 
 Other hackers maintain that the Infinite-Monkey Theorem cannot be true —
 otherwise Usenet would have reproduced the entire canon of great
@@ -831,7 +831,7 @@ became part of the idiom of techies via the classic SF short story
 Russell Maloney, and many younger hackers know it through a reference in
 Douglas Adams's *Hitchhiker's Guide to the Galaxy*. Some other
 references have been `collected on the
-Web <http://www.angelfire.com/in/hypnosonic/Parable_of_the_Monkeys.html>`__.
+Web <http://www.angelfire.com/in/hypnosonic/Parable_of_the_Monkeys>`__.
 On 1 April 2000 the usage acquired its own Internet standard,
 `RFC2795 <%20%20%20%20http://www.ietf.org/rfc/rfc2795.txt>`__ (Infinite
 Monkey Protocol Suite).
@@ -839,18 +839,18 @@ Monkey Protocol Suite).
  
 
 +  ------+  +  -+
-| `Prev <infinite-loop.html>`__    | `Up <../I.html>`__         |  `Next <infinity.html>`__   |
+| `Prev <infinite-loop>`__    | `Up <../I>`__         |  `Next <infinity>`__   |
 +  ------+  +  -+
-| infinite loop                    | `Home <../index.html>`__   |  infinity                   |
+| infinite loop                    | `Home <../index>`__   |  infinity                   |
 +  ------+  +  -+
 
 infinity
 
-`Prev <Infinite-Monkey-Theorem.html>`__ 
+`Prev <Infinite-Monkey-Theorem>`__ 
 
 I
 
- `Next <inflate.html>`__
+ `Next <inflate>`__
 
  
 
@@ -869,41 +869,41 @@ mathematician's usage of infinity.
  
 
 +   --+  +  +
-| `Prev <Infinite-Monkey-Theorem.html>`__    | `Up <../I.html>`__         |  `Next <inflate.html>`__   |
+| `Prev <Infinite-Monkey-Theorem>`__    | `Up <../I>`__         |  `Next <inflate>`__   |
 +   --+  +  +
-| Infinite-Monkey Theorem                    | `Home <../index.html>`__   |  inflate                   |
+| Infinite-Monkey Theorem                    | `Home <../index>`__   |  inflate                   |
 +   --+  +  +
 
 inflate
 
-`Prev <infinity.html>`__ 
+`Prev <infinity>`__ 
 
 I
 
- `Next <Infocom.html>`__
+ `Next <Infocom>`__
 
  
 
 **inflate**: vt.
 
-To decompress or `puff <./P.html#puff.html>`__ a file. Rare among Internet
+To decompress or `puff <./P.html#puff>`__ a file. Rare among Internet
 hackers, used primarily by MS-DOS/Windows types.
 
  
 
 +  -+  +  +
-| `Prev <infinity.html>`__    | `Up <../I.html>`__         |  `Next <Infocom.html>`__   |
+| `Prev <infinity>`__    | `Up <../I>`__         |  `Next <Infocom>`__   |
 +  -+  +  +
-| infinity                    | `Home <../index.html>`__   |  Infocom                   |
+| infinity                    | `Home <../index>`__   |  Infocom                   |
 +  -+  +  +
 
 Infocom
 
-`Prev <inflate.html>`__ 
+`Prev <inflate>`__ 
 
 I
 
- `Next <initgame.html>`__
+ `Next <initgame>`__
 
  
 
@@ -911,7 +911,7 @@ I
 
 A now-legendary games company, active from 1979 to 1989, that
 commercialized the MDL parser technology used for
-`Zork <./Z.html#Zork.html>`__ to produce a line of text adventure games
+`Zork <./Z.html#Zork>`__ to produce a line of text adventure games
 that remain favorites among hackers. Infocom's games were intelligent,
 funny, witty, erudite, irreverent, challenging, satirical, and most
 thoroughly hackish in spirit. The physical game packages from Infocom
@@ -933,32 +933,32 @@ it is even possible to play these games in your
  
 
 +  +  +  -+
-| `Prev <inflate.html>`__    | `Up <../I.html>`__         |  `Next <initgame.html>`__   |
+| `Prev <inflate>`__    | `Up <../I>`__         |  `Next <initgame>`__   |
 +  +  +  -+
-| inflate                    | `Home <../index.html>`__   |  initgame                   |
+| inflate                    | `Home <../index>`__   |  initgame                   |
 +  +  +  -+
 
 initgame
 
-`Prev <Infocom.html>`__ 
+`Prev <Infocom>`__ 
 
 I
 
- `Next <insanely-great.html>`__
+ `Next <insanely-great>`__
 
  
 
 **initgame**: /in·it´gaym/, n.
 
-[IRC] An `IRC <IRC.html>`__ version of the trivia game “Botticelli”,
-in which one user changes his `nick <./N.html#nick.html>`__ to the
+[IRC] An `IRC <IRC>`__ version of the trivia game “Botticelli”,
+in which one user changes his `nick <./N.html#nick>`__ to the
 initials of a famous person or other named entity, and the others on the
 channel ask yes or no questions, with the one to guess the person
 getting to be “it” next. As a courtesy, the one picking the initials
 starts by providing a 4-letter hint of the form sex, nationality,
 life-status, reality-status. For example, MAAR means “Male, American,
 Alive, Real” (as opposed to “fictional”). Initgame can be surprisingly
-addictive. See also `hing <./H.html#hing.html>`__.
+addictive. See also `hing <./H.html#hing>`__.
 
 [1996 update: a recognizable version of the initgame has become a staple
 of some radio talk shows in the U.S. We had it first! -- ESR]
@@ -966,43 +966,43 @@ of some radio talk shows in the U.S. We had it first! -- ESR]
  
 
 +  +  +  -------+
-| `Prev <Infocom.html>`__    | `Up <../I.html>`__         |  `Next <insanely-great.html>`__   |
+| `Prev <Infocom>`__    | `Up <../I>`__         |  `Next <insanely-great>`__   |
 +  +  +  -------+
-| Infocom                    | `Home <../index.html>`__   |  insanely great                   |
+| Infocom                    | `Home <../index>`__   |  insanely great                   |
 +  +  +  -------+
 
 insanely great
 
-`Prev <initgame.html>`__ 
+`Prev <initgame>`__ 
 
 I
 
- `Next <installfest.html>`__
+ `Next <installfest>`__
 
  
 
 **insanely great**: adj.
 
 [Mac community, from Steve Jobs; also BSD Unix people via Bill Joy]
-Something so incredibly `elegant <./E.html#elegant.html>`__ that it is
+Something so incredibly `elegant <./E.html#elegant>`__ that it is
 imaginable only to someone possessing the most puissant of
-`hacker <./H.html#hacker.html>`__-natures.
+`hacker <./H.html#hacker>`__-natures.
 
  
 
 +  -+  +  ----+
-| `Prev <initgame.html>`__    | `Up <../I.html>`__         |  `Next <installfest.html>`__   |
+| `Prev <initgame>`__    | `Up <../I>`__         |  `Next <installfest>`__   |
 +  -+  +  ----+
-| initgame                    | `Home <../index.html>`__   |  installfest                   |
+| initgame                    | `Home <../index>`__   |  installfest                   |
 +  -+  +  ----+
 
 installfest
 
-`Prev <insanely-great.html>`__ 
+`Prev <insanely-great>`__ 
 
 I
 
- `Next <INTERCAL.html>`__
+ `Next <INTERCAL>`__
 
  
 
@@ -1018,18 +1018,18 @@ the user's machine.
  
 
 +  -------+  +  -+
-| `Prev <insanely-great.html>`__    | `Up <../I.html>`__         |  `Next <INTERCAL.html>`__   |
+| `Prev <insanely-great>`__    | `Up <../I>`__         |  `Next <INTERCAL>`__   |
 +  -------+  +  -+
-| insanely great                    | `Home <../index.html>`__   |  INTERCAL                   |
+| insanely great                    | `Home <../index>`__   |  INTERCAL                   |
 +  -------+  +  -+
 
 INTERCAL
 
-`Prev <installfest.html>`__ 
+`Prev <installfest>`__ 
 
 I
 
- `Next <InterCaps.html>`__
+ `Next <InterCaps>`__
 
  
 
@@ -1067,47 +1067,47 @@ appreciation of the language on Usenet.
 Inevitably, INTERCAL has a home page on the Web:
 `http://www.catb.org/~esr/intercal/ <http://www.catb.org/~esr/intercal/>`__.
 An extended version, implemented in (what else?)
-`Perl <./P.html#Perl.html>`__ and adding object-oriented features, is
-rumored to exist. See also `Befunge <./B.html#Befunge.html>`__.
+`Perl <./P.html#Perl>`__ and adding object-oriented features, is
+rumored to exist. See also `Befunge <./B.html#Befunge>`__.
 
  
 
 +  ----+  +  --+
-| `Prev <installfest.html>`__    | `Up <../I.html>`__         |  `Next <InterCaps.html>`__   |
+| `Prev <installfest>`__    | `Up <../I>`__         |  `Next <InterCaps>`__   |
 +  ----+  +  --+
-| installfest                    | `Home <../index.html>`__   |  InterCaps                   |
+| installfest                    | `Home <../index>`__   |  InterCaps                   |
 +  ----+  +  --+
 
 InterCaps
 
-`Prev <INTERCAL.html>`__ 
+`Prev <INTERCAL>`__ 
 
 I
 
- `Next <interesting.html>`__
+ `Next <interesting>`__
 
  
 
 **InterCaps**
 
 [Great Britain] Synonym for
-`BiCapitalization <./B.html#BiCapitalization.html>`__.
+`BiCapitalization <./B.html#BiCapitalization>`__.
 
  
 
 +  -+  +  ----+
-| `Prev <INTERCAL.html>`__    | `Up <../I.html>`__         |  `Next <interesting.html>`__   |
+| `Prev <INTERCAL>`__    | `Up <../I>`__         |  `Next <interesting>`__   |
 +  -+  +  ----+
-| INTERCAL                    | `Home <../index.html>`__   |  interesting                   |
+| INTERCAL                    | `Home <../index>`__   |  interesting                   |
 +  -+  +  ----+
 
 interesting
 
-`Prev <InterCaps.html>`__ 
+`Prev <InterCaps>`__ 
 
 I
 
- `Next <Internet.html>`__
+ `Next <Internet>`__
 
  
 
@@ -1116,51 +1116,51 @@ I
 In hacker parlance, this word has strong connotations of ‘annoying’, or
 ‘difficult’, or both. Hackers relish a challenge, and enjoy wringing all
 the irony possible out of the ancient Chinese curse “May you live in
-interesting times”. Oppose `trivial <./T.html#trivial.html>`__,
-`uninteresting <./U.html#uninteresting.html>`__.
+interesting times”. Oppose `trivial <./T.html#trivial>`__,
+`uninteresting <./U.html#uninteresting>`__.
 
  
 
 +  --+  +  -+
-| `Prev <InterCaps.html>`__    | `Up <../I.html>`__         |  `Next <Internet.html>`__   |
+| `Prev <InterCaps>`__    | `Up <../I>`__         |  `Next <Internet>`__   |
 +  --+  +  -+
-| InterCaps                    | `Home <../index.html>`__   |  Internet                   |
+| InterCaps                    | `Home <../index>`__   |  Internet                   |
 +  --+  +  -+
 
 Internet Death Penalty
 
-`Prev <Internet.html>`__ 
+`Prev <Internet>`__ 
 
 I
 
- `Next <Internet-Exploder.html>`__
+ `Next <Internet-Exploder>`__
 
  
 
 **Internet Death Penalty**
 
 [Usenet] (often abbreviated IDP) The ultimate sanction against
-`spam <./S.html#spam.html>`__-emitting sites — complete shunning at the
+`spam <./S.html#spam>`__-emitting sites — complete shunning at the
 router level of all mail and packets, as well as Usenet messages, from
 the offending domain(s). Compare `Usenet Death
-Penalty <./U.html#Usenet-Death-Penalty.html>`__, with which it is sometimes
+Penalty <./U.html#Usenet-Death-Penalty>`__, with which it is sometimes
 confused.
 
  
 
 +  -+  +  ----------+
-| `Prev <Internet.html>`__    | `Up <../I.html>`__         |  `Next <Internet-Exploder.html>`__   |
+| `Prev <Internet>`__    | `Up <../I>`__         |  `Next <Internet-Exploder>`__   |
 +  -+  +  ----------+
-| Internet                    | `Home <../index.html>`__   |  Internet Exploder                   |
+| Internet                    | `Home <../index>`__   |  Internet Exploder                   |
 +  -+  +  ----------+
 
 Internet Exploder
 
-`Prev <Internet-Death-Penalty.html>`__ 
+`Prev <Internet-Death-Penalty>`__ 
 
 I
 
- `Next <Internet-Exploiter.html>`__
+ `Next <Internet-Exploiter>`__
 
  
 
@@ -1168,26 +1168,26 @@ I
 
 [very common] Pejorative hackerism for Microsoft's “Internet Explorer”
 web browser (also “Internet Exploiter”). Compare
-`HP-SUX <./H.html#HP-SUX.html>`__,
-`Macintrash <./M.html#Macintrash.html>`__,
-`sun-stools <./S.html#sun-stools.html>`__,
-`Slowlaris <./S.html#Slowlaris.html>`__.
+`HP-SUX <./H.html#HP-SUX>`__,
+`Macintrash <./M.html#Macintrash>`__,
+`sun-stools <./S.html#sun-stools>`__,
+`Slowlaris <./S.html#Slowlaris>`__.
 
  
 
 +   -+  +  -----------+
-| `Prev <Internet-Death-Penalty.html>`__    | `Up <../I.html>`__         |  `Next <Internet-Exploiter.html>`__   |
+| `Prev <Internet-Death-Penalty>`__    | `Up <../I>`__         |  `Next <Internet-Exploiter>`__   |
 +   -+  +  -----------+
-| Internet Death Penalty                    | `Home <../index.html>`__   |  Internet Exploiter                   |
+| Internet Death Penalty                    | `Home <../index>`__   |  Internet Exploiter                   |
 +   -+  +  -----------+
 
 Internet Exploiter
 
-`Prev <Internet-Exploder.html>`__ 
+`Prev <Internet-Exploder>`__ 
 
 I
 
- `Next <interrupt.html>`__
+ `Next <interrupt>`__
 
  
 
@@ -1195,26 +1195,26 @@ I
 
 Another common name-of-insult for Internet Explorer, Microsoft's
 overweight Web Browser; more hostile than `Internet
-Exploder <Internet-Exploder.html>`__. Reflects widespread hostility to
+Exploder <Internet-Exploder>`__. Reflects widespread hostility to
 Microsoft and a sense that it is seeking to hijack, monopolize, and
-corrupt the Internet. Compare `Exploder <./E.html#Exploder.html>`__ and
-the less pejorative `Netscrape <./N.html#Netscrape.html>`__.
+corrupt the Internet. Compare `Exploder <./E.html#Exploder>`__ and
+the less pejorative `Netscrape <./N.html#Netscrape>`__.
 
  
 
 +  ----------+  +  --+
-| `Prev <Internet-Exploder.html>`__    | `Up <../I.html>`__         |  `Next <interrupt.html>`__   |
+| `Prev <Internet-Exploder>`__    | `Up <../I>`__         |  `Next <interrupt>`__   |
 +  ----------+  +  --+
-| Internet Exploder                    | `Home <../index.html>`__   |  interrupt                   |
+| Internet Exploder                    | `Home <../index>`__   |  interrupt                   |
 +  ----------+  +  --+
 
 Internet
 
-`Prev <interesting.html>`__ 
+`Prev <interesting>`__ 
 
 I
 
- `Next <Internet-Death-Penalty.html>`__
+ `Next <Internet-Death-Penalty>`__
 
  
 
@@ -1241,14 +1241,14 @@ techies, hippies, SF fans, hackers, and anarchists. The roots of this
 lexicon lie in those early years.
 
 Over the next quarter-century the Internet evolved in many ways. The
-typical machine/OS combination moved from `DEC <./D.html#DEC.html>`__
-`PDP-10 <./P.html#PDP-10.html>`__\ s and
-`PDP-20 <./P.html#PDP-20.html>`__\ s, running
-`TOPS-10 <./T.html#TOPS-10.html>`__ and `TOPS-20 <./T.html#TOPS-20.html>`__,
-to PDP-11s and `VAX <./V.html#VAX.html>`__\ en and Suns running
-`Unix <./U.html#Unix.html>`__, and in the 1990s to Unix on Intel
+typical machine/OS combination moved from `DEC <./D.html#DEC>`__
+`PDP-10 <./P.html#PDP-10>`__\ s and
+`PDP-20 <./P.html#PDP-20>`__\ s, running
+`TOPS-10 <./T.html#TOPS-10>`__ and `TOPS-20 <./T.html#TOPS-20>`__,
+to PDP-11s and `VAX <./V.html#VAX>`__\ en and Suns running
+`Unix <./U.html#Unix>`__, and in the 1990s to Unix on Intel
 microcomputers. The Internet's protocols grew more capable, most notably
-in the move from NCP/IP to `TCP/IP <./T.html#TCP-IP.html>`__ in 1982 and
+in the move from NCP/IP to `TCP/IP <./T.html#TCP-IP>`__ in 1982 and
 the implementation of Domain Name Service in 1983. It was around this
 time that people began referring to the collection of interconnected
 networks with ARPANET at its core as “the Internet”.
@@ -1264,7 +1264,7 @@ late 1994 the pieces of NSFnet were sold to major telecommunications
 companies until the Internet backbone had gone completely commercial.
 
 That year, 1994, was also the year the mainstream culture discovered the
-Internet. Once again, the `killer app <./K.html#killer-app.html>`__ was
+Internet. Once again, the `killer app <./K.html#killer-app>`__ was
 not the anticipated one — rather, what caught the public imagination was
 the hypertext and multimedia features of the World Wide Web.
 Subsequently the Internet has seen off its only serious challenger (the
@@ -1274,23 +1274,23 @@ built during the second wave of wide-area networking after 1980. By 1996
 it had become a commonplace even in mainstream media to predict that a
 globally-extended Internet would become the key unifying communications
 technology of the next century. See also `the
-network <./T.html#the-network.html>`__.
+network <./T.html#the-network>`__.
 
  
 
 +  ----+  +   -+
-| `Prev <interesting.html>`__    | `Up <../I.html>`__         |  `Next <Internet-Death-Penalty.html>`__   |
+| `Prev <interesting>`__    | `Up <../I>`__         |  `Next <Internet-Death-Penalty>`__   |
 +  ----+  +   -+
-| interesting                    | `Home <../index.html>`__   |  Internet Death Penalty                   |
+| interesting                    | `Home <../index>`__   |  Internet Death Penalty                   |
 +  ----+  +   -+
 
 interrupt
 
-`Prev <Internet-Exploiter.html>`__ 
+`Prev <Internet-Exploiter>`__ 
 
 I
 
- `Next <interrupts-locked-out.html>`__
+ `Next <interrupts-locked-out>`__
 
  
 
@@ -1298,27 +1298,27 @@ I
 
 1. [techspeak] n. On a computer, an event that interrupts normal
 processing and temporarily diverts flow-of-control through an “interrupt
-handler” routine. See also `trap <./T.html#trap.html>`__.
+handler” routine. See also `trap <./T.html#trap>`__.
 
 2. interj. A request for attention from a hacker. Often explicitly
 spoken. “Interrupt — have you seen Joe recently?” See `priority
-interrupt <./P.html#priority-interrupt.html>`__.
+interrupt <./P.html#priority-interrupt>`__.
 
  
 
 +  -----------+  +   +
-| `Prev <Internet-Exploiter.html>`__    | `Up <../I.html>`__         |  `Next <interrupts-locked-out.html>`__   |
+| `Prev <Internet-Exploiter>`__    | `Up <../I>`__         |  `Next <interrupts-locked-out>`__   |
 +  -----------+  +   +
-| Internet Exploiter                    | `Home <../index.html>`__   |  interrupts locked out                   |
+| Internet Exploiter                    | `Home <../index>`__   |  interrupts locked out                   |
 +  -----------+  +   +
 
 interrupts locked out
 
-`Prev <interrupt.html>`__ 
+`Prev <interrupt>`__ 
 
 I
 
- `Next <intertwingled.html>`__
+ `Next <intertwingled>`__
 
  
 
@@ -1329,23 +1329,23 @@ attempts to get the waitress's attention, a hacker might well observe
 “She must have interrupts locked out”. The synonym interrupts disabled
 is also common. Variations abound; “to have one's interrupt mask bit
 set” and “interrupts masked out” are also heard. See also
-`spl <./S.html#spl.html>`__.
+`spl <./S.html#spl>`__.
 
  
 
 +  --+  +  ------+
-| `Prev <interrupt.html>`__    | `Up <../I.html>`__         |  `Next <intertwingled.html>`__   |
+| `Prev <interrupt>`__    | `Up <../I>`__         |  `Next <intertwingled>`__   |
 +  --+  +  ------+
-| interrupt                    | `Home <../index.html>`__   |  intertwingled                   |
+| interrupt                    | `Home <../index>`__   |  intertwingled                   |
 +  --+  +  ------+
 
 intertwingled
 
-`Prev <interrupts-locked-out.html>`__ 
+`Prev <interrupts-locked-out>`__ 
 
 I
 
- `Next <intro.html>`__
+ `Next <intro>`__
 
  
 
@@ -1358,72 +1358,72 @@ composed of one another's components.
  
 
 +   +  + ------------+
-| `Prev <interrupts-locked-out.html>`__    | `Up <../I.html>`__         |  `Next <intro.html>`__   |
+| `Prev <interrupts-locked-out>`__    | `Up <../I>`__         |  `Next <intro>`__   |
 +   +  + ------------+
-| interrupts locked out                    | `Home <../index.html>`__   |  intro                   |
+| interrupts locked out                    | `Home <../index>`__   |  intro                   |
 +   +  + ------------+
 
 in the extreme
 
-`Prev <Imminent-Death-Of-The-Net-Predicted-.html>`__ 
+`Prev <Imminent-Death-Of-The-Net-Predicted->`__ 
 
 I
 
- `Next <incantation.html>`__
+ `Next <incantation>`__
 
  
 
 **in the extreme**: adj.
 
 A preferred superlative suffix for many hackish terms. See, for example,
-obscure in the extreme under `obscure <./O.html#obscure.html>`__, and
-compare `highly <./H.html#highly.html>`__.
+obscure in the extreme under `obscure <./O.html#obscure>`__, and
+compare `highly <./H.html#highly>`__.
 
  
 
 +    -+  +  ----+
-| `Prev <Imminent-Death-Of-The-Net-Predicted-.html>`__    | `Up <../I.html>`__         |  `Next <incantation.html>`__   |
+| `Prev <Imminent-Death-Of-The-Net-Predicted->`__    | `Up <../I>`__         |  `Next <incantation>`__   |
 +    -+  +  ----+
-| Imminent Death Of The Net Predicted!                    | `Home <../index.html>`__   |  incantation                   |
+| Imminent Death Of The Net Predicted!                    | `Home <../index>`__   |  incantation                   |
 +    -+  +  ----+
 
 intro
 
-`Prev <intertwingled.html>`__ 
+`Prev <intertwingled>`__ 
 
 I
 
- `Next <IRC.html>`__
+ `Next <IRC>`__
 
  
 
 **intro**: n.
 
-[`demoscene <./D.html#demoscene.html>`__\ ] Introductory
-`screen <./S.html#screen.html>`__ of some production.
+[`demoscene <./D.html#demoscene>`__\ ] Introductory
+`screen <./S.html#screen>`__ of some production.
 
-2. A short `demo <./D.html#demo.html>`__, usually showing just one or two
-`screen <./S.html#screen.html>`__\ s.
+2. A short `demo <./D.html#demo>`__, usually showing just one or two
+`screen <./S.html#screen>`__\ s.
 
-3. Small, usually 64k, 40k or 4k `demo <./D.html#demo.html>`__. Sizes are
-generally dictated by `compo <./C.html#compo.html>`__ rules. See also
-`dentro <./D.html#dentro.html>`__, `demo <./D.html#demo.html>`__.
+3. Small, usually 64k, 40k or 4k `demo <./D.html#demo>`__. Sizes are
+generally dictated by `compo <./C.html#compo>`__ rules. See also
+`dentro <./D.html#dentro>`__, `demo <./D.html#demo>`__.
 
  
 
 +  ------+  + ----------+
-| `Prev <intertwingled.html>`__    | `Up <../I.html>`__         |  `Next <IRC.html>`__   |
+| `Prev <intertwingled>`__    | `Up <../I>`__         |  `Next <IRC>`__   |
 +  ------+  + ----------+
-| intertwingled                    | `Home <../index.html>`__   |  IRC                   |
+| intertwingled                    | `Home <../index>`__   |  IRC                   |
 +  ------+  + ----------+
 
 IRC
 
-`Prev <intro.html>`__ 
+`Prev <intro>`__ 
 
 I
 
- `Next <iron.html>`__
+ `Next <iron>`__
 
  
 
@@ -1433,142 +1433,142 @@ I
 to converse with others in real time. IRC is structured as a network of
 Internet servers, each of which accepts connections from client
 programs, one per user. The IRC community and the
-`Usenet <./U.html#Usenet.html>`__ and `MUD <./M.html#MUD.html>`__
+`Usenet <./U.html#Usenet>`__ and `MUD <./M.html#MUD>`__
 communities overlap to some extent, including both hackers and regular
 folks who have discovered the wonders of computer networks. Some Usenet
 jargon has been adopted on IRC, as have some conventions such as
-`emoticon <./E.html#emoticon.html>`__\ s. There is also a vigorous native
+`emoticon <./E.html#emoticon>`__\ s. There is also a vigorous native
 jargon, represented in this lexicon by entries marked ‘[IRC]’. See also
-`talk mode <./T.html#talk-mode.html>`__.
+`talk mode <./T.html#talk-mode>`__.
 
  
 
 + ------------+  + -----------+
-| `Prev <intro.html>`__    | `Up <../I.html>`__         |  `Next <iron.html>`__   |
+| `Prev <intro>`__    | `Up <../I>`__         |  `Next <iron>`__   |
 + ------------+  + -----------+
-| intro                    | `Home <../index.html>`__   |  iron                   |
+| intro                    | `Home <../index>`__   |  iron                   |
 + ------------+  + -----------+
 
 Iron Age
 
-`Prev <iron.html>`__ 
+`Prev <iron>`__ 
 
 I
 
- `Next <iron-box.html>`__
+ `Next <iron-box>`__
 
  
 
 **Iron Age**: n.
 
 In the history of computing, 1961-1971 — the formative era of commercial
-`mainframe <./M.html#mainframe.html>`__ technology, when ferrite-core
-`dinosaur <./D.html#dinosaur.html>`__\ s ruled the earth. The Iron Age
+`mainframe <./M.html#mainframe>`__ technology, when ferrite-core
+`dinosaur <./D.html#dinosaur>`__\ s ruled the earth. The Iron Age
 began, ironically enough, with the delivery of the first minicomputer
 (the PDP-1) and ended with the introduction of the first commercial
 microprocessor (the Intel 4004) in 1971. See also `Stone
-Age <./S.html#Stone-Age.html>`__; compare `elder
-days <./E.html#elder-days.html>`__.
+Age <./S.html#Stone-Age>`__; compare `elder
+days <./E.html#elder-days>`__.
 
  
 
 + -----------+  +  -+
-| `Prev <iron.html>`__    | `Up <../I.html>`__         |  `Next <iron-box.html>`__   |
+| `Prev <iron>`__    | `Up <../I>`__         |  `Next <iron-box>`__   |
 + -----------+  +  -+
-| iron                    | `Home <../index.html>`__   |  iron box                   |
+| iron                    | `Home <../index>`__   |  iron box                   |
 + -----------+  +  -+
 
 iron box
 
-`Prev <Iron-Age.html>`__ 
+`Prev <Iron-Age>`__ 
 
 I
 
- `Next <ironmonger.html>`__
+ `Next <ironmonger>`__
 
  
 
 **iron box**: n.
 
 [Unix/Internet] A special environment set up to trap a
-`cracker <./C.html#cracker.html>`__ logging in over remote connections
+`cracker <./C.html#cracker>`__ logging in over remote connections
 long enough to be traced. May include a modified
-`shell <./S.html#shell.html>`__ restricting the cracker's movements in
+`shell <./S.html#shell>`__ restricting the cracker's movements in
 unobvious ways, and ‘bait’ files designed to keep him interested and
-logged on. See also `back door <./B.html#back-door.html>`__, `firewall
-machine <./F.html#firewall-machine.html>`__, `Venus
-flytrap <./V.html#Venus-flytrap.html>`__, and Clifford Stoll's account in
+logged on. See also `back door <./B.html#back-door>`__, `firewall
+machine <./F.html#firewall-machine>`__, `Venus
+flytrap <./V.html#Venus-flytrap>`__, and Clifford Stoll's account in
 *`The Cuckoo's Egg <../pt03.html#Stoll>`__* of how he made and used one
 (see the `Bibliography <../pt03.html#bibliography>`__ in Appendix C).
-Compare `padded cell <./P.html#padded-cell.html>`__, `honey
-pot <./H.html#honey-pot.html>`__.
+Compare `padded cell <./P.html#padded-cell>`__, `honey
+pot <./H.html#honey-pot>`__.
 
  
 
 +  -+  +  ---+
-| `Prev <Iron-Age.html>`__    | `Up <../I.html>`__         |  `Next <ironmonger.html>`__   |
+| `Prev <Iron-Age>`__    | `Up <../I>`__         |  `Next <ironmonger>`__   |
 +  -+  +  ---+
-| Iron Age                    | `Home <../index.html>`__   |  ironmonger                   |
+| Iron Age                    | `Home <../index>`__   |  ironmonger                   |
 +  -+  +  ---+
 
 iron
 
-`Prev <IRC.html>`__ 
+`Prev <IRC>`__ 
 
 I
 
- `Next <Iron-Age.html>`__
+ `Next <Iron-Age>`__
 
  
 
 **iron**: n.
 
 Hardware, especially older and larger hardware of
-`mainframe <./M.html#mainframe.html>`__ class with big metal cabinets
+`mainframe <./M.html#mainframe>`__ class with big metal cabinets
 housing relatively low-density electronics (but the term is also used of
 modern supercomputers). Often in the phrase `big
-iron <./B.html#big-iron.html>`__. Oppose `silicon <./S.html#silicon.html>`__.
-See also `dinosaur <./D.html#dinosaur.html>`__.
+iron <./B.html#big-iron>`__. Oppose `silicon <./S.html#silicon>`__.
+See also `dinosaur <./D.html#dinosaur>`__.
 
  
 
 + ----------+  +  -+
-| `Prev <IRC.html>`__    | `Up <../I.html>`__         |  `Next <Iron-Age.html>`__   |
+| `Prev <IRC>`__    | `Up <../I>`__         |  `Next <Iron-Age>`__   |
 + ----------+  +  -+
-| IRC                    | `Home <../index.html>`__   |  Iron Age                   |
+| IRC                    | `Home <../index>`__   |  Iron Age                   |
 + ----------+  +  -+
 
 ironmonger
 
-`Prev <iron-box.html>`__ 
+`Prev <iron-box>`__ 
 
 I
 
- `Next <ISO-standard-cup-of-tea.html>`__
+ `Next <ISO-standard-cup-of-tea>`__
 
  
 
 **ironmonger**: n.
 
 [IBM] A hardware specialist (derogatory). Compare
-`sandbender <./S.html#sandbender.html>`__, `polygon
-pusher <./P.html#polygon-pusher.html>`__.
+`sandbender <./S.html#sandbender>`__, `polygon
+pusher <./P.html#polygon-pusher>`__.
 
  
 
 +  -+  +   --+
-| `Prev <iron-box.html>`__    | `Up <../I.html>`__         |  `Next <ISO-standard-cup-of-tea.html>`__   |
+| `Prev <iron-box>`__    | `Up <../I>`__         |  `Next <ISO-standard-cup-of-tea>`__   |
 +  -+  +   --+
-| iron box                    | `Home <../index.html>`__   |  ISO standard cup of tea                   |
+| iron box                    | `Home <../index>`__   |  ISO standard cup of tea                   |
 +  -+  +   --+
 
 I see no X here.
 
-`Prev <I-didn-t-change-anything-.html>`__ 
+`Prev <I-didn-t-change-anything->`__ 
 
 I
 
- `Next <I-for-one-welcome-our-new-X-overlords.html>`__
+ `Next <I-for-one-welcome-our-new-X-overlords>`__
 
  
 
@@ -1577,25 +1577,25 @@ I
 Hackers (and the interactive computer games they write) traditionally
 favor this slightly marked usage over other possible equivalents such as
 “There's no X here!” or “X is missing.” or “Where's the X?”. This goes
-back to the original PDP-10 `ADVENT <./A.html#ADVENT.html>`__, which would
+back to the original PDP-10 `ADVENT <./A.html#ADVENT>`__, which would
 respond in this wise if you asked it to do something involving an object
 not present at your location in the game.
 
  
 
 +   ----+  +    --+
-| `Prev <I-didn-t-change-anything-.html>`__    | `Up <../I.html>`__         |  `Next <I-for-one-welcome-our-new-X-overlords.html>`__   |
+| `Prev <I-didn-t-change-anything->`__    | `Up <../I>`__         |  `Next <I-for-one-welcome-our-new-X-overlords>`__   |
 +   ----+  +    --+
-| I didn't change anything!                    | `Home <../index.html>`__   |  I for one welcome our new X overlords                   |
+| I didn't change anything!                    | `Home <../index>`__   |  I for one welcome our new X overlords                   |
 +   ----+  +    --+
 
 ISO standard cup of tea
 
-`Prev <ironmonger.html>`__ 
+`Prev <ironmonger>`__ 
 
 I
 
- `Next <ISP.html>`__
+ `Next <ISP>`__
 
  
 
@@ -1627,18 +1627,18 @@ tea.* —ESR]
  
 
 +  ---+  + ----------+
-| `Prev <ironmonger.html>`__    | `Up <../I.html>`__         |  `Next <ISP.html>`__   |
+| `Prev <ironmonger>`__    | `Up <../I>`__         |  `Next <ISP>`__   |
 +  ---+  + ----------+
-| ironmonger                    | `Home <../index.html>`__   |  ISP                   |
+| ironmonger                    | `Home <../index>`__   |  ISP                   |
 +  ---+  + ----------+
 
 ISP
 
-`Prev <ISO-standard-cup-of-tea.html>`__ 
+`Prev <ISO-standard-cup-of-tea>`__ 
 
 I
 
- `Next <Itanic.html>`__
+ `Next <Itanic>`__
 
  
 
@@ -1651,23 +1651,23 @@ market. While the big nationwide commercial BBSs with Internet access
 ISPs, the term is usually reserved for local or regional small providers
 (often run by hackers turned entrepreneurs) who resell Internet access
 cheaply without themselves being information providers or selling
-advertising. Compare `NSP <./N.html#NSP.html>`__.
+advertising. Compare `NSP <./N.html#NSP>`__.
 
  
 
 +   --+  + -------------+
-| `Prev <ISO-standard-cup-of-tea.html>`__    | `Up <../I.html>`__         |  `Next <Itanic.html>`__   |
+| `Prev <ISO-standard-cup-of-tea>`__    | `Up <../I>`__         |  `Next <Itanic>`__   |
 +   --+  + -------------+
-| ISO standard cup of tea                    | `Home <../index.html>`__   |  Itanic                   |
+| ISO standard cup of tea                    | `Home <../index>`__   |  Itanic                   |
 +   --+  + -------------+
 
 Itanic
 
-`Prev <ISP.html>`__ 
+`Prev <ISP>`__ 
 
 I
 
- `Next <ITS.html>`__
+ `Next <ITS>`__
 
  
 
@@ -1682,18 +1682,18 @@ the semiconductor industry.
  
 
 + ----------+  + ----------+
-| `Prev <ISP.html>`__    | `Up <../I.html>`__         |  `Next <ITS.html>`__   |
+| `Prev <ISP>`__    | `Up <../I>`__         |  `Next <ITS>`__   |
 + ----------+  + ----------+
-| ISP                    | `Home <../index.html>`__   |  ITS                   |
+| ISP                    | `Home <../index>`__   |  ITS                   |
 + ----------+  + ----------+
 
 ITS
 
-`Prev <Itanic.html>`__ 
+`Prev <Itanic>`__ 
 
 I
 
- `Next <IWBNI.html>`__
+ `Next <IWBNI>`__
 
  
 
@@ -1710,57 +1710,57 @@ to newer machines, with the remaining ITS boxes run essentially as a
 hobby and service to the hacker community. The shutdown of the lab's
 last ITS machine in May 1990 marked the end of an era and sent old-time
 hackers into mourning nationwide (see `high
-moby <./H.html#high-moby.html>`__). There is an `ITS home
+moby <./H.html#high-moby>`__). There is an `ITS home
 page <http://www.its.os.org/>`__.
 
 2. A mythical image of operating-system perfection worshiped by a
 bizarre, fervent retro-cult of old-time hackers and ex-users (see
-`troglodyte <./T.html#troglodyte.html>`__, sense 2). ITS worshipers manage
+`troglodyte <./T.html#troglodyte>`__, sense 2). ITS worshipers manage
 somehow to continue believing that an OS maintained by assembly-language
 hand-hacking that supported only monocase 6-character filenames in one
 directory per account remains superior to today's state of commercial
-art (their venom against `Unix <./U.html#Unix.html>`__ is particularly
-intense). See also `holy wars <./H.html#holy-wars.html>`__,
-`Weenix <./W.html#Weenix.html>`__.
+art (their venom against `Unix <./U.html#Unix>`__ is particularly
+intense). See also `holy wars <./H.html#holy-wars>`__,
+`Weenix <./W.html#Weenix>`__.
 
  
 
 + -------------+  + ------------+
-| `Prev <Itanic.html>`__    | `Up <../I.html>`__         |  `Next <IWBNI.html>`__   |
+| `Prev <Itanic>`__    | `Up <../I>`__         |  `Next <IWBNI>`__   |
 + -------------+  + ------------+
-| Itanic                    | `Home <../index.html>`__   |  IWBNI                   |
+| Itanic                    | `Home <../index>`__   |  IWBNI                   |
 + -------------+  + ------------+
 
 IWBNI
 
-`Prev <ITS.html>`__ 
+`Prev <ITS>`__ 
 
 I
 
- `Next <IYFEG.html>`__
+ `Next <IYFEG>`__
 
  
 
 **IWBNI**: //
 
 Abbreviation for ‘It Would Be Nice If’. Compare
-`WIBNI <./W.html#WIBNI.html>`__.
+`WIBNI <./W.html#WIBNI>`__.
 
  
 
 + ----------+  + ------------+
-| `Prev <ITS.html>`__    | `Up <../I.html>`__         |  `Next <IYFEG.html>`__   |
+| `Prev <ITS>`__    | `Up <../I>`__         |  `Next <IYFEG>`__   |
 + ----------+  + ------------+
-| ITS                    | `Home <../index.html>`__   |  IYFEG                   |
+| ITS                    | `Home <../index>`__   |  IYFEG                   |
 + ----------+  + ------------+
 
 IYFEG
 
-`Prev <IWBNI.html>`__ 
+`Prev <IWBNI>`__ 
 
 I
 
- `Next <../J.html>`__
+ `Next <../J>`__
 
  
 
@@ -1768,13 +1768,13 @@ I
 
 [Usenet] Abbreviation for ‘Insert Your Favorite Ethnic Group’. Used as a
 meta-name when telling ethnic jokes on the net to avoid offending
-anyone. See `JEDR <./J.html#JEDR.html>`__.
+anyone. See `JEDR <./J.html#JEDR>`__.
 
  
 
 + ------------+  + -----------+
-| `Prev <IWBNI.html>`__    | `Up <../I.html>`__         |  `Next <../J.html>`__   |
+| `Prev <IWBNI>`__    | `Up <../I>`__         |  `Next <../J>`__   |
 + ------------+  + -----------+
-| IWBNI                    | `Home <../index.html>`__   |  J                      |
+| IWBNI                    | `Home <../index>`__   |  J                      |
 + ------------+  + -----------+
 

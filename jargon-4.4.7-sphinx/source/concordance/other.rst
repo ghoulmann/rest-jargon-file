@@ -13,11 +13,11 @@ Other
 par\`tee/) A semi-closed party thrown for hackers at a science-fiction
 convention (esp. the annual World Science Fiction Convention or
 “Worldcon”); one must have a `network
-address <./N.html#network-address.html>`__ to get in, or at least be in
+address <./N.html#network-address>`__ to get in, or at least be in
 company with someone who does. One of the most reliable opportunities
 for hackers to meet face to face with people who might otherwise be
 represented by mere phosphor dots on their screens. Compare
-`boink <./B.html#boink.html>`__.
+`boink <./B.html#boink>`__.
 
 The first recorded @-party was held at the Westercon (a U.S. western
 regional SF convention) over the July 4th weekend in 1980. It is not
@@ -42,8 +42,8 @@ The status of a website which has been completely removed, usually by
 the administrators of the hosting site as a result of net abuse by the
 website operators. The term is a tongue-in-cheek reference to the
 standard “301 compliant” Murkowski Bill disclaimer used by spammers. See
-also: `spam <./S.html#spam.html>`__,
-`spamvertize <./S.html#spamvertize.html>`__.
+also: `spam <./S.html#spam>`__,
+`spamvertize <./S.html#spamvertize>`__.
 
 
 404
@@ -68,7 +68,7 @@ May be used reflexively; “Uh, I'm 404ing” means “I'm drawing a blank”.
 in any information space being discussed, used, or referred to. A
 controversial posting, for example, might end “Kudos to
 rasputin@kremlin.org, flames to /dev/null”. See `bit
-bucket <./B.html#bit-bucket.html>`__.
+bucket <./B.html#bit-bucket>`__.
 
 
 
@@ -148,7 +148,7 @@ corner). Are we sufficiently confused yet?
 **1TBS**: //, n.
 
 The “One True Brace Style”; see `indent
-style <./I.html#indent-style.html>`__.
+style <./I.html#indent-style>`__.
 
 
 (TM)
@@ -161,5 +161,5 @@ style <./I.html#indent-style.html>`__.
 feels should be recorded for posterity, perhaps in future editions of
 this lexicon. Sometimes used ironically as a form of protest against the
 recent spate of software and algorithm patents and look and feel
-lawsuits. See also `UN\*X <./U.html#UN-asterisk-X.html>`__.
+lawsuits. See also `UN\*X <./U.html#UN-asterisk-X>`__.
 

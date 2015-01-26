@@ -579,7 +579,7 @@ real development environment.
 peculiarities of a particular hardware design, esp. tricks for speed and
 space optimization that rely on crocks such as overlapping instructions
 (or, as in the famous case described in `The Story of
-Mel' <../story-of-mel.html>`__ (in Appendix A), interleaving of opcodes
+Mel' <../story-of-mel>`__ (in Appendix A), interleaving of opcodes
 on a magnetic drum to minimize fetch delays due to the device's
 rotational latency). This sort of thing has become rare as the relative
 costs of programming time and machine resources have changed, but is
@@ -1855,7 +1855,7 @@ lot of stuff on the floor lately (see `drop on the
 floor <./D.html#drop-on-the-floor>`__). The implied metaphor of email
 as interstellar travel is interesting in itself. Readily verbed as
 blackhole: “That router is blackholing IDP packets.” Compare `bit
-bucket <bit-bucket.html>`__ and see `RBL <./R.html#RBL.html>`__.
+bucket <bit-bucket>`__ and see `RBL <./R.html#RBL>`__.
 
 
 black magic
@@ -1865,10 +1865,10 @@ black magic
 
 [common] A technique that works, though nobody really understands why.
 More obscure than `voodoo
-programming <./V.html#voodoo-programming.html>`__, which may be done by
-cookbook. Compare also `black art <black-art.html>`__, `deep
-magic <./D.html#deep-magic.html>`__, and `magic
-number <./M.html#magic-number.html>`__ (sense 2).
+programming <./V.html#voodoo-programming>`__, which may be done by
+cookbook. Compare also `black art <black-art>`__, `deep
+magic <./D.html#deep-magic>`__, and `magic
+number <./M.html#magic-number>`__ (sense 2).
 
 
 
@@ -1879,11 +1879,11 @@ Black Screen of Death
 
 [prob.: related to the Floating Head of Death in a famous *Far Side*
 cartoon.] A failure mode of `Microsloth
-Windows <./M.html#Microsloth-Windows.html>`__. On an attempt to launch a
+Windows <./M.html#Microsloth-Windows>`__. On an attempt to launch a
 DOS box, a networked Windows system not uncommonly blanks the screen and
-locks up the PC so hard that it requires a cold `boot <boot.html>`__
+locks up the PC so hard that it requires a cold `boot <boot>`__
 to recover. This unhappy phenomenon is known as The Black Screen of
-Death. See also `Blue Screen of Death <Blue-Screen-of-Death.html>`__,
+Death. See also `Blue Screen of Death <Blue-Screen-of-Death>`__,
 which has become rather more common.
 
 
@@ -1908,21 +1908,21 @@ blargh
 
 **blargh**: /blarg/, n.
 
-[MIT; now common] The opposite of `ping <./P.html#ping.html>`__, sense 5;
+[MIT; now common] The opposite of `ping <./P.html#ping>`__, sense 5;
 an exclamation indicating that one has absorbed or is emitting a quantum
-of unhappiness. Less common than `ping <./P.html#ping.html>`__.
+of unhappiness. Less common than `ping <./P.html#ping>`__.
 
 blast
 ============
 
 **blast**
 
-1. v.,n. Synonym for `BLT <BLT.html>`__, used esp. for large data
+1. v.,n. Synonym for `BLT <BLT>`__, used esp. for large data
 sends over a network or comm line. Opposite of
-`snarf <./S.html#snarf.html>`__. Usage: uncommon. The variant ‘blat’ has
+`snarf <./S.html#snarf>`__. Usage: uncommon. The variant ‘blat’ has
 been reported.
 
-2. vt. [HP/Apollo] Synonymous with `nuke <./N.html#nuke.html>`__ (sense
+2. vt. [HP/Apollo] Synonymous with `nuke <./N.html#nuke>`__ (sense
 3). Sometimes the message **Unable to kill all processes. Blast them
 (y/n)?** would appear in the command window upon logout.
 
@@ -1933,9 +1933,9 @@ blat
 
 **blat**: n.
 
-1. Syn. `blast <blast.html>`__, sense 1.
+1. Syn. `blast <blast>`__, sense 1.
 
-2. See `thud <./T.html#thud.html>`__.
+2. See `thud <./T.html#thud>`__.
 
 bletcherous
 ==============
@@ -1945,14 +1945,14 @@ bletcherous
 Disgusting in design or function; esthetically unappealing. This word is
 seldom used of people. “This keyboard is bletcherous!” (Perhaps the keys
 don't work very well, or are misplaced.) See
-`losing <./L.html#losing.html>`__, `cretinous <./C.html#cretinous.html>`__,
-`bagbiting <bagbiting.html>`__, `bogus <bogus.html>`__, and
-`random <./R.html#random.html>`__. The term
-`bletcherous <bletcherous.html>`__ applies to the esthetics of the
-thing so described; similarly for `cretinous <./C.html#cretinous.html>`__.
+`losing <./L.html#losing>`__, `cretinous <./C.html#cretinous>`__,
+`bagbiting <bagbiting>`__, `bogus <bogus>`__, and
+`random <./R.html#random>`__. The term
+`bletcherous <bletcherous>`__ applies to the esthetics of the
+thing so described; similarly for `cretinous <./C.html#cretinous>`__.
 By contrast, something that is losing or bagbiting may be failing to
-meet objective criteria. See also `bogus <bogus.html>`__ and
-`random <./R.html#random.html>`__, which have richer and wider shades of
+meet objective criteria. See also `bogus <bogus>`__ and
+`random <./R.html#random>`__, which have richer and wider shades of
 meaning than any of the above.
 
 
@@ -1964,7 +1964,7 @@ bletch
 
 [very common; from Yiddish/German ‘brechen’, to vomit, poss. via
 comic-strip exclamation ‘blech’] Term of disgust. Often used in “Ugh,
-bletch”. Compare `barf <barf.html>`__.
+bletch”. Compare `barf <barf>`__.
 
 
 
@@ -1974,7 +1974,7 @@ blinkenlights
 **blinkenlights**: /blink'@n·li:tz/, n.
 
 [common] Front-panel diagnostic lights on a computer, esp. a
-`dinosaur <./D.html#dinosaur.html>`__. Now that dinosaurs are rare, this
+`dinosaur <./D.html#dinosaur>`__. Now that dinosaurs are rare, this
 term usually refers to status lights on a modem, network hub, or the
 like.
 
@@ -2014,7 +2014,7 @@ English, one of which is reproduced here::
   anderswhere!  Also: please keep still and only watchen astaunished
   the blinkenlights.
 
-See also `geef <./G.html#geef.html>`__.
+See also `geef <./G.html#geef>`__.
 
 Old-time hackers sometimes get nostalgic for blinkenlights because they
 were so much more fun to look at than a blank panel. Sadly, very few
@@ -2034,7 +2034,7 @@ have featured programmable blinkenlights that were added just because
 they looked cool. The Connection Machine, a 65,536-processor parallel
 computer designed in the mid-1980s, was a black cube with one side
 covered with a grid of red blinkenlights; the sales demo had them
-evolving `life <./L.html#life.html>`__ patterns. A few years later the
+evolving `life <./L.html#life>`__ patterns. A few years later the
 ill-fated BeBox (a personal computer designed to run the BeOS operating
 system) featured twin rows of blinkenlights on the case front. When Be,
 Inc. decided to get out of the hardware business in 1996 and instead
@@ -2093,10 +2093,10 @@ blit
 memory to another part, particularly when the memory is being used to
 determine what is shown on a display screen. “The storage allocator
 picks through the table and copies the good parts up into high memory,
-and then blits it all back down again.” See `bitblt <bitblt.html>`__,
-`BLT <BLT.html>`__, `dd <./D.html#dd.html>`__,
-`cat <./C.html#cat.html>`__, `blast <blast.html>`__,
-`snarf <./S.html#snarf.html>`__. More generally, to perform some operation
+and then blits it all back down again.” See `bitblt <bitblt>`__,
+`BLT <BLT>`__, `dd <./D.html#dd>`__,
+`cat <./C.html#cat>`__, `blast <blast>`__,
+`snarf <./S.html#snarf>`__. More generally, to perform some operation
 (such as toggling) on a large array of bits while moving them.
 
 2. [historical, rare] Sometimes all-capitalized as BLIT: an early
@@ -2112,11 +2112,11 @@ blitter
 **blitter**: /blit´r/, n.
 
 [common] A special-purpose chip or hardware system built to perform
-`blit <blit.html>`__ operations, esp. used for fast implementation of
+`blit <blit>`__ operations, esp. used for fast implementation of
 bit-mapped graphics. The Commodore Amiga and a few other micros have
 these, but since 1990 the trend has been away from them (however, see
-`cycle of reincarnation <./C.html#cycle-of-reincarnation.html>`__). Syn.
-`raster blaster <./R.html#raster-blaster.html>`__.
+`cycle of reincarnation <./C.html#cycle-of-reincarnation>`__). Syn.
+`raster blaster <./R.html#raster-blaster>`__.
 
 blivet
 ==========
@@ -2146,7 +2146,7 @@ system).
 This term has other meanings in other technical cultures; among
 experimental physicists and hardware engineers of various kinds it seems
 to mean any random object of unknown purpose (similar to hackish use of
-`frob <./F.html#frob.html>`__). It has also been used to describe an
+`frob <./F.html#frob>`__). It has also been used to describe an
 amusing trick-the-eye drawing resembling a three-pronged fork that
 appears to depict a three-dimensional object until one realizes that the
 parts fit together in an impossible way.
@@ -2181,7 +2181,7 @@ such as a picture or sound file. The essential point about a BLOB is
 that it's an object that cannot be interpreted within the database
 itself.
 
-2. v. To `mailbomb <./M.html#mailbomb.html>`__ someone by sending a BLOB
+2. v. To `mailbomb <./M.html#mailbomb>`__ someone by sending a BLOB
 to him/her; esp. used as a mild threat. “If that program crashes again,
 I'm going to BLOB the core dump to you.”
 
@@ -2195,7 +2195,7 @@ block
 [common; from process scheduling terminology in OS theory]
 
 1. vi. To delay or sit idle while waiting for something. “We're blocking
-until everyone gets here.” Compare `busy-wait <busy-wait.html>`__.
+until everyone gets here.” Compare `busy-wait <busy-wait>`__.
 
 2. block on vt. To block, waiting for (something). “Lunch is blocked on
 Phil's arrival.”
@@ -2214,10 +2214,10 @@ the difference between extensional and intensional objects. For example,
 every occurrence of “Fred Bloggs” is the same unique person, whereas
 occurrences of “person” may refer to different people. Members of the
 Bloggs family have been known to pop up in bizarre places such as the
-old `DEC <./D.html#DEC.html>`__ Telephone Directory. Compare `Dr. Fred
-Mbogo <./D.html#Dr--Fred-Mbogo.html>`__; `J. Random
-Hacker <./J.html#J--Random-Hacker.html>`__; `Fred
-Foobar <./F.html#Fred-Foobar.html>`__.
+old `DEC <./D.html#DEC>`__ Telephone Directory. Compare `Dr. Fred
+Mbogo <./D.html#Dr--Fred-Mbogo>`__; `J. Random
+Hacker <./J.html#J--Random-Hacker>`__; `Fred
+Foobar <./F.html#Fred-Foobar>`__.
 
 
 blog
@@ -2229,7 +2229,7 @@ blog
 facilities for reader comments and discussion threads) made accessible
 through the World Wide Web. This term is widespread and readily forms
 derivatives, of which the best known may be
-`blogosphere <blogosphere.html>`__.
+`blogosphere <blogosphere>`__.
 
 .. index:: blog, weblog, blogosphere, zine
 
@@ -2238,11 +2238,11 @@ blogosphere
 
 **blogosphere**
 
-The totality of all `blog <blog.html>`__\ s. A culture heavily
+The totality of all `blog <blog>`__\ s. A culture heavily
 overlapping with but not coincident with hackerdom; a few of its key
-coinages (`blogrolling <blogrolling.html>`__,
-`fisking <./F.html#fisking.html>`__,
-`anti-idiotarianism <./A.html#anti-idiotarianism.html>`__) are recorded in
+coinages (`blogrolling <blogrolling>`__,
+`fisking <./F.html#fisking>`__,
+`anti-idiotarianism <./A.html#anti-idiotarianism>`__) are recorded in
 this lexicon for flavor. Bloggers often divide themselves into
 warbloggers and techbloggers. The techbloggers write about technology
 and technology policy, while the warbloggers are more politically
@@ -2287,7 +2287,7 @@ blow away
 
 To remove (files and directories) from permanent storage, generally by
 accident. “He reformatted the wrong partition and blew away last night's
-netnews.” Oppose `nuke <./N.html#nuke.html>`__.
+netnews.” Oppose `nuke <./N.html#nuke>`__.
 
 
 
@@ -2298,9 +2298,9 @@ blow out
 
 [prob.: from mining and tunneling jargon] Of software, to fail
 spectacularly; almost as serious as `crash and
-burn <./C.html#crash-and-burn.html>`__. See `blow
-past <blow-past.html>`__, `blow up <blow-up.html>`__, `die
-horribly <./D.html#die-horribly.html>`__.
+burn <./C.html#crash-and-burn>`__. See `blow
+past <blow-past>`__, `blow up <blow-up>`__, `die
+horribly <./D.html#die-horribly>`__.
 
 
 
@@ -2309,7 +2309,7 @@ blow past
 
 **blow past**: vt.
 
-To `blow out <blow-out.html>`__ despite a safeguard. “The server blew
+To `blow out <blow-out>`__ despite a safeguard. “The server blew
 past the 5K reserve buffer.”
 
 
@@ -2321,9 +2321,9 @@ blow up
 
 1. [scientific computation] To become unstable. Suggests that the
 computation is diverging so rapidly that it will soon overflow or at
-least go `nonlinear <./N.html#nonlinear.html>`__.
+least go `nonlinear <./N.html#nonlinear>`__.
 
-2. Syn. `blow out <blow-out.html>`__.
+2. Syn. `blow out <blow-out>`__.
 
 
 BLT
@@ -2331,15 +2331,15 @@ BLT
 
 **BLT**: /B·L·T/, /bl@t/, /belt/, n.,vt.
 
-Synonym for `blit <blit.html>`__. This is the original form of
-`blit <blit.html>`__ and the ancestor of `bitblt <bitblt.html>`__.
+Synonym for `blit <blit>`__. This is the original form of
+`blit <blit>`__ and the ancestor of `bitblt <bitblt>`__.
 It referred to any large bit-field copy or move operation (one
 resource-intensive memory-shuffling operation done on pre-paged versions
 of ITS, WAITS, and TOPS-10 was sardonically referred to as “The Big
 BLT”). The jargon usage has outlasted the
-`PDP-10 <./P.html#PDP-10.html>`__ BLock Transfer instruction from which
-`BLT <BLT.html>`__ derives; nowadays, the assembler mnemonic
-`BLT <BLT.html>`__ almost always means “Branch if Less Than zero”.
+`PDP-10 <./P.html#PDP-10>`__ BLock Transfer instruction from which
+`BLT <BLT>`__ derives; nowadays, the assembler mnemonic
+`BLT <BLT>`__ almost always means “Branch if Less Than zero”.
 
 
 
@@ -2353,7 +2353,7 @@ n.
 1. obs. Once upon a time, before all-digital switches made it possible
 for the phone companies to move them out of band, one could actually
 hear the switching tones used to route long-distance calls. Early
-`phreaker <./P.html#phreaker.html>`__\ s built devices called blue boxes
+`phreaker <./P.html#phreaker>`__\ s built devices called blue boxes
 that could reproduce these tones, which could be used to commandeer
 portions of the phone network. (This was not as hard as it may sound;
 one early phreak acquired the sobriquet “Captain Crunch” after he proved
@@ -2361,10 +2361,10 @@ that he could generate switching tones with a plastic whistle pulled out
 of a box of Captain Crunch cereal!) There were other colors of box with
 more specialized phreaking uses; red boxes, black boxes, silver boxes,
 etc. There were boxes of `other
-colors <http://www.ElfQrin.com/docs/hakref/phrkbox/phreakboxes.html>`__
+colors <http://www.ElfQrin.com/docs/hakref/phrkbox/phreakboxes>`__
 as well, but the blue box was the original and archetype.
 
-2. n. An `IBM <./I.html#IBM.html>`__ machine, especially a large (non-PC)
+2. n. An `IBM <./I.html#IBM>`__ machine, especially a large (non-PC)
 one.
 
 
@@ -2374,15 +2374,15 @@ Blue Glue
 **Blue Glue**: n.
 
 [IBM; obs.] IBM's SNA (Systems Network Architecture), an incredibly
-`losing <./L.html#losing.html>`__ and `bletcherous <bletcherous.html>`__
+`losing <./L.html#losing>`__ and `bletcherous <bletcherous>`__
 communications protocol once widely favored at commercial shops that
 didn't know any better (like other proprietary networking protocols, it
 became obsolete and effectively disappeared after the Internet explosion
 c.1994). The official IBM definition is “that which binds blue boxes
-together.” See `fear and loathing <./F.html#fear-and-loathing.html>`__. It
+together.” See `fear and loathing <./F.html#fear-and-loathing>`__. It
 may not be irrelevant that Blue Glue is the trade name of a 3M product
 that is commonly used to hold down the carpet squares to the removable
-panel floors common in `dinosaur pen <./D.html#dinosaur-pen.html>`__\ s. A
+panel floors common in `dinosaur pen <./D.html#dinosaur-pen>`__\ s. A
 correspondent at U. Minn. reports that the CS department there has about
 80 bottles of the stuff hanging about, so they often refer to any messy
 work to be done as using the blue glue.
@@ -2393,13 +2393,13 @@ blue goo
 
 **blue goo**: n.
 
-Term for ‘police’ `nanobot <./N.html#nanobot.html>`__\ s intended to
-prevent `gray goo <./G.html#gray-goo.html>`__, denature hazardous waste,
+Term for ‘police’ `nanobot <./N.html#nanobot>`__\ s intended to
+prevent `gray goo <./G.html#gray-goo>`__, denature hazardous waste,
 destroy pollution, put ozone back into the stratosphere, prevent
 halitosis, and promote truth, justice, and the American way, etc. The
 term “Blue Goo” can be found in Dr. Seuss's *Fox In Socks* to refer to a
 substance much like bubblegum. ‘Would you like to chew blue goo, sir?’.
-See `nanotechnology <./N.html#nanotechnology.html>`__.
+See `nanotechnology <./N.html#nanotechnology>`__.
 
 
 Blue Screen of Death
@@ -2408,14 +2408,14 @@ Blue Screen of Death
 **Blue Screen of Death**: n.
 
 [common] This term is closely related to the older `Black Screen of
-Death <Black-Screen-of-Death.html>`__ but much more common (many
+Death <Black-Screen-of-Death>`__ but much more common (many
 non-hackers have picked it up). Due to the extreme fragility and
 bugginess of Microsoft Windows, misbehaving applications can readily
 crash the OS (and the OS sometimes crashes itself spontaneously). The
 Blue Screen of Death, sometimes decorated with hex error codes, is what
 you get when this happens. (Commonly abbreviated
-`BSOD <BSOD.html>`__.) The following entry from the `Salon Haiku
-Contest <http://archive.salon.com/21st/chal/1998/02/10chal.html>`__,
+`BSOD <BSOD>`__.) The following entry from the `Salon Haiku
+Contest <http://archive.salon.com/21st/chal/1998/02/10chal>`__,
 seems to have predated popular use of the term::
 
 
@@ -2436,9 +2436,9 @@ necessarily blue, the term describes function rather than color. These
 may be necessary if there hasn't been time to design and qualify another
 board version. In Great Britain this can be bodge wire, after mainstream
 slang bodge for a clumsy improvisation or sloppy job of work. Compare
-`purple wire <./P.html#purple-wire.html>`__, `red
-wire <./R.html#red-wire.html>`__, `yellow
-wire <./Y.html#yellow-wire.html>`__, `pink wire <./P.html#pink-wire>`__.
+`purple wire <./P.html#purple-wire>`__, `red
+wire <./R.html#red-wire>`__, `yellow
+wire <./Y.html#yellow-wire>`__, `pink wire <./P.html#pink-wire>`__.
 
 
 
@@ -2590,7 +2590,7 @@ set up (and still exist in the DNS as of 1999) as bob1 through bobN.
 Then came "alt.tech-support.recovery", and it was filled with Demon
 support personnel. They all referred to themselves, and to others, as
 “bob”, and after a while it caught on. There is now a `Bob
-Code <http://bob.bob.bofh.org/~giolla/bobcode.html>`__ describing the
+Code <http://bob.bob.bofh.org/~giolla/bobcode>`__ describing the
 Bob nature.
 
 
@@ -2621,7 +2621,7 @@ top-level newsgroup hierarchy ("bofh.*") of their own.
 
 Several people have written stories about BOFHs. The set usually
 considered canonical is by Simon Travaglia and may be found at the
-`Bastard Home Page <http://bofh.ntk.net/Bastard.html>`__. BOFHs and BOFH
+`Bastard Home Page <http://bofh.ntk.net/Bastard>`__. BOFHs and BOFH
 wannabes hang out on `scary devil
 monastery <./S.html#scary-devil-monastery>`__ and wield
 `LARTs <../L.html#LART>`__.
@@ -2763,7 +2763,7 @@ of bogosity is the `microLenat <./M.html#microLenat>`__.
 flux <#bogon-flux>`__; see `quantum
 bogodynamics <./Q.html#quantum-bogodynamics>`__. See also `bogon
 flux <#bogon-flux>`__, `bogon filter <#bogon-filter>`__,
-`bogus <#bogus.html>`__.
+`bogus <#bogus>`__.
 
 
 bogo-sort
@@ -2920,7 +2920,7 @@ that the system has died. On the Mac, this may be accompanied by a
 decimal (or occasionally hexadecimal) number indicating what went wrong,
 similar to the Amiga `guru meditation <./G.html#guru-meditation>`__
 number. `MS-DOS <../M.html#MS-DOS>`__ machines tend to get `locked
-up <./L.html#locked-up.html>`__ in this situation.
+up <./L.html#locked-up>`__ in this situation.
 
 
 
@@ -3908,11 +3908,11 @@ buffer overflow
 
 What happens when you try to stuff more data into a buffer (holding
 area) than it can handle. This problem is commonly exploited by
-`cracker <./C.html#cracker.html>`__\ s to get arbitrary commands executed
+`cracker <./C.html#cracker>`__\ s to get arbitrary commands executed
 by a program running with root permissions. This may be due to a
 mismatch in the processing rates of the producing and consuming
-processes (see `overrun <./O.html#overrun.html>`__ and `firehose
-syndrome <./F.html#firehose-syndrome.html>`__), or because the buffer is
+processes (see `overrun <./O.html#overrun>`__ and `firehose
+syndrome <./F.html#firehose-syndrome>`__), or because the buffer is
 simply too small to hold all the data that must accumulate before a
 piece of it can be processed. For example, in a text-processing tool
 that `crunch <./C.html#crunch>`__\ es a line at a time, a short line
@@ -4208,7 +4208,7 @@ burst page
 
 **burst page**: n.
 
-Syn. `banner <banner.html>`__, sense 1.
+Syn. `banner <banner>`__, sense 1.
 
 
 

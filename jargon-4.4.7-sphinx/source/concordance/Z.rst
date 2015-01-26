@@ -37,7 +37,7 @@ zapped
 Spicy. This term is used to distinguish between food that is hot (in
 temperature) and food that is *spicy*-hot. For example, the Chinese
 appetizer Bon Bon Chicken is a kind of chicken salad that is cold but
-zapped; by contrast, `vanilla <V.thml#vanilla.html>`__ wonton soup is
+zapped; by contrast, `vanilla <V.thml#vanilla>`__ wonton soup is
 hot but not zapped. See also `oriental
 food <O.html#oriental-food>`__, `laser
 chicken <L.html#laser-chicken>`__. See `zap <#zap>`__, senses
@@ -83,9 +83,9 @@ zen
 To figure out something by meditation or by a sudden flash of
 enlightenment. Originally applied to bugs, but occasionally applied to
 problems of life in general. “How'd you figure out the buffer allocation
-problem?” “Oh, I zenned it.” Contrast `grok <G.html#grok.html>`__, which
+problem?” “Oh, I zenned it.” Contrast `grok <G.html#grok>`__, which
 connotes a time-extended version of zenning a system. Compare `hack
-mode <H.html#hack-mode.html>`__. See also `guru <G.html#guru>`__.
+mode <H.html#hack-mode>`__. See also `guru <G.html#guru>`__.
 
 zero-content
 ===================
@@ -125,7 +125,7 @@ Zero-One-Infinity Rule
 “Allow none of `foo <F.html#foo>`__, one of
 `foo <F.html#foo>`__, or any number of `foo <F.html#foo>`__.”
 A rule of thumb for software design, which instructs one to not place
-`random <./R.html#random.html>`__ limits on the number of instances of a
+`random <./R.html#random>`__ limits on the number of instances of a
 given entity (such as: windows in a window system, letters in an OS's
 filenames, etc.). Specifically, one should either disallow the entity
 entirely, allow exactly one instance (an “exception”), or allow as many
@@ -217,9 +217,9 @@ zombie
 1. [Unix] A process that has died but has not yet relinquished its
 process table slot (because the parent process hasn't executed a wait(2)
 for it yet). These can be seen in ps(1) listings occasionally. Compare
-`orphan <./O.html#orphan.html>`__.
+`orphan <./O.html#orphan>`__.
 
-2. A machine, especially someone's `home box <./H.html#home-box.html>`__,
+2. A machine, especially someone's `home box <./H.html#home-box>`__,
 that has been cracked and is being used as part of a second-stage attack
 by miscreants trying to mask their home IP address. Especially used of
 machines being exploited in large gangs for a mechanized
@@ -249,7 +249,7 @@ that just yet; I think I've used up my quota of zorch with him for the
 week.”
 
 5. [MIT] n. Energy, drive, or ability. “I think I'll
-`punt <./P.html#punt.html>`__ that change for now; I've been up for 30
+`punt <./P.html#punt>`__ that change for now; I've been up for 30
 hours and I've run out of zorch.”
 
 6. [MIT] v. To flunk an exam or course.
@@ -270,17 +270,17 @@ Zork
 **Zork**: /zork/, n.
 
 The second of the great early experiments in computer fantasy gaming;
-see `ADVENT <./A.html#ADVENT.html>`__. Originally written on MIT-DM during
+see `ADVENT <./A.html#ADVENT>`__. Originally written on MIT-DM during
 1977-1979, later distributed with BSD Unix (as a patched, sourceless
 RT-11 FORTRAN binary; see
-`retrocomputing <./R.html#retrocomputing.html>`__) and commercialized as
-‘The Zork Trilogy’ by `Infocom <./I.html#Infocom.html>`__. The FORTRAN
+`retrocomputing <./R.html#retrocomputing>`__) and commercialized as
+‘The Zork Trilogy’ by `Infocom <./I.html#Infocom>`__. The FORTRAN
 source was later rewritten for portability and released to Usenet under
 the name “Dungeon”. Both FORTRAN “Dungeon” and translated C versions are
 available at many FTP sites; the commercial Zork trilogy is available at
 `http://www.ifarchive.org/ <http://www.ifarchive.org/>`__. See also
-`grue <./G.html#grue.html>`__. You can play Zork via a `Java
-Applet <http://www.forkexec.com/html/play-zork1.html>`__.
+`grue <./G.html#grue>`__. You can play Zork via a `Java
+Applet <http://www.forkexec.com/html/play-zork1>`__.
 
 
 zorkmid
@@ -290,6 +290,6 @@ zorkmid
 **zorkmid**: /zork´mid/, n.
 
 The canonical unit of currency in hacker-written games. This originated
-in `Zork <Zork.html>`__ but has spread to
-`nethack <./N.html#nethack.html>`__ and is referred to in several other
+in `Zork <Zork>`__ but has spread to
+`nethack <./N.html#nethack>`__ and is referred to in several other
 games.

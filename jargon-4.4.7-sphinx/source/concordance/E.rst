@@ -4,11 +4,11 @@ E
 
 Easter egg
 
-`Prev <../E.html>`__ 
+`Prev <../E>`__ 
 
 E
 
- `Next <Easter-egging.html>`__
+ `Next <Easter-egging>`__
 
  
 
@@ -32,18 +32,18 @@ of the developers' names, political exhortations, snatches of music, and
  
 
 + -----------+  +  ------+
-| `Prev <../E.html>`__    | `Up <../E.html>`__         |  `Next <Easter-egging.html>`__   |
+| `Prev <../E>`__    | `Up <../E>`__         |  `Next <Easter-egging>`__   |
 + -----------+  +  ------+
-| E                       | `Home <../index.html>`__   |  Easter egging                   |
+| E                       | `Home <../index>`__   |  Easter egging                   |
 + -----------+  +  ------+
 
 Easter egging
 
-`Prev <Easter-egg.html>`__ 
+`Prev <Easter-egg>`__ 
 
 E
 
- `Next <eat-flaming-death.html>`__
+ `Next <eat-flaming-death>`__
 
  
 
@@ -51,33 +51,33 @@ E
 
 [IBM] The act of replacing unrelated components more or less at random
 in hopes that a malfunction will go away. Hackers consider this the
-normal operating mode of `field circus <./F.html#field-circus.html>`__
+normal operating mode of `field circus <./F.html#field-circus>`__
 techs and do not love them for it. See also the jokes under `field
-circus <./F.html#field-circus.html>`__. Compare `shotgun
-debugging <./S.html#shotgun-debugging.html>`__.
+circus <./F.html#field-circus>`__. Compare `shotgun
+debugging <./S.html#shotgun-debugging>`__.
 
  
 
 +  ---+  +  ----------+
-| `Prev <Easter-egg.html>`__    | `Up <../E.html>`__         |  `Next <eat-flaming-death.html>`__   |
+| `Prev <Easter-egg>`__    | `Up <../E>`__         |  `Next <eat-flaming-death>`__   |
 +  ---+  +  ----------+
-| Easter egg                    | `Home <../index.html>`__   |  eat flaming death                   |
+| Easter egg                    | `Home <../index>`__   |  eat flaming death                   |
 +  ---+  +  ----------+
 
 eat flaming death
 
-`Prev <Easter-egging.html>`__ 
+`Prev <Easter-egging>`__ 
 
 E
 
- `Next <EBCDIC.html>`__
+ `Next <EBCDIC>`__
 
  
 
 **eat flaming death**: imp.
 
 A construction popularized among hackers by the infamous `CPU
-Wars <./C.html#CPU-Wars.html>`__ comic; supposedly derived from a famously
+Wars <./C.html#CPU-Wars>`__ comic; supposedly derived from a famously
 turgid line in a WWII-era anti-Nazi propaganda comic that ran “Eat
 flaming death, non-Aryan mongrels!” or something of the sort (however,
 it is also reported that on the Firesign Theatre's 1975 album *In The
@@ -85,28 +85,28 @@ Next World, You're On Your Own* a character won the right to scream “Eat
 flaming death, fascist media pigs” in the middle of Oscar night on a
 game show; this may have been an influence). Used in humorously
 overblown expressions of hostility. “Eat flaming death,
-`EBCDIC <EBCDIC.html>`__ users!”
+`EBCDIC <EBCDIC>`__ users!”
 
 |image0|
 
-IPM tells us to `eat flaming death <eat-flaming-death.html>`__.
+IPM tells us to `eat flaming death <eat-flaming-death>`__.
 
  
 
 +  ------+  + -------------+
-| `Prev <Easter-egging.html>`__    | `Up <../E.html>`__         |  `Next <EBCDIC.html>`__   |
+| `Prev <Easter-egging>`__    | `Up <../E>`__         |  `Next <EBCDIC>`__   |
 +  ------+  + -------------+
-| Easter egging                    | `Home <../index.html>`__   |  EBCDIC                   |
+| Easter egging                    | `Home <../index>`__   |  EBCDIC                   |
 +  ------+  + -------------+
 
 .. |image0| image:: ../_static/eat-flaming-death.png
 EBCDIC
 
-`Prev <eat-flaming-death.html>`__ 
+`Prev <eat-flaming-death>`__ 
 
 E
 
- `Next <ECP.html>`__
+ `Next <ECP>`__
 
  
 
@@ -114,91 +114,91 @@ E
 
 [abbreviation, Extended Binary Coded Decimal Interchange Code] An
 alleged character set used on IBM
-`dinosaur <./D.html#dinosaur.html>`__\ s. It exists in at least six
+`dinosaur <./D.html#dinosaur>`__\ s. It exists in at least six
 mutually incompatible versions, all featuring such delights as
 non-contiguous letter sequences and the absence of several ASCII
 punctuation characters fairly important for modern computer languages
 (exactly which characters are absent varies according to which version
 of EBCDIC you're looking at). IBM adapted EBCDIC from `punched
-card <./P.html#punched-card.html>`__ code in the early 1960s and
+card <./P.html#punched-card>`__ code in the early 1960s and
 promulgated it as a customer-control tactic (see `connector
-conspiracy <./C.html#connector-conspiracy.html>`__), spurning the already
+conspiracy <./C.html#connector-conspiracy>`__), spurning the already
 established ASCII standard. Today, IBM claims to be an open-systems
 company, but IBM's own description of the EBCDIC variants and how to
 convert between them is still internally classified top-secret,
 burn-before-reading. Hackers blanch at the very *name* of EBCDIC and
-consider it a manifestation of purest `evil <evil.html>`__. See also
-`fear and loathing <./F.html#fear-and-loathing.html>`__.
+consider it a manifestation of purest `evil <evil>`__. See also
+`fear and loathing <./F.html#fear-and-loathing>`__.
 
  
 
 +  ----------+  + ----------+
-| `Prev <eat-flaming-death.html>`__    | `Up <../E.html>`__         |  `Next <ECP.html>`__   |
+| `Prev <eat-flaming-death>`__    | `Up <../E>`__         |  `Next <ECP>`__   |
 +  ----------+  + ----------+
-| eat flaming death                    | `Home <../index.html>`__   |  ECP                   |
+| eat flaming death                    | `Home <../index>`__   |  ECP                   |
 +  ----------+  + ----------+
 
 ECP
 
-`Prev <EBCDIC.html>`__ 
+`Prev <EBCDIC>`__ 
 
 E
 
- `Next <ed.html>`__
+ `Next <ed>`__
 
  
 
 **ECP**: /E·C·P/, n.
 
-See `spam <./S.html#spam.html>`__ and `velveeta <./V.html#velveeta.html>`__.
+See `spam <./S.html#spam>`__ and `velveeta <./V.html#velveeta>`__.
 
  
 
 + -------------+  + ---------+
-| `Prev <EBCDIC.html>`__    | `Up <../E.html>`__         |  `Next <ed.html>`__   |
+| `Prev <EBCDIC>`__    | `Up <../E>`__         |  `Next <ed>`__   |
 + -------------+  + ---------+
-| EBCDIC                    | `Home <../index.html>`__   |  ed                   |
+| EBCDIC                    | `Home <../index>`__   |  ed                   |
 + -------------+  + ---------+
 
 ed
 
-`Prev <ECP.html>`__ 
+`Prev <ECP>`__ 
 
 E
 
- `Next <egg.html>`__
+ `Next <egg>`__
 
  
 
 **ed**: n.
 
 “ed is the standard text editor.” Line taken from the original
-`Unix <./U.html#Unix.html>`__ manual page on ed, an ancient line-oriented
+`Unix <./U.html#Unix>`__ manual page on ed, an ancient line-oriented
 editor that is by now used only by a few `Real
-Programmer <./R.html#Real-Programmer.html>`__\ s, and even then only for
+Programmer <./R.html#Real-Programmer>`__\ s, and even then only for
 batch operations. The original line is sometimes uttered near the
 beginning of an emacs vs. vi holy war on
-`Usenet <./U.html#Usenet.html>`__, with the (vain) hope to quench the
+`Usenet <./U.html#Usenet>`__, with the (vain) hope to quench the
 discussion before it really takes off. Often followed by a standard text
 describing the many virtues of ed (such as the small memory
-`footprint <./F.html#footprint.html>`__ on a Timex Sinclair, and the
+`footprint <./F.html#footprint>`__ on a Timex Sinclair, and the
 consistent (because nearly non-existent) user interface).
 
  
 
 + ----------+  + ----------+
-| `Prev <ECP.html>`__    | `Up <../E.html>`__         |  `Next <egg.html>`__   |
+| `Prev <ECP>`__    | `Up <../E>`__         |  `Next <egg>`__   |
 + ----------+  + ----------+
-| ECP                    | `Home <../index.html>`__   |  egg                   |
+| ECP                    | `Home <../index>`__   |  egg                   |
 + ----------+  + ----------+
 
 egg
 
-`Prev <ed.html>`__ 
+`Prev <ed>`__ 
 
 E
 
- `Next <egosurf.html>`__
+ `Next <egosurf>`__
 
  
 
@@ -217,18 +217,18 @@ the code.
  
 
 + ---------+  +  +
-| `Prev <ed.html>`__    | `Up <../E.html>`__         |  `Next <egosurf.html>`__   |
+| `Prev <ed>`__    | `Up <../E>`__         |  `Next <egosurf>`__   |
 + ---------+  +  +
-| ed                    | `Home <../index.html>`__   |  egosurf                   |
+| ed                    | `Home <../index>`__   |  egosurf                   |
 + ---------+  +  +
 
 egosurf
 
-`Prev <egg.html>`__ 
+`Prev <egg>`__ 
 
 E
 
- `Next <eighty-column-mind.html>`__
+ `Next <eighty-column-mind>`__
 
  
 
@@ -241,25 +241,25 @@ name in a fanzine.
  
 
 + ----------+  +  -----------+
-| `Prev <egg.html>`__    | `Up <../E.html>`__         |  `Next <eighty-column-mind.html>`__   |
+| `Prev <egg>`__    | `Up <../E>`__         |  `Next <eighty-column-mind>`__   |
 + ----------+  +  -----------+
-| egg                    | `Home <../index.html>`__   |  eighty-column mind                   |
+| egg                    | `Home <../index>`__   |  eighty-column mind                   |
 + ----------+  +  -----------+
 
 eighty-column mind
 
-`Prev <egosurf.html>`__ 
+`Prev <egosurf>`__ 
 
 E
 
- `Next <El-Camino-Bignum.html>`__
+ `Next <El-Camino-Bignum>`__
 
  
 
 **eighty-column mind**: n.
 
 [IBM] The sort said to be possessed by persons for whom the transition
-from `punched card <./P.html#punched-card.html>`__ to tape was traumatic
+from `punched card <./P.html#punched-card>`__ to tape was traumatic
 (nobody has dared tell them about disks yet). It is said that these
 people, including (according to an old joke) the founder of IBM, will be
 buried ‘face down, 9-edge first’ (the 9-edge being the bottom of the
@@ -276,28 +276,28 @@ climactic lines of which are as follows:
 The eighty-column mind was thought by most hackers to dominate IBM's
 customer base and its thinking. This only began to change in the
 mid-1990s when IBM began to reinvent itself after the triumph of the
-`killer micro <./K.html#killer-micro.html>`__. See
-`IBM <./I.html#IBM.html>`__, `fear and
-loathing <./F.html#fear-and-loathing.html>`__, `code
-grinder <./C.html#code-grinder.html>`__. A copy of *The Last Bug* lives on
+`killer micro <./K.html#killer-micro>`__. See
+`IBM <./I.html#IBM>`__, `fear and
+loathing <./F.html#fear-and-loathing>`__, `code
+grinder <./C.html#code-grinder>`__. A copy of *The Last Bug* lives on
 the the GNU site at
-`http://www.gnu.org/fun/jokes/last.bug.html <http://www.gnu.org/fun/jokes/last.bug.html>`__.
+`http://www.gnu.org/fun/jokes/last.bug.html <http://www.gnu.org/fun/jokes/last.bug>`__.
 
  
 
 +  +  +  ---------+
-| `Prev <egosurf.html>`__    | `Up <../E.html>`__         |  `Next <El-Camino-Bignum.html>`__   |
+| `Prev <egosurf>`__    | `Up <../E>`__         |  `Next <El-Camino-Bignum>`__   |
 +  +  +  ---------+
-| egosurf                    | `Home <../index.html>`__   |  El Camino Bignum                   |
+| egosurf                    | `Home <../index>`__   |  El Camino Bignum                   |
 +  +  +  ---------+
 
 El Camino Bignum
 
-`Prev <eighty-column-mind.html>`__ 
+`Prev <eighty-column-mind>`__ 
 
 E
 
- `Next <elder-days.html>`__
+ `Next <elder-days>`__
 
  
 
@@ -307,7 +307,7 @@ The road mundanely called El Camino Real, running along San Francisco
 peninsula. It originally extended all the way down to Mexico City; many
 portions of the old road are still intact. Navigation on the San
 Francisco peninsula is usually done relative to El Camino Real, which
-defines `logical <./L.html#logical.html>`__ north and south even though it
+defines `logical <./L.html#logical>`__ north and south even though it
 isn't really north-south in many places. El Camino Real runs right past
 Stanford University and so is familiar to hackers.
 
@@ -322,7 +322,7 @@ When a hacker from MIT visited Stanford in 1976, he remarked what a long
 road El Camino Real was. Making a pun on ‘real’, he started calling it
 ‘El Camino Double Precision’ — but when the hacker was told that the
 road was hundreds of miles long, he renamed it ‘El Camino Bignum’, and
-that name has stuck. (See `bignum <./B.html#bignum.html>`__.)
+that name has stuck. (See `bignum <./B.html#bignum>`__.)
 
 [GLS has since let slip that the unnamed hacker in this story was in
 fact himself —ESR]
@@ -338,45 +338,45 @@ located near Moffett Field — where they keep all those complex planes.
  
 
 +  -----------+  +  ---+
-| `Prev <eighty-column-mind.html>`__    | `Up <../E.html>`__         |  `Next <elder-days.html>`__   |
+| `Prev <eighty-column-mind>`__    | `Up <../E>`__         |  `Next <elder-days>`__   |
 +  -----------+  +  ---+
-| eighty-column mind                    | `Home <../index.html>`__   |  elder days                   |
+| eighty-column mind                    | `Home <../index>`__   |  elder days                   |
 +  -----------+  +  ---+
 
 elder days
 
-`Prev <El-Camino-Bignum.html>`__ 
+`Prev <El-Camino-Bignum>`__ 
 
 E
 
- `Next <elegant.html>`__
+ `Next <elegant>`__
 
  
 
 **elder days**: n.
 
 The heroic age of hackerdom (roughly, pre-1980); the era of the
-`PDP-10 <./P.html#PDP-10.html>`__, `TECO <./T.html#TECO.html>`__,
-`ITS <./I.html#ITS.html>`__, and the ARPANET. This term has been rather
+`PDP-10 <./P.html#PDP-10>`__, `TECO <./T.html#TECO>`__,
+`ITS <./I.html#ITS>`__, and the ARPANET. This term has been rather
 consciously adopted from J. R. R. Tolkien's fantasy epic *The Lord of
-the Rings*. Compare `Iron Age <./I.html#Iron-Age.html>`__; see also
-`elvish <elvish.html>`__ and `Great Worm <./G.html#Great-Worm.html>`__.
+the Rings*. Compare `Iron Age <./I.html#Iron-Age>`__; see also
+`elvish <elvish>`__ and `Great Worm <./G.html#Great-Worm>`__.
 
  
 
 +  ---------+  +  +
-| `Prev <El-Camino-Bignum.html>`__    | `Up <../E.html>`__         |  `Next <elegant.html>`__   |
+| `Prev <El-Camino-Bignum>`__    | `Up <../E>`__         |  `Next <elegant>`__   |
 +  ---------+  +  +
-| El Camino Bignum                    | `Home <../index.html>`__   |  elegant                   |
+| El Camino Bignum                    | `Home <../index>`__   |  elegant                   |
 +  ---------+  +  +
 
 elegant
 
-`Prev <elder-days.html>`__ 
+`Prev <elder-days>`__ 
 
 E
 
- `Next <elephantine.html>`__
+ `Next <elephantine>`__
 
  
 
@@ -384,7 +384,7 @@ E
 
 [common; from mathematical usage] Combining simplicity, power, and a
 certain ineffable grace of design. Higher praise than ‘clever’,
-‘winning’, or even `cuspy <./C.html#cuspy.html>`__.
+‘winning’, or even `cuspy <./C.html#cuspy>`__.
 
 The French aviator, adventurer, and author Antoine de Saint-Exupéry,
 probably best known for his classic children's book *The Little Prince*,
@@ -396,82 +396,82 @@ nothing left to take away.”
  
 
 +  ---+  +  ----+
-| `Prev <elder-days.html>`__    | `Up <../E.html>`__         |  `Next <elephantine.html>`__   |
+| `Prev <elder-days>`__    | `Up <../E>`__         |  `Next <elephantine>`__   |
 +  ---+  +  ----+
-| elder days                    | `Home <../index.html>`__   |  elephantine                   |
+| elder days                    | `Home <../index>`__   |  elephantine                   |
 +  ---+  +  ----+
 
 elephantine
 
-`Prev <elegant.html>`__ 
+`Prev <elegant>`__ 
 
 E
 
- `Next <elevator-controller.html>`__
+ `Next <elevator-controller>`__
 
  
 
 **elephantine**: adj.
 
 Used of programs or systems that are both conspicuous
-`hog <./H.html#hog.html>`__\ s (owing perhaps to poor design founded on
-`brute force and ignorance <./B.html#brute-force-and-ignorance.html>`__)
-and exceedingly `hairy <./H.html#hairy.html>`__ in source form. An
+`hog <./H.html#hog>`__\ s (owing perhaps to poor design founded on
+`brute force and ignorance <./B.html#brute-force-and-ignorance>`__)
+and exceedingly `hairy <./H.html#hairy>`__ in source form. An
 elephantine program may be functional and even friendly, but (as in the
 old joke about being in bed with an elephant) it's tough to have around
 all the same (and, like a pachyderm, difficult to maintain). In extreme
 cases, hackers have been known to make trumpeting sounds or perform
 expressive proboscatory mime at the mention of the offending program.
 Usage: semi-humorous. Compare ‘has the elephant nature’ and the somewhat
-more pejorative `monstrosity <./M.html#monstrosity.html>`__. See also
-`second-system effect <./S.html#second-system-effect.html>`__ and
-`baroque <./B.html#baroque.html>`__.
+more pejorative `monstrosity <./M.html#monstrosity>`__. See also
+`second-system effect <./S.html#second-system-effect>`__ and
+`baroque <./B.html#baroque>`__.
 
  
 
 +  +  +  ------------+
-| `Prev <elegant.html>`__    | `Up <../E.html>`__         |  `Next <elevator-controller.html>`__   |
+| `Prev <elegant>`__    | `Up <../E>`__         |  `Next <elevator-controller>`__   |
 +  +  +  ------------+
-| elegant                    | `Home <../index.html>`__   |  elevator controller                   |
+| elegant                    | `Home <../index>`__   |  elevator controller                   |
 +  +  +  ------------+
 
 elevator controller
 
-`Prev <elephantine.html>`__ 
+`Prev <elephantine>`__ 
 
 E
 
- `Next <elite.html>`__
+ `Next <elite>`__
 
  
 
 **elevator controller**: n.
 
 An archetypal dumb embedded-systems application, like
-`toaster <./T.html#toaster.html>`__ (which superseded it). During one
+`toaster <./T.html#toaster>`__ (which superseded it). During one
 period (1983--84) in the deliberations of ANSI X3J11 (the C
 standardization committee) this was the canonical example of a really
 stupid, memory-limited computation environment. “You can't require
 printf(3) to be part of the default runtime library — what if you're
 targeting an elevator controller?” Elevator controllers became important
 rhetorical weapons on both sides of several `holy
-wars <./H.html#holy-wars.html>`__.
+wars <./H.html#holy-wars>`__.
 
  
 
 +  ----+  + ------------+
-| `Prev <elephantine.html>`__    | `Up <../E.html>`__         |  `Next <elite.html>`__   |
+| `Prev <elephantine>`__    | `Up <../E>`__         |  `Next <elite>`__   |
 +  ----+  + ------------+
-| elephantine                    | `Home <../index.html>`__   |  elite                   |
+| elephantine                    | `Home <../index>`__   |  elite                   |
 +  ----+  + ------------+
 
 elite
 
-`Prev <elevator-controller.html>`__ 
+`Prev <elevator-controller>`__ 
 
 E
 
- `Next <ELIZA-effect.html>`__
+ `Next <ELIZA-effect>`__
 
  
 
@@ -480,7 +480,7 @@ E
 Clueful. Plugged-in. One of the cognoscenti. Also used as a general
 positive adjective. This term is not actually native hacker slang; it is
 used primarily by crackers and `warez
-d00dz <./W.html#warez-d00dz.html>`__, for which reason hackers use it only
+d00dz <./W.html#warez-d00dz>`__, for which reason hackers use it only
 with heavy irony. The term used to refer to the folks allowed in to the
 “hidden” or “privileged” sections of BBSes in the early 1980s (which,
 typically, contained pirated software). Frequently, early boards would
@@ -491,23 +491,23 @@ d00dz style abound; the forms l337 eleet, and 31337 (among others) have
 been sighted.
 
 A true hacker would be more likely to use ‘wizardly’. Oppose
-`lamer <./L.html#lamer.html>`__.
+`lamer <./L.html#lamer>`__.
 
  
 
 +  ------------+  +  -----+
-| `Prev <elevator-controller.html>`__    | `Up <../E.html>`__         |  `Next <ELIZA-effect.html>`__   |
+| `Prev <elevator-controller>`__    | `Up <../E>`__         |  `Next <ELIZA-effect>`__   |
 +  ------------+  +  -----+
-| elevator controller                    | `Home <../index.html>`__   |  ELIZA effect                   |
+| elevator controller                    | `Home <../index>`__   |  ELIZA effect                   |
 +  ------------+  +  -----+
 
 ELIZA effect
 
-`Prev <elite.html>`__ 
+`Prev <elite>`__ 
 
 E
 
- `Next <elvish.html>`__
+ `Next <elvish>`__
 
  
 
@@ -527,29 +527,29 @@ canned phrases. It was so convincing, however, that there are many
 anecdotes about people becoming very emotionally caught up in dealing
 with ELIZA. All this was due to people's tendency to attach to words
 meanings which the computer never put there. The ELIZA effect is a
-`Good Thing <./G.html#Good-Thing.html>`__ when writing a programming
+`Good Thing <./G.html#Good-Thing>`__ when writing a programming
 language, but it can blind you to serious shortcomings when analyzing an
 Artificial Intelligence system. Compare
-`ad-hockery <./A.html#ad-hockery.html>`__; see also
-`AI-complete <./A.html#AI-complete.html>`__. Sources for a clone of the
+`ad-hockery <./A.html#ad-hockery>`__; see also
+`AI-complete <./A.html#AI-complete>`__. Sources for a clone of the
 original Eliza are available at
 `ftp://ftp.cc.utexas.edu/pub/AI\_ATTIC/Programs/Classic/Eliza/Eliza.c <ftp://ftp.cc.utexas.edu/pub/AI-ATTIC/Programs/Classic/Eliza/Eliza.c>`__.
 
  
 
 + ------------+  + -------------+
-| `Prev <elite.html>`__    | `Up <../E.html>`__         |  `Next <elvish.html>`__   |
+| `Prev <elite>`__    | `Up <../E>`__         |  `Next <elvish>`__   |
 + ------------+  + -------------+
-| elite                    | `Home <../index.html>`__   |  elvish                   |
+| elite                    | `Home <../index>`__   |  elvish                   |
 + ------------+  + -------------+
 
 elvish
 
-`Prev <ELIZA-effect.html>`__ 
+`Prev <ELIZA-effect>`__ 
 
 E
 
- `Next <EMACS.html>`__
+ `Next <EMACS>`__
 
  
 
@@ -559,11 +559,11 @@ E
 beautiful Celtic half-uncial hand of the *Book of Kells*. Invented and
 described by J. R. R. Tolkien in *The Lord of The Rings* as an
 orthography for his fictional ‘elvish’ languages, this system (which is
-both visually and phonetically `elegant <elegant.html>`__) has long
+both visually and phonetically `elegant <elegant>`__) has long
 fascinated hackers (who tend to be intrigued by artificial languages in
 general). It is traditional for graphics printers, plotters, window
 systems, and the like to support a Feanorian typeface as one of their
-demo items. See also `elder days <elder-days.html>`__.
+demo items. See also `elder days <elder-days>`__.
 
 2. By extension, any odd or unreadable typeface produced by a graphics
 device.
@@ -573,18 +573,18 @@ device.
  
 
 +  -----+  + ------------+
-| `Prev <ELIZA-effect.html>`__    | `Up <../E.html>`__         |  `Next <EMACS.html>`__   |
+| `Prev <ELIZA-effect>`__    | `Up <../E>`__         |  `Next <EMACS>`__   |
 +  -----+  + ------------+
-| ELIZA effect                    | `Home <../index.html>`__   |  EMACS                   |
+| ELIZA effect                    | `Home <../index>`__   |  EMACS                   |
 +  -----+  + ------------+
 
 EMACS
 
-`Prev <elvish.html>`__ 
+`Prev <elvish>`__ 
 
 E
 
- `Next <email.html>`__
+ `Next <email>`__
 
  
 
@@ -592,49 +592,49 @@ E
 
 [from Editing MACroS] The ne plus ultra of hacker editors, a
 programmable text editor with an entire LISP system inside it. It was
-originally written by Richard Stallman in `TECO <./T.html#TECO.html>`__
-under `ITS <./I.html#ITS.html>`__ at the MIT AI lab; AI Memo 554 described
+originally written by Richard Stallman in `TECO <./T.html#TECO>`__
+under `ITS <./I.html#ITS>`__ at the MIT AI lab; AI Memo 554 described
 it as “an advanced, self-documenting, customizable, extensible real-time
 display editor”. It has since been reimplemented any number of times, by
 various hackers, and versions exist that run under most major operating
 systems. Perhaps the most widely used version, also written by Stallman
-and now called “\ `GNU <./G.html#GNU.html>`__ EMACS” or
-`GNUMACS <./G.html#GNUMACS.html>`__, runs principally under Unix. (Its
+and now called “\ `GNU <./G.html#GNU>`__ EMACS” or
+`GNUMACS <./G.html#GNUMACS>`__, runs principally under Unix. (Its
 close relative XEmacs is the second most popular version.) It includes
 facilities to run compilation subprocesses and send and receive mail or
 news; many hackers spend up to 80% of their `tube
-time <./T.html#tube-time.html>`__ inside it. Other variants include
-`GOSMACS <./G.html#GOSMACS.html>`__, CCA EMACS, UniPress EMACS, Montgomery
+time <./T.html#tube-time>`__ inside it. Other variants include
+`GOSMACS <./G.html#GOSMACS>`__, CCA EMACS, UniPress EMACS, Montgomery
 EMACS, jove, epsilon, and MicroEMACS. (Though we use the original
 all-caps spelling here, it is nowadays very commonly ‘Emacs’.) Some
 EMACS versions running under window managers iconify as an overflowing
 kitchen sink, perhaps to suggest the one feature the editor does not
 (yet) include. Indeed, some hackers find EMACS too
-`heavyweight <./H.html#heavyweight.html>`__ and
-`baroque <./B.html#baroque.html>`__ for their taste, and expand the name
+`heavyweight <./H.html#heavyweight>`__ and
+`baroque <./B.html#baroque>`__ for their taste, and expand the name
 as ‘Escape Meta Alt Control Shift’ to spoof its heavy reliance on
-keystrokes decorated with `bucky bits <./B.html#bucky-bits.html>`__. Other
+keystrokes decorated with `bucky bits <./B.html#bucky-bits>`__. Other
 spoof expansions include ‘Eight Megabytes And Constantly Swapping’ (from
-when that was a lot of `core <./C.html#core.html>`__), ‘Eventually
+when that was a lot of `core <./C.html#core>`__), ‘Eventually
 malloc()s All Computer Storage’, and ‘EMACS Makes A Computer Slow’ (see
-`recursive acronym <./R.html#recursive-acronym.html>`__). See also
-`vi <./V.html#vi.html>`__.
+`recursive acronym <./R.html#recursive-acronym>`__). See also
+`vi <./V.html#vi>`__.
 
  
 
 + -------------+  + ------------+
-| `Prev <elvish.html>`__    | `Up <../E.html>`__         |  `Next <email.html>`__   |
+| `Prev <elvish>`__    | `Up <../E>`__         |  `Next <email>`__   |
 + -------------+  + ------------+
-| elvish                    | `Home <../index.html>`__   |  email                   |
+| elvish                    | `Home <../index>`__   |  email                   |
 + -------------+  + ------------+
 
 email
 
-`Prev <EMACS.html>`__ 
+`Prev <EMACS>`__ 
 
 E
 
- `Next <emoticon.html>`__
+ `Next <emoticon>`__
 
  
 
@@ -644,10 +644,10 @@ E
 
 1. n. Electronic mail automatically passed through computer networks
 and/or via modems over common-carrier lines. Contrast
-`snail-mail <./S.html#snail-mail.html>`__,
-`paper-net <./P.html#paper-net.html>`__,
-`voice-net <./V.html#voice-net.html>`__. See `network
-address <./N.html#network-address.html>`__.
+`snail-mail <./S.html#snail-mail>`__,
+`paper-net <./P.html#paper-net>`__,
+`voice-net <./V.html#voice-net>`__. See `network
+address <./N.html#network-address>`__.
 
 2. vt. To send electronic mail.
 
@@ -668,18 +668,18 @@ second, and ‘E-mail’ and ‘Email’ are a distant third and fourth.
  
 
 + ------------+  +  -+
-| `Prev <EMACS.html>`__    | `Up <../E.html>`__         |  `Next <emoticon.html>`__   |
+| `Prev <EMACS>`__    | `Up <../E>`__         |  `Next <emoticon>`__   |
 + ------------+  +  -+
-| EMACS                    | `Home <../index.html>`__   |  emoticon                   |
+| EMACS                    | `Home <../index>`__   |  emoticon                   |
 + ------------+  +  -+
 
 emoticon
 
-`Prev <email.html>`__ 
+`Prev <email>`__ 
 
 E
 
- `Next <EMP.html>`__
+ `Next <EMP>`__
 
  
 
@@ -692,8 +692,8 @@ circumstances in high-volume text-only communication forums such as
 Usenet; the lack of verbal and visual cues can otherwise cause what were
 intended to be humorous, sarcastic, ironic, or otherwise
 non-100%-serious comments to be badly misinterpreted (not always even by
-`newbie <./N.html#newbie.html>`__\ s), resulting in arguments and `flame
-war <./F.html#flame-war.html>`__\ s.
+`newbie <./N.html#newbie>`__\ s), resulting in arguments and `flame
+war <./F.html#flame-war>`__\ s.
 
 Hundreds of emoticons have been proposed, but only a few are in common
 use. These include:
@@ -703,7 +703,7 @@ use. These include:
 +-------+        -------+
 | :-(   | ‘frowney face’ (for sadness, anger, or upset)                                                                         |
 +-------+        -------+
-| ;-)   | ‘half-smiley’ ( `ha ha only serious <./H.html#ha-ha-only-serious.html>`__); also known as semi-smiley or winkey face.   |
+| ;-)   | ‘half-smiley’ ( `ha ha only serious <./H.html#ha-ha-only-serious>`__); also known as semi-smiley or winkey face.   |
 +-------+        -------+
 | :-/   | ‘wry face’                                                                                                            |
 +-------+        -------+
@@ -711,9 +711,9 @@ use. These include:
 (These may become more comprehensible if you tilt your head sideways, to
 the left.) The first two listed are by far the most frequently
 encountered. Hyphenless forms of them are common on CompuServe, GEnie,
-and BIX; see also `bixie <./B.html#bixie.html>`__. On
-`Usenet <./U.html#Usenet.html>`__, smiley is often used as a generic term
-synonymous with `emoticon <emoticon.html>`__, as well as specifically
+and BIX; see also `bixie <./B.html#bixie>`__. On
+`Usenet <./U.html#Usenet>`__, smiley is often used as a generic term
+synonymous with `emoticon <emoticon>`__, as well as specifically
 for the happy-face emoticon.
 
 The invention of the original smiley and frowney emoticons is generally
@@ -722,55 +722,55 @@ saved the original post, or at least recorded the date for posterity,
 but I had no idea that I was starting something that would soon pollute
 all the world's communication channels.” In September 2002 the original
 post `was
-recovered <http://research.microsoft.com/~mbj/Smiley/Smiley.html>`__.
+recovered <http://research.microsoft.com/~mbj/Smiley/Smiley>`__.
 
 There is a rival claim by one Kevin McKenzie, who seems to have proposed
 the smiley on the MsgGroup mailing list, April 12 1979. It seems likely
 these two inventions were independent. Users of the PLATO educational
-system `report <%20http://www.platopeople.com/emoticons.html>`__ using
+system `report <%20http://www.platopeople.com/emoticons>`__ using
 emoticons composed from overlaid dot-matrix graphics in the 1970s.
 
-Note for the `newbie <./N.html#newbie.html>`__: Overuse of the smiley is a
+Note for the `newbie <./N.html#newbie>`__: Overuse of the smiley is a
 mark of loserhood! More than one per paragraph is a fairly sure sign
 that you've gone over the line.
 
  
 
 + ------------+  + ----------+
-| `Prev <email.html>`__    | `Up <../E.html>`__         |  `Next <EMP.html>`__   |
+| `Prev <email>`__    | `Up <../E>`__         |  `Next <EMP>`__   |
 + ------------+  + ----------+
-| email                    | `Home <../index.html>`__   |  EMP                   |
+| email                    | `Home <../index>`__   |  EMP                   |
 + ------------+  + ----------+
 
 EMP
 
-`Prev <emoticon.html>`__ 
+`Prev <emoticon>`__ 
 
 E
 
- `Next <empire.html>`__
+ `Next <empire>`__
 
  
 
 **EMP**: /E·M·P/
 
-See `spam <./S.html#spam.html>`__.
+See `spam <./S.html#spam>`__.
 
  
 
 +  -+  + -------------+
-| `Prev <emoticon.html>`__    | `Up <../E.html>`__         |  `Next <empire.html>`__   |
+| `Prev <emoticon>`__    | `Up <../E>`__         |  `Next <empire>`__   |
 +  -+  + -------------+
-| emoticon                    | `Home <../index.html>`__   |  empire                   |
+| emoticon                    | `Home <../index>`__   |  empire                   |
 +  -+  + -------------+
 
 empire
 
-`Prev <EMP.html>`__ 
+`Prev <EMP>`__ 
 
 E
 
- `Next <engine.html>`__
+ `Next <engine>`__
 
  
 
@@ -791,32 +791,32 @@ function of the rate at which updates occur and the number of co-rulers
 of your country. Empire server software is available for Unix-like
 machines, and clients for Unix and other platforms. A comprehensive
 history of the game is available at
-`http://www.empire.cx/infopages/History.html <http://www.wolfpackempire.com/infopages/History.html>`__.
+`http://www.empire.cx/infopages/History.html <http://www.wolfpackempire.com/infopages/History>`__.
 The Empire resource site is at
 `http://www.empire.cx/ <http://www.empire.cx/>`__.
 
  
 
 + ----------+  + -------------+
-| `Prev <EMP.html>`__    | `Up <../E.html>`__         |  `Next <engine.html>`__   |
+| `Prev <EMP>`__    | `Up <../E>`__         |  `Next <engine>`__   |
 + ----------+  + -------------+
-| EMP                    | `Home <../index.html>`__   |  engine                   |
+| EMP                    | `Home <../index>`__   |  engine                   |
 + ----------+  + -------------+
 
 engine
 
-`Prev <empire.html>`__ 
+`Prev <empire>`__ 
 
 E
 
- `Next <English.html>`__
+ `Next <English>`__
 
  
 
 **engine**: n.
 
 1. A piece of hardware that encapsulates some function but can't be used
-without some kind of `front end <./F.html#front-end.html>`__. Today we
+without some kind of `front end <./F.html#front-end>`__. Today we
 have, especially, print engine: the guts of a laser printer.
 
 2. An analogous piece of software; notionally, one that does a lot of
@@ -832,18 +832,18 @@ computer that he designed in 1844 the Analytical Engine.
  
 
 + -------------+  +  +
-| `Prev <empire.html>`__    | `Up <../E.html>`__         |  `Next <English.html>`__   |
+| `Prev <empire>`__    | `Up <../E>`__         |  `Next <English>`__   |
 + -------------+  +  +
-| empire                    | `Home <../index.html>`__   |  English                   |
+| empire                    | `Home <../index>`__   |  English                   |
 + -------------+  +  +
 
 English
 
-`Prev <engine.html>`__ 
+`Prev <engine>`__ 
 
 E
 
- `Next <enhancement.html>`__
+ `Next <enhancement>`__
 
  
 
@@ -855,58 +855,58 @@ compiler. The idea behind the term is that to a real hacker, a program
 written in his favorite programming language is at least as readable as
 English. Usage: mostly by old-time hackers, though recognizable in
 context. Today the preferred shorthand is simply
-`source <./S.html#source.html>`__.
+`source <./S.html#source>`__.
 
 2. The official name of the database language used by the old Pick
 Operating System, actually a sort of crufty, brain-damaged SQL with
 delusions of grandeur. The name permitted
-`marketroid <./M.html#marketroid.html>`__\ s to say “Yes, and you can
+`marketroid <./M.html#marketroid>`__\ s to say “Yes, and you can
 program our computers in English!” to ignorant
-`suit <./S.html#suit.html>`__\ s without quite running afoul of the
+`suit <./S.html#suit>`__\ s without quite running afoul of the
 truth-in-advertising laws.
 
  
 
 + -------------+  +  ----+
-| `Prev <engine.html>`__    | `Up <../E.html>`__         |  `Next <enhancement.html>`__   |
+| `Prev <engine>`__    | `Up <../E>`__         |  `Next <enhancement>`__   |
 + -------------+  +  ----+
-| engine                    | `Home <../index.html>`__   |  enhancement                   |
+| engine                    | `Home <../index>`__   |  enhancement                   |
 + -------------+  +  ----+
 
 enhancement
 
-`Prev <English.html>`__ 
+`Prev <English>`__ 
 
 E
 
- `Next <ENQ.html>`__
+ `Next <ENQ>`__
 
  
 
 **enhancement**: n.
 
-Common `marketroid <./M.html#marketroid.html>`__-speak for a bug
-`fix <./F.html#fix.html>`__. This abuse of language is a popular and
+Common `marketroid <./M.html#marketroid>`__-speak for a bug
+`fix <./F.html#fix>`__. This abuse of language is a popular and
 time-tested way to turn incompetence into increased revenue. A hacker
 being ironic would instead call the fix a
-`feature <./F.html#feature.html>`__ — or perhaps save some effort by
+`feature <./F.html#feature>`__ — or perhaps save some effort by
 declaring the bug itself to be a feature.
 
  
 
 +  +  + ----------+
-| `Prev <English.html>`__    | `Up <../E.html>`__         |  `Next <ENQ.html>`__   |
+| `Prev <English>`__    | `Up <../E>`__         |  `Next <ENQ>`__   |
 +  +  + ----------+
-| English                    | `Home <../index.html>`__   |  ENQ                   |
+| English                    | `Home <../index>`__   |  ENQ                   |
 +  +  + ----------+
 
 ENQ
 
-`Prev <enhancement.html>`__ 
+`Prev <enhancement>`__ 
 
 E
 
- `Next <EOD.html>`__
+ `Next <EOD>`__
 
  
 
@@ -914,29 +914,29 @@ E
 
 [from the ASCII mnemonic ENQuire for 0000101] An on-line convention for
 querying someone's availability. After opening a `talk
-mode <./T.html#talk-mode.html>`__ connection to someone apparently in heavy
+mode <./T.html#talk-mode>`__ connection to someone apparently in heavy
 hack mode, one might type **SYN SYN ENQ?** (the SYNs representing
 notional synchronization bytes), and expect a return of
-`ACK <./A.html#ACK.html>`__ or `NAK <./N.html#NAK.html>`__ depending on
+`ACK <./A.html#ACK>`__ or `NAK <./N.html#NAK>`__ depending on
 whether or not the person felt interruptible. Compare
-`ping <./P.html#ping.html>`__, `finger <./F.html#finger.html>`__, and the
-usage of **FOO?** listed under `talk mode <./T.html#talk-mode.html>`__.
+`ping <./P.html#ping>`__, `finger <./F.html#finger>`__, and the
+usage of **FOO?** listed under `talk mode <./T.html#talk-mode>`__.
 
  
 
 +  ----+  + ----------+
-| `Prev <enhancement.html>`__    | `Up <../E.html>`__         |  `Next <EOD.html>`__   |
+| `Prev <enhancement>`__    | `Up <../E>`__         |  `Next <EOD>`__   |
 +  ----+  + ----------+
-| enhancement                    | `Home <../index.html>`__   |  EOD                   |
+| enhancement                    | `Home <../index>`__   |  EOD                   |
 +  ----+  + ----------+
 
 EOD
 
-`Prev <ENQ.html>`__ 
+`Prev <ENQ>`__ 
 
 E
 
- `Next <EOF.html>`__
+ `Next <EOF>`__
 
  
 
@@ -949,18 +949,18 @@ arguments or attacks.
  
 
 + ----------+  + ----------+
-| `Prev <ENQ.html>`__    | `Up <../E.html>`__         |  `Next <EOF.html>`__   |
+| `Prev <ENQ>`__    | `Up <../E>`__         |  `Next <EOF>`__   |
 + ----------+  + ----------+
-| ENQ                    | `Home <../index.html>`__   |  EOF                   |
+| ENQ                    | `Home <../index>`__   |  EOF                   |
 + ----------+  + ----------+
 
 EOF
 
-`Prev <EOD.html>`__ 
+`Prev <EOD>`__ 
 
 E
 
- `Next <EOL.html>`__
+ `Next <EOL>`__
 
  
 
@@ -968,7 +968,7 @@ E
 
 [abbreviation, ‘End Of File’]
 
-1. [techspeak] The `out-of-band <./O.html#out-of-band.html>`__ value
+1. [techspeak] The `out-of-band <./O.html#out-of-band>`__ value
 returned by C's sequential character-input functions (and their
 equivalents in other environments) when end of file has been reached.
 This value is usually "-1" under C libraries postdating V6 Unix, but
@@ -982,49 +982,49 @@ an end-of-file condition.
 3. Used by extension in non-computer contexts when a human is doing
 something that can be modeled as a sequential read and can't go further.
 “Yeah, I looked for a list of 360 mnemonics to post as a joke, but I hit
-EOF pretty fast; all the library had was a `JCL <./J.html#JCL.html>`__
-manual.” See also `EOL <EOL.html>`__.
+EOF pretty fast; all the library had was a `JCL <./J.html#JCL>`__
+manual.” See also `EOL <EOL>`__.
 
  
 
 + ----------+  + ----------+
-| `Prev <EOD.html>`__    | `Up <../E.html>`__         |  `Next <EOL.html>`__   |
+| `Prev <EOD>`__    | `Up <../E>`__         |  `Next <EOL>`__   |
 + ----------+  + ----------+
-| EOD                    | `Home <../index.html>`__   |  EOL                   |
+| EOD                    | `Home <../index>`__   |  EOL                   |
 + ----------+  + ----------+
 
 EOL
 
-`Prev <EOF.html>`__ 
+`Prev <EOF>`__ 
 
 E
 
- `Next <EOU.html>`__
+ `Next <EOU>`__
 
  
 
 **EOL**: /E·O·L/, n.
 
-[End Of Line] Syn. for `newline <./N.html#newline.html>`__, derived
+[End Of Line] Syn. for `newline <./N.html#newline>`__, derived
 perhaps from the original CDC6600 Pascal. Now rare, but widely
 recognized and occasionally used for brevity. Used in the example entry
-under `BNF <./B.html#BNF.html>`__. See also `EOF <EOF.html>`__.
+under `BNF <./B.html#BNF>`__. See also `EOF <EOF>`__.
 
  
 
 + ----------+  + ----------+
-| `Prev <EOF.html>`__    | `Up <../E.html>`__         |  `Next <EOU.html>`__   |
+| `Prev <EOF>`__    | `Up <../E>`__         |  `Next <EOU>`__   |
 + ----------+  + ----------+
-| EOF                    | `Home <../index.html>`__   |  EOU                   |
+| EOF                    | `Home <../index>`__   |  EOU                   |
 + ----------+  + ----------+
 
 EOU
 
-`Prev <EOL.html>`__ 
+`Prev <EOL>`__ 
 
 E
 
- `Next <epoch.html>`__
+ `Next <epoch>`__
 
  
 
@@ -1038,23 +1038,23 @@ teletypes than computers (e.g., FS, GS, RS, US, EM, SUB, ETX, and esp.
 EOT). It is worth remembering that ASR-33s were big, noisy mechanical
 beasts with a lot of clattering parts; the notion that one might explode
 was nowhere near as ridiculous as it might seem to someone sitting in
-front of a `tube <./T.html#tube.html>`__ or flatscreen today.
+front of a `tube <./T.html#tube>`__ or flatscreen today.
 
  
 
 + ----------+  + ------------+
-| `Prev <EOL.html>`__    | `Up <../E.html>`__         |  `Next <epoch.html>`__   |
+| `Prev <EOL>`__    | `Up <../E>`__         |  `Next <epoch>`__   |
 + ----------+  + ------------+
-| EOL                    | `Home <../index.html>`__   |  epoch                   |
+| EOL                    | `Home <../index>`__   |  epoch                   |
 + ----------+  + ------------+
 
 epoch
 
-`Prev <EOU.html>`__ 
+`Prev <EOU>`__ 
 
 E
 
- `Next <epsilon.html>`__
+ `Next <epsilon>`__
 
  
 
@@ -1066,14 +1066,14 @@ Under most Unix versions the epoch is 00:00:00 GMT, January 1, 1970;
 under VMS, it's 00:00:00 of November 17, 1858 (base date of the U.S.
 Naval Observatory's ephemerides); on a Macintosh, it's the midnight
 beginning January 1 1904. System time is measured in seconds or
-`tick <./T.html#tick.html>`__\ s past the epoch. Weird problems may ensue
+`tick <./T.html#tick>`__\ s past the epoch. Weird problems may ensue
 when the clock wraps around (see `wrap
-around <./W.html#wrap-around.html>`__), which is not necessarily a rare
+around <./W.html#wrap-around>`__), which is not necessarily a rare
 event; on systems counting 10 ticks per second, a signed 32-bit count of
 ticks is good only for 6.8 years. The 1-tick-per-second clock of Unix is
 good only until January 18, 2038, assuming at least some software
 continues to consider it signed and that word lengths don't increase by
-then. See also `wall time <./W.html#wall-time.html>`__. Microsoft Windows,
+then. See also `wall time <./W.html#wall-time>`__. Microsoft Windows,
 on the other hand, has an epoch problem every 49.7 days — but this is
 seldom noticed as Windows is almost incapable of staying up continuously
 for that long.
@@ -1081,29 +1081,29 @@ for that long.
  
 
 + ----------+  +  +
-| `Prev <EOU.html>`__    | `Up <../E.html>`__         |  `Next <epsilon.html>`__   |
+| `Prev <EOU>`__    | `Up <../E>`__         |  `Next <epsilon>`__   |
 + ----------+  +  +
-| EOU                    | `Home <../index.html>`__   |  epsilon                   |
+| EOU                    | `Home <../index>`__   |  epsilon                   |
 + ----------+  +  +
 
 epsilon
 
-`Prev <epoch.html>`__ 
+`Prev <epoch>`__ 
 
 E
 
- `Next <epsilon-squared.html>`__
+ `Next <epsilon-squared>`__
 
  
 
 **epsilon**
 
-[see `delta <./D.html#delta.html>`__]
+[see `delta <./D.html#delta>`__]
 
 1. n. A small quantity of anything. “The cost is epsilon.”
 
 2. adj. Very small, negligible; less than
-`marginal <./M.html#marginal.html>`__. “We can get this feature for
+`marginal <./M.html#marginal>`__. “We can get this feature for
 epsilon cost.”
 
 3. within epsilon of: close enough to be indistinguishable for all
@@ -1115,73 +1115,73 @@ to get it there: “My program is within epsilon of working.”
  
 
 + ------------+  +  --------+
-| `Prev <epoch.html>`__    | `Up <../E.html>`__         |  `Next <epsilon-squared.html>`__   |
+| `Prev <epoch>`__    | `Up <../E>`__         |  `Next <epsilon-squared>`__   |
 + ------------+  +  --------+
-| epoch                    | `Home <../index.html>`__   |  epsilon squared                   |
+| epoch                    | `Home <../index>`__   |  epsilon squared                   |
 + ------------+  +  --------+
 
 epsilon squared
 
-`Prev <epsilon.html>`__ 
+`Prev <epsilon>`__ 
 
 E
 
- `Next <era.html>`__
+ `Next <era>`__
 
  
 
 **epsilon squared**: n.
 
-A quantity even smaller than `epsilon <epsilon.html>`__, as small in
+A quantity even smaller than `epsilon <epsilon>`__, as small in
 comparison to epsilon as epsilon is to something normal; completely
 negligible. If you buy a supercomputer for a million dollars, the cost
 of the thousand-dollar terminal to go with it is
-`epsilon <epsilon.html>`__, and the cost of the ten-dollar cable to
+`epsilon <epsilon>`__, and the cost of the ten-dollar cable to
 connect them is epsilon squared. Compare `lost in the
-underflow <./L.html#lost-in-the-underflow.html>`__, `lost in the
-noise <./L.html#lost-in-the-noise.html>`__.
+underflow <./L.html#lost-in-the-underflow>`__, `lost in the
+noise <./L.html#lost-in-the-noise>`__.
 
  
 
 +  +  + ----------+
-| `Prev <epsilon.html>`__    | `Up <../E.html>`__         |  `Next <era.html>`__   |
+| `Prev <epsilon>`__    | `Up <../E>`__         |  `Next <era>`__   |
 +  +  + ----------+
-| epsilon                    | `Home <../index.html>`__   |  era                   |
+| epsilon                    | `Home <../index>`__   |  era                   |
 +  +  + ----------+
 
 era
 
-`Prev <epsilon-squared.html>`__ 
+`Prev <epsilon-squared>`__ 
 
 E
 
- `Next <Eric-Conspiracy.html>`__
+ `Next <Eric-Conspiracy>`__
 
  
 
 **era**: n.
 
-Syn. `epoch <epoch.html>`__. Webster's Unabridged makes these words
+Syn. `epoch <epoch>`__. Webster's Unabridged makes these words
 almost synonymous, but era more often connotes a span of time rather
 than a point in time, whereas the reverse is true for
-`epoch <epoch.html>`__. The `epoch <epoch.html>`__ usage is
+`epoch <epoch>`__. The `epoch <epoch>`__ usage is
 recommended.
 
  
 
 +  --------+  +  --------+
-| `Prev <epsilon-squared.html>`__    | `Up <../E.html>`__         |  `Next <Eric-Conspiracy.html>`__   |
+| `Prev <epsilon-squared>`__    | `Up <../E>`__         |  `Next <Eric-Conspiracy>`__   |
 +  --------+  +  --------+
-| epsilon squared                    | `Home <../index.html>`__   |  Eric Conspiracy                   |
+| epsilon squared                    | `Home <../index>`__   |  Eric Conspiracy                   |
 +  --------+  +  --------+
 
 Eric Conspiracy
 
-`Prev <era.html>`__ 
+`Prev <era>`__ 
 
 E
 
- `Next <Eris.html>`__
+ `Next <Eris>`__
 
  
 
@@ -1194,7 +1194,7 @@ Python oeuvre. There do indeed seem to be considerably more mustachioed
 Erics in hackerdom than the frequency of these three traits can account
 for unless they are correlated in some arcane way. Well-known examples
 include Eric Allman (he of the ‘Allman style’ described under `indent
-style <./I.html#indent-style.html>`__) and Erik Fair (co-author of NNTP);
+style <./I.html#indent-style>`__) and Erik Fair (co-author of NNTP);
 your editor has heard from more than a hundred others by email, and the
 organization line ‘Eric Conspiracy Secret Laboratories’ now emanates
 regularly from more than one site. See the Eric Conspiracy Web Page at
@@ -1204,18 +1204,18 @@ full details.
  
 
 + ----------+  + -----------+
-| `Prev <era.html>`__    | `Up <../E.html>`__         |  `Next <Eris.html>`__   |
+| `Prev <era>`__    | `Up <../E>`__         |  `Next <Eris>`__   |
 + ----------+  + -----------+
-| era                    | `Home <../index.html>`__   |  Eris                   |
+| era                    | `Home <../index>`__   |  Eris                   |
 + ----------+  + -----------+
 
 Eris
 
-`Prev <Eric-Conspiracy.html>`__ 
+`Prev <Eric-Conspiracy>`__ 
 
 E
 
- `Next <erotics.html>`__
+ `Next <erotics>`__
 
  
 
@@ -1226,26 +1226,26 @@ Of; her name was latinized to Discordia and she was worshiped by that
 name in Rome. Not a very friendly deity in the Classical original, she
 was reinvented as a more benign personification of creative anarchy
 starting in 1959 by the adherents of
-`Discordianism <./D.html#Discordianism.html>`__ and has since been a
+`Discordianism <./D.html#Discordianism>`__ and has since been a
 semi-serious subject of veneration in several ‘fringe’ cultures,
-including hackerdom. See `Discordianism <./D.html#Discordianism.html>`__,
-`Church of the SubGenius <./C.html#Church-of-the-SubGenius.html>`__.
+including hackerdom. See `Discordianism <./D.html#Discordianism>`__,
+`Church of the SubGenius <./C.html#Church-of-the-SubGenius>`__.
 
  
 
 +  --------+  +  +
-| `Prev <Eric-Conspiracy.html>`__    | `Up <../E.html>`__         |  `Next <erotics.html>`__   |
+| `Prev <Eric-Conspiracy>`__    | `Up <../E>`__         |  `Next <erotics>`__   |
 +  --------+  +  +
-| Eric Conspiracy                    | `Home <../index.html>`__   |  erotics                   |
+| Eric Conspiracy                    | `Home <../index>`__   |  erotics                   |
 +  --------+  +  +
 
 erotics
 
-`Prev <Eris.html>`__ 
+`Prev <Eris>`__ 
 
 E
 
- `Next <error-33.html>`__
+ `Next <error-33>`__
 
  
 
@@ -1258,18 +1258,18 @@ maybe because good electronics excites them and makes them warm.
  
 
 + -----------+  +  -+
-| `Prev <Eris.html>`__    | `Up <../E.html>`__         |  `Next <error-33.html>`__   |
+| `Prev <Eris>`__    | `Up <../E>`__         |  `Next <error-33>`__   |
 + -----------+  +  -+
-| Eris                    | `Home <../index.html>`__   |  error 33                   |
+| Eris                    | `Home <../index>`__   |  error 33                   |
 + -----------+  +  -+
 
 error 33
 
-`Prev <erotics.html>`__ 
+`Prev <erotics>`__ 
 
 E
 
- `Next <eurodemo.html>`__
+ `Next <eurodemo>`__
 
  
 
@@ -1284,46 +1284,46 @@ of some other project (be it a research effort or not).
  
 
 +  +  +  -+
-| `Prev <erotics.html>`__    | `Up <../E.html>`__         |  `Next <eurodemo.html>`__   |
+| `Prev <erotics>`__    | `Up <../E>`__         |  `Next <eurodemo>`__   |
 +  +  +  -+
-| erotics                    | `Home <../index.html>`__   |  eurodemo                   |
+| erotics                    | `Home <../index>`__   |  eurodemo                   |
 +  +  +  -+
 
 eurodemo
 
-`Prev <error-33.html>`__ 
+`Prev <error-33>`__ 
 
 E
 
- `Next <evil.html>`__
+ `Next <evil>`__
 
  
 
 **eurodemo**: /yoor´o·dem\`·o/
 
-a `demo <./D.html#demo.html>`__, sense 4
+a `demo <./D.html#demo>`__, sense 4
 
  
 
 +  -+  + -----------+
-| `Prev <error-33.html>`__    | `Up <../E.html>`__         |  `Next <evil.html>`__   |
+| `Prev <error-33>`__    | `Up <../E>`__         |  `Next <evil>`__   |
 +  -+  + -----------+
-| error 33                    | `Home <../index.html>`__   |  evil                   |
+| error 33                    | `Home <../index>`__   |  evil                   |
 +  -+  + -----------+
 
 evil and rude
 
-`Prev <evil.html>`__ 
+`Prev <evil>`__ 
 
 E
 
- `Next <Evil-Empire.html>`__
+ `Next <Evil-Empire>`__
 
  
 
 **evil and rude**: adj.
 
-Both `evil <evil.html>`__ and `rude <./R.html#rude.html>`__, but with
+Both `evil <evil>`__ and `rude <./R.html#rude>`__, but with
 the additional connotation that the rudeness was due to malice rather
 than incompetence. Thus, for example: Microsoft's Windows NT is evil
 because it's a competent implementation of a bad design; it's rude
@@ -1337,47 +1337,47 @@ sense of ‘evil’.
  
 
 + -----------+  +  ----+
-| `Prev <evil.html>`__    | `Up <../E.html>`__         |  `Next <Evil-Empire.html>`__   |
+| `Prev <evil>`__    | `Up <../E>`__         |  `Next <Evil-Empire>`__   |
 + -----------+  +  ----+
-| evil                    | `Home <../index.html>`__   |  Evil Empire                   |
+| evil                    | `Home <../index>`__   |  Evil Empire                   |
 + -----------+  +  ----+
 
 Evil Empire
 
-`Prev <evil-and-rude.html>`__ 
+`Prev <evil-and-rude>`__ 
 
 E
 
- `Next <exa-.html>`__
+ `Next <exa->`__
 
  
 
 **Evil Empire**: n.
 
 [from Ronald Reagan's famous characterization of the communist Soviet
-Union] Formerly `IBM <./I.html#IBM.html>`__, now
-`Microsoft <./M.html#Microsoft.html>`__. Functionally, the company most
+Union] Formerly `IBM <./I.html#IBM>`__, now
+`Microsoft <./M.html#Microsoft>`__. Functionally, the company most
 hackers love to hate at any given time. Hackers like to see themselves
 as romantic rebels against the Evil Empire, and frequently adopt this
 role to the point of ascribing rather more power and malice to the
-Empire than it actually has. See also `Borg <./B.html#Borg.html>`__ and
+Empire than it actually has. See also `Borg <./B.html#Borg>`__ and
 search for ‘Evil Empire’ pages on the Web.
 
  
 
 +  ------+  + -----------+
-| `Prev <evil-and-rude.html>`__    | `Up <../E.html>`__         |  `Next <exa-.html>`__   |
+| `Prev <evil-and-rude>`__    | `Up <../E>`__         |  `Next <exa->`__   |
 +  ------+  + -----------+
-| evil and rude                    | `Home <../index.html>`__   |  exa-                   |
+| evil and rude                    | `Home <../index>`__   |  exa-                   |
 +  ------+  + -----------+
 
 evil
 
-`Prev <eurodemo.html>`__ 
+`Prev <eurodemo>`__ 
 
 E
 
- `Next <evil-and-rude.html>`__
+ `Next <evil-and-rude>`__
 
  
 
@@ -1386,82 +1386,82 @@ E
 As used by hackers, implies that some system, program, person, or
 institution is sufficiently maldesigned as to be not worth the bother of
 dealing with. Unlike the adjectives in the
-`cretinous <./C.html#cretinous.html>`__/`losing <./L.html#losing.html>`__/`brain-damaged <./B.html#brain-damaged.html>`__
+`cretinous <./C.html#cretinous>`__/`losing <./L.html#losing>`__/`brain-damaged <./B.html#brain-damaged>`__
 series, evil does not imply incompetence or bad design, but rather a set
 of goals or design criteria fatally incompatible with the speaker's.
 This usage is more an esthetic and engineering judgment than a moral one
 in the mainstream sense. “We thought about adding a `Blue
-Glue <./B.html#Blue-Glue.html>`__ interface but decided it was too evil to
-deal with.” “\ `TECO <./T.html#TECO.html>`__ is neat, but it can be pretty
+Glue <./B.html#Blue-Glue>`__ interface but decided it was too evil to
+deal with.” “\ `TECO <./T.html#TECO>`__ is neat, but it can be pretty
 evil if you're prone to typos.” Often pronounced with the first syllable
 lengthened, as /eeee'vil/. Compare `evil and
-rude <evil-and-rude.html>`__.
+rude <evil-and-rude>`__.
 
  
 
 +  -+  +  ------+
-| `Prev <eurodemo.html>`__    | `Up <../E.html>`__         |  `Next <evil-and-rude.html>`__   |
+| `Prev <eurodemo>`__    | `Up <../E>`__         |  `Next <evil-and-rude>`__   |
 +  -+  +  ------+
-| eurodemo                    | `Home <../index.html>`__   |  evil and rude                   |
+| eurodemo                    | `Home <../index>`__   |  evil and rude                   |
 +  -+  +  ------+
 
 exa-
 
-`Prev <Evil-Empire.html>`__ 
+`Prev <Evil-Empire>`__ 
 
 E
 
- `Next <examining-the-entrails.html>`__
+ `Next <examining-the-entrails>`__
 
  
 
 **exa-**: /ek´s@/, pref.
 
-[SI] See `quantifiers <./Q.html#quantifiers.html>`__.
+[SI] See `quantifiers <./Q.html#quantifiers>`__.
 
  
 
 +  ----+  +   -+
-| `Prev <Evil-Empire.html>`__    | `Up <../E.html>`__         |  `Next <examining-the-entrails.html>`__   |
+| `Prev <Evil-Empire>`__    | `Up <../E>`__         |  `Next <examining-the-entrails>`__   |
 +  ----+  +   -+
-| Evil Empire                    | `Home <../index.html>`__   |  examining the entrails                   |
+| Evil Empire                    | `Home <../index>`__   |  examining the entrails                   |
 +  ----+  +   -+
 
 examining the entrails
 
-`Prev <exa-.html>`__ 
+`Prev <exa->`__ 
 
 E
 
- `Next <EXCH.html>`__
+ `Next <EXCH>`__
 
  
 
 **examining the entrails**: n.
 
-The process of `grovel <./G.html#grovel.html>`__\ ling through a `core
-dump <./C.html#core-dump.html>`__ or hex image in an attempt to discover
+The process of `grovel <./G.html#grovel>`__\ ling through a `core
+dump <./C.html#core-dump>`__ or hex image in an attempt to discover
 the bug that brought a program or system down. The reference is to
 divination from the entrails of a sacrificed animal. Compare
-`runes <./R.html#runes.html>`__,
-`incantation <./I.html#incantation.html>`__, `black
-art <./B.html#black-art.html>`__.
+`runes <./R.html#runes>`__,
+`incantation <./I.html#incantation>`__, `black
+art <./B.html#black-art>`__.
 
  
 
 + -----------+  + -----------+
-| `Prev <exa-.html>`__    | `Up <../E.html>`__         |  `Next <EXCH.html>`__   |
+| `Prev <exa->`__    | `Up <../E>`__         |  `Next <EXCH>`__   |
 + -----------+  + -----------+
-| exa-                    | `Home <../index.html>`__   |  EXCH                   |
+| exa-                    | `Home <../index>`__   |  EXCH                   |
 + -----------+  + -----------+
 
 EXCH
 
-`Prev <examining-the-entrails.html>`__ 
+`Prev <examining-the-entrails>`__ 
 
 E
 
- `Next <excl.html>`__
+ `Next <excl>`__
 
  
 
@@ -1472,57 +1472,57 @@ to two people sitting down and say “Exch!”, you are asking them to trade
 places. EXCH, meaning EXCHange, was originally the name of a PDP-10
 instruction that exchanged the contents of a register and a memory
 location. Many newer hackers are probably thinking instead of the
-`PostScript <./P.html#PostScript.html>`__ exchange operator (which is
+`PostScript <./P.html#PostScript>`__ exchange operator (which is
 usually written in lowercase).
 
  
 
 +   -+  + -----------+
-| `Prev <examining-the-entrails.html>`__    | `Up <../E.html>`__         |  `Next <excl.html>`__   |
+| `Prev <examining-the-entrails>`__    | `Up <../E>`__         |  `Next <excl>`__   |
 +   -+  + -----------+
-| examining the entrails                    | `Home <../index.html>`__   |  excl                   |
+| examining the entrails                    | `Home <../index>`__   |  excl                   |
 +   -+  + -----------+
 
 excl
 
-`Prev <EXCH.html>`__ 
+`Prev <EXCH>`__ 
 
 E
 
- `Next <EXE.html>`__
+ `Next <EXE>`__
 
  
 
 **excl**: /eks´kl/, n.
 
-Abbreviation for ‘exclamation point’. See `bang <./B.html#bang.html>`__,
-`shriek <./S.html#shriek.html>`__, `ASCII <./A.html#ASCII.html>`__.
+Abbreviation for ‘exclamation point’. See `bang <./B.html#bang>`__,
+`shriek <./S.html#shriek>`__, `ASCII <./A.html#ASCII>`__.
 
  
 
 + -----------+  + ----------+
-| `Prev <EXCH.html>`__    | `Up <../E.html>`__         |  `Next <EXE.html>`__   |
+| `Prev <EXCH>`__    | `Up <../E>`__         |  `Next <EXE>`__   |
 + -----------+  + ----------+
-| EXCH                    | `Home <../index.html>`__   |  EXE                   |
+| EXCH                    | `Home <../index>`__   |  EXE                   |
 + -----------+  + ----------+
 
 exec
 
-`Prev <EXE.html>`__ 
+`Prev <EXE>`__ 
 
 E
 
- `Next <exercise--left-as-an.html>`__
+ `Next <exercise--left-as-an>`__
 
  
 
 **exec**: /eg·zek´/, /eks´ek/, n.
 
-1. [Unix: from execute] Synonym for `chain <./C.html#chain.html>`__,
+1. [Unix: from execute] Synonym for `chain <./C.html#chain>`__,
 derives from the exec(2) call.
 
 2. [from executive] obs. The command interpreter for an
-`OS <./O.html#OS.html>`__ (see `shell <./S.html#shell.html>`__); term esp.
+`OS <./O.html#OS>`__ (see `shell <./S.html#shell>`__); term esp.
 used around mainframes, and prob.: derived from UNIVAC's archaic EXEC 2
 and EXEC 8 operating systems.
 
@@ -1535,18 +1535,18 @@ used. To a hacker, an ‘exec’ is always a program, never a person.
  
 
 + ----------+  +  -------------+
-| `Prev <EXE.html>`__    | `Up <../E.html>`__         |  `Next <exercise--left-as-an.html>`__   |
+| `Prev <EXE>`__    | `Up <../E>`__         |  `Next <exercise--left-as-an>`__   |
 + ----------+  +  -------------+
-| EXE                    | `Home <../index.html>`__   |  exercise, left as an                   |
+| EXE                    | `Home <../index>`__   |  exercise, left as an                   |
 + ----------+  +  -------------+
 
 EXE
 
-`Prev <excl.html>`__ 
+`Prev <excl>`__ 
 
 E
 
- `Next <exec.html>`__
+ `Next <exec>`__
 
  
 
@@ -1560,25 +1560,25 @@ executables don't have any required suffix.
  
 
 + -----------+  + -----------+
-| `Prev <excl.html>`__    | `Up <../E.html>`__         |  `Next <exec.html>`__   |
+| `Prev <excl>`__    | `Up <../E>`__         |  `Next <exec>`__   |
 + -----------+  + -----------+
-| excl                    | `Home <../index.html>`__   |  exec                   |
+| excl                    | `Home <../index>`__   |  exec                   |
 + -----------+  + -----------+
 
 exercise, left as an
 
-`Prev <exec.html>`__ 
+`Prev <exec>`__ 
 
 E
 
- `Next <Exon.html>`__
+ `Next <Exon>`__
 
  
 
 **exercise, left as an**: adj.
 
 [from technical books] Used to complete a proof when one doesn't mind a
-`handwave <./H.html#handwave.html>`__, or to avoid one entirely. The
+`handwave <./H.html#handwave>`__, or to avoid one entirely. The
 complete phrase is: “The proof [or ‘the rest’] is left as an exercise
 for the reader.” This comment *has* occasionally been attached to
 unsolved research problems by authors possessed of either an evil sense
@@ -1587,18 +1587,18 @@ of humor or a vast faith in the capabilities of their audiences.
  
 
 + -----------+  + -----------+
-| `Prev <exec.html>`__    | `Up <../E.html>`__         |  `Next <Exon.html>`__   |
+| `Prev <exec>`__    | `Up <../E>`__         |  `Next <Exon>`__   |
 + -----------+  + -----------+
-| exec                    | `Home <../index.html>`__   |  Exon                   |
+| exec                    | `Home <../index>`__   |  Exon                   |
 + -----------+  + -----------+
 
 Exon
 
-`Prev <exercise--left-as-an.html>`__ 
+`Prev <exercise--left-as-an>`__ 
 
 E
 
- `Next <Exploder.html>`__
+ `Next <Exploder>`__
 
  
 
@@ -1607,7 +1607,7 @@ E
 A generic obscenity that quickly entered wide use on the Internet and
 Usenet after the passage of the Communications Decency Act. From the
 last name of Senator James Exon (Democrat-Nebraska), primary author of
-the `CDA <./C.html#CDA.html>`__. This usage outlasted the CDA itself,
+the `CDA <./C.html#CDA>`__. This usage outlasted the CDA itself,
 which was quashed a little over a year later by one of the most acerbic
 pro-free-speech opinions ever uttered by the Supreme Court. The campaign
 against it was led by an alliance of hackers and civil libertarians, and
@@ -1617,18 +1617,18 @@ Use of Exon's name as an expletive outlived the CDA controversy itself.
  
 
 +  -------------+  +  -+
-| `Prev <exercise--left-as-an.html>`__    | `Up <../E.html>`__         |  `Next <Exploder.html>`__   |
+| `Prev <exercise--left-as-an>`__    | `Up <../E>`__         |  `Next <Exploder>`__   |
 +  -------------+  +  -+
-| exercise, left as an                    | `Home <../index.html>`__   |  Exploder                   |
+| exercise, left as an                    | `Home <../index>`__   |  Exploder                   |
 +  -------------+  +  -+
 
 Exploder
 
-`Prev <Exon.html>`__ 
+`Prev <Exon>`__ 
 
 E
 
- `Next <exploit.html>`__
+ `Next <exploit>`__
 
  
 
@@ -1638,24 +1638,24 @@ Used within Microsoft to refer to the Windows Explorer, the
 web-interface component of Windows 95 and WinNT 4. Our spies report that
 most of the heavy guns at MS came from a Unix background and use command
 line utilities; even they are scornful of the over-gingerbreaded `WIMP
-environment <./W.html#WIMP-environment.html>`__\ s that they have been
+environment <./W.html#WIMP-environment>`__\ s that they have been
 called upon to create.
 
  
 
 + -----------+  +  +
-| `Prev <Exon.html>`__    | `Up <../E.html>`__         |  `Next <exploit.html>`__   |
+| `Prev <Exon>`__    | `Up <../E>`__         |  `Next <exploit>`__   |
 + -----------+  +  +
-| Exon                    | `Home <../index.html>`__   |  exploit                   |
+| Exon                    | `Home <../index>`__   |  exploit                   |
 + -----------+  +  +
 
 exploit
 
-`Prev <Exploder.html>`__ 
+`Prev <Exploder>`__ 
 
 E
 
- `Next <external-memory.html>`__
+ `Next <external-memory>`__
 
  
 
@@ -1665,25 +1665,25 @@ E
 
 1. A vulnerability in software that can be used for breaking security or
 otherwise attacking an Internet host over the network. The `Ping O'
-Death <./P.html#Ping-O--Death.html>`__ is a famous exploit.
+Death <./P.html#Ping-O--Death>`__ is a famous exploit.
 
 2. More grammatically, a program that exploits an exploit in sense 1.
 
  
 
 +  -+  +  --------+
-| `Prev <Exploder.html>`__    | `Up <../E.html>`__         |  `Next <external-memory.html>`__   |
+| `Prev <Exploder>`__    | `Up <../E>`__         |  `Next <external-memory>`__   |
 +  -+  +  --------+
-| Exploder                    | `Home <../index.html>`__   |  external memory                   |
+| Exploder                    | `Home <../index>`__   |  external memory                   |
 +  -+  +  --------+
 
 external memory
 
-`Prev <exploit.html>`__ 
+`Prev <exploit>`__ 
 
 E
 
- `Next <eye-candy.html>`__
+ `Next <eye-candy>`__
 
  
 
@@ -1696,18 +1696,18 @@ nonvolatile disk storage on computers.
  
 
 +  +  +  --+
-| `Prev <exploit.html>`__    | `Up <../E.html>`__         |  `Next <eye-candy.html>`__   |
+| `Prev <exploit>`__    | `Up <../E>`__         |  `Next <eye-candy>`__   |
 +  +  +  --+
-| exploit                    | `Home <../index.html>`__   |  eye candy                   |
+| exploit                    | `Home <../index>`__   |  eye candy                   |
 +  +  +  --+
 
 eyeball search
 
-`Prev <eye-candy.html>`__ 
+`Prev <eye-candy>`__ 
 
 E
 
- `Next <../F.html>`__
+ `Next <../F>`__
 
  
 
@@ -1715,35 +1715,35 @@ E
 
 To look for something in a mass of code or data with one's own native
 optical sensors, as opposed to using some sort of pattern matching
-software like `grep <./G.html#grep.html>`__ or any other automated search
-tool. Also called a `vgrep <./V.html#vgrep.html>`__; compare
-`vdiff <./V.html#vdiff.html>`__.
+software like `grep <./G.html#grep>`__ or any other automated search
+tool. Also called a `vgrep <./V.html#vgrep>`__; compare
+`vdiff <./V.html#vdiff>`__.
 
  
 
 +  --+  + -----------+
-| `Prev <eye-candy.html>`__    | `Up <../E.html>`__         |  `Next <../F.html>`__   |
+| `Prev <eye-candy>`__    | `Up <../E>`__         |  `Next <../F>`__   |
 +  --+  + -----------+
-| eye candy                    | `Home <../index.html>`__   |  F                      |
+| eye candy                    | `Home <../index>`__   |  F                      |
 +  --+  + -----------+
 
 eye candy
 
-`Prev <external-memory.html>`__ 
+`Prev <external-memory>`__ 
 
 E
 
- `Next <eyeball-search.html>`__
+ `Next <eyeball-search>`__
 
  
 
 **eye candy**: /i:´ kand\`ee/, n.
 
 [from mainstream slang “ear candy”] A display of some sort that's
-presented to `luser <./L.html#luser.html>`__\ s to keep them distracted
+presented to `luser <./L.html#luser>`__\ s to keep them distracted
 while the program performs necessary background tasks. “Give 'em some
-eye candy while the back-end `slurp <./S.html#slurp.html>`__\ s that
-`BLOB <./B.html#BLOB.html>`__ into core.” Reported as mainstream usage
+eye candy while the back-end `slurp <./S.html#slurp>`__\ s that
+`BLOB <./B.html#BLOB>`__ into core.” Reported as mainstream usage
 among players of graphics-heavy computer games. We're also told this
 term is mainstream slang for soft pornography, but that sense does not
 appear to be live among hackers.
@@ -1751,8 +1751,8 @@ appear to be live among hackers.
  
 
 +  --------+  +  -------+
-| `Prev <external-memory.html>`__    | `Up <../E.html>`__         |  `Next <eyeball-search.html>`__   |
+| `Prev <external-memory>`__    | `Up <../E>`__         |  `Next <eyeball-search>`__   |
 +  --------+  +  -------+
-| external memory                    | `Home <../index.html>`__   |  eyeball search                   |
+| external memory                    | `Home <../index>`__   |  eyeball search                   |
 +  --------+  +  -------+
 

@@ -7,10 +7,10 @@ quad
 
 **quad**: n.
 
-1. Two bits; syn. for `quarter <quarter.html>`__,
-`crumb <./C.html#crumb.html>`__, `tayste <./T.html#tayste.html>`__.
+1. Two bits; syn. for `quarter <quarter>`__,
+`crumb <./C.html#crumb>`__, `tayste <./T.html#tayste>`__.
 
-2. A four-pack of anything (compare `hex <./H.html#hex.html>`__, sense 2).
+2. A four-pack of anything (compare `hex <./H.html#hex>`__, sense 2).
 
 3. The rectangle or box glyph used in the APL language for various
 arcane purposes mostly related to I/O. Former Ivy-Leaguers and Oxford
@@ -24,11 +24,11 @@ quadruple bucky
 **quadruple bucky**: n. obs.
 
 1. On an MIT `space-cadet
-keyboard <./S.html#space-cadet-keyboard.html>`__, use of all four of the
+keyboard <./S.html#space-cadet-keyboard>`__, use of all four of the
 shifting keys (control, meta, hyper, and super) while typing a character
 key.
 
-2. On a Stanford or MIT keyboard in `raw mode <./R.html#raw-mode.html>`__,
+2. On a Stanford or MIT keyboard in `raw mode <./R.html#raw-mode>`__,
 use of four shift keys while typing a fifth character, where the four
 shift keys are the control and meta keys on *both* sides of the
 keyboard. This was very difficult to do! One accepted technique was to
@@ -42,9 +42,9 @@ character that was easier to type. If you want to imply that a program
 has ridiculously many commands or features, you can say something like:
 “Oh, the command that makes it spin the tapes while whistling
 Beethoven's Fifth Symphony is quadruple-bucky-cokebottle.” See `double
-bucky <./D.html#double-bucky.html>`__, `bucky
-bits <./B.html#bucky-bits.html>`__,
-`cokebottle <./C.html#cokebottle.html>`__.
+bucky <./D.html#double-bucky>`__, `bucky
+bits <./B.html#bucky-bits>`__,
+`cokebottle <./C.html#cokebottle>`__.
  
 
 quantifiers
@@ -80,11 +80,11 @@ Here are the SI fractional prefixes:
 |  prefix  decimal     jargon usage
 |  milli-  1000^-1     (seldom used in jargon)
 | 
-micro-  1000^-2     small or human-scale (see \ `micro- <./M.html#micro-.html>`__)
+micro-  1000^-2     small or human-scale (see \ `micro- <./M.html#micro->`__)
 | 
-nano-   1000^-3     even smaller (see \ `nano- <./N.html#nano-.html>`__)
+nano-   1000^-3     even smaller (see \ `nano- <./N.html#nano->`__)
 | 
-pico-   1000^-4     even smaller yet (see \ `pico- <./P.html#pico-.html>`__)
+pico-   1000^-4     even smaller yet (see \ `pico- <./P.html#pico->`__)
 |  femto-  1000^-5     (not used in jargon—yet)
 |  atto-   1000^-6     (not used in jargon—yet)
 |  zepto-  1000^-7     (not used in jargon—yet)
@@ -98,13 +98,13 @@ jargon use either — yet. The prefix milli-, denoting multiplication by
 "1/1000", has always been rare in jargon (there is, however, a
 standard joke about the millihelen — notionally, the amount of beauty
 required to launch one ship). See the entries on
-`micro- <./M.html#micro-.html>`__, `pico- <./P.html#pico-.html>`__, and
-`nano- <./N.html#nano-.html>`__ for more information on connotative jargon
+`micro- <./M.html#micro->`__, `pico- <./P.html#pico->`__, and
+`nano- <./N.html#nano->`__ for more information on connotative jargon
 use of these terms. ‘Femto’ and ‘atto’ (which, interestingly, derive not
 from Greek but from Danish) have not yet acquired jargon loadings,
 though it is easy to predict what those will be once computing
 technology enters the required realms of magnitude (however, see
-`attoparsec <./A.html#attoparsec.html>`__).
+`attoparsec <./A.html#attoparsec>`__).
 
 There are, of course, some standard unit prefixes for powers of 10. In
 the following table, the ‘prefix’ column is the international standard
@@ -135,10 +135,10 @@ hard or soft ‘g’ depends on what one thinks the proper pronunciation of
 
 Confusing 1000 and 1024 (or other powers of 2 and 10 close in magnitude)
 — for example, describing a memory in units of 500K or 524K instead of
-512K — is a sure sign of the `marketroid <./M.html#marketroid.html>`__.
+512K — is a sure sign of the `marketroid <./M.html#marketroid>`__.
 One example of this: it is common to refer to the capacity of 3.5"
 floppies as ‘1.44 MB’ In fact, this is a completely
-`bogus <./B.html#bogus.html>`__ number. The correct size is 1440 KB, that
+`bogus <./B.html#bogus>`__ number. The correct size is 1440 KB, that
 is, 1440 \* 1024 = 1474560 bytes. So the ‘mega’ in ‘1.44 MB’ is
 compounded of two ‘kilos’, one of which is 1024 and the other of which
 is 1000. The correct number of megabytes would of course be 1440 / 1024
@@ -169,7 +169,7 @@ quantum bogodynamics
 
 A theory that characterizes the universe in terms of bogon sources (such
 as politicians, used-car salesmen, TV evangelists, and
-`suit <./S.html#suit.html>`__\ s in general), bogon sinks (such as
+`suit <./S.html#suit>`__\ s in general), bogon sinks (such as
 taxpayers and computers), and bogosity potential fields. Bogon
 absorption, of course, causes human beings to behave mindlessly and
 machines to fail (and may also cause both to emit secondary bogons);
@@ -177,9 +177,9 @@ however, the precise mechanics of the bogon-computron interaction are
 not yet understood and remain to be elucidated. Quantum bogodynamics is
 most often invoked to explain the sharp increase in hardware and
 software failures in the presence of suits; the latter emit bogons,
-which the former absorb. See `bogon <./B.html#bogon.html>`__,
-`computron <./C.html#computron.html>`__, `suit <./S.html#suit.html>`__,
-`psyton <./P.html#psyton.html>`__.
+which the former absorb. See `bogon <./B.html#bogon>`__,
+`computron <./C.html#computron>`__, `suit <./S.html#suit>`__,
+`psyton <./P.html#psyton>`__.
 
 Here is a representative QBD theory: The bogon is a boson (integral
 spin, +1 or -1), and has zero rest mass. In this respect it is very much
@@ -190,7 +190,7 @@ inertia, and therefore a bogon beam is deflected only with great
 difficulty. When the bogon encounters its antiparticle, the cluon, they
 mutually annihilate each other, releasing magic smoke. Furthermore 1
 Lenat = 1 mole (6.022E23) of bogons (see
-`microLenat <./M.html#microLenat.html>`__).
+`microLenat <./M.html#microLenat>`__).
  
 
 quarter
@@ -202,10 +202,10 @@ Two bits. This in turn comes from the ‘pieces of eight’ famed in pirate
 movies — Spanish silver crowns that could be broken into eight
 pie-slice-shaped ‘bits’ to make change. Early in American history the
 Spanish coin was considered equal to a dollar, so each of these ‘bits’
-was considered worth 12.5 cents. Syn. `tayste <./T.html#tayste.html>`__,
-`crumb <./C.html#crumb.html>`__, `quad <quad.html>`__. Usage: rare.
+was considered worth 12.5 cents. Syn. `tayste <./T.html#tayste>`__,
+`crumb <./C.html#crumb>`__, `quad <quad>`__. Usage: rare.
 General discussion of such terms is under
-`nybble <./N.html#nybble.html>`__.
+`nybble <./N.html#nybble>`__.
 
  
 
@@ -217,7 +217,7 @@ ques
 1. n. The question mark character ("?", ASCII 0111111).
 
 2. interj. What? Also frequently verb-doubled as “Ques ques?” See
-`wall <./W.html#wall.html>`__.
+`wall <./W.html#wall>`__.
  
 
 quick-and-dirty
@@ -225,12 +225,12 @@ quick-and-dirty
 
 **quick-and-dirty**: adj.
 
-[common] Describes a `crock <./C.html#crock.html>`__ put together under
+[common] Describes a `crock <./C.html#crock>`__ put together under
 time or user pressure. Used esp. when you want to convey that you think
 the fast way might lead to trouble further down the road. “I can have a
 quick-and-dirty fix in place tonight, but I'll have to rewrite the whole
 module to solve the underlying design problem.” See also
-`kluge <./K.html#kluge.html>`__.
+`kluge <./K.html#kluge>`__.
 
  
 quine
@@ -283,7 +283,7 @@ Here is another elegant quine in ANSI C:
 +     ----+
 
 Some infamous `Obfuscated C
-Contest <./O.html#Obfuscated-C-Contest.html>`__ entries have been quines
+Contest <./O.html#Obfuscated-C-Contest>`__ entries have been quines
 that reproduced in exotic ways. There is an amusing `Quine Home
 Page <http://www.nyx.org/~gthompso/quine.htm>`__.
 
@@ -301,7 +301,7 @@ existence has not been proven, such as a spammer's brain or gonads. This
 is not used to refer to things that are definitely proven *not* to
 exist, such as a spammer's ethics. It's applicable to enough postings
 there that a poster wishing to raise the objection often need merely say
-“ObQuirk!”, an instance of the `Ob- <./O.html#Ob-.html>`__ convention.
+“ObQuirk!”, an instance of the `Ob- <./O.html#Ob->`__ convention.
  
 
 quote chapter and verse
@@ -310,12 +310,12 @@ quote chapter and verse
 **quote chapter and verse**: v.
 
 [by analogy with the mainstream phrase] To cite a relevant excerpt from
-an appropriate `bible <./B.html#bible.html>`__. “I don't care if **rn**
+an appropriate `bible <./B.html#bible>`__. “I don't care if **rn**
 gets it wrong; ‘Followup-To: poster’ is explicitly permitted by
-`RFC <./R.html#RFC.html>`__-1036. I'll quote chapter and verse if you
-don't believe me.” See also `legalese <./L.html#legalese.html>`__,
-`language lawyer <./L.html#language-lawyer.html>`__,
-`RTFS <./R.html#RTFS.html>`__ (sense 2).
+`RFC <./R.html#RFC>`__-1036. I'll quote chapter and verse if you
+don't believe me.” See also `legalese <./L.html#legalese>`__,
+`language lawyer <./L.html#language-lawyer>`__,
+`RTFS <./R.html#RTFS>`__ (sense 2).
  
 
 quotient
@@ -323,7 +323,7 @@ quotient
 
 **quotient**: n.
 
-See `coefficient of X <./C.html#coefficient-of-X.html>`__.
+See `coefficient of X <./C.html#coefficient-of-X>`__.
  
 
 quux
@@ -337,15 +337,15 @@ iri; noun form variously ‘quux’ (plural ‘quuces’, anglicized to
 out of seven in all, using up all the ‘u’ letters in Scrabble).]
 
 1. Originally, a `metasyntactic
-variable <./M.html#metasyntactic-variable.html>`__ like
-`foo <./F.html#foo.html>`__ and `foobar <./F.html#foobar.html>`__. Invented
+variable <./M.html#metasyntactic-variable>`__ like
+`foo <./F.html#foo>`__ and `foobar <./F.html#foobar>`__. Invented
 by Guy Steele for precisely this purpose when he was young and naive and
 not yet interacting with the real computing community. Many people
 invent such words; this one seems simply to have been lucky enough to
 have spread a little. In an eloquent display of poetic justice, it has
 returned to the originator in the form of a nickname.
 
-2. interj. See `foo <./F.html#foo.html>`__; however, denotes very little
+2. interj. See `foo <./F.html#foo>`__; however, denotes very little
 disgust, and is uttered mostly for the sake of the sound of it.
 
 3. Guy Steele in his persona as ‘The Great Quux’, which is somewhat
@@ -353,7 +353,7 @@ infamous for light verse and for the ‘Crunchly’ cartoons.
 
 4. In some circles, used as a punning opposite of ‘crux’. “Ah, that's
 the quux of the matter!” implies that the point is *not* crucial
-(compare `tip of the ice-cube <./T.html#tip-of-the-ice-cube.html>`__).
+(compare `tip of the ice-cube <./T.html#tip-of-the-ice-cube>`__).
 
 5. quuxy: adj. Of or pertaining to a quux.
 
@@ -363,14 +363,14 @@ qux
 **qux**: /kwuhks/
 
 The fourth of the standard `metasyntactic
-variable <./M.html#metasyntactic-variable.html>`__, after
-`baz <./B.html#baz.html>`__ and before the quu(u...)x series. See
-`foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__,
-`baz <./B.html#baz.html>`__, `quux <quux.html>`__. This appears to be a
-recent mutation from `quux <quux.html>`__, and many versions
+variable <./M.html#metasyntactic-variable>`__, after
+`baz <./B.html#baz>`__ and before the quu(u...)x series. See
+`foo <./F.html#foo>`__, `bar <./B.html#bar>`__,
+`baz <./B.html#baz>`__, `quux <quux>`__. This appears to be a
+recent mutation from `quux <quux>`__, and many versions
 (especially older versions) of the standard series just run
-`foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__,
-`baz <./B.html#baz.html>`__, `quux <quux.html>`__, ....
+`foo <./F.html#foo>`__, `bar <./B.html#bar>`__,
+`baz <./B.html#baz>`__, `quux <quux>`__, ....
 
 
 QWERTY
@@ -381,11 +381,11 @@ QWERTY
 [from the keycaps at the upper left] Pertaining to a standard
 English-language typewriter keyboard (sometimes called the Sholes
 keyboard after its inventor), as opposed to Dvorak or non-US-ASCII
-layouts or a `space-cadet keyboard <./S.html#space-cadet-keyboard.html>`__
+layouts or a `space-cadet keyboard <./S.html#space-cadet-keyboard>`__
 or APL keyboard.
 
 Historical note: The QWERTY layout is a fine example of a
-`fossil <./F.html#fossil.html>`__. It is sometimes said that it was
+`fossil <./F.html#fossil>`__. It is sometimes said that it was
 designed to slow down the typist, but this is wrong; it was designed to
 allow *faster* typing — under a constraint now long obsolete. In early
 typewriters, fast typing using nearby type-bars jammed the mechanism. So
@@ -393,11 +393,11 @@ Sholes fiddled the layout to separate the letters of many common
 digraphs (he did a far from perfect job, though; ‘th’, ‘tr’, ‘ed’, and
 ‘er’, for example, each use two nearby keys). Also, putting the letters
 of ‘typewriter’ on one line allowed it to be typed with particular speed
-and accuracy for `demo <./D.html#demo.html>`__\ s. The jamming problem was
+and accuracy for `demo <./D.html#demo>`__\ s. The jamming problem was
 essentially solved soon afterward by a suitable use of springs, but the
 keyboard layout lives on.
 
 The QWERTY keyboard has also spawned some unhelpful economic myths about
 how technical standards get and stay established; see
-`http://www.reasonmag.com/9606/Fe.QWERTY.html <http://reason.com/9606/Fe.QWERTY.html>`__.
+`http://www.reasonmag.com/9606/Fe.QWERTY.html <http://reason.com/9606/Fe.QWERTY>`__.
  
