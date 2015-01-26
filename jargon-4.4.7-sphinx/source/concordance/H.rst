@@ -1834,7 +1834,7 @@ compare `hosed <hosed.html>`__. See also `hang <hang.html>`__. A
 hun
  `Next <hack-mode.html>`__
 
---------------g state is distinguished from `crash <./C.html#crash.html>`__\ ed or
+ g state is distinguished from `crash <./C.html#crash.html>`__\ ed or
 `down <./D.html#down.html>`__, where the program or system is also
 unusable but because it is not running rather than because it is waiting
 for something. However, the recovery from both situations is often the

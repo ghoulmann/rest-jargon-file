@@ -3,14 +3,9 @@ N
 ===
 
 nadger
+======
 
-`Prev <N.html>`__ 
-
-N
-
- `Next <nagware.html>`__
-
---------------
+ 
 
 **nadger**: /nad´jr/, v.
 
@@ -24,23 +19,11 @@ the saved instruction pointer so that the processor doesn't try to
 execute the text as instructions when the subroutine returns. See
 `adger <./A.html#adger.html>`__.
 
---------------
-
-+----------------------+----------------------------+----------------------------+
-| `Prev <N.html>`__    | `Up <../N.html>`__         |  `Next <nagware.html>`__   |
-+----------------------+----------------------------+----------------------------+
-| N                    | `Home <../index.html>`__   |  nagware                   |
-+----------------------+----------------------------+----------------------------+
+ 
 
 nagware
-
-`Prev <nadger.html>`__ 
-
-N
-
- `Next <nailed-to-the-wall.html>`__
-
---------------
+===========
+ 
 
 **nagware**: /nag´weir/, n.
 
@@ -51,69 +34,36 @@ you can't use the software in batch mode. Compare
 `annoyware <./A.html#annoyware.html>`__,
 `crippleware <./C.html#crippleware.html>`__.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------------+
-| `Prev <nadger.html>`__    | `Up <../N.html>`__         |  `Next <nailed-to-the-wall.html>`__   |
-+---------------------------+----------------------------+---------------------------------------+
-| nadger                    | `Home <../index.html>`__   |  nailed to the wall                   |
-+---------------------------+----------------------------+---------------------------------------+
+ 
 
 nailed to the wall
-
-`Prev <nagware.html>`__ 
-
-N
-
- `Next <nailing-jelly.html>`__
-
---------------
+=========================
+ 
 
 **nailed to the wall**: adj.
 
 [like a trophy] Said of a bug finally eliminated after protracted, and
 even heroic, effort.
 
---------------
+ 
 
-+----------------------------+----------------------------+----------------------------------+
-| `Prev <nagware.html>`__    | `Up <../N.html>`__         |  `Next <nailing-jelly.html>`__   |
-+----------------------------+----------------------------+----------------------------------+
-| nagware                    | `Home <../index.html>`__   |  nailing jelly                   |
-+----------------------------+----------------------------+----------------------------------+
 
 nailing jelly
+====================
 
-`Prev <nailed-to-the-wall.html>`__ 
-
-N
-
- `Next <naive.html>`__
-
---------------
+ 
 
 **nailing jelly**: vi.
 
 See `like nailing jelly to a
 tree <./L.html#like-nailing-jelly-to-a-tree.html>`__.
 
---------------
-
-+---------------------------------------+----------------------------+--------------------------+
-| `Prev <nailed-to-the-wall.html>`__    | `Up <../N.html>`__         |  `Next <naive.html>`__   |
-+---------------------------------------+----------------------------+--------------------------+
-| nailed to the wall                    | `Home <../index.html>`__   |  naive                   |
-+---------------------------------------+----------------------------+--------------------------+
+ 
 
 naive
+===========
 
-`Prev <nailing-jelly.html>`__ 
-
-N
-
- `Next <naive-user.html>`__
-
---------------
+ 
 
 **naive**: adj.
 
@@ -135,23 +85,10 @@ performance. “I know the linear search is naive, but in this case the
 list typically only has half a dozen items.” Compare `brute
 force <./B.html#brute-force.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------------+
-| `Prev <nailing-jelly.html>`__    | `Up <../N.html>`__         |  `Next <naive-user.html>`__   |
-+----------------------------------+----------------------------+-------------------------------+
-| nailing jelly                    | `Home <../index.html>`__   |  naive user                   |
-+----------------------------------+----------------------------+-------------------------------+
+ 
 
 naive user
-
-`Prev <naive.html>`__ 
-
-N
-
- `Next <NAK.html>`__
-
---------------
+===============
 
 **naive user**: n.
 
@@ -159,23 +96,11 @@ A `luser <./L.html#luser.html>`__. Tends to imply someone who is ignorant
 mainly owing to inexperience. When this is applied to someone who *has*
 experience, there is a definite implication of stupidity.
 
---------------
-
-+--------------------------+----------------------------+------------------------+
-| `Prev <naive.html>`__    | `Up <../N.html>`__         |  `Next <NAK.html>`__   |
-+--------------------------+----------------------------+------------------------+
-| naive                    | `Home <../index.html>`__   |  NAK                   |
-+--------------------------+----------------------------+------------------------+
+ 
 
 NAK
-
-`Prev <naive-user.html>`__ 
-
-N
-
- `Next <NANA.html>`__
-
---------------
+=======
+ 
 
 **NAK**: /nak/, interj.
 
@@ -194,23 +119,12 @@ I thought I heard you say COBOL!”
 
 4. A negative answer. “OK if I boot the server?” “NAK!”
 
---------------
-
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <naive-user.html>`__    | `Up <../N.html>`__         |  `Next <NANA.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| naive user                    | `Home <../index.html>`__   |  NANA                   |
-+-------------------------------+----------------------------+-------------------------+
+ 
 
 NANA
+========
 
-`Prev <NAK.html>`__ 
-
-N
-
- `Next <nano.html>`__
-
---------------
+ 
 
 **NANA**: //
 
@@ -227,23 +141,12 @@ accepted the label and the tag line “There is No Cabal” reappeared
 (later, and now commonly, abbreviated to “TINC”). Nowadays “the Cabal”
 is generally understood to refer to the NANA regulars.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <NAK.html>`__    | `Up <../N.html>`__         |  `Next <nano.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| NAK                    | `Home <../index.html>`__   |  nano                   |
-+------------------------+----------------------------+-------------------------+
+ 
 
 nanoacre
+===============
 
-`Prev <nano-.html>`__ 
-
-N
-
- `Next <nanobot.html>`__
-
---------------
+ 
 
 **nanoacre**: /nan´oh·ay\`kr/, n.
 
@@ -252,23 +155,12 @@ its giggle value from the fact that VLSI nanoacres have costs in the
 same range as real acres once one figures in design and
 fabrication-setup costs.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <nano-.html>`__    | `Up <../N.html>`__         |  `Next <nanobot.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| nano-                    | `Home <../index.html>`__   |  nanobot                   |
-+--------------------------+----------------------------+----------------------------+
+ 
 
 nanobot
+=========
 
-`Prev <nanoacre.html>`__ 
-
-N
-
- `Next <nanocomputer.html>`__
-
---------------
+ 
 
 **nanobot**: /nan´oh·bot/, n.
 
@@ -276,23 +168,12 @@ A robot of microscopic proportions, presumably built by means of
 `nanotechnology <nanotechnology.html>`__. As yet, only used informally
 (and speculatively!). Also called a nanoagent.
 
---------------
+ 
 
-+-----------------------------+----------------------------+---------------------------------+
-| `Prev <nanoacre.html>`__    | `Up <../N.html>`__         |  `Next <nanocomputer.html>`__   |
-+-----------------------------+----------------------------+---------------------------------+
-| nanoacre                    | `Home <../index.html>`__   |  nanocomputer                   |
-+-----------------------------+----------------------------+---------------------------------+
 
 nanocomputer
-
-`Prev <nanobot.html>`__ 
-
-N
-
- `Next <nanofortnight.html>`__
-
---------------
+==============
+ 
 
 **nanocomputer**: /nan´oh·k@m·pyoo´tr/, n.
 
@@ -301,23 +182,11 @@ mechanical nanocomputers which use single-molecule sliding rods for
 their logic have been proposed. The controller for a
 `nanobot <nanobot.html>`__ would be a nanocomputer.
 
---------------
-
-+----------------------------+----------------------------+----------------------------------+
-| `Prev <nanobot.html>`__    | `Up <../N.html>`__         |  `Next <nanofortnight.html>`__   |
-+----------------------------+----------------------------+----------------------------------+
-| nanobot                    | `Home <../index.html>`__   |  nanofortnight                   |
-+----------------------------+----------------------------+----------------------------------+
 
 nanofortnight
+====================
 
-`Prev <nanocomputer.html>`__ 
-
-N
-
- `Next <nanotechnology.html>`__
-
---------------
+ 
 
 **nanofortnight**: n.
 
@@ -327,23 +196,12 @@ unit was used largely by students doing undergraduate practicals. See
 `attoparsec <./A.html#attoparsec.html>`__, and
 `micro- <./M.html#micro-.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+-----------------------------------+
-| `Prev <nanocomputer.html>`__    | `Up <../N.html>`__         |  `Next <nanotechnology.html>`__   |
-+---------------------------------+----------------------------+-----------------------------------+
-| nanocomputer                    | `Home <../index.html>`__   |  nanotechnology                   |
-+---------------------------------+----------------------------+-----------------------------------+
+ 
 
 nano-
+===========
 
-`Prev <nano.html>`__ 
-
-N
-
- `Next <nanoacre.html>`__
-
---------------
+ 
 
 **nano-**: pref.
 
@@ -359,23 +217,12 @@ Labs has also pointed out that “Pi seconds is a nanocentury”. See also
 `nanobot <nanobot.html>`__, `nanocomputer <nanocomputer.html>`__,
 `nanofortnight <nanofortnight.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <nano.html>`__    | `Up <../N.html>`__         |  `Next <nanoacre.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| nano                    | `Home <../index.html>`__   |  nanoacre                   |
-+-------------------------+----------------------------+-----------------------------+
+ 
 
 nano
+=========
 
-`Prev <NANA.html>`__ 
-
-N
-
- `Next <nano-.html>`__
-
---------------
+ 
 
 **nano**: /nan´oh/, n.
 
@@ -384,23 +231,11 @@ means you really will be free shortly, i.e., implies what mainstream
 people mean by “in a jiffy” (whereas the hackish use of ‘jiffy’ is quite
 different — see `jiffy <./J.html#jiffy.html>`__).
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <NANA.html>`__    | `Up <../N.html>`__         |  `Next <nano-.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| NANA                    | `Home <../index.html>`__   |  nano-                   |
-+-------------------------+----------------------------+--------------------------+
+ 
 
 nanotechnology
-
-`Prev <nanofortnight.html>`__ 
-
-N
-
- `Next <narg.html>`__
-
---------------
+====================
+ 
 
 **nanotechnology**: /nan'·oh·tek·no\`l@·jee/, n.
 
@@ -419,46 +254,24 @@ permitting an exponential growth of productivity and personal wealth
 See also `blue goo <./B.html#blue-goo.html>`__, `gray
 goo <./G.html#gray-goo.html>`__, `nanobot <nanobot.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------+
-| `Prev <nanofortnight.html>`__    | `Up <../N.html>`__         |  `Next <narg.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
-| nanofortnight                    | `Home <../index.html>`__   |  narg                   |
-+----------------------------------+----------------------------+-------------------------+
+ 
 
 narg
-
-`Prev <nanotechnology.html>`__ 
-
-N
-
- `Next <nasal-demons.html>`__
-
---------------
+=====
+ 
 
 **narg**
 
 [Cambridge] Short for “Not A Real Gentleman”, i.e. one who excessively
 talks shop out of hours.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+---------------------------------+
-| `Prev <nanotechnology.html>`__    | `Up <../N.html>`__         |  `Next <nasal-demons.html>`__   |
-+-----------------------------------+----------------------------+---------------------------------+
-| nanotechnology                    | `Home <../index.html>`__   |  nasal demons                   |
-+-----------------------------------+----------------------------+---------------------------------+
 
 nasal demons
+==================
 
-`Prev <narg.html>`__ 
-
-N
-
- `Next <nastygram.html>`__
-
---------------
+ 
 
 **nasal demons**: n.
 
@@ -473,23 +286,12 @@ up with a reference to “nasal demons”, which quickly became established.
 The original post is web-accessible at
 `http://groups.google.com/groups?hl=en&selm=10195%40ksr.com <http://groups.google.com/groups?hl=en&selm=10195%40ksr.com>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <narg.html>`__    | `Up <../N.html>`__         |  `Next <nastygram.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| narg                    | `Home <../index.html>`__   |  nastygram                   |
-+-------------------------+----------------------------+------------------------------+
+ 
 
 nastygram
+===============
 
-`Prev <nasal-demons.html>`__ 
-
-N
-
- `Next <Nathan-Hale.html>`__
-
---------------
+ 
 
 **nastygram**: /nas´tee·gram/, n.
 
@@ -511,23 +313,11 @@ Compare `shitogram <./S.html#shitogram.html>`__,
 `daemon <./D.html#daemon.html>`__; in particular, a `bounce
 message <./B.html#bounce-message.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <nasal-demons.html>`__    | `Up <../N.html>`__         |  `Next <Nathan-Hale.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| nasal demons                    | `Home <../index.html>`__   |  Nathan Hale                   |
-+---------------------------------+----------------------------+--------------------------------+
+ 
 
 Nathan Hale
-
-`Prev <nastygram.html>`__ 
-
-N
-
- `Next <nature.html>`__
-
---------------
+====================
+ 
 
 **Nathan Hale**: n.
 
@@ -538,45 +328,23 @@ misquote of the famous remark uttered by Nathan Hale just before he was
 hanged. Hale was a (failed) spy for the rebels in the American War of
 Independence.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <nastygram.html>`__    | `Up <../N.html>`__         |  `Next <nature.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| nastygram                    | `Home <../index.html>`__   |  nature                   |
-+------------------------------+----------------------------+---------------------------+
+ 
 
 nature
-
-`Prev <Nathan-Hale.html>`__ 
-
-N
-
- `Next <neat-hack.html>`__
-
---------------
+=============
+ 
 
 **nature**: n.
 
 See `has the X nature <./H.html#has-the-X-nature.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <Nathan-Hale.html>`__    | `Up <../N.html>`__         |  `Next <neat-hack.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| Nathan Hale                    | `Home <../index.html>`__   |  neat hack                   |
-+--------------------------------+----------------------------+------------------------------+
 
 neat hack
+==============
 
-`Prev <nature.html>`__ 
-
-N
-
- `Next <neats-vs--scruffies.html>`__
-
---------------
+ 
 
 **neat hack**: n.
 
@@ -589,23 +357,11 @@ cleverness, harmlessness, and surprise value. Example: the Caltech Rose
 Bowl card display switch (see `Appendix A <../appendixa.html>`__ for
 discussion). See also `hack <./H.html#hack.html>`__.
 
---------------
-
-+---------------------------+----------------------------+----------------------------------------+
-| `Prev <nature.html>`__    | `Up <../N.html>`__         |  `Next <neats-vs--scruffies.html>`__   |
-+---------------------------+----------------------------+----------------------------------------+
-| nature                    | `Home <../index.html>`__   |  neats vs. scruffies                   |
-+---------------------------+----------------------------+----------------------------------------+
 
 neats vs. scruffies
+======================
 
-`Prev <neat-hack.html>`__ 
-
-N
-
- `Next <neep-neep.html>`__
-
---------------
+ 
 
 **neats vs. scruffies**: n.
 
@@ -623,23 +379,12 @@ and not productive of insights about how intelligence actually works; to
 a scruffy, neat methods appear to be hung up on formalism and irrelevant
 to the hard-to-capture ‘common sense’ of living intelligences.
 
---------------
-
-+------------------------------+----------------------------+------------------------------+
-| `Prev <neat-hack.html>`__    | `Up <../N.html>`__         |  `Next <neep-neep.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| neat hack                    | `Home <../index.html>`__   |  neep-neep                   |
-+------------------------------+----------------------------+------------------------------+
+ 
 
 neep-neep
+==============
 
-`Prev <neats-vs--scruffies.html>`__ 
-
-N
-
- `Next <neophilia.html>`__
-
---------------
+ 
 
 **neep-neep**: /neep neep/, n.
 
@@ -652,23 +397,11 @@ that tend to develop in the corners at most SF-convention parties (the
 term neepery is also in wide use). Fandom has a related proverb to the
 effect that “Hacking is a conversational black hole!”.
 
---------------
-
-+----------------------------------------+----------------------------+------------------------------+
-| `Prev <neats-vs--scruffies.html>`__    | `Up <../N.html>`__         |  `Next <neophilia.html>`__   |
-+----------------------------------------+----------------------------+------------------------------+
-| neats vs. scruffies                    | `Home <../index.html>`__   |  neophilia                   |
-+----------------------------------------+----------------------------+------------------------------+
+ 
 
 neophilia
-
-`Prev <neep-neep.html>`__ 
-
-N
-
- `Next <nerd.html>`__
-
---------------
+=============
+ 
 
 **neophilia**: /nee\`oh·fil'·ee·@/, n.
 
@@ -682,23 +415,10 @@ share characteristic hacker tropisms for science fiction,
 `music <./M.html#music.html>`__, and `oriental
 food <./O.html#oriental-food.html>`__. The opposite tendency is neophobia.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <neep-neep.html>`__    | `Up <../N.html>`__         |  `Next <nerd.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| neep-neep                    | `Home <../index.html>`__   |  nerd                   |
-+------------------------------+----------------------------+-------------------------+
+ 
 
 nerd
-
-`Prev <neophilia.html>`__ 
-
-N
-
- `Next <nerd-knob.html>`__
-
---------------
+============
 
 **nerd**: n.
 
@@ -726,23 +446,11 @@ some actually wear “Nerd Pride” buttons, only half as a joke. At MIT one
 can find not only buttons but (what else?) pocket protectors bearing the
 slogan and the MIT seal.
 
---------------
-
-+------------------------------+----------------------------+------------------------------+
-| `Prev <neophilia.html>`__    | `Up <../N.html>`__         |  `Next <nerd-knob.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| neophilia                    | `Home <../index.html>`__   |  nerd knob                   |
-+------------------------------+----------------------------+------------------------------+
+ 
 
 nerd knob
-
-`Prev <nerd.html>`__ 
-
-N
-
- `Next <net--.html>`__
-
---------------
+==============
+ 
 
 **nerd knob**: n.
 
@@ -753,23 +461,11 @@ Nerd knobs tend to be toggles, turning on or off a particular, specific,
 narrowly defined behavior. Special case of
 `knobs <./K.html#knobs.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <nerd.html>`__    | `Up <../N.html>`__         |  `Next <net--.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| nerd                    | `Home <../index.html>`__   |  net.-                   |
-+-------------------------+----------------------------+--------------------------+
+ 
 
 netburp
-
-`Prev <net-police.html>`__ 
-
-N
-
- `Next <netdead.html>`__
-
---------------
+=========
+ 
 
 **netburp**: n.
 
@@ -781,23 +477,12 @@ the same time and then signing back on again when things get better. An
 instance of this is called a netburp (or, sometimes,
 `netsplit <netsplit.html>`__).
 
---------------
 
-+-------------------------------+----------------------------+----------------------------+
-| `Prev <net-police.html>`__    | `Up <../N.html>`__         |  `Next <netdead.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
-| net.police                    | `Home <../index.html>`__   |  netdead                   |
-+-------------------------------+----------------------------+----------------------------+
 
 netdead
+=============
 
-`Prev <netburp.html>`__ 
-
-N
-
- `Next <nethack.html>`__
-
---------------
+ 
 
 **netdead**: n.
 
@@ -806,23 +491,12 @@ perhaps during a `netburp <netburp.html>`__, and doesn't sign back on
 until later. In the interim, he is “dead to the net”. Compare
 `link-dead <./L.html#link-dead.html>`__.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <netburp.html>`__    | `Up <../N.html>`__         |  `Next <nethack.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| netburp                    | `Home <../index.html>`__   |  nethack                   |
-+----------------------------+----------------------------+----------------------------+
+ 
 
 net.god
+============
 
-`Prev <net--.html>`__ 
-
-N
-
- `Next <net-personality.html>`__
-
---------------
+ 
 
 **net.god**: /net god/, n.
 
@@ -834,23 +508,11 @@ Chuq, and Greg personally. See `demigod <./D.html#demigod.html>`__.
 Net.goddesses such as Rissa or the Slime Sisters have (so far) been
 distinguished more by personality than by authority.
 
---------------
-
-+--------------------------+----------------------------+------------------------------------+
-| `Prev <net--.html>`__    | `Up <../N.html>`__         |  `Next <net-personality.html>`__   |
-+--------------------------+----------------------------+------------------------------------+
-| net.-                    | `Home <../index.html>`__   |  net.personality                   |
-+--------------------------+----------------------------+------------------------------------+
+ 
 
 nethack
-
-`Prev <netdead.html>`__ 
-
-N
-
- `Next <netiquette.html>`__
-
---------------
+=============
+ 
 
 **nethack**: /net´hak/, n.
 
@@ -866,23 +528,12 @@ organized by Mike Stephenson. There is now an official site at
 `moria <./M.html#moria.html>`__, `rogue <./R.html#rogue.html>`__,
 `Angband <./A.html#Angband.html>`__.
 
---------------
-
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <netdead.html>`__    | `Up <../N.html>`__         |  `Next <netiquette.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| netdead                    | `Home <../index.html>`__   |  netiquette                   |
-+----------------------------+----------------------------+-------------------------------+
+ 
 
 net.-
+=============
 
-`Prev <nerd-knob.html>`__ 
-
-N
-
- `Next <net-god.html>`__
-
---------------
+ 
 
 **net.-**: /net dot/, pref.
 
@@ -896,23 +547,13 @@ net.person, net.parties (a synonym for `boink <./B.html#boink.html>`__,
 sense 2), and many similar constructs. See also
 `net.police <net-police.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------+
-| `Prev <nerd-knob.html>`__    | `Up <../N.html>`__         |  `Next <net-god.html>`__   |
-+------------------------------+----------------------------+----------------------------+
-| nerd knob                    | `Home <../index.html>`__   |  net.god                   |
-+------------------------------+----------------------------+----------------------------+
 
 netiquette
+============
 
-`Prev <nethack.html>`__ 
-
-N
-
- `Next <netlag.html>`__
-
---------------
+ 
 
 **netiquette**: /net´ee·ket/, /net´i·ket/, n.
 
@@ -922,23 +563,13 @@ The conventions of politeness recognized on
 inappropriate groups and refraining from commercial pluggery outside the
 "biz" groups.
 
---------------
+ 
 
-+----------------------------+----------------------------+---------------------------+
-| `Prev <nethack.html>`__    | `Up <../N.html>`__         |  `Next <netlag.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| nethack                    | `Home <../index.html>`__   |  netlag                   |
-+----------------------------+----------------------------+---------------------------+
 
 netlag
+===========
 
-`Prev <netiquette.html>`__ 
-
-N
-
- `Next <netnews.html>`__
-
---------------
+ 
 
 **netlag**: n.
 
@@ -950,23 +581,12 @@ of up to a minute. (Note that this term has nothing to do with
 mainstream “jet lag”, a condition which hackers tend not to be much
 bothered by.) Often shortened to just ‘lag’.
 
---------------
+ 
 
-+-------------------------------+----------------------------+----------------------------+
-| `Prev <netiquette.html>`__    | `Up <../N.html>`__         |  `Next <netnews.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
-| netiquette                    | `Home <../index.html>`__   |  netnews                   |
-+-------------------------------+----------------------------+----------------------------+
 
 netnews
-
-`Prev <netlag.html>`__ 
-
-N
-
- `Next <Netscrape.html>`__
-
---------------
+============
+ 
 
 **netnews**: /net´n[y]ooz/, n.
 
@@ -975,23 +595,11 @@ N
 2. The content of Usenet. “I read netnews right after my mail most
 mornings.”
 
---------------
-
-+---------------------------+----------------------------+------------------------------+
-| `Prev <netlag.html>`__    | `Up <../N.html>`__         |  `Next <Netscrape.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| netlag                    | `Home <../index.html>`__   |  Netscrape                   |
-+---------------------------+----------------------------+------------------------------+
+ 
 
 net.personality
-
-`Prev <net-god.html>`__ 
-
-N
-
- `Next <net-police.html>`__
-
---------------
+===================
+ 
 
 **net.personality**: /net per\`sn·al'·@·tee/, n.
 
@@ -1000,23 +608,11 @@ Someone who has made a name for him or herself on
 attention-getting posts, but doesn't meet the other requirements of
 `net.god <net-god.html>`__\ hood.
 
---------------
-
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <net-god.html>`__    | `Up <../N.html>`__         |  `Next <net-police.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| net.god                    | `Home <../index.html>`__   |  net.police                   |
-+----------------------------+----------------------------+-------------------------------+
+ 
 
 net.police
-
-`Prev <net-personality.html>`__ 
-
-N
-
- `Next <netburp.html>`__
-
---------------
+==================
+ 
 
 **net.police**: /net·p@·lees'/, n.
 
@@ -1027,23 +623,11 @@ understanding of `netiquette <netiquette.html>`__. Generally used
 sarcastically or pejoratively. Also spelled ‘net police’. See also
 `net.- <net--.html>`__, `code police <./C.html#code-police.html>`__.
 
---------------
 
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <net-personality.html>`__    | `Up <../N.html>`__         |  `Next <netburp.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| net.personality                    | `Home <../index.html>`__   |  netburp                   |
-+------------------------------------+----------------------------+----------------------------+
 
 Netscrape
-
-`Prev <netnews.html>`__ 
-
-N
-
- `Next <netsplit.html>`__
-
---------------
+===============
+ 
 
 **Netscrape**: n.
 
@@ -1052,45 +636,22 @@ name-of-insult for Netscape Navigator/Communicator, Netscape's
 overweight Web browser. Compare `Internet
 Exploiter <./I.html#Internet-Exploiter.html>`__.
 
---------------
+ 
 
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <netnews.html>`__    | `Up <../N.html>`__         |  `Next <netsplit.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| netnews                    | `Home <../index.html>`__   |  netsplit                   |
-+----------------------------+----------------------------+-----------------------------+
 
 netsplit
-
-`Prev <Netscrape.html>`__ 
-
-N
-
- `Next <netter.html>`__
-
---------------
+============
+ 
 
 **netsplit**: n.
 
 Syn. `netburp <netburp.html>`__.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <Netscrape.html>`__    | `Up <../N.html>`__         |  `Next <netter.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| Netscrape                    | `Home <../index.html>`__   |  netter                   |
-+------------------------------+----------------------------+---------------------------+
+ 
 
 netter
-
-`Prev <netsplit.html>`__ 
-
-N
-
- `Next <network-address.html>`__
-
---------------
+============
+ 
 
 **netter**: n.
 
@@ -1100,23 +661,11 @@ N
 often found in the plural. “If you post *that* in a technical group,
 you're going to be flamed by angry netters for the rest of time!”
 
---------------
 
-+-----------------------------+----------------------------+------------------------------------+
-| `Prev <netsplit.html>`__    | `Up <../N.html>`__         |  `Next <network-address.html>`__   |
-+-----------------------------+----------------------------+------------------------------------+
-| netsplit                    | `Home <../index.html>`__   |  network address                   |
-+-----------------------------+----------------------------+------------------------------------+
 
 network address
-
-`Prev <netter.html>`__ 
-
-N
-
- `Next <network-meltdown.html>`__
-
---------------
+=======================
+ 
 
 **network address**: n.
 
@@ -1133,23 +682,10 @@ fans. In the day of pervasive Internet this is less true, but you can
 still be fairly sure that anyone with a network address handwritten on
 his or her convention badge is a hacker.
 
---------------
-
-+---------------------------+----------------------------+-------------------------------------+
-| `Prev <netter.html>`__    | `Up <../N.html>`__         |  `Next <network-meltdown.html>`__   |
-+---------------------------+----------------------------+-------------------------------------+
-| netter                    | `Home <../index.html>`__   |  network meltdown                   |
-+---------------------------+----------------------------+-------------------------------------+
-
+ 
 network meltdown
-
-`Prev <network-address.html>`__ 
-
-N
-
- `Next <New-Jersey.html>`__
-
---------------
+=======================
+ 
 
 **network meltdown**: n.
 
@@ -1169,23 +705,11 @@ This causes problems with weapons like the chain gun which fire rapidly
 — it can blast the network into a meltdown state just as easily as it
 shreds opposing monsters.
 
---------------
-
-+------------------------------------+----------------------------+-------------------------------+
-| `Prev <network-address.html>`__    | `Up <../N.html>`__         |  `Next <New-Jersey.html>`__   |
-+------------------------------------+----------------------------+-------------------------------+
-| network address                    | `Home <../index.html>`__   |  New Jersey                   |
-+------------------------------------+----------------------------+-------------------------------+
+ 
 
 newbie
-
-`Prev <New-Testament.html>`__ 
-
-N
-
- `Next <newgroup-wars.html>`__
-
---------------
+============
+ 
 
 **newbie**: /n[y]oo´bee/, n.
 
@@ -1201,23 +725,12 @@ evidence of having a clue. See `B1FF <./B.html#B1FF.html>`__; see also
 `gnubie <./G.html#gnubie.html>`__. Compare
 `chainik <./C.html#chainik.html>`__, `luser <./L.html#luser.html>`__.
 
---------------
+ 
 
-+----------------------------------+----------------------------+----------------------------------+
-| `Prev <New-Testament.html>`__    | `Up <../N.html>`__         |  `Next <newgroup-wars.html>`__   |
-+----------------------------------+----------------------------+----------------------------------+
-| New Testament                    | `Home <../index.html>`__   |  newgroup wars                   |
-+----------------------------------+----------------------------+----------------------------------+
 
 newgroup wars
-
-`Prev <newbie.html>`__ 
-
-N
-
- `Next <newline.html>`__
-
---------------
+=====================
+ 
 
 **newgroup wars**: /n[y]oo´groop worz/, n.
 
@@ -1234,23 +747,12 @@ birthday joke for a Muppets fan, or any number of specialized abuse
 groups named after particularly notorious
 `flamer <./F.html#flamer.html>`__\ s, e.g., "alt.weemba".
 
---------------
-
-+---------------------------+----------------------------+----------------------------+
-| `Prev <newbie.html>`__    | `Up <../N.html>`__         |  `Next <newline.html>`__   |
-+---------------------------+----------------------------+----------------------------+
-| newbie                    | `Home <../index.html>`__   |  newline                   |
-+---------------------------+----------------------------+----------------------------+
+ 
 
 New Jersey
+===============
 
-`Prev <network-meltdown.html>`__ 
-
-N
-
- `Next <New-Testament.html>`__
-
---------------
+ 
 
 **New Jersey**: adj.
 
@@ -1262,23 +764,13 @@ compiler designed in New Jersey?” Compare `Berkeley Quality
 Software <./B.html#Berkeley-Quality-Software.html>`__. See also `Unix
 conspiracy <./U.html#Unix-conspiracy.html>`__.
 
---------------
+ 
 
-+-------------------------------------+----------------------------+----------------------------------+
-| `Prev <network-meltdown.html>`__    | `Up <../N.html>`__         |  `Next <New-Testament.html>`__   |
-+-------------------------------------+----------------------------+----------------------------------+
-| network meltdown                    | `Home <../index.html>`__   |  New Testament                   |
-+-------------------------------------+----------------------------+----------------------------------+
 
 newline
+===============
 
-`Prev <newgroup-wars.html>`__ 
-
-N
-
- `Next <NeWS.html>`__
-
---------------
+ 
 
 **newline**: /n[y]oo´li:n/, n.
 
@@ -1291,23 +783,12 @@ general computing world before Unix.
 (like Pascal's writeln procedure) required to terminate a text record or
 separate lines. See `crlf <./C.html#crlf.html>`__.
 
---------------
+ 
 
-+----------------------------------+----------------------------+-------------------------+
-| `Prev <newgroup-wars.html>`__    | `Up <../N.html>`__         |  `Next <NeWS.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
-| newgroup wars                    | `Home <../index.html>`__   |  NeWS                   |
-+----------------------------------+----------------------------+-------------------------+
 
 newsfroup
-
-`Prev <NeWS.html>`__ 
-
-N
-
- `Next <newsgroup.html>`__
-
---------------
+==================
+ 
 
 **newsfroup**: //, n.
 
@@ -1317,23 +798,12 @@ lunatic-fringe groups. Compare `hing <./H.html#hing.html>`__,
 `grilf <./G.html#grilf.html>`__, `pr0n <./P.html#pr0n.html>`__ and
 `filk <./F.html#filk.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+------------------------------+
-| `Prev <NeWS.html>`__    | `Up <../N.html>`__         |  `Next <newsgroup.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| NeWS                    | `Home <../index.html>`__   |  newsgroup                   |
-+-------------------------+----------------------------+------------------------------+
 
 newsgroup
-
-`Prev <newsfroup.html>`__ 
-
-N
-
- `Next <nick.html>`__
-
---------------
+==================
+ 
 
 **newsgroup**: n.
 
@@ -1355,23 +825,13 @@ Unix wizards), "rec.arts.sf.written" and siblings (for science-fiction
 fans), and "talk.politics.misc" (miscellaneous political discussions
 and `flamage <./F.html#flamage.html>`__).
 
---------------
+ 
 
-+------------------------------+----------------------------+-------------------------+
-| `Prev <newsfroup.html>`__    | `Up <../N.html>`__         |  `Next <nick.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| newsfroup                    | `Home <../index.html>`__   |  nick                   |
-+------------------------------+----------------------------+-------------------------+
 
 NeWS
+=========
 
-`Prev <newline.html>`__ 
-
-N
-
- `Next <newsfroup.html>`__
-
---------------
+ 
 
 **NeWS**: /nee´wis/, /n[y]oo´is/, /n[y]ooz/, n.
 
@@ -1385,23 +845,10 @@ hackers insist on the two-syllable pronunciations above as a way of
 distinguishing NeWS from Usenet news (the `netnews <netnews.html>`__
 software).
 
---------------
-
-+----------------------------+----------------------------+------------------------------+
-| `Prev <newline.html>`__    | `Up <../N.html>`__         |  `Next <newsfroup.html>`__   |
-+----------------------------+----------------------------+------------------------------+
-| newline                    | `Home <../index.html>`__   |  newsfroup                   |
-+----------------------------+----------------------------+------------------------------+
+ 
 
 New Testament
-
-`Prev <New-Jersey.html>`__ 
-
-N
-
- `Next <newbie.html>`__
-
---------------
+===============
 
 **New Testament**: n.
 
@@ -1410,23 +857,13 @@ N
 See `K&R <./K.html#K-ampersand-R.html>`__; this version is also called
 ‘K&R2’.
 
---------------
+ 
 
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <New-Jersey.html>`__    | `Up <../N.html>`__         |  `Next <newbie.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| New Jersey                    | `Home <../index.html>`__   |  newbie                   |
-+-------------------------------+----------------------------+---------------------------+
 
 N
+====
 
-`Prev <../N.html>`__ 
-
-N
-
- `Next <nadger.html>`__
-
---------------
+ 
 
 **N**: /N/, quant.
 
@@ -1453,23 +890,12 @@ student <./T.html#tenured-graduate-student.html>`__). See also `random
 numbers <./R.html#random-numbers.html>`__,
 `two-to-the-N <./T.html#two-to-the-N.html>`__.
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <../N.html>`__    | `Up <../N.html>`__         |  `Next <nadger.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| N                       | `Home <../index.html>`__   |  nadger                   |
-+-------------------------+----------------------------+---------------------------+
+ 
 
 nick
+==========
 
-`Prev <newsgroup.html>`__ 
-
-N
-
- `Next <nickle.html>`__
-
---------------
+ 
 
 **nick**: n.
 
@@ -1479,23 +905,10 @@ real name or login name, but is often more fanciful. Compare
 `handle <./H.html#handle.html>`__, `screen
 name <./S.html#screen-name.html>`__.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <newsgroup.html>`__    | `Up <../N.html>`__         |  `Next <nickle.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| newsgroup                    | `Home <../index.html>`__   |  nickle                   |
-+------------------------------+----------------------------+---------------------------+
-
+ 
 nickle
-
-`Prev <nick.html>`__ 
-
-N
-
- `Next <night-mode.html>`__
-
---------------
+===========
+ 
 
 **nickle**: /ni´kl/, n.
 
@@ -1506,23 +919,10 @@ Mattel's GI 1600 (the Intellivision games processor), a chip with
 `deckle <./D.html#deckle.html>`__, and `nybble <nybble.html>`__ for
 names of other bit units.
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <nick.html>`__    | `Up <../N.html>`__         |  `Next <night-mode.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| nick                    | `Home <../index.html>`__   |  night mode                   |
-+-------------------------+----------------------------+-------------------------------+
-
+ 
 Nightmare File System
-
-`Prev <night-mode.html>`__ 
-
-N
-
- `Next <NIL.html>`__
-
---------------
+============================
+ 
 
 **Nightmare File System**: n.
 
@@ -1547,45 +947,21 @@ this as proof of Unix's alleged bogosity; ITS had a working NFS-like
 shared file system with none of these problems in the early 1970s.) See
 also `broadcast storm <./B.html#broadcast-storm.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+------------------------+
-| `Prev <night-mode.html>`__    | `Up <../N.html>`__         |  `Next <NIL.html>`__   |
-+-------------------------------+----------------------------+------------------------+
-| night mode                    | `Home <../index.html>`__   |  NIL                   |
-+-------------------------------+----------------------------+------------------------+
+ 
 
 night mode
-
-`Prev <nickle.html>`__ 
-
-N
-
- `Next <Nightmare-File-System.html>`__
-
---------------
+=============
 
 **night mode**: n.
 
 See `phase <./P.html#phase.html>`__ (of people).
 
---------------
+ 
 
-+---------------------------+----------------------------+------------------------------------------+
-| `Prev <nickle.html>`__    | `Up <../N.html>`__         |  `Next <Nightmare-File-System.html>`__   |
-+---------------------------+----------------------------+------------------------------------------+
-| nickle                    | `Home <../index.html>`__   |  Nightmare File System                   |
-+---------------------------+----------------------------+------------------------------------------+
 
 NIL
-
-`Prev <Nightmare-File-System.html>`__ 
-
-N
-
- `Next <Ninety-Ninety-Rule.html>`__
-
---------------
+======
+ 
 
 **NIL**: /nil/
 
@@ -1597,23 +973,12 @@ advent of LISP. The historical connection between early hackerdom and
 the ham radio world was strong enough that this may have been an
 influence.
 
---------------
+ 
 
-+------------------------------------------+----------------------------+---------------------------------------+
-| `Prev <Nightmare-File-System.html>`__    | `Up <../N.html>`__         |  `Next <Ninety-Ninety-Rule.html>`__   |
-+------------------------------------------+----------------------------+---------------------------------------+
-| Nightmare File System                    | `Home <../index.html>`__   |  Ninety-Ninety Rule                   |
-+------------------------------------------+----------------------------+---------------------------------------+
 
 Ninety-Ninety Rule
-
-`Prev <NIL.html>`__ 
-
-N
-
- `Next <nipple-mouse.html>`__
-
---------------
+======================
+ 
 
 **Ninety-Ninety Rule**: n.
 
@@ -1627,23 +992,11 @@ maxims in the same vein include the law attributed to the early British
 computer scientist Douglas Hartree: “The time from now until the
 completion of the project tends to become constant.”
 
---------------
-
-+------------------------+----------------------------+---------------------------------+
-| `Prev <NIL.html>`__    | `Up <../N.html>`__         |  `Next <nipple-mouse.html>`__   |
-+------------------------+----------------------------+---------------------------------+
-| NIL                    | `Home <../index.html>`__   |  nipple mouse                   |
-+------------------------+----------------------------+---------------------------------+
-
+ 
 nipple mouse
+==================
 
-`Prev <Ninety-Ninety-Rule.html>`__ 
-
-N
-
- `Next <NMI.html>`__
-
---------------
+ 
 
 **nipple mouse**: n.
 
@@ -1654,23 +1007,11 @@ nipple intended to be tweaked by a forefinger. Many hackers consider
 these superior to the glide pads found on most laptops, which are harder
 to control precisely.
 
---------------
-
-+---------------------------------------+----------------------------+------------------------+
-| `Prev <Ninety-Ninety-Rule.html>`__    | `Up <../N.html>`__         |  `Next <NMI.html>`__   |
-+---------------------------------------+----------------------------+------------------------+
-| Ninety-Ninety Rule                    | `Home <../index.html>`__   |  NMI                   |
-+---------------------------------------+----------------------------+------------------------+
-
+ 
 NMI
+====
 
-`Prev <nipple-mouse.html>`__ 
-
-N
-
- `Next <no-op.html>`__
-
---------------
+ 
 
 **NMI**: /N·M·I/, n.
 
@@ -1682,23 +1023,10 @@ that is, on `clone <./C.html#clone.html>`__ boxes, where NMI is often
 ignored on the motherboard because flaky hardware can generate many
 spurious ones.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------+
-| `Prev <nipple-mouse.html>`__    | `Up <../N.html>`__         |  `Next <no-op.html>`__   |
-+---------------------------------+----------------------------+--------------------------+
-| nipple mouse                    | `Home <../index.html>`__   |  no-op                   |
-+---------------------------------+----------------------------+--------------------------+
 
 noddy
-
-`Prev <no-op.html>`__ 
-
-N
-
- `Next <non-optimal-solution.html>`__
-
---------------
+==========
+ 
 
 **noddy**: /nod´ee/, adj.
 
@@ -1721,23 +1049,12 @@ America this might be called a `mickey mouse
 program <./M.html#mickey-mouse-program.html>`__. See `toy
 program <./T.html#toy-program.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------------------+
-| `Prev <no-op.html>`__    | `Up <../N.html>`__         |  `Next <non-optimal-solution.html>`__   |
-+--------------------------+----------------------------+-----------------------------------------+
-| no-op                    | `Home <../index.html>`__   |  non-optimal solution                   |
-+--------------------------+----------------------------+-----------------------------------------+
+ 
 
 nonlinear
+===============
 
-`Prev <non-optimal-solution.html>`__ 
-
-N
-
- `Next <nontrivial.html>`__
-
---------------
+ 
 
 **nonlinear**: adj.
 
@@ -1756,23 +1073,13 @@ drug problem or he'll go nonlinear for hours.” In this context, go
 nonlinear connotes ‘blow up out of proportion’ (proportion connotes
 linearity).
 
---------------
+ 
 
-+-----------------------------------------+----------------------------+-------------------------------+
-| `Prev <non-optimal-solution.html>`__    | `Up <../N.html>`__         |  `Next <nontrivial.html>`__   |
-+-----------------------------------------+----------------------------+-------------------------------+
-| non-optimal solution                    | `Home <../index.html>`__   |  nontrivial                   |
-+-----------------------------------------+----------------------------+-------------------------------+
 
 non-optimal solution
+=========================
 
-`Prev <noddy.html>`__ 
-
-N
-
- `Next <nonlinear.html>`__
-
---------------
+ 
 
 **non-optimal solution**: n.
 
@@ -1782,23 +1089,11 @@ greatest when the person speaking looks completely serious. Compare
 `stunning <./S.html#stunning.html>`__. See also `Bad
 Thing <./B.html#Bad-Thing.html>`__.
 
---------------
-
-+--------------------------+----------------------------+------------------------------+
-| `Prev <noddy.html>`__    | `Up <../N.html>`__         |  `Next <nonlinear.html>`__   |
-+--------------------------+----------------------------+------------------------------+
-| noddy                    | `Home <../index.html>`__   |  nonlinear                   |
-+--------------------------+----------------------------+------------------------------+
+ 
 
 nontrivial
-
-`Prev <nonlinear.html>`__ 
-
-N
-
- `Next <not-entirely-unlike-X.html>`__
-
---------------
+==============
+ 
 
 **nontrivial**: adj.
 
@@ -1810,23 +1105,12 @@ The preferred emphatic form is decidedly nontrivial. See
 `uninteresting <./U.html#uninteresting.html>`__,
 `interesting <./I.html#interesting.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+------------------------------------------+
-| `Prev <nonlinear.html>`__    | `Up <../N.html>`__         |  `Next <not-entirely-unlike-X.html>`__   |
-+------------------------------+----------------------------+------------------------------------------+
-| nonlinear                    | `Home <../index.html>`__   |  not entirely unlike X                   |
-+------------------------------+----------------------------+------------------------------------------+
 
 no-op
-
-`Prev <NMI.html>`__ 
-
-N
-
- `Next <noddy.html>`__
-
---------------
+=========
+ 
 
 **no-op**: /noh´op/, n.,v.
 
@@ -1848,23 +1132,10 @@ coin-return box, or asking someone for help and being told to go away.
 is no-op soup; so is wonton soup if everybody else is having
 hot-and-sour.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <NMI.html>`__    | `Up <../N.html>`__         |  `Next <noddy.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| NMI                    | `Home <../index.html>`__   |  noddy                   |
-+------------------------+----------------------------+--------------------------+
 
 not entirely unlike X
-
-`Prev <nontrivial.html>`__ 
-
-N
-
- `Next <not-ready-for-prime-time.html>`__
-
---------------
+=============================
+ 
 
 **not entirely unlike X**
 
@@ -1875,23 +1146,11 @@ Comes directly from the Hitchiker's Guide to the Galaxy scene in which
 the food synthesizer on the starship *Heart of Gold* dispenses something
 “almost, but not quite, entirely unlike tea”.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------------------------+
-| `Prev <nontrivial.html>`__    | `Up <../N.html>`__         |  `Next <not-ready-for-prime-time.html>`__   |
-+-------------------------------+----------------------------+---------------------------------------------+
-| nontrivial                    | `Home <../index.html>`__   |  not ready for prime time                   |
-+-------------------------------+----------------------------+---------------------------------------------+
+ 
 
 not ready for prime time
-
-`Prev <not-entirely-unlike-X.html>`__ 
-
-N
-
- `Next <notwork.html>`__
-
---------------
+================================
+ 
 
 **not ready for prime time**: adj.
 
@@ -1903,23 +1162,13 @@ the “Not Ready for Prime Time Players”. It has extra flavor for hackers
 because of the special (though now semi-obsolescent) meaning of `prime
 time <./P.html#prime-time.html>`__. Compare `beta <./B.html#beta.html>`__.
 
---------------
+ 
 
-+------------------------------------------+----------------------------+----------------------------+
-| `Prev <not-entirely-unlike-X.html>`__    | `Up <../N.html>`__         |  `Next <notwork.html>`__   |
-+------------------------------------------+----------------------------+----------------------------+
-| not entirely unlike X                    | `Home <../index.html>`__   |  notwork                   |
-+------------------------------------------+----------------------------+----------------------------+
 
 notwork
+===============
 
-`Prev <not-ready-for-prime-time.html>`__ 
-
-N
-
- `Next <NP-.html>`__
-
---------------
+ 
 
 **notwork**: /not´werk/, n.
 
@@ -1929,23 +1178,12 @@ Said at IBM to have originally referred to a particular period of
 flakiness on IBM's VNET corporate network ca. 1988; but there are
 independent reports of the term from elsewhere.
 
---------------
+ 
 
-+---------------------------------------------+----------------------------+------------------------+
-| `Prev <not-ready-for-prime-time.html>`__    | `Up <../N.html>`__         |  `Next <NP-.html>`__   |
-+---------------------------------------------+----------------------------+------------------------+
-| not ready for prime time                    | `Home <../index.html>`__   |  NP-                   |
-+---------------------------------------------+----------------------------+------------------------+
 
 NP-
-
-`Prev <notwork.html>`__ 
-
-N
-
- `Next <NSA-line-eater.html>`__
-
---------------
+========
+ 
 
 **NP-**: /N·P/, pref.
 
@@ -1965,23 +1203,12 @@ are plenty of easy problems in class NP. NP-complete problems are hard
 not because they are in class NP, but because they are the hardest
 problems in class NP.
 
---------------
+ 
 
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <notwork.html>`__    | `Up <../N.html>`__         |  `Next <NSA-line-eater.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| notwork                    | `Home <../index.html>`__   |  NSA line eater                   |
-+----------------------------+----------------------------+-----------------------------------+
 
 NSA line eater
-
-`Prev <NP-.html>`__ 
-
-N
-
- `Next <NSP.html>`__
-
---------------
+=======================
+ 
 
 **NSA line eater**: n.
 
@@ -2013,23 +1240,12 @@ however, there are clear indications that the NSA has actually deployed
 such filtering (again, very much against U.S. law). In 2000, the FBI
 wants to get into this act with its ‘Carnivore’ surveillance system.
 
---------------
-
-+------------------------+----------------------------+------------------------+
-| `Prev <NP-.html>`__    | `Up <../N.html>`__         |  `Next <NSP.html>`__   |
-+------------------------+----------------------------+------------------------+
-| NP-                    | `Home <../index.html>`__   |  NSP                   |
-+------------------------+----------------------------+------------------------+
+ 
 
 NSP
+==========
 
-`Prev <NSA-line-eater.html>`__ 
-
-N
-
- `Next <nude.html>`__
-
---------------
+ 
 
 **NSP**: /N·S·P/, n.
 
@@ -2039,23 +1255,11 @@ backbone and resells connectivity to `ISP <./I.html#ISP.html>`__\ s. In
 1996, major NSPs include ANS, MCI, UUNET, and Sprint. An Internet
 wholesaler.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <NSA-line-eater.html>`__    | `Up <../N.html>`__         |  `Next <nude.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| NSA line eater                    | `Home <../index.html>`__   |  nude                   |
-+-----------------------------------+----------------------------+-------------------------+
+ 
 
 nude
-
-`Prev <NSP.html>`__ 
-
-N
-
- `Next <nugry.html>`__
-
---------------
+=============
+ 
 
 **nude**: adj.
 
@@ -2067,23 +1271,10 @@ IBM-PC clones are now delivered with an operating system pre-installed
 at the factory. Other kinds of hardware are still normally delivered
 without OS, so this term is particular to PC support groups.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <NSP.html>`__    | `Up <../N.html>`__         |  `Next <nugry.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| NSP                    | `Home <../index.html>`__   |  nugry                   |
-+------------------------+----------------------------+--------------------------+
-
+ 
 nugry
-
-`Prev <nude.html>`__ 
-
-N
-
- `Next <nuke.html>`__
-
---------------
+==============
+ 
 
 **nugry**: /n[y]oo´gree/
 
@@ -2097,23 +1288,11 @@ canonical answer is of course ‘nugry’ itself. Plural is nusgry
 
 2. adj. Having the qualities of a nugry.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <nude.html>`__    | `Up <../N.html>`__         |  `Next <nuke.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| nude                    | `Home <../index.html>`__   |  nuke                   |
-+-------------------------+----------------------------+-------------------------+
-
+ 
 nuke
+============
 
-`Prev <nugry.html>`__ 
-
-N
-
- `Next <number-crunching.html>`__
-
---------------
+ 
 
 **nuke**: /n[y]ook/, vt.
 
@@ -2139,23 +1318,13 @@ information). This can utterly scramble attached disks, which are then
 said to have been nuked. This term is also used of analogous lossages on
 Macintoshes and other micros without memory protection.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------------------+
-| `Prev <nugry.html>`__    | `Up <../N.html>`__         |  `Next <number-crunching.html>`__   |
-+--------------------------+----------------------------+-------------------------------------+
-| nugry                    | `Home <../index.html>`__   |  number-crunching                   |
-+--------------------------+----------------------------+-------------------------------------+
 
 number-crunching
+======================
 
-`Prev <nuke.html>`__ 
-
-N
-
- `Next <numbers.html>`__
-
---------------
+ 
 
 **number-crunching**: n.
 
@@ -2179,24 +1348,15 @@ Hydrodynamic `number-crunching <number-crunching.html>`__.
 `74-12-29 <./W.html#winged-comments.html#crunchly74-12-29>`__. The previous
 cartoon was `74-08-18 <./W.html#water-MIPS.html#crunchly74-08-18>`__.)
 
---------------
+ 
 
-+-------------------------+----------------------------+----------------------------+
-| `Prev <nuke.html>`__    | `Up <../N.html>`__         |  `Next <numbers.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| nuke                    | `Home <../index.html>`__   |  numbers                   |
-+-------------------------+----------------------------+----------------------------+
 
 .. |image0| image:: ../_static/74-12-25.png
+
 numbers
+============
 
-`Prev <number-crunching.html>`__ 
-
-N
-
- `Next <NUXI-problem.html>`__
-
---------------
+ 
 
 **numbers**: n.
 
@@ -2209,23 +1369,12 @@ meaningful output — is needed as a demonstration of progress. See
 `math-out <./M.html#math-out.html>`__, `social science
 number <./S.html#social-science-number.html>`__.
 
---------------
+ 
 
-+-------------------------------------+----------------------------+---------------------------------+
-| `Prev <number-crunching.html>`__    | `Up <../N.html>`__         |  `Next <NUXI-problem.html>`__   |
-+-------------------------------------+----------------------------+---------------------------------+
-| number-crunching                    | `Home <../index.html>`__   |  NUXI problem                   |
-+-------------------------------------+----------------------------+---------------------------------+
 
 NUXI problem
-
-`Prev <numbers.html>`__ 
-
-N
-
- `Next <nybble.html>`__
-
---------------
+================
+ 
 
 **NUXI problem**: /nuk´see pro´bl@m/, n.
 
@@ -2238,23 +1387,11 @@ machine with a different byte sex (e.g., when transferring data from a
 `swab <./S.html#swab.html>`__, and
 `bytesexual <./B.html#bytesexual.html>`__.
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <numbers.html>`__    | `Up <../N.html>`__         |  `Next <nybble.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| numbers                    | `Home <../index.html>`__   |  nybble                   |
-+----------------------------+----------------------------+---------------------------+
+ 
 
 nybble
-
-`Prev <NUXI-problem.html>`__ 
-
-N
-
- `Next <nyetwork.html>`__
-
---------------
+============
+ 
 
 **nybble**: /nib´l/, nibble, n.
 
@@ -2275,51 +1412,40 @@ together with the ambiguous techspeak terms ‘word’, ‘half-word’, ‘doub
 word’, and ‘quad’ or quad word; some (indicated) have substantial
 information separate entries.
 
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 2 bits:     | `crumb <./C.html#crumb.html>`__, `quad <./Q.html#quad.html>`__, `quarter <./Q.html#quarter.html>`__, tayste, tydbit, morsel         |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 4 bits:     | nybble                                                                                                                        |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 5 bits:     | `nickle <nickle.html>`__                                                                                                    |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 10 bits:    | `deckle <./D.html#deckle.html>`__                                                                                               |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 16 bits:    | playte, `chawmp <./C.html#chawmp.html>`__ (on a 32-bit machine), word (on a 16-bit machine), half-word (on a 32-bit machine).   |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 18 bits:    | `chawmp <./C.html#chawmp.html>`__ (on a 36-bit machine), half-word (on a 36-bit machine)                                        |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 32 bits:    | dynner, `gawble <./G.html#gawble.html>`__ (on a 32-bit machine), word (on a 32-bit machine), longword (on a 16-bit machine).    |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 36 bits:    | word (on a 36-bit machine)                                                                                                    |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 48 bits:    | `gawble <./G.html#gawble.html>`__ (under circumstances that remain obscure)                                                     |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 64 bits:    | double word (on a 32-bit machine) quad (on a 16-bit machine)                                                                  |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 | 128 bits:   | quad (on a 32-bit machine)                                                                                                    |
-+-------------+-------------------------------------------------------------------------------------------------------------------------------+
++-------------+         -+
 
 The fundamental motivation for most of these jargon terms (aside from
 the normal hackerly enjoyment of punning wordplay) is the extreme
 ambiguity of the term word and its derivatives.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-----------------------------+
-| `Prev <NUXI-problem.html>`__    | `Up <../N.html>`__         |  `Next <nyetwork.html>`__   |
-+---------------------------------+----------------------------+-----------------------------+
-| NUXI problem                    | `Home <../index.html>`__   |  nyetwork                   |
-+---------------------------------+----------------------------+-----------------------------+
 
 nyetwork
-
-`Prev <nybble.html>`__ 
-
-N
-
- `Next <../O.html>`__
-
---------------
+==============
+ 
 
 **nyetwork**: /nyet´werk/, n.
 
@@ -2327,11 +1453,6 @@ N
 `flaky <./F.html#flaky.html>`__ or is `down <./D.html#down.html>`__. Compare
 `notwork <notwork.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+-------------------------+
-| `Prev <nybble.html>`__    | `Up <../N.html>`__         |  `Next <../O.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| nybble                    | `Home <../index.html>`__   |  O                      |
-+---------------------------+----------------------------+-------------------------+
 

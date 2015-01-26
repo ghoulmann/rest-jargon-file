@@ -576,13 +576,13 @@ monkey <scratch-monkey.html>`__.
 
 2. [primarily IBM, also Commodore] vt. To delete (as in a file).
 
---------------
+ 
 
-+---------------------------------+----------------------------+-----------------------------------+
++  -----+  +  -------+
 | `Prev <scram-switch.html>`__    | `Up <../S.html>`__         |  `Next <scratch-monkey.html>`__   |
-+---------------------------------+----------------------------+-----------------------------------+
++  -----+  +  -------+
 | scram switch                    | `Home <../index.html>`__   |  scratch monkey                   |
-+---------------------------------+----------------------------+-----------------------------------+
++  -----+  +  -------+
 
 scratch monkey
 
@@ -592,7 +592,7 @@ S
 
  `Next <scream-and-die.html>`__
 
---------------
+ 
 
 **scratch monkey**: n.
 
@@ -631,13 +631,13 @@ that Mabel's demise occurred when DEC `PM <./P.html#PM.html>`__\ ed the
 machine. Earlier versions of this entry were based on that story; this
 one has been corrected from an interview with the hapless sysop. —ESR]
 
---------------
+ 
 
-+----------------------------+----------------------------+-----------------------------------+
++  +  +  -------+
 | `Prev <scratch.html>`__    | `Up <../S.html>`__         |  `Next <scream-and-die.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
++  +  +  -------+
 | scratch                    | `Home <../index.html>`__   |  scream and die                   |
-+----------------------------+----------------------------+-----------------------------------+
++  +  +  -------+
 
 scream and die
 
@@ -647,20 +647,20 @@ S
 
  `Next <screaming-tty.html>`__
 
---------------
+ 
 
 **scream and die**: v.
 
 Syn. `cough and die <./C.html#cough-and-die.html>`__, but connotes that an
 error message was printed or displayed before the program crashed.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+----------------------------------+
++  -------+  +  ------+
 | `Prev <scratch-monkey.html>`__    | `Up <../S.html>`__         |  `Next <screaming-tty.html>`__   |
-+-----------------------------------+----------------------------+----------------------------------+
++  -------+  +  ------+
 | scratch monkey                    | `Home <../index.html>`__   |  screaming tty                   |
-+-----------------------------------+----------------------------+----------------------------------+
++  -------+  +  ------+
 
 screaming tty
 
@@ -670,7 +670,7 @@ S
 
  `Next <screen.html>`__
 
---------------
+ 
 
 **screaming tty**: n.
 
@@ -686,13 +686,8 @@ intensive in order to foil brute-force crack attacks, so although none
 of the logins succeeds; the overhead of rejecting them all can be
 substantial.
 
---------------
-
-+-----------------------------------+----------------------------+---------------------------+
-| `Prev <scream-and-die.html>`__    | `Up <../S.html>`__         |  `Next <screen.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| scream and die                    | `Home <../index.html>`__   |  screen                   |
-+-----------------------------------+----------------------------+---------------------------+
+ 
+ 
 
 screen
 
@@ -702,7 +697,7 @@ S
 
  `Next <screen-name.html>`__
 
---------------
+ 
 
 **screen**: n.
 
@@ -711,13 +706,13 @@ S
 Probably comes from old Sierra-style adventures or shoot-em-ups where
 one travels from one place to another one screenful at a time.
 
---------------
+ 
 
-+----------------------------------+----------------------------+--------------------------------+
++  ------+  +  ----+
 | `Prev <screaming-tty.html>`__    | `Up <../S.html>`__         |  `Next <screen-name.html>`__   |
-+----------------------------------+----------------------------+--------------------------------+
++  ------+  +  ----+
 | screaming tty                    | `Home <../index.html>`__   |  screen name                   |
-+----------------------------------+----------------------------+--------------------------------+
++  ------+  +  ----+
 
 screen name
 
@@ -727,7 +722,7 @@ S
 
  `Next <screen-scraping.html>`__
 
---------------
+ 
 
 **screen name**: n.
 
@@ -737,14 +732,7 @@ A `handle <./H.html#handle.html>`__ sense
 on-line services since the mid-1990s. Hackers recognize the term but
 don't generally use it.
 
---------------
-
-+---------------------------+----------------------------+------------------------------------+
-| `Prev <screen.html>`__    | `Up <../S.html>`__         |  `Next <screen-scraping.html>`__   |
-+---------------------------+----------------------------+------------------------------------+
-| screen                    | `Home <../index.html>`__   |  screen scraping                   |
-+---------------------------+----------------------------+------------------------------------+
-
+ 
 screen scraping
 
 `Prev <screen-name.html>`__ 
@@ -753,7 +741,7 @@ S
 
  `Next <screw.html>`__
 
---------------
+ 
 
 **screen scraping**: v.
 
@@ -766,14 +754,7 @@ generated web pages with programs designed to mine out particular
 patterns of content. In either guise screen-scraping is an ugly, ad-hoc,
 last-resort technique that is very likely to break on even minor changes
 to the format of the data being snooped.
-
---------------
-
-+--------------------------------+----------------------------+--------------------------+
-| `Prev <screen-name.html>`__    | `Up <../S.html>`__         |  `Next <screw.html>`__   |
-+--------------------------------+----------------------------+--------------------------+
-| screen name                    | `Home <../index.html>`__   |  screw                   |
-+--------------------------------+----------------------------+--------------------------+
+ 
 
 screwage
 
@@ -783,7 +764,7 @@ S
 
  `Next <scribble.html>`__
 
---------------
+ 
 
 **screwage**: /skroo'@j/, n.
 
@@ -791,13 +772,7 @@ Like `lossage <./L.html#lossage.html>`__ but connotes that the failure is
 due to a designed-in misfeature rather than a simple inadequacy or a
 mere bug.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <screw.html>`__    | `Up <../S.html>`__         |  `Next <scribble.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| screw                    | `Home <../index.html>`__   |  scribble                   |
-+--------------------------+----------------------------+-----------------------------+
+ 
 
 screw
 
@@ -807,7 +782,7 @@ S
 
  `Next <screwage.html>`__
 
---------------
+ 
 
 **screw**: n.
 
@@ -815,13 +790,13 @@ S
 used for user-visible misbehavior caused by a bug or misfeature. This
 use has become quite widespread outside MIT.
 
---------------
+ 
 
-+------------------------------------+----------------------------+-----------------------------+
++  --------+  +  -+
 | `Prev <screen-scraping.html>`__    | `Up <../S.html>`__         |  `Next <screwage.html>`__   |
-+------------------------------------+----------------------------+-----------------------------+
++  --------+  +  -+
 | screen scraping                    | `Home <../index.html>`__   |  screwage                   |
-+------------------------------------+----------------------------+-----------------------------+
++  --------+  +  -+
 
 scribble
 
@@ -831,7 +806,7 @@ S
 
  `Next <script-kiddies.html>`__
 
---------------
+ 
 
 **scribble**: n.
 
@@ -843,13 +818,13 @@ allocation routines scribbled on low core.” Synonymous with
 which conveys a bit more intention, and `mangle <./M.html#mangle.html>`__,
 which is more violent and final.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-----------------------------------+
++  -+  +  -------+
 | `Prev <screwage.html>`__    | `Up <../S.html>`__         |  `Next <script-kiddies.html>`__   |
-+-----------------------------+----------------------------+-----------------------------------+
++  -+  +  -------+
 | screwage                    | `Home <../index.html>`__   |  script kiddies                   |
-+-----------------------------+----------------------------+-----------------------------------+
++  -+  +  -------+
 
 script kiddies
 
@@ -859,7 +834,7 @@ S
 
  `Next <scrog.html>`__
 
---------------
+ 
 
 **script kiddies**: pl.n.
 
@@ -880,13 +855,7 @@ either having or desiring to have a mental model of what the code does;
 someone who thinks of code as magical incantations and asks only “what
 do I need to type to make this happen?”
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <scribble.html>`__    | `Up <../S.html>`__         |  `Next <scrog.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| scribble                    | `Home <../index.html>`__   |  scrog                   |
-+-----------------------------+----------------------------+--------------------------+
+ 
 
 scrog
 
@@ -896,7 +865,7 @@ S
 
  `Next <scrool.html>`__
 
---------------
+ 
 
 **scrog**: /skrog/, vt.
 
@@ -906,23 +875,13 @@ strip *The Wizard of Id*. Compare `scag <scag.html>`__; possibly the
 two are related. Equivalent to `scribble <scribble.html>`__ or
 `mangle <./M.html#mangle.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+---------------------------+
-| `Prev <script-kiddies.html>`__    | `Up <../S.html>`__         |  `Next <scrool.html>`__   |
-+-----------------------------------+----------------------------+---------------------------+
-| script kiddies                    | `Home <../index.html>`__   |  scrool                   |
-+-----------------------------------+----------------------------+---------------------------+
+ 
+ 
 
 scrool
+=========
 
-`Prev <scrog.html>`__ 
-
-S
-
- `Next <scrozzle.html>`__
-
---------------
+ 
 
 **scrool**: /skrool/, n.
 
@@ -933,23 +892,13 @@ conversation. It was originally called the scrool monster, because an
 early version of the roundtable software had a bug where it would dump
 all 8K of scrool on a user's terminal.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <scrog.html>`__    | `Up <../S.html>`__         |  `Next <scrozzle.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| scrog                    | `Home <../index.html>`__   |  scrozzle                   |
-+--------------------------+----------------------------+-----------------------------+
+ 
+ 
 
 scrozzle
+==========
 
-`Prev <scrool.html>`__ 
-
-S
-
- `Next <scruffies.html>`__
-
---------------
+ 
 
 **scrozzle**: /skroz´l/, vt.
 
@@ -957,45 +906,23 @@ Used when a self-modifying code segment runs incorrectly and corrupts
 the running program or vital data. “The damn compiler scrozzled itself
 again!”
 
---------------
-
-+---------------------------+----------------------------+------------------------------+
-| `Prev <scrool.html>`__    | `Up <../S.html>`__         |  `Next <scruffies.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| scrool                    | `Home <../index.html>`__   |  scruffies                   |
-+---------------------------+----------------------------+------------------------------+
+ 
 
 scruffies
+=================
 
-`Prev <scrozzle.html>`__ 
-
-S
-
- `Next <SCSI.html>`__
-
---------------
+ 
 
 **scruffies**: n.
 
 See `neats vs. scruffies <./N.html#neats-vs--scruffies.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------+
-| `Prev <scrozzle.html>`__    | `Up <../S.html>`__         |  `Next <SCSI.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
-| scrozzle                    | `Home <../index.html>`__   |  SCSI                   |
-+-----------------------------+----------------------------+-------------------------+
+ 
 
 SCSI
+===========
 
-`Prev <scruffies.html>`__ 
-
-S
-
- `Next <SCSI-voodoo.html>`__
-
---------------
+ 
 
 **SCSI**: n.
 
@@ -1007,23 +934,17 @@ being the overwhelmingly predominant form, much to the dismay of the
 designers and their marketing people. One can usually assume that a
 person who pronounces it /S-C-S-I/ is clueless.
 
---------------
+ 
 
-+------------------------------+----------------------------+--------------------------------+
++  --+  +  ----+
 | `Prev <scruffies.html>`__    | `Up <../S.html>`__         |  `Next <SCSI-voodoo.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
++  --+  +  ----+
 | scruffies                    | `Home <../index.html>`__   |  SCSI voodoo                   |
-+------------------------------+----------------------------+--------------------------------+
++  --+  +  ----+
 
 SCSI voodoo
-
-`Prev <SCSI.html>`__ 
-
-S
-
- `Next <search-and-destroy-mode.html>`__
-
---------------
+==============
+ 
 
 **SCSI voodoo**: /skuz´ee voo´doo/
 
@@ -1049,23 +970,11 @@ personal computer with three scanners, a Zip drive, an IDE hard drive, a
 home weather station, a Smith-Corona typewriter, and the neighbor's
 garage door.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------------------+
-| `Prev <SCSI.html>`__    | `Up <../S.html>`__         |  `Next <search-and-destroy-mode.html>`__   |
-+-------------------------+----------------------------+--------------------------------------------+
-| SCSI                    | `Home <../index.html>`__   |  search-and-destroy mode                   |
-+-------------------------+----------------------------+--------------------------------------------+
+ 
 
 search-and-destroy mode
-
-`Prev <SCSI-voodoo.html>`__ 
-
-S
-
- `Next <second-system-effect.html>`__
-
---------------
+==========================
+ 
 
 **search-and-destroy mode**: n.
 
@@ -1073,23 +982,13 @@ Hackerism for a noninteractive search-and-replace facility in an editor,
 so called because an incautiously chosen match pattern can cause
 `infinite <./I.html#infinite.html>`__ damage.
 
---------------
-
-+--------------------------------+----------------------------+-----------------------------------------+
-| `Prev <SCSI-voodoo.html>`__    | `Up <../S.html>`__         |  `Next <second-system-effect.html>`__   |
-+--------------------------------+----------------------------+-----------------------------------------+
-| SCSI voodoo                    | `Home <../index.html>`__   |  second-system effect                   |
-+--------------------------------+----------------------------+-----------------------------------------+
+ 
+ 
 
 secondary damage
+===================
 
-`Prev <second-system-effect.html>`__ 
-
-S
-
- `Next <security-through-obscurity.html>`__
-
---------------
+ 
 
 **secondary damage**: n.
 
@@ -1106,23 +1005,11 @@ actually dug up the underlying bug behind an instance of seventh-level
 damage! The hacker who accomplished this near-superhuman feat was
 presented with an award by his fellows.
 
---------------
-
-+-----------------------------------------+----------------------------+-----------------------------------------------+
-| `Prev <second-system-effect.html>`__    | `Up <../S.html>`__         |  `Next <security-through-obscurity.html>`__   |
-+-----------------------------------------+----------------------------+-----------------------------------------------+
-| second-system effect                    | `Home <../index.html>`__   |  security through obscurity                   |
-+-----------------------------------------+----------------------------+-----------------------------------------------+
+ 
 
 second-system effect
-
-`Prev <search-and-destroy-mode.html>`__ 
-
-S
-
- `Next <secondary-damage.html>`__
-
---------------
+=======================
+ 
 
 **second-system effect**: n.
 
@@ -1145,23 +1032,12 @@ This version of the jargon lexicon has been described (with altogether
 too much truth for comfort) as an example of second-system effect run
 amok on jargon-1....
 
---------------
-
-+--------------------------------------------+----------------------------+-------------------------------------+
-| `Prev <search-and-destroy-mode.html>`__    | `Up <../S.html>`__         |  `Next <secondary-damage.html>`__   |
-+--------------------------------------------+----------------------------+-------------------------------------+
-| search-and-destroy mode                    | `Home <../index.html>`__   |  secondary damage                   |
-+--------------------------------------------+----------------------------+-------------------------------------+
+ 
 
 security through obscurity
+=============================
 
-`Prev <secondary-damage.html>`__ 
-
-S
-
- `Next <SED.html>`__
-
---------------
+ 
 
 **security through obscurity**
 
@@ -1199,23 +1075,12 @@ allow patching the running ITS system (escape escape control-R) echoed
 as $$^D. If you actually typed alt alt ^D, that set a flag that would
 prevent patching the system even if you later got it right.
 
---------------
-
-+-------------------------------------+----------------------------+------------------------+
-| `Prev <secondary-damage.html>`__    | `Up <../S.html>`__         |  `Next <SED.html>`__   |
-+-------------------------------------+----------------------------+------------------------+
-| secondary damage                    | `Home <../index.html>`__   |  SED                   |
-+-------------------------------------+----------------------------+------------------------+
+ 
+ 
 
 SED
-
-`Prev <security-through-obscurity.html>`__ 
-
-S
-
- `Next <See-figure-1.html>`__
-
---------------
+========
+ 
 
 **SED**: /S·E·D/, n.
 
@@ -1224,23 +1089,13 @@ S
 `LER <./L.html#LER.html>`__. [Not to be confused with sed(1), the Unix
 stream editor. —ESR]
 
---------------
-
-+-----------------------------------------------+----------------------------+---------------------------------+
-| `Prev <security-through-obscurity.html>`__    | `Up <../S.html>`__         |  `Next <See-figure-1.html>`__   |
-+-----------------------------------------------+----------------------------+---------------------------------+
-| security through obscurity                    | `Home <../index.html>`__   |  See figure 1                   |
-+-----------------------------------------------+----------------------------+---------------------------------+
+ 
 
 See figure 1
+================
 
-`Prev <SED.html>`__ 
 
-S
-
- `Next <segfault.html>`__
-
---------------
+ 
 
 **See figure 1**
 
@@ -1248,69 +1103,35 @@ Metaphorically, “Get stuffed.” From the title of a famous parody that
 can easily be found with a web search on this phrase; figure 1, in fact,
 depicts the digitus impudicus.
 
---------------
-
-+------------------------+----------------------------+-----------------------------+
-| `Prev <SED.html>`__    | `Up <../S.html>`__         |  `Next <segfault.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| SED                    | `Home <../index.html>`__   |  segfault                   |
-+------------------------+----------------------------+-----------------------------+
+ 
+ 
 
 segfault
-
-`Prev <See-figure-1.html>`__ 
-
-S
-
- `Next <seggie.html>`__
-
---------------
+==========
+ 
 
 **segfault**: n.,vi.
 
 Syn. `segment <segment.html>`__, `segmentation
 fault <segmentation-fault.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+---------------------------+
-| `Prev <See-figure-1.html>`__    | `Up <../S.html>`__         |  `Next <seggie.html>`__   |
-+---------------------------------+----------------------------+---------------------------+
-| See figure 1                    | `Home <../index.html>`__   |  seggie                   |
-+---------------------------------+----------------------------+---------------------------+
+ 
 
 seggie
-
-`Prev <segfault.html>`__ 
-
-S
-
- `Next <segment.html>`__
-
---------------
+===========
+ 
 
 **seggie**: /seg´ee/, n.
 
 [Unix] Shorthand for `segmentation fault <segmentation-fault.html>`__
 reported from Britain.
 
---------------
-
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <segfault.html>`__    | `Up <../S.html>`__         |  `Next <segment.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| segfault                    | `Home <../index.html>`__   |  segment                   |
-+-----------------------------+----------------------------+----------------------------+
+ 
 
 segmentation fault
+=====================
 
-`Prev <segment.html>`__ 
-
-S
-
- `Next <segv.html>`__
-
---------------
+ 
 
 **segmentation fault**: n.
 
@@ -1330,23 +1151,12 @@ classic example is:
 2. To lose a train of thought or a line of reasoning. Also uttered as an
 exclamation at the point of befuddlement.
 
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <segment.html>`__    | `Up <../S.html>`__         |  `Next <segv.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| segment                    | `Home <../index.html>`__   |  segv                   |
-+----------------------------+----------------------------+-------------------------+
+ 
+ 
 
 segment
-
-`Prev <seggie.html>`__ 
-
-S
-
- `Next <segmentation-fault.html>`__
-
---------------
+=============
+ 
 
 **segment**: /seg´ment/, vi.
 
@@ -1355,23 +1165,11 @@ Confusingly, this is often pronounced more like the noun ‘segment’ than
 like mainstream v. segment; this is because it is actually a noun
 shorthand that has been verbed.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------------+
-| `Prev <seggie.html>`__    | `Up <../S.html>`__         |  `Next <segmentation-fault.html>`__   |
-+---------------------------+----------------------------+---------------------------------------+
-| seggie                    | `Home <../index.html>`__   |  segmentation fault                   |
-+---------------------------+----------------------------+---------------------------------------+
+  
 
 segv
-
-`Prev <segmentation-fault.html>`__ 
-
-S
-
- `Next <self-reference.html>`__
-
---------------
+========
+ 
 
 **segv**: /seg´vee/, n.,vi.
 
@@ -1379,67 +1177,31 @@ Yet another synonym for `segmentation
 fault <segmentation-fault.html>`__ (actually, in this case,
 ‘segmentation violation’).
 
---------------
-
-+---------------------------------------+----------------------------+-----------------------------------+
-| `Prev <segmentation-fault.html>`__    | `Up <../S.html>`__         |  `Next <self-reference.html>`__   |
-+---------------------------------------+----------------------------+-----------------------------------+
-| segmentation fault                    | `Home <../index.html>`__   |  self-reference                   |
-+---------------------------------------+----------------------------+-----------------------------------+
-
+ 
 self-reference
-
-`Prev <segv.html>`__ 
-
-S
-
- `Next <selvage.html>`__
-
---------------
+================
 
 **self-reference**: n.
 
 See `self-reference <self-reference.html>`__.
 
---------------
-
-+-------------------------+----------------------------+----------------------------+
-| `Prev <segv.html>`__    | `Up <../S.html>`__         |  `Next <selvage.html>`__   |
-+-------------------------+----------------------------+----------------------------+
-| segv                    | `Home <../index.html>`__   |  selvage                   |
-+-------------------------+----------------------------+----------------------------+
+ 
+ 
 
 selvage
-
-`Prev <self-reference.html>`__ 
-
-S
-
- `Next <semi.html>`__
-
---------------
+===========
+ 
 
 **selvage**: /sel´v@j/, n.
 
 [from sewing and weaving] See `chad <./C.html#chad.html>`__ (sense 1).
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <self-reference.html>`__    | `Up <../S.html>`__         |  `Next <semi.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| self-reference                    | `Home <../index.html>`__   |  semi                   |
-+-----------------------------------+----------------------------+-------------------------+
+ 
+ 
 
 semi-automated
-
-`Prev <semi.html>`__ 
-
-S
-
- `Next <semi-infinite.html>`__
-
---------------
+===================
+ 
 
 **semi-automated**: adj.
 
@@ -1450,23 +1212,13 @@ instructions that are worth their weight in gold — without them, very
 nasty things can happen. At USGS semi-automated programs are often
 referred to as “semi-automated weapons”.
 
---------------
-
-+-------------------------+----------------------------+----------------------------------+
-| `Prev <semi.html>`__    | `Up <../S.html>`__         |  `Next <semi-infinite.html>`__   |
-+-------------------------+----------------------------+----------------------------------+
-| semi                    | `Home <../index.html>`__   |  semi-infinite                   |
-+-------------------------+----------------------------+----------------------------------+
+ 
+ 
 
 semi
+======
 
-`Prev <selvage.html>`__ 
-
-S
-
- `Next <semi-automated.html>`__
-
---------------
+ 
 
 **semi**: /se´mee/, /se´mi:/
 
@@ -1479,67 +1231,30 @@ is the system coming up?” “Semi-immediately.” (That is, maybe not for an
 hour.) “We did consider that possibility semi-seriously.” See also
 `infinite <./I.html#infinite.html>`__.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <selvage.html>`__    | `Up <../S.html>`__         |  `Next <semi-automated.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| selvage                    | `Home <../index.html>`__   |  semi-automated                   |
-+----------------------------+----------------------------+-----------------------------------+
 
 semi-infinite
-
-`Prev <semi-automated.html>`__ 
-
-S
-
- `Next <senior-bit.html>`__
-
---------------
+================
 
 **semi-infinite**: n.
 
 See `infinite <./I.html#infinite.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+-------------------------------+
-| `Prev <semi-automated.html>`__    | `Up <../S.html>`__         |  `Next <senior-bit.html>`__   |
-+-----------------------------------+----------------------------+-------------------------------+
-| semi-automated                    | `Home <../index.html>`__   |  senior bit                   |
-+-----------------------------------+----------------------------+-------------------------------+
 
 senior bit
-
-`Prev <semi-infinite.html>`__ 
-
-S
-
- `Next <September-that-never-ended.html>`__
-
---------------
+=============
+ 
 
 **senior bit**: n.
 
 [IBM; rare] Syn. `meta bit <./M.html#meta-bit.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+-----------------------------------------------+
-| `Prev <semi-infinite.html>`__    | `Up <../S.html>`__         |  `Next <September-that-never-ended.html>`__   |
-+----------------------------------+----------------------------+-----------------------------------------------+
-| semi-infinite                    | `Home <../index.html>`__   |  September that never ended                   |
-+----------------------------------+----------------------------+-----------------------------------------------+
-
+ 
 September that never ended
+============================
 
-`Prev <senior-bit.html>`__ 
-
-S
-
- `Next <server.html>`__
-
---------------
+ 
 
 **September that never ended**
 
@@ -1556,23 +1271,12 @@ period before, this triggered an inexorable decline in the quality of
 discussions on newsgroups. Syn. eternal September. See also
 `AOL! <./A.html#AOL-.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <senior-bit.html>`__    | `Up <../S.html>`__         |  `Next <server.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| senior bit                    | `Home <../index.html>`__   |  server                   |
-+-------------------------------+----------------------------+---------------------------+
+ 
+ 
 
 server
-
-`Prev <September-that-never-ended.html>`__ 
-
-S
-
- `Next <SEX.html>`__
-
---------------
+==========
+ 
 
 **server**: n.
 
@@ -1582,45 +1286,23 @@ which the requestor/client runs. A particularly common term on the
 Internet, which is rife with web servers, name servers, domain servers,
 ‘news servers’, finger servers, and the like.
 
---------------
-
-+-----------------------------------------------+----------------------------+------------------------+
-| `Prev <September-that-never-ended.html>`__    | `Up <../S.html>`__         |  `Next <SEX.html>`__   |
-+-----------------------------------------------+----------------------------+------------------------+
-| September that never ended                    | `Home <../index.html>`__   |  SEX                   |
-+-----------------------------------------------+----------------------------+------------------------+
+ 
+ 
 
 sex changer
-
-`Prev <SEX.html>`__ 
-
-S
-
- `Next <shambolic-link.html>`__
-
---------------
+==============
+ 
 
 **sex changer**: n.
 
 Syn. `gender mender <./G.html#gender-mender.html>`__.
 
---------------
-
-+------------------------+----------------------------+-----------------------------------+
-| `Prev <SEX.html>`__    | `Up <../S.html>`__         |  `Next <shambolic-link.html>`__   |
-+------------------------+----------------------------+-----------------------------------+
-| SEX                    | `Home <../index.html>`__   |  shambolic link                   |
-+------------------------+----------------------------+-----------------------------------+
+ 
+ 
 
 SEX
-
-`Prev <server.html>`__ 
-
-S
-
- `Next <sex-changer.html>`__
-
---------------
+======
+ 
 
 **SEX**: /seks/
 
@@ -1662,23 +1344,11 @@ British hackers thought this made perfect mythic sense; after all, it
 was commonly observed, you could (on some theoretical level) have sex
 with a dragon, but you can't have sex with an apple.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <server.html>`__    | `Up <../S.html>`__         |  `Next <sex-changer.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| server                    | `Home <../index.html>`__   |  sex changer                   |
-+---------------------------+----------------------------+--------------------------------+
+  
 
 shambolic link
-
-`Prev <sex-changer.html>`__ 
-
-S
-
- `Next <shar-file.html>`__
-
---------------
+==================
+ 
 
 **shambolic link**: /sham·bol´ik link/, n.
 
@@ -1686,23 +1356,12 @@ A Unix symbolic link, particularly when it confuses you, points to
 nothing at all, or results in your ending up in some completely
 unexpected part of the filesystem....
 
---------------
-
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <sex-changer.html>`__    | `Up <../S.html>`__         |  `Next <shar-file.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| sex changer                    | `Home <../index.html>`__   |  shar file                   |
-+--------------------------------+----------------------------+------------------------------+
+ 
 
 sharchive
+================
 
-`Prev <shar-file.html>`__ 
-
-S
-
- `Next <Share-and-enjoy-.html>`__
-
---------------
+ 
 
 **sharchive**: /shar´ki:v/, n.
 
@@ -1725,23 +1384,11 @@ possible; sharchives can and do make use of arbitrarily-powerful shell
 features. For these reasons, this technique has largely fallen out of
 use since the mid-1990s.
 
---------------
+ 
 
-+------------------------------+----------------------------+-------------------------------------+
-| `Prev <shar-file.html>`__    | `Up <../S.html>`__         |  `Next <Share-and-enjoy-.html>`__   |
-+------------------------------+----------------------------+-------------------------------------+
-| shar file                    | `Home <../index.html>`__   |  Share and enjoy!                   |
-+------------------------------+----------------------------+-------------------------------------+
 
 Share and enjoy!
-
-`Prev <sharchive.html>`__ 
-
-S
-
- `Next <shareware.html>`__
-
---------------
+==================
 
 **Share and enjoy!**: imp.
 
@@ -1756,23 +1403,8 @@ Corporation (the ultimate gaggle of incompetent
 the Galaxy*. The irony of using this as a cultural recognition signal
 appeals to hackers.
 
---------------
-
-+------------------------------+----------------------------+------------------------------+
-| `Prev <sharchive.html>`__    | `Up <../S.html>`__         |  `Next <shareware.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| sharchive                    | `Home <../index.html>`__   |  shareware                   |
-+------------------------------+----------------------------+------------------------------+
-
 shareware
-
-`Prev <Share-and-enjoy-.html>`__ 
-
-S
-
- `Next <sharing-violation.html>`__
-
---------------
+===============
 
 **shareware**: /sheir´weir/, n.
 
@@ -1788,45 +1420,19 @@ may not buy additional support or functionality. See also
 `-ware <../W/suffix-ware.html>`__; compare
 `payware <./P.html#payware.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+--------------------------------------+
-| `Prev <Share-and-enjoy-.html>`__    | `Up <../S.html>`__         |  `Next <sharing-violation.html>`__   |
-+-------------------------------------+----------------------------+--------------------------------------+
-| Share and enjoy!                    | `Home <../index.html>`__   |  sharing violation                   |
-+-------------------------------------+----------------------------+--------------------------------------+
-
+ 
 shar file
-
-`Prev <shambolic-link.html>`__ 
-
-S
-
- `Next <sharchive.html>`__
-
---------------
+===============
+ 
 
 **shar file**: /shar´ fi:l/, n.
 
 Syn. `sharchive <sharchive.html>`__.
 
---------------
 
-+-----------------------------------+----------------------------+------------------------------+
-| `Prev <shambolic-link.html>`__    | `Up <../S.html>`__         |  `Next <sharchive.html>`__   |
-+-----------------------------------+----------------------------+------------------------------+
-| shambolic link                    | `Home <../index.html>`__   |  sharchive                   |
-+-----------------------------------+----------------------------+------------------------------+
 
 sharing violation
-
-`Prev <shareware.html>`__ 
-
-S
-
- `Next <shebang.html>`__
-
---------------
+=======================
 
 **sharing violation**
 
@@ -1837,23 +1443,10 @@ little noises that Pat makes in bed?” “Whoa! Sharing violation!” In
 contrast to the original file error, which indicated that you were *not*
 being given data that you *did* want.
 
---------------
-
-+------------------------------+----------------------------+----------------------------+
-| `Prev <shareware.html>`__    | `Up <../S.html>`__         |  `Next <shebang.html>`__   |
-+------------------------------+----------------------------+----------------------------+
-| shareware                    | `Home <../index.html>`__   |  shebang                   |
-+------------------------------+----------------------------+----------------------------+
 
 shebang
-
-`Prev <sharing-violation.html>`__ 
-
-S
-
- `Next <shelfware.html>`__
-
---------------
+=============
+ 
 
 **shebang**: /sh@·bang/, n.
 
@@ -1862,23 +1455,10 @@ that frequently begins executable shell scripts under Unix. Probably
 derived from “shell bang” under the influence of American slang “the
 whole shebang” (everything, the works).
 
---------------
-
-+--------------------------------------+----------------------------+------------------------------+
-| `Prev <sharing-violation.html>`__    | `Up <../S.html>`__         |  `Next <shelfware.html>`__   |
-+--------------------------------------+----------------------------+------------------------------+
-| sharing violation                    | `Home <../index.html>`__   |  shelfware                   |
-+--------------------------------------+----------------------------+------------------------------+
 
 shelfware
-
-`Prev <shebang.html>`__ 
-
-S
-
- `Next <shell.html>`__
-
---------------
+==============
+ 
 
 **shelfware**: /shelf´weir/, n.
 
@@ -1887,23 +1467,11 @@ with policy (by a corporation or government agency), but not actually
 required for any particular use. Therefore, it often ends up on some
 shelf.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <shebang.html>`__    | `Up <../S.html>`__         |  `Next <shell.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| shebang                    | `Home <../index.html>`__   |  shell                   |
-+----------------------------+----------------------------+--------------------------+
+ 
+ 
 
 shell
-
-`Prev <shelfware.html>`__ 
-
-S
-
- `Next <shell-out.html>`__
-
---------------
+===========
 
 **shell**: n.
 
@@ -1934,23 +1502,11 @@ into its own code, calling them as subroutines, and then dynamically
 de-linking them on return. The VMS command interpreter still does
 something very like this.
 
---------------
-
-+------------------------------+----------------------------+------------------------------+
-| `Prev <shelfware.html>`__    | `Up <../S.html>`__         |  `Next <shell-out.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| shelfware                    | `Home <../index.html>`__   |  shell out                   |
-+------------------------------+----------------------------+------------------------------+
+ 
 
 shell out
-
-`Prev <shell.html>`__ 
-
-S
-
- `Next <shift-left-or-right-logical.html>`__
-
---------------
+===============
+ 
 
 **shell out**: vi.
 
@@ -1958,23 +1514,12 @@ S
 program (e.g., a mailer or editor). “Bang foo runs foo in a subshell,
 while bang alone shells out.”
 
---------------
-
-+--------------------------+----------------------------+------------------------------------------------+
-| `Prev <shell.html>`__    | `Up <../S.html>`__         |  `Next <shift-left-or-right-logical.html>`__   |
-+--------------------------+----------------------------+------------------------------------------------+
-| shell                    | `Home <../index.html>`__   |  shift left (or right) logical                 |
-+--------------------------+----------------------------+------------------------------------------------+
+ 
+ 
 
 shift left (or right) logical
-
-`Prev <shell-out.html>`__ 
-
-S
-
- `Next <shim.html>`__
-
---------------
+=================================
+ 
 
 **shift left (or right) logical**
 
@@ -1988,23 +1533,12 @@ of shift left. Sometimes heard as LSH /lish/, from the
 `PDP-10 <./P.html#PDP-10.html>`__ instruction set. See `Programmer's
 Cheer <./P.html#Programmers-Cheer.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <shell-out.html>`__    | `Up <../S.html>`__         |  `Next <shim.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| shell out                    | `Home <../index.html>`__   |  shim                   |
-+------------------------------+----------------------------+-------------------------+
+ 
+ 
 
 shim
-
-`Prev <shift-left-or-right-logical.html>`__ 
-
-S
-
- `Next <shitogram.html>`__
-
---------------
+==========
+ 
 
 **shim**: n.
 
@@ -2027,46 +1561,21 @@ Sheets makes wholly unnecessary; Any fool can plainly see that use of
 borders, layers and positioned elements is the Right Thing (or would be
 if adequate support for CSS were more common).
 
---------------
-
-+------------------------------------------------+----------------------------+------------------------------+
-| `Prev <shift-left-or-right-logical.html>`__    | `Up <../S.html>`__         |  `Next <shitogram.html>`__   |
-+------------------------------------------------+----------------------------+------------------------------+
-| shift left (or right) logical                  | `Home <../index.html>`__   |  shitogram                   |
-+------------------------------------------------+----------------------------+------------------------------+
+ 
 
 shitogram
-
-`Prev <shim.html>`__ 
-
-S
-
- `Next <shotgun-debugging.html>`__
-
---------------
+================
 
 **shitogram**: /shit´oh·gram/, n.
 
 A *really* nasty piece of email. Compare
 `nastygram <./N.html#nastygram.html>`__, `flame <./F.html#flame.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------------+
-| `Prev <shim.html>`__    | `Up <../S.html>`__         |  `Next <shotgun-debugging.html>`__   |
-+-------------------------+----------------------------+--------------------------------------+
-| shim                    | `Home <../index.html>`__   |  shotgun debugging                   |
-+-------------------------+----------------------------+--------------------------------------+
-
+ 
+ 
 shotgun debugging
-
-`Prev <shitogram.html>`__ 
-
-S
-
- `Next <shovelware.html>`__
-
---------------
+=====================
+ 
 
 **shotgun debugging**: n.
 
@@ -2076,23 +1585,10 @@ undirected changes to software in the hope that a bug will be perturbed
 out of existence. This almost never works, and usually introduces more
 bugs.
 
---------------
-
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <shitogram.html>`__    | `Up <../S.html>`__         |  `Next <shovelware.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| shitogram                    | `Home <../index.html>`__   |  shovelware                   |
-+------------------------------+----------------------------+-------------------------------+
+ 
 
 shovelware
-
-`Prev <shotgun-debugging.html>`__ 
-
-S
-
- `Next <showstopper.html>`__
-
---------------
+=============
 
 **shovelware**: /shuh´v@l·weir\`/, n.
 
@@ -2103,23 +1599,11 @@ carry, but not integrated with the distribution.
 2. A slipshod compilation of software dumped onto a CD-ROM without much
 care for organization or even usability.
 
---------------
-
-+--------------------------------------+----------------------------+--------------------------------+
-| `Prev <shotgun-debugging.html>`__    | `Up <../S.html>`__         |  `Next <showstopper.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------+
-| shotgun debugging                    | `Home <../index.html>`__   |  showstopper                   |
-+--------------------------------------+----------------------------+--------------------------------+
+ 
 
 showstopper
-
-`Prev <shovelware.html>`__ 
-
-S
-
- `Next <shriek.html>`__
-
---------------
+================
+ 
 
 **showstopper**: n.
 
@@ -2128,46 +1612,22 @@ effectively unusable; one that absolutely has to be fixed before
 development can go on. Opposite in connotation from its original
 theatrical use, which refers to something stunningly *good*.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <shovelware.html>`__    | `Up <../S.html>`__         |  `Next <shriek.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| shovelware                    | `Home <../index.html>`__   |  shriek                   |
-+-------------------------------+----------------------------+---------------------------+
+ 
+ 
 
 shriek
-
-`Prev <showstopper.html>`__ 
-
-S
-
- `Next <Shub-Internet.html>`__
-
---------------
+===========
+ 
 
 **shriek**: n.
 
 See `excl <./E.html#excl.html>`__. Occasional CMU usage, also in common
 use among APL fans and mathematicians, especially category theorists.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------------+
-| `Prev <showstopper.html>`__    | `Up <../S.html>`__         |  `Next <Shub-Internet.html>`__   |
-+--------------------------------+----------------------------+----------------------------------+
-| showstopper                    | `Home <../index.html>`__   |  Shub-Internet                   |
-+--------------------------------+----------------------------+----------------------------------+
 
 Shub-Internet
-
-`Prev <shriek.html>`__ 
-
-S
-
- `Next <SIG.html>`__
-
---------------
+===============
+ 
 
 **Shub-Internet**: /shuhb´ in´t@r·net/, n.
 
@@ -2197,23 +1657,11 @@ a result, you too can now poke Shub-Internet by
 Shub-Internet lives, and even has a `home
 page <http://www.shub-internet.org/>`__. —ESR]
 
---------------
-
-+---------------------------+----------------------------+------------------------+
-| `Prev <shriek.html>`__    | `Up <../S.html>`__         |  `Next <SIG.html>`__   |
-+---------------------------+----------------------------+------------------------+
-| shriek                    | `Home <../index.html>`__   |  SIG                   |
-+---------------------------+----------------------------+------------------------+
+  
 
 sig block
-
-`Prev <SIG.html>`__ 
-
-S
-
- `Next <sig-quote.html>`__
-
---------------
+================
+ 
 
 **sig block**: /sig blok/, n.
 
@@ -2232,23 +1680,11 @@ longevity and level of prestige on the net. See also `doubled
 sig <./D.html#doubled-sig.html>`__, `McQuary
 limit <./M.html#McQuary-limit.html>`__.
 
---------------
-
-+------------------------+----------------------------+------------------------------+
-| `Prev <SIG.html>`__    | `Up <../S.html>`__         |  `Next <sig-quote.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| SIG                    | `Home <../index.html>`__   |  sig quote                   |
-+------------------------+----------------------------+------------------------------+
+ 
 
 SIG
-
-`Prev <Shub-Internet.html>`__ 
-
-S
-
- `Next <sig-block.html>`__
-
---------------
+=========
+ 
 
 **SIG**: /sig/, n.
 
@@ -2261,23 +1697,10 @@ Group for Computer Graphics). Hackers, not surprisingly, like to
 overextend this naming convention to less formal associations like
 SIGBEER (at ACM conferences) and SIGFOOD (at University of Illinois).
 
---------------
-
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <Shub-Internet.html>`__    | `Up <../S.html>`__         |  `Next <sig-block.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| Shub-Internet                    | `Home <../index.html>`__   |  sig block                   |
-+----------------------------------+----------------------------+------------------------------+
 
 sigmonster
-
-`Prev <sig-virus.html>`__ 
-
-S
-
- `Next <signal-to-noise-ratio.html>`__
-
---------------
+===============
+ 
 
 **sigmonster**: n.
 
@@ -2291,23 +1714,11 @@ hackers who keep one use a silly little Perl or Python script that they
 threw together in the middle of the night under the influence of far too
 much caffeine.
 
---------------
-
-+------------------------------+----------------------------+------------------------------------------+
-| `Prev <sig-virus.html>`__    | `Up <../S.html>`__         |  `Next <signal-to-noise-ratio.html>`__   |
-+------------------------------+----------------------------+------------------------------------------+
-| sig virus                    | `Home <../index.html>`__   |  signal-to-noise ratio                   |
-+------------------------------+----------------------------+------------------------------------------+
+ 
 
 signal-to-noise ratio
-
-`Prev <sigmonster.html>`__ 
-
-S
-
- `Next <silicon.html>`__
-
---------------
+============================
+ 
 
 **signal-to-noise ratio**: n.
 
@@ -2322,23 +1733,11 @@ newsgroups during `flame war <./F.html#flame-war.html>`__\ s. Compare
 X <./C.html#coefficient-of-X.html>`__, `lost in the
 noise <./L.html#lost-in-the-noise.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+----------------------------+
-| `Prev <sigmonster.html>`__    | `Up <../S.html>`__         |  `Next <silicon.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
-| sigmonster                    | `Home <../index.html>`__   |  silicon                   |
-+-------------------------------+----------------------------+----------------------------+
 
 sig quote
-
-`Prev <sig-block.html>`__ 
-
-S
-
- `Next <sig-virus.html>`__
-
---------------
+===============
+ 
 
 **sig quote**: /sig kwoht/, n.
 
@@ -2347,23 +1746,13 @@ S
 one's philosophical stance, pet peeves, or sense of humor. “Calm down,
 it's only ones and zeroes.”
 
---------------
+ 
 
-+------------------------------+----------------------------+------------------------------+
-| `Prev <sig-block.html>`__    | `Up <../S.html>`__         |  `Next <sig-virus.html>`__   |
-+------------------------------+----------------------------+------------------------------+
-| sig block                    | `Home <../index.html>`__   |  sig virus                   |
-+------------------------------+----------------------------+------------------------------+
 
 sig virus
+================
 
-`Prev <sig-quote.html>`__ 
-
-S
-
- `Next <sigmonster.html>`__
-
---------------
+ 
 
 **sig virus**: n.
 
@@ -2378,23 +1767,11 @@ There were creative variants on it; some people stuck ‘sig virus
 antibody’ texts in their sigs, and there was at least one instance of a
 sig virus eater.
 
---------------
-
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <sig-quote.html>`__    | `Up <../S.html>`__         |  `Next <sigmonster.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| sig quote                    | `Home <../index.html>`__   |  sigmonster                   |
-+------------------------------+----------------------------+-------------------------------+
-
+ 
 silicon
+===============
 
-`Prev <signal-to-noise-ratio.html>`__ 
-
-S
-
- `Next <silly-walk.html>`__
-
---------------
+ 
 
 **silicon**: n.
 
@@ -2402,23 +1779,13 @@ Hardware, esp. ICs or microprocessor-based computer systems (compare
 `iron <./I.html#iron.html>`__). Contrasted with software. See also
 `sandbender <sandbender.html>`__.
 
---------------
+ 
 
-+------------------------------------------+----------------------------+-------------------------------+
-| `Prev <signal-to-noise-ratio.html>`__    | `Up <../S.html>`__         |  `Next <silly-walk.html>`__   |
-+------------------------------------------+----------------------------+-------------------------------+
-| signal-to-noise ratio                    | `Home <../index.html>`__   |  silly walk                   |
-+------------------------------------------+----------------------------+-------------------------------+
 
 silly walk
+===============
 
-`Prev <silicon.html>`__ 
-
-S
-
- `Next <silo.html>`__
-
---------------
+ 
 
 **silly walk**: vi.
 
@@ -2431,23 +1798,12 @@ through half the /usr directories to find the maps file.”
 
 2. Syn. `fandango on core <./F.html#fandango-on-core.html>`__.
 
---------------
-
-+----------------------------+----------------------------+-------------------------+
-| `Prev <silicon.html>`__    | `Up <../S.html>`__         |  `Next <silo.html>`__   |
-+----------------------------+----------------------------+-------------------------+
-| silicon                    | `Home <../index.html>`__   |  silo                   |
-+----------------------------+----------------------------+-------------------------+
+ 
 
 silo
+============
 
-`Prev <silly-walk.html>`__ 
-
-S
-
- `Next <since-time-T-equals-minus-infinity.html>`__
-
---------------
+ 
 
 **silo**: n.
 
@@ -2457,23 +1813,10 @@ the `VAX <./V.html#VAX.html>`__ and `PDP-11 <./P.html#PDP-11.html>`__,
 presumably because it was a storage space for fungible stuff that went
 in at the top and came out at the bottom.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------------------------------------+
-| `Prev <silly-walk.html>`__    | `Up <../S.html>`__         |  `Next <since-time-T-equals-minus-infinity.html>`__   |
-+-------------------------------+----------------------------+-------------------------------------------------------+
-| silly walk                    | `Home <../index.html>`__   |  since time T equals minus infinity                   |
-+-------------------------------+----------------------------+-------------------------------------------------------+
-
 since time T equals minus infinity
+========================================
 
-`Prev <silo.html>`__ 
-
-S
-
- `Next <sitename.html>`__
-
---------------
+ 
 
 **since time T equals minus infinity**: adv.
 
@@ -2481,24 +1824,11 @@ A long time ago; for as long as anyone can remember; at the time that
 some particular frob was first designed. Usually the word ‘time’ is
 omitted. See also `time T <./T.html#time-T.html>`__; contrast
 `epoch <./E.html#epoch.html>`__.
-
---------------
-
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <silo.html>`__    | `Up <../S.html>`__         |  `Next <sitename.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| silo                    | `Home <../index.html>`__   |  sitename                   |
-+-------------------------+----------------------------+-----------------------------+
+ 
 
 sitename
-
-`Prev <since-time-T-equals-minus-infinity.html>`__ 
-
-S
-
- `Next <skrog.html>`__
-
---------------
+================
+ 
 
 **sitename**: /si:t´naym/, n.
 
@@ -2518,67 +1848,32 @@ fantasy literature are probably the most popular sources for sitenames
 these is Harris's Lament: “All the good ones are taken!” See also
 `network address <./N.html#network-address.html>`__.
 
---------------
-
-+-------------------------------------------------------+----------------------------+--------------------------+
-| `Prev <since-time-T-equals-minus-infinity.html>`__    | `Up <../S.html>`__         |  `Next <skrog.html>`__   |
-+-------------------------------------------------------+----------------------------+--------------------------+
-| since time T equals minus infinity                    | `Home <../index.html>`__   |  skrog                   |
-+-------------------------------------------------------+----------------------------+--------------------------+
+ 
+ 
 
 skrog
-
-`Prev <sitename.html>`__ 
-
-S
-
- `Next <skulker.html>`__
-
---------------
+============
+ 
 
 **skrog**: v.
 
 Syn. `scrog <scrog.html>`__.
 
---------------
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <sitename.html>`__    | `Up <../S.html>`__         |  `Next <skulker.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| sitename                    | `Home <../index.html>`__   |  skulker                   |
-+-----------------------------+----------------------------+----------------------------+
 
 skulker
-
-`Prev <skrog.html>`__ 
-
-S
-
- `Next <slab.html>`__
-
---------------
+==============
+ 
 
 **skulker**: n.
 
 Syn. `prowler <./P.html#prowler.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <skrog.html>`__    | `Up <../S.html>`__         |  `Next <slab.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| skrog                    | `Home <../index.html>`__   |  slab                   |
-+--------------------------+----------------------------+-------------------------+
+ 
 
 slab
-
-`Prev <skulker.html>`__ 
-
-S
-
- `Next <slack.html>`__
-
---------------
+===========
+ 
 
 **slab**:
 
@@ -2590,23 +1885,12 @@ not with Bresenham's algorithm, but by calculating slab points for each
 scan line on the screen in succession, and then slabbing in the actual
 image pixels.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <skulker.html>`__    | `Up <../S.html>`__         |  `Next <slack.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| skulker                    | `Home <../index.html>`__   |  slack                   |
-+----------------------------+----------------------------+--------------------------+
+ 
+ 
 
 slack
-
-`Prev <slab.html>`__ 
-
-S
-
- `Next <slash.html>`__
-
---------------
+===============
+ 
 
 **slack**: n.
 
@@ -2622,23 +1906,11 @@ Since Unix files are stored compactly, except for the unavoidable
 wastage in the last block or fragment, it might be said that “Unix has
 no slack”. See `ha ha only serious <./H.html#ha-ha-only-serious.html>`__.
 
---------------
-
-+-------------------------+----------------------------+--------------------------+
-| `Prev <slab.html>`__    | `Up <../S.html>`__         |  `Next <slash.html>`__   |
-+-------------------------+----------------------------+--------------------------+
-| slab                    | `Home <../index.html>`__   |  slash                   |
-+-------------------------+----------------------------+--------------------------+
-
+ 
+ 
 slashdot effect
-
-`Prev <slash.html>`__ 
-
-S
-
- `Next <sleep.html>`__
-
---------------
+=========================
+ 
 
 **slashdot effect**: n.
 
@@ -2655,46 +1927,25 @@ would better be described as a `flash
 crowd <./F.html#flash-crowd.html>`__. Differs from a `DoS
 attack <./D.html#DoS-attack.html>`__ in being unintentional.
 
---------------
-
-+--------------------------+----------------------------+--------------------------+
-| `Prev <slash.html>`__    | `Up <../S.html>`__         |  `Next <sleep.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| slash                    | `Home <../index.html>`__   |  sleep                   |
-+--------------------------+----------------------------+--------------------------+
+ 
+ 
 
 slash
+==============
 
-`Prev <slack.html>`__ 
-
-S
-
- `Next <slashdot-effect.html>`__
-
---------------
+ 
 
 **slash**: n.
 
 Common name for the slant (‘/’, ASCII 0101111) character. See
 `ASCII <./A.html#ASCII.html>`__ for other synonyms.
 
---------------
-
-+--------------------------+----------------------------+------------------------------------+
-| `Prev <slack.html>`__    | `Up <../S.html>`__         |  `Next <slashdot-effect.html>`__   |
-+--------------------------+----------------------------+------------------------------------+
-| slack                    | `Home <../index.html>`__   |  slashdot effect                   |
-+--------------------------+----------------------------+------------------------------------+
+ 
+ 
 
 sleep
-
-`Prev <slashdot-effect.html>`__ 
-
-S
-
- `Next <slim.html>`__
-
---------------
+===============
+ 
 
 **sleep**: vi.
 
@@ -2710,45 +1961,23 @@ unspecified) external event: “They can't get the fix I've been asking
 for into the next release, so I'm going to sleep on it until the
 release, then start hassling them again.”
 
---------------
-
-+------------------------------------+----------------------------+-------------------------+
-| `Prev <slashdot-effect.html>`__    | `Up <../S.html>`__         |  `Next <slim.html>`__   |
-+------------------------------------+----------------------------+-------------------------+
-| slashdot effect                    | `Home <../index.html>`__   |  slim                   |
-+------------------------------------+----------------------------+-------------------------+
+ 
+ 
 
 slim
-
-`Prev <sleep.html>`__ 
-
-S
-
- `Next <slop.html>`__
-
---------------
+==================
+ 
 
 **slim**: n.
 
 A small, derivative change (e.g., to code).
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <sleep.html>`__    | `Up <../S.html>`__         |  `Next <slop.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| sleep                    | `Home <../index.html>`__   |  slop                   |
-+--------------------------+----------------------------+-------------------------+
+ 
+ 
 
 slop
-
-`Prev <slim.html>`__ 
-
-S
-
- `Next <slopsucker.html>`__
-
---------------
+============
+ 
 
 **slop**: n.
 
@@ -2772,23 +2001,12 @@ esp. on RISC machines, the compiler's slop may actually be *negative*;
 that is, humans may be unable to generate code as good. This is one of
 the reasons assembler programming is no longer common.
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <slim.html>`__    | `Up <../S.html>`__         |  `Next <slopsucker.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| slim                    | `Home <../index.html>`__   |  slopsucker                   |
-+-------------------------+----------------------------+-------------------------------+
+ 
+ 
 
 slopsucker
-
-`Prev <slop.html>`__ 
-
-S
-
- `Next <Slowlaris.html>`__
-
---------------
+==================
+ 
 
 **slopsucker**: /slop´suhk·r/, n.
 
@@ -2798,23 +2016,13 @@ idle is the task allowed to \`‘suck up the slop’. Also called a hungry
 puppy or bottom feeder. One common variety of slopsucker hunts for large
 prime numbers. Compare `background <./B.html#background.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <slop.html>`__    | `Up <../S.html>`__         |  `Next <Slowlaris.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| slop                    | `Home <../index.html>`__   |  Slowlaris                   |
-+-------------------------+----------------------------+------------------------------+
+ 
+ 
 
 Slowlaris
+==============
 
-`Prev <slopsucker.html>`__ 
-
-S
-
- `Next <slurp.html>`__
-
---------------
+ 
 
 **Slowlaris**: /slo'·lahr·is/, n.
 
@@ -2833,23 +2041,13 @@ still lose single-processor benchmarks to Sparc
 `Linux <./L.html#Linux.html>`__. Compare `HP-SUX <./H.html#HP-SUX.html>`__,
 `sun-stools <sun-stools.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------+
-| `Prev <slopsucker.html>`__    | `Up <../S.html>`__         |  `Next <slurp.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
-| slopsucker                    | `Home <../index.html>`__   |  slurp                   |
-+-------------------------------+----------------------------+--------------------------+
+ 
+ 
 
 slurp
+===========
 
-`Prev <Slowlaris.html>`__ 
-
-S
-
- `Next <slurp-the-robot.html>`__
-
---------------
+ 
 
 **slurp**: vt.
 
@@ -2859,45 +2057,20 @@ reading a small piece at a time, processing it, and then reading the
 next piece. “This program slurps in a 1K-by-1K matrix and does an FFT.”
 See also `sponge <sponge.html>`__.
 
---------------
-
-+------------------------------+----------------------------+------------------------------------+
-| `Prev <Slowlaris.html>`__    | `Up <../S.html>`__         |  `Next <slurp-the-robot.html>`__   |
-+------------------------------+----------------------------+------------------------------------+
-| Slowlaris                    | `Home <../index.html>`__   |  slurp the robot                   |
-+------------------------------+----------------------------+------------------------------------+
+ 
 
 slurp the robot
-
-`Prev <slurp.html>`__ 
-
-S
-
- `Next <smart.html>`__
-
---------------
+=================
 
 **slurp the robot**
 
 See `STR <STR.html>`__.
 
---------------
-
-+--------------------------+----------------------------+--------------------------+
-| `Prev <slurp.html>`__    | `Up <../S.html>`__         |  `Next <smart.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| slurp                    | `Home <../index.html>`__   |  smart                   |
-+--------------------------+----------------------------+--------------------------+
+ 
 
 smart
-
-`Prev <slurp-the-robot.html>`__ 
-
-S
-
- `Next <smart-terminal.html>`__
-
---------------
+==============
+ 
 
 **smart**: adj.
 
@@ -2910,23 +2083,12 @@ intelligent programs (yet — see
 `robust <./R.html#robust.html>`__ (smart programs can be
 `brittle <./B.html#brittle.html>`__).
 
---------------
+ 
 
-+------------------------------------+----------------------------+-----------------------------------+
-| `Prev <slurp-the-robot.html>`__    | `Up <../S.html>`__         |  `Next <smart-terminal.html>`__   |
-+------------------------------------+----------------------------+-----------------------------------+
-| slurp the robot                    | `Home <../index.html>`__   |  smart terminal                   |
-+------------------------------------+----------------------------+-----------------------------------+
 
 smart terminal
-
-`Prev <smart.html>`__ 
-
-S
-
- `Next <smash-case.html>`__
-
---------------
+==================
+ 
 
 **smart terminal**: n.
 
@@ -2955,23 +2117,11 @@ device in any way the designer didn't anticipate. Flexibility and
 programmability, on the other hand, are *really* smart. Compare
 `hook <./H.html#hook.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <smart.html>`__    | `Up <../S.html>`__         |  `Next <smash-case.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| smart                    | `Home <../index.html>`__   |  smash case                   |
-+--------------------------+----------------------------+-------------------------------+
+ 
 
 smash case
-
-`Prev <smart-terminal.html>`__ 
-
-S
-
- `Next <smash-the-stack.html>`__
-
---------------
+================
+ 
 
 **smash case**: vi.
 
@@ -2979,23 +2129,9 @@ To lose or obliterate the uppercase/lowercase distinction in text input.
 “MS-DOS will automatically smash case in the names of all the files you
 create.” Compare `fold case <./F.html#fold-case.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+------------------------------------+
-| `Prev <smart-terminal.html>`__    | `Up <../S.html>`__         |  `Next <smash-the-stack.html>`__   |
-+-----------------------------------+----------------------------+------------------------------------+
-| smart terminal                    | `Home <../index.html>`__   |  smash the stack                   |
-+-----------------------------------+----------------------------+------------------------------------+
 
 smash the stack
-
-`Prev <smash-case.html>`__ 
-
-S
-
- `Next <smiley.html>`__
-
---------------
+===================
 
 **smash the stack**: n.
 
@@ -3015,45 +2151,22 @@ smash <./M.html#memory-smash.html>`__, `precedence
 lossage <./P.html#precedence-lossage.html>`__, `overrun
 screw <./O.html#overrun-screw.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <smash-case.html>`__    | `Up <../S.html>`__         |  `Next <smiley.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| smash case                    | `Home <../index.html>`__   |  smiley                   |
-+-------------------------------+----------------------------+---------------------------+
+ 
+ 
 
 smiley
-
-`Prev <smash-the-stack.html>`__ 
-
-S
-
- `Next <smoke.html>`__
-
---------------
+===============
+ 
 
 **smiley**: n.
 
 See `emoticon <./E.html#emoticon.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+--------------------------+
-| `Prev <smash-the-stack.html>`__    | `Up <../S.html>`__         |  `Next <smoke.html>`__   |
-+------------------------------------+----------------------------+--------------------------+
-| smash the stack                    | `Home <../index.html>`__   |  smoke                   |
-+------------------------------------+----------------------------+--------------------------+
+ 
 
 smoke and mirrors
-
-`Prev <smoke.html>`__ 
-
-S
-
- `Next <smoke-test.html>`__
-
---------------
+=======================
+ 
 
 **smoke and mirrors**: n.
 
@@ -3071,24 +2184,11 @@ hearts of huge numbers of human sacrificial victims were regularly cut
 out. Upon hearing about a rigged demo or yet another round of
 fantasy-based marketing promises, hackers often feel analogously
 disheartened. See also `stealth manager <stealth-manager.html>`__.
-
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <smoke.html>`__    | `Up <../S.html>`__         |  `Next <smoke-test.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| smoke                    | `Home <../index.html>`__   |  smoke test                   |
-+--------------------------+----------------------------+-------------------------------+
+ 
 
 smoke
-
-`Prev <smiley.html>`__ 
-
-S
-
- `Next <smoke-and-mirrors.html>`__
-
---------------
+============
+ 
 
 **smoke**: vi.
 
@@ -3100,23 +2200,12 @@ it's merely colorful).
 2. [from automotive slang] To be conspicuously fast. “That processor
 really smokes.” Compare `magic smoke <./M.html#magic-smoke.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------------+
-| `Prev <smiley.html>`__    | `Up <../S.html>`__         |  `Next <smoke-and-mirrors.html>`__   |
-+---------------------------+----------------------------+--------------------------------------+
-| smiley                    | `Home <../index.html>`__   |  smoke and mirrors                   |
-+---------------------------+----------------------------+--------------------------------------+
+ 
+ 
 
 smoke test
-
-`Prev <smoke-and-mirrors.html>`__ 
-
-S
-
- `Next <smoking-clover.html>`__
-
---------------
+================
+ 
 
 **smoke test**: n.
 
@@ -3134,23 +2223,12 @@ and printers: When new typefaces are being punch-cut by hand, a smoke
 test (hold the letter in candle smoke, then press it onto paper) is used
 to check out new dies.
 
---------------
+ 
 
-+--------------------------------------+----------------------------+-----------------------------------+
-| `Prev <smoke-and-mirrors.html>`__    | `Up <../S.html>`__         |  `Next <smoking-clover.html>`__   |
-+--------------------------------------+----------------------------+-----------------------------------+
-| smoke and mirrors                    | `Home <../index.html>`__   |  smoking clover                   |
-+--------------------------------------+----------------------------+-----------------------------------+
 
 smoking clover
-
-`Prev <smoke-test.html>`__ 
-
-S
-
- `Next <smoot.html>`__
-
---------------
+================
+ 
 
 **smoking clover**: n.
 
@@ -3164,23 +2242,13 @@ rainbow-hued, shimmering four-leaf clover. Gosper joked about keeping it
 hidden from the FDA (the U.S.'s Food and Drug Administration) lest its
 hallucinogenic properties cause it to be banned.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------+
-| `Prev <smoke-test.html>`__    | `Up <../S.html>`__         |  `Next <smoot.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
-| smoke test                    | `Home <../index.html>`__   |  smoot                   |
-+-------------------------------+----------------------------+--------------------------+
+ 
+ 
 
 smoot
+============
 
-`Prev <smoking-clover.html>`__ 
-
-S
-
- `Next <SMOP.html>`__
-
---------------
+ 
 
 **smoot**: /smoot/, n.
 
@@ -3199,23 +2267,13 @@ life-long career; he eventually became Chairman of the Board of the
 American National Standards Institute, and later President of the
 International Organization for Standardization.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <smoking-clover.html>`__    | `Up <../S.html>`__         |  `Next <SMOP.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| smoking clover                    | `Home <../index.html>`__   |  SMOP                   |
-+-----------------------------------+----------------------------+-------------------------+
+ 
+ 
 
 SMOP
+==========
 
-`Prev <smoot.html>`__ 
-
-S
-
- `Next <smurf.html>`__
-
---------------
+ 
 
 **SMOP**: /S·M·O·P/, n.
 
@@ -3235,23 +2293,11 @@ program is made which seems easy to the suggester, but is obviously (to
 the victim) a lot of work. Compare `minor
 detail <./M.html#minor-detail.html>`__.
 
---------------
-
-+--------------------------+----------------------------+--------------------------+
-| `Prev <smoot.html>`__    | `Up <../S.html>`__         |  `Next <smurf.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| smoot                    | `Home <../index.html>`__   |  smurf                   |
-+--------------------------+----------------------------+--------------------------+
+ 
 
 smurf
-
-`Prev <SMOP.html>`__ 
-
-S
-
- `Next <SNAFU-principle.html>`__
-
---------------
+=============
+ 
 
 **smurf**: /smerf/, n.
 
@@ -3269,23 +2315,10 @@ network will send a ping response to the forged source address (the
 victim). This both overloads the victim's network and hides the location
 of the attacker.
 
---------------
-
-+-------------------------+----------------------------+------------------------------------+
-| `Prev <SMOP.html>`__    | `Up <../S.html>`__         |  `Next <SNAFU-principle.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
-| SMOP                    | `Home <../index.html>`__   |  SNAFU principle                   |
-+-------------------------+----------------------------+------------------------------------+
-
+ 
 SNAFU principle
-
-`Prev <smurf.html>`__ 
-
-S
-
- `Next <snail.html>`__
-
---------------
+=====================
+ 
 
 **SNAFU principle**: /sna´foo prin´si·pl/, n.
 
@@ -3353,46 +2386,24 @@ After the subsequent and inevitable disaster, the
 misinformed!”, and the implementors are demoted or fired. Compare
 `Conway's Law <./C.html#Conways-Law.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+--------------------------+
-| `Prev <smurf.html>`__    | `Up <../S.html>`__         |  `Next <snail.html>`__   |
-+--------------------------+----------------------------+--------------------------+
-| smurf                    | `Home <../index.html>`__   |  snail                   |
-+--------------------------+----------------------------+--------------------------+
+ 
 
 snail
-
-`Prev <SNAFU-principle.html>`__ 
-
-S
-
- `Next <snail-mail.html>`__
-
---------------
+============
+ 
 
 **snail**: vt.
 
 To `snail-mail <snail-mail.html>`__ something. “Snail me a copy of
 those graphics, will you?”
 
---------------
-
-+------------------------------------+----------------------------+-------------------------------+
-| `Prev <SNAFU-principle.html>`__    | `Up <../S.html>`__         |  `Next <snail-mail.html>`__   |
-+------------------------------------+----------------------------+-------------------------------+
-| SNAFU principle                    | `Home <../index.html>`__   |  snail-mail                   |
-+------------------------------------+----------------------------+-------------------------------+
+ 
 
 snail-mail
-
-`Prev <snail.html>`__ 
-
-S
-
- `Next <snap.html>`__
-
---------------
+================
+ 
 
 **snail-mail**: n.
 
@@ -3411,23 +2422,12 @@ biologically apt terms might be “sloth-mail” at 250 m/hr or
 `http://www.newscientist.com/lastword/answers/789communication.jsp?tp=communication <http://www.newscientist.com/lastword/answers/789communication.jsp?tp=communication>`__
 for details.)
 
---------------
-
-+--------------------------+----------------------------+-------------------------+
-| `Prev <snail.html>`__    | `Up <../S.html>`__         |  `Next <snap.html>`__   |
-+--------------------------+----------------------------+-------------------------+
-| snail                    | `Home <../index.html>`__   |  snap                   |
-+--------------------------+----------------------------+-------------------------+
+ 
+ 
 
 snap
-
-`Prev <snail-mail.html>`__ 
-
-S
-
- `Next <snarf.html>`__
-
---------------
+======
+ 
 
 **snap**: v.
 
@@ -3451,23 +2451,12 @@ is, and if the caller and the callee are both compiled, then snapping
 the link allows that particular path to use a direct procedure-call
 instruction with no further overhead.
 
---------------
+ 
 
-+-------------------------------+----------------------------+--------------------------+
-| `Prev <snail-mail.html>`__    | `Up <../S.html>`__         |  `Next <snarf.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
-| snail-mail                    | `Home <../index.html>`__   |  snarf                   |
-+-------------------------------+----------------------------+--------------------------+
+ 
 
 snarf & barf
-
-`Prev <snarf.html>`__ 
-
-S
-
- `Next <snarf-down.html>`__
-
---------------
+=================
 
 **snarf & barf**: /snarf´n·barf\`/, n.
 
@@ -3477,23 +2466,14 @@ into another region (or the same one) to avoid retyping a command line.
 In the late 1960s, this was a mainstream expression for an ‘eat now,
 regret it later’ cheap-restaurant expedition.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <snarf.html>`__    | `Up <../S.html>`__         |  `Next <snarf-down.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| snarf                    | `Home <../index.html>`__   |  snarf down                   |
-+--------------------------+----------------------------+-------------------------------+
+ 
 
 snarf down
+===============
 
-`Prev <snarf-ampersand-barf.html>`__ 
-
-S
-
- `Next <snark.html>`__
-
---------------
+ 
 
 **snarf down**: v.
 
@@ -3502,23 +2482,11 @@ processing, or understanding. “I'll snarf down the latest version of the
 `nethack <./N.html#nethack.html>`__ user's guide — it's been a while since
 I played last and I don't know what's changed recently.”
 
---------------
-
-+-----------------------------------------+----------------------------+--------------------------+
-| `Prev <snarf-ampersand-barf.html>`__    | `Up <../S.html>`__         |  `Next <snark.html>`__   |
-+-----------------------------------------+----------------------------+--------------------------+
-| snarf & barf                            | `Home <../index.html>`__   |  snark                   |
-+-----------------------------------------+----------------------------+--------------------------+
+ 
 
 snarf
-
-`Prev <snap.html>`__ 
-
-S
-
- `Next <snarf-ampersand-barf.html>`__
-
---------------
+==========
+ 
 
 **snarf**: /snarf/, vt.
 
@@ -3548,23 +2516,11 @@ snarf-proof my computer with a keyboard
 among mundane teenagers —ESR] The sound of snarfing is
 `splork! <splork-.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------------+
-| `Prev <snap.html>`__    | `Up <../S.html>`__         |  `Next <snarf-ampersand-barf.html>`__   |
-+-------------------------+----------------------------+-----------------------------------------+
-| snap                    | `Home <../index.html>`__   |  snarf & barf                           |
-+-------------------------+----------------------------+-----------------------------------------+
-
+ 
+ 
 snark
-
-`Prev <snarf-down.html>`__ 
-
-S
-
- `Next <sneaker.html>`__
-
---------------
+==========
+ 
 
 **snark**: n.
 
@@ -3581,23 +2537,11 @@ violation.
 3. UUCP name of "snark.thyrsus.com", home site of the Jargon File
 versions from 2.\*.\* on (i.e., this lexicon).
 
---------------
+ 
 
-+-------------------------------+----------------------------+----------------------------+
-| `Prev <snarf-down.html>`__    | `Up <../S.html>`__         |  `Next <sneaker.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
-| snarf down                    | `Home <../index.html>`__   |  sneaker                   |
-+-------------------------------+----------------------------+----------------------------+
 
 sneaker
-
-`Prev <snark.html>`__ 
-
-S
-
- `Next <sneakernet.html>`__
-
---------------
+============
 
 **sneaker**: n.
 
@@ -3605,23 +2549,12 @@ An individual hired to break into places in order to test their
 security; analogous to `tiger team <./T.html#tiger-team.html>`__. Compare
 `samurai <samurai.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <snark.html>`__    | `Up <../S.html>`__         |  `Next <sneakernet.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| snark                    | `Home <../index.html>`__   |  sneakernet                   |
-+--------------------------+----------------------------+-------------------------------+
+ 
 
 sneakernet
+=============
 
-`Prev <sneaker.html>`__ 
-
-S
-
- `Next <sniff.html>`__
-
---------------
+ 
 
 **sneakernet**: /snee´ker·net/, n.
 
@@ -3632,23 +2565,11 @@ wagon filled with magtape, or a 747 filled with CD-ROMs.” Also called
 ‘Tennis-Net’, ‘Armpit-Net’, ‘Floppy-Net’ or ‘Shoenet’; in the 1990s,
 ‘Nike network’ after a well-known sneaker brand.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <sneaker.html>`__    | `Up <../S.html>`__         |  `Next <sniff.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| sneaker                    | `Home <../index.html>`__   |  sniff                   |
-+----------------------------+----------------------------+--------------------------+
-
+ 
+ 
 sniff
-
-`Prev <sneakernet.html>`__ 
-
-S
-
- `Next <snippage.html>`__
-
---------------
+============
+ 
 
 **sniff**: v.,n.
 
@@ -3656,23 +2577,10 @@ S
 packet sniffer, a program for doing same. 2. Synonym for
 `poll <./P.html#poll.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <sneakernet.html>`__    | `Up <../S.html>`__         |  `Next <snippage.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| sneakernet                    | `Home <../index.html>`__   |  snippage                   |
-+-------------------------------+----------------------------+-----------------------------+
 
 snippage
-
-`Prev <sniff.html>`__ 
-
-S
-
- `Next <SO.html>`__
-
---------------
+===========
+ 
 
 **snippage**: n.
 
@@ -3680,46 +2588,22 @@ Synonym for `deletia <./D.html#deletia.html>`__; the fact that something
 has been snipped when quoting is often indicated with the pseudo-HTML
 <snip>.
 
---------------
-
-+--------------------------+----------------------------+-----------------------+
-| `Prev <sniff.html>`__    | `Up <../S.html>`__         |  `Next <SO.html>`__   |
-+--------------------------+----------------------------+-----------------------+
-| sniff                    | `Home <../index.html>`__   |  SO                   |
-+--------------------------+----------------------------+-----------------------+
+ 
 
 S/N ratio
-
-`Prev <../S.html>`__ 
-
-S
-
- `Next <sacred.html>`__
-
---------------
+==============
+ 
 
 **S/N ratio**: //, n.
 
 (also s/n ratio, s:n ratio). Syn. `signal-to-noise
 ratio <signal-to-noise-ratio.html>`__. Often abbreviated SNR.
 
---------------
-
-+-------------------------+----------------------------+---------------------------+
-| `Prev <../S.html>`__    | `Up <../S.html>`__         |  `Next <sacred.html>`__   |
-+-------------------------+----------------------------+---------------------------+
-| S                       | `Home <../index.html>`__   |  sacred                   |
-+-------------------------+----------------------------+---------------------------+
+ 
 
 social engineering
-
-`Prev <SO.html>`__ 
-
-S
-
- `Next <social-science-number.html>`__
-
---------------
+========================
+ 
 
 **social engineering**: n.
 
@@ -3734,23 +2618,11 @@ also the `tiger team <./T.html#tiger-team.html>`__ story in the
 `patch <./P.html#patch.html>`__ entry, and `rubber-hose
 cryptanalysis <./R.html#rubber-hose-cryptanalysis.html>`__.
 
---------------
-
-+-----------------------+----------------------------+------------------------------------------+
-| `Prev <SO.html>`__    | `Up <../S.html>`__         |  `Next <social-science-number.html>`__   |
-+-----------------------+----------------------------+------------------------------------------+
-| SO                    | `Home <../index.html>`__   |  social science number                   |
-+-----------------------+----------------------------+------------------------------------------+
-
+ 
+ 
 social science number
-
-`Prev <social-engineering.html>`__ 
-
-S
-
- `Next <sock-puppet.html>`__
-
---------------
+=========================
+ 
 
 **social science number**: n., //
 
@@ -3763,23 +2635,11 @@ loves them. See also `numbers <./N.html#numbers.html>`__,
 `math-out <./M.html#math-out.html>`__, `pretty
 pictures <./P.html#pretty-pictures.html>`__.
 
---------------
 
-+---------------------------------------+----------------------------+--------------------------------+
-| `Prev <social-engineering.html>`__    | `Up <../S.html>`__         |  `Next <sock-puppet.html>`__   |
-+---------------------------------------+----------------------------+--------------------------------+
-| social engineering                    | `Home <../index.html>`__   |  sock puppet                   |
-+---------------------------------------+----------------------------+--------------------------------+
 
 sock puppet
-
-`Prev <social-science-number.html>`__ 
-
-S
-
- `Next <sodium-substrate.html>`__
-
---------------
+===============
+ 
 
 **sock puppet**: n.
 
@@ -3791,90 +2651,43 @@ number of people support the views held in the original message. See
 also `astroturfing <./A.html#astroturfing.html>`__,
 `tentacle <./T.html#tentacle.html>`__.
 
---------------
+ 
 
-+------------------------------------------+----------------------------+-------------------------------------+
-| `Prev <social-science-number.html>`__    | `Up <../S.html>`__         |  `Next <sodium-substrate.html>`__   |
-+------------------------------------------+----------------------------+-------------------------------------+
-| social science number                    | `Home <../index.html>`__   |  sodium substrate                   |
-+------------------------------------------+----------------------------+-------------------------------------+
 
 sodium substrate
-
-`Prev <sock-puppet.html>`__ 
-
-S
-
- `Next <soft-boot.html>`__
-
---------------
+======================
+ 
 
 **sodium substrate**: n.
 
 Syn `salt substrate <salt-substrate.html>`__.
 
---------------
 
-+--------------------------------+----------------------------+------------------------------+
-| `Prev <sock-puppet.html>`__    | `Up <../S.html>`__         |  `Next <soft-boot.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
-| sock puppet                    | `Home <../index.html>`__   |  soft boot                   |
-+--------------------------------+----------------------------+------------------------------+
 
 soft boot
-
-`Prev <sodium-substrate.html>`__ 
-
-S
-
- `Next <softcopy.html>`__
-
---------------
+===================
+ 
 
 **soft boot**: n.
 
 See `boot <./B.html#boot.html>`__.
 
---------------
-
-+-------------------------------------+----------------------------+-----------------------------+
-| `Prev <sodium-substrate.html>`__    | `Up <../S.html>`__         |  `Next <softcopy.html>`__   |
-+-------------------------------------+----------------------------+-----------------------------+
-| sodium substrate                    | `Home <../index.html>`__   |  softcopy                   |
-+-------------------------------------+----------------------------+-----------------------------+
+ 
 
 softcopy
-
-`Prev <soft-boot.html>`__ 
-
-S
-
- `Next <software-bloat.html>`__
-
---------------
+===============
+ 
 
 **softcopy**: /soft´kop·ee/, n.
 
 [by analogy with hardcopy] A machine-readable form of corresponding
 hardcopy. See `bits <./B.html#bits.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------------+
-| `Prev <soft-boot.html>`__    | `Up <../S.html>`__         |  `Next <software-bloat.html>`__   |
-+------------------------------+----------------------------+-----------------------------------+
-| soft boot                    | `Home <../index.html>`__   |  software bloat                   |
-+------------------------------+----------------------------+-----------------------------------+
+ 
 
 software bloat
-
-`Prev <softcopy.html>`__ 
-
-S
-
- `Next <software-hoarding.html>`__
-
---------------
+====================
+ 
 
 **software bloat**: n.
 
@@ -3883,23 +2696,11 @@ The results of `second-system effect <second-system-effect.html>`__ or
 cited examples include ls(1), `X <./X.html#X.html>`__,
 `BSD <./B.html#BSD.html>`__, and `OS/2 <./O.html#OS-2.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+--------------------------------------+
-| `Prev <softcopy.html>`__    | `Up <../S.html>`__         |  `Next <software-hoarding.html>`__   |
-+-----------------------------+----------------------------+--------------------------------------+
-| softcopy                    | `Home <../index.html>`__   |  software hoarding                   |
-+-----------------------------+----------------------------+--------------------------------------+
+ 
 
 software hoarding
-
-`Prev <software-bloat.html>`__ 
-
-S
-
- `Next <software-laser.html>`__
-
---------------
+======================
+ 
 
 **software hoarding**: n.
 
@@ -3911,23 +2712,13 @@ Free Software Foundation propaganda. For a summary of related issues,
 see `GNU <./G.html#GNU.html>`__ and `free
 software <./F.html#free-software.html>`__.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+-----------------------------------+
-| `Prev <software-bloat.html>`__    | `Up <../S.html>`__         |  `Next <software-laser.html>`__   |
-+-----------------------------------+----------------------------+-----------------------------------+
-| software bloat                    | `Home <../index.html>`__   |  software laser                   |
-+-----------------------------------+----------------------------+-----------------------------------+
 
 software laser
+====================
 
-`Prev <software-hoarding.html>`__ 
-
-S
-
- `Next <software-rot.html>`__
-
---------------
+ 
 
 **software laser**: n.
 
@@ -3943,23 +2734,10 @@ results, with a `cascade <./C.html#cascade.html>`__ of messages escaping
 to flood nearby systems. By mid-1993 there had been at least two
 publicized incidents of this kind.
 
---------------
-
-+--------------------------------------+----------------------------+---------------------------------+
-| `Prev <software-hoarding.html>`__    | `Up <../S.html>`__         |  `Next <software-rot.html>`__   |
-+--------------------------------------+----------------------------+---------------------------------+
-| software hoarding                    | `Home <../index.html>`__   |  software rot                   |
-+--------------------------------------+----------------------------+---------------------------------+
+ 
 
 software rot
-
-`Prev <software-laser.html>`__ 
-
-S
-
- `Next <softwarily.html>`__
-
---------------
+=================
 
 **software rot**: n.
 
@@ -4001,23 +2779,11 @@ appropriately.
 
 Compare `bit rot <./B.html#bit-rot.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------------+
-| `Prev <software-laser.html>`__    | `Up <../S.html>`__         |  `Next <softwarily.html>`__   |
-+-----------------------------------+----------------------------+-------------------------------+
-| software laser                    | `Home <../index.html>`__   |  softwarily                   |
-+-----------------------------------+----------------------------+-------------------------------+
+ 
 
 softwarily
-
-`Prev <software-rot.html>`__ 
-
-S
-
- `Next <softy.html>`__
-
---------------
+=============
+ 
 
 **softwarily**: /soft·weir´i·lee/, adv.
 
@@ -4025,46 +2791,22 @@ In a way pertaining to software. “The system is softwarily unreliable.”
 The adjective \*\*‘softwary’ is *not* used. See
 `hardwarily <./H.html#hardwarily.html>`__.
 
---------------
-
-+---------------------------------+----------------------------+--------------------------+
-| `Prev <software-rot.html>`__    | `Up <../S.html>`__         |  `Next <softy.html>`__   |
-+---------------------------------+----------------------------+--------------------------+
-| software rot                    | `Home <../index.html>`__   |  softy                   |
-+---------------------------------+----------------------------+--------------------------+
+ 
+ 
 
 softy
-
-`Prev <softwarily.html>`__ 
-
-S
-
- `Next <some-random-X.html>`__
-
---------------
+===============
+ 
 
 **softy**: n.
 
 [IBM] Hardware hackers' term for a software expert who is largely
 ignorant of the mysteries of hardware.
 
---------------
-
-+-------------------------------+----------------------------+----------------------------------+
-| `Prev <softwarily.html>`__    | `Up <../S.html>`__         |  `Next <some-random-X.html>`__   |
-+-------------------------------+----------------------------+----------------------------------+
-| softwarily                    | `Home <../index.html>`__   |  some random X                   |
-+-------------------------------+----------------------------+----------------------------------+
+ 
 
 SO
-
-`Prev <snippage.html>`__ 
-
-S
-
- `Next <social-engineering.html>`__
-
---------------
+=======
 
 **SO**: /S·O/, n.
 
@@ -4077,23 +2819,12 @@ primary relationship, esp. a live-in to whom one is not married. See
 2. [techspeak] The Shift Out control character in ASCII (Control-N,
 0001110).
 
---------------
-
-+-----------------------------+----------------------------+---------------------------------------+
-| `Prev <snippage.html>`__    | `Up <../S.html>`__         |  `Next <social-engineering.html>`__   |
-+-----------------------------+----------------------------+---------------------------------------+
-| snippage                    | `Home <../index.html>`__   |  social engineering                   |
-+-----------------------------+----------------------------+---------------------------------------+
+ 
 
 some random X
+===================
 
-`Prev <softy.html>`__ 
-
-S
-
- `Next <sorcerers-apprentice-mode.html>`__
-
---------------
+ 
 
 **some random X**: adj.
 
@@ -4101,23 +2832,13 @@ Used to indicate a member of class X, with the implication that Xs are
 interchangeable. “I think some random cracker tripped over the guest
 timeout last night.” See also `J. Random <./J.html#J--Random.html>`__.
 
---------------
-
-+--------------------------+----------------------------+----------------------------------------------+
-| `Prev <softy.html>`__    | `Up <../S.html>`__         |  `Next <sorcerers-apprentice-mode.html>`__   |
-+--------------------------+----------------------------+----------------------------------------------+
-| softy                    | `Home <../index.html>`__   |  sorcerer's apprentice mode                  |
-+--------------------------+----------------------------+----------------------------------------------+
+ 
+ 
 
 sorcerer's apprentice mode
+=================================
 
-`Prev <some-random-X.html>`__ 
-
-S
-
- `Next <source.html>`__
-
---------------
+ 
 
 **sorcerer's apprentice mode**: n.
 
@@ -4131,23 +2852,12 @@ storm <./B.html#broadcast-storm.html>`__, `network
 meltdown <./N.html#network-meltdown.html>`__, `software
 laser <software-laser.html>`__, `ARMM <./A.html#ARMM.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+---------------------------+
-| `Prev <some-random-X.html>`__    | `Up <../S.html>`__         |  `Next <source.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
-| some random X                    | `Home <../index.html>`__   |  source                   |
-+----------------------------------+----------------------------+---------------------------+
+ 
+ 
 
 source
-
-`Prev <sorcerers-apprentice-mode.html>`__ 
-
-S
-
- `Next <source-of-all-good-bits.html>`__
-
---------------
+==============
+ 
 
 **source**: n.
 
@@ -4158,23 +2868,12 @@ binary executable form of a program. This shorthand readily takes
 derivative forms; one may speak of “the sources of a system” or of
 “having source”.
 
---------------
+ 
 
-+----------------------------------------------+----------------------------+--------------------------------------------+
-| `Prev <sorcerers-apprentice-mode.html>`__    | `Up <../S.html>`__         |  `Next <source-of-all-good-bits.html>`__   |
-+----------------------------------------------+----------------------------+--------------------------------------------+
-| sorcerer's apprentice mode                   | `Home <../index.html>`__   |  source of all good bits                   |
-+----------------------------------------------+----------------------------+--------------------------------------------+
 
 source of all good bits
-
-`Prev <source.html>`__ 
-
-S
-
- `Next <space-cadet-keyboard.html>`__
-
---------------
+===============================
+ 
 
 **source of all good bits**: n.
 
@@ -4183,23 +2882,11 @@ obtained. If you need to know about a program, a
 `guru <./G.html#guru.html>`__ might be the source of all good bits. The
 title is often applied to a particularly competent secretary.
 
---------------
-
-+---------------------------+----------------------------+-----------------------------------------+
-| `Prev <source.html>`__    | `Up <../S.html>`__         |  `Next <space-cadet-keyboard.html>`__   |
-+---------------------------+----------------------------+-----------------------------------------+
-| source                    | `Home <../index.html>`__   |  space-cadet keyboard                   |
-+---------------------------+----------------------------+-----------------------------------------+
+ 
 
 space-cadet keyboard
-
-`Prev <source-of-all-good-bits.html>`__ 
-
-S
-
- `Next <spaceship-operator.html>`__
-
---------------
+==============================
+ 
 
 **space-cadet keyboard**: n.
 
@@ -4216,17 +2903,17 @@ the front. By pressing this key with the right hand while playing an
 appropriate ‘chord’ with the left hand on the shift keys, you could get
 the following results:
 
-+-----------------+-----------------------------------+
++ ---+  -------+
 | L               | lowercase l                       |
-+-----------------+-----------------------------------+
++ ---+  -------+
 | shift-L         | uppercase L                       |
-+-----------------+-----------------------------------+
++ ---+  -------+
 | front-L         | λ                                 |
-+-----------------+-----------------------------------+
++ ---+  -------+
 | front-shift-L   | Λ                                 |
-+-----------------+-----------------------------------+
++ ---+  -------+
 | top-L           | ⇔ (front and shift are ignored)   |
-+-----------------+-----------------------------------+
++ ---+  -------+
 
 And of course each of these might also be typed with any combination of
 the control, meta, hyper, and super keys. On this keyboard, you could
@@ -4269,25 +2956,14 @@ An early `space-cadet keyboard <space-cadet-keyboard.html>`__
 `73-05-20 <./D.html#drop-outs.html#crunchly73-05-20>`__. The previous one is
 `73-05-18 <./M.html#math-out.html#crunchly73-05-18>`__.)
 
---------------
+ 
 
-+--------------------------------------------+----------------------------+---------------------------------------+
-| `Prev <source-of-all-good-bits.html>`__    | `Up <../S.html>`__         |  `Next <spaceship-operator.html>`__   |
-+--------------------------------------------+----------------------------+---------------------------------------+
-| source of all good bits                    | `Home <../index.html>`__   |  spaceship operator                   |
-+--------------------------------------------+----------------------------+---------------------------------------+
 
 .. |image0| image:: ../_static/symbolics-keyboard.jpg
 .. |image1| image:: ../_static/73-05-19.png
 spaceship operator
-
-`Prev <space-cadet-keyboard.html>`__ 
-
-S
-
- `Next <SPACEWAR.html>`__
-
---------------
+=========================
+ 
 
 **spaceship operator**: n.
 
@@ -4296,23 +2972,11 @@ constant-width font used on many terminals it vaguely resembles a flying
 saucer. `Perl <./P.html#Perl.html>`__ uses this to denote the
 signum-of-difference operation.
 
---------------
+ 
 
-+-----------------------------------------+----------------------------+-----------------------------+
-| `Prev <space-cadet-keyboard.html>`__    | `Up <../S.html>`__         |  `Next <SPACEWAR.html>`__   |
-+-----------------------------------------+----------------------------+-----------------------------+
-| space-cadet keyboard                    | `Home <../index.html>`__   |  SPACEWAR                   |
-+-----------------------------------------+----------------------------+-----------------------------+
 
 SPACEWAR
-
-`Prev <spaceship-operator.html>`__ 
-
-S
-
- `Next <spaghetti-code.html>`__
-
---------------
+================
 
 **SPACEWAR**: n.
 
@@ -4326,23 +2990,12 @@ time on a scavenged PDP-7, the operating system that became
 was commercialized as one of the first video games; descendants are
 still `feep <./F.html#feep.html>`__\ ing in video arcades everywhere.
 
---------------
-
-+---------------------------------------+----------------------------+-----------------------------------+
-| `Prev <spaceship-operator.html>`__    | `Up <../S.html>`__         |  `Next <spaghetti-code.html>`__   |
-+---------------------------------------+----------------------------+-----------------------------------+
-| spaceship operator                    | `Home <../index.html>`__   |  spaghetti code                   |
-+---------------------------------------+----------------------------+-----------------------------------+
+ 
 
 spaghetti code
+=====================
 
-`Prev <SPACEWAR.html>`__ 
-
-S
-
- `Next <spaghetti-inheritance.html>`__
-
---------------
+ 
 
 **spaghetti code**: n.
 
@@ -4351,23 +3004,10 @@ GOTOs, exceptions, or other ‘unstructured’ branching constructs.
 Pejorative. The synonym kangaroo code has been reported, doubtless
 because such code has so many jumps in it.
 
---------------
-
-+-----------------------------+----------------------------+------------------------------------------+
-| `Prev <SPACEWAR.html>`__    | `Up <../S.html>`__         |  `Next <spaghetti-inheritance.html>`__   |
-+-----------------------------+----------------------------+------------------------------------------+
-| SPACEWAR                    | `Home <../index.html>`__   |  spaghetti inheritance                   |
-+-----------------------------+----------------------------+------------------------------------------+
 
 spaghetti inheritance
-
-`Prev <spaghetti-code.html>`__ 
-
-S
-
- `Next <spam.html>`__
-
---------------
+=============================
+ 
 
 **spaghetti inheritance**: n.
 
@@ -4378,23 +3018,11 @@ for the sake of reusing their code. Coined in a (successful) attempt to
 discourage such practice, through guilt-by-association with `spaghetti
 code <spaghetti-code.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <spaghetti-code.html>`__    | `Up <../S.html>`__         |  `Next <spam.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| spaghetti code                    | `Home <../index.html>`__   |  spam                   |
-+-----------------------------------+----------------------------+-------------------------+
-
+ 
+ 
 spam bait
-
-`Prev <spam.html>`__ 
-
-S
-
- `Next <spamblock.html>`__
-
---------------
+=================
+ 
 
 **spam bait**: n.
 
@@ -4406,23 +3034,12 @@ are included so that a spammer will spam an official, thereby causing
 himself trouble. One particularly effective form of spam bait is the
 address of a `teergrube <./T.html#teergrube.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <spam.html>`__    | `Up <../S.html>`__         |  `Next <spamblock.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| spam                    | `Home <../index.html>`__   |  spamblock                   |
-+-------------------------+----------------------------+------------------------------+
+ 
+ 
 
 spamblock
-
-`Prev <spam-bait.html>`__ 
-
-S
-
- `Next <spamhaus.html>`__
-
---------------
+==================
+ 
 
 **spamblock**: /spam´blok/, n.
 
@@ -4445,23 +3062,10 @@ lines. Therefore the only people who can be protected are third parties
 mentioned by email address in the message — not a common enough case to
 interest spammers.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <spam-bait.html>`__    | `Up <../S.html>`__         |  `Next <spamhaus.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| spam bait                    | `Home <../index.html>`__   |  spamhaus                   |
-+------------------------------+----------------------------+-----------------------------+
 
 spamhaus
-
-`Prev <spamblock.html>`__ 
-
-S
-
- `Next <spamvertize.html>`__
-
---------------
+==============
+ 
 
 **spamhaus**: spam´hows, n.
 
@@ -4481,23 +3085,11 @@ using `relay rape <./R.html#relay-rape.html>`__ and `throwaway
 account <./T.html#throwaway-account.html>`__\ s on reputable ISPs seem to
 account for most of the flow.
 
---------------
 
-+------------------------------+----------------------------+--------------------------------+
-| `Prev <spamblock.html>`__    | `Up <../S.html>`__         |  `Next <spamvertize.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
-| spamblock                    | `Home <../index.html>`__   |  spamvertize                   |
-+------------------------------+----------------------------+--------------------------------+
 
 spam
-
-`Prev <spaghetti-inheritance.html>`__ 
-
-S
-
- `Next <spam-bait.html>`__
-
---------------
+=======
+ 
 
 **spam**: vt.,vi.,n.
 
@@ -4551,45 +3143,23 @@ you dump cans of Spam into a revolving fan. Hormel, the makers of Spam,
 have published a surprisingly enlightened `position
 statement <http://www.spam.com/ci/ci_in.htm>`__ on the Internet usage.
 
---------------
+ 
 
-+------------------------------------------+----------------------------+------------------------------+
-| `Prev <spaghetti-inheritance.html>`__    | `Up <../S.html>`__         |  `Next <spam-bait.html>`__   |
-+------------------------------------------+----------------------------+------------------------------+
-| spaghetti inheritance                    | `Home <../index.html>`__   |  spam bait                   |
-+------------------------------------------+----------------------------+------------------------------+
 
 spamvertize
-
-`Prev <spamhaus.html>`__ 
-
-S
-
- `Next <spangle.html>`__
-
---------------
+==============
+ 
 
 **spamvertize**: v.
 
 To advertise using `spam <spam.html>`__. Pejorative.
 
---------------
+ 
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <spamhaus.html>`__    | `Up <../S.html>`__         |  `Next <spangle.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| spamhaus                    | `Home <../index.html>`__   |  spangle                   |
-+-----------------------------+----------------------------+----------------------------+
 
 spangle
-
-`Prev <spamvertize.html>`__ 
-
-S
-
- `Next <spawn.html>`__
-
---------------
+================
+ 
 
 **spangle**: n.
 
@@ -4597,23 +3167,11 @@ S
 whistles <./B.html#bells-and-whistles.html>`__. See also
 `spungle <spungle.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+--------------------------+
-| `Prev <spamvertize.html>`__    | `Up <../S.html>`__         |  `Next <spawn.html>`__   |
-+--------------------------------+----------------------------+--------------------------+
-| spamvertize                    | `Home <../index.html>`__   |  spawn                   |
-+--------------------------------+----------------------------+--------------------------+
+ 
 
 spawn
-
-`Prev <spangle.html>`__ 
-
-S
-
- `Next <special-case.html>`__
-
---------------
+============
+ 
 
 **spawn**: n.,vi.
 
@@ -4626,23 +3184,12 @@ traditional heavyweight processes.
 comes to life (or re-spawns) after being killed. Opposite of
 `frag <./F.html#frag.html>`__.
 
---------------
-
-+----------------------------+----------------------------+---------------------------------+
-| `Prev <spangle.html>`__    | `Up <../S.html>`__         |  `Next <special-case.html>`__   |
-+----------------------------+----------------------------+---------------------------------+
-| spangle                    | `Home <../index.html>`__   |  special-case                   |
-+----------------------------+----------------------------+---------------------------------+
+ 
 
 special-case
+================_
 
-`Prev <spawn.html>`__ 
-
-S
-
- `Next <speed-of-light.html>`__
-
---------------
+ 
 
 **special-case**: vt.
 
@@ -4654,23 +3201,13 @@ commands), or for processing of `hidden
 flag <./H.html#hidden-flag.html>`__\ s in the input of a batch program or
 `filter <./F.html#filter.html>`__.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------------+
-| `Prev <spawn.html>`__    | `Up <../S.html>`__         |  `Next <speed-of-light.html>`__   |
-+--------------------------+----------------------------+-----------------------------------+
-| spawn                    | `Home <../index.html>`__   |  speed of light                   |
-+--------------------------+----------------------------+-----------------------------------+
+ 
+ 
 
 speed of light
+===================
 
-`Prev <special-case.html>`__ 
-
-S
-
- `Next <speedometer.html>`__
-
---------------
+ 
 
 **speed of light**
 
@@ -4681,23 +3218,11 @@ processing whatsoever, so that's the speed of light.” However, as one
 brilliant hacker once commented: “Remember that the speed of light only
 is constant if you can't redesign the universe.”
 
---------------
-
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <special-case.html>`__    | `Up <../S.html>`__         |  `Next <speedometer.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| special-case                    | `Home <../index.html>`__   |  speedometer                   |
-+---------------------------------+----------------------------+--------------------------------+
+ 
 
 speedometer
-
-`Prev <speed-of-light.html>`__ 
-
-S
-
- `Next <spell.html>`__
-
---------------
+==================
+ 
 
 **speedometer**: n.
 
@@ -4714,45 +3239,24 @@ Historical note: One computer, the GE 600 (later Honeywell 6000)
 actually had an *analog* speedometer on the front panel, calibrated in
 instructions executed per second.
 
---------------
-
-+-----------------------------------+----------------------------+--------------------------+
-| `Prev <speed-of-light.html>`__    | `Up <../S.html>`__         |  `Next <spell.html>`__   |
-+-----------------------------------+----------------------------+--------------------------+
-| speed of light                    | `Home <../index.html>`__   |  spell                   |
-+-----------------------------------+----------------------------+--------------------------+
+ 
+ 
 
 spell
-
-`Prev <speedometer.html>`__ 
-
-S
-
- `Next <spelling-flame.html>`__
-
---------------
+==========
+ 
 
 **spell**: n.
 
 Syn. `incantation <./I.html#incantation.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-----------------------------------+
-| `Prev <speedometer.html>`__    | `Up <../S.html>`__         |  `Next <spelling-flame.html>`__   |
-+--------------------------------+----------------------------+-----------------------------------+
-| speedometer                    | `Home <../index.html>`__   |  spelling flame                   |
-+--------------------------------+----------------------------+-----------------------------------+
 
 spelling flame
+======================
 
-`Prev <spell.html>`__ 
-
-S
-
- `Next <spider.html>`__
-
---------------
+ 
 
 **spelling flame**: n.
 
@@ -4764,23 +3268,11 @@ who are more than usually slovenly spellers are prone to think *any*
 correction is a spelling flame. It's an amusing comment on human nature
 that spelling flames themselves often contain spelling errors.
 
---------------
-
-+--------------------------+----------------------------+---------------------------+
-| `Prev <spell.html>`__    | `Up <../S.html>`__         |  `Next <spider.html>`__   |
-+--------------------------+----------------------------+---------------------------+
-| spell                    | `Home <../index.html>`__   |  spider                   |
-+--------------------------+----------------------------+---------------------------+
-
+ 
 spider food
+===============
 
-`Prev <spider.html>`__ 
-
-S
-
- `Next <spiffy.html>`__
-
---------------
+ 
 
 **spider food**: n.
 
@@ -4791,24 +3283,11 @@ entries to a search engine query. There are right and wrong ways to do
 this; the right way is a discreet ‘meta keywords’ tag, the wrong way is
 to embed many repeats of a keyword in comments (and many search engines
 now detect and ignore the latter).
-
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <spider.html>`__    | `Up <../S.html>`__         |  `Next <spiffy.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| spider                    | `Home <../index.html>`__   |  spiffy                   |
-+---------------------------+----------------------------+---------------------------+
+ 
 
 spider
-
-`Prev <spelling-flame.html>`__ 
-
-S
-
- `Next <spider-food.html>`__
-
---------------
+===========
+ 
 
 **spider**
 
@@ -4817,23 +3296,13 @@ in the search engine's database. Also called a
 `bot <./B.html#bot.html>`__. The best-known spider is Scooter, the
 web-walker for the Alta Vista search engine.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+--------------------------------+
-| `Prev <spelling-flame.html>`__    | `Up <../S.html>`__         |  `Next <spider-food.html>`__   |
-+-----------------------------------+----------------------------+--------------------------------+
-| spelling flame                    | `Home <../index.html>`__   |  spider food                   |
-+-----------------------------------+----------------------------+--------------------------------+
 
 spiffy
+====================
 
-`Prev <spider-food.html>`__ 
-
-S
-
- `Next <spike.html>`__
-
---------------
+ 
 
 **spiffy**: /spi´fee/, adj.
 
@@ -4846,23 +3315,10 @@ than a flashy interface going for it. Which meaning should be drawn
 depends delicately on tone of voice and context. This word was common
 mainstream slang during the 1940s, in a sense close to 1.
 
---------------
-
-+--------------------------------+----------------------------+--------------------------+
-| `Prev <spider-food.html>`__    | `Up <../S.html>`__         |  `Next <spike.html>`__   |
-+--------------------------------+----------------------------+--------------------------+
-| spider food                    | `Home <../index.html>`__   |  spike                   |
-+--------------------------------+----------------------------+--------------------------+
+  
 
 spike
-
-`Prev <spiffy.html>`__ 
-
-S
-
- `Next <spin.html>`__
-
---------------
+==============
 
 **spike**: v.
 
@@ -4881,23 +3337,11 @@ on a logical line in a circuit). Hackers frequently use this for a
 sudden short increase in some quantity such as system load or network
 traffic.
 
---------------
-
-+---------------------------+----------------------------+-------------------------+
-| `Prev <spiffy.html>`__    | `Up <../S.html>`__         |  `Next <spin.html>`__   |
-+---------------------------+----------------------------+-------------------------+
-| spiffy                    | `Home <../index.html>`__   |  spin                   |
-+---------------------------+----------------------------+-------------------------+
+  
 
 spin
-
-`Prev <spike.html>`__ 
-
-S
-
- `Next <Spinning-Pizza-of-Death.html>`__
-
---------------
+=======
+ 
 
 **spin**: vi.
 
@@ -4905,23 +3349,11 @@ Equivalent to `buzz <./B.html#buzz.html>`__. More common among C and Unix
 programmers. See the discussion of ‘spinlock’ under
 `busy-wait <./B.html#busy-wait.html>`__.
 
---------------
-
-+--------------------------+----------------------------+--------------------------------------------+
-| `Prev <spike.html>`__    | `Up <../S.html>`__         |  `Next <Spinning-Pizza-of-Death.html>`__   |
-+--------------------------+----------------------------+--------------------------------------------+
-| spike                    | `Home <../index.html>`__   |  Spinning Pizza of Death                   |
-+--------------------------+----------------------------+--------------------------------------------+
-
+ 
+ 
 Spinning Pizza of Death
-
-`Prev <spin.html>`__ 
-
-S
-
- `Next <spl.html>`__
-
---------------
+==========================
+ 
 
 **Spinning Pizza of Death**: n.
 
@@ -4931,45 +3363,22 @@ thingy. It was analogous to the Microsoft Windows hourglass, but OS X
 10.0's legendary slowness under the Aqua toolkit made this term rather
 more evocative. See `Death, X of <./D.html#Death--X-of.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------+
-| `Prev <spin.html>`__    | `Up <../S.html>`__         |  `Next <spl.html>`__   |
-+-------------------------+----------------------------+------------------------+
-| spin                    | `Home <../index.html>`__   |  spl                   |
-+-------------------------+----------------------------+------------------------+
+  
 
 splash screen
-
-`Prev <spl.html>`__ 
-
-S
-
- `Next <splat.html>`__
-
---------------
+==================
+ 
 
 **splash screen**: n.
 
 [Mac users] Syn. `banner <./B.html#banner.html>`__, sense 3.
 
---------------
-
-+------------------------+----------------------------+--------------------------+
-| `Prev <spl.html>`__    | `Up <../S.html>`__         |  `Next <splat.html>`__   |
-+------------------------+----------------------------+--------------------------+
-| spl                    | `Home <../index.html>`__   |  splat                   |
-+------------------------+----------------------------+--------------------------+
+ 
+ 
 
 splat
-
-`Prev <splash-screen.html>`__ 
-
-S
-
- `Next <splat-out.html>`__
-
---------------
+============
+ 
 
 **splat**: n.
 
@@ -4991,23 +3400,13 @@ product.
 5. obs. Name for the semi-mythical Stanford extended ASCII ⊕ character.
 See also `ASCII <./A.html#ASCII.html>`__.
 
---------------
+ 
 
-+----------------------------------+----------------------------+------------------------------+
-| `Prev <splash-screen.html>`__    | `Up <../S.html>`__         |  `Next <splat-out.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
-| splash screen                    | `Home <../index.html>`__   |  splat out                   |
-+----------------------------------+----------------------------+------------------------------+
 
 splat out
+=================
 
-`Prev <splat.html>`__ 
-
-S
-
- `Next <splork-.html>`__
-
---------------
+ 
 
 **splat out**: v.
 
@@ -5021,23 +3420,11 @@ so that no flamewar ensues. Words often splatted out include N\*z\* (see
 fundamentalists might be lurking), \*b\*rt\*\*n, and g\*n c\*ntr\*l.
 Compare `UN\*X <./U.html#UN-asterisk-X.html>`__.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <splat.html>`__    | `Up <../S.html>`__         |  `Next <splork-.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| splat                    | `Home <../index.html>`__   |  splork!                   |
-+--------------------------+----------------------------+----------------------------+
+ 
+ 
 
 spl
-
-`Prev <Spinning-Pizza-of-Death.html>`__ 
-
-S
-
- `Next <splash-screen.html>`__
-
---------------
+=========
 
 **spl**: /S·P·L/
 
@@ -5049,23 +3436,8 @@ today” would mean that he is very hard to interrupt. “Wait till I finish
 this; I'll spl down then.” See also `interrupts locked
 out <./I.html#interrupts-locked-out.html>`__.
 
---------------
-
-+--------------------------------------------+----------------------------+----------------------------------+
-| `Prev <Spinning-Pizza-of-Death.html>`__    | `Up <../S.html>`__         |  `Next <splash-screen.html>`__   |
-+--------------------------------------------+----------------------------+----------------------------------+
-| Spinning Pizza of Death                    | `Home <../index.html>`__   |  splash screen                   |
-+--------------------------------------------+----------------------------+----------------------------------+
-
 splork!
-
-`Prev <splat-out.html>`__ 
-
-S
-
- `Next <spod.html>`__
-
---------------
+================
 
 **splork!**
 
@@ -5074,23 +3446,11 @@ monitor and/or keyboard after being forced out of the mouth via the
 nose. It usually follows an unexpectedly funny thing in a Usenet post.
 Compare `snarf <snarf.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <splat-out.html>`__    | `Up <../S.html>`__         |  `Next <spod.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| splat out                    | `Home <../index.html>`__   |  spod                   |
-+------------------------------+----------------------------+-------------------------+
-
+ 
+ 
 spod
-
-`Prev <splork-.html>`__ 
-
-S
-
- `Next <spoiler.html>`__
-
---------------
+===========
+ 
 
 **spod**: n.
 
@@ -5136,23 +3496,11 @@ much time on talker systems.
 the meaning with which the term was coined, but the inventor informs us
 he has himself accepted sense 1.
 
---------------
-
-+----------------------------+----------------------------+----------------------------+
-| `Prev <splork-.html>`__    | `Up <../S.html>`__         |  `Next <spoiler.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| splork!                    | `Home <../index.html>`__   |  spoiler                   |
-+----------------------------+----------------------------+----------------------------+
+ 
 
 spoiler
-
-`Prev <spod.html>`__ 
-
-S
-
- `Next <spoiler-space.html>`__
-
---------------
+==========
+ 
 
 **spoiler**: n.
 
@@ -5175,23 +3523,11 @@ of warning, or conceal the sensitive information via
 `rot13 <./R.html#rot13.html>`__, `spoiler space <spoiler-space.html>`__
 or some combination of these techniques.
 
---------------
-
-+-------------------------+----------------------------+----------------------------------+
-| `Prev <spod.html>`__    | `Up <../S.html>`__         |  `Next <spoiler-space.html>`__   |
-+-------------------------+----------------------------+----------------------------------+
-| spod                    | `Home <../index.html>`__   |  spoiler space                   |
-+-------------------------+----------------------------+----------------------------------+
+ 
+ 
 
 spoiler space
-
-`Prev <spoiler.html>`__ 
-
-S
-
- `Next <sponge.html>`__
-
---------------
+================
 
 **spoiler space**
 
@@ -5202,23 +3538,10 @@ seen without hitting a key. Formfeeds used to be used for this, but are
 now rare because so many people read news through Web interfaces on
 which they have no good interpretation.
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <spoiler.html>`__    | `Up <../S.html>`__         |  `Next <sponge.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| spoiler                    | `Home <../index.html>`__   |  sponge                   |
-+----------------------------+----------------------------+---------------------------+
+ 
 
 sponge
-
-`Prev <spoiler-space.html>`__ 
-
-S
-
- `Next <spoof.html>`__
-
---------------
+============
 
 **sponge**: n.
 
@@ -5230,23 +3553,13 @@ versioning (as ITS did and VMS does now) the sponge/filter distinction
 loses its usefulness, because directing filter output would just write a
 new version. See also `slurp <slurp.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+--------------------------+
-| `Prev <spoiler-space.html>`__    | `Up <../S.html>`__         |  `Next <spoof.html>`__   |
-+----------------------------------+----------------------------+--------------------------+
-| spoiler space                    | `Home <../index.html>`__   |  spoof                   |
-+----------------------------------+----------------------------+--------------------------+
+ 
+ 
 
 spoof
+==============
 
-`Prev <sponge.html>`__ 
-
-S
-
- `Next <spool.html>`__
-
---------------
+ 
 
 **spoof**: vi.
 
@@ -5258,23 +3571,12 @@ widespread and is borderline techspeak. Interestingly, it was already in
 use in its modern sense more than a century ago among Victorian
 telegraphers; it shows up in Kipling.
 
---------------
-
-+---------------------------+----------------------------+--------------------------+
-| `Prev <sponge.html>`__    | `Up <../S.html>`__         |  `Next <spool.html>`__   |
-+---------------------------+----------------------------+--------------------------+
-| sponge                    | `Home <../index.html>`__   |  spool                   |
-+---------------------------+----------------------------+--------------------------+
+ 
+ 
 
 spool file
-
-`Prev <spool.html>`__ 
-
-S
-
- `Next <sporgery.html>`__
-
---------------
+===============
+ 
 
 **spool file**: n.
 
@@ -5286,23 +3588,12 @@ copied to a spool file to await a transport
 `demon <./D.html#demon.html>`__'s attentions. This is borderline
 techspeak.
 
---------------
-
-+--------------------------+----------------------------+-----------------------------+
-| `Prev <spool.html>`__    | `Up <../S.html>`__         |  `Next <sporgery.html>`__   |
-+--------------------------+----------------------------+-----------------------------+
-| spool                    | `Home <../index.html>`__   |  sporgery                   |
-+--------------------------+----------------------------+-----------------------------+
+ 
 
 spool
+==============
 
-`Prev <spoof.html>`__ 
-
-S
-
- `Next <spool-file.html>`__
-
---------------
+ 
 
 **spool**: vi.
 
@@ -5315,23 +3606,13 @@ has been used in connection with other peripherals (especially plotters
 and graphics devices) and occasionally even for input devices. See also
 `demon <./D.html#demon.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------------+
-| `Prev <spoof.html>`__    | `Up <../S.html>`__         |  `Next <spool-file.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
-| spoof                    | `Home <../index.html>`__   |  spool file                   |
-+--------------------------+----------------------------+-------------------------------+
+ 
 
 sporgery
-
-`Prev <spool-file.html>`__ 
-
-S
-
- `Next <sport-death.html>`__
-
---------------
+===============
+ 
 
 **sporgery**
 
@@ -5343,23 +3624,11 @@ notoriously used by the Church of Scientology to disrupt discussion on
 the newsgroup "alt.religion.scientology", but is unfortunately not by
 any means confined to that group.
 
---------------
-
-+-------------------------------+----------------------------+--------------------------------+
-| `Prev <spool-file.html>`__    | `Up <../S.html>`__         |  `Next <sport-death.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
-| spool file                    | `Home <../index.html>`__   |  sport death                   |
-+-------------------------------+----------------------------+--------------------------------+
+ 
 
 sport death
-
-`Prev <sporgery.html>`__ 
-
-S
-
- `Next <spungle.html>`__
-
---------------
+=================
+ 
 
 **sport death**: n.
 
@@ -5369,23 +3638,12 @@ support the mind. Then, once your extremes are reached, you push as far
 beyond that point as you can, far beyond normal notions of all-nighters
 and caffeine diets.
 
---------------
-
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <sporgery.html>`__    | `Up <../S.html>`__         |  `Next <spungle.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| sporgery                    | `Home <../index.html>`__   |  spungle                   |
-+-----------------------------+----------------------------+----------------------------+
+ 
 
 spungle
+==========
 
-`Prev <sport-death.html>`__ 
-
-S
-
- `Next <spyware.html>`__
-
---------------
+ 
 
 **spungle**: n.
 
@@ -5394,23 +3652,10 @@ S
 Bent Paperclip in Microsoft Word '98. A spungle's only virtue is that it
 looks pretty, unless you find creeping featurism ugly.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <sport-death.html>`__    | `Up <../S.html>`__         |  `Next <spyware.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| sport death                    | `Home <../index.html>`__   |  spyware                   |
-+--------------------------------+----------------------------+----------------------------+
 
 spyware
-
-`Prev <spungle.html>`__ 
-
-S
-
- `Next <squirrelcide.html>`__
-
---------------
+================
+ 
 
 **spyware**: n.
 
@@ -5426,23 +3671,12 @@ directories for the names of files it might deem to be
 2. Systems for spying on email and web traffic, such as the FBI's
 Carnivore.
 
---------------
-
-+----------------------------+----------------------------+---------------------------------+
-| `Prev <spungle.html>`__    | `Up <../S.html>`__         |  `Next <squirrelcide.html>`__   |
-+----------------------------+----------------------------+---------------------------------+
-| spungle                    | `Home <../index.html>`__   |  squirrelcide                   |
-+----------------------------+----------------------------+---------------------------------+
+ 
 
 squirrelcide
+=================
 
-`Prev <spyware.html>`__ 
-
-S
-
- `Next <stack.html>`__
-
---------------
+ 
 
 **squirrelcide**: n.
 
@@ -5453,23 +3687,11 @@ little furry bodies. Result: one dead squirrel, one down computer
 installation. In this situation, the computer system is said to have
 been squirrelcided.
 
---------------
-
-+----------------------------+----------------------------+--------------------------+
-| `Prev <spyware.html>`__    | `Up <../S.html>`__         |  `Next <stack.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| spyware                    | `Home <../index.html>`__   |  stack                   |
-+----------------------------+----------------------------+--------------------------+
+ 
+ 
 
 stack
-
-`Prev <squirrelcide.html>`__ 
-
-S
-
- `Next <stack-puke.html>`__
-
---------------
+========
 
 **stack**: n.
 
@@ -5499,23 +3721,11 @@ says:
 The term “stack” was originally coined by Edsger Dijkstra, who was quite
 proud of it.
 
---------------
-
-+---------------------------------+----------------------------+-------------------------------+
-| `Prev <squirrelcide.html>`__    | `Up <../S.html>`__         |  `Next <stack-puke.html>`__   |
-+---------------------------------+----------------------------+-------------------------------+
-| squirrelcide                    | `Home <../index.html>`__   |  stack puke                   |
-+---------------------------------+----------------------------+-------------------------------+
+ 
 
 stack puke
-
-`Prev <stack.html>`__ 
-
-S
-
- `Next <stale-pointer-bug.html>`__
-
---------------
+==============
+ 
 
 **stack puke**: n.
 
@@ -5524,46 +3734,22 @@ stack’ to save their internal state during exception processing. The
 Motorola 68020, for example, regurgitates up to 92 bytes on a bus fault.
 On a pipelined machine, this can take a while.
 
---------------
-
-+--------------------------+----------------------------+--------------------------------------+
-| `Prev <stack.html>`__    | `Up <../S.html>`__         |  `Next <stale-pointer-bug.html>`__   |
-+--------------------------+----------------------------+--------------------------------------+
-| stack                    | `Home <../index.html>`__   |  stale pointer bug                   |
-+--------------------------+----------------------------+--------------------------------------+
+ 
+ 
 
 stale pointer bug
-
-`Prev <stack-puke.html>`__ 
-
-S
-
- `Next <Stanford-Bunny.html>`__
-
---------------
+=====================
 
 **stale pointer bug**: n.
 
 Synonym for `aliasing bug <./A.html#aliasing-bug.html>`__ used esp. among
 microcomputer hackers.
 
---------------
-
-+-------------------------------+----------------------------+-----------------------------------+
-| `Prev <stack-puke.html>`__    | `Up <../S.html>`__         |  `Next <Stanford-Bunny.html>`__   |
-+-------------------------------+----------------------------+-----------------------------------+
-| stack puke                    | `Home <../index.html>`__   |  Stanford Bunny                   |
-+-------------------------------+----------------------------+-----------------------------------+
+ 
 
 Stanford Bunny
-
-`Prev <stale-pointer-bug.html>`__ 
-
-S
-
- `Next <star-out.html>`__
-
---------------
+================
+ 
 
 **Stanford Bunny**
 
@@ -5575,23 +3761,11 @@ self-reflection. There is a `history
 page <http://www.cc.gatech.edu/~turk/bunny/bunny.html>`__. Compare
 `lenna <./L.html#lenna.html>`__.
 
---------------
-
-+--------------------------------------+----------------------------+-----------------------------+
-| `Prev <stale-pointer-bug.html>`__    | `Up <../S.html>`__         |  `Next <star-out.html>`__   |
-+--------------------------------------+----------------------------+-----------------------------+
-| stale pointer bug                    | `Home <../index.html>`__   |  star out                   |
-+--------------------------------------+----------------------------+-----------------------------+
-
+ 
 star out
+============
 
-`Prev <Stanford-Bunny.html>`__ 
-
-S
-
- `Next <state.html>`__
-
---------------
+ 
 
 **star out**: v.
 
@@ -5605,23 +3779,12 @@ hours”. Also occasionally known as The Order Of The Gold Star in this
 context. “Don't do that, or you'll be awarded the Order of the Gold
 Star...” Compare `disusered <./D.html#disusered.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+--------------------------+
-| `Prev <Stanford-Bunny.html>`__    | `Up <../S.html>`__         |  `Next <state.html>`__   |
-+-----------------------------------+----------------------------+--------------------------+
-| Stanford Bunny                    | `Home <../index.html>`__   |  state                   |
-+-----------------------------------+----------------------------+--------------------------+
+ 
+ 
 
 state
-
-`Prev <star-out.html>`__ 
-
-S
-
- `Next <stealth-manager.html>`__
-
---------------
+==============
+ 
 
 **state**: n.
 
@@ -5639,23 +3802,12 @@ Another way of phrasing the first question under sense 1 would be
 2. Information being maintained in non-permanent memory (electronic or
 human).
 
---------------
-
-+-----------------------------+----------------------------+------------------------------------+
-| `Prev <star-out.html>`__    | `Up <../S.html>`__         |  `Next <stealth-manager.html>`__   |
-+-----------------------------+----------------------------+------------------------------------+
-| star out                    | `Home <../index.html>`__   |  stealth manager                   |
-+-----------------------------+----------------------------+------------------------------------+
+ 
+ 
 
 stealth manager
-
-`Prev <state.html>`__ 
-
-S
-
- `Next <steam-powered.html>`__
-
---------------
+=====================
+ 
 
 **stealth manager**: n.
 
@@ -5664,23 +3816,10 @@ undeliverable software to unknown end users, and vanishes before the
 programming staff realizes what has happened. See `smoke and
 mirrors <smoke-and-mirrors.html>`__.
 
---------------
-
-+--------------------------+----------------------------+----------------------------------+
-| `Prev <state.html>`__    | `Up <../S.html>`__         |  `Next <steam-powered.html>`__   |
-+--------------------------+----------------------------+----------------------------------+
-| state                    | `Home <../index.html>`__   |  steam-powered                   |
-+--------------------------+----------------------------+----------------------------------+
+  
 
 steam-powered
-
-`Prev <stealth-manager.html>`__ 
-
-S
-
- `Next <steved.html>`__
-
---------------
+======================
 
 **steam-powered**: adj.
 
@@ -5688,23 +3827,11 @@ Old-fashioned or underpowered; archaic. This term does not have a strong
 negative loading and may even be used semi-affectionately for something
 that clanks and wheezes a lot but hangs in there doing the job.
 
---------------
-
-+------------------------------------+----------------------------+---------------------------+
-| `Prev <stealth-manager.html>`__    | `Up <../S.html>`__         |  `Next <steved.html>`__   |
-+------------------------------------+----------------------------+---------------------------+
-| stealth manager                    | `Home <../index.html>`__   |  steved                   |
-+------------------------------------+----------------------------+---------------------------+
+ 
 
 steved
-
-`Prev <steam-powered.html>`__ 
-
-S
-
- `Next <STFW.html>`__
-
---------------
+===============
+ 
 
 **steved**: adj.,v., /steevd/
 
@@ -5717,23 +3844,11 @@ any large firm connected with Apple may be said to have gotten steved.
 It is usually spelled lowercase despite the origin. It is almost always
 past-tense and used quasi-adjectivally.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------+
-| `Prev <steam-powered.html>`__    | `Up <../S.html>`__         |  `Next <STFW.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
-| steam-powered                    | `Home <../index.html>`__   |  STFW                   |
-+----------------------------------+----------------------------+-------------------------+
+ 
 
 STFW
-
-`Prev <steved.html>`__ 
-
-S
-
- `Next <stir-fried-random.html>`__
-
---------------
+=====
+ 
 
 **STFW**: imp., /S·T·F·W/
 
@@ -5743,23 +3858,11 @@ than a human being. Usage is common and exactly parallel to both senses
 of `RTFM <./R.html#RTFM.html>`__. A politer equivalent is
 `GIYF <./G.html#GIYF.html>`__.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------------+
-| `Prev <steved.html>`__    | `Up <../S.html>`__         |  `Next <stir-fried-random.html>`__   |
-+---------------------------+----------------------------+--------------------------------------+
-| steved                    | `Home <../index.html>`__   |  stir-fried random                   |
-+---------------------------+----------------------------+--------------------------------------+
+  
 
 stir-fried random
-
-`Prev <STFW.html>`__ 
-
-S
-
- `Next <stomp-on.html>`__
-
---------------
+=========================
+ 
 
 **stir-fried random**: n.
 
@@ -5772,23 +3875,12 @@ with random spices. Tasty and economical. See
 food <./O.html#oriental-food.html>`__; see also
 `mumble <./M.html#mumble.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+-----------------------------+
-| `Prev <STFW.html>`__    | `Up <../S.html>`__         |  `Next <stomp-on.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
-| STFW                    | `Home <../index.html>`__   |  stomp on                   |
-+-------------------------+----------------------------+-----------------------------+
-
+ 
 stomp on
-
-`Prev <stir-fried-random.html>`__ 
-
-S
-
- `Next <Stone-Age.html>`__
-
---------------
+================
+ 
 
 **stomp on**: vt.
 
@@ -5798,23 +3890,11 @@ nightly server script.” Compare `scribble <scribble.html>`__,
 `mangle <./M.html#mangle.html>`__, `trash <./T.html#trash.html>`__,
 `scrog <scrog.html>`__, `roach <./R.html#roach.html>`__.
 
---------------
-
-+--------------------------------------+----------------------------+------------------------------+
-| `Prev <stir-fried-random.html>`__    | `Up <../S.html>`__         |  `Next <Stone-Age.html>`__   |
-+--------------------------------------+----------------------------+------------------------------+
-| stir-fried random                    | `Home <../index.html>`__   |  Stone Age                   |
-+--------------------------------------+----------------------------+------------------------------+
+ 
 
 Stone Age
-
-`Prev <stomp-on.html>`__ 
-
-S
-
- `Next <stone-knives-and-bearskins.html>`__
-
---------------
+=
+ 
 
 **Stone Age**: n.,adj.
 
@@ -5828,7 +3908,7 @@ pre-ferrite-`core <./C.html#core.html>`__ machines with drum or CRT mass
 storage (as opposed to just mercury delay lines and/or relays). See also
 `Iron Age <./I.html#Iron-Age.html>`__.
 
-|image0|
+.. image:: ../_static/76-05-01.png
 
 How things weren't in the `Stone Age <Stone-Age.html>`__.
 
@@ -5840,24 +3920,15 @@ cartoon was `76-03-14:5-8 <./F.html#flush.html#crunchly-5678>`__.)
 hardware or software technology. Note that this is used even by people
 who were there for the `Stone Age <Stone-Age.html>`__ (sense 1).
 
---------------
+ 
+ 
 
-+-----------------------------+----------------------------+-----------------------------------------------+
-| `Prev <stomp-on.html>`__    | `Up <../S.html>`__         |  `Next <stone-knives-and-bearskins.html>`__   |
-+-----------------------------+----------------------------+-----------------------------------------------+
-| stomp on                    | `Home <../index.html>`__   |  stone knives and bearskins                   |
-+-----------------------------+----------------------------+-----------------------------------------------+
 
-.. |image0| image:: ../_static/76-05-01.png
+
 stone knives and bearskins
+==============================
 
-`Prev <Stone-Age.html>`__ 
-
-S
-
- `Next <stoppage.html>`__
-
---------------
+ 
 
 **stone knives and bearskins**: n.
 
@@ -5869,23 +3940,12 @@ facilities here. Once you leave SAIL it's stone knives and bearskins as
 far as the eye can see”. Compare
 `steam-powered <steam-powered.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-----------------------------+
-| `Prev <Stone-Age.html>`__    | `Up <../S.html>`__         |  `Next <stoppage.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
-| Stone Age                    | `Home <../index.html>`__   |  stoppage                   |
-+------------------------------+----------------------------+-----------------------------+
+ 
+ 
 
 stoppage
-
-`Prev <stone-knives-and-bearskins.html>`__ 
-
-S
-
- `Next <store.html>`__
-
---------------
+================
+ 
 
 **stoppage**: /sto´p@j/, n.
 
@@ -5893,23 +3953,11 @@ Extreme `lossage <./L.html#lossage.html>`__ that renders something
 (usually something vital) completely unusable. “The recent system
 stoppage was caused by a `fried <./F.html#fried.html>`__ transformer.”
 
---------------
+ 
 
-+-----------------------------------------------+----------------------------+--------------------------+
-| `Prev <stone-knives-and-bearskins.html>`__    | `Up <../S.html>`__         |  `Next <store.html>`__   |
-+-----------------------------------------------+----------------------------+--------------------------+
-| stone knives and bearskins                    | `Home <../index.html>`__   |  store                   |
-+-----------------------------------------------+----------------------------+--------------------------+
-
+ 
 store
-
-`Prev <stoppage.html>`__ 
-
-S
-
- `Next <STR.html>`__
-
---------------
+==============
 
 **store**: n.
 
@@ -5919,23 +3967,10 @@ bringing a program into store means not that one is returning
 shrink-wrapped software but that a program is being
 `swap <swap.html>`__\ ped in.
 
---------------
-
-+-----------------------------+----------------------------+------------------------+
-| `Prev <stoppage.html>`__    | `Up <../S.html>`__         |  `Next <STR.html>`__   |
-+-----------------------------+----------------------------+------------------------+
-| stoppage                    | `Home <../index.html>`__   |  STR                   |
-+-----------------------------+----------------------------+------------------------+
+ 
 
 STR
-
-`Prev <store.html>`__ 
-
-S
-
- `Next <strided.html>`__
-
---------------
+==============
 
 **STR**
 
@@ -5951,23 +3986,11 @@ expansions, the most common being “slurp the robot”, leading to comments
 like “I pulled my hair out, but couldn't figure out which robot you're
 slurping”.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <store.html>`__    | `Up <../S.html>`__         |  `Next <strided.html>`__   |
-+--------------------------+----------------------------+----------------------------+
-| store                    | `Home <../index.html>`__   |  strided                   |
-+--------------------------+----------------------------+----------------------------+
+ 
 
 strided
-
-`Prev <STR.html>`__ 
-
-S
-
- `Next <stroke.html>`__
-
---------------
+==========
+ 
 
 **strided**: /stri:´d@d/, adj.
 
@@ -5982,92 +4005,48 @@ locality by inverting double loops or by partially unrolling the outer
 loop of a loop nest. This usage is borderline techspeak; the related
 term memory stride is definitely techspeak.
 
---------------
-
-+------------------------+----------------------------+---------------------------+
-| `Prev <STR.html>`__    | `Up <../S.html>`__         |  `Next <stroke.html>`__   |
-+------------------------+----------------------------+---------------------------+
-| STR                    | `Home <../index.html>`__   |  stroke                   |
-+------------------------+----------------------------+---------------------------+
+ 
+ 
 
 stroke
-
-`Prev <strided.html>`__ 
-
-S
-
- `Next <strudel.html>`__
-
---------------
+=============
+ 
 
 **stroke**: n.
 
 Common name for the slant (‘/’, ASCII 0101111) character. See
 `ASCII <./A.html#ASCII.html>`__ for other synonyms.
 
---------------
+ 
 
-+----------------------------+----------------------------+----------------------------+
-| `Prev <strided.html>`__    | `Up <../S.html>`__         |  `Next <strudel.html>`__   |
-+----------------------------+----------------------------+----------------------------+
-| strided                    | `Home <../index.html>`__   |  strudel                   |
-+----------------------------+----------------------------+----------------------------+
+ 
 
 strudel
-
-`Prev <stroke.html>`__ 
-
-S
-
- `Next <stubroutine.html>`__
-
---------------
+===============
 
 **strudel**: n.
 
 Common (spoken) name for the at-sign (‘@’, ASCII 1000000) character. See
 `ASCII <./A.html#ASCII.html>`__ for other synonyms.
 
---------------
-
-+---------------------------+----------------------------+--------------------------------+
-| `Prev <stroke.html>`__    | `Up <../S.html>`__         |  `Next <stubroutine.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
-| stroke                    | `Home <../index.html>`__   |  stubroutine                   |
-+---------------------------+----------------------------+--------------------------------+
+ 
+ 
 
 stubroutine
-
-`Prev <strudel.html>`__ 
-
-S
-
- `Next <studly.html>`__
-
---------------
+==================
+ 
 
 **stubroutine**: /stuhb´roo·teen/, n.
 
 [contraction of stub subroutine] Tiny, often vacuous placeholder for a
 subroutine that is to be written or fleshed out later.
 
---------------
-
-+----------------------------+----------------------------+---------------------------+
-| `Prev <strudel.html>`__    | `Up <../S.html>`__         |  `Next <studly.html>`__   |
-+----------------------------+----------------------------+---------------------------+
-| strudel                    | `Home <../index.html>`__   |  studly                   |
-+----------------------------+----------------------------+---------------------------+
+ 
+ 
 
 studlycaps
-
-`Prev <studly.html>`__ 
-
-S
-
- `Next <stunning.html>`__
-
---------------
+================
+ 
 
 **studlycaps**: /stuhd´lee·kaps/, n.
 
@@ -6076,23 +4055,12 @@ A hackish form of silliness similar to
 applied randomly and to arbitrary text rather than to trademarks. ThE
 oRigiN and SigNificaNce of thIs pRacTicE iS oBscuRe.
 
---------------
-
-+---------------------------+----------------------------+-----------------------------+
-| `Prev <studly.html>`__    | `Up <../S.html>`__         |  `Next <stunning.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
-| studly                    | `Home <../index.html>`__   |  stunning                   |
-+---------------------------+----------------------------+-----------------------------+
+ 
+ 
 
 studly
-
-`Prev <stubroutine.html>`__ 
-
-S
-
- `Next <studlycaps.html>`__
-
---------------
+============
+ 
 
 **studly**: adj.
 
@@ -6102,46 +4070,27 @@ complexity and a virtuoso flair. Has connotations similar to
 emphatic most studly or as noun-form studliness. “Smail 3.0's
 configuration parser is most studly.”
 
---------------
+ 
 
-+--------------------------------+----------------------------+-------------------------------+
-| `Prev <stubroutine.html>`__    | `Up <../S.html>`__         |  `Next <studlycaps.html>`__   |
-+--------------------------------+----------------------------+-------------------------------+
-| stubroutine                    | `Home <../index.html>`__   |  studlycaps                   |
-+--------------------------------+----------------------------+-------------------------------+
+ 
 
 stunning
+================
 
-`Prev <studlycaps.html>`__ 
-
-S
-
- `Next <stupid-sort.html>`__
-
---------------
+ 
 
 **stunning**: adj.
 
 Mind-bogglingly stupid. Usually used in sarcasm. “You want to code
 *what* in Ada? That's a ... stunning idea!”
 
---------------
-
-+-------------------------------+----------------------------+--------------------------------+
-| `Prev <studlycaps.html>`__    | `Up <../S.html>`__         |  `Next <stupid-sort.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
-| studlycaps                    | `Home <../index.html>`__   |  stupid-sort                   |
-+-------------------------------+----------------------------+--------------------------------+
+ 
+ 
 
 Stupids
+===========
 
-`Prev <stupid-sort.html>`__ 
-
-S
-
- `Next <Sturgeons-Law.html>`__
-
---------------
+ 
 
 **Stupids**: n.
 
@@ -6154,45 +4103,26 @@ Clifton's *Star, Bright*. In it, a super-genius child classifies humans
 into a very few ‘Brights’ like herself, a huge majority of ‘Stupids’,
 and a minority of ‘Tweens’, the merely ordinary geniuses.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------------+
-| `Prev <stupid-sort.html>`__    | `Up <../S.html>`__         |  `Next <Sturgeons-Law.html>`__   |
-+--------------------------------+----------------------------+----------------------------------+
-| stupid-sort                    | `Home <../index.html>`__   |  Sturgeon's Law                  |
-+--------------------------------+----------------------------+----------------------------------+
+ 
+ 
 
 stupid-sort
+=================
 
-`Prev <stunning.html>`__ 
-
-S
-
- `Next <Stupids.html>`__
-
---------------
+ 
 
 **stupid-sort**: n.
 
 Syn. `bogo-sort <./B.html#bogo-sort.html>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+----------------------------+
-| `Prev <stunning.html>`__    | `Up <../S.html>`__         |  `Next <Stupids.html>`__   |
-+-----------------------------+----------------------------+----------------------------+
-| stunning                    | `Home <../index.html>`__   |  Stupids                   |
-+-----------------------------+----------------------------+----------------------------+
+ 
 
 Sturgeon's Law
+=======================
 
-`Prev <Stupids.html>`__ 
-
-S
-
- `Next <sucking-mud.html>`__
-
---------------
+ 
 
 **Sturgeon's Law**: prov.
 
@@ -6208,23 +4138,12 @@ Revelation is cited, the final word is almost invariably changed to
 maxim originated in SF fandom, most hackers recognize it and are all too
 aware of its truth.
 
---------------
+ 
 
-+----------------------------+----------------------------+--------------------------------+
-| `Prev <Stupids.html>`__    | `Up <../S.html>`__         |  `Next <sucking-mud.html>`__   |
-+----------------------------+----------------------------+--------------------------------+
-| Stupids                    | `Home <../index.html>`__   |  sucking mud                   |
-+----------------------------+----------------------------+--------------------------------+
+ 
 
 sucking mud
-
-`Prev <Sturgeons-Law.html>`__ 
-
-S
-
- `Next <sufficiently-small.html>`__
-
---------------
+==================
 
 **sucking mud**: adj.
 
@@ -6235,67 +4154,37 @@ regionalism derives from the East Texas oilfield lament, “Shut 'er down,
 Ma, she's a-suckin' mud”. Often used as a query. “We are going to
 reconfigure the network, are you ready to suck mud?”
 
---------------
+ 
 
-+----------------------------------+----------------------------+---------------------------------------+
-| `Prev <Sturgeons-Law.html>`__    | `Up <../S.html>`__         |  `Next <sufficiently-small.html>`__   |
-+----------------------------------+----------------------------+---------------------------------------+
-| Sturgeon's Law                   | `Home <../index.html>`__   |  sufficiently small                   |
-+----------------------------------+----------------------------+---------------------------------------+
+ 
 
 sufficiently small
-
-`Prev <sucking-mud.html>`__ 
-
-S
-
- `Next <suit.html>`__
-
---------------
+===========================
+ 
 
 **sufficiently small**: adj.
 
 Syn. `suitably small <suitably-small.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <sucking-mud.html>`__    | `Up <../S.html>`__         |  `Next <suit.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| sucking mud                    | `Home <../index.html>`__   |  suit                   |
-+--------------------------------+----------------------------+-------------------------+
+ 
 
 suitable win
-
-`Prev <suit.html>`__ 
-
-S
-
- `Next <suitably-small.html>`__
-
---------------
+====================
+ 
 
 **suitable win**: n.
 
 See `win <./W.html#win.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+-----------------------------------+
-| `Prev <suit.html>`__    | `Up <../S.html>`__         |  `Next <suitably-small.html>`__   |
-+-------------------------+----------------------------+-----------------------------------+
-| suit                    | `Home <../index.html>`__   |  suitably small                   |
-+-------------------------+----------------------------+-----------------------------------+
+ 
 
 suitably small
-
-`Prev <suitable-win.html>`__ 
-
-S
-
- `Next <Sun.html>`__
-
---------------
+======================
+ 
 
 **suitably small**: adj.
 
@@ -6306,23 +4195,11 @@ with a correct full-screen display, and one publicly exclaimed: “It
 works!” Then, if the program dumped core on the first mouse click, one
 might add: “Well, for suitably small values of ‘works’.”
 
---------------
-
-+---------------------------------+----------------------------+------------------------+
-| `Prev <suitable-win.html>`__    | `Up <../S.html>`__         |  `Next <Sun.html>`__   |
-+---------------------------------+----------------------------+------------------------+
-| suitable win                    | `Home <../index.html>`__   |  Sun                   |
-+---------------------------------+----------------------------+------------------------+
+  
 
 suit
-
-`Prev <sufficiently-small.html>`__ 
-
-S
-
- `Next <suitable-win.html>`__
-
---------------
+==========
+ 
 
 **suit**: n.
 
@@ -6339,23 +4216,11 @@ hacker. See `pointy-haired <./P.html#pointy-haired.html>`__,
 `SNAFU principle <SNAFU-principle.html>`__, `PHB <./P.html#PHB.html>`__,
 and `brain-damaged <./B.html#brain-damaged.html>`__.
 
---------------
-
-+---------------------------------------+----------------------------+---------------------------------+
-| `Prev <sufficiently-small.html>`__    | `Up <../S.html>`__         |  `Next <suitable-win.html>`__   |
-+---------------------------------------+----------------------------+---------------------------------+
-| sufficiently small                    | `Home <../index.html>`__   |  suitable win                   |
-+---------------------------------------+----------------------------+---------------------------------+
+ 
+ 
 
 Sun
-
-`Prev <suitably-small.html>`__ 
-
-S
-
- `Next <sun-lounge.html>`__
-
---------------
+=============
 
 **Sun**: n.
 
@@ -6373,23 +4238,13 @@ some strategic moves that disappointed and annoyed many hackers
 Linux), it's still considered within the family in much the same way
 `DEC <./D.html#DEC.html>`__ was in the 1970s and early 1980s.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------------+
-| `Prev <suitably-small.html>`__    | `Up <../S.html>`__         |  `Next <sun-lounge.html>`__   |
-+-----------------------------------+----------------------------+-------------------------------+
-| suitably small                    | `Home <../index.html>`__   |  sun lounge                   |
-+-----------------------------------+----------------------------+-------------------------------+
+ 
+ 
 
 sun lounge
+=============
 
-`Prev <Sun.html>`__ 
-
-S
-
- `Next <sun-stools.html>`__
-
---------------
+ 
 
 **sun lounge**: n.
 
@@ -6398,23 +4253,12 @@ term comes from the fact that it's also in mainstream use to describe a
 solarium, and all those Sun workstations clustered together give off an
 amazing amount of heat.
 
---------------
-
-+------------------------+----------------------------+-------------------------------+
-| `Prev <Sun.html>`__    | `Up <../S.html>`__         |  `Next <sun-stools.html>`__   |
-+------------------------+----------------------------+-------------------------------+
-| Sun                    | `Home <../index.html>`__   |  sun-stools                   |
-+------------------------+----------------------------+-------------------------------+
+ 
+ 
 
 sunspots
-
-`Prev <sun-stools.html>`__ 
-
-S
-
- `Next <super-source-quench.html>`__
-
---------------
+===============
+ 
 
 **sunspots**: n.
 
@@ -6426,23 +4270,12 @@ that sunspots will increase `cosmic rays <./C.html#cosmic-rays.html>`__,
 which can flip single bits in memory. See also `phase of the
 moon <./P.html#phase-of-the-moon.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+----------------------------------------+
-| `Prev <sun-stools.html>`__    | `Up <../S.html>`__         |  `Next <super-source-quench.html>`__   |
-+-------------------------------+----------------------------+----------------------------------------+
-| sun-stools                    | `Home <../index.html>`__   |  super source quench                   |
-+-------------------------------+----------------------------+----------------------------------------+
+ 
 
 sun-stools
+==================
 
-`Prev <sun-lounge.html>`__ 
-
-S
-
- `Next <sunspots.html>`__
-
---------------
+ 
 
 **sun-stools**: n.
 
@@ -6450,24 +4283,11 @@ Unflattering hackerism for SunTools, a pre-X windowing environment
 notorious in its day for size, slowness, and misfeatures.
 `X <./X.html#X.html>`__, however, is larger and (some claim) slower; see
 `second-system effect <second-system-effect.html>`__.
-
---------------
-
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <sun-lounge.html>`__    | `Up <../S.html>`__         |  `Next <sunspots.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| sun lounge                    | `Home <../index.html>`__   |  sunspots                   |
-+-------------------------------+----------------------------+-----------------------------+
+ 
 
 superloser
-
-`Prev <super-source-quench.html>`__ 
-
-S
-
- `Next <superprogrammer.html>`__
-
---------------
+=================
+ 
 
 **superloser**: n.
 
@@ -6477,23 +4297,12 @@ three-year-old with an unsafetied Uzi. Anyone who thinks this is an
 uncommon situation reckons without the territorial urges of
 `management <./M.html#management.html>`__.
 
---------------
-
-+----------------------------------------+----------------------------+------------------------------------+
-| `Prev <super-source-quench.html>`__    | `Up <../S.html>`__         |  `Next <superprogrammer.html>`__   |
-+----------------------------------------+----------------------------+------------------------------------+
-| super source quench                    | `Home <../index.html>`__   |  superprogrammer                   |
-+----------------------------------------+----------------------------+------------------------------------+
+ 
+ 
 
 superprogrammer
-
-`Prev <superloser.html>`__ 
-
-S
-
- `Next <superuser.html>`__
-
---------------
+======================
+ 
 
 **superprogrammer**: n.
 
@@ -6512,23 +4321,11 @@ than three lines that do the `Right Thing <./R.html#Right-Thing.html>`__.
 Hackers tend to prefer the terms `hacker <./H.html#hacker.html>`__ and
 `wizard <./W.html#wizard.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+------------------------------+
-| `Prev <superloser.html>`__    | `Up <../S.html>`__         |  `Next <superuser.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
-| superloser                    | `Home <../index.html>`__   |  superuser                   |
-+-------------------------------+----------------------------+------------------------------+
+ 
 
 super source quench
-
-`Prev <sunspots.html>`__ 
-
-S
-
- `Next <superloser.html>`__
-
---------------
+===========================
+ 
 
 **super source quench**: n.
 
@@ -6544,23 +4341,11 @@ many Internet hosts up in knots. Compare
 `Godzillagram <./G.html#Godzillagram.html>`__, `breath-of-life
 packet <./B.html#breath-of-life-packet.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-------------------------------+
-| `Prev <sunspots.html>`__    | `Up <../S.html>`__         |  `Next <superloser.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
-| sunspots                    | `Home <../index.html>`__   |  superloser                   |
-+-----------------------------+----------------------------+-------------------------------+
+ 
+ 
 
 superuser
-
-`Prev <superprogrammer.html>`__ 
-
-S
-
- `Next <support.html>`__
-
---------------
+=================
 
 **superuser**: n.
 
@@ -6570,23 +4355,12 @@ environments; the superuser is any account with all
 `wheel <./W.html#wheel.html>`__ bits on. A more specific term than
 `wheel <./W.html#wheel.html>`__.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <superprogrammer.html>`__    | `Up <../S.html>`__         |  `Next <support.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| superprogrammer                    | `Home <../index.html>`__   |  support                   |
-+------------------------------------+----------------------------+----------------------------+
+ 
+ 
 
 support
-
-`Prev <superuser.html>`__ 
-
-S
-
- `Next <surf.html>`__
-
---------------
+================
+ 
 
 **support**: n.
 
@@ -6597,23 +4371,13 @@ the relevant manuals better than the support people (sadly, this is
 *not* a joke or exaggeration). A hacker's idea of ‘support’ is a
 *têete-à-têete* with the software's designer.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <superuser.html>`__    | `Up <../S.html>`__         |  `Next <surf.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| superuser                    | `Home <../index.html>`__   |  surf                   |
-+------------------------------+----------------------------+-------------------------+
+ 
+ 
 
 surf
+=========
 
-`Prev <support.html>`__ 
-
-S
-
- `Next <Suzie-COBOL.html>`__
-
---------------
+ 
 
 **surf**: v.
 
@@ -6629,23 +4393,13 @@ hearing non-hackers wax enthusiastic about “surfing the net” tends to
 make hackers feel a bit as though their home is being overrun by
 ignorami.
 
---------------
-
-+----------------------------+----------------------------+--------------------------------+
-| `Prev <support.html>`__    | `Up <../S.html>`__         |  `Next <Suzie-COBOL.html>`__   |
-+----------------------------+----------------------------+--------------------------------+
-| support                    | `Home <../index.html>`__   |  Suzie COBOL                   |
-+----------------------------+----------------------------+--------------------------------+
+ 
+ 
 
 Suzie COBOL
+====================
 
-`Prev <surf.html>`__ 
-
-S
-
- `Next <swab.html>`__
-
---------------
+ 
 
 **Suzie COBOL**: /soo´zee koh´bol/
 
@@ -6659,23 +4413,11 @@ avoid accusations of sexism) ‘Sammy Cobol’ or (in some non-IBM circles)
 grinder <./C.html#code-grinder.html>`__, analogous to `J. Random
 Hacker <./J.html#J--Random-Hacker.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------+
-| `Prev <surf.html>`__    | `Up <../S.html>`__         |  `Next <swab.html>`__   |
-+-------------------------+----------------------------+-------------------------+
-| surf                    | `Home <../index.html>`__   |  swab                   |
-+-------------------------+----------------------------+-------------------------+
+ 
 
 swab
-
-`Prev <Suzie-COBOL.html>`__ 
-
-S
-
- `Next <swap.html>`__
-
---------------
+========
+ 
 
 **swab**: /swob/
 
@@ -6693,23 +4435,11 @@ functionally equivalent to it. See also
 `middle-endian <./M.html#middle-endian.html>`__,
 `bytesexual <./B.html#bytesexual.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------+
-| `Prev <Suzie-COBOL.html>`__    | `Up <../S.html>`__         |  `Next <swap.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
-| Suzie COBOL                    | `Home <../index.html>`__   |  swap                   |
-+--------------------------------+----------------------------+-------------------------+
+ 
 
 swap
-
-`Prev <swab.html>`__ 
-
-S
-
- `Next <swap-space.html>`__
-
---------------
+============
+ 
 
 **swap**: vt.
 
@@ -6732,68 +4462,36 @@ the idea out by writing it down it will get overwritten and lost as you
 talk. Compare `page in <./P.html#page-in.html>`__, `page
 out <./P.html#page-out.html>`__.
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <swab.html>`__    | `Up <../S.html>`__         |  `Next <swap-space.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| swab                    | `Home <../index.html>`__   |  swap space                   |
-+-------------------------+----------------------------+-------------------------------+
+ 
+ 
 
 swapped in
-
-`Prev <swap-space.html>`__ 
-
-S
-
- `Next <swapped-out.html>`__
-
---------------
+==============
+ 
 
 **swapped in**: n.
 
 See `swap <swap.html>`__. See also `page in <./P.html#page-in.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+--------------------------------+
-| `Prev <swap-space.html>`__    | `Up <../S.html>`__         |  `Next <swapped-out.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
-| swap space                    | `Home <../index.html>`__   |  swapped out                   |
-+-------------------------------+----------------------------+--------------------------------+
+ 
 
 swapped out
-
-`Prev <swapped-in.html>`__ 
-
-S
-
- `Next <Swiss-Army-chainsaw.html>`__
-
---------------
+=====================
+ 
 
 **swapped out**: n.
 
 See `swap <swap.html>`__. See also `page
 out <./P.html#page-out.html>`__.
 
---------------
-
-+-------------------------------+----------------------------+----------------------------------------+
-| `Prev <swapped-in.html>`__    | `Up <../S.html>`__         |  `Next <Swiss-Army-chainsaw.html>`__   |
-+-------------------------------+----------------------------+----------------------------------------+
-| swapped in                    | `Home <../index.html>`__   |  Swiss-Army chainsaw                   |
-+-------------------------------+----------------------------+----------------------------------------+
+ 
 
 swap space
+==================
 
-`Prev <swap.html>`__ 
-
-S
-
- `Next <swapped-in.html>`__
-
---------------
+ 
 
 **swap space**: n.
 
@@ -6801,23 +4499,11 @@ Storage space, especially temporary storage space used during a move or
 reconfiguration. “I'm just using that corner of the machine room for
 swap space.”
 
---------------
-
-+-------------------------+----------------------------+-------------------------------+
-| `Prev <swap.html>`__    | `Up <../S.html>`__         |  `Next <swapped-in.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
-| swap                    | `Home <../index.html>`__   |  swapped in                   |
-+-------------------------+----------------------------+-------------------------------+
+ 
 
 Swiss-Army chainsaw
-
-`Prev <swapped-out.html>`__ 
-
-S
-
- `Next <swizzle.html>`__
-
---------------
+============================
+ 
 
 **Swiss-Army chainsaw**
 
@@ -6833,23 +4519,11 @@ fumes. This had two results: (1) Perl fans adopted the epithet as a
 badge of pride, and (2) it entered more general usage to describe
 software that is highly versatile but distressingly inelegant.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------+
-| `Prev <swapped-out.html>`__    | `Up <../S.html>`__         |  `Next <swizzle.html>`__   |
-+--------------------------------+----------------------------+----------------------------+
-| swapped out                    | `Home <../index.html>`__   |  swizzle                   |
-+--------------------------------+----------------------------+----------------------------+
+ 
 
 swizzle
-
-`Prev <Swiss-Army-chainsaw.html>`__ 
-
-S
-
- `Next <sync.html>`__
-
---------------
+===============
+ 
 
 **swizzle**: v.
 
@@ -6861,23 +4535,12 @@ by turning lots of name lookups into pointer dereferences). The converse
 operation is sometimes termed unswizzling. See also
 `snap <snap.html>`__.
 
---------------
-
-+----------------------------------------+----------------------------+-------------------------+
-| `Prev <Swiss-Army-chainsaw.html>`__    | `Up <../S.html>`__         |  `Next <sync.html>`__   |
-+----------------------------------------+----------------------------+-------------------------+
-| Swiss-Army chainsaw                    | `Home <../index.html>`__   |  sync                   |
-+----------------------------------------+----------------------------+-------------------------+
+ 
 
 sync
+===========
 
-`Prev <swizzle.html>`__ 
-
-S
-
- `Next <syntactic-salt.html>`__
-
---------------
+ 
 
 **sync**: /sink/, vi.
 
@@ -6892,23 +4555,12 @@ S
 a state that would be ‘safe’ if the system were to crash; thus, to
 checkpoint (in the database-theory sense).
 
---------------
-
-+----------------------------+----------------------------+-----------------------------------+
-| `Prev <swizzle.html>`__    | `Up <../S.html>`__         |  `Next <syntactic-salt.html>`__   |
-+----------------------------+----------------------------+-----------------------------------+
-| swizzle                    | `Home <../index.html>`__   |  syntactic salt                   |
-+----------------------------+----------------------------+-----------------------------------+
+ 
+ 
 
 syntactic salt
-
-`Prev <sync.html>`__ 
-
-S
-
- `Next <syntactic-sugar.html>`__
-
---------------
+=======================
+ 
 
 **syntactic salt**: n.
 
@@ -6924,23 +4576,13 @@ like the real thing in that it tends to raise hackers' blood pressures
 in an unhealthy way. Compare
 `candygrammar <./C.html#candygrammar.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------------+
-| `Prev <sync.html>`__    | `Up <../S.html>`__         |  `Next <syntactic-sugar.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
-| sync                    | `Home <../index.html>`__   |  syntactic sugar                   |
-+-------------------------+----------------------------+------------------------------------+
+ 
+ 
 
 syntactic sugar
+=====================
 
-`Prev <syntactic-salt.html>`__ 
-
-S
-
- `Next <sys-frog.html>`__
-
---------------
+ 
 
 **syntactic sugar**: n.
 
@@ -6959,46 +4601,22 @@ serves a purpose (making something more acceptable to humans), but
 syntactic saccharin or syrup serve no purpose at all. Compare
 `candygrammar <./C.html#candygrammar.html>`__, `syntactic
 salt <syntactic-salt.html>`__.
-
---------------
-
-+-----------------------------------+----------------------------+-----------------------------+
-| `Prev <syntactic-salt.html>`__    | `Up <../S.html>`__         |  `Next <sys-frog.html>`__   |
-+-----------------------------------+----------------------------+-----------------------------+
-| syntactic salt                    | `Home <../index.html>`__   |  sys-frog                   |
-+-----------------------------------+----------------------------+-----------------------------+
+ 
 
 sysadmin
-
-`Prev <sys-frog.html>`__ 
-
-S
-
- `Next <sysape.html>`__
-
---------------
+==============
+ 
 
 **sysadmin**: /sis´ad·min/, n.
 
 Common contraction of ‘system admin’; see `admin <./A.html#admin.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+---------------------------+
-| `Prev <sys-frog.html>`__    | `Up <../S.html>`__         |  `Next <sysape.html>`__   |
-+-----------------------------+----------------------------+---------------------------+
-| sys-frog                    | `Home <../index.html>`__   |  sysape                   |
-+-----------------------------+----------------------------+---------------------------+
+ 
+ 
 
 sysape
-
-`Prev <sysadmin.html>`__ 
-
-S
-
- `Next <sysop.html>`__
-
---------------
+=============
+ 
 
 **sysape**: /sys´ayp/, n.
 
@@ -7007,46 +4625,22 @@ A rather derogatory term for a computer operator; a play on
 of problem complexity (see `one-banana
 problem <./O.html#one-banana-problem.html>`__).
 
---------------
-
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <sysadmin.html>`__    | `Up <../S.html>`__         |  `Next <sysop.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| sysadmin                    | `Home <../index.html>`__   |  sysop                   |
-+-----------------------------+----------------------------+--------------------------+
+  
 
 sys-frog
-
-`Prev <syntactic-sugar.html>`__ 
-
-S
-
- `Next <sysadmin.html>`__
-
---------------
+===================
+ 
 
 **sys-frog**: /sis´frog/, n.
 
 [the PLATO system] Playful variant of sysprog, which is in turn short
 for ‘systems programmer’.
 
---------------
-
-+------------------------------------+----------------------------+-----------------------------+
-| `Prev <syntactic-sugar.html>`__    | `Up <../S.html>`__         |  `Next <sysadmin.html>`__   |
-+------------------------------------+----------------------------+-----------------------------+
-| syntactic sugar                    | `Home <../index.html>`__   |  sysadmin                   |
-+------------------------------------+----------------------------+-----------------------------+
+ 
 
 sysop
-
-`Prev <sysape.html>`__ 
-
-S
-
- `Next <system.html>`__
-
---------------
+===========
+ 
 
 **sysop**: /sis´op/, n.
 
@@ -7056,23 +4650,11 @@ bulletin-board system. A common neophyte mistake on
 international FidoNet board, thus sending it to hundreds of sysops
 around the world.
 
---------------
-
-+---------------------------+----------------------------+---------------------------+
-| `Prev <sysape.html>`__    | `Up <../S.html>`__         |  `Next <system.html>`__   |
-+---------------------------+----------------------------+---------------------------+
-| sysape                    | `Home <../index.html>`__   |  system                   |
-+---------------------------+----------------------------+---------------------------+
+ 
 
 system
-
-`Prev <sysop.html>`__ 
-
-S
-
- `Next <system-mangler.html>`__
-
---------------
+=============
+ 
 
 **system**: n.
 
@@ -7088,23 +4670,12 @@ supervisor program or OS, and possibly other software.
 5. System hacker: one who hacks the system (in senses 1 and 2 only; for
 sense 3 one mentions the particular program: e.g., LISP hacker)
 
---------------
-
-+--------------------------+----------------------------+-----------------------------------+
-| `Prev <sysop.html>`__    | `Up <../S.html>`__         |  `Next <system-mangler.html>`__   |
-+--------------------------+----------------------------+-----------------------------------+
-| sysop                    | `Home <../index.html>`__   |  system mangler                   |
-+--------------------------+----------------------------+-----------------------------------+
+ 
+ 
 
 system mangler
-
-`Prev <system.html>`__ 
-
-S
-
- `Next <systems-jock.html>`__
-
---------------
+======================
+ 
 
 **system mangler**: n.
 
@@ -7115,33 +4686,17 @@ software maintenance, and updates at some site. Unlike
 `admin <./A.html#admin.html>`__, this term emphasizes the technical end of
 the skills involved.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------+
-| `Prev <system.html>`__    | `Up <../S.html>`__         |  `Next <systems-jock.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
-| system                    | `Home <../index.html>`__   |  systems jock                   |
-+---------------------------+----------------------------+---------------------------------+
+ 
+ 
 
 systems jock
-
-`Prev <system-mangler.html>`__ 
-
-S
-
- `Next <../T.html>`__
-
---------------
+=============
+ 
 
 **systems jock**: n.
 
 See `jock <./J.html#jock.html>`__, sense 2.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------+
-| `Prev <system-mangler.html>`__    | `Up <../S.html>`__         |  `Next <../T.html>`__   |
-+-----------------------------------+----------------------------+-------------------------+
-| system mangler                    | `Home <../index.html>`__   |  T                      |
-+-----------------------------------+----------------------------+-------------------------+
+ 
+ 
 

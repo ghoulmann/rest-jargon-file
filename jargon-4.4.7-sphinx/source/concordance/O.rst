@@ -3,14 +3,8 @@ O
 ===
 
 Obfuscated C Contest
-
-`Prev <Ob-.html>`__ 
-
-O
-
- `Next <obi-wan-error.html>`__
-
---------------
+=========================
+ 
 
 **Obfuscated C Contest**: n.
 
@@ -26,7 +20,7 @@ works of art, and (c) horrible examples of how *not* to code in C.
 This relatively short and sweet entry might help convey the flavor of
 obfuscated C:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: programlisting                                                 |
 |                                                                          |
 |     /*                                                                   |
@@ -39,11 +33,11 @@ obfuscated C:
 |     (!!c)[*c]&&(v--||--c&&execlp(*c,*c,c[!!c]+!!c,!c));                  |
 |     **c=!c)write(!!*c,*c,!!**c);}                                        |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 Here's another good one:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: programlisting                                                 |
 |                                                                          |
 |     /*                                                                   |
@@ -74,7 +68,7 @@ Here's another good one:
 |                 _-_-_-_                                                  |
 |     }                                                                    |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 Note that this program works by computing its own area. For more digits,
 write a bigger program. See also `hello
@@ -83,23 +77,11 @@ world <./H.html#hello-world.html>`__.
 The IOCCC has an official home page at
 `http://www.ioccc.org/ <http://www.ioccc.org/>`__.
 
---------------
-
-+------------------------+----------------------------+----------------------------------+
-| `Prev <Ob-.html>`__    | `Up <../O.html>`__         |  `Next <obi-wan-error.html>`__   |
-+------------------------+----------------------------+----------------------------------+
-| Ob-                    | `Home <../index.html>`__   |  obi-wan error                   |
-+------------------------+----------------------------+----------------------------------+
-
+ 
 Ob-
+=========
 
-`Prev <../O.html>`__ 
-
-O
-
- `Next <Obfuscated-C-Contest.html>`__
-
---------------
+ 
 
 **Ob-**: /ob/, pref.
 
@@ -112,23 +94,11 @@ or vignette about some unusual erotic act. It is considered a sign of
 great `winnitude <./W.html#winnitude.html>`__ when one's Obs are more
 interesting than other people's whole postings.
 
---------------
-
-+-------------------------+----------------------------+-----------------------------------------+
-| `Prev <../O.html>`__    | `Up <../O.html>`__         |  `Next <Obfuscated-C-Contest.html>`__   |
-+-------------------------+----------------------------+-----------------------------------------+
-| O                       | `Home <../index.html>`__   |  Obfuscated C Contest                   |
-+-------------------------+----------------------------+-----------------------------------------+
-
+ 
 obi-wan error
+==================
 
-`Prev <Obfuscated-C-Contest.html>`__ 
-
-O
-
- `Next <Objectionable-C.html>`__
-
---------------
+ 
 
 **obi-wan error**: /oh´bee·won\` er'@r/, n.
 
@@ -141,23 +111,12 @@ from 1.
 2. A kind of `off-by-one error <off-by-one-error.html>`__. See also
 `zeroth <./Z.html#zeroth.html>`__.
 
---------------
+ 
 
-+-----------------------------------------+----------------------------+------------------------------------+
-| `Prev <Obfuscated-C-Contest.html>`__    | `Up <../O.html>`__         |  `Next <Objectionable-C.html>`__   |
-+-----------------------------------------+----------------------------+------------------------------------+
-| Obfuscated C Contest                    | `Home <../index.html>`__   |  Objectionable-C                   |
-+-----------------------------------------+----------------------------+------------------------------------+
 
 Objectionable-C
-
-`Prev <obi-wan-error.html>`__ 
-
-O
-
- `Next <obscure.html>`__
-
---------------
+=======================
+ 
 
 **Objectionable-C**: n.
 
@@ -168,23 +127,11 @@ syntax, but lacks the flexibility of Smalltalk method calls, and (like
 many such efforts) comes frustratingly close to attaining the `Right
 Thing <./R.html#Right-Thing.html>`__ without actually doing so.
 
---------------
 
-+----------------------------------+----------------------------+----------------------------+
-| `Prev <obi-wan-error.html>`__    | `Up <../O.html>`__         |  `Next <obscure.html>`__   |
-+----------------------------------+----------------------------+----------------------------+
-| obi-wan error                    | `Home <../index.html>`__   |  obscure                   |
-+----------------------------------+----------------------------+----------------------------+
 
 obscure
-
-`Prev <Objectionable-C.html>`__ 
-
-O
-
- `Next <octal-forty.html>`__
-
---------------
+==============
+ 
 
 **obscure**: adj.
 
@@ -195,23 +142,12 @@ implies that something could be figured out but probably isn't worth the
 trouble. The construction obscure in the extreme is the preferred
 emphatic form.
 
---------------
-
-+------------------------------------+----------------------------+--------------------------------+
-| `Prev <Objectionable-C.html>`__    | `Up <../O.html>`__         |  `Next <octal-forty.html>`__   |
-+------------------------------------+----------------------------+--------------------------------+
-| Objectionable-C                    | `Home <../index.html>`__   |  octal forty                   |
-+------------------------------------+----------------------------+--------------------------------+
+ 
 
 octal forty
+===================
 
-`Prev <obscure.html>`__ 
-
-O
-
- `Next <off-the-trolley.html>`__
-
---------------
+ 
 
 **octal forty**: /ok´tl for´tee/, n.
 
@@ -221,23 +157,10 @@ coincidence, `hex <./H.html#hex.html>`__ 40 (01000000) is the
 `EBCDIC <./E.html#EBCDIC.html>`__ space character. See
 `wall <./W.html#wall.html>`__.
 
---------------
-
-+----------------------------+----------------------------+------------------------------------+
-| `Prev <obscure.html>`__    | `Up <../O.html>`__         |  `Next <off-the-trolley.html>`__   |
-+----------------------------+----------------------------+------------------------------------+
-| obscure                    | `Home <../index.html>`__   |  off the trolley                   |
-+----------------------------+----------------------------+------------------------------------+
-
+ 
 off-by-one error
-
-`Prev <off-the-trolley.html>`__ 
-
-O
-
- `Next <offline.html>`__
-
---------------
+========================
+ 
 
 **off-by-one error**: n.
 
@@ -249,23 +172,10 @@ it. Often confounded with `fencepost
 error <./F.html#fencepost-error.html>`__, which is properly a particular
 subtype of it.
 
---------------
-
-+------------------------------------+----------------------------+----------------------------+
-| `Prev <off-the-trolley.html>`__    | `Up <../O.html>`__         |  `Next <offline.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
-| off the trolley                    | `Home <../index.html>`__   |  offline                   |
-+------------------------------------+----------------------------+----------------------------+
-
 offline
+=============
 
-`Prev <off-by-one-error.html>`__ 
-
-O
-
- `Next <ogg.html>`__
-
---------------
+ 
 
 **offline**: adv.
 
@@ -273,23 +183,11 @@ Not now or not here. “Let's take this discussion offline.” Specifically
 used on `Usenet <./U.html#Usenet.html>`__ to suggest that a discussion be
 moved off a public newsgroup to email.
 
---------------
-
-+-------------------------------------+----------------------------+------------------------+
-| `Prev <off-by-one-error.html>`__    | `Up <../O.html>`__         |  `Next <ogg.html>`__   |
-+-------------------------------------+----------------------------+------------------------+
-| off-by-one error                    | `Home <../index.html>`__   |  ogg                   |
-+-------------------------------------+----------------------------+------------------------+
+ 
 
 off the trolley
-
-`Prev <octal-forty.html>`__ 
-
-O
-
- `Next <off-by-one-error.html>`__
-
---------------
+=================
+ 
 
 **off the trolley**: adj.
 
@@ -311,23 +209,10 @@ streetcars became common in the 1890s, the term is more than 100 years
 old. Nowadays, trolleys are only seen on historic streetcars, since
 modern streetcars use pantographs to contact the wire.
 
---------------
-
-+--------------------------------+----------------------------+-------------------------------------+
-| `Prev <octal-forty.html>`__    | `Up <../O.html>`__         |  `Next <off-by-one-error.html>`__   |
-+--------------------------------+----------------------------+-------------------------------------+
-| octal forty                    | `Home <../index.html>`__   |  off-by-one error                   |
-+--------------------------------+----------------------------+-------------------------------------+
 
 ogg
-
-`Prev <offline.html>`__ 
-
-O
-
- `Next <suffix-oid.html>`__
-
---------------
+==========
+ 
 
 **ogg**: /og/, v.
 
@@ -354,23 +239,11 @@ drain on future resources. “I guess I'd better go ogg the problem set
 that's due tomorrow.” “Whoops! I looked down at the map for a sec and
 almost ogged that oncoming car.”
 
---------------
+ 
 
-+----------------------------+----------------------------+-------------------------------+
-| `Prev <offline.html>`__    | `Up <../O.html>`__         |  `Next <suffix-oid.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
-| offline                    | `Home <../index.html>`__   |  -oid                         |
-+----------------------------+----------------------------+-------------------------------+
 
 old fart
-
-`Prev <suffix-oid.html>`__ 
-
-O
-
- `Next <Old-Testament.html>`__
-
---------------
+=============
 
 **old fart**: n.
 
@@ -381,23 +254,11 @@ File contributions of great archeological significance. This is a term
 of insult in the second or third person but one of pride in first
 person.
 
---------------
-
-+-------------------------------+----------------------------+----------------------------------+
-| `Prev <suffix-oid.html>`__    | `Up <../O.html>`__         |  `Next <Old-Testament.html>`__   |
-+-------------------------------+----------------------------+----------------------------------+
-| -oid                          | `Home <../index.html>`__   |  Old Testament                   |
-+-------------------------------+----------------------------+----------------------------------+
-
+ 
 Old Testament
+===================
 
-`Prev <old-fart.html>`__ 
-
-O
-
- `Next <on-the-gripping-hand.html>`__
-
---------------
+ 
 
 **Old Testament**: n.
 
@@ -405,23 +266,12 @@ O
 `K&R <./K.html#K-ampersand-R.html>`__, the sacred text describing
 `Classic C <./C.html#Classic-C.html>`__.
 
---------------
-
-+-----------------------------+----------------------------+-----------------------------------------+
-| `Prev <old-fart.html>`__    | `Up <../O.html>`__         |  `Next <on-the-gripping-hand.html>`__   |
-+-----------------------------+----------------------------+-----------------------------------------+
-| old fart                    | `Home <../index.html>`__   |  on the gripping hand                   |
-+-----------------------------+----------------------------+-----------------------------------------+
+ 
 
 one-banana problem
+====================
 
-`Prev <on-the-gripping-hand.html>`__ 
-
-O
-
- `Next <one-line-fix.html>`__
-
---------------
+ 
 
 **one-banana problem**: n.
 
@@ -444,23 +294,10 @@ asks the manufacturers to send someone around to check things.
 See also `Infinite-Monkey
 Theorem <./I.html#Infinite-Monkey-Theorem.html>`__.
 
---------------
-
-+-----------------------------------------+----------------------------+---------------------------------+
-| `Prev <on-the-gripping-hand.html>`__    | `Up <../O.html>`__         |  `Next <one-line-fix.html>`__   |
-+-----------------------------------------+----------------------------+---------------------------------+
-| on the gripping hand                    | `Home <../index.html>`__   |  one-line fix                   |
-+-----------------------------------------+----------------------------+---------------------------------+
-
+ 
 one-line fix
-
-`Prev <one-banana-problem.html>`__ 
-
-O
-
- `Next <one-liner-wars.html>`__
-
---------------
+=================
+ 
 
 **one-line fix**: n.
 
@@ -469,23 +306,10 @@ be trivial or insignificant right up to the moment it crashes the
 system. Usually ‘cured’ by another one-line fix. See also `I didn't
 change anything! <./I.html#I-didn-t-change-anything-.html>`__
 
---------------
-
-+---------------------------------------+----------------------------+-----------------------------------+
-| `Prev <one-banana-problem.html>`__    | `Up <../O.html>`__         |  `Next <one-liner-wars.html>`__   |
-+---------------------------------------+----------------------------+-----------------------------------+
-| one-banana problem                    | `Home <../index.html>`__   |  one-liner wars                   |
-+---------------------------------------+----------------------------+-----------------------------------+
 
 one-liner wars
-
-`Prev <one-line-fix.html>`__ 
-
-O
-
- `Next <ooblick.html>`__
-
---------------
+==================
+ 
 
 **one-liner wars**: n.
 
@@ -502,42 +326,30 @@ Ken Iverson, the inventor of APL, has been credited with a one-liner
 that, given a number "N", produces a list of the prime numbers from 1
 to "N" inclusive. It looks like this:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: programlisting                                                 |
 |                                                                          |
 |         (2=0+.=T∅.|T)/T←ιN                                               |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 Here's a `Perl <./P.html#Perl.html>`__ program that prints primes:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: programlisting                                                 |
 |                                                                          |
 |             perl -wle '(1 x $_) !~ /^(11+)\1+$/ && print while ++ $_'    |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 In the Perl world this game is sometimes called Perl Golf because the
 player with the fewest (key)strokes wins.
 
---------------
-
-+---------------------------------+----------------------------+----------------------------+
-| `Prev <one-line-fix.html>`__    | `Up <../O.html>`__         |  `Next <ooblick.html>`__   |
-+---------------------------------+----------------------------+----------------------------+
-| one-line fix                    | `Home <../index.html>`__   |  ooblick                   |
-+---------------------------------+----------------------------+----------------------------+
+ 
 
 on the gripping hand
-
-`Prev <Old-Testament.html>`__ 
-
-O
-
- `Next <one-banana-problem.html>`__
-
---------------
+=============================
+ 
 
 **on the gripping hand**
 
@@ -553,23 +365,11 @@ eggs <./J.html#juggling-eggs.html>`__). As with
 this usage became one of the naturalized imports from SF fandom
 frequently observed among hackers.
 
---------------
-
-+----------------------------------+----------------------------+---------------------------------------+
-| `Prev <Old-Testament.html>`__    | `Up <../O.html>`__         |  `Next <one-banana-problem.html>`__   |
-+----------------------------------+----------------------------+---------------------------------------+
-| Old Testament                    | `Home <../index.html>`__   |  one-banana problem                   |
-+----------------------------------+----------------------------+---------------------------------------+
+ 
 
 ooblick
-
-`Prev <one-liner-wars.html>`__ 
-
-O
-
- `Next <thread-OP.html>`__
-
---------------
+=================
+ 
 
 **ooblick**: /oo´blik/, n.
 
@@ -601,23 +401,13 @@ that the various mixed states the cornstarch goes through as it
 ingredients of this experience, see the *`Ceremonial
 Chemicals <../chemicals.html>`__* section of Appendix B.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+------------------------------+
-| `Prev <one-liner-wars.html>`__    | `Up <../O.html>`__         |  `Next <thread-OP.html>`__   |
-+-----------------------------------+----------------------------+------------------------------+
-| one-liner wars                    | `Home <../index.html>`__   |  OP                          |
-+-----------------------------------+----------------------------+------------------------------+
 
 open
+==
 
-`Prev <op.html>`__ 
-
-O
-
- `Next <open-source.html>`__
-
---------------
+ 
 
 **open**: n.
 
@@ -626,23 +416,17 @@ eliminate oral ambiguity. To read aloud the LISP form (DEFUN FOO (X)
 (PLUS X 1)) one might say: “Open defun foo, open eks close, open, plus
 eks one, close close.”
 
---------------
+ 
 
-+-----------------------+----------------------------+--------------------------------+
++ ---------+  +  ----+
 | `Prev <op.html>`__    | `Up <../O.html>`__         |  `Next <open-source.html>`__   |
-+-----------------------+----------------------------+--------------------------------+
++ ---------+  +  ----+
 | op                    | `Home <../index.html>`__   |  open source                   |
-+-----------------------+----------------------------+--------------------------------+
++ ---------+  +  ----+
 
 open source
-
-`Prev <open.html>`__ 
-
-O
-
- `Next <open-switch.html>`__
-
---------------
+=================
+ 
 
 **open source**: n.
 
@@ -669,46 +453,23 @@ tools; entire open-source environments like
 a usable form until around 1993 and weren't taken very seriously by
 anyone but a pioneering few until about five years later.
 
---------------
-
-+-------------------------+----------------------------+--------------------------------+
-| `Prev <open.html>`__    | `Up <../O.html>`__         |  `Next <open-switch.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
-| open                    | `Home <../index.html>`__   |  open switch                   |
-+-------------------------+----------------------------+--------------------------------+
+ 
 
 open switch
-
-`Prev <open-source.html>`__ 
-
-O
-
- `Next <operating-system.html>`__
-
---------------
+=================
+ 
 
 **open switch**: n.
 
 [IBM: prob.: from railroading] An unresolved question, issue, or
 problem.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-------------------------------------+
-| `Prev <open-source.html>`__    | `Up <../O.html>`__         |  `Next <operating-system.html>`__   |
-+--------------------------------+----------------------------+-------------------------------------+
-| open source                    | `Home <../index.html>`__   |  operating system                   |
-+--------------------------------+----------------------------+-------------------------------------+
 
 operating system
-
-`Prev <open-switch.html>`__ 
-
-O
-
- `Next <operator-headspace.html>`__
-
---------------
+========================
+ 
 
 **operating system**: n.
 
@@ -726,23 +487,11 @@ shaped primarily by the `Unix <./U.html#Unix.html>`__,
 operating systems (most importantly by ITS and Unix). See also
 `timesharing <./T.html#timesharing.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------------------+
-| `Prev <open-switch.html>`__    | `Up <../O.html>`__         |  `Next <operator-headspace.html>`__   |
-+--------------------------------+----------------------------+---------------------------------------+
-| open switch                    | `Home <../index.html>`__   |  operator headspace                   |
-+--------------------------------+----------------------------+---------------------------------------+
+ 
 
 operator headspace
-
-`Prev <operating-system.html>`__ 
-
-O
-
- `Next <optical-diff.html>`__
-
---------------
+===========================
+ 
 
 **operator headspace**
 
@@ -750,23 +499,11 @@ O
 error <./P.html#pilot-error.html>`__ — a dumb move, especially one pulled
 by someone who ought to know better. Often used reflexively.
 
---------------
-
-+-------------------------------------+----------------------------+---------------------------------+
-| `Prev <operating-system.html>`__    | `Up <../O.html>`__         |  `Next <optical-diff.html>`__   |
-+-------------------------------------+----------------------------+---------------------------------+
-| operating system                    | `Home <../index.html>`__   |  optical diff                   |
-+-------------------------------------+----------------------------+---------------------------------+
+ 
 
 op
 
-`Prev <thread-OP.html>`__ 
-
-O
-
- `Next <open.html>`__
-
---------------
+ 
 
 **op**: /op/, n.
 
@@ -780,67 +517,30 @@ are generally people who are in charge of the IRC server at their
 particular site. Sometimes used interchangeably with
 `CHOP <./C.html#CHOP.html>`__. Compare `sysop <./S.html#sysop.html>`__.
 
---------------
-
-+------------------------------+----------------------------+-------------------------+
-| `Prev <thread-OP.html>`__    | `Up <../O.html>`__         |  `Next <open.html>`__   |
-+------------------------------+----------------------------+-------------------------+
-| OP                           | `Home <../index.html>`__   |  open                   |
-+------------------------------+----------------------------+-------------------------+
 
 optical diff
+===============
 
-`Prev <operator-headspace.html>`__ 
-
-O
-
- `Next <optical-grep.html>`__
-
---------------
+ 
 
 **optical diff**: n.
 
 See `vdiff <./V.html#vdiff.html>`__.
 
---------------
-
-+---------------------------------------+----------------------------+---------------------------------+
-| `Prev <operator-headspace.html>`__    | `Up <../O.html>`__         |  `Next <optical-grep.html>`__   |
-+---------------------------------------+----------------------------+---------------------------------+
-| operator headspace                    | `Home <../index.html>`__   |  optical grep                   |
-+---------------------------------------+----------------------------+---------------------------------+
-
+ 
 optical grep
-
-`Prev <optical-diff.html>`__ 
-
-O
-
- `Next <optimism.html>`__
-
---------------
+=======================
+ 
 
 **optical grep**: n.
 
 See `vgrep <./V.html#vgrep.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-----------------------------+
-| `Prev <optical-diff.html>`__    | `Up <../O.html>`__         |  `Next <optimism.html>`__   |
-+---------------------------------+----------------------------+-----------------------------+
-| optical diff                    | `Home <../index.html>`__   |  optimism                   |
-+---------------------------------+----------------------------+-----------------------------+
 
 optimism
-
-`Prev <optical-grep.html>`__ 
-
-O
-
- `Next <Oracle--the.html>`__
-
---------------
+==============
 
 **optimism**: n.
 
@@ -861,23 +561,12 @@ describes this extremely well:
 See also `Lubarsky's Law of Cybernetic
 Entomology <./L.html#Lubarskys-Law-of-Cybernetic-Entomology.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <optical-grep.html>`__    | `Up <../O.html>`__         |  `Next <Oracle--the.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| optical grep                    | `Home <../index.html>`__   |  Oracle, the                   |
-+---------------------------------+----------------------------+--------------------------------+
 
 Oracle, the
-
-`Prev <optimism.html>`__ 
-
-O
-
- `Next <Orange-Book.html>`__
-
---------------
+=
+ 
 
 **Oracle, the**
 
@@ -890,23 +579,11 @@ situations, “Don't people bother to look at the newsgroup description
 line anymore?” (To which the standard response is, “Did people ever read
 it in the first place?”)
 
---------------
 
-+-----------------------------+----------------------------+--------------------------------+
-| `Prev <optimism.html>`__    | `Up <../O.html>`__         |  `Next <Orange-Book.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
-| optimism                    | `Home <../index.html>`__   |  Orange Book                   |
-+-----------------------------+----------------------------+--------------------------------+
 
 Orange Book
-
-`Prev <Oracle--the.html>`__ 
-
-O
-
- `Next <oriental-food.html>`__
-
---------------
+==============
+ 
 
 **Orange Book**: n.
 
@@ -916,23 +593,11 @@ Computer System Evaluation Criteria, DOD standard 5200.28-STD, December,
 levels A1 (most secure) through D (least). Modern Unixes are roughly C2.
 See also `book titles <./B.html#book-titles.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+----------------------------------+
-| `Prev <Oracle--the.html>`__    | `Up <../O.html>`__         |  `Next <oriental-food.html>`__   |
-+--------------------------------+----------------------------+----------------------------------+
-| Oracle, the                    | `Home <../index.html>`__   |  oriental food                   |
-+--------------------------------+----------------------------+----------------------------------+
+ 
 
 oriental food
-
-`Prev <Orange-Book.html>`__ 
-
-O
-
- `Next <orphan.html>`__
-
---------------
+===================
+ 
 
 **oriental food**: n.
 
@@ -950,23 +615,11 @@ chicken <./L.html#laser-chicken.html>`__, `Yu-Shiang Whole
 Fish <./Y.html#Yu-Shiang-Whole-Fish.html>`__. Thai, Indian, Korean,
 Burmese, and Vietnamese cuisines are also quite popular.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------+
-| `Prev <Orange-Book.html>`__    | `Up <../O.html>`__         |  `Next <orphan.html>`__   |
-+--------------------------------+----------------------------+---------------------------+
-| Orange Book                    | `Home <../index.html>`__   |  orphan                   |
-+--------------------------------+----------------------------+---------------------------+
+ 
 
 orphaned i-node
-
-`Prev <orphan.html>`__ 
-
-O
-
- `Next <orthogonal.html>`__
-
---------------
+=======================
+ 
 
 **orphaned i-node**: /or´f@nd i:´nohd/, n.
 
@@ -979,46 +632,22 @@ directories of a filesystem.
 function within some organization, esp. `lion
 food <./L.html#lion-food.html>`__ without subordinates.
 
---------------
+ 
 
-+---------------------------+----------------------------+-------------------------------+
-| `Prev <orphan.html>`__    | `Up <../O.html>`__         |  `Next <orthogonal.html>`__   |
-+---------------------------+----------------------------+-------------------------------+
-| orphan                    | `Home <../index.html>`__   |  orthogonal                   |
-+---------------------------+----------------------------+-------------------------------+
 
 orphan
-
-`Prev <oriental-food.html>`__ 
-
-O
-
- `Next <orphaned-i-node.html>`__
-
---------------
+===========
+ 
 
 **orphan**: n.
 
 [Unix] A process whose parent has died; one inherited by init(1).
 Compare `zombie <./Z.html#zombie.html>`__.
 
---------------
-
-+----------------------------------+----------------------------+------------------------------------+
-| `Prev <oriental-food.html>`__    | `Up <../O.html>`__         |  `Next <orphaned-i-node.html>`__   |
-+----------------------------------+----------------------------+------------------------------------+
-| oriental food                    | `Home <../index.html>`__   |  orphaned i-node                   |
-+----------------------------------+----------------------------+------------------------------------+
+ 
 
 orthogonal
-
-`Prev <orphaned-i-node.html>`__ 
-
-O
-
- `Next <OS.html>`__
-
---------------
+==============
 
 **orthogonal**: adj.
 
@@ -1036,23 +665,11 @@ operators not and or is orthogonal, but the set nand, or, and not is not
 used in comments on human discourse: “This may be orthogonal to the
 discussion, but....”
 
---------------
-
-+------------------------------------+----------------------------+-----------------------+
-| `Prev <orphaned-i-node.html>`__    | `Up <../O.html>`__         |  `Next <OS.html>`__   |
-+------------------------------------+----------------------------+-----------------------+
-| orphaned i-node                    | `Home <../index.html>`__   |  OS                   |
-+------------------------------------+----------------------------+-----------------------+
+ 
 
 OS/2
-
-`Prev <OS.html>`__ 
-
-O
-
- `Next <OSS.html>`__
-
---------------
+======
+ 
 
 **OS/2**: /O S too/, n.
 
@@ -1074,23 +691,10 @@ possibility of a renaissance. See
 `cretinous <./C.html#cretinous.html>`__, `second-system
 effect <./S.html#second-system-effect.html>`__.
 
---------------
-
-+-----------------------+----------------------------+------------------------+
-| `Prev <OS.html>`__    | `Up <../O.html>`__         |  `Next <OSS.html>`__   |
-+-----------------------+----------------------------+------------------------+
-| OS                    | `Home <../index.html>`__   |  OSS                   |
-+-----------------------+----------------------------+------------------------+
-
+ 
 OS
-
-`Prev <orthogonal.html>`__ 
-
-O
-
- `Next <OS-2.html>`__
-
---------------
+======
+ 
 
 **OS**: /O·S/
 
@@ -1100,23 +704,11 @@ occasionally in speech.
 2. n. obs. On ITS, an output spy. See *`OS and
 JEDGAR <../os-and-jedgar.html>`__* in Appendix A.
 
---------------
-
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <orthogonal.html>`__    | `Up <../O.html>`__         |  `Next <OS-2.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| orthogonal                    | `Home <../index.html>`__   |  OS/2                   |
-+-------------------------------+----------------------------+-------------------------+
+ 
 
 OSS
-
-`Prev <OS-2.html>`__ 
-
-O
-
- `Next <OT.html>`__
-
---------------
+========
+ 
 
 **OSS**
 
@@ -1126,23 +718,11 @@ source <open-source.html>`__). This is a rather ugly
 movement don't use it, but it has (perhaps inevitably) spread through
 the trade press like kudzu.
 
---------------
-
-+-------------------------+----------------------------+-----------------------+
-| `Prev <OS-2.html>`__    | `Up <../O.html>`__         |  `Next <OT.html>`__   |
-+-------------------------+----------------------------+-----------------------+
-| OS/2                    | `Home <../index.html>`__   |  OT                   |
-+-------------------------+----------------------------+-----------------------+
+ 
 
 OT
-
-`Prev <OSS.html>`__ 
-
-O
-
- `Next <OTOH.html>`__
-
---------------
+=====
+ 
 
 **OT**: //
 
@@ -1151,45 +731,20 @@ to a question that is inappropriate for the newsgroup that the
 questioner posted to. Often used in an HTML-style modifier or with
 adverbs. See also `TAN <./T.html#TAN.html>`__.
 
---------------
-
-+------------------------+----------------------------+-------------------------+
-| `Prev <OSS.html>`__    | `Up <../O.html>`__         |  `Next <OTOH.html>`__   |
-+------------------------+----------------------------+-------------------------+
-| OSS                    | `Home <../index.html>`__   |  OTOH                   |
-+------------------------+----------------------------+-------------------------+
-
+ 
 OTOH
+========
 
-`Prev <OT.html>`__ 
-
-O
-
- `Next <out-of-band.html>`__
-
---------------
+ 
 
 **OTOH**: //
 
 [Usenet; very common] On The Other Hand.
 
---------------
-
-+-----------------------+----------------------------+--------------------------------+
-| `Prev <OT.html>`__    | `Up <../O.html>`__         |  `Next <out-of-band.html>`__   |
-+-----------------------+----------------------------+--------------------------------+
-| OT                    | `Home <../index.html>`__   |  out-of-band                   |
-+-----------------------+----------------------------+--------------------------------+
-
+ 
 out-of-band
-
-`Prev <OTOH.html>`__ 
-
-O
-
- `Next <overclock.html>`__
-
---------------
+=================
+ 
 
 **out-of-band**: adj.
 
@@ -1210,23 +765,11 @@ terminals, or the level shift indicators in the old 5-bit Baudot codes.
 3. In personal communication, using methods other than email, such as
 telephones or `snail-mail <./S.html#snail-mail.html>`__.
 
---------------
-
-+-------------------------+----------------------------+------------------------------+
-| `Prev <OTOH.html>`__    | `Up <../O.html>`__         |  `Next <overclock.html>`__   |
-+-------------------------+----------------------------+------------------------------+
-| OTOH                    | `Home <../index.html>`__   |  overclock                   |
-+-------------------------+----------------------------+------------------------------+
+ 
 
 overclock
-
-`Prev <out-of-band.html>`__ 
-
-O
-
- `Next <overflow-bit.html>`__
-
---------------
+===============
+ 
 
 **overclock**: /oh´vr·klok´/, vt.
 
@@ -1242,23 +785,10 @@ their CPU a few percent faster, even though they can only tell the
 difference by running a `benchmark <./B.html#benchmark.html>`__ program.
 See also `case mod <./C.html#case-mod.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+---------------------------------+
-| `Prev <out-of-band.html>`__    | `Up <../O.html>`__         |  `Next <overflow-bit.html>`__   |
-+--------------------------------+----------------------------+---------------------------------+
-| out-of-band                    | `Home <../index.html>`__   |  overflow bit                   |
-+--------------------------------+----------------------------+---------------------------------+
 
 overflow bit
-
-`Prev <overclock.html>`__ 
-
-O
-
- `Next <overrun.html>`__
-
---------------
+===================
+ 
 
 **overflow bit**: n.
 
@@ -1283,24 +813,13 @@ Crunchly and the `overflow bit <overflow-bit.html>`__.
 `73-07-29 <./B.html#bug.html#crunchly73-07-29>`__. The previous one is
 `73-06-04 <./G.html#glitch.html#crunchly73-06-04>`__.)
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------+
-| `Prev <overclock.html>`__    | `Up <../O.html>`__         |  `Next <overrun.html>`__   |
-+------------------------------+----------------------------+----------------------------+
-| overclock                    | `Home <../index.html>`__   |  overrun                   |
-+------------------------------+----------------------------+----------------------------+
 
 .. |image0| image:: ../_static/73-07-24.png
 overrun
-
-`Prev <overflow-bit.html>`__ 
-
-O
-
- `Next <overrun-screw.html>`__
-
---------------
+===============
+ 
 
 **overrun**: n.
 
@@ -1322,23 +841,12 @@ syndrome <./F.html#firehose-syndrome.html>`__.
 overflow <./B.html#buffer-overflow.html>`__ not necessarily related to
 processing time (as in `overrun screw <overrun-screw.html>`__).
 
---------------
 
-+---------------------------------+----------------------------+----------------------------------+
-| `Prev <overflow-bit.html>`__    | `Up <../O.html>`__         |  `Next <overrun-screw.html>`__   |
-+---------------------------------+----------------------------+----------------------------------+
-| overflow bit                    | `Home <../index.html>`__   |  overrun screw                   |
-+---------------------------------+----------------------------+----------------------------------+
 
 overrun screw
+===================
 
-`Prev <overrun.html>`__ 
-
-O
-
- `Next <owned.html>`__
-
---------------
+ 
 
 **overrun screw**: n.
 
@@ -1362,23 +870,13 @@ lossage <./P.html#precedence-lossage.html>`__, `fandango on
 core <./F.html#fandango-on-core.html>`__, `secondary
 damage <./S.html#secondary-damage.html>`__.
 
---------------
+ 
 
-+----------------------------+----------------------------+--------------------------+
-| `Prev <overrun.html>`__    | `Up <../O.html>`__         |  `Next <owned.html>`__   |
-+----------------------------+----------------------------+--------------------------+
-| overrun                    | `Home <../index.html>`__   |  owned                   |
-+----------------------------+----------------------------+--------------------------+
 
 owned
+===========
 
-`Prev <overrun-screw.html>`__ 
-
-O
-
- `Next <../P.html>`__
-
---------------
+ 
 
 **owned**
 
@@ -1396,23 +894,12 @@ are mere lunchmeat, and that no ordinary mortal player would even
 receive a point in competition. There are several spelling variants:
 0wned, 0wn0r3d, even pwn0r3d. Hackers do not use this sense.
 
---------------
-
-+----------------------------------+----------------------------+-------------------------+
-| `Prev <overrun-screw.html>`__    | `Up <../O.html>`__         |  `Next <../P.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
-| overrun screw                    | `Home <../index.html>`__   |  P                      |
-+----------------------------------+----------------------------+-------------------------+
+ 
 
 -oid
+=====
 
-`Prev <ogg.html>`__ 
-
-O
-
- `Next <old-fart.html>`__
-
---------------
+ 
 
 **-oid**: suff.
 
@@ -1444,34 +931,16 @@ making *‘-oid*\ ’ jargon for almost that long [though GLS and I can
 personally confirm only that they were already common in the mid-1970s
 —ESR].
 
---------------
-
-+------------------------+----------------------------+-----------------------------+
-| `Prev <ogg.html>`__    | `Up <../O.html>`__         |  `Next <old-fart.html>`__   |
-+------------------------+----------------------------+-----------------------------+
-| ogg                    | `Home <../index.html>`__   |  old fart                   |
-+------------------------+----------------------------+-----------------------------+
+ 
 
 OP
+===
 
-`Prev <ooblick.html>`__ 
-
-O
-
- `Next <op.html>`__
-
---------------
+ 
 
 **OP**: //
 
 [Usenet; common] Abbreviation for “original poster”, the originator of a
 particular thread.
 
---------------
-
-+----------------------------+----------------------------+-----------------------+
-| `Prev <ooblick.html>`__    | `Up <../O.html>`__         |  `Next <op.html>`__   |
-+----------------------------+----------------------------+-----------------------+
-| ooblick                    | `Home <../index.html>`__   |  op                   |
-+----------------------------+----------------------------+-----------------------+
 

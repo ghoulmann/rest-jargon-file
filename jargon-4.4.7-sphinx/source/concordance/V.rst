@@ -63,11 +63,7 @@ vanilla (wonton) soup.
 vanity domain
 ==================================
 
-`Prev <vanilla.html>`__ 
-
-V
-
- `Next <vannevar.html>`__
+ 
 
 **vanity domain**: n.
 
@@ -438,14 +434,7 @@ to hackers ever since. See also `vannevar <vannevar.html>`__.
 
 video toaster
 ===================================================
-
-`Prev <vi.html>`__ 
-
-V
-
- `Next <videotex.html>`__
-
---------------
+ 
 
 **video toaster**: n.
 
@@ -456,14 +445,8 @@ computer system designed specifically for video production and
 manipulation. Compare `web toaster <./W.html#web-toaster.html>`__ and see
 `toaster <./T.html#toaster.html>`__.
 
---------------
-
-+-----------------------+----------------------------+-----------------------------+
-| `Prev <vi.html>`__    | `Up <../V.html>`__         |  `Next <videotex.html>`__   |
-+-----------------------+----------------------------+-----------------------------+
-| vi                    | `Home <../index.html>`__   |  videotex                   |
-+-----------------------+----------------------------+-----------------------------+
-
+ 
+ 
 vi
 ====================
 
@@ -473,7 +456,7 @@ V
 
  `Next <video-toaster.html>`__
 
---------------
+ 
 
 **vi**: /V·I/, *not*, /vi:/, *never*, /siks/, n.
 
@@ -492,25 +475,10 @@ and even EMACS fans often resort to it as a mail editor and for small
 editing jobs (mainly because it starts up faster than the bulkier
 versions of EMACS). See `holy wars <./H.html#holy-wars.html>`__.
 
---------------
-
-+--------------------------+----------------------------+----------------------------------+
-| `Prev <vgrep.html>`__    | `Up <../V.html>`__         |  `Next <video-toaster.html>`__   |
-+--------------------------+----------------------------+----------------------------------+
-| vgrep                    | `Home <../index.html>`__   |  video toaster                   |
-+--------------------------+----------------------------+----------------------------------+
-
+  
 virgin
 ==================
-
-`Prev <videotex.html>`__ 
-
-V
-
- `Next <virtual.html>`__
-
---------------
-
+ 
 **virgin**: adj.
 
 Unused; pristine; in a known initial state. “Let's bring up a virgin
@@ -524,14 +492,7 @@ used.
 virtual beer
 ==============================================
 
-`Prev <virtual.html>`__ 
-
-V
-
- `Next <virtual-Friday.html>`__
-
---------------
-
+ 
 **virtual beer**: n.
 
 Praise or thanks. Used universally in the Linux community. Originally
@@ -544,13 +505,8 @@ do so.
 virtual Friday
 ================================================
 
-`Prev <virtual-beer.html>`__ 
-
-V
-
- `Next <virtual-reality.html>`__
-
---------------
+ 
+ 
 
 **virtual Friday**: n.
 
@@ -562,24 +518,13 @@ Friday (and Thursday is a virtual Saturday, as is Friday). There are
 also virtual Mondays that are actually Tuesdays, after the three-day
 weekends associated with many national holidays in the U.S.
 
---------------
+ 
 
-+---------------------------------+----------------------------+------------------------------------+
-| `Prev <virtual-beer.html>`__    | `Up <../V.html>`__         |  `Next <virtual-reality.html>`__   |
-+---------------------------------+----------------------------+------------------------------------+
-| virtual beer                    | `Home <../index.html>`__   |  virtual reality                   |
-+---------------------------------+----------------------------+------------------------------------+
-
+ 
 virtual
 ========================
-
-`Prev <virgin.html>`__ 
-
-V
-
- `Next <virtual-beer.html>`__
-
---------------
+ 
+ 
 
 **virtual**: adj.
 
@@ -595,24 +540,12 @@ convenient way to manage access to shared resources.
 there. An imaginative child's doll may be a virtual playmate. Oppose
 `real <./R.html#real.html>`__.
 
---------------
-
-+---------------------------+----------------------------+---------------------------------+
-| `Prev <virgin.html>`__    | `Up <../V.html>`__         |  `Next <virtual-beer.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
-| virgin                    | `Home <../index.html>`__   |  virtual beer                   |
-+---------------------------+----------------------------+---------------------------------+
+  
 
 virtual reality
 ===============================
 
-`Prev <virtual-Friday.html>`__ 
-
-V
-
- `Next <virtual-shredder.html>`__
-
---------------
+ 
 
 **virtual reality**: n.
 
@@ -633,24 +566,13 @@ person who ‘owns’ it. Otherwise anything goes. See
 `bamf <./B.html#bamf.html>`__, `cyberspace <./C.html#cyberspace.html>`__,
 `teledildonics <./T.html#teledildonics.html>`__.
 
---------------
-
-+-----------------------------------+----------------------------+-------------------------------------+
-| `Prev <virtual-Friday.html>`__    | `Up <../V.html>`__         |  `Next <virtual-shredder.html>`__   |
-+-----------------------------------+----------------------------+-------------------------------------+
-| virtual Friday                    | `Home <../index.html>`__   |  virtual shredder                   |
-+-----------------------------------+----------------------------+-------------------------------------+
-
+ 
+ 
 virtual shredder
 ==========================
+ 
 
-`Prev <virtual-reality.html>`__ 
-
-V
-
- `Next <virus.html>`__
-
---------------
+ 
 
 **virtual shredder**: n.
 
@@ -660,24 +582,11 @@ a whole bestiary of virtual card readers, virtual printers, and other
 phantom devices; these are used to supply some of the same capabilities
 Unix gets from pipes and I/O redirection.
 
---------------
-
-+------------------------------------+----------------------------+--------------------------+
-| `Prev <virtual-reality.html>`__    | `Up <../V.html>`__         |  `Next <virus.html>`__   |
-+------------------------------------+----------------------------+--------------------------+
-| virtual reality                    | `Home <../index.html>`__   |  virus                   |
-+------------------------------------+----------------------------+--------------------------+
+  
 
 virus
 =======================================
-
-`Prev <virtual-shredder.html>`__ 
-
-V
-
- `Next <visionary.html>`__
-
---------------
+ 
 
 **virus**: n.
 
@@ -721,13 +630,7 @@ conspiracy <./U.html#Unix-conspiracy.html>`__.
 visionary
 ===================================
 
-`Prev <virus.html>`__ 
-
-V
-
- `Next <Visual-Fred.html>`__
-
---------------
+ 
 
 **visionary**: n.
 
@@ -741,24 +644,12 @@ programmed to make use of the camera information? See
 2. [IBM] One who reads the outside literature. At IBM, apparently, such
 a penchant is viewed with awe and wonder.
 
---------------
-
-+--------------------------+----------------------------+--------------------------------+
-| `Prev <virus.html>`__    | `Up <../V.html>`__         |  `Next <Visual-Fred.html>`__   |
-+--------------------------+----------------------------+--------------------------------+
-| virus                    | `Home <../index.html>`__   |  Visual Fred                   |
-+--------------------------+----------------------------+--------------------------------+
-
+ 
+ 
 Visual Fred
 ==============================
 
-`Prev <visionary.html>`__ 
-
-V
-
- `Next <VMS.html>`__
-
---------------
+ 
 
 **Visual Fred**: n.
 
@@ -772,24 +663,12 @@ Visual Basic. Since VB.NET has essentially nothing to do with Visual
 Basic, a well-known ex-Microserf suggested that VB.NET should have a
 completely different name — Visual Fred. This rapidly caught on.
 
---------------
-
-+------------------------------+----------------------------+------------------------+
-| `Prev <visionary.html>`__    | `Up <../V.html>`__         |  `Next <VMS.html>`__   |
-+------------------------------+----------------------------+------------------------+
-| visionary                    | `Home <../index.html>`__   |  VMS                   |
-+------------------------------+----------------------------+------------------------+
+ 
+ -+  + ----------+
 
 VMS
 ==================
-
-`Prev <Visual-Fred.html>`__ 
-
-V
-
- `Next <voice.html>`__
-
---------------
+ 
 
 **VMS**: /V·M·S/, n.
 
@@ -812,48 +691,25 @@ See also `VAX <VAX.html>`__, `TOPS-10 <./T.html#TOPS-10.html>`__,
 `TOPS-20 <./T.html#TOPS-20.html>`__, `Unix <./U.html#Unix.html>`__,
 `runic <./R.html#runic.html>`__.
 
---------------
-
-+--------------------------------+----------------------------+--------------------------+
-| `Prev <Visual-Fred.html>`__    | `Up <../V.html>`__         |  `Next <voice.html>`__   |
-+--------------------------------+----------------------------+--------------------------+
-| Visual Fred                    | `Home <../index.html>`__   |  voice                   |
-+--------------------------------+----------------------------+--------------------------+
-
+ 
+ 
 voice
 ====================
-
-`Prev <VMS.html>`__ 
-
-V
-
- `Next <voice-net.html>`__
-
---------------
+ 
 
 **voice**: vt.
 
 To phone someone, as opposed to emailing them or connecting in `talk
 mode <./T.html#talk-mode.html>`__. “I'm busy now; I'll voice you later.”
 
---------------
+ 
 
-+------------------------+----------------------------+------------------------------+
-| `Prev <VMS.html>`__    | `Up <../V.html>`__         |  `Next <voice-net.html>`__   |
-+------------------------+----------------------------+------------------------------+
-| VMS                    | `Home <../index.html>`__   |  voice-net                   |
-+------------------------+----------------------------+------------------------------+
-
+ 
 voice-net
 =================================
 
-`Prev <voice.html>`__ 
-
-V
-
- `Next <voodoo-programming.html>`__
-
---------------
+ 
+ 
 
 **voice-net**: n.
 
@@ -864,14 +720,9 @@ header; common variants of this are “Voicenet” and “V-Net”. Compare
 `paper-net <./P.html#paper-net.html>`__,
 `snail-mail <./S.html#snail-mail.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+---------------------------------------+
-| `Prev <voice.html>`__    | `Up <../V.html>`__         |  `Next <voodoo-programming.html>`__   |
-+--------------------------+----------------------------+---------------------------------------+
-| voice                    | `Home <../index.html>`__   |  voodoo programming                   |
-+--------------------------+----------------------------+---------------------------------------+
-
+ 
 voodoo programming
 =================================
 
@@ -881,7 +732,7 @@ V
 
  `Next <VR.html>`__
 
---------------
+ 
 
 **voodoo programming**: n.
 
@@ -908,13 +759,8 @@ everything.
 VR
 ==============
 
-`Prev <voodoo-programming.html>`__ 
-
-V
-
- `Next <Vulcan-nerve-pinch.html>`__
-
---------------
+ 
+ 
 
 **VR**: //, n.
 
@@ -923,14 +769,8 @@ opposed to `RL <./R.html#RL.html>`__.
 
 
 Vulcan nerve pinch
-
-`Prev <VR.html>`__ 
-
-V
-
- `Next <vulture-capitalist.html>`__
-
---------------
+==================== 
+ 
 
 **Vulcan nerve pinch**: n.
 
@@ -948,18 +788,11 @@ often called the Microsoft Maneuver because of the distressing frequency
 with which Microsoft's unreliable software requires it. Compare
 `quadruple bucky <./Q.html#quadruple-bucky.html>`__.
 
---------------
-
-+-----------------------+----------------------------+---------------------------------------+
-| `Prev <VR.html>`__    | `Up <../V.html>`__         |  `Next <vulture-capitalist.html>`__   |
-+-----------------------+----------------------------+---------------------------------------+
-| VR                    | `Home <../index.html>`__   |  vulture capitalist                   |
-+-----------------------+----------------------------+---------------------------------------+
+ 
 
 vulture capitalist
 ======================
 
-`Prev <Vulcan-nerve-pinch.html>`__ 
 
 
 

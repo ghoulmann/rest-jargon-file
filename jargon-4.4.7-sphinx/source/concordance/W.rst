@@ -746,14 +746,9 @@ stuck the disk in upside down.” “Weeble....”.
 
 weeds
 ==================
+ 
 
-`Prev <#weeble>`__ 
-
-W
-
- `Next <#weenie>`__
-
---------------
+ 
 
 **weeds**: n.
 
@@ -823,12 +818,7 @@ Named independently of the ITS usage.
 well-behaved
 ==================
 
-`Prev <Weenix>`__ 
-
-W
-
- `Next <#well-connected>`__
-
+ 
 
 **well-behaved**: adj.
 
@@ -845,12 +835,7 @@ stability of the algorithm is intrinsic, which makes this somewhat
 different from `bulletproof <./B.html#bulletproof>`__.
 
 
-
-+---------------------------+----------------------------+-----------------------------------+
-| `Prev <Weenix>`__    | `Up <../W>`__         |  `Next <#well-connected>`__   |
-+---------------------------+----------------------------+-----------------------------------+
-| Weenix                    | `Home <../index>`__   |  well-connected                   |
-+---------------------------+----------------------------+-----------------------------------+
+ 
 
 well-connected
 ====================
@@ -864,14 +849,9 @@ available `Usenet <./U.html#Usenet>`__ newsgroups. Well-known can be
 almost synonymous, but also implies that the site's name is familiar to
 many (due perhaps to an archive service or active Usenet users).
 
---------------
+ 
 
-+---------------------------------+----------------------------+----------------------------+
-| `Prev <#well-behaved>`__    | `Up <../W>`__         |  `Next <#wetware>`__   |
-+---------------------------------+----------------------------+----------------------------+
-| well-behaved                    | `Home <../index>`__   |  wetware                   |
-+---------------------------------+----------------------------+----------------------------+
-
+ 
 wetware
 ==============
 
@@ -888,24 +868,18 @@ computer system, as opposed to the system's hardware or software. See
 `liveware <./L.html#liveware>`__,
 `meatware <./M.html#meatware>`__.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+--------------------------+
++  -------+  + ------------+
 | `Prev <#well-connected>`__    | `Up <../W>`__         |  `Next <#whack>`__   |
-+-----------------------------------+----------------------------+--------------------------+
++  -------+  + ------------+
 | well-connected                    | `Home <../index>`__   |  whack                   |
-+-----------------------------------+----------------------------+--------------------------+
++  -------+  + ------------+
 
 whack-a-mole
 =============================
-
-`Prev <#whack>`__ 
-
-W
-
- `Next <#whacker>`__
-
---------------
+ 
+ 
 
 **whack-a-mole**: n.
 
@@ -923,24 +897,12 @@ combinations as whack-a-mole windows; the obnoxious pop-up advertisement
 windows spawned in flocks when you surf to sites like Angelfire or
 Lycos.
 
---------------
-
-+--------------------------+----------------------------+----------------------------+
-| `Prev <#whack>`__    | `Up <../W>`__         |  `Next <#whacker>`__   |
-+--------------------------+----------------------------+----------------------------+
-| whack                    | `Home <../index>`__   |  whacker                   |
-+--------------------------+----------------------------+----------------------------+
-
+ 
 whacker
 =================
+ 
 
-`Prev <#whack-a-mole>`__ 
-
-W
-
- `Next <#whales>`__
-
---------------
+ 
 
 **whacker**: n.
 
@@ -1028,7 +990,7 @@ W
 
  `Next <#wheel-bit>`__
 
---------------
+ 
 
 **wheel**: n.
 
@@ -1637,7 +1599,7 @@ respect to games that have editable state.
 wok-on-the-wall
 ==================
 
---------------
+ 
 
 **wok-on-the-wall**: n.
 
@@ -1736,14 +1698,8 @@ remaining `cruft <./C.html#cruft>`__ by hand.”
 
 working as designed
 ==========================
-
-`Prev <#workaround>`__ 
-
-W
-
- `Next <#worm>`__
-
---------------
+ 
+ 
 
 **working as designed**: adj.
 
@@ -1757,25 +1713,11 @@ misdesigned.
 3. Unfortunately also used as a bogus reason for not accepting a
 criticism or suggestion. At `IBM <./I.html#IBM>`__, this sense is
 used in official documents! See `BAD <./B.html#BAD>`__.
-
---------------
-
-+-------------------------------+----------------------------+-------------------------+
-| `Prev <#workaround>`__    | `Up <../W>`__         |  `Next <#worm>`__   |
-+-------------------------------+----------------------------+-------------------------+
-| workaround                    | `Home <../index>`__   |  worm                   |
-+-------------------------------+----------------------------+-------------------------+
-
+ 
 wormhole
 ==================
 
-`Prev <#worm>`__ 
-
-W
-
- `Next <#wound-around-the-axle>`__
-
---------------
+ 
 
 **wormhole**: /werm´hohl/, n.
 
@@ -1797,25 +1739,11 @@ great distances with usually little clue in the message routing header
 as to how it got from one relay to the other. Compare `gopher
 hole <./G.html#gopher-hole>`__ (sense 2).
 
---------------
-
-+-------------------------+----------------------------+------------------------------------------+
-| `Prev <#worm>`__    | `Up <../W>`__         |  `Next <#wound-around-the-axle>`__   |
-+-------------------------+----------------------------+------------------------------------------+
-| worm                    | `Home <../index>`__   |  wound around the axle                   |
-+-------------------------+----------------------------+------------------------------------------+
-
+ 
 worm
 =============
 
-`Prev <#working-as-designed>`__ 
-
-W
-
- `Next <#wormhole>`__
-
---------------
-
+ 
 **worm**: n.
 
 [from tapeworm in John Brunner's novel *The Shockwave Rider*, via XEROX
@@ -1829,47 +1757,25 @@ Suns and VAXen across the U.S. See also
 `cracker <./C.html#cracker>`__, `RTM <./R.html#RTM>`__, `Trojan
 horse <./T.html#Trojan-horse>`__, `ice <./I.html#ice>`__.
 
---------------
-
-+----------------------------------------+----------------------------+-----------------------------+
-| `Prev <#working-as-designed>`__    | `Up <../W>`__         |  `Next <#wormhole>`__   |
-+----------------------------------------+----------------------------+-----------------------------+
-| working as designed                    | `Home <../index>`__   |  wormhole                   |
-+----------------------------------------+----------------------------+-----------------------------+
-
+ 
+ 
 wound around the axle
 ========================
 
-`Prev <#wormhole>`__ 
-
-W
-
- `Next <#wrap-around>`__
-
---------------
+ 
 
 **wound around the axle**: adj.
 
 In an infinite loop. Often used by older computer types.
 
---------------
+ 
 
-+-----------------------------+----------------------------+--------------------------------+
-| `Prev <#wormhole>`__    | `Up <../W>`__         |  `Next <#wrap-around>`__   |
-+-----------------------------+----------------------------+--------------------------------+
-| wormhole                    | `Home <../index>`__   |  wrap around                   |
-+-----------------------------+----------------------------+--------------------------------+
+ 
 
 wrap around
 ================
 
-`Prev <#wound-around-the-axle>`__ 
-
-W
-
- `Next <#write-only-code>`__
-
---------------
+ 
 
 **wrap around**: vi.
 
@@ -1887,24 +1793,13 @@ e.g., living six long (28-hour) days in a week (or, equivalently,
 sleeping at the rate of 10 microhertz). This sense is also called
 `phase-wrapping <./P.html#phase-wrapping>`__.
 
---------------
-
-+------------------------------------------+----------------------------+------------------------------------+
-| `Prev <#wound-around-the-axle>`__    | `Up <../W>`__         |  `Next <#write-only-code>`__   |
-+------------------------------------------+----------------------------+------------------------------------+
-| wound around the axle                    | `Home <../index>`__   |  write-only code                   |
-+------------------------------------------+----------------------------+------------------------------------+
-
+ 
+ 
 write-only code
 ==================
 
-`Prev <#wrap-around>`__ 
-
-W
-
- `Next <#write-only-language>`__
-
---------------
+ 
+ 
 
 **write-only code**: n.
 
@@ -1912,25 +1807,12 @@ W
 that it cannot be modified or even comprehended by anyone but its
 author, and possibly not even by him/her. A `Bad
 Thing <./B.html#Bad-Thing>`__.
-
---------------
-
-+--------------------------------+----------------------------+----------------------------------------+
-| `Prev <#wrap-around>`__    | `Up <../W>`__         |  `Next <#write-only-language>`__   |
-+--------------------------------+----------------------------+----------------------------------------+
-| wrap around                    | `Home <../index>`__   |  write-only language                   |
-+--------------------------------+----------------------------+----------------------------------------+
+ 
 
 write-only language
 =======================
-
-`Prev <#write-only-code>`__ 
-
-W
-
- `Next <#write-only-memory>`__
-
---------------
+ 
+ 
 
 **write-only language**: n.
 
@@ -1984,14 +1866,8 @@ rather than just within the module. This is clearly the Wrong Thing.”
 
 wugga wugga
 =================
-
-`Prev <Wrong-Thing>`__ 
-
-W
-
- `Next <#wumpus>`__
-
---------------
+ 
+ 
 
 **wugga wugga**: /wuh´g@ wuh´g@/, n.
 
@@ -2001,14 +1877,8 @@ tedious or difficult task.\ `grind <./G.html#grind>`__ (sense 4).
 
 wumpus
 =================
-
-`Prev <#wugga-wugga>`__ 
-
-W
-
- `Next <WYSIAYG>`__
-
---------------
+ 
+ 
 
 **wumpus**: /wuhm´p@s/, n.
 
@@ -2041,16 +1911,7 @@ is available at the Retrocomputing Museum,
 
 WYSIAYG
 ========
-
-`Prev <#wumpus>`__ 
-
-W
-
- `Next <WYSIWYG>`__
-
---------------
-
-**WYSIAYG**: /wiz´ee·ayg/, adj.
+ 
 
 Describes a user interface under which “What You See Is *All* You Get”;
 an unhappy variant of `WYSIWYG <#WYSIWYG>`__. Visual,

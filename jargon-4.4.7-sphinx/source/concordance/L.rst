@@ -10,7 +10,7 @@ L
 
  `Next <lamer.html>`__
 
---------------
+ 
 
 **lag**: n.
 
@@ -19,13 +19,13 @@ synonymous with `netlag <./N.html#netlag.html>`__. Curiously, people will
 often complain “I'm really lagged” when in fact it is their server or
 network connection that is lagging.
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | `Prev <../L.html>`__    | `Up <../L.html>`__         |  `Next <lamer.html>`__   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | L                       | `Home <../index.html>`__   |  lamer                   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 
 lamer
 
@@ -35,7 +35,7 @@ L
 
  `Next <LAN-party.html>`__
 
---------------
+ 
 
 **lamer**: n.
 
@@ -73,13 +73,13 @@ gradually corrupted non-write-protected floppy disks with bad sectors.
 The bad sectors, when looked at, were overwritten with repetitions of
 the string “LAMER!”.
 
---------------
+ 
 
-+------------------------+----------------------------+------------------------------+
++ ----------+  +  --+
 | `Prev <lag.html>`__    | `Up <../L.html>`__         |  `Next <LAN-party.html>`__   |
-+------------------------+----------------------------+------------------------------+
++ ----------+  +  --+
 | lag                    | `Home <../index.html>`__   |  LAN party                   |
-+------------------------+----------------------------+------------------------------+
++ ----------+  +  --+
 
 language lawyer
 
@@ -89,7 +89,7 @@ L
 
  `Next <languages-of-choice.html>`__
 
---------------
+ 
 
 **language lawyer**: n.
 
@@ -102,13 +102,13 @@ that together imply the answer to your question “if only you had thought
 to look there”. Compare `wizard <./W.html#wizard.html>`__,
 `legal <legal.html>`__, `legalese <legalese.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------------------+
++  --+  +  ------------+
 | `Prev <LAN-party.html>`__    | `Up <../L.html>`__         |  `Next <languages-of-choice.html>`__   |
-+------------------------------+----------------------------+----------------------------------------+
++  --+  +  ------------+
 | LAN party                    | `Home <../index.html>`__   |  languages of choice                   |
-+------------------------------+----------------------------+----------------------------------------+
++  --+  +  ------------+
 
 languages of choice
 
@@ -118,7 +118,7 @@ L
 
  `Next <LART.html>`__
 
---------------
+ 
 
 **languages of choice**: n.
 
@@ -148,13 +148,13 @@ everything even remotely connected with `COBOL <./C.html#COBOL.html>`__ or
 other traditional `DP <./D.html#DP.html>`__ languages as a total and
 unmitigated `loss <loss.html>`__.
 
---------------
+ 
 
-+------------------------------------+----------------------------+-------------------------+
++  --------+  + -----------+
 | `Prev <language-lawyer.html>`__    | `Up <../L.html>`__         |  `Next <LART.html>`__   |
-+------------------------------------+----------------------------+-------------------------+
++  --------+  + -----------+
 | language lawyer                    | `Home <../index.html>`__   |  LART                   |
-+------------------------------------+----------------------------+-------------------------+
++  --------+  + -----------+
 
 LAN party
 
@@ -164,7 +164,7 @@ L
 
  `Next <language-lawyer.html>`__
 
---------------
+ 
 
 **LAN party**: /lan par´tee/
 
@@ -180,13 +180,13 @@ important is the special quality of trash-talking each other across the
 room while playing, and the instinctive social ritual of consuming vast
 amounts of food and drink together.
 
---------------
+ 
 
-+--------------------------+----------------------------+------------------------------------+
++ ------------+  +  --------+
 | `Prev <lamer.html>`__    | `Up <../L.html>`__         |  `Next <language-lawyer.html>`__   |
-+--------------------------+----------------------------+------------------------------------+
++ ------------+  +  --------+
 | lamer                    | `Home <../index.html>`__   |  language lawyer                   |
-+--------------------------+----------------------------+------------------------------------+
++ ------------+  +  --------+
 
 LART
 
@@ -196,7 +196,7 @@ L
 
  `Next <larval-stage.html>`__
 
---------------
+ 
 
 **LART**: //
 
@@ -223,13 +223,13 @@ warning.
 4. interj. [rare] Used in `flame <./F.html#flame.html>`__\ s as a rebuke.
 “LART! LART! LART!”
 
---------------
+ 
 
-+----------------------------------------+----------------------------+---------------------------------+
++  ------------+  +  -----+
 | `Prev <languages-of-choice.html>`__    | `Up <../L.html>`__         |  `Next <larval-stage.html>`__   |
-+----------------------------------------+----------------------------+---------------------------------+
++  ------------+  +  -----+
 | languages of choice                    | `Home <../index.html>`__   |  larval stage                   |
-+----------------------------------------+----------------------------+---------------------------------+
++  ------------+  +  -----+
 
 larval stage
 
@@ -239,7 +239,7 @@ L
 
  `Next <lase.html>`__
 
---------------
+ 
 
 **larval stage**: n.
 
@@ -257,13 +257,13 @@ protracted and intense version of larval stage (typically lasting about
 a month) may recur when one is learning a new `OS <./O.html#OS.html>`__ or
 programming language.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 | `Prev <LART.html>`__    | `Up <../L.html>`__         |  `Next <lase.html>`__   |
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 | LART                    | `Home <../index.html>`__   |  lase                   |
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 
 lase
 
@@ -273,20 +273,20 @@ L
 
  `Next <laser-chicken.html>`__
 
---------------
+ 
 
 **lase**: /layz/, vt.
 
 To print a given document via a laser printer. “OK, let's lase that
 sucker and see if all those graphics-macro calls did the right things.”
 
---------------
+ 
 
-+---------------------------------+----------------------------+----------------------------------+
++  -----+  +  ------+
 | `Prev <larval-stage.html>`__    | `Up <../L.html>`__         |  `Next <laser-chicken.html>`__   |
-+---------------------------------+----------------------------+----------------------------------+
++  -----+  +  ------+
 | larval stage                    | `Home <../index.html>`__   |  laser chicken                   |
-+---------------------------------+----------------------------+----------------------------------+
++  -----+  +  ------+
 
 laser chicken
 
@@ -296,7 +296,7 @@ L
 
  `Next <leaf-site.html>`__
 
---------------
+ 
 
 **laser chicken**: n.
 
@@ -312,13 +312,13 @@ Chicken. The name is derived from the color of the sauce, which is
 considered bright enough to glow in the dark (as, mythically, do some of
 the inhabitants of Chernobyl).
 
---------------
+ 
 
-+-------------------------+----------------------------+------------------------------+
++ -----------+  +  --+
 | `Prev <lase.html>`__    | `Up <../L.html>`__         |  `Next <leaf-site.html>`__   |
-+-------------------------+----------------------------+------------------------------+
++ -----------+  +  --+
 | lase                    | `Home <../index.html>`__   |  leaf site                   |
-+-------------------------+----------------------------+------------------------------+
++ -----------+  +  --+
 
 leaf site
 
@@ -328,7 +328,7 @@ L
 
  `Next <leak.html>`__
 
---------------
+ 
 
 **leaf site**: n.
 
@@ -341,13 +341,13 @@ site <./B.html#backbone-site.html>`__. Now that traffic patterns depend
 more on the distribution of routers than of host machines this term has
 largely fallen out of use.
 
---------------
+ 
 
-+----------------------------------+----------------------------+-------------------------+
++  ------+  + -----------+
 | `Prev <laser-chicken.html>`__    | `Up <../L.html>`__         |  `Next <leak.html>`__   |
-+----------------------------------+----------------------------+-------------------------+
++  ------+  + -----------+
 | laser chicken                    | `Home <../index.html>`__   |  leak                   |
-+----------------------------------+----------------------------+-------------------------+
++  ------+  + -----------+
 
 leak
 
@@ -357,7 +357,7 @@ L
 
  `Next <leaky-heap.html>`__
 
---------------
+ 
 
 **leak**: n.
 
@@ -368,13 +368,13 @@ eventual exhaustion as new allocation requests come in. `memory
 leak <./M.html#memory-leak.html>`__ has its own entry; one might also
 refer, to, say, a window handle leak in a window system.
 
---------------
+ 
 
-+------------------------------+----------------------------+-------------------------------+
++  --+  +  ---+
 | `Prev <leaf-site.html>`__    | `Up <../L.html>`__         |  `Next <leaky-heap.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
++  --+  +  ---+
 | leaf site                    | `Home <../index.html>`__   |  leaky heap                   |
-+------------------------------+----------------------------+-------------------------------+
++  --+  +  ---+
 
 leaky heap
 
@@ -384,20 +384,20 @@ L
 
  `Next <leapfrog-attack.html>`__
 
---------------
+ 
 
 **leaky heap**: n.
 
 [Cambridge] An `arena <./A.html#arena.html>`__ with a `memory
 leak <./M.html#memory-leak.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+------------------------------------+
++ -----------+  +  --------+
 | `Prev <leak.html>`__    | `Up <../L.html>`__         |  `Next <leapfrog-attack.html>`__   |
-+-------------------------+----------------------------+------------------------------------+
++ -----------+  +  --------+
 | leak                    | `Home <../index.html>`__   |  leapfrog attack                   |
-+-------------------------+----------------------------+------------------------------------+
++ -----------+  +  --------+
 
 leapfrog attack
 
@@ -407,7 +407,7 @@ L
 
  `Next <leech.html>`__
 
---------------
+ 
 
 **leapfrog attack**: n.
 
@@ -417,13 +417,13 @@ etc.) to compromise another host. Also, the act of TELNETting through
 one or more hosts in order to confuse a trace (a standard cracker
 procedure).
 
---------------
+ 
 
-+-------------------------------+----------------------------+--------------------------+
++  ---+  + ------------+
 | `Prev <leaky-heap.html>`__    | `Up <../L.html>`__         |  `Next <leech.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
++  ---+  + ------------+
 | leaky heap                    | `Home <../index.html>`__   |  leech                   |
-+-------------------------------+----------------------------+--------------------------+
++  ---+  + ------------+
 
 leech
 
@@ -433,7 +433,7 @@ L
 
  `Next <leech-mode.html>`__
 
---------------
+ 
 
 **leech**
 
@@ -457,13 +457,13 @@ from the early 1990s when Toronto had a very active BBS and warez scene.
 Synonymous with `snarf <./S.html#snarf.html>`__ (sense 2), and contrast
 `snarf <./S.html#snarf.html>`__ (sense 4).
 
---------------
+ 
 
-+------------------------------------+----------------------------+-------------------------------+
++  --------+  +  ---+
 | `Prev <leapfrog-attack.html>`__    | `Up <../L.html>`__         |  `Next <leech-mode.html>`__   |
-+------------------------------------+----------------------------+-------------------------------+
++  --------+  +  ---+
 | leapfrog attack                    | `Home <../index.html>`__   |  leech mode                   |
-+------------------------------------+----------------------------+-------------------------------+
++  --------+  +  ---+
 
 leech mode
 
@@ -473,7 +473,7 @@ L
 
  `Next <legal.html>`__
 
---------------
+ 
 
 **leech mode**: n.
 
@@ -484,13 +484,13 @@ often promised on banner sites, but rarely obtained. See `ratio
 site <./R.html#ratio-site.html>`__, `banner
 site <./B.html#banner-site.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | `Prev <leech.html>`__    | `Up <../L.html>`__         |  `Next <legal.html>`__   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | leech                    | `Home <../index.html>`__   |  legal                   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 
 legalese
 
@@ -500,7 +500,7 @@ L
 
  `Next <lenna.html>`__
 
---------------
+ 
 
 **legalese**: n.
 
@@ -513,13 +513,13 @@ enjoy both), they share a deep and abiding loathing for legalese; they
 associate it with deception, `suit <./S.html#suit.html>`__\ s, and
 situations in which hackers generally get the short end of the stick.
 
---------------
+ 
 
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | `Prev <legal.html>`__    | `Up <../L.html>`__         |  `Next <lenna.html>`__   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | legal                    | `Home <../index.html>`__   |  lenna                   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 
 legal
 
@@ -529,7 +529,7 @@ L
 
  `Next <legalese.html>`__
 
---------------
+ 
 
 **legal**: adj.
 
@@ -545,13 +545,13 @@ the more conventional one having to do with courts and lawyers. Compare
 `language lawyer <language-lawyer.html>`__,
 `legalese <legalese.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+-----------------------------+
++  ---+  +  -+
 | `Prev <leech-mode.html>`__    | `Up <../L.html>`__         |  `Next <legalese.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
++  ---+  +  -+
 | leech mode                    | `Home <../index.html>`__   |  legalese                   |
-+-------------------------------+----------------------------+-----------------------------+
++  ---+  +  -+
 
 lenna
 
@@ -561,7 +561,7 @@ L
 
  `Next <LER.html>`__
 
---------------
+ 
 
 **lenna**
 
@@ -583,13 +583,13 @@ Bunny <./S.html#Stanford-Bunny.html>`__
 
 Miss Lena Sjööblom
 
---------------
+ 
 
-+-----------------------------+----------------------------+------------------------+
++  -+  + ----------+
 | `Prev <legalese.html>`__    | `Up <../L.html>`__         |  `Next <LER.html>`__   |
-+-----------------------------+----------------------------+------------------------+
++  -+  + ----------+
 | legalese                    | `Home <../index.html>`__   |  LER                   |
-+-----------------------------+----------------------------+------------------------+
++  -+  + ----------+
 
 .. |image0| image:: ../_static/len_std.jpg
 
@@ -601,7 +601,7 @@ L
 
  `Next <LERP.html>`__
 
---------------
+ 
 
 **LER**: /L·E·R/
 
@@ -614,13 +614,13 @@ is, one in the process of burning up). Ohm's law was broken. See also
 2. An incandescent light bulb (the filament emits light because it's
 resistively heated).
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | `Prev <lenna.html>`__    | `Up <../L.html>`__         |  `Next <LERP.html>`__   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | lenna                    | `Home <../index.html>`__   |  LERP                   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 
 LERP
 
@@ -630,7 +630,7 @@ L
 
  `Next <let-the-smoke-out.html>`__
 
---------------
+ 
 
 **LERP**: /lerp/, vi.,n.
 
@@ -638,13 +638,13 @@ Quasi-acronym for Linear Interpolation, used as a verb or noun for the
 operation. “Bresenham's algorithm lerps incrementally between the two
 endpoints of the line.”
 
---------------
+ 
 
-+------------------------+----------------------------+--------------------------------------+
++ ----------+  +  ----------+
 | `Prev <LER.html>`__    | `Up <../L.html>`__         |  `Next <let-the-smoke-out.html>`__   |
-+------------------------+----------------------------+--------------------------------------+
++ ----------+  +  ----------+
 | LER                    | `Home <../index.html>`__   |  let the smoke out                   |
-+------------------------+----------------------------+--------------------------------------+
++ ----------+  +  ----------+
 
 letterbomb
 
@@ -654,7 +654,7 @@ L
 
  `Next <lexer.html>`__
 
---------------
+ 
 
 **letterbomb**
 
@@ -675,13 +675,13 @@ horse <./T.html#Trojan-horse.html>`__; compare
 
 2. Loosely, a `mailbomb <./M.html#mailbomb.html>`__.
 
---------------
+ 
 
-+--------------------------------------+----------------------------+--------------------------+
++  ----------+  + ------------+
 | `Prev <let-the-smoke-out.html>`__    | `Up <../L.html>`__         |  `Next <lexer.html>`__   |
-+--------------------------------------+----------------------------+--------------------------+
++  ----------+  + ------------+
 | let the smoke out                    | `Home <../index.html>`__   |  lexer                   |
-+--------------------------------------+----------------------------+--------------------------+
++  ----------+  + ------------+
 
 let the smoke out
 
@@ -691,7 +691,7 @@ L
 
  `Next <letterbomb.html>`__
 
---------------
+ 
 
 **let the smoke out**: v.
 
@@ -699,13 +699,13 @@ To fry hardware (see `fried <./F.html#fried.html>`__). See `magic
 smoke <./M.html#magic-smoke.html>`__ for a discussion of the underlying
 mythology.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 | `Prev <LERP.html>`__    | `Up <../L.html>`__         |  `Next <letterbomb.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 | LERP                    | `Home <../index.html>`__   |  letterbomb                   |
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 
 lexer
 
@@ -715,7 +715,7 @@ L
 
  `Next <life.html>`__
 
---------------
+ 
 
 **lexer**: /lek´sr/, n.
 
@@ -724,13 +724,13 @@ in the parser for a language (the part that breaks it into word-like
 pieces). “Some C lexers get confused by the old-style compound ops like
 **=-**.”
 
---------------
+ 
 
-+-------------------------------+----------------------------+-------------------------+
++  ---+  + -----------+
 | `Prev <letterbomb.html>`__    | `Up <../L.html>`__         |  `Next <life.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
++  ---+  + -----------+
 | letterbomb                    | `Home <../index.html>`__   |  life                   |
-+-------------------------------+----------------------------+-------------------------+
++  ---+  + -----------+
 
 life
 
@@ -740,7 +740,7 @@ L
 
  `Next <Life-is-hard.html>`__
 
---------------
+ 
 
 **life**: n.
 
@@ -767,13 +767,13 @@ Game of Life.
 2. The opposite of `Usenet <./U.html#Usenet.html>`__. As in “\ `Get a
 life! <./G.html#Get-a-life-.html>`__\ ”
 
---------------
+ 
 
-+--------------------------+----------------------------+---------------------------------+
++ ------------+  +  -----+
 | `Prev <lexer.html>`__    | `Up <../L.html>`__         |  `Next <Life-is-hard.html>`__   |
-+--------------------------+----------------------------+---------------------------------+
++ ------------+  +  -----+
 | lexer                    | `Home <../index.html>`__   |  Life is hard                   |
-+--------------------------+----------------------------+---------------------------------+
++ ------------+  +  -----+
 
 
 Life is hard
@@ -785,7 +785,7 @@ L
 
  `Next <light-pipe.html>`__
 
---------------
+ 
 
 **Life is hard**: prov.
 
@@ -795,13 +795,13 @@ heard it.” (2) “While your suggestion has obvious merit, equally obvious
 circumstances prevent it from being seriously considered.” The charm of
 the phrase lies precisely in this subtle but important ambiguity.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 | `Prev <life.html>`__    | `Up <../L.html>`__         |  `Next <light-pipe.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 | life                    | `Home <../index.html>`__   |  light pipe                   |
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 
 light pipe
 
@@ -811,19 +811,19 @@ L
 
  `Next <lightweight.html>`__
 
---------------
+ 
 
 **light pipe**: n.
 
 Fiber optic cable. Oppose `copper <./C.html#copper.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+--------------------------------+
++  -----+  +  ----+
 | `Prev <Life-is-hard.html>`__    | `Up <../L.html>`__         |  `Next <lightweight.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
++  -----+  +  ----+
 | Life is hard                    | `Home <../index.html>`__   |  lightweight                   |
-+---------------------------------+----------------------------+--------------------------------+
++  -----+  +  ----+
 
 lightweight
 
@@ -833,20 +833,20 @@ L
 
  `Next <like-kicking-dead-whales-down-the-beach.html>`__
 
---------------
+ 
 
 **lightweight**: adj.
 
 Opposite of `heavyweight <./H.html#heavyweight.html>`__; usually found in
 combining forms such as lightweight process.
 
---------------
+ 
 
-+-------------------------------+----------------------------+------------------------------------------------------------+
++  ---+  +    ----+
 | `Prev <light-pipe.html>`__    | `Up <../L.html>`__         |  `Next <like-kicking-dead-whales-down-the-beach.html>`__   |
-+-------------------------------+----------------------------+------------------------------------------------------------+
++  ---+  +    ----+
 | light pipe                    | `Home <../index.html>`__   |  like kicking dead whales down the beach                   |
-+-------------------------------+----------------------------+------------------------------------------------------------+
++  ---+  +    ----+
 
 like kicking dead whales down the beach
 
@@ -856,7 +856,7 @@ L
 
  `Next <like-nailing-jelly-to-a-tree.html>`__
 
---------------
+ 
 
 **like kicking dead whales down the beach**: adj.
 
@@ -866,13 +866,13 @@ IBM's mainframe OSes. “Well, you *could* write a C compiler in COBOL,
 but it would be like kicking dead whales down the beach.” See also
 `fear and loathing <./F.html#fear-and-loathing.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-------------------------------------------------+
++  ----+  +   -------+
 | `Prev <lightweight.html>`__    | `Up <../L.html>`__         |  `Next <like-nailing-jelly-to-a-tree.html>`__   |
-+--------------------------------+----------------------------+-------------------------------------------------+
++  ----+  +   -------+
 | lightweight                    | `Home <../index.html>`__   |  like nailing jelly to a tree                   |
-+--------------------------------+----------------------------+-------------------------------------------------+
++  ----+  +   -------+
 
 like nailing jelly to a tree
 
@@ -882,7 +882,7 @@ L
 
  `Next <line-666.html>`__
 
---------------
+ 
 
 **like nailing jelly to a tree**: adj.
 
@@ -900,13 +900,13 @@ those pirates is like trying to nail currant jelly to the wall.”
 Roosevelt's government subsequently encouraged the anti-Colombian
 insurgency that created the nation of Panama.
 
---------------
+ 
 
-+------------------------------------------------------------+----------------------------+-----------------------------+
++    ----+  +  -+
 | `Prev <like-kicking-dead-whales-down-the-beach.html>`__    | `Up <../L.html>`__         |  `Next <line-666.html>`__   |
-+------------------------------------------------------------+----------------------------+-----------------------------+
++    ----+  +  -+
 | like kicking dead whales down the beach                    | `Home <../index.html>`__   |  line 666                   |
-+------------------------------------------------------------+----------------------------+-----------------------------+
++    ----+  +  -+
 
 line 666
 
@@ -918,7 +918,7 @@ L
 
  `Next <line-eater--the.html>`__
 
---------------
+ 
 
 **line 666**
 
@@ -930,13 +930,13 @@ trace through it, but seems to crash on line 666 when I run it.” “What
 happens is that whenever a large batch comes through, mmdf dies on the
 Line of the Beast. Probably some twit hardcoded a buffer size.”
 
---------------
+ 
 
-+-------------------------------------------------+----------------------------+------------------------------------+
++   -------+  +  --------+
 | `Prev <like-nailing-jelly-to-a-tree.html>`__    | `Up <../L.html>`__         |  `Next <line-eater--the.html>`__   |
-+-------------------------------------------------+----------------------------+------------------------------------+
++   -------+  +  --------+
 | like nailing jelly to a tree                    | `Home <../index.html>`__   |  line eater, the                   |
-+-------------------------------------------------+----------------------------+------------------------------------+
++   -------+  +  --------+
 
 linearithmic
 
@@ -946,7 +946,7 @@ L
 
  `Next <link-farm.html>`__
 
---------------
+ 
 
 **linearithmic**: adj.
 
@@ -954,13 +954,13 @@ Of an algorithm, having running time that is "O(N log    N)". Coined
 as a portmanteau of ‘linear’ and ‘logarithmic’ in *Algorithms In C* by
 Robert Sedgewick (Addison-Wesley 1990, ISBN 0-201-51425-7).
 
---------------
+ 
 
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 | `Prev <line-noise.html>`__    | `Up <../L.html>`__         |  `Next <link-farm.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 | line noise                    | `Home <../index.html>`__   |  link farm                   |
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 
 line eater, the
 
@@ -970,7 +970,7 @@ L
 
  `Next <line-noise.html>`__
 
---------------
+ 
 
 **line eater, the**: n. obs.
 
@@ -990,13 +990,13 @@ reported to be lurking in some mail-to-netnews gateways as late as 1991.
 
 2. See `NSA line eater <./N.html#NSA-line-eater.html>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-------------------------------+
++  -+  +  ---+
 | `Prev <line-666.html>`__    | `Up <../L.html>`__         |  `Next <line-noise.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
++  -+  +  ---+
 | line 666                    | `Home <../index.html>`__   |  line noise                   |
-+-----------------------------+----------------------------+-------------------------------+
++  -+  +  ---+
 
 line noise
 
@@ -1006,7 +1006,7 @@ L
 
  `Next <linearithmic.html>`__
 
---------------
+ 
 
 **line noise**: n.
 
@@ -1029,13 +1029,13 @@ and Unix **ed**, in the hands of a real hacker, also qualify easily, as
 do deliberately obfuscated languages such as
 `INTERCAL <./I.html#INTERCAL.html>`__.
 
---------------
+ 
 
-+------------------------------------+----------------------------+---------------------------------+
++  --------+  +  -----+
 | `Prev <line-eater--the.html>`__    | `Up <../L.html>`__         |  `Next <linearithmic.html>`__   |
-+------------------------------------+----------------------------+---------------------------------+
++  --------+  +  -----+
 | line eater, the                    | `Home <../index.html>`__   |  linearithmic                   |
-+------------------------------------+----------------------------+---------------------------------+
++  --------+  +  -----+
 
 link-dead
 
@@ -1045,7 +1045,7 @@ L
 
  `Next <lint.html>`__
 
---------------
+ 
 
 **link-dead**: adj.
 
@@ -1056,13 +1056,13 @@ certain period of time (an hour on most MUDs). Used on
 `IRC <./I.html#IRC.html>`__ as well, although it is inappropriate in that
 context. Compare `netdead <./N.html#netdead.html>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | `Prev <link-rot.html>`__    | `Up <../L.html>`__         |  `Next <lint.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | link rot                    | `Home <../index.html>`__   |  lint                   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 
 link farm
 
@@ -1072,7 +1072,7 @@ L
 
  `Next <link-rot.html>`__
 
---------------
+ 
 
 **link farm**: n.
 
@@ -1088,13 +1088,13 @@ becoming the filesystem equivalent of `spaghetti
 code <./S.html#spaghetti-code.html>`__. See also
 `farm <./F.html#farm.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 | `Prev <linearithmic.html>`__    | `Up <../L.html>`__         |  `Next <link-rot.html>`__   |
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 | linearithmic                    | `Home <../index.html>`__   |  link rot                   |
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 
 link rot
 
@@ -1104,20 +1104,20 @@ L
 
  `Next <link-dead.html>`__
 
---------------
+ 
 
 **link rot**: n.
 
 The natural decay of web links as the sites they're connected to change
 or die. Compare `bit rot <./B.html#bit-rot.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+------------------------------+
++  --+  +  --+
 | `Prev <link-farm.html>`__    | `Up <../L.html>`__         |  `Next <link-dead.html>`__   |
-+------------------------------+----------------------------+------------------------------+
++  --+  +  --+
 | link farm                    | `Home <../index.html>`__   |  link-dead                   |
-+------------------------------+----------------------------+------------------------------+
++  --+  +  --+
 
 Lintel
 
@@ -1127,7 +1127,7 @@ L
 
  `Next <Linus.html>`__
 
---------------
+ 
 
 **Lintel**: n.
 
@@ -1136,13 +1136,13 @@ be used in early 1999 after it became clear that the
 `Wintel <./W.html#Wintel.html>`__ alliance was under increasing strain and
 Intel started taking stakes in Linux companies.
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | `Prev <lint.html>`__    | `Up <../L.html>`__         |  `Next <Linus.html>`__   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | lint                    | `Home <../index.html>`__   |  Linus                   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 
 lint
 
@@ -1152,7 +1152,7 @@ L
 
  `Next <Lintel.html>`__
 
---------------
+ 
 
 **lint**
 
@@ -1170,13 +1170,13 @@ Also as v. `delint <./D.html#delint.html>`__.
 2. n. Excess verbiage in a document, as in “This draft has too much
 lint”.
 
---------------
+ 
 
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | `Prev <link-dead.html>`__    | `Up <../L.html>`__         |  `Next <Lintel.html>`__   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | link-dead                    | `Home <../index.html>`__   |  Lintel                   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 
 Linus
 
@@ -1186,7 +1186,7 @@ L
 
  `Next <Linux.html>`__
 
---------------
+ 
 
 **Linus**: /leen´us/, /lin´us/, /li:´nus/
 
@@ -1194,13 +1194,13 @@ Linus Torvalds, the author of `Linux <Linux.html>`__. Nobody in the
 hacker culture has been as readily recognized by first name alone since
 `ken <./K.html#ken.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+--------------------------+
++ -------------+  + ------------+
 | `Prev <Lintel.html>`__    | `Up <../L.html>`__         |  `Next <Linux.html>`__   |
-+---------------------------+----------------------------+--------------------------+
++ -------------+  + ------------+
 | Lintel                    | `Home <../index.html>`__   |  Linux                   |
-+---------------------------+----------------------------+--------------------------+
++ -------------+  + ------------+
 
 Linux
 
@@ -1210,7 +1210,7 @@ L
 
  `Next <lion-food.html>`__
 
---------------
+ 
 
 **Linux**: /lee´nuhks/, /li´nuks/, *not*, /li:´nuhks/, n.
 
@@ -1245,13 +1245,13 @@ for Linux because RMS and friends wrote many of its user-level tools.
 Neither this theory nor the term GNU/Linux has gained more than minority
 acceptance).
 
---------------
+ 
 
-+--------------------------+----------------------------+------------------------------+
++ ------------+  +  --+
 | `Prev <Linus.html>`__    | `Up <../L.html>`__         |  `Next <lion-food.html>`__   |
-+--------------------------+----------------------------+------------------------------+
++ ------------+  +  --+
 | Linus                    | `Home <../index.html>`__   |  lion food                   |
-+--------------------------+----------------------------+------------------------------+
++ ------------+  +  --+
 
 lion food
 
@@ -1261,7 +1261,7 @@ L
 
  `Next <Lions-Book.html>`__
 
---------------
+ 
 
 **lion food**: n.
 
@@ -1275,13 +1275,13 @@ then I've been reduced to eating mice, insects, even grass.” The fat one
 replies: “Well, *I* hid near an IBM office and ate a manager a day. And
 nobody even noticed!”
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 | `Prev <Linux.html>`__    | `Up <../L.html>`__         |  `Next <Lions-Book.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 | Linux                    | `Home <../index.html>`__   |  Lions Book                   |
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 
 Lions Book
 
@@ -1291,7 +1291,7 @@ L
 
  `Next <LISP.html>`__
 
---------------
+ 
 
 **Lions Book**: n.
 
@@ -1315,13 +1315,13 @@ before the contents quotes this entry.]
 [1998 update: John Lions's death was an occasion of general mourning in
 the hacker community.]
 
---------------
+ 
 
-+------------------------------+----------------------------+-------------------------+
++  --+  + -----------+
 | `Prev <lion-food.html>`__    | `Up <../L.html>`__         |  `Next <LISP.html>`__   |
-+------------------------------+----------------------------+-------------------------+
++  --+  + -----------+
 | lion food                    | `Home <../index.html>`__   |  LISP                   |
-+------------------------------+----------------------------+-------------------------+
++  --+  + -----------+
 
 LISP
 
@@ -1331,7 +1331,7 @@ L
 
  `Next <list-bomb.html>`__
 
---------------
+ 
 
 **LISP**: n.
 
@@ -1364,13 +1364,13 @@ languages.
 
 We've got your numbers....
 
---------------
+ 
 
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 | `Prev <Lions-Book.html>`__    | `Up <../L.html>`__         |  `Next <list-bomb.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 | Lions Book                    | `Home <../index.html>`__   |  list-bomb                   |
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 
 .. image:: ../_static/lisp.png
 
@@ -1383,7 +1383,7 @@ L
 
  `Next <lithium-lick.html>`__
 
---------------
+ 
 
 **list-bomb**: v.
 
@@ -1392,13 +1392,13 @@ causing the victim to become a subscriber to many mailing lists. This is
 a self-defeating tactic; it merely forces mailing list servers to
 require confirmation by return message for every subscription.
 
---------------
+ 
 
-+-------------------------+----------------------------+---------------------------------+
++ -----------+  +  -----+
 | `Prev <LISP.html>`__    | `Up <../L.html>`__         |  `Next <lithium-lick.html>`__   |
-+-------------------------+----------------------------+---------------------------------+
++ -----------+  +  -----+
 | LISP                    | `Home <../index.html>`__   |  lithium lick                   |
-+-------------------------+----------------------------+---------------------------------+
++ -----------+  +  -----+
 
 lithium lick
 
@@ -1408,7 +1408,7 @@ L
 
  `Next <little-endian.html>`__
 
---------------
+ 
 
 **lithium lick**: n.
 
@@ -1418,13 +1418,13 @@ to show signs of Jobsian fervor and repeat the most recent catch phrases
 in normal conversation — for example, “It just works, right out of the
 box!”
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------------+
++  --+  +  ------+
 | `Prev <list-bomb.html>`__    | `Up <../L.html>`__         |  `Next <little-endian.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
++  --+  +  ------+
 | list-bomb                    | `Home <../index.html>`__   |  little-endian                   |
-+------------------------------+----------------------------+----------------------------------+
++  --+  +  ------+
 
 little-endian
 
@@ -1434,7 +1434,7 @@ L
 
  `Next <live.html>`__
 
---------------
+ 
 
 **little-endian**: adj.
 
@@ -1449,13 +1449,13 @@ problem <./N.html#NUXI-problem.html>`__. The term is sometimes used to
 describe the ordering of units other than bytes; most often, bits within
 a byte.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-------------------------+
++  -----+  + -----------+
 | `Prev <lithium-lick.html>`__    | `Up <../L.html>`__         |  `Next <live.html>`__   |
-+---------------------------------+----------------------------+-------------------------+
++  -----+  + -----------+
 | lithium lick                    | `Home <../index.html>`__   |  live                   |
-+---------------------------------+----------------------------+-------------------------+
++  -----+  + -----------+
 
 live data
 
@@ -1465,7 +1465,7 @@ L
 
  `Next <Live-Free-Or-Die-.html>`__
 
---------------
+ 
 
 **live data**: n.
 
@@ -1486,13 +1486,13 @@ are simply viewed.
 3. An object, such as a `trampoline <./T.html#trampoline.html>`__, that is
 constructed on the fly by a program and intended to be executed as code.
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------------------+
++ -----------+  +  ----------+
 | `Prev <live.html>`__    | `Up <../L.html>`__         |  `Next <Live-Free-Or-Die-.html>`__   |
-+-------------------------+----------------------------+--------------------------------------+
++ -----------+  +  ----------+
 | live                    | `Home <../index.html>`__   |  Live Free Or Die!                   |
-+-------------------------+----------------------------+--------------------------------------+
++ -----------+  +  ----------+
 
 Live Free Or Die!
 
@@ -1502,7 +1502,7 @@ L
 
  `Next <livelock.html>`__
 
---------------
+ 
 
 **Live Free Or Die!**: imp.
 
@@ -1524,13 +1524,13 @@ which was once DEC) continued the practice.
 
 Armando Stettner's original Unix license plate.
 
---------------
+ 
 
-+------------------------------+----------------------------+-----------------------------+
++  --+  +  -+
 | `Prev <live-data.html>`__    | `Up <../L.html>`__         |  `Next <livelock.html>`__   |
-+------------------------------+----------------------------+-----------------------------+
++  --+  +  -+
 | live data                    | `Home <../index.html>`__   |  livelock                   |
-+------------------------------+----------------------------+-----------------------------+
++  --+  +  -+
 
 .. image:: ../_static/licenseplate.jpg
 
@@ -1543,7 +1543,7 @@ L
 
  `Next <live-data.html>`__
 
---------------
+ 
 
 **live**: /li:v/, adj.,adv.
 
@@ -1558,13 +1558,13 @@ here is that record deletion is something pretty significant, and a
 haywire record-deleter running amok live would probably cause great
 harm.
 
---------------
+ 
 
-+----------------------------------+----------------------------+------------------------------+
++  ------+  +  --+
 | `Prev <little-endian.html>`__    | `Up <../L.html>`__         |  `Next <live-data.html>`__   |
-+----------------------------------+----------------------------+------------------------------+
++  ------+  +  --+
 | little-endian                    | `Home <../index.html>`__   |  live data                   |
-+----------------------------------+----------------------------+------------------------------+
++  ------+  +  --+
 
 livelock
 
@@ -1574,7 +1574,7 @@ L
 
  `Next <liveware.html>`__
 
---------------
+ 
 
 **livelock**: /li:v´lok/, n.
 
@@ -1585,13 +1585,13 @@ have been serviced but before it can clear its queue. Differs from
 or waiting for anything, but has a virtually infinite amount of work to
 do and can never catch up.
 
---------------
+ 
 
-+--------------------------------------+----------------------------+-----------------------------+
++  ----------+  +  -+
 | `Prev <Live-Free-Or-Die-.html>`__    | `Up <../L.html>`__         |  `Next <liveware.html>`__   |
-+--------------------------------------+----------------------------+-----------------------------+
++  ----------+  +  -+
 | Live Free Or Die!                    | `Home <../index.html>`__   |  liveware                   |
-+--------------------------------------+----------------------------+-----------------------------+
++  ----------+  +  -+
 
 liveware
 
@@ -1601,7 +1601,7 @@ L
 
  `Next <lobotomy.html>`__
 
---------------
+ 
 
 **liveware**: /li:v´weir/, n.
 
@@ -1609,13 +1609,13 @@ L
 
 2. [Cambridge] Vermin. “Waiter, there's some liveware in my salad...”
 
---------------
+ 
 
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | `Prev <livelock.html>`__    | `Up <../L.html>`__         |  `Next <lobotomy.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | livelock                    | `Home <../index.html>`__   |  lobotomy                   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 
 lobotomy
 
@@ -1625,7 +1625,7 @@ L
 
  `Next <locals--the.html>`__
 
---------------
+ 
 
 **lobotomy**: n.
 
@@ -1637,13 +1637,13 @@ low-level management; the latter doubtless intend it as a joke.
 replace or upgrade it. Some very cheap `clone <./C.html#clone.html>`__
 systems are sold in lobotomized form — everything but the brain.
 
---------------
+ 
 
-+-----------------------------+----------------------------+--------------------------------+
++  -+  +  ----+
 | `Prev <liveware.html>`__    | `Up <../L.html>`__         |  `Next <locals--the.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
++  -+  +  ----+
 | liveware                    | `Home <../index.html>`__   |  locals, the                   |
-+-----------------------------+----------------------------+--------------------------------+
++  -+  +  ----+
 
 locals, the
 
@@ -1653,7 +1653,7 @@ L
 
  `Next <locked-and-loaded.html>`__
 
---------------
+ 
 
 **locals, the**: pl.n.
 
@@ -1662,13 +1662,13 @@ via public Internet connections). The marked thing about this usage is
 how little it has to do with real-space distance. “I have to do some
 tweaking on this mail utility before releasing it to the locals.”
 
---------------
+ 
 
-+-----------------------------+----------------------------+--------------------------------------+
++  -+  +  ----------+
 | `Prev <lobotomy.html>`__    | `Up <../L.html>`__         |  `Next <locked-and-loaded.html>`__   |
-+-----------------------------+----------------------------+--------------------------------------+
++  -+  +  ----------+
 | lobotomy                    | `Home <../index.html>`__   |  locked and loaded                   |
-+-----------------------------+----------------------------+--------------------------------------+
++  -+  +  ----------+
 
 locked and loaded
 
@@ -1678,7 +1678,7 @@ L
 
  `Next <locked-up.html>`__
 
---------------
+ 
 
 **locked and loaded**: adj.,obs.
 
@@ -1690,13 +1690,13 @@ this description is never used of
 `Winchester <./W.html#Winchester.html>`__ drives (which are named after a
 rifle).
 
---------------
+ 
 
-+--------------------------------+----------------------------+------------------------------+
++  ----+  +  --+
 | `Prev <locals--the.html>`__    | `Up <../L.html>`__         |  `Next <locked-up.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
++  ----+  +  --+
 | locals, the                    | `Home <../index.html>`__   |  locked up                   |
-+--------------------------------+----------------------------+------------------------------+
++  ----+  +  --+
 
 locked up
 
@@ -1706,19 +1706,19 @@ L
 
  `Next <logic-bomb.html>`__
 
---------------
+ 
 
 **locked up**: adj.
 
 Syn. for `hung <./H.html#hung.html>`__, `wedged <./W.html#wedged.html>`__.
 
---------------
+ 
 
-+--------------------------------------+----------------------------+-------------------------------+
++  ----------+  +  ---+
 | `Prev <locked-and-loaded.html>`__    | `Up <../L.html>`__         |  `Next <logic-bomb.html>`__   |
-+--------------------------------------+----------------------------+-------------------------------+
++  ----------+  +  ---+
 | locked and loaded                    | `Home <../index.html>`__   |  logic bomb                   |
-+--------------------------------------+----------------------------+-------------------------------+
++  ----------+  +  ---+
 
 logical
 
@@ -1728,7 +1728,7 @@ L
 
  `Next <loop-through.html>`__
 
---------------
+ 
 
 **logical**: adj.
 
@@ -1763,13 +1763,13 @@ respectively. A hacker might describe these directions as logical north
 and logical south, to indicate that they are conventional directions not
 corresponding to the usual denotation for those words.
 
---------------
+ 
 
-+-------------------------------+----------------------------+---------------------------------+
++  ---+  +  -----+
 | `Prev <logic-bomb.html>`__    | `Up <../L.html>`__         |  `Next <loop-through.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
++  ---+  +  -----+
 | logic bomb                    | `Home <../index.html>`__   |  loop through                   |
-+-------------------------------+----------------------------+---------------------------------+
++  ---+  +  -----+
 
 logic bomb
 
@@ -1779,7 +1779,7 @@ L
 
  `Next <logical.html>`__
 
---------------
+ 
 
 **logic bomb**: n.
 
@@ -1788,13 +1788,13 @@ to perform some destructive or security-compromising activity whenever
 specified conditions are met. Compare `back
 door <./B.html#back-door.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------+
++  --+  +  +
 | `Prev <locked-up.html>`__    | `Up <../L.html>`__         |  `Next <logical.html>`__   |
-+------------------------------+----------------------------+----------------------------+
++  --+  +  +
 | locked up                    | `Home <../index.html>`__   |  logical                   |
-+------------------------------+----------------------------+----------------------------+
++  --+  +  +
 
 loop through
 
@@ -1804,7 +1804,7 @@ L
 
  `Next <loose-bytes.html>`__
 
---------------
+ 
 
 **loop through**: vt.
 
@@ -1815,13 +1815,13 @@ which is less common among C and Unix programmers. ITS hackers used to
 say IRP over after an obscure pseudo-op in the MIDAS PDP-10 assembler
 (the same IRP op can nowadays be found in Microsoft's assembler).
 
---------------
+ 
 
-+----------------------------+----------------------------+--------------------------------+
++  +  +  ----+
 | `Prev <logical.html>`__    | `Up <../L.html>`__         |  `Next <loose-bytes.html>`__   |
-+----------------------------+----------------------------+--------------------------------+
++  +  +  ----+
 | logical                    | `Home <../index.html>`__   |  loose bytes                   |
-+----------------------------+----------------------------+--------------------------------+
++  +  +  ----+
 
 loose bytes
 
@@ -1831,7 +1831,7 @@ L
 
  `Next <lord-high-fixer.html>`__
 
---------------
+ 
 
 **loose bytes**: n.
 
@@ -1840,13 +1840,13 @@ Commonwealth hackish term for the padding bytes or
 a record or structure to cope with alignment requirements imposed by the
 machine architecture.
 
---------------
+ 
 
-+---------------------------------+----------------------------+------------------------------------+
++  -----+  +  --------+
 | `Prev <loop-through.html>`__    | `Up <../L.html>`__         |  `Next <lord-high-fixer.html>`__   |
-+---------------------------------+----------------------------+------------------------------------+
++  -----+  +  --------+
 | loop through                    | `Home <../index.html>`__   |  lord high fixer                   |
-+---------------------------------+----------------------------+------------------------------------+
++  -----+  +  --------+
 
 lord high fixer
 
@@ -1856,7 +1856,7 @@ L
 
  `Next <lose.html>`__
 
---------------
+ 
 
 **lord high fixer**: n.
 
@@ -1864,13 +1864,13 @@ L
 The person in an organization who knows the most about some aspect of a
 system. See `wizard <./W.html#wizard.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 | `Prev <loose-bytes.html>`__    | `Up <../L.html>`__         |  `Next <lose.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 | loose bytes                    | `Home <../index.html>`__   |  lose                   |
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 
 lose
 
@@ -1880,7 +1880,7 @@ L
 
  `Next <lose-lose.html>`__
 
---------------
+ 
 
 **lose**: vi.
 
@@ -1895,13 +1895,13 @@ ignorant). See also `deserves to lose <./D.html#deserves-to-lose.html>`__.
 4. n. Refers to something that is `losing <losing.html>`__, especially
 in the phrases “That's a lose!” and “What a lose!”
 
---------------
+ 
 
-+------------------------------------+----------------------------+------------------------------+
++  --------+  +  --+
 | `Prev <lord-high-fixer.html>`__    | `Up <../L.html>`__         |  `Next <lose-lose.html>`__   |
-+------------------------------------+----------------------------+------------------------------+
++  --------+  +  --+
 | lord high fixer                    | `Home <../index.html>`__   |  lose lose                   |
-+------------------------------------+----------------------------+------------------------------+
++  --------+  +  --+
 
 lose lose
 
@@ -1911,20 +1911,20 @@ L
 
  `Next <loser.html>`__
 
---------------
+ 
 
 **lose lose**: interj.
 
 A reply to or comment on an undesirable situation. “I accidentally
 deleted all my files!” “Lose, lose.”
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | `Prev <lose.html>`__    | `Up <../L.html>`__         |  `Next <loser.html>`__   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | lose                    | `Home <../index.html>`__   |  loser                   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 
 loser
 
@@ -1934,7 +1934,7 @@ L
 
  `Next <losing.html>`__
 
---------------
+ 
 
 **loser**: n.
 
@@ -1944,13 +1944,13 @@ knows not and knows not that he knows not. Emphatic forms are real
 loser, total loser, and complete loser (but not \*\*moby loser, which
 would be a contradiction in terms). See `luser <luser.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | `Prev <lose-lose.html>`__    | `Up <../L.html>`__         |  `Next <losing.html>`__   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | lose lose                    | `Home <../index.html>`__   |  losing                   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 
 losing
 
@@ -1960,7 +1960,7 @@ L
 
  `Next <loss.html>`__
 
---------------
+ 
 
 **losing**: adj.
 
@@ -1968,13 +1968,13 @@ Said of anything that is or causes a `lose <lose.html>`__ or
 `lossage <lossage.html>`__. “The compiler is losing badly when I try
 to use templates.”
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | `Prev <loser.html>`__    | `Up <../L.html>`__         |  `Next <loss.html>`__   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | loser                    | `Home <../index.html>`__   |  loss                   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 
 lossage
 
@@ -1984,7 +1984,7 @@ L
 
  `Next <lossy.html>`__
 
---------------
+ 
 
 **lossage**: /los'@j/, n.
 
@@ -1996,13 +1996,13 @@ present circumstances; the latter implies a continuing
 (for example) a temporary hardware failure is a loss, but bugs in an
 important tool (like a compiler) are serious lossage.
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | `Prev <loss.html>`__    | `Up <../L.html>`__         |  `Next <lossy.html>`__   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | loss                    | `Home <../index.html>`__   |  lossy                   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 
 loss
 
@@ -2012,7 +2012,7 @@ L
 
  `Next <lossage.html>`__
 
---------------
+ 
 
 **loss**: n.
 
@@ -2024,13 +2024,13 @@ an abstract noun, moby is simply a magnifier, whereas when applied to a
 person it implies substance and has positive connotations. Compare
 `lossage <lossage.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+----------------------------+
++ -------------+  +  +
 | `Prev <losing.html>`__    | `Up <../L.html>`__         |  `Next <lossage.html>`__   |
-+---------------------------+----------------------------+----------------------------+
++ -------------+  +  +
 | losing                    | `Home <../index.html>`__   |  lossage                   |
-+---------------------------+----------------------------+----------------------------+
++ -------------+  +  +
 
 lossy
 
@@ -2040,7 +2040,7 @@ L
 
  `Next <lost-in-the-noise.html>`__
 
---------------
+ 
 
 **lossy**: adj.
 
@@ -2059,13 +2059,13 @@ having a lossy day today.” means that the speaker has ‘lost’ or is
 ‘losing’ in all of their activities, and that this is causing some
 increase in negative emotions.
 
---------------
+ 
 
-+----------------------------+----------------------------+--------------------------------------+
++  +  +  ----------+
 | `Prev <lossage.html>`__    | `Up <../L.html>`__         |  `Next <lost-in-the-noise.html>`__   |
-+----------------------------+----------------------------+--------------------------------------+
++  +  +  ----------+
 | lossage                    | `Home <../index.html>`__   |  lost in the noise                   |
-+----------------------------+----------------------------+--------------------------------------+
++  +  +  ----------+
 
 lost in the noise
 
@@ -2075,7 +2075,7 @@ L
 
  `Next <lost-in-the-underflow.html>`__
 
---------------
+ 
 
 **lost in the noise**: adj.
 
@@ -2085,13 +2085,13 @@ be separated from low-intensity noise in the system. Though popular
 among hackers, it is not confined to hackerdom; physicists, engineers,
 astronomers, and statisticians all use it.
 
---------------
+ 
 
-+--------------------------+----------------------------+------------------------------------------+
++ ------------+  +   +
 | `Prev <lossy.html>`__    | `Up <../L.html>`__         |  `Next <lost-in-the-underflow.html>`__   |
-+--------------------------+----------------------------+------------------------------------------+
++ ------------+  +   +
 | lossy                    | `Home <../index.html>`__   |  lost in the underflow                   |
-+--------------------------+----------------------------+------------------------------------------+
++ ------------+  +   +
 
 lost in the underflow
 
@@ -2101,7 +2101,7 @@ L
 
  `Next <lots-of-MIPS-but-no-I-O.html>`__
 
---------------
+ 
 
 **lost in the underflow**: adj.
 
@@ -2117,13 +2117,13 @@ a thrown baseball, but that effect gets lost in the underflow.” Compare
 squared <./E.html#epsilon-squared.html>`__; see also `overflow
 bit <./O.html#overflow-bit.html>`__.
 
---------------
+ 
 
-+--------------------------------------+----------------------------+--------------------------------------------+
++  ----------+  +   --+
 | `Prev <lost-in-the-noise.html>`__    | `Up <../L.html>`__         |  `Next <lots-of-MIPS-but-no-I-O.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------------------+
++  ----------+  +   --+
 | lost in the noise                    | `Home <../index.html>`__   |  lots of MIPS but no I/O                   |
-+--------------------------------------+----------------------------+--------------------------------------------+
++  ----------+  +   --+
 
 lots of MIPS but no I/O
 
@@ -2133,7 +2133,7 @@ L
 
  `Next <low-bandwidth.html>`__
 
---------------
+ 
 
 **lots of MIPS but no I/O**: adj.
 
@@ -2143,13 +2143,13 @@ machine that has lots of processing power but is bottlenecked on
 input-output (in 1991, the IBM Rios, a.k.a. RS/6000, was a notorious
 example).
 
---------------
+ 
 
-+------------------------------------------+----------------------------+----------------------------------+
++   +  +  ------+
 | `Prev <lost-in-the-underflow.html>`__    | `Up <../L.html>`__         |  `Next <low-bandwidth.html>`__   |
-+------------------------------------------+----------------------------+----------------------------------+
++   +  +  ------+
 | lost in the underflow                    | `Home <../index.html>`__   |  low-bandwidth                   |
-+------------------------------------------+----------------------------+----------------------------------+
++   +  +  ------+
 
 low-bandwidth
 
@@ -2159,7 +2159,7 @@ L
 
  `Next <Lubarskys-Law-of-Cybernetic-Entomology.html>`__
 
---------------
+ 
 
 **low-bandwidth**: adj.
 
@@ -2171,13 +2171,13 @@ an audience of `suit <./S.html#suit.html>`__\ s!” Compare
 `bandwidth <./B.html#bandwidth.html>`__,
 `math-out <./M.html#math-out.html>`__.
 
---------------
+ 
 
-+--------------------------------------------+----------------------------+-----------------------------------------------------------+
++   --+  +    ---+
 | `Prev <lots-of-MIPS-but-no-I-O.html>`__    | `Up <../L.html>`__         |  `Next <Lubarskys-Law-of-Cybernetic-Entomology.html>`__   |
-+--------------------------------------------+----------------------------+-----------------------------------------------------------+
++   --+  +    ---+
 | lots of MIPS but no I/O                    | `Home <../index.html>`__   |  Lubarsky's Law of Cybernetic Entomology                  |
-+--------------------------------------------+----------------------------+-----------------------------------------------------------+
++   --+  +    ---+
 
 Lubarsky's Law of Cybernetic Entomology
 
@@ -2187,19 +2187,19 @@ L
 
  `Next <Lumber-Cartel.html>`__
 
---------------
+ 
 
 **Lubarsky's Law of Cybernetic Entomology**: prov.
 
 “There is *always* one more bug.”
 
---------------
+ 
 
-+----------------------------------+----------------------------+----------------------------------+
++  ------+  +  ------+
 | `Prev <low-bandwidth.html>`__    | `Up <../L.html>`__         |  `Next <Lumber-Cartel.html>`__   |
-+----------------------------------+----------------------------+----------------------------------+
++  ------+  +  ------+
 | low-bandwidth                    | `Home <../index.html>`__   |  Lumber Cartel                   |
-+----------------------------------+----------------------------+----------------------------------+
++  ------+  +  ------+
 
 Lumber Cartel
 
@@ -2209,7 +2209,7 @@ L
 
  `Next <lunatic-fringe.html>`__
 
---------------
+ 
 
 **Lumber Cartel**: n.
 
@@ -2223,13 +2223,13 @@ their postings; see `TINC <./T.html#TINC.html>`__, `backbone
 cabal <./B.html#backbone-cabal.html>`__ and `NANA <./N.html#NANA.html>`__ for
 explanation.
 
---------------
+ 
 
-+-----------------------------------------------------------+----------------------------+-----------------------------------+
++    ---+  +  -------+
 | `Prev <Lubarskys-Law-of-Cybernetic-Entomology.html>`__    | `Up <../L.html>`__         |  `Next <lunatic-fringe.html>`__   |
-+-----------------------------------------------------------+----------------------------+-----------------------------------+
++    ---+  +  -------+
 | Lubarsky's Law of Cybernetic Entomology                   | `Home <../index.html>`__   |  lunatic fringe                   |
-+-----------------------------------------------------------+----------------------------+-----------------------------------+
++    ---+  +  -------+
 
 lunatic fringe
 
@@ -2239,20 +2239,20 @@ L
 
  `Next <lurker.html>`__
 
---------------
+ 
 
 **lunatic fringe**: n.
 
 [IBM] Customers who can be relied upon to accept release 1 versions of
 software. Compare `heatseeker <./H.html#heatseeker.html>`__.
 
---------------
+ 
 
-+----------------------------------+----------------------------+---------------------------+
++  ------+  + -------------+
 | `Prev <Lumber-Cartel.html>`__    | `Up <../L.html>`__         |  `Next <lurker.html>`__   |
-+----------------------------------+----------------------------+---------------------------+
++  ------+  + -------------+
 | Lumber Cartel                    | `Home <../index.html>`__   |  lurker                   |
-+----------------------------------+----------------------------+---------------------------+
++  ------+  + -------------+
 
 lurker
 
@@ -2262,7 +2262,7 @@ L
 
  `Next <luser.html>`__
 
---------------
+ 
 
 **lurker**: n.
 
@@ -2279,13 +2279,13 @@ ties to SF fandom and the hacker culture. In that series, the use of the
 term ‘lurker’ for a homeless or displaced person is a conscious
 reference to the jargon term.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+--------------------------+
++  -------+  + ------------+
 | `Prev <lunatic-fringe.html>`__    | `Up <../L.html>`__         |  `Next <luser.html>`__   |
-+-----------------------------------+----------------------------+--------------------------+
++  -------+  + ------------+
 | lunatic fringe                    | `Home <../index.html>`__   |  luser                   |
-+-----------------------------------+----------------------------+--------------------------+
++  -------+  + ------------+
 
 luser
 
@@ -2295,7 +2295,7 @@ L
 
  `Next <../M.html>`__
 
---------------
+ 
 
 **luser**: /loo´zr/, n.
 
@@ -2320,11 +2320,11 @@ seen in program comments and on Usenet. Compare
 `mundane <./M.html#mundane.html>`__, `muggle <./M.html#muggle.html>`__,
 `newbie <./N.html#newbie.html>`__, `chainik <./C.html#chainik.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+-------------------------+
++ -------------+  + -----------+
 | `Prev <lurker.html>`__    | `Up <../L.html>`__         |  `Next <../M.html>`__   |
-+---------------------------+----------------------------+-------------------------+
++ -------------+  + -----------+
 | lurker                    | `Home <../index.html>`__   |  M                      |
-+---------------------------+----------------------------+-------------------------+
++ -------------+  + -----------+
 

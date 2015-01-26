@@ -773,15 +773,15 @@ that many hackers use some of them in written English, especially in
 email or news on technical topics. Those commonly encountered include
 the following:
 
-+------+----------------------------------------------------------------------------------------------------------------+
++------+        +
 | \*   | wildcard for any string (see also `UN\*X <./U.html#UN-asterisk-X.html>`__)                                       |
-+------+----------------------------------------------------------------------------------------------------------------+
++------+        +
 | ?    | wildcard for any single character (generally read this way only at the beginning or in the middle of a word)   |
-+------+----------------------------------------------------------------------------------------------------------------+
++------+        +
 | []   | delimits a wildcard matching any of the enclosed characters                                                    |
-+------+----------------------------------------------------------------------------------------------------------------+
++------+        +
 | {}   | alternation of comma-separated alternatives; thus, ‘foo{baz,qux}’ would be read as ‘foobaz’ or ‘fooqux’        |
-+------+----------------------------------------------------------------------------------------------------------------+
++------+        +
 
 Some examples: “He said his name was [KC]arl” (expresses ambiguity). “I
 don't read talk.politics.\*” (any of the talk.politics subgroups on

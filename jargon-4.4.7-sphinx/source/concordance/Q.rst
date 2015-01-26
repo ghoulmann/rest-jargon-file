@@ -246,7 +246,7 @@ programming language is a common hackish amusement. (We ignore some
 variants of BASIC in which a program consisting of a single empty string
 literal reproduces itself trivially.) Here is one classic quine:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: programlisting                                                 |
 |                                                                          |
 |     ((lambda (x)                                                         |
@@ -255,32 +255,32 @@ literal reproduces itself trivially.) Here is one classic quine:
 |         (lambda (x)                                                      |
 |           (list x (list (quote quote) x)))))                             |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 This one works in LISP or Scheme. It's relatively easy to write quines
 in other languages such as Postscript which readily handle programs as
 data; much harder (and thus more challenging!) in languages like C which
 do not. Here is a classic C quine for ASCII machines:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: programlisting                                                 |
 |                                                                          |
 |     char*f="char*f=%c%s%c;main()                                         |
 |     {printf(f,34,f,34,10);}%c";                                          |
 |     main(){printf(f,34,f,34,10);}                                        |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 For excruciatingly exact quinishness, remove the interior line breaks.
 Here is another elegant quine in ANSI C:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: programlisting                                                 |
 |                                                                          |
 |     #define q(k)main(){return!puts(#k"\nq("#k")");}                      |
 |     q(#define q(k)main(){return!puts(#k"\nq("#k")");})                   |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 Some infamous `Obfuscated C
 Contest <./O.html#Obfuscated-C-Contest.html>`__ entries have been quines

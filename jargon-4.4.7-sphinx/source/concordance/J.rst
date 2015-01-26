@@ -10,7 +10,7 @@ J
 
  `Next <jaggies.html>`__
 
---------------
+ 
 
 **jack in**: v.
 
@@ -24,13 +24,13 @@ act of plugging an electrode set into neural sockets in order to
 interface the brain directly to a virtual reality. It is primarily used
 by MUD and IRC fans and younger hackers on BBS systems.
 
---------------
+ 
 
-+-------------------------------------+----------------------------+----------------------------+
++  ---------+  +  +
 | `Prev <J--Random-Hacker.html>`__    | `Up <../J.html>`__         |  `Next <jaggies.html>`__   |
-+-------------------------------------+----------------------------+----------------------------+
++  ---------+  +  +
 | J. Random Hacker                    | `Home <../index.html>`__   |  jaggies                   |
-+-------------------------------------+----------------------------+----------------------------+
++  ---------+  +  +
 
 jaggies
 
@@ -40,7 +40,7 @@ J
 
  `Next <Java.html>`__
 
---------------
+ 
 
 **jaggies**: /jag´eez/, n.
 
@@ -48,13 +48,13 @@ The ‘stairstep’ effect observable when an edge (esp. a linear edge of
 very shallow or steep slope) is rendered on a pixel device (as opposed
 to a vector display).
 
---------------
+ 
 
-+----------------------------+----------------------------+-------------------------+
++  +  + -----------+
 | `Prev <jack-in.html>`__    | `Up <../J.html>`__         |  `Next <Java.html>`__   |
-+----------------------------+----------------------------+-------------------------+
++  +  + -----------+
 | jack in                    | `Home <../index.html>`__   |  Java                   |
-+----------------------------+----------------------------+-------------------------+
++  +  + -----------+
 
 Java
 
@@ -64,7 +64,7 @@ J
 
  `Next <JCL.html>`__
 
---------------
+ 
 
 **Java**
 
@@ -97,13 +97,13 @@ taken the place of `Pascal <./P.html#Pascal.html>`__ as the preferred tool
 for teaching the basics of good programming to the next generation of
 hackers.
 
---------------
+ 
 
-+----------------------------+----------------------------+------------------------+
++  +  + ----------+
 | `Prev <jaggies.html>`__    | `Up <../J.html>`__         |  `Next <JCL.html>`__   |
-+----------------------------+----------------------------+------------------------+
++  +  + ----------+
 | jaggies                    | `Home <../index.html>`__   |  JCL                   |
-+----------------------------+----------------------------+------------------------+
++  +  + ----------+
 
 JCL
 
@@ -113,7 +113,7 @@ J
 
  `Next <JEDR.html>`__
 
---------------
+ 
 
 **JCL**: /J·C·L/, n.
 
@@ -141,13 +141,13 @@ A (poorly documented, naturally) shell simulating JCL syntax is
 available at the Retrocomputing Museum
 `http://www.catb.org/retro/ <http://www.catb.org/retro/>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 | `Prev <Java.html>`__    | `Up <../J.html>`__         |  `Next <JEDR.html>`__   |
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 | Java                    | `Home <../index.html>`__   |  JEDR                   |
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 
 JEDR
 
@@ -157,7 +157,7 @@ J
 
  `Next <Jeff-K-.html>`__
 
---------------
+ 
 
 **JEDR**: //, n.
 
@@ -173,13 +173,13 @@ effect on the net.culture was to discredit ‘sensitivity’ arguments for
 censorship so thoroughly that more recent attempts to raise them have
 met with immediate and near-universal rejection.
 
---------------
+ 
 
-+------------------------+----------------------------+----------------------------+
++ ----------+  +  +
 | `Prev <JCL.html>`__    | `Up <../J.html>`__         |  `Next <Jeff-K-.html>`__   |
-+------------------------+----------------------------+----------------------------+
++ ----------+  +  +
 | JCL                    | `Home <../index.html>`__   |  Jeff K.                   |
-+------------------------+----------------------------+----------------------------+
++ ----------+  +  +
 
 Jeff K.
 
@@ -189,7 +189,7 @@ J
 
  `Next <jello.html>`__
 
---------------
+ 
 
 **Jeff K.**
 
@@ -217,13 +217,13 @@ chat rooms, and other places where computer enthusiasts congregate. He
 is well-recognized in the PC game community and his influence has spread
 to hacker `fora <./F.html#fora.html>`__ like Slashdot as well.
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | `Prev <JEDR.html>`__    | `Up <../J.html>`__         |  `Next <jello.html>`__   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | JEDR                    | `Home <../index.html>`__   |  jello                   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 
 jello
 
@@ -233,7 +233,7 @@ J
 
  `Next <Jeopardy-style-quoting.html>`__
 
---------------
+ 
 
 **jello**: n.
 
@@ -244,13 +244,13 @@ both excessively cross-posted and too frequently posted, as opposed to
 cross-posted). This term is widely recognized but not commonly used;
 most people refer to both kinds of abuse or their combination as spam.
 
---------------
+ 
 
-+----------------------------+----------------------------+-------------------------------------------+
++  +  +   -+
 | `Prev <Jeff-K-.html>`__    | `Up <../J.html>`__         |  `Next <Jeopardy-style-quoting.html>`__   |
-+----------------------------+----------------------------+-------------------------------------------+
++  +  +   -+
 | Jeff K.                    | `Home <../index.html>`__   |  Jeopardy-style quoting                   |
-+----------------------------+----------------------------+-------------------------------------------+
++  +  +   -+
 
 Jeopardy-style quoting
 
@@ -260,19 +260,19 @@ J
 
  `Next <jibble.html>`__
 
---------------
+ 
 
 **Jeopardy-style quoting**
 
 See `top-post <./T.html#top-post.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+---------------------------+
++ ------------+  + -------------+
 | `Prev <jello.html>`__    | `Up <../J.html>`__         |  `Next <jibble.html>`__   |
-+--------------------------+----------------------------+---------------------------+
++ ------------+  + -------------+
 | jello                    | `Home <../index.html>`__   |  jibble                   |
-+--------------------------+----------------------------+---------------------------+
++ ------------+  + -------------+
 
 jibble
 
@@ -282,7 +282,7 @@ J
 
  `Next <jiffy.html>`__
 
---------------
+ 
 
 **jibble**
 
@@ -291,13 +291,13 @@ word; compare `gorets <./G.html#gorets.html>`__. A deliberate experiment
 in tracking the spread of a near-meaningless word. See
 `http://www.jibble.org/jibblemeaning.php <http://www.jibble.org/jibblemeaning.php>`__.
 
---------------
+ 
 
-+-------------------------------------------+----------------------------+--------------------------+
++   -+  + ------------+
 | `Prev <Jeopardy-style-quoting.html>`__    | `Up <../J.html>`__         |  `Next <jiffy.html>`__   |
-+-------------------------------------------+----------------------------+--------------------------+
++   -+  + ------------+
 | Jeopardy-style quoting                    | `Home <../index.html>`__   |  jiffy                   |
-+-------------------------------------------+----------------------------+--------------------------+
++   -+  + ------------+
 
 jiffy
 
@@ -307,7 +307,7 @@ J
 
  `Next <job-security.html>`__
 
---------------
+ 
 
 **jiffy**: n.
 
@@ -332,13 +332,13 @@ contrary to the more widespread use of the word. Oppose
 `nano <./N.html#nano.html>`__. See also `Real Soon
 Now <./R.html#Real-Soon-Now.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+---------------------------------+
++ -------------+  +  -----+
 | `Prev <jibble.html>`__    | `Up <../J.html>`__         |  `Next <job-security.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
++ -------------+  +  -----+
 | jibble                    | `Home <../index.html>`__   |  job security                   |
-+---------------------------+----------------------------+---------------------------------+
++ -------------+  +  -----+
 
 job security
 
@@ -348,7 +348,7 @@ J
 
  `Next <jock.html>`__
 
---------------
+ 
 
 **job security**: n.
 
@@ -360,13 +360,13 @@ himself indispensable for maintenance). This sour joke seldom has to be
 said in full; if two hackers are looking over some code together and one
 points at a section and says “job security”, the other one may just nod.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | `Prev <jiffy.html>`__    | `Up <../J.html>`__         |  `Next <jock.html>`__   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | jiffy                    | `Home <../index.html>`__   |  jock                   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 
 jock
 
@@ -376,7 +376,7 @@ J
 
  `Next <joe-code.html>`__
 
---------------
+ 
 
 **jock**: n.
 
@@ -387,13 +387,13 @@ programs. See `brute force <./B.html#brute-force.html>`__.
 particular computing area. The compounds compiler jock and systems jock
 seem to be the best-established examples.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 | `Prev <job-security.html>`__    | `Up <../J.html>`__         |  `Next <joe-code.html>`__   |
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 | job security                    | `Home <../index.html>`__   |  joe code                   |
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 
 joe code
 
@@ -403,7 +403,7 @@ J
 
  `Next <joe-job.html>`__
 
---------------
+ 
 
 **joe code**: /joh´ kohd\`/, n.
 
@@ -425,13 +425,13 @@ wonder! It's Ed code!”. Used most often with a programmer who has left
 the shop and thus is a convenient scapegoat for anything that is wrong
 with the project.
 
---------------
+ 
 
-+-------------------------+----------------------------+----------------------------+
++ -----------+  +  +
 | `Prev <jock.html>`__    | `Up <../J.html>`__         |  `Next <joe-job.html>`__   |
-+-------------------------+----------------------------+----------------------------+
++ -----------+  +  +
 | jock                    | `Home <../index.html>`__   |  joe-job                   |
-+-------------------------+----------------------------+----------------------------+
++ -----------+  +  +
 
 joe-job
 
@@ -441,7 +441,7 @@ J
 
  `Next <juggling-eggs.html>`__
 
---------------
+ 
 
 **joe-job**: n., vt.
 
@@ -450,13 +450,13 @@ who is then generally flooded by the bounces; or, the act of performing
 such a run. The original incident is described
 `here <http://www.everything2.com/index.pl?node=Joe%20Job>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+----------------------------------+
++  -+  +  ------+
 | `Prev <joe-code.html>`__    | `Up <../J.html>`__         |  `Next <juggling-eggs.html>`__   |
-+-----------------------------+----------------------------+----------------------------------+
++  -+  +  ------+
 | joe code                    | `Home <../index.html>`__   |  juggling eggs                   |
-+-----------------------------+----------------------------+----------------------------------+
++  -+  +  ------+
 
 J. Random Hacker
 
@@ -466,7 +466,7 @@ J
 
  `Next <jack-in.html>`__
 
---------------
+ 
 
 **J. Random Hacker**: /J rand´m hak´r/, n.
 
@@ -480,13 +480,13 @@ and was probably influenced by ‘J. Presper Eckert’ (one of the
 co-inventors of the electronic computer). See also `Fred
 Foobar <./F.html#Fred-Foobar.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------+
++  --+  +  +
 | `Prev <J--Random.html>`__    | `Up <../J.html>`__         |  `Next <jack-in.html>`__   |
-+------------------------------+----------------------------+----------------------------+
++  --+  +  +
 | J. Random                    | `Home <../index.html>`__   |  jack in                   |
-+------------------------------+----------------------------+----------------------------+
++  --+  +  +
 
 J. Random
 
@@ -496,7 +496,7 @@ J
 
  `Next <J--Random-Hacker.html>`__
 
---------------
+ 
 
 **J. Random**: /J rand´m/, n.
 
@@ -510,13 +510,13 @@ Loser be allowed to kill other peoples' processes?”), but it can be used
 simply as an elaborate version of `random <./R.html#random.html>`__ in any
 sense.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------------------+
++ -----------+  +  ---------+
 | `Prev <../J.html>`__    | `Up <../J.html>`__         |  `Next <J--Random-Hacker.html>`__   |
-+-------------------------+----------------------------+-------------------------------------+
++ -----------+  +  ---------+
 | J                       | `Home <../index.html>`__   |  J. Random Hacker                   |
-+-------------------------+----------------------------+-------------------------------------+
++ -----------+  +  ---------+
 
 juggling eggs
 
@@ -526,7 +526,7 @@ J
 
  `Next <juice.html>`__
 
---------------
+ 
 
 **juggling eggs**: vi.
 
@@ -541,13 +541,13 @@ same image in Robert Heinlein's influential 1961 novel *Stranger in a
 Strange Land*. See also `hack mode <./H.html#hack-mode.html>`__ and `on
 the gripping hand <./O.html#on-the-gripping-hand.html>`__.
 
---------------
+ 
 
-+----------------------------+----------------------------+--------------------------+
++  +  + ------------+
 | `Prev <joe-job.html>`__    | `Up <../J.html>`__         |  `Next <juice.html>`__   |
-+----------------------------+----------------------------+--------------------------+
++  +  + ------------+
 | joe-job                    | `Home <../index.html>`__   |  juice                   |
-+----------------------------+----------------------------+--------------------------+
++  +  + ------------+
 
 juice
 
@@ -557,7 +557,7 @@ J
 
  `Next <jump-off-into-never-never-land.html>`__
 
---------------
+ 
 
 **juice**: n.
 
@@ -567,13 +567,13 @@ generalized from `google juice <./G.html#google-juice.html>`__, but may
 derive from black urban slang for power or a respect. Example: “I signed
 your key, but I really don't have the juice to be authoritative.”
 
---------------
+ 
 
-+----------------------------------+----------------------------+---------------------------------------------------+
++  ------+  +   ---------+
 | `Prev <juggling-eggs.html>`__    | `Up <../J.html>`__         |  `Next <jump-off-into-never-never-land.html>`__   |
-+----------------------------------+----------------------------+---------------------------------------------------+
++  ------+  +   ---------+
 | juggling eggs                    | `Home <../index.html>`__   |  jump off into never-never land                   |
-+----------------------------------+----------------------------+---------------------------------------------------+
++  ------+  +   ---------+
 
 jump off into never-never land
 
@@ -583,7 +583,7 @@ J
 
  `Next <jupiter.html>`__
 
---------------
+ 
 
 **jump off into never-never land**: v.
 
@@ -591,13 +591,13 @@ J
 produces catastrophic or just plain weird results. Compare
 `hyperspace <./H.html#hyperspace.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+----------------------------+
++ ------------+  +  +
 | `Prev <juice.html>`__    | `Up <../J.html>`__         |  `Next <jupiter.html>`__   |
-+--------------------------+----------------------------+----------------------------+
++ ------------+  +  +
 | juice                    | `Home <../index.html>`__   |  jupiter                   |
-+--------------------------+----------------------------+----------------------------+
++ ------------+  +  +
 
 jupiter
 
@@ -607,7 +607,7 @@ J
 
  `Next <../K.html>`__
 
---------------
+ 
 
 **jupiter**: vt.
 
@@ -618,11 +618,11 @@ this to NickServ, the robot in charge of preventing people from
 inadvertently using a nick claimed by another user. Now commonly
 shortened to jupe.
 
---------------
+ 
 
-+---------------------------------------------------+----------------------------+-------------------------+
++   ---------+  + -----------+
 | `Prev <jump-off-into-never-never-land.html>`__    | `Up <../J.html>`__         |  `Next <../K.html>`__   |
-+---------------------------------------------------+----------------------------+-------------------------+
++   ---------+  + -----------+
 | jump off into never-never land                    | `Home <../index.html>`__   |  K                      |
-+---------------------------------------------------+----------------------------+-------------------------+
++   ---------+  + -----------+
 

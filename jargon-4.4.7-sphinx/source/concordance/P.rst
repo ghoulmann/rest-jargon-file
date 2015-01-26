@@ -697,7 +697,7 @@ peta-
 
 pffft
 ==================
---------------
+ 
 
 **pffft**: interj.
 
@@ -705,7 +705,7 @@ pffft
 particularly shock or surprise, disgust or anger. The amplitude of the
 reaction can be measured by counting intermediary fs. For example:
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: screen                                                         |
 |                                                                          |
 |     <jrandom> someone stole my hotdog                                    |
@@ -714,7 +714,7 @@ reaction can be measured by counting intermediary fs. For example:
 |     <frodo> Cthulhu stole my hotdog                                      |
 |     <joe> pffffffffffffft!                                               |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 PFY
 ========
@@ -1149,13 +1149,13 @@ have started competitions to find who can create the longest running,
 funniest, and most original animations. Various animation characters
 include:
 
-+---------------------------+----------+
++ -------------+----------+
 | Centipede:                | mmmmme   |
-+---------------------------+----------+
++ -------------+----------+
 | Lorry/Truck:              | oo-oP    |
-+---------------------------+----------+
++ -------------+----------+
 | Andalusian Video Snail:   | \_@/     |
-+---------------------------+----------+
++ -------------+----------+
 
 and a compiler (ASP) is available on Usenet for producing them. See also
 `twirling baton <./T.html#twirling-baton.html>`__.
@@ -1226,7 +1226,7 @@ on the keyboard and mashes them down, hoping for some useful response.
 A slightly more directed form of plokta can often be seen in mail
 messages or Usenet articles from new users — the text might end with
 
-+--------------------------------------------------------------------------+
++     ----+
 | .. code:: screen                                                         |
 |                                                                          |
 |             ^X^C                                                         |
@@ -1242,7 +1242,7 @@ messages or Usenet articles from new users — the text might end with
 |             ?                                                            |
 |             help                                                         |
                                                                           
-+--------------------------------------------------------------------------+
++     ----+
 
 as the user vainly tries to find the right exit sequence, with the
 incorrect tries piling up at the end of the message....

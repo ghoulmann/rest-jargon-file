@@ -3,14 +3,7 @@ M
 ===
 
 macdink
-
-`Prev <MS.html>`__ 
-
-M
-
- `Next <machoflops.html>`__
-
---------------
+===========
 
 **macdink**: /mak´dink/, vt.
 
@@ -22,23 +15,12 @@ slides for his presentation.” See also
 `fritterware <./F.html#fritterware.html>`__, `window
 shopping <./W.html#window-shopping.html>`__.
 
---------------
-
-+-----------------------+----------------------------+-------------------------------+
-| `Prev <MS.html>`__    | `Up <../M.html>`__         |  `Next <machoflops.html>`__   |
-+-----------------------+----------------------------+-------------------------------+
-| M$                    | `Home <../index.html>`__   |  machoflops                   |
-+-----------------------+----------------------------+-------------------------------+
+ 
 
 machoflops
+==============
 
-`Prev <macdink.html>`__ 
-
-M
-
- `Next <Macintoy.html>`__
-
---------------
+ 
 
 **machoflops**: /mach´oh·flops/, n.
 
@@ -49,36 +31,19 @@ half the quoted speed. See `Your mileage may
 vary <./Y.html#Your-mileage-may-vary.html>`__,
 `benchmark <./B.html#benchmark.html>`__.
 
---------------
 
-+----------------------------+----------------------------+-----------------------------+
-| `Prev <macdink.html>`__    | `Up <../M.html>`__         |  `Next <Macintoy.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
-| macdink                    | `Home <../index.html>`__   |  Macintoy                   |
-+----------------------------+----------------------------+-----------------------------+
 
 Macintoy
+===========
 
-`Prev <machoflops.html>`__ 
-
-M
-
- `Next <Macintrash.html>`__
-
---------------
+ 
 
 **Macintoy**: /mak´in·toy/, n.
 
 The Apple Macintosh, considered as a `toy <./T.html#toy.html>`__. Less
 pejorative than `Macintrash <Macintrash.html>`__.
 
---------------
 
-+-------------------------------+----------------------------+-------------------------------+
-| `Prev <machoflops.html>`__    | `Up <../M.html>`__         |  `Next <Macintrash.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
-| machoflops                    | `Home <../index.html>`__   |  Macintrash                   |
-+-------------------------------+----------------------------+-------------------------------+
 
 Macintrash
 
@@ -88,7 +53,7 @@ M
 
  `Next <macro.html>`__
 
---------------
+ 
 
 **Macintrash**: /mak´in·trash\`/, n.
 
@@ -103,13 +68,8 @@ interface <./P.html#point-and-drool-interface.html>`__, `drool-proof
 paper <./D.html#drool-proof-paper.html>`__,
 `user-friendly <./U.html#user-friendly.html>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+--------------------------+
-| `Prev <Macintoy.html>`__    | `Up <../M.html>`__         |  `Next <macro.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
-| Macintoy                    | `Home <../index.html>`__   |  macro                   |
-+-----------------------------+----------------------------+--------------------------+
 
 macro-
 
@@ -119,7 +79,7 @@ M
 
  `Next <macrology.html>`__
 
---------------
+ 
 
 **macro-**: pref.
 
@@ -128,13 +88,9 @@ among other technical cultures (for example, medical people) this
 competes with the prefix `mega- <mega-.html>`__, but hackers tend to
 restrict the latter to quantification.
 
---------------
+ 
 
-+--------------------------+----------------------------+------------------------------+
-| `Prev <macro.html>`__    | `Up <../M.html>`__         |  `Next <macrology.html>`__   |
-+--------------------------+----------------------------+------------------------------+
-| macro                    | `Home <../index.html>`__   |  macrology                   |
-+--------------------------+----------------------------+------------------------------+
+
 
 macro
 
@@ -144,7 +100,7 @@ M
 
  `Next <macro-.html>`__
 
---------------
+ 
 
 **macro**: /mak´roh/, n.
 
@@ -173,13 +129,7 @@ expansion), and for macro-like entities such as the keyboard macros
 supported in some text editors (and PC TSR or Macintosh INIT/CDEV
 keyboard enhancers).
 
---------------
 
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <Macintrash.html>`__    | `Up <../M.html>`__         |  `Next <macro-.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| Macintrash                    | `Home <../index.html>`__   |  macro-                   |
-+-------------------------------+----------------------------+---------------------------+
 
 macrology
 
@@ -189,7 +139,7 @@ M
 
  `Next <maggotbox.html>`__
 
---------------
+ 
 
 **macrology**: /mak·rol'@·jee/, n.
 
@@ -202,13 +152,8 @@ Sometimes studying the macrology of a system is not unlike archeology,
 ecology, or `theology <./T.html#theology.html>`__, hence the sound-alike
 construction. See also `boxology <./B.html#boxology.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+------------------------------+
-| `Prev <macro-.html>`__    | `Up <../M.html>`__         |  `Next <maggotbox.html>`__   |
-+---------------------------+----------------------------+------------------------------+
-| macro-                    | `Home <../index.html>`__   |  maggotbox                   |
-+---------------------------+----------------------------+------------------------------+
 
 maggotbox
 
@@ -218,19 +163,14 @@ M
 
  `Next <magic.html>`__
 
---------------
+ 
 
 **maggotbox**: /mag'@t·boks/, n.
 
 See `Macintrash <Macintrash.html>`__. This is even more derogatory.
 
---------------
+ 
 
-+------------------------------+----------------------------+--------------------------+
-| `Prev <macrology.html>`__    | `Up <../M.html>`__         |  `Next <magic.html>`__   |
-+------------------------------+----------------------------+--------------------------+
-| macrology                    | `Home <../index.html>`__   |  magic                   |
-+------------------------------+----------------------------+--------------------------+
 
 magic cookie
 
@@ -240,7 +180,7 @@ M
 
  `Next <magic-number.html>`__
 
---------------
+ 
 
 **magic cookie**: n.
 
@@ -265,13 +205,7 @@ also called a `glitch <./G.html#glitch.html>`__ (or occasionally a turd;
 compare `mouse droppings <mouse-droppings.html>`__). See also
 `cookie <./C.html#cookie.html>`__.
 
---------------
 
-+--------------------------+----------------------------+---------------------------------+
-| `Prev <magic.html>`__    | `Up <../M.html>`__         |  `Next <magic-number.html>`__   |
-+--------------------------+----------------------------+---------------------------------+
-| magic                    | `Home <../index.html>`__   |  magic number                   |
-+--------------------------+----------------------------+---------------------------------+
 
 magic
 
@@ -281,7 +215,7 @@ M
 
  `Next <magic-cookie.html>`__
 
---------------
+ 
 
 **magic**
 
@@ -312,13 +246,8 @@ magic <./B.html#black-magic.html>`__, `wizardly <./W.html#wizardly.html>`__,
 `deep magic <./D.html#deep-magic.html>`__, `heavy
 wizardry <./H.html#heavy-wizardry.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+---------------------------------+
-| `Prev <maggotbox.html>`__    | `Up <../M.html>`__         |  `Next <magic-cookie.html>`__   |
-+------------------------------+----------------------------+---------------------------------+
-| maggotbox                    | `Home <../index.html>`__   |  magic cookie                   |
-+------------------------------+----------------------------+---------------------------------+
 
 magic number
 
@@ -328,7 +257,7 @@ M
 
  `Next <magic-smoke.html>`__
 
---------------
+ 
 
 **magic number**: n.
 
@@ -374,13 +303,7 @@ items (such as numeric digits) that humans can hold in short-term
 memory. Among other things, this strongly influenced the interface
 design of the phone system.
 
---------------
 
-+---------------------------------+----------------------------+--------------------------------+
-| `Prev <magic-cookie.html>`__    | `Up <../M.html>`__         |  `Next <magic-smoke.html>`__   |
-+---------------------------------+----------------------------+--------------------------------+
-| magic cookie                    | `Home <../index.html>`__   |  magic smoke                   |
-+---------------------------------+----------------------------+--------------------------------+
 
 magic smoke
 
@@ -390,7 +313,7 @@ M
 
  `Next <mail-storm.html>`__
 
---------------
+ 
 
 **magic smoke**: n.
 
@@ -412,13 +335,8 @@ again. For all I know, it's still in service. Of course, this is because
 the magic smoke didn't get let out.” Compare the original phrasing of
 `Murphy's Law <Murphys-Law.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-------------------------------+
-| `Prev <magic-number.html>`__    | `Up <../M.html>`__         |  `Next <mail-storm.html>`__   |
-+---------------------------------+----------------------------+-------------------------------+
-| magic number                    | `Home <../index.html>`__   |  mail storm                   |
-+---------------------------------+----------------------------+-------------------------------+
 
 mailbomb
 
@@ -428,7 +346,7 @@ M
 
  `Next <mailing-list.html>`__
 
---------------
+ 
 
 **mailbomb**
 
@@ -448,13 +366,8 @@ victim's system, and in extreme cases, even at upstream sites.
 `nastygram <./N.html#nastygram.html>`__, `BLOB <./B.html#BLOB.html>`__
 (sense 2), `list-bomb <./L.html#list-bomb.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+---------------------------------+
-| `Prev <mail-storm.html>`__    | `Up <../M.html>`__         |  `Next <mailing-list.html>`__   |
-+-------------------------------+----------------------------+---------------------------------+
-| mail storm                    | `Home <../index.html>`__   |  mailing list                   |
-+-------------------------------+----------------------------+---------------------------------+
 
 mailing list
 
@@ -464,7 +377,7 @@ M
 
  `Next <main-loop.html>`__
 
---------------
+ 
 
 **mailing list**: n.
 
@@ -502,13 +415,9 @@ needing to meet face-to-face. Much of the material in this lexicon was
 criticized and polished on just such a mailing list (called
 ‘jargon-friends’), which included all the co-authors of Steele-1983.
 
---------------
+ 
 
-+-----------------------------+----------------------------+------------------------------+
-| `Prev <mailbomb.html>`__    | `Up <../M.html>`__         |  `Next <main-loop.html>`__   |
-+-----------------------------+----------------------------+------------------------------+
-| mailbomb                    | `Home <../index.html>`__   |  main loop                   |
-+-----------------------------+----------------------------+------------------------------+
+
 
 mail storm
 
@@ -518,7 +427,7 @@ M
 
  `Next <mailbomb.html>`__
 
---------------
+ 
 
 **mail storm**: n.
 
@@ -528,13 +437,9 @@ connection and active users re-connects after extended downtime — a
 flood of incoming mail that brings the machine to its knees. See also
 `hairball <./H.html#hairball.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-----------------------------+
-| `Prev <magic-smoke.html>`__    | `Up <../M.html>`__         |  `Next <mailbomb.html>`__   |
-+--------------------------------+----------------------------+-----------------------------+
-| magic smoke                    | `Home <../index.html>`__   |  mailbomb                   |
-+--------------------------------+----------------------------+-----------------------------+
+
 
 mainframe
 
@@ -544,7 +449,7 @@ M
 
  `Next <mainsleaze.html>`__
 
---------------
+ 
 
 **mainframe**: n.
 
@@ -578,13 +483,8 @@ resurgence of interest in mainframe computing as a way of providing huge
 quantities of easily maintainable, reliable virtual Linux servers,
 saving IBM's mainframe division from almost certain extinction.
 
---------------
+ 
 
-+------------------------------+----------------------------+-------------------------------+
-| `Prev <main-loop.html>`__    | `Up <../M.html>`__         |  `Next <mainsleaze.html>`__   |
-+------------------------------+----------------------------+-------------------------------+
-| main loop                    | `Home <../index.html>`__   |  mainsleaze                   |
-+------------------------------+----------------------------+-------------------------------+
 
 main loop
 
@@ -594,7 +494,7 @@ M
 
  `Next <mainframe.html>`__
 
---------------
+ 
 
 **main loop**: n.
 
@@ -602,13 +502,9 @@ The top-level control flow construct in an input- or event-driven
 program, the one which receives and acts or dispatches on the program's
 input. See also `driver <./D.html#driver.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+------------------------------+
-| `Prev <mailing-list.html>`__    | `Up <../M.html>`__         |  `Next <mainframe.html>`__   |
-+---------------------------------+----------------------------+------------------------------+
-| mailing list                    | `Home <../index.html>`__   |  mainframe                   |
-+---------------------------------+----------------------------+------------------------------+
+
 
 mainsleaze
 
@@ -618,7 +514,7 @@ M
 
  `Next <malware.html>`__
 
---------------
+ 
 
 **mainsleaze**: n.
 
@@ -631,13 +527,9 @@ pipe <./F.html#fat-pipe.html>`__, their own mailservers, and a `pink
 contract <./P.html#pink-contract.html>`__. Almost impossible to get shut
 down.
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------+
-| `Prev <mainframe.html>`__    | `Up <../M.html>`__         |  `Next <malware.html>`__   |
-+------------------------------+----------------------------+----------------------------+
-| mainframe                    | `Home <../index.html>`__   |  malware                   |
-+------------------------------+----------------------------+----------------------------+
+
 
 malware
 
@@ -647,7 +539,7 @@ M
 
  `Next <man-page.html>`__
 
---------------
+ 
 
 **malware**: n.
 
@@ -655,14 +547,6 @@ M
 unwitting user would not choose; especially used of
 `virus <./V.html#virus.html>`__ or `Trojan
 horse <./T.html#Trojan-horse.html>`__ software.
-
---------------
-
-+-------------------------------+----------------------------+-----------------------------+
-| `Prev <mainsleaze.html>`__    | `Up <../M.html>`__         |  `Next <man-page.html>`__   |
-+-------------------------------+----------------------------+-----------------------------+
-| mainsleaze                    | `Home <../index.html>`__   |  man page                   |
-+-------------------------------+----------------------------+-----------------------------+
 
 management
 
@@ -672,7 +556,7 @@ M
 
  `Next <mandelbug.html>`__
 
---------------
+ 
 
 **management**: n.
 
@@ -686,13 +570,7 @@ irritations. Hackers' satirical public notices are often signed ‘The
 Mgt’; this derives from the *Illuminatus* novels (see the
 `Bibliography <../pt03.html#bibliography>`__ in Appendix C).
 
---------------
 
-+-----------------------------+----------------------------+------------------------------+
-| `Prev <man-page.html>`__    | `Up <../M.html>`__         |  `Next <mandelbug.html>`__   |
-+-----------------------------+----------------------------+------------------------------+
-| man page                    | `Home <../index.html>`__   |  mandelbug                   |
-+-----------------------------+----------------------------+------------------------------+
 
 mandelbug
 
@@ -702,7 +580,7 @@ M
 
  `Next <manged.html>`__
 
---------------
+ 
 
 **mandelbug**: /man´del·buhg/, n.
 
@@ -713,13 +591,8 @@ non-deterministic. This term implies that the speaker thinks it is a
 `heisenbug <./H.html#heisenbug.html>`__. See also
 `schroedinbug <./S.html#schroedinbug.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+---------------------------+
-| `Prev <management.html>`__    | `Up <../M.html>`__         |  `Next <manged.html>`__   |
-+-------------------------------+----------------------------+---------------------------+
-| management                    | `Home <../index.html>`__   |  manged                   |
-+-------------------------------+----------------------------+---------------------------+
 
 manged
 
@@ -729,7 +602,7 @@ M
 
  `Next <mangle.html>`__
 
---------------
+ 
 
 **manged**: /mahnjd/, n.
 
@@ -738,13 +611,7 @@ perhaps influenced by English ‘mange’, ‘mangy’] adj. Refers to anything
 that is mangled or damaged, usually beyond repair. “The disk was manged
 after the electrical storm.” Compare `mung <mung.html>`__.
 
---------------
-
-+------------------------------+----------------------------+---------------------------+
-| `Prev <mandelbug.html>`__    | `Up <../M.html>`__         |  `Next <mangle.html>`__   |
-+------------------------------+----------------------------+---------------------------+
-| mandelbug                    | `Home <../index.html>`__   |  mangle                   |
-+------------------------------+----------------------------+---------------------------+
+ 
 
 mangled name
 
@@ -754,7 +621,7 @@ M
 
  `Next <mangler.html>`__
 
---------------
+ 
 
 **mangled name**: n.
 
@@ -768,13 +635,7 @@ allowed by most linkers. For instance, one popular compiler encodes the
 standard library function declaration “memchr(const void\*,int,unsigned
 int)” as “@memchr$qpxviui”.
 
---------------
-
-+---------------------------+----------------------------+----------------------------+
-| `Prev <mangle.html>`__    | `Up <../M.html>`__         |  `Next <mangler.html>`__   |
-+---------------------------+----------------------------+----------------------------+
-| mangle                    | `Home <../index.html>`__   |  mangler                   |
-+---------------------------+----------------------------+----------------------------+
+ 
 
 mangle
 
@@ -784,7 +645,7 @@ M
 
  `Next <mangled-name.html>`__
 
---------------
+ 
 
 **mangle**: vt.
 
@@ -796,13 +657,8 @@ totally trashed.
 2. To produce the `mangled name <mangled-name.html>`__ corresponding
 to a C++ declaration.
 
---------------
+ 
 
-+---------------------------+----------------------------+---------------------------------+
-| `Prev <manged.html>`__    | `Up <../M.html>`__         |  `Next <mangled-name.html>`__   |
-+---------------------------+----------------------------+---------------------------------+
-| manged                    | `Home <../index.html>`__   |  mangled name                   |
-+---------------------------+----------------------------+---------------------------------+
 
 mangler
 
@@ -812,7 +668,7 @@ M
 
  `Next <manularity.html>`__
 
---------------
+ 
 
 **mangler**: n.
 
@@ -820,13 +676,9 @@ M
 `system mangler <./S.html#system-mangler.html>`__ is somewhat different in
 connotation.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-------------------------------+
-| `Prev <mangled-name.html>`__    | `Up <../M.html>`__         |  `Next <manularity.html>`__   |
-+---------------------------------+----------------------------+-------------------------------+
-| mangled name                    | `Home <../index.html>`__   |  manularity                   |
-+---------------------------------+----------------------------+-------------------------------+
+
 
 man page
 
@@ -836,7 +688,7 @@ M
 
  `Next <management.html>`__
 
---------------
+ 
 
 **man page**: n.
 
@@ -863,13 +715,13 @@ do-one-thing-and-do-it-well tools which are favored by the Unix
 philosophy, it admittedly breaks down when applied to a command which is
 itself a major subsystem.
 
---------------
+ 
 
-+----------------------------+----------------------------+-------------------------------+
++  +  +  ---+
 | `Prev <malware.html>`__    | `Up <../M.html>`__         |  `Next <management.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
++  +  +  ---+
 | malware                    | `Home <../index.html>`__   |  management                   |
-+----------------------------+----------------------------+-------------------------------+
++  +  +  ---+
 
 manularity
 
@@ -879,7 +731,7 @@ M
 
  `Next <marching-ants.html>`__
 
---------------
+ 
 
 **manularity**: /man\`yoo·la´ri·tee/, n.
 
@@ -893,13 +745,13 @@ requirement to do a computing task `by hand <./B.html#by-hand.html>`__
 will inevitably seize the opportunity to build another tool (see
 `toolsmith <./T.html#toolsmith.html>`__).
 
---------------
+ 
 
-+----------------------------+----------------------------+----------------------------------+
++  +  +  ------+
 | `Prev <mangler.html>`__    | `Up <../M.html>`__         |  `Next <marching-ants.html>`__   |
-+----------------------------+----------------------------+----------------------------------+
++  +  +  ------+
 | mangler                    | `Home <../index.html>`__   |  marching ants                   |
-+----------------------------+----------------------------+----------------------------------+
++  +  +  ------+
 
 marbles
 
@@ -909,7 +761,7 @@ M
 
  `Next <marginal.html>`__
 
---------------
+ 
 
 **marbles**: pl.n.
 
@@ -920,13 +772,13 @@ come up on its own, or enough marbles to allow a rebuild from backups,
 or if you need to rebuild from scratch. “This compiler doesn't even have
 enough marbles to compile `hello world <./H.html#hello-world.html>`__.”
 
---------------
+ 
 
-+----------------------------------+----------------------------+-----------------------------+
++  ------+  +  -+
 | `Prev <marching-ants.html>`__    | `Up <../M.html>`__         |  `Next <marginal.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
++  ------+  +  -+
 | marching ants                    | `Home <../index.html>`__   |  marginal                   |
-+----------------------------------+----------------------------+-----------------------------+
++  ------+  +  -+
 
 marching ants
 
@@ -936,7 +788,7 @@ M
 
  `Next <marbles.html>`__
 
---------------
+ 
 
 **marching ants**
 
@@ -944,13 +796,13 @@ The animated dotted-line marquee that indicates a rectangle or item
 select in Adobe Photoshop, the GIMP, and other similar image-editing
 programs.
 
---------------
+ 
 
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 | `Prev <manularity.html>`__    | `Up <../M.html>`__         |  `Next <marbles.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 | manularity                    | `Home <../index.html>`__   |  marbles                   |
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 
 marginal
 
@@ -960,7 +812,7 @@ M
 
  `Next <marginally.html>`__
 
---------------
+ 
 
 **marginal**: adj.
 
@@ -978,13 +830,13 @@ me.”
 3. Of extremely small probability of `win <./W.html#win.html>`__\ ning.
 “The power supply was rather marginal anyway; no wonder it fried.”
 
---------------
+ 
 
-+----------------------------+----------------------------+-------------------------------+
++  +  +  ---+
 | `Prev <marbles.html>`__    | `Up <../M.html>`__         |  `Next <marginally.html>`__   |
-+----------------------------+----------------------------+-------------------------------+
++  +  +  ---+
 | marbles                    | `Home <../index.html>`__   |  marginally                   |
-+----------------------------+----------------------------+-------------------------------+
++  +  +  ---+
 
 marginally
 
@@ -994,20 +846,20 @@ M
 
  `Next <marketroid.html>`__
 
---------------
+ 
 
 **marginally**: adv.
 
 Slightly. “The ravs here are only marginally better than at Small Eating
 Place.” See `epsilon <./E.html#epsilon.html>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-------------------------------+
++  -+  +  ---+
 | `Prev <marginal.html>`__    | `Up <../M.html>`__         |  `Next <marketroid.html>`__   |
-+-----------------------------+----------------------------+-------------------------------+
++  -+  +  ---+
 | marginal                    | `Home <../index.html>`__   |  marketroid                   |
-+-----------------------------+----------------------------+-------------------------------+
++  -+  +  ---+
 
 marketroid
 
@@ -1017,7 +869,7 @@ M
 
  `Next <Mars.html>`__
 
---------------
+ 
 
 **marketroid**: /mar´k@·troyd/, n.
 
@@ -1029,13 +881,13 @@ and/or are in violation of the laws of physics; and/or one who describes
 existing features (and misfeatures) in ebullient, buzzword-laden
 adspeak. Derogatory. Compare `droid <./D.html#droid.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+-------------------------+
++  ---+  + -----------+
 | `Prev <marginally.html>`__    | `Up <../M.html>`__         |  `Next <Mars.html>`__   |
-+-------------------------------+----------------------------+-------------------------+
++  ---+  + -----------+
 | marginally                    | `Home <../index.html>`__   |  Mars                   |
-+-------------------------------+----------------------------+-------------------------+
++  ---+  + -----------+
 
 Mars
 
@@ -1045,7 +897,7 @@ M
 
  `Next <martian.html>`__
 
---------------
+ 
 
 **Mars**: n.
 
@@ -1084,13 +936,13 @@ This tale and the related saga of `Foonly <./F.html#Foonly.html>`__ hold a
 lesson for hackers: if you want to play in the `Real
 World <./R.html#Real-World.html>`__, you need to learn Real World moves.
 
---------------
+ 
 
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 | `Prev <marketroid.html>`__    | `Up <../M.html>`__         |  `Next <martian.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 | marketroid                    | `Home <../index.html>`__   |  martian                   |
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 
 martian
 
@@ -1100,7 +952,7 @@ M
 
  `Next <massage.html>`__
 
---------------
+ 
 
 **martian**: n.
 
@@ -1112,13 +964,13 @@ have a martian filter?” Compare `Christmas tree
 packet <./C.html#Christmas-tree-packet.html>`__,
 `Godzillagram <./G.html#Godzillagram.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+----------------------------+
++ -----------+  +  +
 | `Prev <Mars.html>`__    | `Up <../M.html>`__         |  `Next <massage.html>`__   |
-+-------------------------+----------------------------+----------------------------+
++ -----------+  +  +
 | Mars                    | `Home <../index.html>`__   |  massage                   |
-+-------------------------+----------------------------+----------------------------+
++ -----------+  +  +
 
 massage
 
@@ -1128,7 +980,7 @@ M
 
  `Next <math-out.html>`__
 
---------------
+ 
 
 **massage**: vt.
 
@@ -1138,13 +990,13 @@ information. Connotes less pain than `munch <munch.html>`__ or
 `crunch <./C.html#crunch.html>`__. “He wrote a program that massages X
 bitmap files into GIF format.” Compare `slurp <./S.html#slurp.html>`__.
 
---------------
+ 
 
-+----------------------------+----------------------------+-----------------------------+
++  +  +  -+
 | `Prev <martian.html>`__    | `Up <../M.html>`__         |  `Next <math-out.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
++  +  +  -+
 | martian                    | `Home <../index.html>`__   |  math-out                   |
-+----------------------------+----------------------------+-----------------------------+
++  +  +  -+
 
 math-out
 
@@ -1154,7 +1006,7 @@ M
 
  `Next <Matrix.html>`__
 
---------------
+ 
 
 **math-out**: n.
 
@@ -1173,13 +1025,13 @@ A `math-out <math-out.html>`__ approach to history.
 `73-05-19 <./S.html#space-cadet-keyboard.html#crunchly73-05-19>`__. The
 previous one is the `frontispiece <../lexicon.html#crunchly-1>`__.)
 
---------------
+ 
 
-+----------------------------+----------------------------+---------------------------+
++  +  + -------------+
 | `Prev <massage.html>`__    | `Up <../M.html>`__         |  `Next <Matrix.html>`__   |
-+----------------------------+----------------------------+---------------------------+
++  +  + -------------+
 | massage                    | `Home <../index.html>`__   |  Matrix                   |
-+----------------------------+----------------------------+---------------------------+
++  +  + -------------+
 
 .. |image0| image:: ../_static/73-05-18.png
 Matrix
@@ -1190,7 +1042,7 @@ M
 
  `Next <maximum-Maytag-mode.html>`__
 
---------------
+ 
 
 **Matrix**: n.
 
@@ -1208,13 +1060,13 @@ this sense, which however had been established for years before.
 3. The totality of present-day computer networks (popularized in this
 sense by John Quarterman; rare outside academic literature).
 
---------------
+ 
 
-+-----------------------------+----------------------------+----------------------------------------+
++  -+  +  ------------+
 | `Prev <math-out.html>`__    | `Up <../M.html>`__         |  `Next <maximum-Maytag-mode.html>`__   |
-+-----------------------------+----------------------------+----------------------------------------+
++  -+  +  ------------+
 | math-out                    | `Home <../index.html>`__   |  maximum Maytag mode                   |
-+-----------------------------+----------------------------+----------------------------------------+
++  -+  +  ------------+
 
 maximum Maytag mode
 
@@ -1224,7 +1076,7 @@ M
 
  `Next <McQuary-limit.html>`__
 
---------------
+ 
 
 **maximum Maytag mode**: n.
 
@@ -1236,13 +1088,13 @@ drives <./W.html#walking-drives.html>`__. In 1999 it's been some years
 since hard disks were large enough to do this, but the same phenomenon
 has recently been reported with 24X CD-ROM drives.
 
---------------
+ 
 
-+---------------------------+----------------------------+----------------------------------+
++ -------------+  +  ------+
 | `Prev <Matrix.html>`__    | `Up <../M.html>`__         |  `Next <McQuary-limit.html>`__   |
-+---------------------------+----------------------------+----------------------------------+
++ -------------+  +  ------+
 | Matrix                    | `Home <../index.html>`__   |  McQuary limit                   |
-+---------------------------+----------------------------+----------------------------------+
++ -------------+  +  ------+
 
 McQuary limit
 
@@ -1252,7 +1104,7 @@ M
 
  `Next <meatspace.html>`__
 
---------------
+ 
 
 **McQuary limit**
 
@@ -1268,13 +1120,13 @@ should be considered a rule of thumb rather than a hard limit; it's best
 to avoid sigs that are large, repetitive, and distracting. See also
 `warlording <./W.html#warlording.html>`__.
 
---------------
+ 
 
-+----------------------------------------+----------------------------+------------------------------+
++  ------------+  +  --+
 | `Prev <maximum-Maytag-mode.html>`__    | `Up <../M.html>`__         |  `Next <meatspace.html>`__   |
-+----------------------------------------+----------------------------+------------------------------+
++  ------------+  +  --+
 | maximum Maytag mode                    | `Home <../index.html>`__   |  meatspace                   |
-+----------------------------------------+----------------------------+------------------------------+
++  ------------+  +  --+
 
 meatspace
 
@@ -1284,7 +1136,7 @@ M
 
  `Next <meatware.html>`__
 
---------------
+ 
 
 **meatspace**: /meet´spays/, n.
 
@@ -1294,13 +1146,13 @@ willing to use this term than ‘cyberspace’, because it's not speculative
 — we already have a running meatspace implementation (the universe).
 Compare `RL <./R.html#RL.html>`__.
 
---------------
+ 
 
-+----------------------------------+----------------------------+-----------------------------+
++  ------+  +  -+
 | `Prev <McQuary-limit.html>`__    | `Up <../M.html>`__         |  `Next <meatware.html>`__   |
-+----------------------------------+----------------------------+-----------------------------+
++  ------+  +  -+
 | McQuary limit                    | `Home <../index.html>`__   |  meatware                   |
-+----------------------------------+----------------------------+-----------------------------+
++  ------+  +  -+
 
 meatware
 
@@ -1310,19 +1162,19 @@ M
 
  `Next <meeces.html>`__
 
---------------
+ 
 
 **meatware**: n.
 
 Synonym for `wetware <./W.html#wetware.html>`__. Less common.
 
---------------
+ 
 
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | `Prev <meatspace.html>`__    | `Up <../M.html>`__         |  `Next <meeces.html>`__   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | meatspace                    | `Home <../index.html>`__   |  meeces                   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 
 meeces
 
@@ -1332,7 +1184,7 @@ M
 
  `Next <meg.html>`__
 
---------------
+ 
 
 **meeces**: /mees'@z/, n.
 
@@ -1341,13 +1193,13 @@ M
 be in live use; it clearly derives from the refrain of the early-1960s
 cartoon character Mr. Jinks: “I hate meeces to *pieces*!” — ESR]
 
---------------
+ 
 
-+-----------------------------+----------------------------+------------------------+
++  -+  + ----------+
 | `Prev <meatware.html>`__    | `Up <../M.html>`__         |  `Next <meg.html>`__   |
-+-----------------------------+----------------------------+------------------------+
++  -+  + ----------+
 | meatware                    | `Home <../index.html>`__   |  meg                   |
-+-----------------------------+----------------------------+------------------------+
++  -+  + ----------+
 
 mega-
 
@@ -1357,19 +1209,19 @@ M
 
  `Next <megapenny.html>`__
 
---------------
+ 
 
 **mega-**: /me´g@/, pref.
 
 [SI] See `quantifiers <./Q.html#quantifiers.html>`__.
 
---------------
+ 
 
-+------------------------+----------------------------+------------------------------+
++ ----------+  +  --+
 | `Prev <meg.html>`__    | `Up <../M.html>`__         |  `Next <megapenny.html>`__   |
-+------------------------+----------------------------+------------------------------+
++ ----------+  +  --+
 | meg                    | `Home <../index.html>`__   |  megapenny                   |
-+------------------------+----------------------------+------------------------------+
++ ----------+  +  --+
 
 megapenny
 
@@ -1379,20 +1231,20 @@ M
 
  `Next <MEGO.html>`__
 
---------------
+ 
 
 **megapenny**: /meg'@·pen\`ee/, n.
 
 $10,000 (1 cent \* "106"). Used semi-humorously as a unit in comparing
 computer cost and performance figures.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | `Prev <mega-.html>`__    | `Up <../M.html>`__         |  `Next <MEGO.html>`__   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | mega-                    | `Home <../index.html>`__   |  MEGO                   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 
 meg
 
@@ -1402,19 +1254,19 @@ M
 
  `Next <mega-.html>`__
 
---------------
+ 
 
 **meg**: /meg/, n.
 
 See `quantifiers <./Q.html#quantifiers.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+--------------------------+
++ -------------+  + ------------+
 | `Prev <meeces.html>`__    | `Up <../M.html>`__         |  `Next <mega-.html>`__   |
-+---------------------------+----------------------------+--------------------------+
++ -------------+  + ------------+
 | meeces                    | `Home <../index.html>`__   |  mega-                   |
-+---------------------------+----------------------------+--------------------------+
++ -------------+  + ------------+
 
 MEGO
 
@@ -1424,7 +1276,7 @@ M
 
  `Next <meltdown--network.html>`__
 
---------------
+ 
 
 **MEGO**: /me´goh/, /mee´goh/
 
@@ -1444,13 +1296,13 @@ to glaze, but to the eye-glazing reaction itself, which may be triggered
 by the mere threat of excessive technical detail as effectively as by an
 actual excess of it.
 
---------------
+ 
 
-+------------------------------+----------------------------+--------------------------------------+
++  --+  +  ----------+
 | `Prev <megapenny.html>`__    | `Up <../M.html>`__         |  `Next <meltdown--network.html>`__   |
-+------------------------------+----------------------------+--------------------------------------+
++  --+  +  ----------+
 | megapenny                    | `Home <../index.html>`__   |  meltdown, network                   |
-+------------------------------+----------------------------+--------------------------------------+
++  --+  +  ----------+
 
 meltdown, network
 
@@ -1460,19 +1312,19 @@ M
 
  `Next <meme.html>`__
 
---------------
+ 
 
 **meltdown, network**: n.
 
 See `network meltdown <./N.html#network-meltdown.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 | `Prev <MEGO.html>`__    | `Up <../M.html>`__         |  `Next <meme.html>`__   |
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 | MEGO                    | `Home <../index.html>`__   |  meme                   |
-+-------------------------+----------------------------+-------------------------+
++ -----------+  + -----------+
 
 meme
 
@@ -1482,7 +1334,7 @@ M
 
  `Next <meme-plague.html>`__
 
---------------
+ 
 
 **meme**: /meem/, n.
 
@@ -1500,13 +1352,13 @@ adaptive ideas has superseded biological evolution by selection of
 hereditary traits. Hackers find this idea congenial for tolerably
 obvious reasons.
 
---------------
+ 
 
-+--------------------------------------+----------------------------+--------------------------------+
++  ----------+  +  ----+
 | `Prev <meltdown--network.html>`__    | `Up <../M.html>`__         |  `Next <meme-plague.html>`__   |
-+--------------------------------------+----------------------------+--------------------------------+
++  ----------+  +  ----+
 | meltdown, network                    | `Home <../index.html>`__   |  meme plague                   |
-+--------------------------------------+----------------------------+--------------------------------+
++  ----------+  +  ----+
 
 meme plague
 
@@ -1516,7 +1368,7 @@ M
 
  `Next <memetics.html>`__
 
---------------
+ 
 
 **meme plague**: n.
 
@@ -1528,13 +1380,13 @@ be examples. This usage is given point by the historical fact that
 Christianity have exhibited plague-like cycles of exponential growth
 followed by collapses to small reservoir populations.
 
---------------
+ 
 
-+-------------------------+----------------------------+-----------------------------+
++ -----------+  +  -+
 | `Prev <meme.html>`__    | `Up <../M.html>`__         |  `Next <memetics.html>`__   |
-+-------------------------+----------------------------+-----------------------------+
++ -----------+  +  -+
 | meme                    | `Home <../index.html>`__   |  memetics                   |
-+-------------------------+----------------------------+-----------------------------+
++ -----------+  +  -+
 
 memetics
 
@@ -1544,7 +1396,7 @@ M
 
  `Next <memory-farts.html>`__
 
---------------
+ 
 
 **memetics**: /me·met´iks/, n.
 
@@ -1555,13 +1407,13 @@ Keith Henson and others. Memetics is a popular topic for speculation
 among hackers, who like to see themselves as the architects of the new
 information ecologies in which memes live and replicate.
 
---------------
+ 
 
-+--------------------------------+----------------------------+---------------------------------+
++  ----+  +  -----+
 | `Prev <meme-plague.html>`__    | `Up <../M.html>`__         |  `Next <memory-farts.html>`__   |
-+--------------------------------+----------------------------+---------------------------------+
++  ----+  +  -----+
 | meme plague                    | `Home <../index.html>`__   |  memory farts                   |
-+--------------------------------+----------------------------+---------------------------------+
++  ----+  +  -----+
 
 memory farts
 
@@ -1571,20 +1423,20 @@ M
 
  `Next <memory-leak.html>`__
 
---------------
+ 
 
 **memory farts**: n.
 
 The flatulent sounds that some DOS box BIOSes (most notably AMI's) make
 when checking memory on bootup.
 
---------------
+ 
 
-+-----------------------------+----------------------------+--------------------------------+
++  -+  +  ----+
 | `Prev <memetics.html>`__    | `Up <../M.html>`__         |  `Next <memory-leak.html>`__   |
-+-----------------------------+----------------------------+--------------------------------+
++  -+  +  ----+
 | memetics                    | `Home <../index.html>`__   |  memory leak                   |
-+-----------------------------+----------------------------+--------------------------------+
++  -+  +  ----+
 
 memory leak
 
@@ -1594,7 +1446,7 @@ M
 
  `Next <memory-smash.html>`__
 
---------------
+ 
 
 **memory leak**: n.
 
@@ -1614,13 +1466,13 @@ lossage <./P.html#precedence-lossage.html>`__, `overrun
 screw <./O.html#overrun-screw.html>`__, `leaky
 heap <./L.html#leaky-heap.html>`__, `leak <./L.html#leak.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+---------------------------------+
++  -----+  +  -----+
 | `Prev <memory-farts.html>`__    | `Up <../M.html>`__         |  `Next <memory-smash.html>`__   |
-+---------------------------------+----------------------------+---------------------------------+
++  -----+  +  -----+
 | memory farts                    | `Home <../index.html>`__   |  memory smash                   |
-+---------------------------------+----------------------------+---------------------------------+
++  -----+  +  -----+
 
 memory smash
 
@@ -1630,7 +1482,7 @@ M
 
  `Next <menuitis.html>`__
 
---------------
+ 
 
 **memory smash**: n.
 
@@ -1641,13 +1493,13 @@ related terms such as a `memory leak <memory-leak.html>`__ or
 `fandango on core <./F.html#fandango-on-core.html>`__ because it doesn't
 imply an allocation error or overrun condition.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-----------------------------+
++  ----+  +  -+
 | `Prev <memory-leak.html>`__    | `Up <../M.html>`__         |  `Next <menuitis.html>`__   |
-+--------------------------------+----------------------------+-----------------------------+
++  ----+  +  -+
 | memory leak                    | `Home <../index.html>`__   |  menuitis                   |
-+--------------------------------+----------------------------+-----------------------------+
++  ----+  +  -+
 
 menuitis
 
@@ -1657,7 +1509,7 @@ M
 
  `Next <mess-dos.html>`__
 
---------------
+ 
 
 **menuitis**: /men\`yoo·i:´tis/, n.
 
@@ -1671,13 +1523,13 @@ paper <./D.html#drool-proof-paper.html>`__, `WIMP
 environment <./W.html#WIMP-environment.html>`__, `for the rest of
 us <./F.html#for-the-rest-of-us.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 | `Prev <memory-smash.html>`__    | `Up <../M.html>`__         |  `Next <mess-dos.html>`__   |
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 | memory smash                    | `Home <../index.html>`__   |  mess-dos                   |
-+---------------------------------+----------------------------+-----------------------------+
++  -----+  +  -+
 
 mess-dos
 
@@ -1687,7 +1539,7 @@ M
 
  `Next <meta.html>`__
 
---------------
+ 
 
 **mess-dos**: /mes·dos/, n.
 
@@ -1702,13 +1554,13 @@ mess-dog, mess-dross, mush-dos, and various combinations thereof. In
 Ireland and the U.K. it is even sometimes called ‘Domestos’ after a
 brand of toilet cleanser.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | `Prev <menuitis.html>`__    | `Up <../M.html>`__         |  `Next <meta.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | menuitis                    | `Home <../index.html>`__   |  meta                   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 
 meta bit
 
@@ -1718,7 +1570,7 @@ M
 
  `Next <metasyntactic-variable.html>`__
 
---------------
+ 
 
 **meta bit**: n.
 
@@ -1737,13 +1589,13 @@ and Stanford keyboards (see `space-cadet
 keyboard <./S.html#space-cadet-keyboard.html>`__) generated hex 100 (octal
 400) from their meta keys.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------------------------+
++ -----------+  +   -+
 | `Prev <meta.html>`__    | `Up <../M.html>`__         |  `Next <metasyntactic-variable.html>`__   |
-+-------------------------+----------------------------+-------------------------------------------+
++ -----------+  +   -+
 | meta                    | `Home <../index.html>`__   |  metasyntactic variable                   |
-+-------------------------+----------------------------+-------------------------------------------+
++ -----------+  +   -+
 
 meta
 
@@ -1753,7 +1605,7 @@ M
 
  `Next <meta-bit.html>`__
 
---------------
+ 
 
 **meta**: /me´t@/, /may´t@/, /mee´t@/, pref.
 
@@ -1763,13 +1615,13 @@ meta-language is language used to describe language. This is difficult
 to explain briefly, but much hacker humor turns on deliberate confusion
 between meta-levels. See `hacker humor <./H.html#hacker-humor.html>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | `Prev <mess-dos.html>`__    | `Up <../M.html>`__         |  `Next <meta-bit.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | mess-dos                    | `Home <../index.html>`__   |  meta bit                   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 
 metasyntactic variable
 
@@ -1779,7 +1631,7 @@ M
 
  `Next <MFTL.html>`__
 
---------------
+ 
 
 **metasyntactic variable**: n.
 
@@ -1802,43 +1654,43 @@ metasyntactic variables is a cultural signature. They occur both in
 series (used for related groups of variables or objects) and as
 singletons. Here are a few common signatures:
 
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | `foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__, `baz <./B.html#baz.html>`__, `quux <./Q.html#quux.html>`__, quuux, quuuux...:   | MIT/Stanford usage, now found everywhere (thanks largely to early versions of this lexicon!). At MIT (but not at Stanford), `baz <./B.html#baz.html>`__ dropped out of use for a while in the 1970s and '80s. A common recent mutation of this sequence inserts `qux <./Q.html#qux.html>`__\ before `quux <./Q.html#quux.html>`__.   |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | bazola, ztesch:                                                                                                                   | Stanford (from mid-'70s on).                                                                                                                                                                                                                                                                                                   |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | `foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__, thud, grunt:                                                                | This series was popular at CMU. Other CMU-associated variables include `gorp <./G.html#gorp.html>`__.                                                                                                                                                                                                                            |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | `foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__, bletch:                                                                     | Waterloo University. We are informed that the CS club at Waterloo formerly had a sign on its door reading “Ye Olde Foo Bar and Grill”; this led to an attempt to establish “grill” as the third metasyntactic variable, but it never caught on.                                                                                |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | `foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__, fum:                                                                        | This series is reported to be common at XEROX PARC.                                                                                                                                                                                                                                                                            |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | `fred <./F.html#fred.html>`__, jim, sheila, `barney <./B.html#barney.html>`__:                                                        | See the entry for `fred <./F.html#fred.html>`__. These tend to be Britishisms.                                                                                                                                                                                                                                                   |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | `flarp <./F.html#flarp.html>`__:                                                                                                    | Popular at Rutgers University and among `GOSMACS <./G.html#GOSMACS.html>`__ hackers.                                                                                                                                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | zxc, spqr, wombat:                                                                                                                | Cambridge University (England).                                                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | shme                                                                                                                              | Berkeley, GeoWorks, Ingres. Pronounced /shme/ with a short /e/.                                                                                                                                                                                                                                                                |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | foo, bar, baz, bongo                                                                                                              | Yale, late 1970s.                                                                                                                                                                                                                                                                                                              |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | spam, eggs                                                                                                                        | `Python <./P.html#Python.html>`__ programmers.                                                                                                                                                                                                                                                                                   |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | snork                                                                                                                             | Brown University, early 1970s.                                                                                                                                                                                                                                                                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | `foo <./F.html#foo.html>`__, `bar <./B.html#bar.html>`__, zot                                                                         | Helsinki University of Technology, Finland.                                                                                                                                                                                                                                                                                    |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | blarg, `wibble <./W.html#wibble.html>`__                                                                                            | New Zealand.                                                                                                                                                                                                                                                                                                                   |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | toto, titi, tata, tutu                                                                                                            | France.                                                                                                                                                                                                                                                                                                                        |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | pippo, pluto, paperino                                                                                                            | Italy. Pippo /pee´po/ and Paperino /pa·per·ee'·no/ are the Italian names for Goofy and Donald Duck.                                                                                                                                                                                                                            |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | aap, noot, mies                                                                                                                   | The Netherlands. These are the first words a child used to learn to spell on a Dutch spelling board.                                                                                                                                                                                                                           |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 | oogle, foogle, boogle; zork, gork, bork                                                                                           | These two series (which may be continued with other initial consonents) are reportedly common in England, and said to go back to Lewis Carroll.                                                                                                                                                                                |
-+-----------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++         -----+                      ------------+
 
 Of all these, only foo and bar are universal (and
 `baz <./B.html#baz.html>`__ nearly so). The compounds
@@ -1849,13 +1701,13 @@ See also `Commonwealth Hackish <./C.html#Commonwealth-Hackish.html>`__ for
 discussion of numerous metasyntactic variables found in Great Britain
 and the Commonwealth.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | `Prev <meta-bit.html>`__    | `Up <../M.html>`__         |  `Next <MFTL.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | meta bit                    | `Home <../index.html>`__   |  MFTL                   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 
 MFTL
 
@@ -1865,7 +1717,7 @@ M
 
  `Next <mickey.html>`__
 
---------------
+ 
 
 **MFTL**: /M·F·T·L/
 
@@ -1906,13 +1758,13 @@ the test could ever be failed is only surprising to those who have had
 the good fortune to have worked only under modern systems which lack
 OS-supported and -imposed “file types”.)
 
---------------
+ 
 
-+-------------------------------------------+----------------------------+---------------------------+
++   -+  + -------------+
 | `Prev <metasyntactic-variable.html>`__    | `Up <../M.html>`__         |  `Next <mickey.html>`__   |
-+-------------------------------------------+----------------------------+---------------------------+
++   -+  + -------------+
 | metasyntactic variable                    | `Home <../index.html>`__   |  mickey                   |
-+-------------------------------------------+----------------------------+---------------------------+
++   -+  + -------------+
 
 M
 
@@ -1922,19 +1774,19 @@ M
 
  `Next <MS.html>`__
 
---------------
+ 
 
 **M**: pref.
 
 [SI] See `quantifiers <./Q.html#quantifiers.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+-----------------------+
++ -----------+  + ---------+
 | `Prev <../M.html>`__    | `Up <../M.html>`__         |  `Next <MS.html>`__   |
-+-------------------------+----------------------------+-----------------------+
++ -----------+  + ---------+
 | M                       | `Home <../index.html>`__   |  M$                   |
-+-------------------------+----------------------------+-----------------------+
++ -----------+  + ---------+
 
 mickey
 
@@ -1944,20 +1796,20 @@ M
 
  `Next <mickey-mouse-program.html>`__
 
---------------
+ 
 
 **mickey**: n.
 
 The resolution unit of mouse movement. It has been suggested that the
 disney will become a benchmark unit for animation graphics performance.
 
---------------
+ 
 
-+-------------------------+----------------------------+-----------------------------------------+
++ -----------+  +  -------------+
 | `Prev <MFTL.html>`__    | `Up <../M.html>`__         |  `Next <mickey-mouse-program.html>`__   |
-+-------------------------+----------------------------+-----------------------------------------+
++ -----------+  +  -------------+
 | MFTL                    | `Home <../index.html>`__   |  mickey mouse program                   |
-+-------------------------+----------------------------+-----------------------------------------+
++ -----------+  +  -------------+
 
 mickey mouse program
 
@@ -1967,7 +1819,7 @@ M
 
  `Next <micro-.html>`__
 
---------------
+ 
 
 **mickey mouse program**: n.
 
@@ -1976,13 +1828,13 @@ trivial) program. Doesn't necessarily have the belittling connotations
 of mainstream slang “Oh, that's just mickey mouse stuff!”; sometimes
 trivial programs can be very useful.
 
---------------
+ 
 
-+---------------------------+----------------------------+---------------------------+
++ -------------+  + -------------+
 | `Prev <mickey.html>`__    | `Up <../M.html>`__         |  `Next <micro-.html>`__   |
-+---------------------------+----------------------------+---------------------------+
++ -------------+  + -------------+
 | mickey                    | `Home <../index.html>`__   |  micro-                   |
-+---------------------------+----------------------------+---------------------------+
++ -------------+  + -------------+
 
 MicroDroid
 
@@ -1992,7 +1844,7 @@ M
 
  `Next <microfortnight.html>`__
 
---------------
+ 
 
 **MicroDroid**: n.
 
@@ -2003,13 +1855,13 @@ sounding like visiting fundamentalist missionaries. See also
 `astroturfing <./A.html#astroturfing.html>`__; compare
 `microserf <microserf.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+-----------------------------------+
++ -------------+  +  -------+
 | `Prev <micro-.html>`__    | `Up <../M.html>`__         |  `Next <microfortnight.html>`__   |
-+---------------------------+----------------------------+-----------------------------------+
++ -------------+  +  -------+
 | micro-                    | `Home <../index.html>`__   |  microfortnight                   |
-+---------------------------+----------------------------+-----------------------------------+
++ -------------+  +  -------+
 
 microfortnight
 
@@ -2019,7 +1871,7 @@ M
 
  `Next <microLenat.html>`__
 
---------------
+ 
 
 **microfortnight**: n.
 
@@ -2035,13 +1887,13 @@ the current value is bogus. This time is specified in microfortnights!
 Multiple uses of the millifortnight (about 20 minutes) and
 `nanofortnight <./N.html#nanofortnight.html>`__ have also been reported.
 
---------------
+ 
 
-+-------------------------------+----------------------------+-------------------------------+
++  ---+  +  ---+
 | `Prev <MicroDroid.html>`__    | `Up <../M.html>`__         |  `Next <microLenat.html>`__   |
-+-------------------------------+----------------------------+-------------------------------+
++  ---+  +  ---+
 | MicroDroid                    | `Home <../index.html>`__   |  microLenat                   |
-+-------------------------------+----------------------------+-------------------------------+
++  ---+  +  ---+
 
 micro-
 
@@ -2051,7 +1903,7 @@ M
 
  `Next <MicroDroid.html>`__
 
---------------
+ 
 
 **micro-**: pref.
 
@@ -2078,13 +1930,13 @@ solves a microproblem; the macroproblem of getting to work might be
 better solved by using mass transit, moving to within walking distance,
 or (best of all) telecommuting.
 
---------------
+ 
 
-+-----------------------------------------+----------------------------+-------------------------------+
++  -------------+  +  ---+
 | `Prev <mickey-mouse-program.html>`__    | `Up <../M.html>`__         |  `Next <MicroDroid.html>`__   |
-+-----------------------------------------+----------------------------+-------------------------------+
++  -------------+  +  ---+
 | mickey mouse program                    | `Home <../index.html>`__   |  MicroDroid                   |
-+-----------------------------------------+----------------------------+-------------------------------+
++  -------------+  +  ---+
 
 microLenat
 
@@ -2094,7 +1946,7 @@ M
 
  `Next <microReid.html>`__
 
---------------
+ 
 
 **microLenat**: /mi:\`·kroh·len'·@t/, n.
 
@@ -2111,13 +1963,13 @@ is bogus, since it is only one millionth of a Lenat. Others have
 suggested that the unit should be redesignated after the grad student,
 as the microReid.
 
---------------
+ 
 
-+-----------------------------------+----------------------------+------------------------------+
++  -------+  +  --+
 | `Prev <microfortnight.html>`__    | `Up <../M.html>`__         |  `Next <microReid.html>`__   |
-+-----------------------------------+----------------------------+------------------------------+
++  -------+  +  --+
 | microfortnight                    | `Home <../index.html>`__   |  microReid                   |
-+-----------------------------------+----------------------------+------------------------------+
++  -------+  +  --+
 
 microReid
 
@@ -2127,19 +1979,19 @@ M
 
  `Next <microserf.html>`__
 
---------------
+ 
 
 **microReid**: /mi:´kroh·reed/, n.
 
 See `microLenat <microLenat.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 | `Prev <microLenat.html>`__    | `Up <../M.html>`__         |  `Next <microserf.html>`__   |
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 | microLenat                    | `Home <../index.html>`__   |  microserf                   |
-+-------------------------------+----------------------------+------------------------------+
++  ---+  +  --+
 
 microserf
 
@@ -2149,7 +2001,7 @@ M
 
  `Next <Microsloth-Windows.html>`__
 
---------------
+ 
 
 **microserf**: /mi:´kro·s@rf/
 
@@ -2158,13 +2010,13 @@ M
 especially a low-level coder with little chance of fame or fortune.
 Compare `MicroDroid <MicroDroid.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+---------------------------------------+
++  --+  +  -----------+
 | `Prev <microReid.html>`__    | `Up <../M.html>`__         |  `Next <Microsloth-Windows.html>`__   |
-+------------------------------+----------------------------+---------------------------------------+
++  --+  +  -----------+
 | microReid                    | `Home <../index.html>`__   |  Microsloth Windows                   |
-+------------------------------+----------------------------+---------------------------------------+
++  --+  +  -----------+
 
 Microsloth Windows
 
@@ -2174,7 +2026,7 @@ M
 
  `Next <Microsoft.html>`__
 
---------------
+ 
 
 **Microsloth Windows**: /mi:´kroh·sloth\` win´dohz/, n.
 
@@ -2190,13 +2042,13 @@ Death <./B.html#Black-Screen-of-Death.html>`__ and `Blue Screen of
 Death <./B.html#Blue-Screen-of-Death.html>`__; compare
 `X <./X.html#X.html>`__, `sun-stools <./S.html#sun-stools.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+------------------------------+
++  --+  +  --+
 | `Prev <microserf.html>`__    | `Up <../M.html>`__         |  `Next <Microsoft.html>`__   |
-+------------------------------+----------------------------+------------------------------+
++  --+  +  --+
 | microserf                    | `Home <../index.html>`__   |  Microsoft                   |
-+------------------------------+----------------------------+------------------------------+
++  --+  +  --+
 
 Microsoft
 
@@ -2206,7 +2058,7 @@ M
 
  `Next <micros-tilde-1.html>`__
 
---------------
+ 
 
 **Microsoft**
 
@@ -2217,13 +2069,13 @@ get `source <./S.html#source.html>`__ to fix them, and (c) they throw
 their weight around a lot. See also `Halloween
 Documents <./H.html#Halloween-Documents.html>`__.
 
---------------
+ 
 
-+---------------------------------------+----------------------------+-----------------------------------+
++  -----------+  +  -------+
 | `Prev <Microsloth-Windows.html>`__    | `Up <../M.html>`__         |  `Next <micros-tilde-1.html>`__   |
-+---------------------------------------+----------------------------+-----------------------------------+
++  -----------+  +  -------+
 | Microsloth Windows                    | `Home <../index.html>`__   |  micros~1                         |
-+---------------------------------------+----------------------------+-----------------------------------+
++  -----------+  +  -------+
 
 micros~1
 
@@ -2233,7 +2085,7 @@ M
 
  `Next <middle-endian.html>`__
 
---------------
+ 
 
 **micros~1**
 
@@ -2247,13 +2099,13 @@ problems. During the US Antitrust trial against Microsoft the names
 Micros~1 and Micros~2 were suggested for the two companies that would
 exist after a break-up.
 
---------------
+ 
 
-+------------------------------+----------------------------+----------------------------------+
++  --+  +  ------+
 | `Prev <Microsoft.html>`__    | `Up <../M.html>`__         |  `Next <middle-endian.html>`__   |
-+------------------------------+----------------------------+----------------------------------+
++  --+  +  ------+
 | Microsoft                    | `Home <../index.html>`__   |  middle-endian                   |
-+------------------------------+----------------------------+----------------------------------+
++  --+  +  ------+
 
 middle-endian
 
@@ -2263,7 +2115,7 @@ M
 
  `Next <middle-out-implementation.html>`__
 
---------------
+ 
 
 **middle-endian**: adj.
 
@@ -2276,13 +2128,13 @@ hackers use this term to describe the American mm/dd/yy style of writing
 dates (Europeans write little-endian dd/mm/yy, and Japanese use
 big-endian yy/mm/dd for Western dates).
 
---------------
+ 
 
-+-----------------------------------+----------------------------+----------------------------------------------+
++  -------+  +   ----+
 | `Prev <micros-tilde-1.html>`__    | `Up <../M.html>`__         |  `Next <middle-out-implementation.html>`__   |
-+-----------------------------------+----------------------------+----------------------------------------------+
++  -------+  +   ----+
 | micros~1                          | `Home <../index.html>`__   |  middle-out implementation                   |
-+-----------------------------------+----------------------------+----------------------------------------------+
++  -------+  +   ----+
 
 middle-out implementation
 
@@ -2292,19 +2144,19 @@ M
 
  `Next <milliLampson.html>`__
 
---------------
+ 
 
 **middle-out implementation**
 
 See `bottom-up implementation <./B.html#bottom-up-implementation.html>`__.
 
---------------
+ 
 
-+----------------------------------+----------------------------+---------------------------------+
++  ------+  +  -----+
 | `Prev <middle-endian.html>`__    | `Up <../M.html>`__         |  `Next <milliLampson.html>`__   |
-+----------------------------------+----------------------------+---------------------------------+
++  ------+  +  -----+
 | middle-endian                    | `Home <../index.html>`__   |  milliLampson                   |
-+----------------------------------+----------------------------+---------------------------------+
++  ------+  +  -----+
 
 milliLampson
 
@@ -2314,7 +2166,7 @@ M
 
  `Next <minor-detail.html>`__
 
---------------
+ 
 
 **milliLampson**: /mil'@·lamp\`sn/, n.
 
@@ -2329,13 +2181,13 @@ some awe, to think at about 1200 mL but only talk at about 300; he is
 frequently reduced to fragments of sentences as his mouth tries to keep
 up with his speeding brain.
 
---------------
+ 
 
-+----------------------------------------------+----------------------------+---------------------------------+
++   ----+  +  -----+
 | `Prev <middle-out-implementation.html>`__    | `Up <../M.html>`__         |  `Next <minor-detail.html>`__   |
-+----------------------------------------------+----------------------------+---------------------------------+
++   ----+  +  -----+
 | middle-out implementation                    | `Home <../index.html>`__   |  minor detail                   |
-+----------------------------------------------+----------------------------+---------------------------------+
++   ----+  +  -----+
 
 minor detail
 
@@ -2345,7 +2197,7 @@ M
 
  `Next <MIPS.html>`__
 
---------------
+ 
 
 **minor detail**
 
@@ -2354,13 +2206,13 @@ apparently major, are in principle solvable. “It works — the fact that
 it crashes the system right after is a minor detail.” Compare
 `SMOP <./S.html#SMOP.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+-------------------------+
++  -----+  + -----------+
 | `Prev <milliLampson.html>`__    | `Up <../M.html>`__         |  `Next <MIPS.html>`__   |
-+---------------------------------+----------------------------+-------------------------+
++  -----+  + -----------+
 | milliLampson                    | `Home <../index.html>`__   |  MIPS                   |
-+---------------------------------+----------------------------+-------------------------+
++  -----+  + -----------+
 
 MIPS
 
@@ -2370,7 +2222,7 @@ M
 
  `Next <misbug.html>`__
 
---------------
+ 
 
 **MIPS**: /mips/, n.
 
@@ -2398,13 +2250,13 @@ by SGI.
 4. Acronym for ‘Meaningless Information per Second’ (a joke, prob.: from
 sense 1).
 
---------------
+ 
 
-+---------------------------------+----------------------------+---------------------------+
++  -----+  + -------------+
 | `Prev <minor-detail.html>`__    | `Up <../M.html>`__         |  `Next <misbug.html>`__   |
-+---------------------------------+----------------------------+---------------------------+
++  -----+  + -------------+
 | minor detail                    | `Home <../index.html>`__   |  misbug                   |
-+---------------------------------+----------------------------+---------------------------+
++  -----+  + -------------+
 
 misbug
 
@@ -2414,7 +2266,7 @@ M
 
  `Next <misfeature.html>`__
 
---------------
+ 
 
 **misbug**: /mis·buhg/, n.
 
@@ -2425,13 +2277,13 @@ turns out to be useful; something that should have been a
 lightning <./G.html#green-lightning.html>`__. See
 `miswart <miswart.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 | `Prev <MIPS.html>`__    | `Up <../M.html>`__         |  `Next <misfeature.html>`__   |
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 | MIPS                    | `Home <../index.html>`__   |  misfeature                   |
-+-------------------------+----------------------------+-------------------------------+
++ -----------+  +  ---+
 
 misfeature
 
@@ -2441,7 +2293,7 @@ M
 
  `Next <missile-address.html>`__
 
---------------
+ 
 
 **misfeature**: /mis·fee´chr/, /mis´fee\`chr/, n.
 
@@ -2464,13 +2316,13 @@ the implementors). “Well, yeah, it is kind of a misfeature that file
 names are limited to six characters, but the original implementors
 wanted to save directory space and we're stuck with it for now.”
 
---------------
+ 
 
-+---------------------------+----------------------------+------------------------------------+
++ -------------+  +  --------+
 | `Prev <misbug.html>`__    | `Up <../M.html>`__         |  `Next <missile-address.html>`__   |
-+---------------------------+----------------------------+------------------------------------+
++ -------------+  +  --------+
 | misbug                    | `Home <../index.html>`__   |  missile address                   |
-+---------------------------+----------------------------+------------------------------------+
++ -------------+  +  --------+
 
 missile address
 
@@ -2480,19 +2332,19 @@ M
 
  `Next <MiSTing.html>`__
 
---------------
+ 
 
 **missile address**: n.
 
 See `ICBM address <./I.html#ICBM-address.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 | `Prev <misfeature.html>`__    | `Up <../M.html>`__         |  `Next <MiSTing.html>`__   |
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 | misfeature                    | `Home <../index.html>`__   |  MiSTing                   |
-+-------------------------------+----------------------------+----------------------------+
++  ---+  +  +
 
 MiSTing
 
@@ -2502,7 +2354,7 @@ M
 
  `Next <miswart.html>`__
 
---------------
+ 
 
 **MiSTing**
 
@@ -2512,13 +2364,13 @@ satire is spoken through characters purporting to be the MST3K robots or
 other suitably bizarre characters, such as the Roman emperors Augustus
 and Caligula.
 
---------------
+ 
 
-+------------------------------------+----------------------------+----------------------------+
++  --------+  +  +
 | `Prev <missile-address.html>`__    | `Up <../M.html>`__         |  `Next <miswart.html>`__   |
-+------------------------------------+----------------------------+----------------------------+
++  --------+  +  +
 | missile address                    | `Home <../index.html>`__   |  miswart                   |
-+------------------------------------+----------------------------+----------------------------+
++  --------+  +  +
 
 miswart
 
@@ -2528,7 +2380,7 @@ M
 
  `Next <MMF.html>`__
 
---------------
+ 
 
 **miswart**: /mis·wort/, n.
 
@@ -2544,13 +2396,13 @@ the cursor are exchanged. While this behavior is perhaps surprising, and
 certainly inconsistent, it has been found through extensive
 experimentation to be what most users want. This feature is a miswart.
 
---------------
+ 
 
-+----------------------------+----------------------------+------------------------+
++  +  + ----------+
 | `Prev <MiSTing.html>`__    | `Up <../M.html>`__         |  `Next <MMF.html>`__   |
-+----------------------------+----------------------------+------------------------+
++  +  + ----------+
 | MiSTing                    | `Home <../index.html>`__   |  MMF                   |
-+----------------------------+----------------------------+------------------------+
++  +  + ----------+
 
 MMF
 
@@ -2560,7 +2412,7 @@ M
 
  `Next <mobo.html>`__
 
---------------
+ 
 
 **MMF**: //
 
@@ -2572,13 +2424,13 @@ scam. The term is also used to refer to any kind of spam which promotes
 this. For more information, see the `Make Money Fast Myth
 Page <http://www.stopspam.org/usenet/mmf/>`__.
 
---------------
+ 
 
-+----------------------------+----------------------------+-------------------------+
++  +  + -----------+
 | `Prev <miswart.html>`__    | `Up <../M.html>`__         |  `Next <mobo.html>`__   |
-+----------------------------+----------------------------+-------------------------+
++  +  + -----------+
 | miswart                    | `Home <../index.html>`__   |  mobo                   |
-+----------------------------+----------------------------+-------------------------+
++  +  + -----------+
 
 mobo
 
@@ -2588,19 +2440,19 @@ M
 
  `Next <moby.html>`__
 
---------------
+ 
 
 **mobo**: /moh´bo/
 
 Written and (rarely) spoken contraction of “motherboard”
 
---------------
+ 
 
-+------------------------+----------------------------+-------------------------+
++ ----------+  + -----------+
 | `Prev <MMF.html>`__    | `Up <../M.html>`__         |  `Next <moby.html>`__   |
-+------------------------+----------------------------+-------------------------+
++ ----------+  + -----------+
 | MMF                    | `Home <../index.html>`__   |  moby                   |
-+------------------------+----------------------------+-------------------------+
++ ----------+  + -----------+
 
 moby
 
@@ -2610,7 +2462,7 @@ M
 
  `Next <mockingbird.html>`__
 
---------------
+ 
 
 **moby**: /moh´bee/
 
@@ -2669,13 +2521,13 @@ segmented-memory designs. On these, a moby would be the 1-megabyte
 address span of a segment/offset pair (by coincidence, a PDP-10 moby was
 exactly 1 megabyte of 9-bit bytes).
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------------+
++ -----------+  +  ----+
 | `Prev <mobo.html>`__    | `Up <../M.html>`__         |  `Next <mockingbird.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
++ -----------+  +  ----+
 | mobo                    | `Home <../index.html>`__   |  mockingbird                   |
-+-------------------------+----------------------------+--------------------------------+
++ -----------+  +  ----+
 
 mockingbird
 
@@ -2685,7 +2537,7 @@ M
 
  `Next <mod.html>`__
 
---------------
+ 
 
 **mockingbird**: n.
 
@@ -2694,13 +2546,13 @@ between users and hosts and provides system-like responses to the users
 while saving their responses (especially account IDs and passwords). A
 special case of `Trojan horse <./T.html#Trojan-horse.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+------------------------+
++ -----------+  + ----------+
 | `Prev <moby.html>`__    | `Up <../M.html>`__         |  `Next <mod.html>`__   |
-+-------------------------+----------------------------+------------------------+
++ -----------+  + ----------+
 | moby                    | `Home <../index.html>`__   |  mod                   |
-+-------------------------+----------------------------+------------------------+
++ -----------+  + ----------+
 
 mode bit
 
@@ -2710,7 +2562,7 @@ M
 
  `Next <modulo.html>`__
 
---------------
+ 
 
 **mode bit**: n.
 
@@ -2722,13 +2574,13 @@ explicitly read, and seldom change over the lifetime of an ordinary
 program. The classic example was the EBCDIC-vs.-ASCII bit (#12) of the
 Program Status Word of the IBM 360.
 
---------------
+ 
 
-+-------------------------+----------------------------+---------------------------+
++ -----------+  + -------------+
 | `Prev <mode.html>`__    | `Up <../M.html>`__         |  `Next <modulo.html>`__   |
-+-------------------------+----------------------------+---------------------------+
++ -----------+  + -------------+
 | mode                    | `Home <../index.html>`__   |  modulo                   |
-+-------------------------+----------------------------+---------------------------+
++ -----------+  + -------------+
 
 mode
 
@@ -2738,7 +2590,7 @@ M
 
  `Next <mode-bit.html>`__
 
---------------
+ 
 
 **mode**: n.
 
@@ -2772,13 +2624,13 @@ interfaces are generally considered `losing <./L.html#losing.html>`__ but
 survive in quite a few widely used tools built in less enlightened
 times.
 
---------------
+ 
 
-+------------------------+----------------------------+-----------------------------+
++ ----------+  +  -+
 | `Prev <mod.html>`__    | `Up <../M.html>`__         |  `Next <mode-bit.html>`__   |
-+------------------------+----------------------------+-----------------------------+
++ ----------+  +  -+
 | mod                    | `Home <../index.html>`__   |  mode bit                   |
-+------------------------+----------------------------+-----------------------------+
++ ----------+  +  -+
 
 mod
 
@@ -2788,7 +2640,7 @@ M
 
  `Next <mode.html>`__
 
---------------
+ 
 
 **mod**: vt.,n.
 
@@ -2804,13 +2656,13 @@ also `case mod <./C.html#case-mod.html>`__.
 2. Short for `modulo <modulo.html>`__ but used *only* for its
 techspeak sense.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 | `Prev <mockingbird.html>`__    | `Up <../M.html>`__         |  `Next <mode.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 | mockingbird                    | `Home <../index.html>`__   |  mode                   |
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 
 modulo
 
@@ -2820,7 +2672,7 @@ M
 
  `Next <mojibake.html>`__
 
---------------
+ 
 
 **modulo**: /mod´yu·loh/, prep.
 
@@ -2830,13 +2682,13 @@ consider saying that 4 equals 22 except for the 9s ("4 =    22" mod
 `GC <./G.html#GC.html>`__ bug.” “I feel fine today modulo a slight
 headache.”
 
---------------
+ 
 
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | `Prev <mode-bit.html>`__    | `Up <../M.html>`__         |  `Next <mojibake.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | mode bit                    | `Home <../index.html>`__   |  mojibake                   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 
 mojibake
 
@@ -2846,7 +2698,7 @@ M
 
  `Next <molly-guard.html>`__
 
---------------
+ 
 
 **mojibake**: n., /mo´jee·ba·ke/
 
@@ -2855,13 +2707,13 @@ tries to display international character sets through software not
 configured for them. There is a page on the topic at
 `http://www.debian.or.jp/~kubota/mojibake/ <http://www.debian.or.jp/~kubota/mojibake/>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+--------------------------------+
++ -------------+  +  ----+
 | `Prev <modulo.html>`__    | `Up <../M.html>`__         |  `Next <molly-guard.html>`__   |
-+---------------------------+----------------------------+--------------------------------+
++ -------------+  +  ----+
 | modulo                    | `Home <../index.html>`__   |  molly-guard                   |
-+---------------------------+----------------------------+--------------------------------+
++ -------------+  +  ----+
 
 molly-guard
 
@@ -2871,7 +2723,7 @@ M
 
  `Next <Mongolian-Hordes-technique.html>`__
 
---------------
+ 
 
 **molly-guard**: /mol´ee·gard/, n.
 
@@ -2883,13 +2735,13 @@ twice in one day. Later generalized to covers over stop/reset switches
 on disk drives and networking equipment. In hardware catalogues, you'll
 see the much less interesting description “guarded button”.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-----------------------------------------------+
++  -+  +   -----+
 | `Prev <mojibake.html>`__    | `Up <../M.html>`__         |  `Next <Mongolian-Hordes-technique.html>`__   |
-+-----------------------------+----------------------------+-----------------------------------------------+
++  -+  +   -----+
 | mojibake                    | `Home <../index.html>`__   |  Mongolian Hordes technique                   |
-+-----------------------------+----------------------------+-----------------------------------------------+
++  -+  +   -----+
 
 Mongolian Hordes technique
 
@@ -2899,7 +2751,7 @@ M
 
  `Next <monkey-up.html>`__
 
---------------
+ 
 
 **Mongolian Hordes technique**: n.
 
@@ -2910,13 +2762,13 @@ a job better performed by a few skilled ones (but see
 `bazaar <./B.html#bazaar.html>`__). Also called Chinese Army technique;
 see also `Brooks's Law <./B.html#Brookss-Law.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+------------------------------+
++  ----+  +  --+
 | `Prev <molly-guard.html>`__    | `Up <../M.html>`__         |  `Next <monkey-up.html>`__   |
-+--------------------------------+----------------------------+------------------------------+
++  ----+  +  --+
 | molly-guard                    | `Home <../index.html>`__   |  monkey up                   |
-+--------------------------------+----------------------------+------------------------------+
++  ----+  +  --+
 
 monkey, scratch
 
@@ -2926,19 +2778,19 @@ M
 
  `Next <monstrosity.html>`__
 
---------------
+ 
 
 **monkey, scratch**: n.
 
 See `scratch monkey <./S.html#scratch-monkey.html>`__.
 
---------------
+ 
 
-+------------------------------+----------------------------+--------------------------------+
++  --+  +  ----+
 | `Prev <monkey-up.html>`__    | `Up <../M.html>`__         |  `Next <monstrosity.html>`__   |
-+------------------------------+----------------------------+--------------------------------+
++  --+  +  ----+
 | monkey up                    | `Home <../index.html>`__   |  monstrosity                   |
-+------------------------------+----------------------------+--------------------------------+
++  --+  +  ----+
 
 monkey up
 
@@ -2948,7 +2800,7 @@ M
 
  `Next <monkey--scratch.html>`__
 
---------------
+ 
 
 **monkey up**: vt.
 
@@ -2958,13 +2810,13 @@ consciously temporary solution. Compare `hack
 up <./H.html#hack-up.html>`__, `kluge up <./K.html#kluge-up.html>`__, `cruft
 together <./C.html#cruft-together.html>`__.
 
---------------
+ 
 
-+-----------------------------------------------+----------------------------+------------------------------------+
++   -----+  +  --------+
 | `Prev <Mongolian-Hordes-technique.html>`__    | `Up <../M.html>`__         |  `Next <monkey--scratch.html>`__   |
-+-----------------------------------------------+----------------------------+------------------------------------+
++   -----+  +  --------+
 | Mongolian Hordes technique                    | `Home <../index.html>`__   |  monkey, scratch                   |
-+-----------------------------------------------+----------------------------+------------------------------------+
++   -----+  +  --------+
 
 monstrosity
 
@@ -2974,7 +2826,7 @@ M
 
  `Next <monty.html>`__
 
---------------
+ 
 
 **monstrosity**
 
@@ -2985,13 +2837,13 @@ or system, esp. one that is buggy or only marginally functional.
 “Overgeneralization” <../overgeneralization.html>`__ in the discussion
 of jargonification). See also `baroque <./B.html#baroque.html>`__.
 
---------------
+ 
 
-+------------------------------------+----------------------------+--------------------------+
++  --------+  + ------------+
 | `Prev <monkey--scratch.html>`__    | `Up <../M.html>`__         |  `Next <monty.html>`__   |
-+------------------------------------+----------------------------+--------------------------+
++  --------+  + ------------+
 | monkey, scratch                    | `Home <../index.html>`__   |  monty                   |
-+------------------------------------+----------------------------+--------------------------+
++  --------+  + ------------+
 
 monty
 
@@ -3001,7 +2853,7 @@ M
 
  `Next <Moof.html>`__
 
---------------
+ 
 
 **monty**: /mon´tee/, n.
 
@@ -3023,13 +2875,13 @@ Full Monty” <http://www.worldwidewords.org/articles/monty.htm>`__ for
 discussion of the rather complex etymology that may lie behind this
 phrase. Compare American `moby <moby.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 | `Prev <monstrosity.html>`__    | `Up <../M.html>`__         |  `Next <Moof.html>`__   |
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 | monstrosity                    | `Home <../index.html>`__   |  Moof                   |
-+--------------------------------+----------------------------+-------------------------+
++  ----+  + -----------+
 
 Moof
 
@@ -3039,7 +2891,7 @@ M
 
  `Next <Moores-Law.html>`__
 
---------------
+ 
 
 **Moof**: /moof/
 
@@ -3060,13 +2912,13 @@ hackerland.
 a verb meaning ‘to be suddenly disconnected by the system’. One might
 say “I got moofed”.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 | `Prev <monty.html>`__    | `Up <../M.html>`__         |  `Next <Moores-Law.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 | monty                    | `Home <../index.html>`__   |  Moore's Law                  |
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 
 Moore's Law
 
@@ -3076,7 +2928,7 @@ M
 
  `Next <moria.html>`__
 
---------------
+ 
 
 **Moore's Law**: /morz law/, prov.
 
@@ -3102,13 +2954,13 @@ about the next generation of computing technology. See also
 `Parkinson's Law of Data <./P.html#Parkinsons-Law-of-Data.html>`__ and
 `Gates's Law <./G.html#Gatess-Law.html>`__.
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | `Prev <Moof.html>`__    | `Up <../M.html>`__         |  `Next <moria.html>`__   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 | Moof                    | `Home <../index.html>`__   |  moria                   |
-+-------------------------+----------------------------+--------------------------+
++ -----------+  + ------------+
 
 moria
 
@@ -3118,7 +2970,7 @@ M
 
  `Next <MOTAS.html>`__
 
---------------
+ 
 
 **moria**: /mor´ee·@/, n.
 
@@ -3132,13 +2984,13 @@ major consumer of time better used for hacking. See also
 `nethack <./N.html#nethack.html>`__, `rogue <./R.html#rogue.html>`__,
 `Angband <./A.html#Angband.html>`__.
 
---------------
+ 
 
-+-------------------------------+----------------------------+--------------------------+
++  ---+  + ------------+
 | `Prev <Moores-Law.html>`__    | `Up <../M.html>`__         |  `Next <MOTAS.html>`__   |
-+-------------------------------+----------------------------+--------------------------+
++  ---+  + ------------+
 | Moore's Law                   | `Home <../index.html>`__   |  MOTAS                   |
-+-------------------------------+----------------------------+--------------------------+
++  ---+  + ------------+
 
 MOTAS
 
@@ -3148,7 +3000,7 @@ M
 
  `Next <MOTOS.html>`__
 
---------------
+ 
 
 **MOTAS**: /moh·tahz/, n.
 
@@ -3156,13 +3008,13 @@ M
 and `MOTSS <MOTSS.html>`__] A potential or (less often) actual sex
 partner. See also `SO <./S.html#SO.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | `Prev <moria.html>`__    | `Up <../M.html>`__         |  `Next <MOTOS.html>`__   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | moria                    | `Home <../index.html>`__   |  MOTOS                   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 
 MOTOS
 
@@ -3172,7 +3024,7 @@ M
 
  `Next <MOTSS.html>`__
 
---------------
+ 
 
 **MOTOS**: /moh·tohs/, n.
 
@@ -3182,13 +3034,13 @@ Opposite Sex] A potential or (less often) actual sex partner. See
 `SO <./S.html#SO.html>`__. Less common than MOTSS or
 `MOTAS <MOTAS.html>`__, which has largely displaced it.
 
---------------
+ 
 
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | `Prev <MOTAS.html>`__    | `Up <../M.html>`__         |  `Next <MOTSS.html>`__   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | MOTAS                    | `Home <../index.html>`__   |  MOTSS                   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 
 MOTSS
 
@@ -3198,7 +3050,7 @@ M
 
  `Next <mouse-ahead.html>`__
 
---------------
+ 
 
 **MOTSS**: /mots/, /M·O·T·S·S/, n.
 
@@ -3208,13 +3060,13 @@ newsgroup on Usenet is called "soc.motss". See
 `MOTOS <MOTOS.html>`__ and `MOTAS <MOTAS.html>`__, which derive from
 it. See also `SO <./S.html#SO.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+--------------------------------+
++ ------------+  +  ----+
 | `Prev <MOTOS.html>`__    | `Up <../M.html>`__         |  `Next <mouse-ahead.html>`__   |
-+--------------------------+----------------------------+--------------------------------+
++ ------------+  +  ----+
 | MOTOS                    | `Home <../index.html>`__   |  mouse ahead                   |
-+--------------------------+----------------------------+--------------------------------+
++ ------------+  +  ----+
 
 mouse ahead
 
@@ -3224,7 +3076,7 @@ M
 
  `Next <mouse-belt.html>`__
 
---------------
+ 
 
 **mouse ahead**: vi.
 
@@ -3237,13 +3089,13 @@ make a `WIMP environment <./W.html#WIMP-environment.html>`__ much more
 usable, assuming the users are familiar with the behavior of the user
 interface.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 | `Prev <MOTSS.html>`__    | `Up <../M.html>`__         |  `Next <mouse-belt.html>`__   |
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 | MOTSS                    | `Home <../index.html>`__   |  mouse belt                   |
-+--------------------------+----------------------------+-------------------------------+
++ ------------+  +  ---+
 
 mouse belt
 
@@ -3253,19 +3105,19 @@ M
 
  `Next <mouse-droppings.html>`__
 
---------------
+ 
 
 **mouse belt**: n.
 
 See `rat belt <./R.html#rat-belt.html>`__.
 
---------------
+ 
 
-+--------------------------------+----------------------------+------------------------------------+
++  ----+  +  --------+
 | `Prev <mouse-ahead.html>`__    | `Up <../M.html>`__         |  `Next <mouse-droppings.html>`__   |
-+--------------------------------+----------------------------+------------------------------------+
++  ----+  +  --------+
 | mouse ahead                    | `Home <../index.html>`__   |  mouse droppings                   |
-+--------------------------------+----------------------------+------------------------------------+
++  ----+  +  --------+
 
 mouse droppings
 
@@ -3275,7 +3127,7 @@ M
 
  `Next <mouse-elbow.html>`__
 
---------------
+ 
 
 **mouse droppings**: n.
 
@@ -3287,13 +3139,13 @@ screen memory corresponding to the mouse pointer's current location
 without hiding the mouse pointer first, and mouse drivers that do not
 quite support the graphics mode in use.
 
---------------
+ 
 
-+-------------------------------+----------------------------+--------------------------------+
++  ---+  +  ----+
 | `Prev <mouse-belt.html>`__    | `Up <../M.html>`__         |  `Next <mouse-elbow.html>`__   |
-+-------------------------------+----------------------------+--------------------------------+
++  ---+  +  ----+
 | mouse belt                    | `Home <../index.html>`__   |  mouse elbow                   |
-+-------------------------------+----------------------------+--------------------------------+
++  ---+  +  ----+
 
 mouse elbow
 
@@ -3303,7 +3155,7 @@ M
 
  `Next <mouse-pusher.html>`__
 
---------------
+ 
 
 **mouse elbow**: n.
 
@@ -3312,13 +3164,13 @@ A tennis-elbow-like fatigue syndrome resulting from excessive use of a
 shoulder; GLS reports that he used to get this a lot before he taught
 himself to be ambimoustrous.
 
---------------
+ 
 
-+------------------------------------+----------------------------+---------------------------------+
++  --------+  +  -----+
 | `Prev <mouse-droppings.html>`__    | `Up <../M.html>`__         |  `Next <mouse-pusher.html>`__   |
-+------------------------------------+----------------------------+---------------------------------+
++  --------+  +  -----+
 | mouse droppings                    | `Home <../index.html>`__   |  mouse pusher                   |
-+------------------------------------+----------------------------+---------------------------------+
++  --------+  +  -----+
 
 mouse pusher
 
@@ -3328,7 +3180,7 @@ M
 
  `Next <mouso.html>`__
 
---------------
+ 
 
 **mouse pusher**
 
@@ -3338,13 +3190,13 @@ nothing but the most superficial knowledge of the software he/she is
 employing, and is incapable of using or appreciating the full glory of
 the command line.
 
---------------
+ 
 
-+--------------------------------+----------------------------+--------------------------+
++  ----+  + ------------+
 | `Prev <mouse-elbow.html>`__    | `Up <../M.html>`__         |  `Next <mouso.html>`__   |
-+--------------------------------+----------------------------+--------------------------+
++  ----+  + ------------+
 | mouse elbow                    | `Home <../index.html>`__   |  mouso                   |
-+--------------------------------+----------------------------+--------------------------+
++  ----+  + ------------+
 
 mouso
 
@@ -3354,7 +3206,7 @@ M
 
  `Next <MS-DOS.html>`__
 
---------------
+ 
 
 **mouso**: /mow´soh/, n.
 
@@ -3362,13 +3214,13 @@ M
 inappropriate selection or graphic garbage on the screen. Compare
 `thinko <./T.html#thinko.html>`__, `braino <./B.html#braino.html>`__.
 
---------------
+ 
 
-+---------------------------------+----------------------------+---------------------------+
++  -----+  + -------------+
 | `Prev <mouse-pusher.html>`__    | `Up <../M.html>`__         |  `Next <MS-DOS.html>`__   |
-+---------------------------------+----------------------------+---------------------------+
++  -----+  + -------------+
 | mouse pusher                    | `Home <../index.html>`__   |  MS-DOS                   |
-+---------------------------------+----------------------------+---------------------------+
++  -----+  + -------------+
 
 MS-DOS
 
@@ -3378,7 +3230,7 @@ M
 
  `Next <mu.html>`__
 
---------------
+ 
 
 **MS-DOS**: /M·S·dos/, n.
 
@@ -3406,13 +3258,13 @@ man!”, or to compare it to a dose of brain-damaging drugs (a slogan
 button in wide circulation among hackers exhorts: “MS-DOS: Just say
 No!”). See `mess-dos <mess-dos.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+-----------------------+
++ ------------+  + ---------+
 | `Prev <mouso.html>`__    | `Up <../M.html>`__         |  `Next <mu.html>`__   |
-+--------------------------+----------------------------+-----------------------+
++ ------------+  + ---------+
 | mouso                    | `Home <../index.html>`__   |  mu                   |
-+--------------------------+----------------------------+-----------------------+
++ ------------+  + ---------+
 
 M$
 
@@ -3422,20 +3274,20 @@ M
 
  `Next <macdink.html>`__
 
---------------
+ 
 
 **M$**
 
 Common net abbreviation for Microsoft, everybody's least favorite
 monopoly.
 
---------------
+ 
 
-+----------------------+----------------------------+----------------------------+
++ --------+  +  +
 | `Prev <M.html>`__    | `Up <../M.html>`__         |  `Next <macdink.html>`__   |
-+----------------------+----------------------------+----------------------------+
++ --------+  +  +
 | M                    | `Home <../index.html>`__   |  macdink                   |
-+----------------------+----------------------------+----------------------------+
++ --------+  +  +
 
 muddie
 
@@ -3445,7 +3297,7 @@ M
 
  `Next <mudhead.html>`__
 
---------------
+ 
 
 **muddie**: n.
 
@@ -3453,13 +3305,13 @@ Syn. `mudhead <mudhead.html>`__. More common in Great Britain,
 possibly because system administrators there like to mutter “bloody
 muddies” when annoyed at the species.
 
---------------
+ 
 
-+------------------------+----------------------------+----------------------------+
++ ----------+  +  +
 | `Prev <MUD.html>`__    | `Up <../M.html>`__         |  `Next <mudhead.html>`__   |
-+------------------------+----------------------------+----------------------------+
++ ----------+  +  +
 | MUD                    | `Home <../index.html>`__   |  mudhead                   |
-+------------------------+----------------------------+----------------------------+
++ ----------+  +  +
 
 mudhead
 
@@ -3469,7 +3321,7 @@ M
 
  `Next <muggle.html>`__
 
---------------
+ 
 
 **mudhead**: n.
 
@@ -3492,13 +3344,13 @@ sacred ceremonies. Others may recall the ‘High School Madness’ sequence
 from the Firesign Theatre album *Don't Crush That Dwarf, Hand Me the
 Pliers*, in which there is a character named “Mudhead”.
 
---------------
+ 
 
-+---------------------------+----------------------------+---------------------------+
++ -------------+  + -------------+
 | `Prev <muddie.html>`__    | `Up <../M.html>`__         |  `Next <muggle.html>`__   |
-+---------------------------+----------------------------+---------------------------+
++ -------------+  + -------------+
 | muddie                    | `Home <../index.html>`__   |  muggle                   |
-+---------------------------+----------------------------+---------------------------+
++ -------------+  + -------------+
 
 MUD
 
@@ -3508,7 +3360,7 @@ M
 
  `Next <muddie.html>`__
 
---------------
+ 
 
 **MUD**: /muhd/, n.
 
@@ -3568,13 +3420,13 @@ explored. It survived. See also `bonk/oif <./B.html#bonk-oif.html>`__,
 `FOD <./F.html#FOD.html>`__, `link-dead <./L.html#link-dead.html>`__,
 `mudhead <mudhead.html>`__, `talk mode <./T.html#talk-mode.html>`__.
 
---------------
+ 
 
-+-----------------------+----------------------------+---------------------------+
++ ---------+  + -------------+
 | `Prev <mu.html>`__    | `Up <../M.html>`__         |  `Next <muddie.html>`__   |
-+-----------------------+----------------------------+---------------------------+
++ ---------+  + -------------+
 | mu                    | `Home <../index.html>`__   |  muddie                   |
-+-----------------------+----------------------------+---------------------------+
++ ---------+  + -------------+
 
 muggle
 
@@ -3584,7 +3436,7 @@ M
 
  `Next <Multics.html>`__
 
---------------
+ 
 
 **muggle**
 
@@ -3604,13 +3456,13 @@ muggle-friendly. Compare `luser <./L.html#luser.html>`__,
 `mundane <mundane.html>`__, `chainik <./C.html#chainik.html>`__,
 `newbie <./N.html#newbie.html>`__.
 
---------------
+ 
 
-+----------------------------+----------------------------+----------------------------+
++  +  +  +
 | `Prev <mudhead.html>`__    | `Up <../M.html>`__         |  `Next <Multics.html>`__   |
-+----------------------------+----------------------------+----------------------------+
++  +  +  +
 | mudhead                    | `Home <../index.html>`__   |  Multics                   |
-+----------------------------+----------------------------+----------------------------+
++  +  +  +
 
 mu
 
@@ -3620,7 +3472,7 @@ M
 
  `Next <MUD.html>`__
 
---------------
+ 
 
 **mu**: /moo/
 
@@ -3650,13 +3502,13 @@ Koans <../koans.html>`__, and Douglas Hofstadter's *Gödel, Escher, Bach:
 An Eternal Golden Braid* (pointer in the
 `Bibliography <../pt03.html#bibliography>`__ in Appendix C.
 
---------------
+ 
 
-+---------------------------+----------------------------+------------------------+
++ -------------+  + ----------+
 | `Prev <MS-DOS.html>`__    | `Up <../M.html>`__         |  `Next <MUD.html>`__   |
-+---------------------------+----------------------------+------------------------+
++ -------------+  + ----------+
 | MS-DOS                    | `Home <../index.html>`__   |  MUD                   |
-+---------------------------+----------------------------+------------------------+
++ -------------+  + ----------+
 
 Multics
 
@@ -3666,7 +3518,7 @@ M
 
  `Next <multitask.html>`__
 
---------------
+ 
 
 **Multics**: /muhl´tiks/, n.
 
@@ -3708,13 +3560,13 @@ in use as late as 1998, but the last one (a Canadian military site) was
 decommissioned in November 2000. There is a Multics page at
 `http://www.stratus.com/pub/vos/multics/tvv/multics.html <http://www.stratus.com/pub/vos/multics/tvv/multics.html>`__.
 
---------------
+ 
 
-+---------------------------+----------------------------+------------------------------+
++ -------------+  +  --+
 | `Prev <muggle.html>`__    | `Up <../M.html>`__         |  `Next <multitask.html>`__   |
-+---------------------------+----------------------------+------------------------------+
++ -------------+  +  --+
 | muggle                    | `Home <../index.html>`__   |  multitask                   |
-+---------------------------+----------------------------+------------------------------+
++ -------------+  +  --+
 
 multitask
 
@@ -3724,7 +3576,7 @@ M
 
  `Next <mumblage.html>`__
 
---------------
+ 
 
 **multitask**: n.
 
@@ -3734,13 +3586,13 @@ describe a person doing several things at once (but see
 communications technology (meaning to handle more than one channel at
 the same time), is used similarly.
 
---------------
+ 
 
-+----------------------------+----------------------------+-----------------------------+
++  +  +  -+
 | `Prev <Multics.html>`__    | `Up <../M.html>`__         |  `Next <mumblage.html>`__   |
-+----------------------------+----------------------------+-----------------------------+
++  +  +  -+
 | Multics                    | `Home <../index.html>`__   |  mumblage                   |
-+----------------------------+----------------------------+-----------------------------+
++  +  +  -+
 
 mumblage
 
@@ -3750,7 +3602,7 @@ M
 
  `Next <mumble.html>`__
 
---------------
+ 
 
 **mumblage**: /muhm´bl@j/, n.
 
@@ -3759,13 +3611,13 @@ mumblage” is used like “all that stuff” when it is not quite clear how
 the subject of discussion works, or like “all that crap” when ‘mumble’
 is being used as an implicit replacement for pejoratives.
 
---------------
+ 
 
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | `Prev <multitask.html>`__    | `Up <../M.html>`__         |  `Next <mumble.html>`__   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 | multitask                    | `Home <../index.html>`__   |  mumble                   |
-+------------------------------+----------------------------+---------------------------+
++  --+  + -------------+
 
 mumble
 
@@ -3775,7 +3627,7 @@ M
 
  `Next <munch.html>`__
 
---------------
+ 
 
 **mumble**: interj.
 
@@ -3818,13 +3670,13 @@ want to bother spelling out, but which can be
 8. [XEROX PARC] A colloquialism used to suggest that further discussion
 would be fruitless.
 
---------------
+ 
 
-+-----------------------------+----------------------------+--------------------------+
++  -+  + ------------+
 | `Prev <mumblage.html>`__    | `Up <../M.html>`__         |  `Next <munch.html>`__   |
-+-----------------------------+----------------------------+--------------------------+
++  -+  + ------------+
 | mumblage                    | `Home <../index.html>`__   |  munch                   |
-+-----------------------------+----------------------------+--------------------------+
++  -+  + ------------+
 
 munch
 
@@ -3834,7 +3686,7 @@ M
 
  `Next <munching.html>`__
 
---------------
+ 
 
 **munch**: vt.
 
@@ -3844,13 +3696,13 @@ computation. To trace down a data structure. Related to
 `crunch <./C.html#crunch.html>`__ and nearly synonymous with
 `grovel <./G.html#grovel.html>`__, but connotes less pain.
 
---------------
+ 
 
-+---------------------------+----------------------------+-----------------------------+
++ -------------+  +  -+
 | `Prev <mumble.html>`__    | `Up <../M.html>`__         |  `Next <munching.html>`__   |
-+---------------------------+----------------------------+-----------------------------+
++ -------------+  +  -+
 | mumble                    | `Home <../index.html>`__   |  munching                   |
-+---------------------------+----------------------------+-----------------------------+
++ -------------+  +  -+
 
 munching
 
@@ -3860,7 +3712,7 @@ M
 
  `Next <munching-squares.html>`__
 
---------------
+ 
 
 **munching**: n.
 
@@ -3869,13 +3721,13 @@ notoriety, or to annoy the system manager. Compare
 `cracker <./C.html#cracker.html>`__. See also `hacked
 off <./H.html#hacked-off.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------------------+
++ ------------+  +  ---------+
 | `Prev <munch.html>`__    | `Up <../M.html>`__         |  `Next <munching-squares.html>`__   |
-+--------------------------+----------------------------+-------------------------------------+
++ ------------+  +  ---------+
 | munch                    | `Home <../index.html>`__   |  munching squares                   |
-+--------------------------+----------------------------+-------------------------------------+
++ ------------+  +  ---------+
 
 munching squares
 
@@ -3885,7 +3737,7 @@ M
 
  `Next <munchkin.html>`__
 
---------------
+ 
 
 **munching squares**: n.
 
@@ -3906,13 +3758,13 @@ display) is likely to be referred to as munching foos. [This is a good
 example of the use of the word `foo <./F.html#foo.html>`__ as a
 `metasyntactic variable <metasyntactic-variable.html>`__.]
 
---------------
+ 
 
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | `Prev <munching.html>`__    | `Up <../M.html>`__         |  `Next <munchkin.html>`__   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 | munching                    | `Home <../index.html>`__   |  munchkin                   |
-+-----------------------------+----------------------------+-----------------------------+
++  -+  +  -+
 
 munchkin
 
@@ -3922,7 +3774,7 @@ M
 
  `Next <mundane.html>`__
 
---------------
+ 
 
 **munchkin**: /muhnch´kin/, n.
 
@@ -3935,13 +3787,13 @@ stage <./L.html#larval-stage.html>`__. The term
 `wannabee <./W.html#wannabee.html>`__, `bitty
 box <./B.html#bitty-box.html>`__.
 
---------------
+ 
 
-+-------------------------------------+----------------------------+----------------------------+
++  ---------+  +  +
 | `Prev <munching-squares.html>`__    | `Up <../M.html>`__         |  `Next <mundane.html>`__   |
-+-------------------------------------+----------------------------+----------------------------+
++  ---------+  +  +
 | munching squares                    | `Home <../index.html>`__   |  mundane                   |
-+-------------------------------------+----------------------------+----------------------------+
++  ---------+  +  +
 
 mundane
 
@@ -3951,7 +3803,7 @@ M
 
  `Next <mung.html>`__
 
---------------
+ 
 
 **mundane**: n.
 
@@ -3963,13 +3815,13 @@ M
 often an adjectival modifier as in “in my mundane life....” See also
 `Real World <./R.html#Real-World.html>`__, `muggle <muggle.html>`__.
 
---------------
+ 
 
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | `Prev <munchkin.html>`__    | `Up <../M.html>`__         |  `Next <mung.html>`__   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 | munchkin                    | `Home <../index.html>`__   |  mung                   |
-+-----------------------------+----------------------------+-------------------------+
++  -+  + -----------+
 
 munge
 
@@ -3979,7 +3831,7 @@ M
 
  `Next <Murphys-Law.html>`__
 
---------------
+ 
 
 **munge**: /muhnj/, vt.
 
@@ -4002,13 +3854,13 @@ the result of munging something up (the parallel with the
 amusing). The OED reports “munge” as an archaic verb meaning “to wipe (a
 person's nose)”.
 
---------------
+ 
 
-+-------------------------+----------------------------+--------------------------------+
++ -----------+  +  ----+
 | `Prev <mung.html>`__    | `Up <../M.html>`__         |  `Next <Murphys-Law.html>`__   |
-+-------------------------+----------------------------+--------------------------------+
++ -----------+  +  ----+
 | mung                    | `Home <../index.html>`__   |  Murphy's Law                  |
-+-------------------------+----------------------------+--------------------------------+
++ -----------+  +  ----+
 
 mung
 
@@ -4018,7 +3870,7 @@ M
 
  `Next <munge.html>`__
 
---------------
+ 
 
 **mung**: /muhng/, vt.
 
@@ -4067,13 +3919,13 @@ false news, but probably having its derivation from mingled (or mung)
 news, in which the true and the false are so mixed up together that it
 is impossible to distinguish one from another.”
 
---------------
+ 
 
-+----------------------------+----------------------------+--------------------------+
++  +  + ------------+
 | `Prev <mundane.html>`__    | `Up <../M.html>`__         |  `Next <munge.html>`__   |
-+----------------------------+----------------------------+--------------------------+
++  +  + ------------+
 | mundane                    | `Home <../index.html>`__   |  munge                   |
-+----------------------------+----------------------------+--------------------------+
++  +  + ------------+
 
 Murphy's Law
 
@@ -4083,7 +3935,7 @@ M
 
  `Next <music.html>`__
 
---------------
+ 
 
 **Murphy's Law**: prov.
 
@@ -4116,13 +3968,13 @@ is more correctly referred to as `Finagle's
 Law <./F.html#Finagles-Law.html>`__. The memetic drift apparent in these
 mutants clearly demonstrates Murphy's Law acting on itself!
 
---------------
+ 
 
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | `Prev <munge.html>`__    | `Up <../M.html>`__         |  `Next <music.html>`__   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 | munge                    | `Home <../index.html>`__   |  music                   |
-+--------------------------+----------------------------+--------------------------+
++ ------------+  + ------------+
 
 music
 
@@ -4132,7 +3984,7 @@ M
 
  `Next <mutter.html>`__
 
---------------
+ 
 
 **music**: n.
 
@@ -4154,13 +4006,13 @@ apparently true that hackerdom includes a much higher concentration of
 talented amateur musicians than one would expect from a similar-sized
 control group of `mundane <mundane.html>`__ types.
 
---------------
+ 
 
-+--------------------------------+----------------------------+---------------------------+
++  ----+  + -------------+
 | `Prev <Murphys-Law.html>`__    | `Up <../M.html>`__         |  `Next <mutter.html>`__   |
-+--------------------------------+----------------------------+---------------------------+
++  ----+  + -------------+
 | Murphy's Law                   | `Home <../index.html>`__   |  mutter                   |
-+--------------------------------+----------------------------+---------------------------+
++  ----+  + -------------+
 
 mutter
 
@@ -4170,7 +4022,7 @@ M
 
  `Next <../N.html>`__
 
---------------
+ 
 
 **mutter**: vt.
 
@@ -4179,11 +4031,11 @@ ordinary mortals. Often used in “mutter an
 `incantation <./I.html#incantation.html>`__\ ”. See also
 `wizard <./W.html#wizard.html>`__.
 
---------------
+ 
 
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | `Prev <music.html>`__    | `Up <../M.html>`__         |  `Next <../N.html>`__   |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 | music                    | `Home <../index.html>`__   |  N                      |
-+--------------------------+----------------------------+-------------------------+
++ ------------+  + -----------+
 
