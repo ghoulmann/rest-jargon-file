@@ -54,7 +54,7 @@ in hopes that a malfunction will go away. Hackers consider this the
 normal operating mode of `field circus <./F.html#field-circus.html>`__
 techs and do not love them for it. See also the jokes under `field
 circus <./F.html#field-circus.html>`__. Compare `shotgun
-debugging <../S/shotgun-debugging.html>`__.
+debugging <./S.html#shotgun-debugging.html>`__.
 
 --------------
 
@@ -77,7 +77,7 @@ E
 **eat flaming death**: imp.
 
 A construction popularized among hackers by the infamous `CPU
-Wars <../C/CPU-Wars.html>`__ comic; supposedly derived from a famously
+Wars <./C.html#CPU-Wars.html>`__ comic; supposedly derived from a famously
 turgid line in a WWII-era anti-Nazi propaganda comic that ran “Eat
 flaming death, non-Aryan mongrels!” or something of the sort (however,
 it is also reported that on the Firesign Theatre's 1975 album *In The
@@ -120,7 +120,7 @@ non-contiguous letter sequences and the absence of several ASCII
 punctuation characters fairly important for modern computer languages
 (exactly which characters are absent varies according to which version
 of EBCDIC you're looking at). IBM adapted EBCDIC from `punched
-card <../P/punched-card.html>`__ code in the early 1960s and
+card <./P.html#punched-card.html>`__ code in the early 1960s and
 promulgated it as a customer-control tactic (see `connector
 conspiracy <./C.html#connector-conspiracy.html>`__), spurning the already
 established ASCII standard. Today, IBM claims to be an open-systems
@@ -150,7 +150,7 @@ E
 
 **ECP**: /E·C·P/, n.
 
-See `spam <../S/spam.html>`__ and `velveeta <../V/velveeta.html>`__.
+See `spam <./S.html#spam.html>`__ and `velveeta <./V.html#velveeta.html>`__.
 
 --------------
 
@@ -173,12 +173,12 @@ E
 **ed**: n.
 
 “ed is the standard text editor.” Line taken from the original
-`Unix <../U/Unix.html>`__ manual page on ed, an ancient line-oriented
+`Unix <./U.html#Unix.html>`__ manual page on ed, an ancient line-oriented
 editor that is by now used only by a few `Real
-Programmer <../R/Real-Programmer.html>`__\ s, and even then only for
+Programmer <./R.html#Real-Programmer.html>`__\ s, and even then only for
 batch operations. The original line is sometimes uttered near the
 beginning of an emacs vs. vi holy war on
-`Usenet <../U/Usenet.html>`__, with the (vain) hope to quench the
+`Usenet <./U.html#Usenet.html>`__, with the (vain) hope to quench the
 discussion before it really takes off. Often followed by a standard text
 describing the many virtues of ed (such as the small memory
 `footprint <./F.html#footprint.html>`__ on a Timex Sinclair, and the
@@ -259,7 +259,7 @@ E
 **eighty-column mind**: n.
 
 [IBM] The sort said to be possessed by persons for whom the transition
-from `punched card <../P/punched-card.html>`__ to tape was traumatic
+from `punched card <./P.html#punched-card.html>`__ to tape was traumatic
 (nobody has dared tell them about disks yet). It is said that these
 people, including (according to an old joke) the founder of IBM, will be
 buried ‘face down, 9-edge first’ (the 9-edge being the bottom of the
@@ -277,7 +277,7 @@ The eighty-column mind was thought by most hackers to dominate IBM's
 customer base and its thinking. This only began to change in the
 mid-1990s when IBM began to reinvent itself after the triumph of the
 `killer micro <./K.html#killer-micro.html>`__. See
-`IBM <../I/IBM.html>`__, `fear and
+`IBM <./I.html#IBM.html>`__, `fear and
 loathing <./F.html#fear-and-loathing.html>`__, `code
 grinder <./C.html#code-grinder.html>`__. A copy of *The Last Bug* lives on
 the the GNU site at
@@ -356,11 +356,11 @@ E
 **elder days**: n.
 
 The heroic age of hackerdom (roughly, pre-1980); the era of the
-`PDP-10 <../P/PDP-10.html>`__, `TECO <../T/TECO.html>`__,
-`ITS <../I/ITS.html>`__, and the ARPANET. This term has been rather
+`PDP-10 <./P.html#PDP-10.html>`__, `TECO <./T.html#TECO.html>`__,
+`ITS <./I.html#ITS.html>`__, and the ARPANET. This term has been rather
 consciously adopted from J. R. R. Tolkien's fantasy epic *The Lord of
-the Rings*. Compare `Iron Age <../I/Iron-Age.html>`__; see also
-`elvish <elvish.html>`__ and `Great Worm <../G/Great-Worm.html>`__.
+the Rings*. Compare `Iron Age <./I.html#Iron-Age.html>`__; see also
+`elvish <elvish.html>`__ and `Great Worm <./G.html#Great-Worm.html>`__.
 
 --------------
 
@@ -423,8 +423,8 @@ all the same (and, like a pachyderm, difficult to maintain). In extreme
 cases, hackers have been known to make trumpeting sounds or perform
 expressive proboscatory mime at the mention of the offending program.
 Usage: semi-humorous. Compare ‘has the elephant nature’ and the somewhat
-more pejorative `monstrosity <../M/monstrosity.html>`__. See also
-`second-system effect <../S/second-system-effect.html>`__ and
+more pejorative `monstrosity <./M.html#monstrosity.html>`__. See also
+`second-system effect <./S.html#second-system-effect.html>`__ and
 `baroque <./B.html#baroque.html>`__.
 
 --------------
@@ -448,7 +448,7 @@ E
 **elevator controller**: n.
 
 An archetypal dumb embedded-systems application, like
-`toaster <../T/toaster.html>`__ (which superseded it). During one
+`toaster <./T.html#toaster.html>`__ (which superseded it). During one
 period (1983--84) in the deliberations of ANSI X3J11 (the C
 standardization committee) this was the canonical example of a really
 stupid, memory-limited computation environment. “You can't require
@@ -480,7 +480,7 @@ E
 Clueful. Plugged-in. One of the cognoscenti. Also used as a general
 positive adjective. This term is not actually native hacker slang; it is
 used primarily by crackers and `warez
-d00dz <../W/warez-d00dz.html>`__, for which reason hackers use it only
+d00dz <./W.html#warez-d00dz.html>`__, for which reason hackers use it only
 with heavy irony. The term used to refer to the folks allowed in to the
 “hidden” or “privileged” sections of BBSes in the early 1980s (which,
 typically, contained pirated software). Frequently, early boards would
@@ -527,11 +527,11 @@ canned phrases. It was so convincing, however, that there are many
 anecdotes about people becoming very emotionally caught up in dealing
 with ELIZA. All this was due to people's tendency to attach to words
 meanings which the computer never put there. The ELIZA effect is a
-`Good Thing <../G/Good-Thing.html>`__ when writing a programming
+`Good Thing <./G.html#Good-Thing.html>`__ when writing a programming
 language, but it can blind you to serious shortcomings when analyzing an
 Artificial Intelligence system. Compare
 `ad-hockery <./A.html#ad-hockery.html>`__; see also
-`AI-complete <../A/AI-complete.html>`__. Sources for a clone of the
+`AI-complete <./A.html#AI-complete.html>`__. Sources for a clone of the
 original Eliza are available at
 `ftp://ftp.cc.utexas.edu/pub/AI\_ATTIC/Programs/Classic/Eliza/Eliza.c <ftp://ftp.cc.utexas.edu/pub/AI-ATTIC/Programs/Classic/Eliza/Eliza.c>`__.
 
@@ -592,19 +592,19 @@ E
 
 [from Editing MACroS] The ne plus ultra of hacker editors, a
 programmable text editor with an entire LISP system inside it. It was
-originally written by Richard Stallman in `TECO <../T/TECO.html>`__
-under `ITS <../I/ITS.html>`__ at the MIT AI lab; AI Memo 554 described
+originally written by Richard Stallman in `TECO <./T.html#TECO.html>`__
+under `ITS <./I.html#ITS.html>`__ at the MIT AI lab; AI Memo 554 described
 it as “an advanced, self-documenting, customizable, extensible real-time
 display editor”. It has since been reimplemented any number of times, by
 various hackers, and versions exist that run under most major operating
 systems. Perhaps the most widely used version, also written by Stallman
-and now called “\ `GNU <../G/GNU.html>`__ EMACS” or
-`GNUMACS <../G/GNUMACS.html>`__, runs principally under Unix. (Its
+and now called “\ `GNU <./G.html#GNU.html>`__ EMACS” or
+`GNUMACS <./G.html#GNUMACS.html>`__, runs principally under Unix. (Its
 close relative XEmacs is the second most popular version.) It includes
 facilities to run compilation subprocesses and send and receive mail or
 news; many hackers spend up to 80% of their `tube
-time <../T/tube-time.html>`__ inside it. Other variants include
-`GOSMACS <../G/GOSMACS.html>`__, CCA EMACS, UniPress EMACS, Montgomery
+time <./T.html#tube-time.html>`__ inside it. Other variants include
+`GOSMACS <./G.html#GOSMACS.html>`__, CCA EMACS, UniPress EMACS, Montgomery
 EMACS, jove, epsilon, and MicroEMACS. (Though we use the original
 all-caps spelling here, it is nowadays very commonly ‘Emacs’.) Some
 EMACS versions running under window managers iconify as an overflowing
@@ -617,8 +617,8 @@ keystrokes decorated with `bucky bits <./B.html#bucky-bits.html>`__. Other
 spoof expansions include ‘Eight Megabytes And Constantly Swapping’ (from
 when that was a lot of `core <./C.html#core.html>`__), ‘Eventually
 malloc()s All Computer Storage’, and ‘EMACS Makes A Computer Slow’ (see
-`recursive acronym <../R/recursive-acronym.html>`__). See also
-`vi <../V/vi.html>`__.
+`recursive acronym <./R.html#recursive-acronym.html>`__). See also
+`vi <./V.html#vi.html>`__.
 
 --------------
 
@@ -644,10 +644,10 @@ E
 
 1. n. Electronic mail automatically passed through computer networks
 and/or via modems over common-carrier lines. Contrast
-`snail-mail <../S/snail-mail.html>`__,
-`paper-net <../P/paper-net.html>`__,
-`voice-net <../V/voice-net.html>`__. See `network
-address <../N/network-address.html>`__.
+`snail-mail <./S.html#snail-mail.html>`__,
+`paper-net <./P.html#paper-net.html>`__,
+`voice-net <./V.html#voice-net.html>`__. See `network
+address <./N.html#network-address.html>`__.
 
 2. vt. To send electronic mail.
 
@@ -692,7 +692,7 @@ circumstances in high-volume text-only communication forums such as
 Usenet; the lack of verbal and visual cues can otherwise cause what were
 intended to be humorous, sarcastic, ironic, or otherwise
 non-100%-serious comments to be badly misinterpreted (not always even by
-`newbie <../N/newbie.html>`__\ s), resulting in arguments and `flame
+`newbie <./N.html#newbie.html>`__\ s), resulting in arguments and `flame
 war <./F.html#flame-war.html>`__\ s.
 
 Hundreds of emoticons have been proposed, but only a few are in common
@@ -712,7 +712,7 @@ use. These include:
 the left.) The first two listed are by far the most frequently
 encountered. Hyphenless forms of them are common on CompuServe, GEnie,
 and BIX; see also `bixie <./B.html#bixie.html>`__. On
-`Usenet <../U/Usenet.html>`__, smiley is often used as a generic term
+`Usenet <./U.html#Usenet.html>`__, smiley is often used as a generic term
 synonymous with `emoticon <emoticon.html>`__, as well as specifically
 for the happy-face emoticon.
 
@@ -730,7 +730,7 @@ these two inventions were independent. Users of the PLATO educational
 system `report <%20http://www.platopeople.com/emoticons.html>`__ using
 emoticons composed from overlaid dot-matrix graphics in the 1970s.
 
-Note for the `newbie <../N/newbie.html>`__: Overuse of the smiley is a
+Note for the `newbie <./N.html#newbie.html>`__: Overuse of the smiley is a
 mark of loserhood! More than one per paragraph is a fairly sure sign
 that you've gone over the line.
 
@@ -754,7 +754,7 @@ E
 
 **EMP**: /E·M·P/
 
-See `spam <../S/spam.html>`__.
+See `spam <./S.html#spam.html>`__.
 
 --------------
 
@@ -855,14 +855,14 @@ compiler. The idea behind the term is that to a real hacker, a program
 written in his favorite programming language is at least as readable as
 English. Usage: mostly by old-time hackers, though recognizable in
 context. Today the preferred shorthand is simply
-`source <../S/source.html>`__.
+`source <./S.html#source.html>`__.
 
 2. The official name of the database language used by the old Pick
 Operating System, actually a sort of crufty, brain-damaged SQL with
 delusions of grandeur. The name permitted
-`marketroid <../M/marketroid.html>`__\ s to say “Yes, and you can
+`marketroid <./M.html#marketroid.html>`__\ s to say “Yes, and you can
 program our computers in English!” to ignorant
-`suit <../S/suit.html>`__\ s without quite running afoul of the
+`suit <./S.html#suit.html>`__\ s without quite running afoul of the
 truth-in-advertising laws.
 
 --------------
@@ -885,7 +885,7 @@ E
 
 **enhancement**: n.
 
-Common `marketroid <../M/marketroid.html>`__-speak for a bug
+Common `marketroid <./M.html#marketroid.html>`__-speak for a bug
 `fix <./F.html#fix.html>`__. This abuse of language is a popular and
 time-tested way to turn incompetence into increased revenue. A hacker
 being ironic would instead call the fix a
@@ -914,13 +914,13 @@ E
 
 [from the ASCII mnemonic ENQuire for 0000101] An on-line convention for
 querying someone's availability. After opening a `talk
-mode <../T/talk-mode.html>`__ connection to someone apparently in heavy
+mode <./T.html#talk-mode.html>`__ connection to someone apparently in heavy
 hack mode, one might type **SYN SYN ENQ?** (the SYNs representing
 notional synchronization bytes), and expect a return of
-`ACK <../A/ACK.html>`__ or `NAK <../N/NAK.html>`__ depending on
+`ACK <./A.html#ACK.html>`__ or `NAK <./N.html#NAK.html>`__ depending on
 whether or not the person felt interruptible. Compare
-`ping <../P/ping.html>`__, `finger <./F.html#finger.html>`__, and the
-usage of **FOO?** listed under `talk mode <../T/talk-mode.html>`__.
+`ping <./P.html#ping.html>`__, `finger <./F.html#finger.html>`__, and the
+usage of **FOO?** listed under `talk mode <./T.html#talk-mode.html>`__.
 
 --------------
 
@@ -968,7 +968,7 @@ E
 
 [abbreviation, ‘End Of File’]
 
-1. [techspeak] The `out-of-band <../O/out-of-band.html>`__ value
+1. [techspeak] The `out-of-band <./O.html#out-of-band.html>`__ value
 returned by C's sequential character-input functions (and their
 equivalents in other environments) when end of file has been reached.
 This value is usually "-1" under C libraries postdating V6 Unix, but
@@ -982,7 +982,7 @@ an end-of-file condition.
 3. Used by extension in non-computer contexts when a human is doing
 something that can be modeled as a sequential read and can't go further.
 “Yeah, I looked for a list of 360 mnemonics to post as a joke, but I hit
-EOF pretty fast; all the library had was a `JCL <../J/JCL.html>`__
+EOF pretty fast; all the library had was a `JCL <./J.html#JCL.html>`__
 manual.” See also `EOL <EOL.html>`__.
 
 --------------
@@ -1005,10 +1005,10 @@ E
 
 **EOL**: /E·O·L/, n.
 
-[End Of Line] Syn. for `newline <../N/newline.html>`__, derived
+[End Of Line] Syn. for `newline <./N.html#newline.html>`__, derived
 perhaps from the original CDC6600 Pascal. Now rare, but widely
 recognized and occasionally used for brevity. Used in the example entry
-under `BNF <../B/BNF.html>`__. See also `EOF <EOF.html>`__.
+under `BNF <./B.html#BNF.html>`__. See also `EOF <EOF.html>`__.
 
 --------------
 
@@ -1038,7 +1038,7 @@ teletypes than computers (e.g., FS, GS, RS, US, EM, SUB, ETX, and esp.
 EOT). It is worth remembering that ASR-33s were big, noisy mechanical
 beasts with a lot of clattering parts; the notion that one might explode
 was nowhere near as ridiculous as it might seem to someone sitting in
-front of a `tube <../T/tube.html>`__ or flatscreen today.
+front of a `tube <./T.html#tube.html>`__ or flatscreen today.
 
 --------------
 
@@ -1066,14 +1066,14 @@ Under most Unix versions the epoch is 00:00:00 GMT, January 1, 1970;
 under VMS, it's 00:00:00 of November 17, 1858 (base date of the U.S.
 Naval Observatory's ephemerides); on a Macintosh, it's the midnight
 beginning January 1 1904. System time is measured in seconds or
-`tick <../T/tick.html>`__\ s past the epoch. Weird problems may ensue
+`tick <./T.html#tick.html>`__\ s past the epoch. Weird problems may ensue
 when the clock wraps around (see `wrap
-around <../W/wrap-around.html>`__), which is not necessarily a rare
+around <./W.html#wrap-around.html>`__), which is not necessarily a rare
 event; on systems counting 10 ticks per second, a signed 32-bit count of
 ticks is good only for 6.8 years. The 1-tick-per-second clock of Unix is
 good only until January 18, 2038, assuming at least some software
 continues to consider it signed and that word lengths don't increase by
-then. See also `wall time <../W/wall-time.html>`__. Microsoft Windows,
+then. See also `wall time <./W.html#wall-time.html>`__. Microsoft Windows,
 on the other hand, has an epoch problem every 49.7 days — but this is
 seldom noticed as Windows is almost incapable of staying up continuously
 for that long.
@@ -1103,7 +1103,7 @@ E
 1. n. A small quantity of anything. “The cost is epsilon.”
 
 2. adj. Very small, negligible; less than
-`marginal <../M/marginal.html>`__. “We can get this feature for
+`marginal <./M.html#marginal.html>`__. “We can get this feature for
 epsilon cost.”
 
 3. within epsilon of: close enough to be indistinguishable for all
@@ -1226,10 +1226,10 @@ Of; her name was latinized to Discordia and she was worshiped by that
 name in Rome. Not a very friendly deity in the Classical original, she
 was reinvented as a more benign personification of creative anarchy
 starting in 1959 by the adherents of
-`Discordianism <../D/Discordianism.html>`__ and has since been a
+`Discordianism <./D.html#Discordianism.html>`__ and has since been a
 semi-serious subject of veneration in several ‘fringe’ cultures,
-including hackerdom. See `Discordianism <../D/Discordianism.html>`__,
-`Church of the SubGenius <../C/Church-of-the-SubGenius.html>`__.
+including hackerdom. See `Discordianism <./D.html#Discordianism.html>`__,
+`Church of the SubGenius <./C.html#Church-of-the-SubGenius.html>`__.
 
 --------------
 
@@ -1323,7 +1323,7 @@ E
 
 **evil and rude**: adj.
 
-Both `evil <evil.html>`__ and `rude <../R/rude.html>`__, but with
+Both `evil <evil.html>`__ and `rude <./R.html#rude.html>`__, but with
 the additional connotation that the rudeness was due to malice rather
 than incompetence. Thus, for example: Microsoft's Windows NT is evil
 because it's a competent implementation of a bad design; it's rude
@@ -1355,12 +1355,12 @@ E
 **Evil Empire**: n.
 
 [from Ronald Reagan's famous characterization of the communist Soviet
-Union] Formerly `IBM <../I/IBM.html>`__, now
-`Microsoft <../M/Microsoft.html>`__. Functionally, the company most
+Union] Formerly `IBM <./I.html#IBM.html>`__, now
+`Microsoft <./M.html#Microsoft.html>`__. Functionally, the company most
 hackers love to hate at any given time. Hackers like to see themselves
 as romantic rebels against the Evil Empire, and frequently adopt this
 role to the point of ascribing rather more power and malice to the
-Empire than it actually has. See also `Borg <../B/Borg.html>`__ and
+Empire than it actually has. See also `Borg <./B.html#Borg.html>`__ and
 search for ‘Evil Empire’ pages on the Web.
 
 --------------
@@ -1391,8 +1391,8 @@ series, evil does not imply incompetence or bad design, but rather a set
 of goals or design criteria fatally incompatible with the speaker's.
 This usage is more an esthetic and engineering judgment than a moral one
 in the mainstream sense. “We thought about adding a `Blue
-Glue <../B/Blue-Glue.html>`__ interface but decided it was too evil to
-deal with.” “\ `TECO <../T/TECO.html>`__ is neat, but it can be pretty
+Glue <./B.html#Blue-Glue.html>`__ interface but decided it was too evil to
+deal with.” “\ `TECO <./T.html#TECO.html>`__ is neat, but it can be pretty
 evil if you're prone to typos.” Often pronounced with the first syllable
 lengthened, as /eeee'vil/. Compare `evil and
 rude <evil-and-rude.html>`__.
@@ -1417,7 +1417,7 @@ E
 
 **exa-**: /ek´s@/, pref.
 
-[SI] See `quantifiers <../Q/quantifiers.html>`__.
+[SI] See `quantifiers <./Q.html#quantifiers.html>`__.
 
 --------------
 
@@ -1443,7 +1443,7 @@ The process of `grovel <./G.html#grovel.html>`__\ ling through a `core
 dump <./C.html#core-dump.html>`__ or hex image in an attempt to discover
 the bug that brought a program or system down. The reference is to
 divination from the entrails of a sacrificed animal. Compare
-`runes <../R/runes.html>`__,
+`runes <./R.html#runes.html>`__,
 `incantation <./I.html#incantation.html>`__, `black
 art <./B.html#black-art.html>`__.
 
@@ -1472,7 +1472,7 @@ to two people sitting down and say “Exch!”, you are asking them to trade
 places. EXCH, meaning EXCHange, was originally the name of a PDP-10
 instruction that exchanged the contents of a register and a memory
 location. Many newer hackers are probably thinking instead of the
-`PostScript <../P/PostScript.html>`__ exchange operator (which is
+`PostScript <./P.html#PostScript.html>`__ exchange operator (which is
 usually written in lowercase).
 
 --------------
@@ -1496,7 +1496,7 @@ E
 **excl**: /eks´kl/, n.
 
 Abbreviation for ‘exclamation point’. See `bang <./B.html#bang.html>`__,
-`shriek <../S/shriek.html>`__, `ASCII <../A/ASCII.html>`__.
+`shriek <./S.html#shriek.html>`__, `ASCII <./A.html#ASCII.html>`__.
 
 --------------
 
@@ -1522,7 +1522,7 @@ E
 derives from the exec(2) call.
 
 2. [from executive] obs. The command interpreter for an
-`OS <../O/OS.html>`__ (see `shell <../S/shell.html>`__); term esp.
+`OS <./O.html#OS.html>`__ (see `shell <./S.html#shell.html>`__); term esp.
 used around mainframes, and prob.: derived from UNIVAC's archaic EXEC 2
 and EXEC 8 operating systems.
 
@@ -1607,7 +1607,7 @@ E
 A generic obscenity that quickly entered wide use on the Internet and
 Usenet after the passage of the Communications Decency Act. From the
 last name of Senator James Exon (Democrat-Nebraska), primary author of
-the `CDA <../C/CDA.html>`__. This usage outlasted the CDA itself,
+the `CDA <./C.html#CDA.html>`__. This usage outlasted the CDA itself,
 which was quashed a little over a year later by one of the most acerbic
 pro-free-speech opinions ever uttered by the Supreme Court. The campaign
 against it was led by an alliance of hackers and civil libertarians, and
@@ -1638,7 +1638,7 @@ Used within Microsoft to refer to the Windows Explorer, the
 web-interface component of Windows 95 and WinNT 4. Our spies report that
 most of the heavy guns at MS came from a Unix background and use command
 line utilities; even they are scornful of the over-gingerbreaded `WIMP
-environment <../W/WIMP-environment.html>`__\ s that they have been
+environment <./W.html#WIMP-environment.html>`__\ s that they have been
 called upon to create.
 
 --------------
@@ -1665,7 +1665,7 @@ E
 
 1. A vulnerability in software that can be used for breaking security or
 otherwise attacking an Internet host over the network. The `Ping O'
-Death <../P/Ping-O--Death.html>`__ is a famous exploit.
+Death <./P.html#Ping-O--Death.html>`__ is a famous exploit.
 
 2. More grammatically, a program that exploits an exploit in sense 1.
 
@@ -1716,8 +1716,8 @@ E
 To look for something in a mass of code or data with one's own native
 optical sensors, as opposed to using some sort of pattern matching
 software like `grep <./G.html#grep.html>`__ or any other automated search
-tool. Also called a `vgrep <../V/vgrep.html>`__; compare
-`vdiff <../V/vdiff.html>`__.
+tool. Also called a `vgrep <./V.html#vgrep.html>`__; compare
+`vdiff <./V.html#vdiff.html>`__.
 
 --------------
 
@@ -1742,8 +1742,8 @@ E
 [from mainstream slang “ear candy”] A display of some sort that's
 presented to `luser <./L.html#luser.html>`__\ s to keep them distracted
 while the program performs necessary background tasks. “Give 'em some
-eye candy while the back-end `slurp <../S/slurp.html>`__\ s that
-`BLOB <../B/BLOB.html>`__ into core.” Reported as mainstream usage
+eye candy while the back-end `slurp <./S.html#slurp.html>`__\ s that
+`BLOB <./B.html#BLOB.html>`__ into core.” Reported as mainstream usage
 among players of graphics-heavy computer games. We're also told this
 term is mainstream slang for soft pornography, but that sense does not
 appear to be live among hackers.

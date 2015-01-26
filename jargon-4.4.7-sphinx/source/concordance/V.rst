@@ -18,14 +18,14 @@ vadding
 
 **vadding**: /vad´ing/, n.
 
-[from VAD, a permutation of ADV (i.e., `ADVENT <../A/ADVENT.html>`__),
+[from VAD, a permutation of ADV (i.e., `ADVENT <./A.html#ADVENT.html>`__),
 used to avoid a particular `admin <./A.html#admin.html>`__'s continual
 search-and-destroy sweeps for the game] A leisure-time activity of
 certain hackers involving the covert exploration of the ‘secret’ parts
 of large buildings — basements, roofs, freight elevators, maintenance
 crawlways, steam tunnels, and the like. A few go so far as to learn
 locksmithing in order to synthesize vadding keys. The verb is to vad
-(compare `phreaking <../P/phreaking.html>`__; see also
+(compare `phreaking <./P.html#phreaking.html>`__; see also
 `hack <./H.html#hack.html>`__, sense 9). This term dates from the late
 1970s, before which such activity was simply called ‘hacking’; the older
 usage is still prevalent at MIT.
@@ -122,7 +122,7 @@ var
 **var**: /veir/, /var/, n.
 
 Short for variable. Compare `arg <./A.html#arg.html>`__,
-`param <../P/param.html>`__.
+`param <./P.html#param.html>`__.
 
 
 
@@ -146,7 +146,7 @@ VAXen
 **VAXen**: /vak´sn/, n.
 
 [from ‘oxen’, perhaps influenced by ‘vixen’] (alt.: vaxen) The plural
-canonically used among hackers for the `DEC <../D/DEC.html>`__ VAX
+canonically used among hackers for the `DEC <./D.html#DEC.html>`__ VAX
 computers. “Our installation has four PDP-10s and twenty vaxen.” See
 `boxen <./B.html#boxen.html>`__.
 
@@ -161,11 +161,11 @@ VAX
 
 1. [from Virtual Address eXtension] The most successful minicomputer
 design in industry history, possibly excepting its immediate ancestor,
-the `PDP-11 <../P/PDP-11.html>`__. Between its release in 1978 and its
+the `PDP-11 <./P.html#PDP-11.html>`__. Between its release in 1978 and its
 eclipse by `killer micro <./K.html#killer-micro.html>`__\ s after about
 1986, the VAX was probably the hacker's favorite machine of them all,
 esp. after the 1982 release of 4.2 BSD Unix (see
-`BSD <../B/BSD.html>`__). Especially noted for its large,
+`BSD <./B.html#BSD.html>`__). Especially noted for its large,
 assembler-programmer-friendly instruction set — an asset that became a
 liability after the RISC revolution.
 
@@ -234,7 +234,7 @@ elsewhere. Among these are:
    address in memory (for example, that you can freely construct and
    dereference a pointer to a word- or greater-sized object at an odd
    char address). Problem: this fails on many (esp. RISC) architectures
-   better optimized for `HLL <../H/HLL.html>`__ execution speed, and
+   better optimized for `HLL <./H.html#HLL.html>`__ execution speed, and
    can cause an illegal address fault or bus error.
 
 #. The (related) assumption that there is no padding at the end of types
@@ -247,7 +247,7 @@ elsewhere. Among these are:
    fails at 0, or other places on segment-addressed machines like Intel
    chips (yes, segmentation is universally considered a
    `brain-damaged <./B.html#brain-damaged.html>`__ way to design machines
-   (see `moby <../M/moby.html>`__), but that is a separate issue).
+   (see `moby <./M.html#moby.html>`__), but that is a separate issue).
 
 #. The assumption that objects can be arbitrarily large with no special
    considerations. Problem: this fails on segmented architectures and
@@ -270,7 +270,7 @@ elsewhere. Among these are:
 
 #. The assumption that an int is 32 bits, or (nearly equivalently) the
    assumption that **sizeof(int) == sizeof(long)**. Problem: this fails
-   on `PDP-11 <../P/PDP-11.html>`__\ s, 286-based systems and even on
+   on `PDP-11 <./P.html#PDP-11.html>`__\ s, 286-based systems and even on
    386 and 68000 systems under some compilers (and on 64-bit systems
    like the Alpha, of course).
 
@@ -280,7 +280,7 @@ elsewhere. Among these are:
 
 Note that a programmer can validly be accused of vaxocentrism even if he
 or she has never seen a `VAX <VAX.html>`__. Some of these assumptions
-(esp. 2--5) were valid on the `PDP-11 <../P/PDP-11.html>`__, the
+(esp. 2--5) were valid on the `PDP-11 <./P.html#PDP-11.html>`__, the
 original C machine, and became endemic years before the VAX. The terms
 vaxocentricity and all-the-world's-a-VAX syndrome have been used
 synonymously.
@@ -324,7 +324,7 @@ veeblefester
 Magazine's ‘Veeblefetzer’ parodies beginning in #15, 1954] Any obnoxious
 person engaged in the (alleged) professions of marketing or management.
 Antonym of `hacker <./H.html#hacker.html>`__. Compare
-`suit <../S/suit.html>`__, `marketroid <../M/marketroid.html>`__.
+`suit <./S.html#suit.html>`__, `marketroid <./M.html#marketroid.html>`__.
 
 
 velveeta
@@ -333,11 +333,11 @@ velveeta
 
 **velveeta**: n.
 
-[Usenet: by analogy with `spam <../S/spam.html>`__. The trade name
+[Usenet: by analogy with `spam <./S.html#spam.html>`__. The trade name
 Velveeta is attached in the U.S. to a particularly nasty
-processed-cheese spread.] Also knows as `ECP <../E/ECP.html>`__; a
+processed-cheese spread.] Also knows as `ECP <./E.html#ECP.html>`__; a
 message that is excessively cross-posted, as opposed to
-`spam <../S/spam.html>`__ which is too frequently posted. This term is
+`spam <./S.html#spam.html>`__ which is too frequently posted. This term is
 widely recognized but not commonly used; most people refer to both kinds
 of abuse as spam. Compare `jello <./J.html#jello.html>`__.
 
@@ -388,20 +388,20 @@ Version 7
 
 **Version 7**: /vee´ se´vn/, n.
 
-The first widely distributed version of `Unix <../U/Unix.html>`__,
+The first widely distributed version of `Unix <./U.html#Unix.html>`__,
 released unsupported by Bell Labs in 1978. The term is used adjectivally
 to describe Unix features and programs that date from that release, and
 are thus guaranteed to be present and portable in all Unix versions
 (this was the standard gauge of portability before the POSIX and IEEE
 1003 standards). Note that this usage does *not* derive from the release
-being the “seventh version of `Unix <../U/Unix.html>`__\ ”; research
-`Unix <../U/Unix.html>`__ at Bell Labs has traditionally been numbered
+being the “seventh version of `Unix <./U.html#Unix.html>`__\ ”; research
+`Unix <./U.html#Unix.html>`__ at Bell Labs has traditionally been numbered
 according to the edition of the associated documentation. Indeed, only
 the widely-distributed Sixth and Seventh Editions are widely known as
 V[67]; the OS that might today be known as ‘V10’ is instead known in
 full as “Tenth Edition Research Unix” or just “Tenth Edition” for short.
 For this reason, “V7” is often read by cognoscenti as “Seventh Edition”.
-See `BSD <../B/BSD.html>`__, `Unix <../U/Unix.html>`__. Some
+See `BSD <./B.html#BSD.html>`__, `Unix <./U.html#Unix.html>`__. Some
 old-timers impatient with commercialization and kernel bloat still
 maintain that V7 was the Last True Unix.
 
@@ -453,8 +453,8 @@ Historically, an Amiga fitted with a particular line of special video
 effects hardware from NewTek — long a popular platform at
 special-effects and video production houses. More generally, any
 computer system designed specifically for video production and
-manipulation. Compare `web toaster <../W/web-toaster.html>`__ and see
-`toaster <../T/toaster.html>`__.
+manipulation. Compare `web toaster <./W.html#web-toaster.html>`__ and see
+`toaster <./T.html#toaster.html>`__.
 
 --------------
 
@@ -478,9 +478,9 @@ V
 **vi**: /V·I/, *not*, /vi:/, *never*, /siks/, n.
 
 [from ‘Visual Interface’] A screen editor crufted together by Bill Joy
-for an early `BSD <../B/BSD.html>`__ release. Became the de facto
+for an early `BSD <./B.html#BSD.html>`__ release. Became the de facto
 standard Unix editor and a nearly undisputed hacker favorite outside of
-MIT until the rise of `EMACS <../E/EMACS.html>`__ after about 1984.
+MIT until the rise of `EMACS <./E.html#EMACS.html>`__ after about 1984.
 Tends to frustrate new users no end, as it will neither take commands
 while expecting input text nor vice versa, and the default setup on
 older versions provides no indication of which mode the editor is in
@@ -515,7 +515,7 @@ V
 
 Unused; pristine; in a known initial state. “Let's bring up a virgin
 system and see if it crashes again.” (Esp.: useful after contracting a
-`virus <virus.html>`__ through `SEX <../S/SEX.html>`__.) Also, by
+`virus <virus.html>`__ through `SEX <./S.html#SEX.html>`__.) Also, by
 extension, buffers and the like within a program that have not yet been
 used.
 
@@ -593,7 +593,7 @@ convenient way to manage access to shared resources.
 
 2. Simulated; performing the functions of something that isn't really
 there. An imaginative child's doll may be a virtual playmate. Oppose
-`real <../R/real.html>`__.
+`real <./R.html#real.html>`__.
 
 --------------
 
@@ -623,7 +623,7 @@ Dataglove to allow the user to interact with the simulation. See
 2. A form of network interaction incorporating aspects of role-playing
 games, interactive theater, improvisational comedy, and ‘true
 confessions’ magazines. In a virtual reality forum (such as Usenet's
-"alt.callahans" newsgroup or the `MUD <../M/MUD.html>`__ experiments
+"alt.callahans" newsgroup or the `MUD <./M.html#MUD.html>`__ experiments
 on Internet), interaction between the participants is written like a
 shared novel complete with scenery, foreground characters that may be
 personae utterly unlike the people who write them, and common background
@@ -631,7 +631,7 @@ characters manipulable by all parties. The one iron law is that you may
 not write irreversible changes to a character without the consent of the
 person who ‘owns’ it. Otherwise anything goes. See
 `bamf <./B.html#bamf.html>`__, `cyberspace <./C.html#cyberspace.html>`__,
-`teledildonics <../T/teledildonics.html>`__.
+`teledildonics <./T.html#teledildonics.html>`__.
 
 --------------
 
@@ -684,12 +684,12 @@ V
 [from the obvious analogy with biological viruses, via SF] A cracker
 program that searches out other programs and ‘infects’ them by embedding
 a copy of itself in them, so that they become `Trojan
-horse <../T/Trojan-horse.html>`__\ s. When these programs are executed,
+horse <./T.html#Trojan-horse.html>`__\ s. When these programs are executed,
 the embedded virus is executed too, thus propagating the ‘infection’.
 This normally happens invisibly to the user. Unlike a
-`worm <../W/worm.html>`__, a virus cannot infect other computers
+`worm <./W.html#worm.html>`__, a virus cannot infect other computers
 without assistance. It is propagated by vectors such as humans trading
-programs with their friends (see `SEX <../S/SEX.html>`__). The virus
+programs with their friends (see `SEX <./S.html#SEX.html>`__). The virus
 may do nothing but propagate itself and then allow the program to run
 normally. Usually, however, after propagating silently for a while, it
 starts doing things like writing cute messages on the terminal or
@@ -709,10 +709,10 @@ reports have caused outbreaks of near hysteria among users; many
 work as they had expected on virus attacks. Accordingly, this sense of
 virus has passed not only into techspeak but into also popular usage
 (where it is often incorrectly used to denote a
-`worm <../W/worm.html>`__ or even a `Trojan
-horse <../T/Trojan-horse.html>`__). See `phage <../P/phage.html>`__;
+`worm <./W.html#worm.html>`__ or even a `Trojan
+horse <./T.html#Trojan-horse.html>`__). See `phage <./P.html#phage.html>`__;
 compare `back door <./B.html#back-door.html>`__; see also `Unix
-conspiracy <../U/Unix-conspiracy.html>`__.
+conspiracy <./U.html#Unix-conspiracy.html>`__.
 
 
 
@@ -736,7 +736,7 @@ researcher working on the problem of getting computers to ‘see’ things
 using TV cameras. (There isn't any problem in sending information from a
 TV camera to a computer. The problem is, how can the computer be
 programmed to make use of the camera information? See
-`SMOP <../S/SMOP.html>`__, `AI-complete <../A/AI-complete.html>`__.)
+`SMOP <./S.html#SMOP.html>`__, `AI-complete <./A.html#AI-complete.html>`__.)
 
 2. [IBM] One who reads the outside literature. At IBM, apparently, such
 a penchant is viewed with awe and wonder.
@@ -793,7 +793,7 @@ V
 
 **VMS**: /V·M·S/, n.
 
-`DEC <../D/DEC.html>`__'s proprietary operating system for its
+`DEC <./D.html#DEC.html>`__'s proprietary operating system for its
 `VAX <VAX.html>`__ minicomputer; one of the seven or so environments
 that loom largest in hacker folklore. Many Unix fans generously concede
 that VMS would probably be the hacker's favorite commercial OS if Unix
@@ -808,9 +808,9 @@ gripe with VMS concerns its slowness — thus the following limerick:
 |     And makes my poor stomach all squeamious.
 |                                      — The Great Quux
 
-See also `VAX <VAX.html>`__, `TOPS-10 <../T/TOPS-10.html>`__,
-`TOPS-20 <../T/TOPS-20.html>`__, `Unix <../U/Unix.html>`__,
-`runic <../R/runic.html>`__.
+See also `VAX <VAX.html>`__, `TOPS-10 <./T.html#TOPS-10.html>`__,
+`TOPS-20 <./T.html#TOPS-20.html>`__, `Unix <./U.html#Unix.html>`__,
+`runic <./R.html#runic.html>`__.
 
 --------------
 
@@ -834,7 +834,7 @@ V
 **voice**: vt.
 
 To phone someone, as opposed to emailing them or connecting in `talk
-mode <../T/talk-mode.html>`__. “I'm busy now; I'll voice you later.”
+mode <./T.html#talk-mode.html>`__. “I'm busy now; I'll voice you later.”
 
 --------------
 
@@ -858,11 +858,11 @@ V
 **voice-net**: n.
 
 Hackish way of referring to the telephone system, analogizing it to a
-digital network. Usenet `sig block <../S/sig-block.html>`__\ s not
+digital network. Usenet `sig block <./S.html#sig-block.html>`__\ s not
 uncommonly include the sender's phone next to a “Voice:” or “Voice-Net:”
 header; common variants of this are “Voicenet” and “V-Net”. Compare
-`paper-net <../P/paper-net.html>`__,
-`snail-mail <../S/snail-mail.html>`__.
+`paper-net <./P.html#paper-net.html>`__,
+`snail-mail <./S.html#snail-mail.html>`__.
 
 --------------
 
@@ -887,18 +887,18 @@ V
 
 [from George Bush Sr.'s “voodoo economics”]
 
-1. The use by guess or cookbook of an `obscure <../O/obscure.html>`__
+1. The use by guess or cookbook of an `obscure <./O.html#obscure.html>`__
 or `hairy <./H.html#hairy.html>`__ system, feature, or algorithm that one
 does not truly understand. The implication is that the technique may not
 work, and if it doesn't, one will never know why. Almost synonymous with
 `black magic <./B.html#black-magic.html>`__, except that black magic
 typically isn't documented and *nobody* understands it. Compare
-`magic <../M/magic.html>`__, `deep magic <./D.html#deep-magic.html>`__,
+`magic <./M.html#magic.html>`__, `deep magic <./D.html#deep-magic.html>`__,
 `heavy wizardry <./H.html#heavy-wizardry.html>`__, `rain
-dance <../R/rain-dance.html>`__, `cargo cult
+dance <./R.html#rain-dance.html>`__, `cargo cult
 programming <./C.html#cargo-cult-programming.html>`__, `wave a dead
-chicken <../W/wave-a-dead-chicken.html>`__, `SCSI
-voodoo <../S/SCSI-voodoo.html>`__.
+chicken <./W.html#wave-a-dead-chicken.html>`__, `SCSI
+voodoo <./S.html#SCSI-voodoo.html>`__.
 
 2. Things programmers do that they know shouldn't work but they try
 anyway, and which sometimes actually work, such as recompiling
@@ -919,7 +919,7 @@ V
 **VR**: //, n.
 
 On-line abbrev for `virtual reality <virtual-reality.html>`__, as
-opposed to `RL <../R/RL.html>`__.
+opposed to `RL <./R.html#RL.html>`__.
 
 
 Vulcan nerve pinch
@@ -942,11 +942,11 @@ Suns, L1-A; on Macintoshes, it is <Cmd>-<Power switch> or
 <Cmd>-<Ctrl>-<Power>! On IRIX,
 <Left-Ctrl><Left-Shift><F12><Keypad-Slash>, which kills and restarts the
 X server, is sometimes called a vulcan nerve pinch. Also called
-`three-finger salute <../T/three-finger-salute.html>`__ and Vulcan
+`three-finger salute <./T.html#three-finger-salute.html>`__ and Vulcan
 death grip. At shops with a lot of Microsoft Windows machines, this is
 often called the Microsoft Maneuver because of the distressing frequency
 with which Microsoft's unreliable software requires it. Compare
-`quadruple bucky <../Q/quadruple-bucky.html>`__.
+`quadruple bucky <./Q.html#quadruple-bucky.html>`__.
 
 --------------
 

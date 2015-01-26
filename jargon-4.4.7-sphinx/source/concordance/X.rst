@@ -20,7 +20,7 @@ company, so much so that it became a standard joke to describe PARC as a
 place that specialized in developing brilliant ideas for everyone else.
 
 The stunning shortsightedness and obtusity of XEROX's top-level
-`suits <../S/suit.html>`__  has been well anatomized in *Fumbling The
+`suits <./S.html#suit.html>`__  has been well anatomized in *Fumbling The
 Future: How XEROX Invented, Then Ignored, the First Personal Computer*
 by Douglas K. Smith and Robert C. Alexander (William Morrow & Co., 1988,
 ISBN 0-688-09511-9).
@@ -35,7 +35,7 @@ X
 
 1. Used in various speech and writing contexts (also in lowercase) in
 roughly its algebraic sense of ‘unknown within a set defined by context’
-(compare `N <../N/N.html>`__). Thus, the abbreviation 680x0 stands for
+(compare `N <./N.html#N.html>`__). Thus, the abbreviation 680x0 stands for
 68000, 68010, 68020, 68030, or 68040, and 80x86 stands for 80186, 80286,
 80386, 80486, 80586 or 80686 (note that a Unix hacker might write these
 as 680[0-6]0 and 80[1-6]86 or 680?0 and 80?86 respectively; see
@@ -102,7 +102,7 @@ XXX
 A marker that attention is needed. Commonly used in program comments to
 indicate areas that are kluged up or need to be. Some hackers liken
 ‘XXX’ to the notional heavy-porn movie rating. Compare
-`FIXME <../F/FIXME.html>`__.
+`FIXME <./F.html#FIXME.html>`__.
 
 
 xyzzy
@@ -113,20 +113,20 @@ xyzzy
 **xyzzy**: /X·Y·Z·Z·Y/, /X·Y·ziz´ee/, /ziz´ee/, /ik·ziz´ee/, adj.
 
 [from the ADVENT game] The `canonical <./C.html#canonical.html>`__ ‘magic
-word’. This comes from `ADVENT <../A/ADVENT.html>`__, in which the
+word’. This comes from `ADVENT <./A.html#ADVENT.html>`__, in which the
 idea is to explore an underground cave with many rooms and to collect
 the treasures you find there. If you type xyzzy at the appropriate time,
 you can move instantly between two otherwise distant points. If,
-therefore, you encounter some bit of `magic <../M/magic.html>`__, you
+therefore, you encounter some bit of `magic <./M.html#magic.html>`__, you
 might remark on this quite succinctly by saying simply “Xyzzy!”
 “Ordinarily you can't look at someone else's screen if he has protected
 it, but if you type quadruple-bucky-clear the system will let you do it
 anyway.” “Xyzzy!” It's traditional for xyzzy to be an `Easter
-egg <../E/Easter-egg.html>`__ in games with text interfaces.
+egg <./E.html#Easter-egg.html>`__ in games with text interfaces.
 
 Xyzzy has actually been implemented as an undocumented no-op command on
 several OSes; in Data General's AOS/VS, for example, it would typically
-respond “Nothing happens”, just as `ADVENT <../A/ADVENT.html>`__ did
+respond “Nothing happens”, just as `ADVENT <./A.html#ADVENT.html>`__ did
 if the magic was invoked at the wrong spot or before a player had
 performed the action that enabled the word. In more recent 32-bit
 versions, by the way, AOS/VS responds “Twice as much happens”.

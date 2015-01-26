@@ -16,7 +16,7 @@ named, someone invariably suggests that it be given a name that is
 acronymic. The response from those with a trace of originality is to
 remark ironically that the proposed name would then be
 ‘YABA-compatible’. Also used in response to questions like “What is
-WYSIWYG?” See also `TLA <../T/TLA.html>`__.
+WYSIWYG?” See also `TLA <./T.html#TLA.html>`__.
 
 
 
@@ -28,7 +28,7 @@ YAFIYGI
 
 [coined in response to WYSIWYG] Describes the command-oriented
 ed/vi/nroff/TeX style of word processing or other user interface, the
-opposite of `WYSIWYG <../W/WYSIWYG.html>`__. Stands for “You asked for
+opposite of `WYSIWYG <./W.html#WYSIWYG.html>`__. Stands for “You asked for
 it, you got it”, because what you actually asked for is often not
 apparent until long after it is too late to do anything about it. Used
 to denote perversity (“Real Programmers use YAFIYGI tools...and *like*
@@ -37,7 +37,7 @@ have full programmable flexibility in its interface.”).
 
 This precise sense of “You asked for it, you got it” seems to have first
 appeared in Ed Post's classic parody *Real Programmers don't use Pascal*
-(see `Real Programmers <../R/Real-Programmer.html>`__); the acronym
+(see `Real Programmers <./R.html#Real-Programmer.html>`__); the acronym
 is a more recent invention.
 
 
@@ -101,7 +101,7 @@ yellow wire
 got broken due to some schlemiel pinching them, or to reconnect cut
 traces after the FE mistakenly cut one. Compare `blue
 wire <./B.html#blue-wire.html>`__, `purple
-wire <../P/purple-wire.html>`__, `red wire <../R/red-wire.html>`__.
+wire <./P.html#purple-wire.html>`__, `red wire <./R.html#red-wire.html>`__.
 
 
 
@@ -131,7 +131,7 @@ YHBT
 **YHBT**: //
 
 [Usenet: very common] Abbreviation: You Have Been Trolled (see
-`troll <../T/troll.html>`__, sense 1). Especially used in “YHBT. YHL.
+`troll <./T.html#troll.html>`__, sense 1). Especially used in “YHBT. YHL.
 HAND.”, which is widely understood to expand to “You Have Been Trolled.
 You Have Lost. Have A Nice Day”. You are quite likely to see this if you
 respond incautiously to a flame-provoking post that was obviously
@@ -171,7 +171,7 @@ You are not expected to understand this
 **You are not expected to understand this**: cav.
 
 [Unix] The canonical comment describing something
-`magic <../M/magic.html>`__ or too complicated to bother explaining
+`magic <./M.html#magic.html>`__ or too complicated to bother explaining
 properly. From an infamous comment in the context-switching code of the
 V6 Unix kernel. Dennis Ritchie has `explained this in
 detail <http://cm.bell-labs.com/cm/cs/who/dmr/odd.html>`__.
@@ -186,10 +186,10 @@ You know you've been hacking too long when
 The set-up line for a genre of one-liners told by hackers about
 themselves. These include the following:
 
-*  not only do you check your email more often than your paper mail, but you remember your `network address <../N/network-address.html>`__ faster than your postal one.
+*  not only do you check your email more often than your paper mail, but you remember your `network address <./N.html#network-address.html>`__ faster than your postal one.
 
-*  your `SO <../S/SO.html>`__ kisses you on the neck and the first thing you think is “Uh, oh, `priority
-   interrupt <../P/priority-interrupt.html>`__.”
+*  your `SO <./S.html#SO.html>`__ kisses you on the neck and the first thing you think is “Uh, oh, `priority
+   interrupt <./P.html#priority-interrupt.html>`__.”
 
 *  you go to balance your checkbook and discover that you're doing it in octal.
 
@@ -274,7 +274,7 @@ Yu-Shiang Whole Fish
 The character gamma (extended SAIL ASCII 0001001), which with a loop in
 its tail looks like a little fish swimming down the page. The term is
 actually the name of a Chinese dish in which a fish is cooked whole (not
-`parsed <../P/parse.html>`__ ) and covered with Yu-Shiang (or
+`parsed <./P.html#parse.html>`__ ) and covered with Yu-Shiang (or
 Yu-Hsiang, or in modern Pinyin transliteration yuxiang) sauce. Usage:
 primarily by people on the MIT LISP Machine, which could display this
 character on the screen. Tends to elicit incredulity from people who

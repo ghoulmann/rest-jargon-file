@@ -7,14 +7,14 @@ B1FF
 
 **B1FF**: /bif/, BIFF, n.
 
-The most famous `pseudo <../P/pseudo.html>`__, and the prototypical
-`newbie <../N/newbie.html>`__. Articles from B1FF feature all
+The most famous `pseudo <./P.html#pseudo>`__, and the prototypical
+`newbie <./N.html#newbie>`__. Articles from B1FF feature all
 uppercase letters sprinkled liberally with bangs, typos, ‘cute’
 misspellings (EVRY BUDY LUVS GOOD OLD BIFF CUZ KØØL DOOD AN HE RITES
 REEL AWESUM THINGZ IN CAPITULL LETTRS LIKE THIS!!!), use (and often
-misuse) of fragments of `talk mode <../T/talk-mode.html>`__
-abbreviations, a long `sig block <../S/sig-block.html>`__ (sometimes
-even a `doubled sig <./D.html#doubled-sig.html>`__), and unbounded
+misuse) of fragments of `talk mode <./T.html#talk-mode>`__
+abbreviations, a long `sig block <./S.html#sig-block>`__ (sometimes
+even a `doubled sig <./D.html#doubled-sig>`__), and unbounded
 naivete. B1FF posts articles using his elder brother's VIC-20. B1FF's
 location is a mystery, as his articles appear to come from a variety of
 sites. However, BITNET seems to be the most frequent origin. The theory
@@ -26,7 +26,7 @@ created by Joe Talmadge <jat@cup.hp.com>, also the author of the
 infamous and much-plagiarized “Flamer's Bible”. The BIFF filter he wrote
 was later passed to Richard Sexton, who posted BIFFisms much more
 widely. Versions have since been posted for the amusement of the net at
-large. See also `Jeff K. <../J/Jeff-K-.html>`__ —ESR]
+large. See also `Jeff K. <./J.html#Jeff-K->`__ —ESR]
 
 .. index:: Jeff K., Richard Sexton, Joe Talmadge, "Flamer's Bible"
 
@@ -46,15 +46,15 @@ backbone cabal
 **backbone cabal**: n.
 
 A group of large-site administrators who pushed through the `Great
-Renaming <../G/Great-Renaming.html>`__ and reined in the chaos of
-`Usenet <../U/Usenet.html>`__ during most of the 1980s. During most of
+Renaming <./G.html#Great-Renaming>`__ and reined in the chaos of
+`Usenet <./U.html#Usenet>`__ during most of the 1980s. During most of
 its lifetime, the Cabal (as it was sometimes capitalized) steadfastly
 denied its own existence; it was almost obligatory for anyone privy to
 their secrets to respond “There is no Cabal” whenever the existence or
 activities of the group were speculated on in public.
 
 The result of this policy was an attractive aura of mystery. Even a
-decade after the cabal `mailing list <../M/mailing-list.html>`__
+decade after the cabal `mailing list <./M.html#mailing-list>`__
 disbanded in late 1988 following a bitter internal catfight, many people
 believed (or claimed to believe) that it had not actually disbanded but
 only gone deeper underground with its power intact.
@@ -63,13 +63,13 @@ This belief became a model for various paranoid theories about various
 Cabals with dark nefarious objectives beginning with taking over the
 Usenet or Internet. These paranoias were later satirized in ways that
 took on a life of their own. See `Eric
-Conspiracy <../E/Eric-Conspiracy.html>`__ for one example. Part of the
+Conspiracy <./E.html#Eric-Conspiracy>`__ for one example. Part of the
 background for this kind of humor is that many hackers cultivate a
 fondness for conspiracy theory considered as a kind of surrealist art;
 see the bibliography entry om *Illuminatus!* for the novel that launched
 this trend.
 
-See `NANA <../N/NANA.html>`__ for the subsequent history of “the
+See `NANA <./N.html#NANA>`__ for the subsequent history of “the
 Cabal”.
 
 
@@ -84,9 +84,9 @@ regional coordinators for the Usenet maps. Notable backbone sites as of
 early 1993, when this sense of the term was beginning to pass out of
 general use due to wide availability of cheap Internet connections,
 included "uunet" and the mail machines at Rutgers University, UC
-Berkeley, `DEC <../D/DEC.html>`__'s Western Research Laboratories,
+Berkeley, `DEC <./D.html#DEC>`__'s Western Research Laboratories,
 Ohio State University, and the University of Texas. Compare `leaf
-site <./L.html#leaf-site.html>`__.
+site <./L.html#leaf-site>`__.
 
 [2001 update: This term has passed into history. The UUCP network world
 that gave it meaning is gone; everyone is on the Internet now and
@@ -105,9 +105,9 @@ by designers or maintainers. The motivation for such holes is not always
 sinister; some operating systems, for example, come out of the box with
 privileged accounts intended for use by field service technicians or the
 vendor's maintenance programmers. Syn. `trap
-door <../T/trap-door.html>`__; may also be called a wormhole. See also
-`iron box <./I.html#iron-box.html>`__, `cracker <./C.html#cracker.html>`__,
-`worm <../W/worm.html>`__, `logic bomb <./L.html#logic-bomb.html>`__.
+door <./T.html#trap-door>`__; may also be called a wormhole. See also
+`iron box <./I.html#iron-box>`__, `cracker <./C.html#cracker>`__,
+`worm <./W.html#worm>`__, `logic bomb <./L.html#logic-bomb>`__.
 
 Historically, back doors have often lurked in systems longer than anyone
 expected or planned, and a few have become widely known. Ken Thompson's
@@ -149,8 +149,8 @@ backgammon
 
 **backgammon**
 
-See `bignum <bignum.html>`__ (sense 3), `moby <../M/moby.html>`__
-(sense 4), and `pseudoprime <../P/pseudoprime.html>`__.
+See `bignum <#bignum>`__ (sense 3), `moby <./M.html#moby>`__
+(sense 4), and `pseudoprime <./P.html#pseudoprime>`__.
 
 
 
@@ -160,7 +160,7 @@ background
 **background**: n.,adj.,vt.
 
 [common] To do a task in background is to do it whenever
-`foreground <./F.html#foreground.html>`__ matters are not claiming your
+`foreground <./F.html#foreground>`__ matters are not claiming your
 undivided attention, and to background something means to relegate it to
 a lower priority. “For now, we'll just print a list of nodes and links;
 I'm working on the graph-printing problem in background.” Note that this
@@ -169,13 +169,13 @@ contrast to mainstream ‘back burner’ (which connotes benign neglect
 until some future resumption of activity). Some people prefer to use the
 term for processing that they have queued up for their unconscious minds
 (a tack that one can often fruitfully take upon encountering an obstacle
-in creative work). Compare `amp off <./A.html#amp-off.html>`__,
-`slopsucker <../S/slopsucker.html>`__.
+in creative work). Compare `amp off <./A.html#amp-off>`__,
+`slopsucker <./S.html#slopsucker>`__.
 
 Technically, a task running in background is detached from the terminal
 where it was started (and often running at a lower priority); oppose
-`foreground <./F.html#foreground.html>`__. Nowadays this term is primarily
-associated with `Unix <../U/Unix.html>`__, but it appears to have been
+`foreground <./F.html#foreground>`__. Nowadays this term is primarily
+associated with `Unix <./U.html#Unix>`__, but it appears to have been
 first used in this sense on OS/360.
 
 
@@ -203,10 +203,10 @@ backronym
 [portmanteau of back + acronym] A word interpreted as an acronym that
 was not originally so intended. This is a special case of what linguists
 call back formation. Examples are given under `recursive
-acronym <../R/recursive-acronym.html>`__ (Cygnus),
-`Acme <../A/Acme.html>`__, and `mung <../M/mung.html>`__.
+acronym <./R.html#recursive-acronym>`__ (Cygnus),
+`Acme <./A.html#Acme>`__, and `mung <./M.html#mung>`__.
 Discovering backronyms is a common form of wordplay among hackers.
-Compare `retcon <../R/retcon.html>`__.
+Compare `retcon <./R.html#retcon>`__.
 
 
 backward combatability
@@ -225,8 +225,8 @@ a simple “version mismatch” message.) A backwards compatible change, on
 the other hand, allows old versions to coexist without crashes or error
 messages, but too many major changes incorporating elaborate backwards
 compatibility processing can lead to extreme `software
-bloat <../S/software-bloat.html>`__. See also `flag
-day <./F.html#flag-day.html>`__.
+bloat <./S.html#software-bloat>`__. See also `flag
+day <./F.html#flag-day>`__.
 
 Bad and Wrong
 ===============
@@ -244,8 +244,8 @@ also in use at Oxford, and the emphatic form “Evil and Bad and Wrong”
 abbreviations: they start with B&R, a typo for “Bad and Wrong”.
 Consequently, B&W is actually “Bad and Right”, G&R = “Good and Wrong”,
 and G&W = “Good and Right”. Compare `evil and
-rude <./E.html#evil-and-rude.html>`__, `Good
-Thing <../G/Good-Thing.html>`__, `Bad Thing <Bad-Thing.html>`__.
+rude <./E.html#evil-and-rude>`__, `Good
+Thing <./G.html#Good-Thing>`__, `Bad Thing <#Bad-Thing>`__.
 
 
 BAD
@@ -254,9 +254,9 @@ BAD
 **BAD**: /B·A·D/, adj.
 
 [IBM: acronym, “Broken As Designed”] Said of a program that is
-`bogus <bogus.html>`__ because of bad design and misfeatures rather
+`bogus <#bogus>`__ because of bad design and misfeatures rather
 than because of bugginess. See `working as
-designed <../W/working-as-designed.html>`__.
+designed <./W.html#working-as-designed>`__.
 
 
 
@@ -270,16 +270,16 @@ Sellar & Yeatman parody of British history *1066 And All That*, but
 well-established among hackers in the U.S. as well.] Something that
 can't possibly result in improvement of the subject. This term is always
 capitalized, as in “Replacing all of the DSL links with bicycle couriers
-would be a Bad Thing”. Oppose `Good Thing <../G/Good-Thing.html>`__.
-British correspondents confirm that `Bad Thing <Bad-Thing.html>`__ and
-`Good Thing <../G/Good-Thing.html>`__ (and prob. therefore `Right
-Thing <../R/Right-Thing.html>`__ and `Wrong
-Thing <../W/Wrong-Thing.html>`__) come from the book referenced in the
+would be a Bad Thing”. Oppose `Good Thing <./G.html#Good-Thing>`__.
+British correspondents confirm that `Bad Thing <#Bad-Thing>`__ and
+`Good Thing <./G.html#Good-Thing>`__ (and prob. therefore `Right
+Thing <./R.html#Right-Thing>`__ and `Wrong
+Thing <./W.html#Wrong-Thing>`__) come from the book referenced in the
 etymology, which discusses rulers who were Good Kings but Bad Things.
 This has apparently created a mainstream idiom on the British side of
 the pond. It is very common among American hackers, but not in
 mainstream usage in the U.S. Compare `Bad and
-Wrong <Bad-and-Wrong.html>`__.
+Wrong <Bad-and-Wrong>`__.
 
 
 
@@ -294,8 +294,8 @@ a file with a line longer than 80 characters! What a bagbiter!”
 
 2. A person who has caused you some trouble, inadvertently or otherwise,
 typically by failing to program the computer properly. Synonyms:
-`loser <./L.html#loser.html>`__, `cretin <./C.html#cretin.html>`__,
-`chomper <./C.html#chomper.html>`__.
+`loser <./L.html#loser>`__, `cretin <./C.html#cretin>`__,
+`chomper <./C.html#chomper>`__.
 
 3. bite the bag vi. To fail in some manner. “The computer keeps crashing
 every five minutes.” “Yes, the disk controller is really biting the
@@ -314,13 +314,13 @@ bagbiting
 
 **bagbiting**: adj.
 
-[MIT; now rare] Having the quality of a `bagbiter <bagbiter.html>`__.
+[MIT; now rare] Having the quality of a `bagbiter <#bagbiter>`__.
 “This bagbiting system won't let me compute the factorial of a negative
-number.” Compare `losing <./L.html#losing.html>`__,
-`cretinous <./C.html#cretinous.html>`__,
-`bletcherous <bletcherous.html>`__, barfucious (under
-`barfulous <barfulous.html>`__) and chomping (under
-`chomp <./C.html#chomp.html>`__).
+number.” Compare `losing <./L.html#losing>`__,
+`cretinous <./C.html#cretinous>`__,
+`bletcherous <bletcherous>`__, barfucious (under
+`barfulous <barfulous>`__) and chomping (under
+`chomp <./C.html#chomp>`__).
 
 
 
@@ -338,7 +338,7 @@ pantsing is highly mocking and humorous. It is considered bad form to
 post a baggy pantsing to off-campus newsgroups or the more technical,
 serious groups. A particularly nice baggy pantsing may be “claimed” by
 immediately quoting the message in full, followed by your `sig
-block <../S/sig-block.html>`__; this has the added benefit of keeping
+block <./S.html#sig-block>`__; this has the added benefit of keeping
 the embarassed victim from being able to delete the post. Interesting
 baggy-pantsings have been done involving adding commands to login
 scripts to repost the message every time the unlucky user logs in; Unix
@@ -347,7 +347,7 @@ homepages replaced (after being politely backed-up to another file) with
 a baggy-pants message; .plan files are also occasionally targeted.
 Usage: “Prof. Greenlee fell asleep in the Solaris cluster again; we
 baggy-pantsed him to "git.cc.class.2430.flame".” Compare
-`derf <./D.html#derf.html>`__.
+`derf <./D.html#derf>`__.
 
 
 bag on the side
@@ -376,7 +376,7 @@ must nevertheless be declared, checked, or set. A typical balloonian
 variable started out as a flag attached to some environment feature that
 either became obsolete or was planned but never implemented.
 Compatibility concerns (or politics attached to same) may require that
-such a flag be treated as though it were `live <./L.html#live.html>`__.
+such a flag be treated as though it were `live <./L.html#live>`__.
 
 
 
@@ -387,12 +387,12 @@ bamf
 
 1. [from X-Men comics; originally “bampf”] interj. Notional sound made
 by a person or object teleporting in or out of the hearer's vicinity.
-Often used in `virtual reality <../V/virtual-reality.html>`__ (esp.
-`MUD <../M/MUD.html>`__) electronic `fora <./F.html#fora.html>`__ when a
+Often used in `virtual reality <./V.html#virtual-reality>`__ (esp.
+`MUD <./M.html#MUD>`__) electronic `fora <./F.html#fora>`__ when a
 character wishes to make a dramatic entrance or exit.
 
 2. The sound of magical transformation, used in virtual reality
-`fora <./F.html#fora.html>`__ like MUDs.
+`fora <./F.html#fora>`__ like MUDs.
 
 3. In MUD circles, “bamf” is also used to refer to the act by which a
 MUD server sends a special notification to the MUD client to switch its
@@ -413,15 +413,15 @@ banana problem
 [from the story of the little girl who said “I know how to spell
 ‘banana’, but I don't know when to stop”]. Not knowing where or when to
 bring a production to a close (compare `fencepost
-error <./F.html#fencepost-error.html>`__). One may say there is a banana
+error <./F.html#fencepost-error>`__). One may say there is a banana
 problem of an algorithm with poorly defined or incorrect termination
 conditions, or in discussing the evolution of a design that may be
 succumbing to featuritis (see also `creeping
-elegance <./C.html#creeping-elegance.html>`__, `creeping
-featuritis <./C.html#creeping-featuritis.html>`__). See item 176 under
-`HAKMEM <../H/HAKMEM.html>`__, which describes a banana problem in a
-`Dissociated Press <../D/Dissociated-Press.html>`__ implementation.
-Also, see `one-banana problem <../O/one-banana-problem.html>`__ for a
+elegance <./C.html#creeping-elegance>`__, `creeping
+featuritis <./C.html#creeping-featuritis>`__). See item 176 under
+`HAKMEM <./H.html#HAKMEM>`__, which describes a banana problem in a
+`Dissociated Press <./D.html#Dissociated-Press>`__ implementation.
+Also, see `one-banana problem <./O.html#one-banana-problem>`__ for a
 superficially similar but unrelated usage.
 
 bandwidth
@@ -433,13 +433,13 @@ bandwidth
 meaning) as the volume of information per unit time that a computer,
 person, or transmission medium can handle. “Those are amazing graphics,
 but I missed some of the detail — not enough bandwidth, I guess.”
-Compare `low-bandwidth <./L.html#low-bandwidth.html>`__; see also
-`brainwidth <brainwidth.html>`__. This generalized usage began to go
+Compare `low-bandwidth <./L.html#low-bandwidth>`__; see also
+`brainwidth <#brainwidth>`__. This generalized usage began to go
 mainstream after the Internet population explosion of 1993-1994.
 
 2. Attention span.
 
-3. On `Usenet <../U/Usenet.html>`__, a measure of network capacity
+3. On `Usenet <./U.html#Usenet>`__, a measure of network capacity
 that is often wasted by people complaining about how items posted by
 others are a waste of bandwidth.
 
@@ -450,22 +450,22 @@ bang
 **bang**
 
 1. n. Common spoken name for "!" (ASCII 0100001), especially when used
-in pronouncing a `bang path <bang-path.html>`__ in spoken hackish. In
-`elder days <./E.html#elder-days.html>`__ this was considered a CMUish
+in pronouncing a `bang path <#bang-path>`__ in spoken hackish. In
+`elder days <./E.html#elder-days>`__ this was considered a CMUish
 usage, with MIT and Stanford hackers preferring
-`excl <./E.html#excl.html>`__ or `shriek <../S/shriek.html>`__; but the
+`excl <./E.html#excl>`__ or `shriek <./S.html#shriek>`__; but the
 spread of Unix has carried ‘bang’ with it (esp. via the term `bang
-path <bang-path.html>`__) and it is now certainly the most common
+path <#bang-path>`__) and it is now certainly the most common
 spoken name for "!". Note that it is used exclusively for non-emphatic
 written "!"; one would not say “Congratulations bang” (except possibly
 for humorous purposes), but if one wanted to specify the exact
 characters “foo!” one would speak “Eff oh oh bang”. See
-`shriek <../S/shriek.html>`__, `ASCII <../A/ASCII.html>`__.
+`shriek <./S.html#shriek>`__, `ASCII <./A.html#ASCII>`__.
 
 2. interj. An exclamation signifying roughly “I have achieved
 enlightenment!”, or “The dynamite has cleared out my brain!” Often used
 to acknowledge that one has perpetrated a
-`thinko <../T/thinko.html>`__ immediately after one has been called on
+`thinko <./T.html#thinko>`__ immediately after one has been called on
 it.
 
 
@@ -478,7 +478,7 @@ bang on
 To stress-test a piece of hardware or software: “I banged on the new
 version of the simulator all day yesterday and it didn't crash once. I
 guess it is ready for release.” The term `pound
-on <../P/pound-on.html>`__ is synonymous.
+on <./P.html#pound-on>`__ is synonymous.
 
 
 
@@ -489,8 +489,8 @@ bang path
 
 [now historical] An old-style UUCP electronic-mail address specifying
 hops to get from some assumed-reachable location to the addressee, so
-called because each `hop <./H.html#hop.html>`__ is signified by a
-`bang <bang.html>`__ sign. Thus, for example, the path
+called because each `hop <./H.html#hop>`__ is signified by a
+`bang <#bang>`__ sign. Thus, for example, the path
 "...!bigsite!foovax!barbox!me" directs people to route their mail to
 machine "bigsite" (presumably a well-known location accessible to
 everybody) and from there through the machine "foovax" to the account
@@ -498,15 +498,15 @@ of user "me" on "barbox".
 
 In the bad old days of not so long ago, before autorouting mailers and
 Internet became commonplace, people often published compound bang
-addresses using the { } convention (see `glob <./G.html#glob.html>`__) to
+addresses using the { } convention (see `glob <./G.html#glob>`__) to
 give paths from *several* big machines, in the hopes that one's
 correspondent might be able to get mail to one of them reliably
 (example: "...!{seismo, ut-sally,    ihnp4"!rice!beta!gamma!me}). Bang
 paths of 8 to 10 hops were not uncommon. Late-night dial-up UUCP links
 would cause week-long transmission times. Bang paths were often selected
 by both transmission time and reliability, as messages would not
-infrequently get lost. See `the network <../T/the-network.html>`__ and
-`sitename <../S/sitename.html>`__.
+infrequently get lost. See `the network <./T.html#the-network>`__ and
+`sitename <./S.html#sitename>`__.
 
 
 banner ad
@@ -525,14 +525,14 @@ banner
 **banner**: n.
 
 1. A top-centered graphic on a web page. Esp. used in `banner
-ad <banner-ad.html>`__.
+ad <banner-ad>`__.
 
 2. On interactive software, a first screen containing a logo and/or
 author credits and/or a copyright notice. Similar to `splash
-screen <../S/splash-screen.html>`__.
+screen <./S.html#splash-screen>`__.
 
 3. The title page added to printouts by most print spoolers (see
-`spool <../S/spool.html>`__). Typically includes user or account ID
+`spool <./S.html#spool>`__). Typically includes user or account ID
 information in very large character-graphics capitals. Also called a
 burst page, because it indicates where to burst (tear apart) fanfold
 paper to separate one user's printout from the next.
@@ -554,8 +554,8 @@ usually generating some form of revenues for the site owner, to be able
 to access the site. More often than not, the username/password painfully
 obtained by clicking on banners and subscribing to bogus services or
 mailing lists turns out to be non-working or gives access to a site that
-always responds busy. See `ratio site <../R/ratio-site.html>`__,
-`leech mode <./L.html#leech-mode.html>`__.
+always responds busy. See `ratio site <./R.html#ratio-site>`__,
+`leech mode <./L.html#leech-mode>`__.
 
 bare metal
 =============
@@ -564,10 +564,10 @@ bare metal
 **bare metal**: n.
 
 1. [common] New computer hardware, unadorned with such snares and
-delusions as an `operating system <../O/operating-system.html>`__, an
-`HLL <../H/HLL.html>`__, or even assembler. Commonly used in the
+delusions as an `operating system <./O.html#operating-system>`__, an
+`HLL <./H.html#HLL>`__, or even assembler. Commonly used in the
 phrase programming on the bare metal, which refers to the arduous work
-of `bit bashing <bit-bashing.html>`__ needed to create these basic
+of `bit bashing <bit-bashing>`__ needed to create these basic
 tools for a new machine. Real bare-metal programming involves things
 like building boot proms and BIOS chips, implementing basic monitors
 used to test device drivers, and writing the assemblers that will be
@@ -575,7 +575,7 @@ used to write the compiler back ends that will give the new machine a
 real development environment.
 
 2. “Programming on the bare metal” is also used to describe a style of
-`hand-hacking <./H.html#hand-hacking.html>`__ that relies on bit-level
+`hand-hacking <./H.html#hand-hacking>`__ that relies on bit-level
 peculiarities of a particular hardware design, esp. tricks for speed and
 space optimization that rely on crocks such as overlapping instructions
 (or, as in the famous case described in `The Story of
@@ -584,7 +584,7 @@ on a magnetic drum to minimize fetch delays due to the device's
 rotational latency). This sort of thing has become rare as the relative
 costs of programming time and machine resources have changed, but is
 still found in heavily constrained environments such as industrial
-embedded systems. See `Real Programmer <../R/Real-Programmer.html>`__.
+embedded systems. See `Real Programmer <./R.html#Real-Programmer>`__.
 
 
 barf
@@ -596,7 +596,7 @@ barf
 
 1. interj. Term of disgust. This is the closest hackish equivalent of
 the Valspeak “gag me with a spoon”. (Like, euwww!) See
-`bletch <bletch.html>`__.
+`bletch <#bletch>`__.
 
 2. vi. To say “Barf!” or emit some similar expression of disgust. “I
 showed him my latest hack and he barfed” means only that he complained
@@ -610,11 +610,11 @@ causes the operation to fail in some unspecified, but generally obvious,
 manner.) “The text editor barfs if you try to read in a new file before
 writing out the old one.”
 
-See `choke <./C.html#choke.html>`__. In Commonwealth Hackish, barf is
-generally replaced by ‘puke’ or ‘vom’. `barf <barf.html>`__ is
+See `choke <./C.html#choke>`__. In Commonwealth Hackish, barf is
+generally replaced by ‘puke’ or ‘vom’. `barf <#barf>`__ is
 sometimes also used as a `metasyntactic
-variable <../M/metasyntactic-variable.html>`__, like
-`foo <./F.html#foo.html>`__ or `bar <bar.html>`__.
+variable <./M.html#metasyntactic-variable>`__, like
+`foo <./F.html#foo>`__ or `bar <#bar>`__.
 
 
 barfmail
@@ -622,7 +622,7 @@ barfmail
 
 **barfmail**: n.
 
-Multiple `bounce message <bounce-message.html>`__\ s accumulating to
+Multiple `bounce message <#bounce-message>`__\ s accumulating to
 the level of serious annoyance, or worse. The sort of thing that happens
 when an inter-network mail gateway goes down or wonky.
 
@@ -633,7 +633,7 @@ barfulation
 
 **barfulation**: /bar\`fyoo·lay´sh@n/, interj.
 
-Variation of `barf <barf.html>`__ used around the Stanford area. An
+Variation of `barf <#barf>`__ used around the Stanford area. An
 exclamation, expressing disgust. On seeing some particularly bad code
 one might exclaim, “Barfulation! Who wrote this, Quux?”
 
@@ -655,12 +655,12 @@ bar
 **bar**: /bar/, n.
 
 1. [very common] The second `metasyntactic
-variable <../M/metasyntactic-variable.html>`__, after
-`foo <./F.html#foo.html>`__ and before `baz <baz.html>`__. “Suppose we
+variable <./M.html#metasyntactic-variable>`__, after
+`foo <./F.html#foo>`__ and before `baz <#baz>`__. “Suppose we
 have two functions: FOO and BAR. FOO calls BAR....”
 
-2. Often appended to `foo <./F.html#foo.html>`__ to produce
-`foobar <./F.html#foobar.html>`__.
+2. Often appended to `foo <./F.html#foo>`__ to produce
+`foobar <./F.html#foobar>`__.
 
 
 
@@ -669,8 +669,8 @@ barney
 
 **barney**: n.
 
-In Commonwealth hackish, barney is to `fred <./F.html#fred.html>`__ (sense
-#1) as `bar <bar.html>`__ is to `foo <./F.html#foo.html>`__. That is,
+In Commonwealth hackish, barney is to `fred <./F.html#fred>`__ (sense
+#1) as `bar <#bar>`__ is to `foo <./F.html#foo>`__. That is,
 people who commonly use fred as their first metasyntactic variable will
 often use barney second. The reference is, of course, to Fred Flintstone
 and Barney Rubble in the Flintstones cartoons.
@@ -701,13 +701,13 @@ baroque
 
 [common] Feature-encrusted; complex; gaudy; verging on excessive. Said
 of hardware or (esp.) software designs, this has many of the
-connotations of `elephantine <./E.html#elephantine.html>`__ or
-`monstrosity <../M/monstrosity.html>`__ but is less extreme and not
+connotations of `elephantine <./E.html#elephantine>`__ or
+`monstrosity <./M.html#monstrosity>`__ but is less extreme and not
 pejorative in itself. In the absence of other, more negative
 descriptions this term suggests that the software is trembling on the
 edge of bad taste but has not quite tipped over into it. “Metafont even
 has features to introduce random variations to its letterform output.
-Now *that* is baroque!” See also `rococo <../R/rococo.html>`__.
+Now *that* is baroque!” See also `rococo <./R.html#rococo>`__.
 
 
 BASIC
@@ -722,8 +722,8 @@ observed in *Selected Writings on Computing: A Personal Perspective*
 that “It is practically impossible to teach good programming style to
 students that have had prior exposure to BASIC: as potential programmers
 they are mentally mutilated beyond hope of regeneration.” This is
-another case (like `Pascal <../P/Pascal.html>`__) of the cascading
-`lossage <./L.html#lossage.html>`__ that happens when a language
+another case (like `Pascal <./P.html#Pascal>`__) of the cascading
+`lossage <./L.html#lossage>`__ that happens when a language
 deliberately designed as an educational toy gets taken too seriously. A
 novice can write short BASIC programs (on the order of 10-20 lines) very
 easily; writing anything longer (a) is very painful, and (b) encourages
@@ -738,7 +738,7 @@ shed their line numbers. —ESR]
 
 BASIC stands for “Beginner's All-purpose Symbolic Instruction Code”.
 Earlier versions of this entry claiming this was a later
-`backronym <backronym.html>`__ were incorrect.
+`backronym <#backronym>`__ were incorrect.
 
 
 
@@ -794,8 +794,8 @@ Common term for the curve (resembling an end-to-end section of one of
 those claw-footed antique bathtubs) that describes the expected failure
 rate of electronics with time: initially high, dropping to near 0 for
 most of the system's lifetime, then rising again as it ‘tires out’. See
-also `burn-in period <burn-in-period.html>`__, `infant
-mortality <./I.html#infant-mortality.html>`__.
+also `burn-in period <#burn-in-period>`__, `infant
+mortality <./I.html#infant-mortality>`__.
 
 
 Batman factor
@@ -805,7 +805,7 @@ Batman factor
 **Batman factor**: n.
 
 1. An integer number representing the number of items hanging from a
-`batbelt <batbelt.html>`__. In most settings, a Batman factor of more
+`batbelt <#batbelt>`__. In most settings, a Batman factor of more
 than 3 is not acceptable without odd stares and whispering. This
 encourages the hacker in question to choose items for the batbelt
 carefully to avoid awkward social situations, usually amongst
@@ -846,20 +846,20 @@ bazaar
 **bazaar**: n.,adj.
 
 In 1997, after meditating on the success of
-`Linux <../L/Linux.html>`__ for three years, the Jargon File's own
+`Linux <./L.html#Linux>`__ for three years, the Jargon File's own
 editor ESR wrote an analytical paper on hacker culture and development
 models titled `The Cathedral and the
 Bazaar <http://www.catb.org/~esr/writings/cathedral-bazaar/>`__. The
 main argument of the paper was that `Brooks's
-Law <Brookss-Law.html>`__ is not the whole story; given the right
+Law <#Brookss-Law>`__ is not the whole story; given the right
 social machinery, debugging can be efficiently parallelized across large
 numbers of programmers. The title metaphor caught on (see also
-`cathedral <./C.html#cathedral.html>`__), and the style of development
+`cathedral <./C.html#cathedral>`__), and the style of development
 typical in the Linux community is now often referred to as the bazaar
 mode. Its characteristics include releasing code early and often, and
 actively seeking the largest possible pool of peer reviewers. After
 1998, the evident success of this way of doing things became one of the
-strongest arguments for `open source <../O/open-source.html>`__.
+strongest arguments for `open source <./O.html#open-source>`__.
 
 
 baz
@@ -868,20 +868,20 @@ baz
 **baz**: /baz/, n.
 
 1. [common] The third `metasyntactic
-variable <../M/metasyntactic-variable.html>`__ “Suppose we have three
+variable <./M.html#metasyntactic-variable>`__ “Suppose we have three
 functions: FOO, BAR, and BAZ. FOO calls BAR, which calls BAZ....” (See
-also `fum <./F.html#fum.html>`__)
+also `fum <./F.html#fum>`__)
 
 2. interj. A term of mild annoyance. In this usage the term is often
 drawn out for 2 or 3 seconds, producing an effect not unlike the
 bleating of a sheep; /baaaaaaz/.
 
-3. Occasionally appended to `foo <./F.html#foo.html>`__ to produce
+3. Occasionally appended to `foo <./F.html#foo>`__ to produce
 ‘foobaz’.
 
 Earlier versions of this lexicon derived baz as a Stanford corruption of
-`bar <bar.html>`__. However, Pete Samson (compiler of the
-`TMRC <../T/TMRC.html>`__ lexicon) reports it was already current when
+`bar <#bar>`__. However, Pete Samson (compiler of the
+`TMRC <./T.html#TMRC>`__ lexicon) reports it was already current when
 he joined TMRC in 1958. He says “It came from *Pogo*. Albert the
 Alligator, when vexed or outraged, would shout ‘Bazz Fazz!’ or
 ‘Rowrbazzle!’ The club layout was said to model the (mythical) New
@@ -896,11 +896,11 @@ bboard
 
 [contraction of ‘bulletin board’]
 
-1. Any electronic bulletin board; esp. used of `BBS <BBS.html>`__
+1. Any electronic bulletin board; esp. used of `BBS <#BBS>`__
 systems running on personal micros, less frequently of a Usenet
-`newsgroup <../N/newsgroup.html>`__ (in fact, use of this term for a
+`newsgroup <./N.html#newsgroup>`__ (in fact, use of this term for a
 newsgroup generally marks one either as a
-`newbie <../N/newbie.html>`__ fresh in from the BBS world or as a real
+`newbie <./N.html#newbie>`__ fresh in from the BBS world or as a real
 old-timer predating Usenet).
 
 2. At CMU and other colleges with similar facilities, refers to
@@ -924,7 +924,7 @@ BBS
 [common; abbreviation, “Bulletin Board System”] An electronic bulletin
 board system; that is, a message database where people can log in and
 leave broadcast messages for others grouped (typically) into `topic
-group <../T/topic-group.html>`__\ s. The term was especially applied to
+group <./T.html#topic-group>`__\ s. The term was especially applied to
 the thousands of local BBS systems that operated during the pre-Internet
 microcomputer era of roughly 1980 to 1995, typically run by amateurs for
 fun out of their homes on MS-DOS boxes with a single modem line each.
@@ -935,7 +935,7 @@ knitting together lots of hackers and users in the personal-micro world
 who would otherwise have been unable to exchange code at all.
 Post-Internet, BBSs are likely to be local newsgroups on an ISP;
 efficiency has increased but a certain flavor has been lost. See also
-`bboard <bboard.html>`__.
+`bboard <b#board>`__.
 
 BCPL
 ==============
@@ -947,7 +947,7 @@ language developed by Martin Richards in Cambridge in 1967. It is
 remarkable for its rich syntax, small size of compiler (it can be run in
 16k) and extreme portability. It reached break-even point at a very
 early stage, and was the language in which the original `hello
-world <./H.html#hello-world.html>`__ program was written. It has been
+world <./H.html#hello-world>`__ program was written. It has been
 ported to so many different systems that its creator confesses to having
 lost count. It has only one data type (a machine word) which can be used
 as an integer, a character, a floating point number, a pointer, or
@@ -961,8 +961,8 @@ BDFL
 **BDFL**
 
 [Python; common] Benevolent Dictator For Life.
-`Guido <../G/Guido.html>`__, considered in his role as the project
-leader of `Python <../P/Python.html>`__. People who are feeling
+`Guido <./G.html#Guido>`__, considered in his role as the project
+leader of `Python <./P.html#Python>`__. People who are feeling
 temporarily cheesed off by one of his decisions sometimes leave off the
 B. The mental image that goes with this, of a cigar-chomping caudillo in
 gold braid and sunglasses, is extremely funny to anyone who has ever met
@@ -976,15 +976,15 @@ beam
 
 [from Star Trek Classic's “Beam me up, Scotty!”]
 
-1. To transfer `softcopy <../S/softcopy.html>`__ of a file
+1. To transfer `softcopy <./S.html#softcopy>`__ of a file
 electronically; most often in combining forms such as beam me a copy or
 beam that over to his site.
 
 2. Palm Pilot users very commonly use this term for the act of
 exchanging bits via the infrared links on their machines (this term
 seems to have originated with the ill-fated Newton Message Pad). Compare
-`blast <blast.html>`__, `snarf <../S/snarf.html>`__,
-`BLT <BLT.html>`__.
+`blast <#blast>`__, `snarf <./S.html#snarf>`__,
+`BLT <#BLT>`__.
 
 
 
@@ -993,7 +993,7 @@ beanie key
 
 **beanie key**: n.
 
-[Mac users] See `command key <./C.html#command-key.html>`__.
+[Mac users] See `command key <./C.html#command-key>`__.
 
 
 beep
@@ -1001,7 +1001,7 @@ beep
 
 **beep**: n.,v.
 
-Syn. `feep <./F.html#feep.html>`__. This term is techspeak under
+Syn. `feep <./F.html#feep>`__. This term is techspeak under
 MS-DOS/Windows and OS/2, and seems to be generally preferred among micro
 hobbyists.
 
@@ -1012,7 +1012,7 @@ Befunge
 
 **Befunge**: n.
 
-A worthy companion to `INTERCAL <../I/INTERCAL.html>`__; a computer
+A worthy companion to `INTERCAL <./I.html#INTERCAL>`__; a computer
 language family which escapes the quotidian limitation of linear control
 flow and embraces program counters flying through multiple dimensions
 with exotic topologies. The Befunge home page is at
@@ -1026,9 +1026,9 @@ beige toaster
 **beige toaster**: n.
 
 [obs.] An original Macintosh in the boxy beige case. See
-`toaster <../T/toaster.html>`__; compare
-`Macintrash <../M/Macintrash.html>`__,
-`maggotbox <../M/maggotbox.html>`__.
+`toaster <./T.html#toaster>`__; compare
+`Macintrash <./M.html#Macintrash>`__,
+`maggotbox <./M.html#maggotbox>`__.
 
 
 
@@ -1038,9 +1038,9 @@ bells and whistles
 **bells and whistles**: n.
 
 [common] Features added to a program or system to make it more
-`flavorful <./F.html#flavorful.html>`__ from a hacker's point of view,
+`flavorful <./F.html#flavorful>`__ from a hacker's point of view,
 without necessarily adding to its utility for its primary function.
-Distinguished from `chrome <./C.html#chrome.html>`__, which is intended to
+Distinguished from `chrome <./C.html#chrome>`__, which is intended to
 attract users. “Now that we've got the basic program working, let's go
 back and add some bells and whistles.” No one seems to know what
 distinguishes a bell from a whistle. The recognized emphatic form is
@@ -1055,7 +1055,7 @@ voice can carry.
 .. image:: ../_static/73-05-28.png
 
 Sometimes ‘trouble’ is spelled `bells and
-whistles <bells-and-whistles.html>`__...
+whistles <#bells-and-whistles>`__...
 
 (The next cartoon in the Crunchly saga is
 `73-06-04 <./G.html#glitch.html#crunchly73-06-04>`__. The previous one is
@@ -1070,7 +1070,7 @@ bells whistles and gongs
 **bells whistles and gongs**: n.
 
 A standard elaborated form of `bells and
-whistles <bells-and-whistles.html>`__; typically said with a pronounced
+whistles <#bells-and-whistles>`__; typically said with a pronounced
 and ironic accent on the ‘gongs’.
 
 
@@ -1083,10 +1083,10 @@ benchmark
 [techspeak] An inaccurate measure of computer performance. “In the
 computer industry, there are three kinds of lies: lies, damn lies, and
 benchmarks.” Well-known ones include Whetstone, Dhrystone, Rhealstone
-(see `h <./H.html#h.html>`__), the Gabriel LISP benchmarks, the SPECmark
-suite, and LINPACK. See also `machoflops <../M/machoflops.html>`__,
-`MIPS <../M/MIPS.html>`__, `smoke and
-mirrors <../S/smoke-and-mirrors.html>`__.
+(see `h <./H.html#h>`__), the Gabriel LISP benchmarks, the SPECmark
+suite, and LINPACK. See also `machoflops <./M.html#machoflops>`__,
+`MIPS <./M.html#MIPS>`__, `smoke and
+mirrors <./S.html#smoke-and-mirrors>`__.
 
 
 
@@ -1101,7 +1101,7 @@ at night to solve some unique problem. It usually has nonexistent,
 incomplete, or incorrect documentation, has been tested on at least two
 examples, and core dumps when anyone else attempts to use it. This term
 was frequently applied to early versions of the dbx(1) debugger. See
-also `Berzerkeley <Berzerkeley.html>`__.
+also `Berzerkeley <#Berzerkeley>`__.
 
 Note to British and Commonwealth readers: that's /berk´lee/, not
 /bark´lee/ as in British Received Pronunciation.
@@ -1116,9 +1116,9 @@ Berzerkeley
 [from ‘berserk’, via the name of a now-deceased record label; poss.
 originated by famed columnist Herb Caen] Humorous distortion of
 “Berkeley” used esp. to refer to the practices or products of the
-`BSD <BSD.html>`__ Unix hackers. See `software
-bloat <../S/software-bloat.html>`__, `Berkeley Quality
-Software <Berkeley-Quality-Software.html>`__.
+`BSD <#BSD>`__ Unix hackers. See `software
+bloat <./S.html#software-bloat>`__, `Berkeley Quality
+Software <#Berkeley-Quality-Software>`__.
 
 Mainstream use of this term in reference to the cultural and political
 peculiarities of UC Berkeley as a whole has been reported from as far
@@ -1131,7 +1131,7 @@ beta
 **beta**: /bay´t@/, /be´t@/, /bee´t@/, n.
 
 1. Mostly working, but still under test; usu. used with “in”: in beta.
-In the `Real World <../R/Real-World.html>`__, hardware or software
+In the `Real World <./R.html#Real-World>`__, hardware or software
 systems often go through two stages of release testing: Alpha (in-house)
 and Beta (out-house?). Beta releases are generally made to a group of
 lucky (or unlucky) trusted customers.
@@ -1162,7 +1162,7 @@ BFI
 
 **BFI**: /B·F·I/, n.
 
-See `brute force and ignorance <brute-force-and-ignorance.html>`__.
+See `brute force and ignorance <#brute-force-and-ignorance>`__.
 Also encountered in the variants BFMI, “brute force and *massive*
 ignorance” and BFBI “brute force and bloody ignorance”. In some parts of
 the U.S. this abbreviation was probably reinforced by a company called
@@ -1176,8 +1176,8 @@ bible
 **bible**: n.
 
 1. One of a small number of fundamental source books such as
-`Knuth <../K/Knuth.html>`__, `K&R <../K/K-ampersand-R.html>`__, or
-the `Camel Book <../C/Camel-Book.html>`__.
+`Knuth <./K.html#Knuth>`__, `K&R <./K.html#K-ampersand-R>`__, or
+the `Camel Book <./C.html#Camel-Book>`__.
 
 2. The most detailed and authoritative reference for a particular
 language, operating system, or other complex software system.
@@ -1190,14 +1190,14 @@ BiCapitalization
 **BiCapitalization**: n.
 
 The act said to have been performed on trademarks (such as
-`PostScript <../P/PostScript.html>`__, NeXT,
-`NeWS <../N/NeWS.html>`__, VisiCalc, FrameMaker, TK!solver,
+`PostScript <./P.html#PostScript>`__, NeXT,
+`NeWS <./N.html#NeWS>`__, VisiCalc, FrameMaker, TK!solver,
 EasyWriter) that have been raised above the ruck of common coinage by
 nonstandard capitalization. Too many
-`marketroid <../M/marketroid.html>`__ types think this sort of thing
+`marketroid <./M.html#marketroid>`__ types think this sort of thing
 is really cute, even the 2,317th time they do it. Compare
-`studlycaps <../S/studlycaps.html>`__,
-`InterCaps <../I/InterCaps.html>`__.
+`studlycaps <./S.html#studlycaps>`__,
+`InterCaps <../I.html#InterCaps>`__.
 
 biff
 =============
@@ -1209,7 +1209,7 @@ biff(1), which was in turn named after a friendly dog who used to chase
 frisbees in the halls at UCB while 4.2BSD was in development. There was
 a legend that it had a habit of barking whenever the mailman came, but
 the author of **biff** says this is not true. No relation to
-`B1FF <B1FF.html>`__.
+`B1FF <#B1FF>`__.
 
 big-endian
 ========================
@@ -1224,19 +1224,19 @@ Wars and a Plea for Peace* by Danny Cohen, USC/ISI `IEN
 1. Describes a computer architecture in which, within a given multi-byte
 numeric representation, the most significant byte has the lowest address
 (the word is stored ‘big-end-first’). Most processors, including the IBM
-370 family, the `PDP-10 <../P/PDP-10.html>`__, the Motorola
+370 family, the `PDP-10 <./P.html#PDP-10>`__, the Motorola
 microprocessor families, and most of the various RISC designs are
 big-endian. Big-endian byte order is also sometimes called network
-order. See `little-endian <./L.html#little-endian.html>`__,
-`middle-endian <../M/middle-endian.html>`__, `NUXI
-problem <../N/NUXI-problem.html>`__, `swab <../S/swab.html>`__.
+order. See `little-endian <./L.html#little-endian>`__,
+`middle-endian <./M.html#middle-endian>`__, `NUXI
+problem <./N.html#NUXI-problem>`__, `swab <./S.html#swab>`__.
 
 2. An Internet address the wrong way round. Most of the world follows
 the Internet standard and writes email addresses starting with the name
 of the computer and ending up with the name of the country. In the U.K.:
 the Joint Academic Networking Team had decided to do it the other way
 round before the Internet domain standard was established. Most gateway
-sites have `ad-hockery <./A.html#ad-hockery.html>`__ in their mailers to
+sites have `ad-hockery <./A.html#ad-hockery>`__ in their mailers to
 handle this, but can still be confused. In particular, the address
 "me@uk.ac.bris.pys.as" could be interpreted in JANET's big-endian way
 as one in the U.K. (domain "uk") or in the standard little-endian way
@@ -1249,10 +1249,10 @@ big iron
 **big iron**: n.
 
 [common] Large, expensive, ultra-fast computers. Used generally of
-`number-crunching <../N/number-crunching.html>`__ supercomputers, but
+`number-crunching <./N.html#number-crunching>`__ supercomputers, but
 can include more conventional big commercial IBMish mainframes. Term of
-approval; compare `heavy metal <./H.html#heavy-metal.html>`__, oppose
-`dinosaur <./D.html#dinosaur.html>`__.
+approval; compare `heavy metal <./H.html#heavy-metal>`__, oppose
+`dinosaur <./D.html#dinosaur>`__.
 
 
 
@@ -1270,8 +1270,8 @@ large integers.
 United States Budget? There's bignums for you!”
 
 3. [Stanford] In backgammon, large numbers on the dice especially a roll
-of double fives or double sixes (compare `moby <../M/moby.html>`__,
-sense 4). See also `El Camino Bignum <../E/El-Camino-Bignum.html>`__.
+of double fives or double sixes (compare `moby <./M.html#moby>`__,
+sense 4). See also `El Camino Bignum <./E.html#El-Camino-Bignum>`__.
 
 Sense 1 may require some explanation. Most computer languages provide a
 kind of data called integer, but such computer integers are usually very
@@ -1347,14 +1347,14 @@ bigot
 
 [common] A person who is religiously attached to a particular computer,
 language, operating system, editor, or other tool (see `religious
-issues <../R/religious-issues.html>`__). Usually found with a
+issues <./R.html#religious-issues>`__). Usually found with a
 specifier; thus, Cray bigot, ITS bigot, APL bigot, VMS bigot, Berkeley
 bigot. Real bigots can be distinguished from mere partisans or zealots
 by the fact that they refuse to learn alternatives even when the march
 of time and/or technology is threatening to obsolete the favored tool.
 It is truly said “You can tell a bigot, but you can't tell him much.”
-Compare `weenie <../W/weenie.html>`__, `Amiga Persecution
-Complex <../A/Amiga-Persecution-Complex.html>`__.
+Compare `weenie <./W.html#weenie>`__, `Amiga Persecution
+Complex <./A.html#Amiga-Persecution-Complex>`__.
 
 
 
@@ -1364,21 +1364,21 @@ Big Red Switch
 **Big Red Switch**: n.
 
 [IBM] The power switch on a computer, esp. the ‘Emergency Pull’ switch
-on an IBM `mainframe <../M/mainframe.html>`__ or the power switch on
+on an IBM `mainframe <./M.html#mainframe>`__ or the power switch on
 an IBM PC where it really is large and red. “This !@%$% `bitty
-box <bitty-box.html>`__ is hung again; time to hit the Big Red Switch.”
+box <#bitty-box>`__ is hung again; time to hit the Big Red Switch.”
 Sources at IBM report that, in tune with the company's passion for
-`TLA <../T/TLA.html>`__\ s, this is often abbreviated as BRS (this has
+`TLA <./T.html#TLA>`__\ s, this is often abbreviated as BRS (this has
 also become established on FidoNet and in the PC
-`clone <./C.html#clone.html>`__ world). It is alleged that the emergency
+`clone <./C.html#clone>`__ world). It is alleged that the emergency
 pull switch on an IBM 360/91 actually fired a non-conducting bolt into
 the main power feed; the BRSes on more recent mainframes physically drop
 a block into place so that they can't be pushed back in. People get
 fired for pulling them, especially inappropriately (see also
-`molly-guard <../M/molly-guard.html>`__). Compare `power
-cycle <../P/power-cycle.html>`__, `three-finger
-salute <../T/three-finger-salute.html>`__; see also `scram
-switch <../S/scram-switch.html>`__.
+`molly-guard <./M.html#molly-guard>`__). Compare `power
+cycle <./P.html#power-cycle>`__, `three-finger
+salute <./T.html#three-finger-salute>`__; see also `scram
+switch <./S.html#scram-switch>`__.
 
 
 
@@ -1405,7 +1405,7 @@ big win
 2. [MIT] Serendipity. “Yes, those two physicists discovered
 high-temperature superconductivity in a batch of ceramic that had been
 prepared incorrectly according to their experimental schedule. Small
-mistake; big win!” See `win big <../W/win-big.html>`__.
+mistake; big win!” See `win big <./W.html#win-big>`__.
 
 
 
@@ -1415,7 +1415,7 @@ BI
 **BI**: //
 
 Common written abbreviation for `Breidbart
-Index <Breidbart-Index.html>`__.
+Index <#Breidbart-Index>`__.
 
 
 bikeshedding
@@ -1438,7 +1438,7 @@ binary four
 from an analogy between binary and the hand, i.e. 1=00001=thumb,
 2=00010=index finger, 3=00011=index and thumb, 4=00100. Considered
 silly. Prob. from humorous derivative of
-`finger <./F.html#finger.html>`__, sense 4.
+`finger <./F.html#finger>`__, sense 4.
 
 
 
@@ -1452,16 +1452,16 @@ tweaking a single output bit, in software, at the appropriate times. The
 technique is a simple loop with eight OUT and SHIFT instruction pairs
 for each byte. Input is more interesting. And full duplex (doing input
 and output at the same time) is one way to separate the real hackers
-from the `wannabee <../W/wannabee.html>`__\ s.
+from the `wannabee <./W.html#wannabee>`__\ s.
 
 Bit bang was used on certain early models of Prime computers, presumably
 when UARTs were too expensive, and on archaic Z80 micros with a Zilog
 PIO but no SIO. In an interesting instance of the `cycle of
-reincarnation <./C.html#cycle-of-reincarnation.html>`__, this technique
+reincarnation <./C.html#cycle-of-reincarnation>`__, this technique
 returned to use in the early 1990s on some RISC architectures because it
 consumes such an infinitesimal part of the processor that it actually
 makes sense not to have a UART. Compare `cycle of
-reincarnation <./C.html#cycle-of-reincarnation.html>`__. Nowadays it's used
+reincarnation <./C.html#cycle-of-reincarnation>`__. Nowadays it's used
 to describe I2C, a serial protocol for monitoring motherboard hardware.
 
 
@@ -1470,18 +1470,18 @@ bit bashing
 
 **bit bashing**: n.
 
-(alt.: bit diddling or `bit twiddling <bit-twiddling.html>`__) Term
+(alt.: bit diddling or `bit twiddling <#bit-twiddling>`__) Term
 used to describe any of several kinds of low-level programming
-characterized by manipulation of `bit <bit.html>`__,
-`flag <./F.html#flag.html>`__, `nybble <../N/nybble.html>`__, and other
+characterized by manipulation of `bit <#bit>`__,
+`flag <./F.html#flag>`__, `nybble <./N.html#nybble>`__, and other
 smaller-than-character-sized pieces of data; these include low-level
 device control, encryption algorithms, checksum and error-correcting
 codes, hash functions, some flavors of graphics programming (see
-`bitblt <bitblt.html>`__), and assembler/compiler code generation. May
+`bitblt <#bitblt>`__), and assembler/compiler code generation. May
 connote either tedium or a real technical challenge (more usually the
 former). “The command decoding for the new tape driver looks pretty
 solid but the bit-bashing for the control registers still has bugs.” See
-also `mode bit <../M/mode-bit.html>`__.
+also `mode bit <./M.html#mode-bit>`__.
 
 
 bitblt
@@ -1489,16 +1489,16 @@ bitblt
 
 **bitblt**: /bit´blit/, n.
 
-[from `BLT <BLT.html>`__, q.v.:]
+[from `BLT <#BLT>`__, q.v.:]
 
 1. [common] Any of a family of closely related algorithms for moving and
 copying rectangles of bits between main and display memory on a
 bit-mapped device, or between two areas of either main or display memory
-(the requirement to do the `Right Thing <../R/Right-Thing.html>`__ in
+(the requirement to do the `Right Thing <./R.html#Right-Thing>`__ in
 the case of overlapping source and destination rectangles is what makes
 BitBlt tricky).
 
-2. Synonym for `blit <blit.html>`__ or `BLT <BLT.html>`__. Both uses
+2. Synonym for `blit <#blit>`__ or `BLT <#BLT>`__. Both uses
 are borderline techspeak.
 
 
@@ -1512,13 +1512,13 @@ bit bucket
 1. The universal data sink (originally, the mythical receptacle used to
 catch bits when they fall off the end of a register during a shift
 instruction). Discarded, lost, or destroyed data is said to have gone to
-the bit bucket. On `Unix <../U/Unix.html>`__, often used for
-`/dev/null <../0/dev-null.html>`__. Sometimes amplified as the Great
+the bit bucket. On `Unix <./U.html#Unix>`__, often used for
+`/dev/null <./other.html#dev-null>`__. Sometimes amplified as the Great
 Bit Bucket in the Sky.
 
 2. The place where all lost mail and news messages eventually go. The
 selection is performed according to `Finagle's
-Law <../F/Finagles-Law.html>`__; important mail is much more likely to
+Law <./F.html#Finagles-Law>`__; important mail is much more likely to
 end up in the bit bucket than junk mail, which has an almost 100%
 probability of getting delivered. Routing to the bit bucket is
 automatically performed by mail-transfer agents, news systems, and the
@@ -1530,7 +1530,7 @@ overflow one's mailbox with flames.
 
 4. Excuse for all mail that has not been sent. “I mailed you those
 figures last week; they must have landed in the bit bucket.” Compare
-`black hole <black-hole.html>`__.
+`black hole <#black-hole>`__.
 
 This term is used purely in jest. It is based on the fanciful notion
 that bits are objects that are not destroyed but only misplaced. This
@@ -1538,7 +1538,7 @@ appears to have been a mutation of an earlier term ‘bit box’, about
 which the same legend was current; old-time hackers also report that
 trainees used to be told that when the CPU stored bits into memory it
 was actually pulling them “out of the bit box”. See also `chad
-box <./C.html#chad-box.html>`__.
+box <./C.html#chad-box>`__.
 
 Another variant of this legend has it that, as a consequence of the
 “parity preservation law”, the number of 1 bits that go to the bit
@@ -1547,15 +1547,15 @@ filling up the bit bucket. A qualified computer technician can empty a
 full bit bucket as part of scheduled maintenance.
 
 The source for all these meanings, is, historically, the fact that the
-`chad box <./C.html#chad-box.html>`__ on a paper-tape punch was sometimes
+`chad box <./C.html#chad-box>`__ on a paper-tape punch was sometimes
 called a bit bucket.
 
 .. image:: ../_static/75-10-04.png
 
-A literal `bit bucket <bit-bucket.html>`__.
+A literal `bit bucket <#bit-bucket>`__.
 
 (The next cartoon in the Crunchly saga is
-`76-02-14 <../W/washing-machine.html#crunchly76-02-14>`__. The previous
+`76-02-14 <./W.html#washing-machine.html#crunchly76-02-14>`__. The previous
 one is `75-10-04 <bit-bucket.html#crunchly75-10-04>`__.)
 
 
@@ -1567,10 +1567,10 @@ bit decay
 
 **bit decay**: n.
 
-See `bit rot <bit-rot.html>`__. People with a physics background tend
+See `bit rot <#bit-rot>`__. People with a physics background tend
 to prefer this variant for the analogy with particle decay. See also
-`computron <./C.html#computron.html>`__, `quantum
-bogodynamics <../Q/quantum-bogodynamics.html>`__.
+`computron <./C.html#computron>`__, `quantum
+bogodynamics <./Q.html#quantum-bogodynamics>`__.
 
 
 bit
@@ -1601,9 +1601,9 @@ presumably be answered yes or no.
 
 A bit is said to be set if its value is true or 1, and reset or clear if
 its value is false or 0. One speaks of setting and clearing bits. To
-`toggle <../T/toggle.html>`__ or invert a bit is to change it, either
-from 0 to 1 or from 1 to 0. See also `flag <./F.html#flag.html>`__,
-`trit <../T/trit.html>`__, `mode bit <../M/mode-bit.html>`__.
+`toggle <./T.html#toggle>`__ or invert a bit is to change it, either
+from 0 to 1 or from 1 to 0. See also `flag <./F.html#flag>`__,
+`trit <./T.html#trit>`__, `mode bit <./M.html#mode-bit>`__.
 
 The term bit first appeared in print in the computer-science sense in a
 1948 paper by information theorist Claude Shannon, and was there
@@ -1621,7 +1621,7 @@ bit-paired keyboard
 (alt.: bit-shift keyboard) A non-standard keyboard layout that seems to
 have originated with the Teletype ASR-33 and remained common for several
 years on early computer equipment. The ASR-33 was a mechanical device
-(see `EOU <../E/EOU.html>`__), so the only way to generate the
+(see `EOU <./E.html#EOU>`__), so the only way to generate the
 character codes from keystrokes was by some physical linkage. The design
 of the ASR-33 assigned each character key a basic pattern that could be
 modified by flipping bits if the SHIFT or the CTRL key was pressed. In
@@ -1666,7 +1666,7 @@ and the Model 33 keyboard, from looking like this instead::
 
 
 Teletype's was *not* the weirdest variant of the
-`QWERTY <../Q/QWERTY.html>`__ layout widely seen, by the way; that
+`QWERTY <./Q.html#QWERTY>`__ layout widely seen, by the way; that
 prize should probably go to one of several (differing) arrangements on
 IBM's even clunkier 026 and 029 card punches.
 
@@ -1703,7 +1703,7 @@ bit rot
 
 **bit rot**: n.
 
-[common] Also `bit decay <bit-decay.html>`__. Hypothetical disease the
+[common] Also `bit decay <#bit-decay>`__. Hypothetical disease the
 existence of which has been deduced from the observation that unused
 programs or features will often stop working after sufficient time has
 passed, even if ‘nothing has changed’. The theory explains that bits
@@ -1718,9 +1718,9 @@ storage), but they are quite rare (and computers are built with
 error-detecting circuitry to compensate for them). The notion long
 favored among hackers that cosmic rays are among the causes of such
 events turns out to be a myth; see the `cosmic
-rays <./C.html#cosmic-rays.html>`__ entry for details.
+rays <./C.html#cosmic-rays>`__ entry for details.
 
-The term `software rot <../S/software-rot.html>`__ is almost
+The term `software rot <./S.html#software-rot>`__ is almost
 synonymous. Software rot is the effect, bit rot the notional cause.
 
 
@@ -1732,14 +1732,14 @@ bits
 
 1. Information. Examples: “I need some bits about file formats.” (“I
 need to know about file formats.”) Compare `core
-dump <./C.html#core-dump.html>`__, sense 4.
+dump <./C.html#core-dump>`__, sense 4.
 
 2. Machine-readable representation of a document, specifically as
 contrasted with paper: “I have only a photocopy of the Jargon File; does
 anyone know where I can get the bits?”. See
-`softcopy <../S/softcopy.html>`__, `source of all good
-bits <../S/source-of-all-good-bits.html>`__ See also
-`bit <bit.html>`__.
+`softcopy <./S.html#softcopy>`__, `source of all good
+bits <./S.html#source-of-all-good-bits>`__ See also
+`bit <#bit>`__.
 
 
 
@@ -1750,7 +1750,7 @@ bit twiddling
 
 [very common]
 
-1. (pejorative) An exercise in tuning (see `tune <../T/tune.html>`__)
+1. (pejorative) An exercise in tuning (see `tune <./T.html#tune>`__)
 in which incredible amounts of time and effort go to produce little
 noticeable improvement, often with the result that the code becomes
 incomprehensible.
@@ -1758,7 +1758,7 @@ incomprehensible.
 2. Aimless small modification to a program, esp. for some pointless
 goal.
 
-3. Approx. syn. for `bit bashing <bit-bashing.html>`__; esp. used for
+3. Approx. syn. for `bit bashing <#bit-bashing>`__; esp. used for
 the act of frobbing the device control register of a peripheral in an
 attempt to get it back to a known state.
 
@@ -1776,9 +1776,9 @@ personal machines such as the Atari 800, Osborne, Sinclair, VIC-20,
 TRS-80, or IBM PC.
 
 2. [Pejorative] More generally, the opposite of ‘real computer’ (see
-`Get a real computer! <../G/Get-a-real-computer-.html>`__). See also
-`mess-dos <../M/mess-dos.html>`__, `toaster <../T/toaster.html>`__,
-and `toy <../T/toy.html>`__.
+`Get a real computer! <./G.html#Get-a-real-computer->`__). See also
+`mess-dos <./M.html#mess-dos>`__, `toaster <./T.html#toaster>`__,
+and `toy <./T.html#toy>`__.
 
 
 bixie
@@ -1786,9 +1786,9 @@ bixie
 
 **bixie**: /bik´see/, n.
 
-Variant `emoticon <./E.html#emoticon.html>`__\ s used BIX (the BIX
+Variant `emoticon <./E.html#emoticon>`__\ s used BIX (the BIX
 Information eXchange); the term survived the demise of BIX itself. The
-most common (`smiley <../S/smiley.html>`__) bixie is <@\_@>,
+most common (`smiley <./S.html#smiley>`__) bixie is <@\_@>,
 representing two cartoon eyes and a mouth. These were originally
 invented in an SF fanzine called APA-L and imported to BIX by one of the
 earliest users.
@@ -1802,16 +1802,16 @@ black art
 
 [common] A collection of arcane, unpublished, and (by implication)
 mostly ad-hoc techniques developed for a particular application or
-systems area (compare `black magic <black-magic.html>`__). VLSI design
+systems area (compare `black magic <#black-magic>`__). VLSI design
 and compiler code optimization were (in their beginnings) considered
 classic examples of black art; as theory developed they became `deep
-magic <./D.html#deep-magic.html>`__, and once standard textbooks had been
-written, became merely `heavy wizardry <./H.html#heavy-wizardry.html>`__.
+magic <./D.html#deep-magic>`__, and once standard textbooks had been
+written, became merely `heavy wizardry <./H.html#heavy-wizardry>`__.
 The huge proliferation of formal and informal channels for spreading
 around new computer-related technologies during the last twenty years
 has made both the term black art and what it describes less common than
 formerly. See also `voodoo
-programming <../V/voodoo-programming.html>`__.
+programming <./V.html#voodoo-programming>`__.
 
 
 
@@ -1821,7 +1821,7 @@ black hat
 **black hat**
 
 1. [common among security specialists] A
-`cracker <./C.html#cracker.html>`__, someone bent on breaking into the
+`cracker <./C.html#cracker>`__, someone bent on breaking into the
 system you are protecting. Oppose the less comon white hat for an ally
 or friendly security specialist; the term gray hat is in occasional use
 for people with cracker skills operating within the law, e.g. in doing
@@ -1835,7 +1835,7 @@ spammers and doesn't terminate them; a white hat ISP terminates upon the
 first LART; and gray hat ISPs terminate only reluctantly and/or slowly.
 This has led to the concept of a hat check: someone considering a
 potential business relationship with an ISP or other provider will post
-a query to a `NANA <../N/NANA.html>`__ group, asking about the
+a query to a `NANA <./N.html#NANA>`__ group, asking about the
 provider's hat color. The term albedo has also been used to describe a
 provider's spam-friendliness.
 
@@ -1849,13 +1849,13 @@ black hole
 [common] What data (a piece of email or netnews, or a stream of TCP/IP
 packets) has fallen into if it disappears mysteriously between its
 origin and destination sites (that is, without returning a `bounce
-message <bounce-message.html>`__). “I think there's a black hole at
+message <#bounce-message>`__). “I think there's a black hole at
 "foovax"!” conveys suspicion that site "foovax" has been dropping a
 lot of stuff on the floor lately (see `drop on the
-floor <./D.html#drop-on-the-floor.html>`__). The implied metaphor of email
+floor <./D.html#drop-on-the-floor>`__). The implied metaphor of email
 as interstellar travel is interesting in itself. Readily verbed as
 blackhole: “That router is blackholing IDP packets.” Compare `bit
-bucket <bit-bucket.html>`__ and see `RBL <../R/RBL.html>`__.
+bucket <bit-bucket.html>`__ and see `RBL <./R.html#RBL.html>`__.
 
 
 black magic
@@ -1865,10 +1865,10 @@ black magic
 
 [common] A technique that works, though nobody really understands why.
 More obscure than `voodoo
-programming <../V/voodoo-programming.html>`__, which may be done by
+programming <./V.html#voodoo-programming.html>`__, which may be done by
 cookbook. Compare also `black art <black-art.html>`__, `deep
 magic <./D.html#deep-magic.html>`__, and `magic
-number <../M/magic-number.html>`__ (sense 2).
+number <./M.html#magic-number.html>`__ (sense 2).
 
 
 
@@ -1879,7 +1879,7 @@ Black Screen of Death
 
 [prob.: related to the Floating Head of Death in a famous *Far Side*
 cartoon.] A failure mode of `Microsloth
-Windows <../M/Microsloth-Windows.html>`__. On an attempt to launch a
+Windows <./M.html#Microsloth-Windows.html>`__. On an attempt to launch a
 DOS box, a networked Windows system not uncommonly blanks the screen and
 locks up the PC so hard that it requires a cold `boot <boot.html>`__
 to recover. This unhappy phenomenon is known as The Black Screen of
@@ -1908,9 +1908,9 @@ blargh
 
 **blargh**: /blarg/, n.
 
-[MIT; now common] The opposite of `ping <../P/ping.html>`__, sense 5;
+[MIT; now common] The opposite of `ping <./P.html#ping.html>`__, sense 5;
 an exclamation indicating that one has absorbed or is emitting a quantum
-of unhappiness. Less common than `ping <../P/ping.html>`__.
+of unhappiness. Less common than `ping <./P.html#ping.html>`__.
 
 blast
 ============
@@ -1919,10 +1919,10 @@ blast
 
 1. v.,n. Synonym for `BLT <BLT.html>`__, used esp. for large data
 sends over a network or comm line. Opposite of
-`snarf <../S/snarf.html>`__. Usage: uncommon. The variant ‘blat’ has
+`snarf <./S.html#snarf.html>`__. Usage: uncommon. The variant ‘blat’ has
 been reported.
 
-2. vt. [HP/Apollo] Synonymous with `nuke <../N/nuke.html>`__ (sense
+2. vt. [HP/Apollo] Synonymous with `nuke <./N.html#nuke.html>`__ (sense
 3). Sometimes the message **Unable to kill all processes. Blast them
 (y/n)?** would appear in the command window upon logout.
 
@@ -1935,7 +1935,7 @@ blat
 
 1. Syn. `blast <blast.html>`__, sense 1.
 
-2. See `thud <../T/thud.html>`__.
+2. See `thud <./T.html#thud.html>`__.
 
 bletcherous
 ==============
@@ -1947,12 +1947,12 @@ seldom used of people. “This keyboard is bletcherous!” (Perhaps the keys
 don't work very well, or are misplaced.) See
 `losing <./L.html#losing.html>`__, `cretinous <./C.html#cretinous.html>`__,
 `bagbiting <bagbiting.html>`__, `bogus <bogus.html>`__, and
-`random <../R/random.html>`__. The term
+`random <./R.html#random.html>`__. The term
 `bletcherous <bletcherous.html>`__ applies to the esthetics of the
 thing so described; similarly for `cretinous <./C.html#cretinous.html>`__.
 By contrast, something that is losing or bagbiting may be failing to
 meet objective criteria. See also `bogus <bogus.html>`__ and
-`random <../R/random.html>`__, which have richer and wider shades of
+`random <./R.html#random.html>`__, which have richer and wider shades of
 meaning than any of the above.
 
 
@@ -2096,7 +2096,7 @@ picks through the table and copies the good parts up into high memory,
 and then blits it all back down again.” See `bitblt <bitblt.html>`__,
 `BLT <BLT.html>`__, `dd <./D.html#dd.html>`__,
 `cat <./C.html#cat.html>`__, `blast <blast.html>`__,
-`snarf <../S/snarf.html>`__. More generally, to perform some operation
+`snarf <./S.html#snarf.html>`__. More generally, to perform some operation
 (such as toggling) on a large array of bits while moving them.
 
 2. [historical, rare] Sometimes all-capitalized as BLIT: an early
@@ -2116,7 +2116,7 @@ blitter
 bit-mapped graphics. The Commodore Amiga and a few other micros have
 these, but since 1990 the trend has been away from them (however, see
 `cycle of reincarnation <./C.html#cycle-of-reincarnation.html>`__). Syn.
-`raster blaster <../R/raster-blaster.html>`__.
+`raster blaster <./R.html#raster-blaster.html>`__.
 
 blivet
 ==========
@@ -2181,7 +2181,7 @@ such as a picture or sound file. The essential point about a BLOB is
 that it's an object that cannot be interpreted within the database
 itself.
 
-2. v. To `mailbomb <../M/mailbomb.html>`__ someone by sending a BLOB
+2. v. To `mailbomb <./M.html#mailbomb.html>`__ someone by sending a BLOB
 to him/her; esp. used as a mild threat. “If that program crashes again,
 I'm going to BLOB the core dump to you.”
 
@@ -2214,10 +2214,10 @@ the difference between extensional and intensional objects. For example,
 every occurrence of “Fred Bloggs” is the same unique person, whereas
 occurrences of “person” may refer to different people. Members of the
 Bloggs family have been known to pop up in bizarre places such as the
-old `DEC <../D/DEC.html>`__ Telephone Directory. Compare `Dr. Fred
-Mbogo <../D/Dr--Fred-Mbogo.html>`__; `J. Random
-Hacker <../J/J--Random-Hacker.html>`__; `Fred
-Foobar <../F/Fred-Foobar.html>`__.
+old `DEC <./D.html#DEC.html>`__ Telephone Directory. Compare `Dr. Fred
+Mbogo <./D.html#Dr--Fred-Mbogo.html>`__; `J. Random
+Hacker <./J.html#J--Random-Hacker.html>`__; `Fred
+Foobar <./F.html#Fred-Foobar.html>`__.
 
 
 blog
@@ -2287,7 +2287,7 @@ blow away
 
 To remove (files and directories) from permanent storage, generally by
 accident. “He reformatted the wrong partition and blew away last night's
-netnews.” Oppose `nuke <../N/nuke.html>`__.
+netnews.” Oppose `nuke <./N.html#nuke.html>`__.
 
 
 
@@ -2321,7 +2321,7 @@ blow up
 
 1. [scientific computation] To become unstable. Suggests that the
 computation is diverging so rapidly that it will soon overflow or at
-least go `nonlinear <../N/nonlinear.html>`__.
+least go `nonlinear <./N.html#nonlinear.html>`__.
 
 2. Syn. `blow out <blow-out.html>`__.
 
@@ -2337,7 +2337,7 @@ It referred to any large bit-field copy or move operation (one
 resource-intensive memory-shuffling operation done on pre-paged versions
 of ITS, WAITS, and TOPS-10 was sardonically referred to as “The Big
 BLT”). The jargon usage has outlasted the
-`PDP-10 <../P/PDP-10.html>`__ BLock Transfer instruction from which
+`PDP-10 <./P.html#PDP-10.html>`__ BLock Transfer instruction from which
 `BLT <BLT.html>`__ derives; nowadays, the assembler mnemonic
 `BLT <BLT.html>`__ almost always means “Branch if Less Than zero”.
 
@@ -2353,7 +2353,7 @@ n.
 1. obs. Once upon a time, before all-digital switches made it possible
 for the phone companies to move them out of band, one could actually
 hear the switching tones used to route long-distance calls. Early
-`phreaker <../P/phreaker.html>`__\ s built devices called blue boxes
+`phreaker <./P.html#phreaker.html>`__\ s built devices called blue boxes
 that could reproduce these tones, which could be used to commandeer
 portions of the phone network. (This was not as hard as it may sound;
 one early phreak acquired the sobriquet “Captain Crunch” after he proved
@@ -2364,7 +2364,7 @@ etc. There were boxes of `other
 colors <http://www.ElfQrin.com/docs/hakref/phrkbox/phreakboxes.html>`__
 as well, but the blue box was the original and archetype.
 
-2. n. An `IBM <../I/IBM.html>`__ machine, especially a large (non-PC)
+2. n. An `IBM <./I.html#IBM.html>`__ machine, especially a large (non-PC)
 one.
 
 
@@ -2393,13 +2393,13 @@ blue goo
 
 **blue goo**: n.
 
-Term for ‘police’ `nanobot <../N/nanobot.html>`__\ s intended to
+Term for ‘police’ `nanobot <./N.html#nanobot.html>`__\ s intended to
 prevent `gray goo <./G.html#gray-goo.html>`__, denature hazardous waste,
 destroy pollution, put ozone back into the stratosphere, prevent
 halitosis, and promote truth, justice, and the American way, etc. The
 term “Blue Goo” can be found in Dr. Seuss's *Fox In Socks* to refer to a
 substance much like bubblegum. ‘Would you like to chew blue goo, sir?’.
-See `nanotechnology <../N/nanotechnology.html>`__.
+See `nanotechnology <./N.html#nanotechnology.html>`__.
 
 
 Blue Screen of Death
@@ -2436,9 +2436,9 @@ necessarily blue, the term describes function rather than color. These
 may be necessary if there hasn't been time to design and qualify another
 board version. In Great Britain this can be bodge wire, after mainstream
 slang bodge for a clumsy improvisation or sloppy job of work. Compare
-`purple wire <../P/purple-wire.html>`__, `red
-wire <../R/red-wire.html>`__, `yellow
-wire <../Y/yellow-wire.html>`__, `pink wire <../P/pink-wire.html>`__.
+`purple wire <./P.html#purple-wire.html>`__, `red
+wire <./R.html#red-wire.html>`__, `yellow
+wire <./Y.html#yellow-wire.html>`__, `pink wire <./P.html#pink-wire>`__.
 
 
 
@@ -2449,12 +2449,12 @@ blurgle
 **blurgle**: /bler´gl/, n.
 
 [UK] Spoken `metasyntactic
-variable <../M/metasyntactic-variable.html>`__, to indicate some text
+variable <./M.html#metasyntactic-variable>`__, to indicate some text
 that is obvious from context, or which is already known. If several
 words are to be replaced, blurgle may well be doubled or tripled. “To
 look for something in several files use ‘grep string blurgle blurgle’.”
 In each case, “blurgle blurgle” would be understood to be replaced by
-the file you wished to search. Compare `mumble <../M/mumble.html>`__,
+the file you wished to search. Compare `mumble <./M.html#mumble>`__,
 sense 7.
 
 
@@ -2497,16 +2497,16 @@ town-name, followed by a comma, followed by a state code, followed by a
 ZIP-code followed by an end-of-line.” Note that many things (such as the
 format of a personal-part, apartment specifier, or ZIP-code) are left
 unspecified. These are presumed to be obvious from context or detailed
-somewhere nearby. See also `parse <../P/parse.html>`__.
+somewhere nearby. See also `parse <./P.html#parse>`__.
 
 2. Any of a number of variants and extensions of BNF proper, possibly
-containing some or all of the `regexp <../R/regexp.html>`__ wildcards
+containing some or all of the `regexp <./R.html#regexp>`__ wildcards
 such as **\*** or **+**. In fact the example above isn't the pure form
 invented for the Algol-60 report; it uses **[]**, which was introduced a
 few years later in IBM's PL/I definition but is now universally
 recognized.
 
-3. In `science-fiction fandom <../S/science-fiction-fandom.html>`__, a
+3. In `science-fiction fandom <./S.html#science-fiction-fandom>`__, a
 ‘Big-Name Fan’ (someone famous or notorious). Years ago a fan started
 handing out black-on-green BNF buttons at SF conventions; this confused
 the hacker contingent terribly.
@@ -2517,7 +2517,7 @@ boa
 **boa**: n.
 
 Any one of the fat cables that lurk under the floor in a `dinosaur
-pen <./D.html#dinosaur-pen.html>`__. Possibly so called because they
+pen <./D.html#dinosaur-pen>`__. Possibly so called because they
 display a ferocious life of their own when you try to lay them straight
 and flat after they have been coiled for some time. It is rumored within
 IBM that channel cables for the 370 are limited to 200 feet because
@@ -2529,9 +2529,9 @@ board
 
 **board**: n.
 
-1. In-context synonym for `bboard <bboard.html>`__; sometimes used
+1. In-context synonym for `bboard <#bboard>`__; sometimes used
 even for Usenet newsgroups (but see usage note under
-`bboard <bboard.html>`__, sense 1).
+`bboard <#bboard>`__, sense 1).
 
 2. An electronic circuit board.
 
@@ -2544,7 +2544,7 @@ boat anchor
 
 [common; from ham radio]
 
-1. Like `doorstop <./D.html#doorstop.html>`__ but more severe; implies
+1. Like `doorstop <./D.html#doorstop>`__ but more severe; implies
 that the offending hardware is irreversibly dead or useless. “That was a
 working motherboard once. One lightning strike later, instant boat
 anchor!”
@@ -2569,8 +2569,8 @@ At `Demon Internet <http://www.demon.net/>`__, all tech support
 personnel are called “Bob”. (Female support personnel have an option on
 “Bobette”). This has nothing to do with Bob the divine
 drilling-equipment salesman of the `Church of the
-SubGenius <../C/Church-of-the-SubGenius.html>`__. Nor is it acronymized
-from “Brother Of `BOFH <BOFH.html>`__\ ”, though all parties agree it
+SubGenius <./C.html#Church-of-the-SubGenius>`__. Nor is it acronymized
+from “Brother Of `BOFH <BOFH>`__\ ”, though all parties agree it
 could have been. Rather, it was triggered by an unusually large draft of
 new tech-support people in 1995. It was observed that there would be
 much duplication of names. To ease the confusion, it was decided that
@@ -2579,7 +2579,7 @@ badges were created labelled “Bob 1” and “Bob 2”. (“No, we never got a
 further” reports a witness).
 
 The reason for “Bob” rather than anything else is due to a
-`luser <./L.html#luser.html>`__ calling and asking to speak to “Bob”,
+`luser <./L.html#luser>`__ calling and asking to speak to “Bob”,
 despite the fact that no “Bob” was currently working for Tech Support.
 Since we all know “the customer is always right”, it was decided that
 there had to be at least one “Bob” on duty at all times, just in case.
@@ -2600,8 +2600,8 @@ bodge
 
 **bodge**
 
-[Commonwealth hackish] Syn. `kludge <./K.html#kludge.html>`__ or
-`hack <./H.html#hack.html>`__ (sense 1). “I'll bodge this in now and fix
+[Commonwealth hackish] Syn. `kludge <./K.html#kludge>`__ or
+`hack <./H.html#hack>`__ (sense 1). “I'll bodge this in now and fix
 it later”.
 
 
@@ -2612,7 +2612,7 @@ BOFH
 **BOFH**: //, n.
 
 [common] Acronym, Bastard Operator From Hell. A system administrator
-with absolutely no tolerance for `luser <./L.html#luser.html>`__\ s. “You
+with absolutely no tolerance for `lusers <./L.html#luser>`__. “You
 say you need more filespace? <massive-global-delete> Seems to me you
 have plenty left...” Many BOFHs (and others who would be BOFHs if they
 could get away with it) hang out in the newsgroup
@@ -2623,8 +2623,8 @@ Several people have written stories about BOFHs. The set usually
 considered canonical is by Simon Travaglia and may be found at the
 `Bastard Home Page <http://bofh.ntk.net/Bastard.html>`__. BOFHs and BOFH
 wannabes hang out on `scary devil
-monastery <../S/scary-devil-monastery.html>`__ and wield
-`LART <../L/LART.html>`__\ s.
+monastery <./S.html#scary-devil-monastery>`__ and wield
+`LARTs <../L.html#LART>`__.
 
 
 
@@ -2649,10 +2649,10 @@ bogometer
 
 **bogometer**: /boh·gom'·@t·er/, n.
 
-A notional instrument for measuring `bogosity <bogosity.html>`__.
-Compare the `Troll-O-Meter <../T/Troll-O-Meter.html>`__ and the
-‘wankometer’ described in the `wank <../W/wank.html>`__ entry; see
-also `bogus <bogus.html>`__.
+A notional instrument for measuring `bogosity <#bogosity>`__.
+Compare the `Troll-O-Meter <../T.html#Troll-O-Meter>`__ and the
+‘wankometer’ described in the `wank <./W.html#wank>`__ entry; see
+also `bogus <#bogus>`__.
 
 
 
@@ -2662,12 +2662,12 @@ BogoMIPS
 **BogoMIPS**: /bo´go·mips/, n.
 
 The number of million times a second a processor can do absolutely
-nothing. The `Linux <../L/Linux.html>`__ OS measures BogoMIPS at
+nothing. The `Linux <../L.html#Linux>`__ OS measures BogoMIPS at
 startup in order to calibrate some soft timing loops that will be used
 later on; details at `the BogoMIPS
 mini-HOWTO <%20http://www.clifton.nl/>`__. The name Linus chose, of
 course, is an ironic comment on the uselessness of all *other*
-`MIPS <../M/MIPS.html>`__ figures.
+`MIPS <../M.html#MIPS>`__ figures.
 
 
 
@@ -2679,7 +2679,7 @@ bogon filter
 Any device, software or hardware, that limits or suppresses the flow
 and/or emission of bogons. “Engineering hacked a bogon filter between
 the Cray and the VAXen, and now we're getting fewer dropped packets.”
-See also `bogosity <bogosity.html>`__, `bogus <bogus.html>`__.
+See also `bogosity <#bogosity>`__, `bogus <#bogus>`__.
 
 
 
@@ -2688,11 +2688,11 @@ bogon flux
 
 **bogon flux**: /boh´gon fluhks/, n.
 
-A measure of a supposed field of `bogosity <bogosity.html>`__ emitted
-by a speaker, measured by a `bogometer <bogometer.html>`__; as a
+A measure of a supposed field of `bogosity <#bogosity>`__ emitted
+by a speaker, measured by a `bogometer <#bogometer>`__; as a
 speaker starts to wander into increasing bogosity a listener might say
 “Warning, warning, bogon flux is rising”. See `quantum
-bogodynamics <../Q/quantum-bogodynamics.html>`__.
+bogodynamics <./Q.html#quantum-bogodynamics>`__.
 
 
 
@@ -2708,7 +2708,7 @@ that Arthur Dent actually mispronounces ‘Vogons’ as ‘Bogons’ at one
 point]
 
 1. The elementary particle of bogosity (see `quantum
-bogodynamics <../Q/quantum-bogodynamics.html>`__). For instance, “the
+bogodynamics <./Q.html#quantum-bogodynamics>`__). For instance, “the
 Ethernet is emitting bogons again” means that it is broken or acting in
 an erratic or bogus fashion.
 
@@ -2722,15 +2722,15 @@ go to lunch with you but I've got to go to the weekly staff bogon”.
 
 5. A person who is bogus or who says bogus things. This was historically
 the original usage, but has been overtaken by its derivative senses
-1--4. See also `bogosity <bogosity.html>`__, `bogus <bogus.html>`__;
-compare `psyton <../P/psyton.html>`__, `fat
-electrons <./F.html#fat-electrons.html>`__, `magic
-smoke <../M/magic-smoke.html>`__.
+1--4. See also `bogosity <#bogosity>`__, `bogus <#bogus>`__;
+compare `psyton <./P.html#psyton>`__, `fat
+electrons <./F.html#fat-electrons>`__, `magic
+smoke <./M.html#magic-smoke>`__.
 
 The bogon has become the type case for a whole bestiary of nonce
 particle names, including the ‘clutron’ or ‘cluon’ (indivisible particle
 of cluefulness, obviously the antiparticle of the bogon) and the futon
-(elementary particle of `randomness <../R/randomness.html>`__, or
+(elementary particle of `randomness <./R.html#randomness>`__, or
 sometimes of lameness). These are not so much live usages in themselves
 as examples of a live meta-usage: that is, it has become a standard joke
 or linguistic maneuver to “explain” otherwise mysterious circumstances
@@ -2741,7 +2741,7 @@ theories” to “bogus (particle theories)”!). Perhaps such particles are
 the modern-day equivalents of trolls and wood-nymphs as standard
 starting-points around which to construct explanatory myths. Of course,
 playing on an existing word (as in the ‘futon’) yields additional
-flavor. Compare `magic smoke <../M/magic-smoke.html>`__.
+flavor. Compare `magic smoke <./M.html#magic-smoke>`__.
 
 
 bogosity
@@ -2750,20 +2750,20 @@ bogosity
 **bogosity**: /boh·go´s@·tee/, n.
 
 1. [orig. CMU, now very common] The degree to which something is
-`bogus <bogus.html>`__. Bogosity is measured with a
-`bogometer <bogometer.html>`__; in a seminar, when a speaker says
+`bogus <#bogus>`__. Bogosity is measured with a
+`bogometer <#bogometer>`__; in a seminar, when a speaker says
 something bogus, a listener might raise his hand and say “My bogometer
 just triggered”. More extremely, “You just pinned my bogometer” means
 you just said or did something so outrageously bogus that it is off the
 scale, pinning the bogometer needle at the highest possible reading (one
 might also say “You just redlined my bogometer”). The agreed-upon unit
-of bogosity is the `microLenat <../M/microLenat.html>`__.
+of bogosity is the `microLenat <./M.html#microLenat>`__.
 
 2. The potential field generated by a `bogon
-flux <bogon-flux.html>`__; see `quantum
-bogodynamics <../Q/quantum-bogodynamics.html>`__. See also `bogon
-flux <bogon-flux.html>`__, `bogon filter <bogon-filter.html>`__,
-`bogus <bogus.html>`__.
+flux <#bogon-flux>`__; see `quantum
+bogodynamics <./Q.html#quantum-bogodynamics>`__. See also `bogon
+flux <#bogon-flux>`__, `bogon filter <#bogon-filter>`__,
+`bogus <#bogus.html>`__.
 
 
 bogo-sort
@@ -2772,7 +2772,7 @@ bogo-sort
 **bogo-sort**: /boh\`goh·sort´/, n.
 
 (var.: stupid-sort) The archetypical perversely awful algorithm (as
-opposed to `bubble sort <bubble-sort.html>`__, which is merely the
+opposed to `bubble sort <#bubble-sort>`__, which is merely the
 generic *bad* algorithm). Bogo-sort is equivalent to repeatedly throwing
 a deck of cards in the air, picking them up at random, and then testing
 whether they are in order. It serves as a sort of canonical example of
@@ -2780,7 +2780,7 @@ awfulness. Looking at a program and seeing a dumb algorithm, one might
 say “Oh, I see, this program uses bogo-sort.” Esp. appropriate for
 algorithms with factorial or super-exponential running time in the
 average case and probabilistically infinite worst-case running time.
-Compare `bogus <bogus.html>`__, `brute force <brute-force.html>`__.
+Compare `bogus <#bogus>`__, `brute force <#brute-force>`__.
 
 A spectacular variant of bogo-sort has been proposed which has the
 interesting property that, if the Many Worlds interpretation of quantum
@@ -2807,7 +2807,7 @@ become bogotified and you had better not use it any more. This coinage
 led to the notional autobogotiphobia defined as ‘the fear of becoming
 bogotified’; but is not clear that the latter has ever been ‘live’
 jargon rather than a self-conscious joke in jargon about jargon. See
-also `bogosity <bogosity.html>`__, `bogus <bogus.html>`__.
+also `bogosity <#bogosity>`__, `bogus <#bogus>`__.
 
 
 
@@ -2818,8 +2818,8 @@ bogue out
 
 To become bogus, suddenly and unexpectedly. “His talk was relatively
 sane until somebody asked him a trick question; then he bogued out and
-did nothing but `flame <./F.html#flame.html>`__ afterwards.” See also
-`bogosity <bogosity.html>`__, `bogus <bogus.html>`__.
+did nothing but `flame <./F.html#flame>`__ afterwards.” See also
+`bogosity <#bogosity>`__, `bogus <#bogus>`__.
 
 
 bogus
@@ -2843,7 +2843,7 @@ Turing Machines? That's totally bogus.”
 Astrology is bogus. So is a bolt that is obviously about to break. So is
 someone who makes blatantly false claims to have solved a scientific
 problem. (This word seems to have some, but not all, of the connotations
-of `random <../R/random.html>`__ — mostly the negative ones.)
+of `random <./R.html#random>`__ — mostly the negative ones.)
 
 It is claimed that bogus was originally used in the hackish sense at
 Princeton in the late 1960s. It was spread to CMU and Yale by Michael
@@ -2857,10 +2857,10 @@ bogotophile (one who is pathologically fascinated by the bogus);
 paleobogology (the study of primeval bogosity).
 
 Some bogowords, however, obtained sufficient live currency to be listed
-elsewhere in this lexicon; see `bogometer <bogometer.html>`__,
-`bogon <bogon.html>`__, `bogotify <bogotify.html>`__, and `quantum
-bogodynamics <../Q/quantum-bogodynamics.html>`__ and the related but
-unlisted `Dr. Fred Mbogo <../D/Dr--Fred-Mbogo.html>`__.
+elsewhere in this lexicon; see `bogometer <#bogometer>`__,
+`bogon <#bogon>`__, `bogotify <#bogotify>`__, and `quantum
+bogodynamics <./Q.html#quantum-bogodynamics>`__ and the related but
+unlisted `Dr. Fred Mbogo <./D.html#Dr--Fred-Mbogo>`__.
 
 By the early 1980s ‘bogus’ was also current in something like hacker
 usage sense in West Coast teen slang, and it had gone mainstream by
@@ -2877,11 +2877,11 @@ Bohr bug
 
 **Bohr bug**: /bohr buhg/, n.
 
-[from quantum physics] A repeatable `bug <bug.html>`__; one that
+[from quantum physics] A repeatable `bug <#bug>`__; one that
 manifests reliably under a possibly unknown but well-defined set of
-conditions. Antonym of `heisenbug <./H.html#heisenbug.html>`__; see also
-`mandelbug <../M/mandelbug.html>`__,
-`schroedinbug <../S/schroedinbug.html>`__.
+conditions. Antonym of `heisenbug <./H.html#heisenbug>`__; see also
+`mandelbug <./M.html#mandelbug>`__,
+`schroedinbug <./S.html#schroedinbug>`__.
 
 
 boink
@@ -2891,17 +2891,17 @@ boink
 
 1. [Usenet: variously ascribed to the TV series *Cheers*,
 *Moonlighting*, and *Soap*]v. To have sex with; compare
-`bounce <bounce.html>`__, sense 2. (This is mainstream slang.) In
+`bounce <#bounce>`__, sense 2. (This is mainstream slang.) In
 Commonwealth hackish the variant ‘bonk’ is more common.
 
 2. n. After the original Peter Korn ‘Boinkon’
-`Usenet <../U/Usenet.html>`__ parties, used for almost any net social
+`Usenet <./U.html/Usenet>`__ parties, used for almost any net social
 gathering, e.g., Miniboink, a small boink held by Nancy Gillett in 1988;
 Minniboink, a Boinkcon in Minnesota in 1989; Humpdayboinks, Wednesday
 get-togethers held in the San Francisco Bay Area. Compare
-`@-party <../0/at-party.html>`__.
+`@-party <../0/at-party>`__.
 
-3. Var of bonk; see `bonk/oif <bonk-oif.html>`__.
+3. Var of bonk; see `bonk/oif <#bonk-oif>`__.
 
 
 bomb
@@ -2909,17 +2909,17 @@ bomb
 
 **bomb**
 
-1. v. General synonym for `crash <./C.html#crash.html>`__ (sense 1) except
+1. v. General synonym for `crash <./C.html#crash>`__ (sense 1) except
 that it is not used as a noun; esp. used of software or OS failures.
 “Don't run Empire with less than 32K stack, it'll bomb.”
 
 2. n.,v. Atari ST and Macintosh equivalents of a Unix panic or Amiga
-`guru meditation <./G.html#guru-meditation.html>`__, in which icons of
+`guru meditation <./G.html#guru-meditation>`__, in which icons of
 little black-powder bombs or mushroom clouds are displayed, indicating
 that the system has died. On the Mac, this may be accompanied by a
 decimal (or occasionally hexadecimal) number indicating what went wrong,
-similar to the Amiga `guru meditation <./G.html#guru-meditation.html>`__
-number. `MS-DOS <../M/MS-DOS.html>`__ machines tend to get `locked
+similar to the Amiga `guru meditation <./G.html#guru-meditation>`__
+number. `MS-DOS <../M.html#MS-DOS>`__ machines tend to get `locked
 up <./L.html#locked-up.html>`__ in this situation.
 
 
@@ -2929,14 +2929,14 @@ bondage-and-discipline language
 
 **bondage-and-discipline language**: n.
 
-A language (such as `Pascal <../P/Pascal.html>`__, Ada, APL, or
+A language (such as `Pascal <./P.html/Pascal>`__, Ada, APL, or
 Prolog) that, though ostensibly general-purpose, is designed so as to
 enforce an author's theory of ‘right programming’ even though said
 theory is demonstrably inadequate for systems hacking or even vanilla
 general-purpose programming. Often abbreviated ‘B&D’; thus, one may
 speak of things “having the B&D nature”. See
-`Pascal <../P/Pascal.html>`__; oppose `languages of
-choice <./L.html#languages-of-choice.html>`__.
+`Pascal <./P.htmlPascal>`__; oppose `languages of
+choice <./L.html#languages-of-choice>`__.
 
 
 bonk/oif
@@ -2944,16 +2944,16 @@ bonk/oif
 
 **bonk/oif**: /bonk/, /oyf/, interj.
 
-In the U.S. `MUD <../M/MUD.html>`__ community, it has become
+In the U.S. `MUD <./M.html#MUD>`__ community, it has become
 traditional to express pique or censure by bonking the offending person.
 Convention holds that one should acknowledge a bonk by saying “oif!” and
 there is a myth to the effect that failing to do so upsets the cosmic
 bonk/oif balance, causing much trouble in the universe. Some MUDs have
 implemented special commands for bonking and oifing. Note: in parts of
 the U.K. ‘bonk’ is a sexually loaded slang term; care is advised in
-transatlantic conversations (see `boink <boink.html>`__). Commonwealth
+transatlantic conversations (see `boink <#boink>`__). Commonwealth
 hackers report a similar convention involving the ‘fish/bang’ balance.
-See also `talk mode <../T/talk-mode.html>`__.
+See also `talk mode <./T.html#talk-mode>`__.
 
 
 
@@ -2966,15 +2966,15 @@ There is a tradition in hackerdom of informally tagging important
 textbooks and standards documents with the dominant color of their
 covers or with some other conspicuous feature of the cover. Many of
 these are described in this lexicon under their own entries. See
-`Aluminum Book <../A/Aluminum-Book.html>`__, `Camel
-Book <../C/Camel-Book.html>`__, `Cinderella
-Book <../C/Cinderella-Book.html>`__, `daemon
-book <./D.html#daemon-book.html>`__, `Dragon
-Book <../D/Dragon-Book.html>`__, `Orange
-Book <../O/Orange-Book.html>`__, `Purple
-Book <../P/Purple-Book.html>`__, `Wizard
-Book <../W/Wizard-Book.html>`__, and `bible <bible.html>`__; see also
-`rainbow series <../R/rainbow-series.html>`__. Since about 1993 this
+`Aluminum Book <../A.html#Aluminum-Book>`__, `Camel
+Book <./C.html#Camel-Book>`__, `Cinderella
+Book <./C.html#Cinderella-Book>`__, `daemon
+book <./D.html#daemon-book>`__, `Dragon
+Book <./D.html#Dragon-Book>`__, `Orange
+Book <./O.html#Orange-Book>`__, `Purple
+Book <./P.html#Purple-Book>`__, `Wizard
+Book <./W.html#Wizard-Book>`__, and `bible <bible>`__; see also
+`rainbow series <./R.html#rainbow-series>`__. Since about 1993 this
 tradition has gotten a boost from the popular O'Reilly and Associates
 line of technical books, which usually feature some kind of exotic
 animal on the cover and are often called by the name of that animal.
@@ -2991,8 +2991,8 @@ passed into techspeak) but has given rise to some derivatives that are
 still jargon.
 
 The derivative reboot implies that the machine hasn't been down for
-long, or that the boot is a `bounce <bounce.html>`__ (sense 4)
-intended to clear some state of `wedgitude <../W/wedgitude.html>`__.
+long, or that the boot is a `bounce <#bounce>`__ (sense 4)
+intended to clear some state of `wedgitude <./W.html#wedgitude>`__.
 This is sometimes used of human thought processes, as in the following
 exchange: “You've lost me.” “OK, reboot. Here's the theory....”
 
@@ -3002,14 +3002,14 @@ up, as after a hardware reset or software crash).
 
 Another variant: soft boot, reinitialization of only part of a system,
 under control of other software still running: “If you're running the
-`mess-dos <../M/mess-dos.html>`__ emulator, control-alt-insert will
+`mess-dos <./M.html#mess-dos>`__ emulator, control-alt-insert will
 cause a soft-boot of the emulator, while leaving the rest of the system
 running.”
 
 Opposed to this there is hard boot, which connotes hostility towards or
 frustration with the machine being booted: “I'll have to hard-boot this
 losing Sun.” “I recommend booting it hard.” One often hard-boots by
-performing a `power cycle <../P/power-cycle.html>`__.
+performing a `power cycle <./P.html#power-cycle>`__.
 
 Historical note: this term derives from bootstrap loader, a short
 program that was read in from cards or paper tape, or toggled in from
@@ -3036,15 +3036,15 @@ Borg
 In *Star Trek: The Next Generation* the Borg is a species of cyborg that
 ruthlessly seeks to incorporate all sentient life into itself; their
 slogan is “You will be assimilated. Resistance is futile.” In hacker
-parlance, the Borg is usually `Microsoft <../M/Microsoft.html>`__,
+parlance, the Borg is usually `Microsoft <./M.html#Microsoft>`__,
 which is thought to be trying just as ruthlessly to assimilate all
 computers and the entire Internet to itself (there is a widely
 circulated image of Bill Gates as a Borg). Being forced to use Windows
 or NT is often referred to as being “Borged”. Interestingly, the
-`Halloween Documents <../H/Halloween-Documents.html>`__ reveal that
+`Halloween Documents <../H.html#Halloween-Documents>`__ reveal that
 this jargon is live within Microsoft itself. See also `Evil
-Empire <../E/Evil-Empire.html>`__, `Internet
-Exploiter <../I/Internet-Exploiter.html>`__.
+Empire <./E.html#Evil-Empire>`__, `Internet
+Exploiter <./I.html#Internet-Exploiter>`__.
 
 Other companies, notably Intel and UUNet, have also occasionally been
 equated to the Borg. In IETF circles, where direct pressure from
@@ -3071,10 +3071,10 @@ bot
 
 [common on IRC, MUD and among gamers; from “robot”]
 
-1. An `IRC <../I/IRC.html>`__ or `MUD <../M/MUD.html>`__ user who is
+1. An `IRC <./I.html#IRC>`__ or `MUD <./M.html#MUD>`__ user who is
 actually a program. On IRC, typically the robot provides some useful
 service. Examples are NickServ, which tries to prevent random users from
-adopting `nick <../N/nick.html>`__\ s already claimed by others, and
+adopting `nick <./N.html#nick>`__\ s already claimed by others, and
 MsgServ, which allows one to send asynchronous messages to be delivered
 when the recipient signs on. Also common are ‘annoybots’, such as
 KissServ, which perform no useful function except to send cute messages
@@ -3090,7 +3090,7 @@ abilities. An example can be found at
 `http://www.telefragged.com/thefatal/ <http://www.telefragged.com/thefatal/>`__.
 
 3. Term used, though less commonly, for a web
-`spider <../S/spider.html>`__. The file for controlling spider
+`spider <./S.html#spider>`__. The file for controlling spider
 behavior on your site is officially the “Robots Exclusion File” and its
 URL is “http://<somehost>/robots.txt”)
 
@@ -3112,9 +3112,9 @@ feeders infest free or almost free services such as AOL, MSN, and
 Hotmail, too many flock to whomever happens to be the cheapest regional
 ISP at the time. Bottom feeders are often the classic problem user,
 known for unleashing spam, flamage, and other breaches of
-`netiquette <../N/netiquette.html>`__.
+`netiquette <./N.html#netiquette>`__.
 
-2. Syn. for `slopsucker <../S/slopsucker.html>`__, derived from the
+2. Syn. for `slopsucker <./S.html#slopsucker>`__, derived from the
 fishermen's and naturalists' term for finny creatures who subsist on the
 primordial ooze. (This sense is older.)
 
@@ -3128,7 +3128,7 @@ bottom-post
 In a news or mail reply, to put the response to a news or email message
 after the quoted content from the parent message. This is correct form,
 and until around 2000 was so universal on the Internet that neither the
-term ‘bottom-post’ nor its antonym `top-post <../T/top-post.html>`__
+term ‘bottom-post’ nor its antonym `top-post <./T.html#top-post>`__
 existed. Hackers consider that the best practice is actually to excerpt
 only the relevent portions of the parent message, then intersperse the
 poster's response in such a way that each section of response appears
@@ -3164,23 +3164,23 @@ bounce
 1. [common; perhaps by analogy to a bouncing check] An electronic mail
 message that is undeliverable and returns an error notification to the
 sender is said to bounce. See also `bounce
-message <bounce-message.html>`__.
+message <#bounce-message>`__.
 
 2. To engage in sexual intercourse; prob.: from the expression ‘bouncing
 the mattress’, but influenced by Roo's psychosexually loaded “Try
 bouncing me, Tigger!” from the *Winnie-the-Pooh* books. Compare
-`boink <boink.html>`__.
+`boink <#boink>`__.
 
 3. To casually reboot a system in order to clear up a transient problem
 (possibly editing a configuration file in the process, if it is one that
 is only re-read at boot time). Reported primarily among
-`VMS <../V/VMS.html>`__ and `Unix <../U/Unix.html>`__ users.
+`VMS <./V.html#VMS>`__ and `Unix <./U.html#Unix>`__ users.
 
 4. [VM/CMS programmers] *Automatic* warm-start of a machine after an
 error. “I logged on this morning and found it had bounced 7 times during
 the night”
 
-6. [IBM] To `power cycle <../P/power-cycle.html>`__ a peripheral in
+6. [IBM] To `power cycle <./P.html#power-cycle>`__ a peripheral in
 order to reset it.
 
 
@@ -3191,14 +3191,14 @@ bounce message
 **bounce message**: n.
 
 [common] Notification message returned to sender by a site unable to
-relay `email <./E.html#email.html>`__ to the intended Internet address
-recipient or the next link in a `bang path <bang-path.html>`__ (see
-`bounce <bounce.html>`__, sense 1). Reasons might include a
-nonexistent or misspelled username or a `down <./D.html#down.html>`__
+relay `email <./E.html#email>`__ to the intended Internet address
+recipient or the next link in a `bang path <#bang-path>`__ (see
+`bounce <#bounce>`__, sense 1). Reasons might include a
+nonexistent or misspelled username or a `down <./D.html#down>`__
 relay site. Bounce messages can themselves fail, with occasionally ugly
 results; see `sorcerer's apprentice
-mode <../S/sorcerers-apprentice-mode.html>`__ and `software
-laser <../S/software-laser.html>`__. The terms bounce mail and barfmail
+mode <./S.html#sorcerers-apprentice-mode>`__ and `software
+laser <./S.html#software-laser>`__. The terms bounce mail and barfmail
 are also common.
 
 
@@ -3240,7 +3240,7 @@ code they are often surrounded by a box in a style something like this:
 Common variants of this style omit the asterisks in column 2 or add a
 matching row of asterisks closing the right side of the box. The sparest
 variant omits all but the comment delimiters themselves; the ‘box’ is
-implied. Oppose `winged comments <../W/winged-comments.html>`__.
+implied. Oppose `winged comments <./W.html#winged-comments>`__.
 
 
 boxen
@@ -3248,9 +3248,9 @@ boxen
 
 **boxen**: /bok´sn/, pl.n.
 
-[very common; by analogy with `VAXen <../V/VAXen.html>`__] Fanciful
-plural of `box <box.html>`__ often encountered in the phrase ‘Unix
-boxen’, used to describe commodity `Unix <../U/Unix.html>`__ hardware.
+[very common; by analogy with `VAXen <./V.html#VAXen>`__] Fanciful
+plural of `box <#box>`__ often encountered in the phrase ‘Unix
+boxen’, used to describe commodity `Unix <./U.html#Unix>`__ hardware.
 The connotation is that any two Unix boxen are interchangeable.
 
 
@@ -3272,9 +3272,9 @@ boxology
 
 **boxology**: /bok·sol'@·jee/, n.
 
-Syn. `ASCII art <../A/ASCII-art.html>`__. This term implies a more
+Syn. `ASCII art <./A.html#ASCII-art>`__. This term implies a more
 restricted domain, that of box-and-arrow drawings. “His report has a lot
-of boxology in it.” Compare `macrology <../M/macrology.html>`__.
+of boxology in it.” Compare `macrology <./M.html#macrology>`__.
 
 bozotic
 ============
@@ -3284,7 +3284,7 @@ bozotic
 [from the name of a TV clown even more losing than Ronald McDonald]
 Resembling or having the quality of a bozo; that is, clownish,
 ludicrously wrong, unintentionally humorous. Compare
-`wonky <../W/wonky.html>`__, `demented <./D.html#demented.html>`__. Note
+`wonky <./W.html#wonky>`__, `demented <./D.html#demented>`__. Note
 that the noun ‘bozo’ occurs in slang, but the mainstream adjectival form
 would be ‘bozo-like’ or (in New England) ‘bozoish’.
 
@@ -3296,9 +3296,9 @@ brain-damaged
 
 1. [common; generalization of “Honeywell Brain Damage” (HBD), a
 theoretical disease invented to explain certain utter cretinisms in
-Honeywell `Multics <../M/Multics.html>`__] adj. Obviously wrong;
-`cretinous <./C.html#cretinous.html>`__;
-`demented <./D.html#demented.html>`__. There is an implication that the
+Honeywell `Multics <./M.html#Multics>`__] adj. Obviously wrong;
+`cretinous <./C.html#cretinous>`__;
+`demented <./D.html#demented>`__. There is an implication that the
 person responsible must have suffered brain damage, because he should
 have known better. Calling something brain-damaged is really bad; it
 also implies it is unusable, and that its failure to work is due to poor
@@ -3308,7 +3308,7 @@ name? Now *that's* brain-damaged!”
 2. [esp. in the Mac world] May refer to free demonstration software that
 has been deliberately crippled in some way so as not to compete with the
 product it is intended to sell. Syn.
-`crippleware <./C.html#crippleware.html>`__.
+`crippleware <./C.html#crippleware>`__.
 
 
 
@@ -3331,10 +3331,10 @@ brain dump
 [common] The act of telling someone everything one knows about a
 particular topic or project. Typically used when someone is going to let
 a new party maintain a piece of code. Conceptually analogous to an
-operating system `core dump <./C.html#core-dump.html>`__ in that it saves
-a lot of useful `state <../S/state.html>`__ before an exit. “You'll
+operating system `core dump <./C.html#core-dump>`__ in that it saves
+a lot of useful `state <./S.html#state>`__ before an exit. “You'll
 have to give me a brain dump on FOOBAR before you start your new job at
-HackerCorp.” See `core dump <./C.html#core-dump.html>`__ (sense 4). At
+HackerCorp.” See `core dump <./C.html#core-dump>`__ (sense 4). At
 Sun, this is also known as TOI (transfer of information).
 
 
@@ -3344,7 +3344,7 @@ brain fart
 
 **brain fart**: n.
 
-The actual result of a `braino <braino.html>`__, as opposed to the
+The actual result of a `braino <#braino>`__, as opposed to the
 mental glitch that is the braino itself. E.g., typing **dir** on a Unix
 box after a session with DOS.
 
@@ -3355,8 +3355,8 @@ braino
 
 **braino**: /bray´no/, n.
 
-Syn. for `thinko <../T/thinko.html>`__. See also `brain
-fart <brain-fart.html>`__.
+Syn. for `thinko <./T.html#thinko>`__. See also `brain
+fart <#brain-fart>`__.
 
 
 
@@ -3365,7 +3365,7 @@ brainwidth
 
 **brainwidth**: n.
 
-[Great Britain] Analagous to `bandwidth <bandwidth.html>`__ but used
+[Great Britain] Analagous to `bandwidth <#bandwidth>`__ but used
 strictly for human capacity to process information and especially to
 multitask. “Writing email is taking up most of my brainwidth right now,
 I can't look at that Flash animation.”
@@ -3377,7 +3377,7 @@ bread crumbs
 **bread crumbs**: n.
 
 1. Debugging statements inserted into a program that emit output or log
-indicators of the program's `state <../S/state.html>`__ to a file so
+indicators of the program's `state <./S.html#state>`__ to a file so
 you can see where it dies or pin down the cause of surprising behavior.
 The term is probably a reference to the Hansel and Gretel story from the
 Brothers Grimm or the older French folktale of Thumbelina; in several
@@ -3401,11 +3401,11 @@ language in itself. That is, for a new language called, hypothetically,
 FOOGOL, one has reached break-even when one can write a demonstration
 compiler for FOOGOL in FOOGOL, discard the original implementation
 language, and thereafter use working versions of FOOGOL to develop newer
-ones. This is an important milestone; see `MFTL <../M/MFTL.html>`__.
+ones. This is an important milestone; see `MFTL <./M.html#MFTL>`__.
 
 Since this entry was first written, several correspondents have reported
 that there actually was a compiler for a tiny Algol-like language called
-Foogol floating around on various `VAXen <../V/VAXen.html>`__ in the
+Foogol floating around on various `VAXen <./V.html#VAXen>`__ in the
 early and mid-1980s. A FOOGOL implementation is available at the
 Retrocomputing Museum
 `http://www.catb.org/retro/ <http://www.catb.org/retro/>`__.
@@ -3417,7 +3417,7 @@ break
 
 **break**
 
-1. vt. To cause to be `broken <broken.html>`__ (in any sense). “Your
+1. vt. To cause to be `broken <#broken>`__ (in any sense). “Your
 latest patch to the editor broke the paragraph commands.”
 
 2. v. (of a program) To stop temporarily, so that it may debugged. The
@@ -3428,7 +3428,7 @@ high) over a serial comm line.
 
 4. [Unix] vi. To strike whatever key currently causes the tty driver to
 send SIGINT to the current process. Normally, break (sense 3), delete or
-`control-C <./C.html#control-C.html>`__ does this.
+`control-C <./C.html#control-C>`__ does this.
 
 5. break break may be said to interrupt a conversation (this is an
 example of verb doubling). This usage comes from radio communications,
@@ -3442,12 +3442,12 @@ breath-of-life packet
 **breath-of-life packet**: n.
 
 [XEROX PARC] An Ethernet packet that contains bootstrap (see
-`boot <boot.html>`__) code, periodically sent out from a working
+`boot <#boot>`__) code, periodically sent out from a working
 computer to infuse the ‘breath of life’ into any computer on the network
 that has happened to crash. Machines depending on such packets have
 sufficient hardware or firmware code to wait for (or request) such a
 packet during the reboot process. See also `dickless
-workstation <./D.html#dickless-workstation.html>`__.
+workstation <./D.html#dickless-workstation>`__.
 
 The notional kiss-of-death packet, with a function complementary to that
 of a breath-of-life packet, is recommended for dealing with hosts that
@@ -3463,7 +3463,7 @@ breedle
 
 **breedle**: n.
 
-See `feep <./F.html#feep.html>`__.
+See `feep <./F.html#feep>`__.
 
 
 
@@ -3475,8 +3475,8 @@ Breidbart Index
 A measurement of the severity of spam invented by long-time hacker Seth
 Breidbart, used for programming cancelbots. The Breidbart Index takes
 into account the fact that excessive multi-posting
-`EMP <../E/EMP.html>`__ is worse than excessive cross-posting
-`ECP <../E/ECP.html>`__. The Breidbart Index is computed as follows:
+`EMP <./E.html#EMP>`__ is worse than excessive cross-posting
+`ECP <./E.html#ECP>`__. The Breidbart Index is computed as follows:
 For each article in a spam, take the square-root of the number of
 newsgroups to which the article is posted. The Breidbart Index is the
 sum of the square roots of all of the posts in the spam. For example,
@@ -3500,7 +3500,7 @@ brick
 **brick**: n.
 
 1. A piece of equipment that has been programmed or configured into a
-`hung <./H.html#hung.html>`__, `wedged <../W/wedged.html>`__,unusable
+`hung <./H.html#hung>`__, `wedged <./W.html#wedged>`__,unusable
 state. Especially used to describe what happens to devices like routers
 or PDAs that run from firmware when the firmware image is damaged or its
 settings are somehow patched to impossible values. This term usually
@@ -3535,10 +3535,10 @@ bring X to its knees
 
 [common] To present a machine, operating system, piece of software, or
 algorithm with a load so extreme or
-`pathological <../P/pathological.html>`__ that it grinds to a halt.:
+`pathological <./P.html#pathological>`__ that it grinds to a halt.:
 “To bring a MicroVAX to its knees, try twenty users running
-`vi <../V/vi.html>`__ — or four running
-`EMACS <../E/EMACS.html>`__.” Compare `hog <./H.html#hog.html>`__.
+`vi <./V.html#vi>`__ — or four running
+`EMACS <./E.html#EMACS>`__.” Compare `hog <./H.html#hog>`__.
 
 
 
@@ -3556,7 +3556,7 @@ be brittle. This term is often used to describe the results of a
 research effort that were never intended to be robust, but it can be
 applied to commercial software, which (due to closed-source development)
 displays the quality far more often than it ought to. Oppose
-`robust <../R/robust.html>`__.
+`robust <./R.html#robust>`__.
 
 
 
@@ -3569,8 +3569,8 @@ broadcast storm
 [common] An incorrect packet broadcast on a network that causes most
 hosts to respond all at once, typically with wrong answers that start
 the process over again. See `network
-meltdown <../N/network-meltdown.html>`__; compare `mail
-storm <../M/mail-storm.html>`__.
+meltdown <./N.html#network-meltdown>`__; compare `mail
+storm <./M.html#mail-storm>`__.
 
 
 broken arrow
@@ -3581,7 +3581,7 @@ broken arrow
 [IBM] The error code displayed on line 25 of a 3270 terminal (or a PC
 emulating a 3270) for various kinds of protocol violations and
 “unexpected” error conditions (including connection to a
-`down <./D.html#down.html>`__ computer). On a PC, simulated with ‘->/\_’,
+`down <./D.html#down>`__ computer). On a PC, simulated with ‘->/\_’,
 with the two center characters overstruck.
 
 Note: to appreciate this term fully, it helps to know that “broken
@@ -3626,8 +3626,8 @@ BrokenWindows
 
 **BrokenWindows**: n.
 
-Abusive hackerism for the `crufty <./C.html#crufty.html>`__ and
-`elephantine <./E.html#elephantine.html>`__ `X <../X/X.html>`__
+Abusive hackerism for the `crufty <./C.html#crufty>`__ and
+`elephantine <./E.html#elephantine>`__ `X <./X.html#X>`__
 environment on Sun machines; properly called ‘OpenWindows’.
 
 
@@ -3641,8 +3641,8 @@ broket
 characters "<" and ">", when used as paired enclosing delimiters.
 This word originated as a contraction of the phrase ‘broken bracket’,
 that is, a bracket that is bent in the middle. (At MIT, and apparently
-in the `Real World <../R/Real-World.html>`__ as well, these are
-usually called `angle brackets <./A.html#angle-brackets.html>`__.)
+in the `Real World <./R.html#Real-World>`__ as well, these are
+usually called `angle brackets <./A.html#angle-brackets>`__.)
 
 
 
@@ -3662,11 +3662,11 @@ OS/360 project and author of *The Mythical Man-Month* (Addison-Wesley,
 engineering. The myth in question has been most tersely expressed as
 “Programmer time is fungible” and Brooks established conclusively that
 it is not. Hackers have never forgotten his advice (though it's not the
-whole story; see `bazaar <bazaar.html>`__); too often,
-`management <../M/management.html>`__ still does. See also
-`creationism <./C.html#creationism.html>`__, `second-system
-effect <../S/second-system-effect.html>`__,
-`optimism <../O/optimism.html>`__.
+whole story; see `bazaar <#bazaar>`__); too often,
+`management <./M.html#management>`__ still does. See also
+`creationism <./C.html#creationism>`__, `second-system
+effect <./S.html#second-system-effect>`__,
+`optimism <./O.html#optimism>`__.
 
 
 
@@ -3703,7 +3703,7 @@ BRS
 
 **BRS**: /B·R·S/, n.
 
-Syn. `Big Red Switch <Big-Red-Switch.html>`__. This abbreviation is
+Syn. `Big Red Switch <#Big-Red-Switch>`__. This abbreviation is
 fairly common on-line.
 
 
@@ -3713,13 +3713,13 @@ brute force and ignorance
 **brute force and ignorance**: n.
 
 A popular design technique at many software houses — `brute
-force <brute-force.html>`__ coding unrelieved by any knowledge of how
+force <#brute-force>`__ coding unrelieved by any knowledge of how
 problems have been previously solved in elegant ways. Dogmatic adherence
 to design methodologies tends to encourage this sort of thing.
-Characteristic of early `larval stage <./L.html#larval-stage.html>`__
+Characteristic of early `larval stage <./L.html#larval-stage>`__
 programming; unfortunately, many never outgrow it. Often abbreviated
-BFI: “Gak, they used a `bubble sort <bubble-sort.html>`__! That's
-strictly from BFI.” Compare `bogosity <bogosity.html>`__. A very
+BFI: “Gak, they used a `bubble sort <#bubble-sort>`__! That's
+strictly from BFI.” Compare `bogosity <#bogosity>`__. A very
 similar usage is said to be mainstream in Great Britain.
 
 
@@ -3735,11 +3735,11 @@ scale and applying naive methods suited to small problems directly to
 large ones. The term can also be used in reference to programming style:
 brute-force programs are written in a heavyhanded, tedious way, full of
 repetition and devoid of any elegance or useful abstraction (see also
-`brute force and ignorance <brute-force-and-ignorance.html>`__).
+`brute force and ignorance <brute-force-and-ignorance>`__).
 
-The `canonical <./C.html#canonical.html>`__ example of a brute-force
+The `canonical <./C.html#canonical>`__ example of a brute-force
 algorithm is associated with the ‘traveling salesman problem’ (TSP), a
-classical `NP- <../N/NP-.html>`__\ hard problem: Suppose a person is
+classical `NP- <./N.html#NP->`__\ hard problem: Suppose a person is
 in, say, Boston, and wishes to drive to "N" other cities. In what
 order should the cities be visited in order to minimize the distance
 travelled? The brute-force method is to simply generate all possible
@@ -3750,10 +3750,10 @@ Francisco and New York, in that order). For very small "N" it works
 well, but it rapidly becomes absurdly inefficient when "N" increases
 (for "N =    15", there are already 1,307,674,368,000 possible routes
 to consider, and for "N = 1000" — well, see
-`bignum <bignum.html>`__). Sometimes, unfortunately, there is no
+`bignum <#bignum>`__). Sometimes, unfortunately, there is no
 better general solution than brute force. See also
-`NP- <../N/NP-.html>`__ and `rubber-hose
-cryptanalysis <../R/rubber-hose-cryptanalysis.html>`__.
+`NP- <./N.html#NP->`__ and `rubber-hose
+cryptanalysis <./R.html#rubber-hose-cryptanalysis>`__.
 
 A more simple-minded example of brute-force programming is finding the
 smallest number in a large list by first using an existing program to
@@ -3770,9 +3770,9 @@ improvement.
 
 Ken Thompson, co-inventor of Unix, is reported to have uttered the
 epigram “When in doubt, use brute force”. He probably intended this as a
-`ha ha only serious <./H.html#ha-ha-only-serious.html>`__, but the
+`ha ha only serious <./H.html#ha-ha-only-serious>`__, but the
 original Unix kernel's preference for simple, robust, and portable
-algorithms over `brittle <brittle.html>`__ ‘smart’ ones does seem to
+algorithms over `brittle <#brittle>`__ ‘smart’ ones does seem to
 have been a significant factor in the success of that OS. Like so many
 other tradeoffs in software design, the choice between brute force and
 complex, finely-tuned cleverness is often a difficult one that requires
@@ -3785,9 +3785,9 @@ BSD
 **BSD**: /B·S·D/, n.
 
 [abbreviation for ‘Berkeley Software Distribution’] a family of
-`Unix <../U/Unix.html>`__ versions for the `DEC <../D/DEC.html>`__
-`VAX <../V/VAX.html>`__ and `PDP-11 <../P/PDP-11.html>`__ developed
-by Bill Joy and others at `Berzerkeley <Berzerkeley.html>`__ starting
+`Unix <./U.html#Unix>`__ versions for the `DEC <./D.html#DEC>`__
+`VAX <./V.html#VAX>`__ and `PDP-11 <./P.html#PDP-11>`__ developed
+by Bill Joy and others at `Berzerkeley <#Berzerkeley>`__ starting
 around 1977, incorporating paged virtual memory, TCP/IP networking
 enhancements, and many other features. The BSD versions (4.1, 4.2, and
 4.3) and the commercial versions derived from them (SunOS, ULTRIX, and
@@ -3796,7 +3796,7 @@ successful standardization efforts after about 1986; descendants
 including Free/Open/NetBSD, BSD/OS and MacOS X are still widely popular.
 Note that BSD versions going back to 2.9 are often referred to by their
 version numbers alone, without the BSD prefix. See also
-`Unix <../U/Unix.html>`__.
+`Unix <./U.html#Unix>`__.
 
 
 
@@ -3806,7 +3806,7 @@ BSOD
 **BSOD**: /B·S·O·D/
 
 Very common abbreviation for `Blue Screen of
-Death <Blue-Screen-of-Death.html>`__. Both spoken and written.
+Death <#Blue-Screen-of-Death>`__. Both spoken and written.
 
 
 BUAF
@@ -3815,13 +3815,13 @@ BUAF
 **BUAF**: //, n.
 
 [abbreviation, from "alt.fan.warlord"] Big Ugly ASCII Font — a special
-form of `ASCII art <../A/ASCII-art.html>`__. Various programs exist
+form of `ASCII art <./A.html#ASCII-art>`__. Various programs exist
 for rendering text strings into block, bloob, and pseudo-script fonts in
 cells between four and six character cells on a side; this is smaller
-than the letters generated by older `banner <banner.html>`__ (sense 2)
+than the letters generated by older `banner <banner>`__ (sense 2)
 programs. These are sometimes used to render one's name in a `sig
-block <../S/sig-block.html>`__, and are critically referred to as
-BUAFs. See `warlording <../W/warlording.html>`__.
+block <./S.html#sig-block>`__, and are critically referred to as
+BUAFs. See `warlording <./W.html#warlording>`__.
 
 BUAG
 =================
@@ -3829,12 +3829,12 @@ BUAG
 **BUAG**: //, n.
 
 [abbreviation, from "alt.fan.warlord"] Big Ugly ASCII Graphic.
-Pejorative term for ugly `ASCII art <../A/ASCII-art.html>`__,
-especially as found in `sig block <../S/sig-block.html>`__\ s. For
+Pejorative term for ugly `ASCII art <./A.html#ASCII-art>`__,
+especially as found in `sig block <./S.html#sig-block>`__\ s. For
 some reason, mutations of the head of Bart Simpson are particularly
 common in the least imaginative `sig
-block <../S/sig-block.html>`__\ s. See
-`warlording <../W/warlording.html>`__.
+block <./S.html#sig-block>`__\ s. See
+`warlording <./W.html#warlording>`__.
 
 
 
@@ -3848,11 +3848,11 @@ values in the list to be sorted are compared and interchanged if they
 are out of order; thus, list entries ‘bubble upward’ in the list until
 they bump into one with a lower sort value. Because it is not very good
 relative to other methods and is the one typically stumbled on by
-`naive <../N/naive.html>`__ and untutored programmers, hackers
-consider it the `canonical <./C.html#canonical.html>`__ example of a naive
+`naive <./N.html#naive>`__ and untutored programmers, hackers
+consider it the `canonical <./C.html#canonical>`__ example of a naive
 algorithm. (However, it's been shown by repeated experiment that below
 about 5000 records bubble-sort is OK anyway.) The canonical example of a
-really *bad* algorithm is `bogo-sort <bogo-sort.html>`__. A bubble
+really *bad* algorithm is `bogo-sort <#bogo-sort>`__. A bubble
 sort might be used out of ignorance, but any use of bogo-sort could
 issue only from brain damage or willful perversity.
 
@@ -3868,7 +3868,7 @@ keyboard (octal 200 and 400 respectively), resulting in a 9-bit keyboard
 character set. The MIT AI TV (Knight) keyboards extended this with TOP
 and separate left and right CONTROL and META keys, resulting in a 12-bit
 character set; later, LISP Machines added such keys as SUPER, HYPER, and
-GREEK (see `space-cadet keyboard <../S/space-cadet-keyboard.html>`__).
+GREEK (see `space-cadet keyboard <./S.html#space-cadet-keyboard>`__).
 
 2. By extension, bits associated with ‘extra’ shift keys on any
 keyboard, e.g., the ALT on an IBM PC or command and option keys on a
@@ -3887,8 +3887,8 @@ at Stanford, including most notably TV-EDIT and NLS.
 The term spread to MIT and CMU early and is now in general use.
 Ironically, Wirth himself remained unaware of its derivation for nearly
 30 years, until GLS dug up this history in early 1993! See `double
-bucky <./D.html#double-bucky.html>`__, `quadruple
-bucky <../Q/quadruple-bucky.html>`__.
+bucky <./D.html#double-bucky>`__, `quadruple
+bucky <./Q.html#quadruple-bucky>`__.
 
 
 
@@ -3897,7 +3897,7 @@ buffer chuck
 
 **buffer chuck**: n.
 
-Shorter and ruder syn. for `buffer overflow <buffer-overflow.html>`__.
+Shorter and ruder syn. for `buffer overflow <#buffer-overflow>`__.
 
 
 
@@ -3911,19 +3911,19 @@ area) than it can handle. This problem is commonly exploited by
 `cracker <./C.html#cracker.html>`__\ s to get arbitrary commands executed
 by a program running with root permissions. This may be due to a
 mismatch in the processing rates of the producing and consuming
-processes (see `overrun <../O/overrun.html>`__ and `firehose
+processes (see `overrun <./O.html#overrun.html>`__ and `firehose
 syndrome <./F.html#firehose-syndrome.html>`__), or because the buffer is
 simply too small to hold all the data that must accumulate before a
 piece of it can be processed. For example, in a text-processing tool
-that `crunch <./C.html#crunch.html>`__\ es a line at a time, a short line
-buffer can result in `lossage <./L.html#lossage.html>`__ as input from a
+that `crunch <./C.html#crunch>`__\ es a line at a time, a short line
+buffer can result in `lossage <./L.html#lossage>`__ as input from a
 long line overflows the buffer and trashes data beyond it. Good
 defensive programming would check for overflow on each character and
 stop accepting data when the buffer is full up. The term is used of and
 by humans in a metaphorical sense. “What time did I agree to meet you?
 My buffer must have overflowed.” Or “If I answer that phone my buffer is
-going to overflow.” See also `spam <../S/spam.html>`__, `overrun
-screw <../O/overrun-screw.html>`__.
+going to overflow.” See also `spam <./S.html#spam>`__, `overrun
+screw <./O.html#overrun-screw>`__.
 
 
 bug-compatible
@@ -3932,8 +3932,8 @@ bug-compatible
 **bug-compatible**: adj.
 
 [common] Said of a design or revision that has been badly compromised by
-a requirement to be compatible with `fossil <./F.html#fossil.html>`__\ s
-or `misfeature <../M/misfeature.html>`__\ s in other programs or
+a requirement to be compatible with `fossil <./F.html#fossil>`__\ s
+or `misfeature <./M.html#misfeature>`__\ s in other programs or
 (esp.) previous releases of itself. “MS-DOS 2.0 used \\ as a path
 separator to be bug-compatible with some cretin's choice of / as an
 option character in 1.0.”
@@ -3944,7 +3944,7 @@ bug-for-bug compatible
 
 **bug-for-bug compatible**: n.
 
-Same as `bug-compatible <bug-compatible.html>`__, with the additional
+Same as `bug-compatible <#bug-compatible>`__, with the additional
 implication that much tedious effort went into ensuring that each
 (known) bug was replicated.
 
@@ -3957,17 +3957,17 @@ bug
 
 An unwanted and unintended property of a program or piece of hardware,
 esp. one that causes it to malfunction. Antonym of
-`feature <./F.html#feature.html>`__. Examples: “There's a bug in the
+`feature <./F.html#feature>`__. Examples: “There's a bug in the
 editor: it writes things out backwards.” “The system crashed because of
 a hardware bug.” “Fred is a winner, but he has a few bugs” (i.e., Fred
 is a good guy, but he has a few personality problems).
 
 Historical note: Admiral Grace Hopper (an early computing pioneer better
-known for inventing `COBOL <../C/COBOL.html>`__) liked to tell a story
-in which a technician solved a `glitch <./G.html#glitch.html>`__ in the
+known for inventing `COBOL <./C.html#COBOL>`__) liked to tell a story
+in which a technician solved a `glitch <./G.html#glitch>`__ in the
 Harvard Mark II machine by pulling an actual insect out from between the
 contacts of one of its relays, and she subsequently promulgated
-`bug <bug.html>`__ in its hackish sense as a joke about the incident
+`bug <#bug>`__ in its hackish sense as a joke about the incident
 (though, as she was careful to admit, she was not there when it
 happened). For many years the logbook associated with the incident and
 the actual bug in question (a moth) sat in a display case at the Naval
@@ -4065,7 +4065,7 @@ It helps to remember that this dates from 1973.
 
 (The next cartoon in the Crunchly saga is
 `73-10-31 <./A.html#ad-hockery.html#crunchly73-10-31>`__. The previous
-cartoon was `73-07-24 <../O/overflow-bit.html#crunchly73-07-24>`__.)
+cartoon was `73-07-24 <./O.html#overflow-bit.html#crunchly73-07-24>`__.)
 
 
 
@@ -4081,10 +4081,10 @@ bug-of-the-month club
 technique in the U.S.] A mythical club which users of sendmail(8) (the
 Unix mail daemon) belong to; this was coined on the Usenet newsgroup
 comp.security.unix at a time when sendmail security holes, which allowed
-outside `cracker <./C.html#cracker.html>`__\ s access to the system, were
+outside `cracker <./C.html#cracker>`__\ s access to the system, were
 being uncovered at an alarming rate, forcing sysadmins to update very
 often. Also, more completely, fatal security bug-of-the-month club. See
-also `kernel-of-the-week club <./K.html#kernel-of-the-week-club.html>`__.
+also `kernel-of-the-week club <./K.html#kernel-of-the-week-club>`__.
 
 
 
@@ -4096,13 +4096,13 @@ bulletproof
 **bulletproof**: adj.
 
 Used of an algorithm or implementation considered extremely
-`robust <../R/robust.html>`__; lossage-resistant; capable of correctly
+`robust <./R.html#robust>`__; lossage-resistant; capable of correctly
 recovering from any imaginable exception condition — a rare and valued
 quality. Implies that the programmer has thought of all possible errors,
-and added `code <./C.html#code.html>`__ to protect against each one. Thus,
+and added `code <./C.html#code>`__ to protect against each one. Thus,
 in some cases, this can imply code that is too heavyweight, due to
 excessive paranoia on the part of the programmer. Syn.
-`armor-plated <./A.html#armor-plated.html>`__.
+`armor-plated <./A.html#armor-plated>`__.
 
 
 
@@ -4113,7 +4113,7 @@ bullschildt
 
 [comp.lang.c on USENET] A confident, but incorrect, statement about a
 programming language. This immortalizes a very bad book about
-`C <../C/C.html>`__, Herbert Schildt's *C - The Complete Reference*.
+`C <./C.html#C>`__, Herbert Schildt's *C - The Complete Reference*.
 One reviewer commented “The naive errors in this book would be
 embarrassing even in a programming assignment turned in by a computer
 science college sophomore.”
@@ -4135,7 +4135,7 @@ burble
 
 **burble**: v.
 
-[from Lewis Carroll's *Jabberwocky*] Like `flame <./F.html#flame.html>`__,
+[from Lewis Carroll's *Jabberwocky*] Like `flame <./F.html#flame>`__,
 but connotes that the source is truly clueless and ineffectual (mere
 flamers can be competent). A term of deep contempt. “There's some guy on
 the phone burbling about how he got a DISK FULL error and it's all our
@@ -4149,13 +4149,13 @@ buried treasure
 **buried treasure**: n.
 
 A surprising piece of code found in some program. While usually not
-wrong, it tends to vary from `crufty <./C.html#crufty.html>`__ to
-`bletcherous <bletcherous.html>`__, and has lain undiscovered only
+wrong, it tends to vary from `crufty <./C.html#crufty>`__ to
+`bletcherous <#bletcherous>`__, and has lain undiscovered only
 because it was functionally correct, however horrible it is. Used
 sarcastically, because what is found is anything *but* treasure. Buried
 treasure almost always needs to be dug up and removed. “I just found
 that the scheduler sorts its queue using `bubble
-sort <bubble-sort.html>`__! Buried treasure!”
+sort <#bubble-sort>`__! Buried treasure!”
 
 
 burn a CD
@@ -4173,7 +4173,7 @@ they are not appropriate for volume production. Writable CDs are
 suitable for software backups and for short-turnaround-time low-volume
 software distribution, such as sending a beta release version to a few
 selected field test sites. Compare `cut a
-tape <./C.html#cut-a-tape.html>`__.
+tape <./C.html#cut-a-tape>`__.
 
 
 
@@ -4183,16 +4183,16 @@ burn-in period
 **burn-in period**: n.
 
 1. A factory test designed to catch systems with
-`marginal <../M/marginal.html>`__ components before they get out the
+`marginal <./M.html#marginal>`__ components before they get out the
 door; the theory is that burn-in will protect customers by outwaiting
-the steepest part of the `bathtub curve <bathtub-curve.html>`__ (see
-`infant mortality <./I.html#infant-mortality.html>`__).
+the steepest part of the `bathtub curve <#bathtub-curve>`__ (see
+`infant mortality <./I.html#infant-mortality>`__).
 
 2. A period of indeterminate length in which a person using a computer
 is so intensely involved in his project that he forgets basic needs such
 as food, drink, sleep, etc. Warning: Excessive burn-in can lead to
-burn-out. See `hack mode <./H.html#hack-mode.html>`__, `larval
-stage <./L.html#larval-stage.html>`__.
+burn-out. See `hack mode <./H.html#hack-mode>`__, `larval
+stage <./L.html#larval-stage>`__.
 
 Historical note: the origin of “burn-in” (sense 1) is apparently the
 practice of setting a new-model airplane's brakes on fire, then
@@ -4224,12 +4224,12 @@ and thus cannot do anything else at the moment. “Can't talk now, I'm
 busy-waiting till Bill gets off the phone.”
 
 Technically, busy-wait means to wait on an event by
-`spin <../S/spin.html>`__\ ning through a tight or timed-delay loop
+`spin <./S.html#spin>`__\ ning through a tight or timed-delay loop
 that polls for the event on each pass, as opposed to setting up an
 interrupt handler and continuing execution on another part of the task.
 In applications this is a wasteful technique, and best avoided on
 timesharing systems where a busy-waiting program may
-`hog <./H.html#hog.html>`__ the processor. However, it is often
+`hog <./H.html#hog>`__ the processor. However, it is often
 unavoidable in kernel programming. In the Linux world, kernel busy-waits
 are usually referred to as spinlocks.
 
@@ -4243,11 +4243,11 @@ buzz
 1. Of a program, to run with no indication of progress and perhaps
 without guarantee of ever finishing; esp. said of programs thought to be
 executing tight loops of code. A program that is buzzing appears to be
-`catatonic <./C.html#catatonic.html>`__, but never gets out of catatonia,
+`catatonic <./C.html#catatonic>`__, but never gets out of catatonia,
 while a buzzing loop may eventually end of its own accord. “The program
 buzzes for about 10 seconds trying to sort all the names into order.”
-See `spin <../S/spin.html>`__; see also
-`grovel <./G.html#grovel.html>`__.
+See `spin <./S.html#spin>`__; see also
+`grovel <./G.html#grovel>`__.
 
 2. [ETA Systems] To test a wire or printed circuit trace for continuity,
 esp. by applying an AC rather than DC signal. Some wire faults will pass
@@ -4278,7 +4278,7 @@ BWQ
 
 [IBM: abbreviation, \`Buzz Word Quotient'] The percentage of buzzwords
 in a speech or documents. Usually roughly proportional to
-`bogosity <bogosity.html>`__. See `TLA <../T/TLA.html>`__.
+`bogosity <#bogosity>`__. See `TLA <./T.html#TLA>`__.
 
 
 
@@ -4300,7 +4300,7 @@ file, reading that into an editor, locating the top and bottom of the
 message in question, deleting the rest of the file, inserting \`>'
 characters on each line, writing the file, leaving the editor, returning
 to the mailer, reading the file in, and later remembering to delete the
-file. Compare `eyeball search <./E.html#eyeball-search.html>`__.
+file. Compare `eyeball search <./E.html#eyeball-search>`__.
 
 2. [common] By extension, writing code which does something in an
 explicit or low-level way for which a presupplied library routine ought
@@ -4326,8 +4326,8 @@ described as 1 to 6 bits (typical I/O equipment of the period used 6-bit
 chunks of information). The move to an 8-bit byte happened in late 1956,
 and this size was later adopted and promulgated as a standard by the
 System/360. The word was coined by mutating the word ‘bite’ so it would
-not be accidentally misspelled as `bit <bit.html>`__. See also
-`nybble <../N/nybble.html>`__.
+not be accidentally misspelled as `bit <#bit>`__. See also
+`nybble <./N.html#nybble>`__.
 
 
 
@@ -4336,8 +4336,8 @@ byte sex
 
 **byte sex**: n.
 
-[common] The byte sex of hardware is `big-endian <big-endian.html>`__
-or `little-endian <./L.html#little-endian.html>`__; see those entries.
+[common] The byte sex of hardware is `big-endian <#big-endian>`__
+or `little-endian <./L.html#little-endian>`__; see those entries.
 
 
 
@@ -4347,10 +4347,10 @@ bytesexual
 **bytesexual**: /bi:t\`sek´shu·@l/, adj.
 
 [rare] Said of hardware, denotes willingness to compute or pass data in
-either `big-endian <big-endian.html>`__ or
-`little-endian <./L.html#little-endian.html>`__ format (depending,
-presumably, on a `mode bit <../M/mode-bit.html>`__ somewhere). See
-also `NUXI problem <../N/NUXI-problem.html>`__.
+either `big-endian <#big-endian>`__ or
+`little-endian <./L.html#little-endian>`__ format (depending,
+presumably, on a `mode bit <./M.html#mode-bit>`__ somewhere). See
+also `NUXI problem <../N.html#NUXI-problem>`__.
 
 
 

@@ -11,9 +11,9 @@ UBD
 
 [abbreviation for ‘User Brain Damage’] An abbreviation used to close out
 trouble reports obviously due to utter cluelessness on the user's part.
-Compare `pilot error <../P/pilot-error.html>`__,
-`PEBKAC <../P/PEBKAC.html>`__, `ID10T <./I.html#idiot.html>`__; oppose
-`PBD <../P/PBD.html>`__; see also
+Compare `pilot error <./P.html#pilot-error.html>`__,
+`PEBKAC <./P.html#PEBKAC.html>`__, `ID10T <./I.html#idiot.html>`__; oppose
+`PBD <./P.html#PBD.html>`__; see also
 `brain-damaged <./B.html#brain-damaged.html>`__.
 
  
@@ -25,7 +25,7 @@ UBE
 **UBE**: //, n.
 
 [abbrev., Unsolicited Bulk Email] A widespread, more formal term for
-email `spam <../S/spam.html>`__. Compare `UCE <UCE.html>`__. The UBE
+email `spam <./S.html#spam.html>`__. Compare `UCE <UCE.html>`__. The UBE
 term recognizes that spam is uttered by nonprofit and advocacy groups
 whose motives are not commercial.
 
@@ -54,7 +54,7 @@ UCE
 **UCE**: n.
 
 [abbrev., Unsolicited Commercial Email] A widespread, more formal term
-for email `spam <../S/spam.html>`__. Compare `UBE <UBE.html>`__,
+for email `spam <./S.html#spam.html>`__. Compare `UBE <UBE.html>`__,
 which may be superseding it.
 
  
@@ -67,7 +67,7 @@ UDP
 [Usenet] Abbreviation for `Usenet Death
 Penalty <Usenet-Death-Penalty.html>`__. Common (probably now more so
 than the full form), and frequently verbed. Compare
-`IDP <../I/IDP.html>`__.
+`IDP <./I.html#IDP.html>`__.
  
 
 u-
@@ -76,7 +76,7 @@ u-
 
 **u-**: pref.
 
-Written shorthand for `micro- <../M/micro-.html>`__; techspeak when
+Written shorthand for `micro- <./M.html#micro-.html>`__; techspeak when
 applied to metric units, jargon when used otherwise. Derived from the
 Greek letter µ the first letter of “micro” (and which letter looks a lot
 like the English letter “u”).
@@ -99,7 +99,7 @@ legal force, but the asterisk usage is entrenched anyhow. It has been
 suggested that there may be a psychological connection to practice in
 certain religions (especially Judaism) in which the name of the deity is
 never written out in full, e.g., ‘YHWH’ or ‘G--d’ is used. See also
-`glob <./G.html#glob.html>`__ and `splat out <../S/splat-out.html>`__.
+`glob <./G.html#glob.html>`__ and `splat out <./S.html#splat-out.html>`__.
 
 
 undefined external reference
@@ -151,7 +151,7 @@ uninteresting
 **uninteresting**: adj.
 
 1. Said of a problem that, although
-`nontrivial <../N/nontrivial.html>`__, can be solved simply by
+`nontrivial <./N.html#nontrivial.html>`__, can be solved simply by
 throwing sufficient resources at it.
 
 2. Also said of problems for which a solution would neither advance the
@@ -159,13 +159,13 @@ state of the art nor be fun to design and code.
 
 Hackers regard uninteresting problems as intolerable wastes of time, to
 be solved (if at all) by lesser mortals. *Real* hackers (see
-`toolsmith <../T/toolsmith.html>`__) generalize uninteresting problems
+`toolsmith <./T.html#toolsmith.html>`__) generalize uninteresting problems
 enough to make them interesting and solve them — thus solving the
 original problem as a special case (and, it must be admitted,
 occasionally turning a molehill into a mountain, or a mountain into a
-tectonic plate). See `WOMBAT <../W/WOMBAT.html>`__,
-`SMOP <../S/SMOP.html>`__; compare `toy
-problem <../T/toy-problem.html>`__, oppose
+tectonic plate). See `WOMBAT <./W.html#WOMBAT.html>`__,
+`SMOP <./S.html#SMOP.html>`__; compare `toy
+problem <./T.html#toy-problem.html>`__, oppose
 `interesting <./I.html#interesting.html>`__.
 
  
@@ -201,7 +201,7 @@ Unix conspiracy
 **Unix conspiracy**: n.
 
 [ITS] According to a conspiracy theory long popular among
-`ITS <../I/ITS.html>`__ and `TOPS-20 <../T/TOPS-20.html>`__ fans,
+`ITS <./I.html#ITS.html>`__ and `TOPS-20 <./T.html#TOPS-20.html>`__ fans,
 Unix's growth is the result of a plot, hatched during the 1970s at Bell
 Labs, whose intent was to hobble AT&T's competitors by making them
 dependent upon a system whose future evolution was to be under AT&T's
@@ -212,17 +212,17 @@ AT&T). This theory was lent a substantial impetus in 1984 by the paper
 referenced in the `back door <./B.html#back-door.html>`__ entry.
 
 In this view, Unix was designed to be one of the first computer viruses
-(see `virus <../V/virus.html>`__) — but a virus spread to computers
+(see `virus <./V.html#virus.html>`__) — but a virus spread to computers
 indirectly by people and market forces, rather than directly through
 disks and networks. Adherents of this ‘Unix virus’ theory like to cite
 the fact that the well-known quotation “Unix is snake oil” was uttered
-by `DEC <../D/DEC.html>`__ president Kenneth Olsen shortly before DEC
+by `DEC <./D.html#DEC.html>`__ president Kenneth Olsen shortly before DEC
 began actively promoting its own family of Unix workstations. (Olsen now
 claims to have been misquoted.)
 
 If there was ever such a conspiracy, it got thoroughly out of the
 plotters' control after 1990. AT&T sold its Unix operation to Novell
-around the same time `Linux <../L/Linux.html>`__ and other free-Unix
+around the same time `Linux <./L.html#Linux.html>`__ and other free-Unix
 distributions were beginning to make noise.
  
 
@@ -243,14 +243,14 @@ Unix subsequently underwent mutations and expansions at the hands of
 many different people, resulting in a uniquely flexible and
 developer-friendly environment. By 1991, Unix had become the most widely
 used multiuser general-purpose operating system in the world — and since
-1996 the variant called `Linux <../L/Linux.html>`__ has been at the
-cutting edge of the `open source <../O/open-source.html>`__ movement.
+1996 the variant called `Linux <./L.html#Linux.html>`__ has been at the
+cutting edge of the `open source <./O.html#open-source.html>`__ movement.
 Many people consider the success of Unix the most important victory yet
 of hackerdom over industry opposition (but see `Unix
 weenie <Unix-weenie.html>`__ and `Unix
 conspiracy <Unix-conspiracy.html>`__ for an opposing point of view).
-See `Version 7 <../V/Version-7.html>`__, `BSD <../B/BSD.html>`__,
-`Linux <../L/Linux.html>`__.
+See `Version 7 <./V.html#Version-7.html>`__, `BSD <./B.html#BSD.html>`__,
+`Linux <./L.html#Linux.html>`__.
 
 |image0|
 
@@ -260,7 +260,7 @@ Some people are confused over whether this word is appropriately ‘UNIX’
 or ‘Unix’; both forms are common, and used interchangeably. Dennis
 Ritchie says that the ‘UNIX’ spelling originally happened in CACM's 1974
 paper *The UNIX Time-Sharing System* because “we had a new typesetter
-and `troff <../T/troff.html>`__ had just been invented and we were
+and `troff <./T.html#troff.html>`__ had just been invented and we were
 intoxicated by being able to produce small caps.” Later, dmr tried to
 get the spelling changed to ‘Unix’ in a couple of Bell Labs papers, on
 the grounds that the word is not acronymic. He failed, and eventually
@@ -284,13 +284,13 @@ that exists on virtual-memory Unix systems. Common
 `unixism <unixism.html>`__\ s include: gratuitous use of fork(2); the
 assumption that certain undocumented but well-known features of Unix
 libraries such as stdio(3) are supported elsewhere; reliance on
-`obscure <../O/obscure.html>`__ side-effects of system calls (use of
+`obscure <./O.html#obscure.html>`__ side-effects of system calls (use of
 sleep(2) with a 0 argument to clue the scheduler that you're willing to
 give up your time-slice, for example); the assumption that freshly
 allocated memory is zeroed; and the assumption that fragmentation
 problems won't arise from never free()ing memory. Compare
-`vaxocentrism <../V/vaxocentrism.html>`__; see also `New
-Jersey <../N/New-Jersey.html>`__.
+`vaxocentrism <./V.html#vaxocentrism.html>`__; see also `New
+Jersey <./N.html#New-Jersey.html>`__.
  
 
 Unix weenie
@@ -312,9 +312,9 @@ been written by a real Unix weenie.”
 
 2. A derogatory term for anyone who engages in uncritical praise of
 Unix. Often appearing in the context “stupid Unix weenie”. See
-`Weenix <../W/Weenix.html>`__, `Unix
+`Weenix <./W.html#Weenix.html>`__, `Unix
 conspiracy <Unix-conspiracy.html>`__. See also
-`weenie <../W/weenie.html>`__.
+`weenie <./W.html#weenie.html>`__.
 
  
 
@@ -324,7 +324,7 @@ unswizzle
 
 **unswizzle**: v.
 
-See `swizzle <../S/swizzle.html>`__.
+See `swizzle <./S.html#swizzle.html>`__.
  
 
 unwind-protect
@@ -350,7 +350,7 @@ said to unwind the stack from a called procedure up to a caller when one
 discards the stack frame and any number of frames above it, popping back
 up to the level of the given caller. In C this is done with
 **longjmp**/**setjmp**, in LISP or C++ with **throw/catch**. See also
-`smash the stack <../S/smash-the-stack.html>`__.
+`smash the stack <./S.html#smash-the-stack.html>`__.
 
 2. People can unwind the stack as well, by quickly dealing with a bunch
 of problems: “Oh heck, let's do lunch. Just a second while I unwind my
@@ -414,7 +414,7 @@ upthread
 
 **upthread**: adv.
 
-Earlier in the discussion (see `thread <../T/thread.html>`__), i.e.,
+Earlier in the discussion (see `thread <./T.html#thread.html>`__), i.e.,
 ‘above’. “As Joe pointed out upthread, ...” See also
 `followup <./F.html#followup.html>`__.
 
@@ -441,7 +441,7 @@ urchin
 
 **urchin**: n.
 
-See `munchkin <../M/munchkin.html>`__.
+See `munchkin <./M.html#munchkin.html>`__.
  
 URL
 ==============
@@ -462,12 +462,12 @@ Usenet Death Penalty
 **Usenet Death Penalty**
 
 [Usenet] A sanction against sites that habitually spew Usenet
-`spam <../S/spam.html>`__. This can be either passive or active. A
+`spam <./S.html#spam.html>`__. This can be either passive or active. A
 passive UDP refers to the dropping of all postings by a particular
 domain so as to inhibit propagation. An active UDP refers to third-party
 cancellation of all postings by the UDPed domain. A partial UDP is one
 which applies only to certain newsgroups or hierarchies in Usenet.
-Compare `Internet Death Penalty <../I/Internet-Death-Penalty.html>`__,
+Compare `Internet Death Penalty <./I.html#Internet-Death-Penalty.html>`__,
 with which this term is sometimes confused.
  
 Usenet
@@ -484,7 +484,7 @@ Bellovin, Jim Ellis, Tom Truscott, and Steve Daniel at Duke University
 and the University of North Carolina, it has swiftly grown to become
 international in scope and is now probably the largest decentralized
 information utility in existence. As of late 2002, it hosts over 100,000
-`newsgroup <../N/newsgroup.html>`__\ s and an unguessably huge volume
+`newsgroup <./N.html#newsgroup.html>`__\ s and an unguessably huge volume
 of new technical articles, news, discussion, chatter, and
 `flamage <./F.html#flamage.html>`__ every day (and that leaves out the
 graphics...).
@@ -507,9 +507,9 @@ user-friendly
 Programmer-hostile. Generally used by hackers in a critical tone, to
 describe systems that hold the user's hand so obsessively that they make
 it painful for the more experienced and knowledgeable to get any work
-done. See `menuitis <../M/menuitis.html>`__, `drool-proof
+done. See `menuitis <./M.html#menuitis.html>`__, `drool-proof
 paper <./D.html#drool-proof-paper.html>`__,
-`Macintrash <../M/Macintrash.html>`__,
+`Macintrash <./M.html#Macintrash.html>`__,
 `user-obsequious <user-obsequious.html>`__.
 
  
@@ -522,7 +522,7 @@ user
 
 1. Someone doing ‘real work’ with the computer, using it as a means
 rather than an end. Someone who pays to use a computer. See `real
-user <../R/real-user.html>`__.
+user <./R.html#real-user.html>`__.
 
 2. A programmer who will believe anything you tell him. One who asks
 silly questions. [GLS observes: This is slightly unfair. It is true that
@@ -573,8 +573,8 @@ Emphatic form of `user-friendly <user-friendly.html>`__. Connotes a
 system so verbose, inflexible, and determinedly simple-minded that it is
 nearly unusable. “Design a system any fool can use and only a fool will
 want to use it.” See `WIMP
-environment <../W/WIMP-environment.html>`__,
-`Macintrash <../M/Macintrash.html>`__.
+environment <./W.html#WIMP-environment.html>`__,
+`Macintrash <./M.html#Macintrash.html>`__.
 
  
 
@@ -595,7 +595,7 @@ the complexity of modern research. Despite this, the tea pot still
 appears, now and then, in recent papers. More on the teapot's history
 lives at `The History Of The Teapot <http://www.sjbaker.org/teapot/>`__.
 Compare `lenna <./L.html#lenna.html>`__, `Stanford
-Bunny <../S/Stanford-Bunny.html>`__
+Bunny <./S.html#Stanford-Bunny.html>`__
 
  
 UTSL
@@ -606,12 +606,12 @@ UTSL
 
 [Unix] On-line acronym for ‘Use the Source, Luke’ (a pun on Obi-Wan
 Kenobi's “Use the Force, Luke!” in *Star Wars*) — analogous to
-`RTFS <../R/RTFS.html>`__ (sense 1), but more polite. This is a common
+`RTFS <./R.html#RTFS.html>`__ (sense 1), but more polite. This is a common
 way of suggesting that someone would be better off reading the source
 code that supports whatever feature is causing confusion, rather than
 making yet another futile pass through the manuals, or broadcasting
 questions on Usenet that haven't attracted
-`wizard <../W/wizard.html>`__\ s to answer them.
+`wizard <./W.html#wizard.html>`__\ s to answer them.
 
 Once upon a time in `elder days <./E.html#elder-days.html>`__, everyone
 running Unix had source. After 1978, AT&T's policy tightened up, so this

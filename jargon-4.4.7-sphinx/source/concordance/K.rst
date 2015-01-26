@@ -15,7 +15,7 @@ K
 **kahuna**: /k@·hoo´n@/, n.
 
 [IBM: from the Hawaiian title for a shaman] Synonym for
-`wizard <../W/wizard.html>`__, `guru <./G.html#guru.html>`__.
+`wizard <./W.html#wizard.html>`__, `guru <./G.html#guru.html>`__.
 
 --------------
 
@@ -38,8 +38,8 @@ K
 **kamikaze packet**: n.
 
 The ‘official’ jargon for what is more commonly called a `Christmas
-tree packet <../C/Christmas-tree-packet.html>`__.
-`RFC <../R/RFC.html>`__-1025, *TCP and IP Bake Off* says:
+tree packet <./C.html#Christmas-tree-packet.html>`__.
+`RFC <./R.html#RFC.html>`__-1025, *TCP and IP Bake Off* says:
 
     10 points for correctly being able to process a “Kamikaze” packet
     (AKA nastygram, christmas tree packet, lamp test segment, et al.).
@@ -47,7 +47,7 @@ tree packet <../C/Christmas-tree-packet.html>`__.
     features at once (e.g., a SYN URG PUSH FIN segment with options and
     data).
 
-See also `Chernobyl packet <../C/Chernobyl-packet.html>`__.
+See also `Chernobyl packet <./C.html#Chernobyl-packet.html>`__.
 
 --------------
 
@@ -71,8 +71,8 @@ K
 
 Brian Kernighan and Dennis Ritchie's book *The C Programming Language*,
 esp. the classic and influential first edition (Prentice-Hall 1978; ISBN
-0-13-110163-3). Syn. `Old Testament <../O/Old-Testament.html>`__. See
-also `New Testament <../N/New-Testament.html>`__.
+0-13-110163-3). Syn. `Old Testament <./O.html#Old-Testament.html>`__. See
+also `New Testament <./N.html#New-Testament.html>`__.
 
 --------------
 
@@ -94,7 +94,7 @@ K
 
 **kangaroo code**: n.
 
-Syn. `spaghetti code <../S/spaghetti-code.html>`__.
+Syn. `spaghetti code <./S.html#spaghetti-code.html>`__.
 
 --------------
 
@@ -123,7 +123,7 @@ because it's a login name and mail address) in third-person reference;
 it is widely understood (on Usenet, in particular) that without a last
 name ‘Ken’ refers only to Ken Thompson. Similarly, ‘Dennis’ without last
 name means Dennis Ritchie (and he is often known as "dmr"). See also
-`demigod <./D.html#demigod.html>`__, `Unix <../U/Unix.html>`__.
+`demigod <./D.html#demigod.html>`__, `Unix <./U.html#Unix.html>`__.
 
 2. A flaming user. This was originated by the Software Support group at
 Symbolics because the two greatest flamers in the user community were
@@ -149,8 +149,8 @@ K
 
 **kernel-of-the-week club**
 
-The fictional society that `BSD <../B/BSD.html>`__
-`bigot <./B.html#bigot.html>`__\ s claim `Linux <../L/Linux.html>`__
+The fictional society that `BSD <./B.html#BSD.html>`__
+`bigot <./B.html#bigot.html>`__\ s claim `Linux <./L.html#Linux.html>`__
 users belong to, alluding to the release-early-release-often style
 preferred by the kernel maintainers. See
 `bazaar <./B.html#bazaar.html>`__. This was almost certainly inspired by
@@ -200,7 +200,7 @@ K
 **k-**: pref.
 
 [rare; poss fr. kilo- prefix] Extremely. Rare among hackers, but quite
-common among crackers and `warez d00dz <../W/warez-d00dz.html>`__ in
+common among crackers and `warez d00dz <./W.html#warez-d00dz.html>`__ in
 compounds such as k-kool /K´kool´/, k-rad /K´rad´/, and k-awesome
 /K´aw\`sm/. Also used to intensify negatives; thus, k-evil, k-lame,
 k-screwed, and k-annoying. Overuse of this prefix, or use in more formal
@@ -228,9 +228,9 @@ K
 **K**: /K/, n.
 
 [from `kilo- <kilo-.html>`__] A kilobyte. Used both as a spoken word
-and a written suffix (like `meg <../M/meg.html>`__ and
+and a written suffix (like `meg <./M.html#meg.html>`__ and
 `gig <./G.html#gig.html>`__ for megabyte and gigabyte). See
-`quantifiers <../Q/quantifiers.html>`__.
+`quantifiers <./Q.html#quantifiers.html>`__.
 
 --------------
 
@@ -256,8 +256,8 @@ K
 whenever valid data is passed through an organization (or person) that
 deliberately or accidentally disregards or ignores its significance.
 Consider, for example, what an advertising campaign can do with a
-product's actual specifications. Compare `GIGO <../G/GIGO.html>`__;
-see also `SNAFU principle <../S/SNAFU-principle.html>`__.
+product's actual specifications. Compare `GIGO <./G.html#GIGO.html>`__;
+see also `SNAFU principle <./S.html#SNAFU-principle.html>`__.
 
 2. James Parry <kibo@world.std.com>, a Usenetter infamous for various
 surrealist net.pranks and an uncanny, machine-assisted knack for joining
@@ -332,10 +332,10 @@ K
 **kick**: v.
 
 1. [IRC] To cause somebody to be removed from a
-`IRC <../I/IRC.html>`__ channel, an option only available to channel
+`IRC <./I.html#IRC.html>`__ channel, an option only available to channel
 ops. This is an extreme measure, often used to combat extreme
 `flamage <./F.html#flamage.html>`__ or `flood <./F.html#flood.html>`__\ ing,
-but sometimes used at the `CHOP <../C/CHOP.html>`__'s whim.
+but sometimes used at the `CHOP <./C.html#CHOP.html>`__'s whim.
 
 2. To reboot a machine or kill a running process. “The server's down,
 let me go kick it.”
@@ -405,7 +405,7 @@ massively parallel computers).
 
 [2002 update: Eugene Brooks was right. Since this term first entered the
 Jargon File in 1990, the minicomputer has effectively vanished, the
-`mainframe <../M/mainframe.html>`__ sector is in deep and apparently
+`mainframe <./M.html#mainframe.html>`__ sector is in deep and apparently
 terminal decline, and even the supercomputer business has contracted
 into a smaller niche. It's networked killer micros as far as the eye can
 see. —ESR]
@@ -431,12 +431,12 @@ K
 **killer poke**: n.
 
 A recipe for inducing hardware damage on a machine via insertion of
-invalid values (see `poke <../P/poke.html>`__) into a memory-mapped
+invalid values (see `poke <./P.html#poke.html>`__) into a memory-mapped
 control register; used esp. of various fairly well-known tricks on
 `bitty box <./B.html#bitty-box.html>`__\ es without hardware memory
 management (such as the IBM PC and Commodore PET) that can overload and
 trash analog electronics in the monitor. See also
-`HCF <../H/HCF.html>`__.
+`HCF <./H.html#HCF.html>`__.
 
 --------------
 
@@ -459,14 +459,14 @@ K
 **kill file**: n.
 
 [Usenet; very common] (alt.: KILL file) Per-user file(s) used by some
-`Usenet <../U/Usenet.html>`__ reading programs (originally Larry
+`Usenet <./U.html#Usenet.html>`__ reading programs (originally Larry
 Wall's rn(1)) to discard summarily (without presenting for reading)
 articles matching some particularly uninteresting (or unwanted) patterns
 of subject, author, or other header lines. Thus to add a person (or
 subject) to one's kill file is to arrange for that person to be ignored
 by one's newsreader in future. By extension, it may be used for a
 decision to ignore the person or subject in other media. See also
-`plonk <../P/plonk.html>`__.
+`plonk <./P.html#plonk.html>`__.
 
 --------------
 
@@ -512,7 +512,7 @@ K
 
 **kilo-**: pref.
 
-[SI] See `quantifiers <../Q/quantifiers.html>`__.
+[SI] See `quantifiers <./Q.html#quantifiers.html>`__.
 
 --------------
 
@@ -534,7 +534,7 @@ K
 
 **KIPS**: /kips/, n.
 
-[abbreviation, by analogy with `MIPS <../M/MIPS.html>`__ using
+[abbreviation, by analogy with `MIPS <./M.html#MIPS.html>`__ using
 `K <K.html>`__] Thousands (*not* 1024s) of Instructions Per Second.
 Usage: rare.
 
@@ -561,7 +561,7 @@ K
 “Keep It Simple, Stupid”. A maxim often invoked when discussing design
 to fend off `creeping featurism <./C.html#creeping-featurism.html>`__ and
 control development complexity. Possibly related to the
-`marketroid <../M/marketroid.html>`__ maxim on sales presentations,
+`marketroid <./M.html#marketroid.html>`__ maxim on sales presentations,
 “Keep It Short and Simple”.
 
 --------------
@@ -584,13 +584,13 @@ K
 
 **kit**: n.
 
-[Usenet; poss.: fr.: `DEC <../D/DEC.html>`__ slang for a full software
+[Usenet; poss.: fr.: `DEC <./D.html#DEC.html>`__ slang for a full software
 distribution, as opposed to a patch or upgrade] A source software
 distribution that has been packaged in such a way that it can
 (theoretically) be unpacked and installed according to a series of steps
 using only standard Unix tools, and entirely documented by some
 reasonable chain of references from the top-level `README
-file <../R/README-file.html>`__. The more general term
+file <./R.html#README-file.html>`__. The more general term
 `distribution <./D.html#distribution.html>`__ may imply that special tools
 or more stringent conditions on the host environment are required.
 
@@ -705,7 +705,7 @@ K
 
 To avoid a bug or difficult condition by inserting a
 `kluge <kluge.html>`__. Compare
-`workaround <../W/workaround.html>`__.
+`workaround <./W.html#workaround.html>`__.
 
 --------------
 
@@ -744,10 +744,10 @@ being a `crock <./C.html#crock.html>`__.
 get around that weird bug, but there's probably a better way.”
 
 5. [WPI] n. A feature that is implemented in a
-`rude <../R/rude.html>`__ manner.
+`rude <./R.html#rude.html>`__ manner.
 
 Nowadays this term is often encountered in the variant spelling
-‘kludge’. Reports from `old fart <../O/old-fart.html>`__\ s are
+‘kludge’. Reports from `old fart <./O.html#old-fart.html>`__\ s are
 consistent that ‘kluge’ was the original spelling, reported around
 computers as far back as the mid-1950s and, at that time, used
 exclusively of *hardware* kluges. In 1947, the *New York Folklore
@@ -780,16 +780,16 @@ Mr. Brandtjen's history of the device and his allegation that it was a
 simple rather than complex one, but agree that the Kluge automatic
 feeder was the most likely source of the folklore.
 
-`TMRC <../T/TMRC.html>`__ and the MIT hacker culture of the early '60s
+`TMRC <./T.html#TMRC.html>`__ and the MIT hacker culture of the early '60s
 seems to have developed in a milieu that remembered and still used some
 WWII military slang (see also `foobar <./F.html#foobar.html>`__). It seems
 likely that ‘kluge’ came to MIT via alumni of the many military
 electronics projects that had been located in Cambridge (many in MIT's
-venerable Building 20, in which `TMRC <../T/TMRC.html>`__ is also
+venerable Building 20, in which `TMRC <./T.html#TMRC.html>`__ is also
 located) during the war.
 
 The variant ‘kludge’ was apparently popularized by the
-`Datamation <../D/Datamation.html>`__ article mentioned under
+`Datamation <./D.html#Datamation.html>`__ article mentioned under
 `kludge <kludge.html>`__; it was titled *How to Design a Kludge*
 (February 1962, pp. 30, 31). This spelling was probably imported from
 Great Britain, where `kludge <kludge.html>`__ has an independent
@@ -892,10 +892,10 @@ K
 **knobs**: pl.n.
 
 Configurable options, even in software and even those you can't adjust
-in real time. Anything you can `twiddle <../T/twiddle.html>`__ is a
+in real time. Anything you can `twiddle <./T.html#twiddle.html>`__ is a
 knob. “Has this PNG viewer got an alpha knob?” Software may be described
 as having “knobs and switches” or occasionally “knobs and lights”. See
-also `nerd knob <../N/nerd-knob.html>`__
+also `nerd knob <./N.html#nerd-knob.html>`__
 
 --------------
 
@@ -927,7 +927,7 @@ life, fresh out of high school, and wet behind the ears.
 An IEEE Spectrum article (4/95, page 16) once derived ‘nerd’ in its
 variant form ‘knurd’ from the word ‘drunk’ backwards; this etymology was
 common at RPI. Though it is commonly confused with
-`nerd <../N/nerd.html>`__, it appears these words have separate
+`nerd <./N.html#nerd.html>`__, it appears these words have separate
 origins (compare the `kluge <kluge.html>`__/`kludge <kludge.html>`__
 pair).
 
@@ -955,7 +955,7 @@ K
 reference that answers all questions about data structures or
 algorithms. A safe answer when you do not know: “I think you can find
 that in Knuth.” Contrast `the
-literature <../T/the-literature.html>`__. See also
+literature <./T.html#the-literature.html>`__. See also
 `bible <./B.html#bible.html>`__. There is a Donald Knuth home page at
 `http://Sunburn.Stanford.EDU/~knuth/ <http://Sunburn.Stanford.EDU/~knuth/>`__.
 
@@ -1011,7 +1011,7 @@ K
 
 [Usenet; originally and more formally, net.kook] Term used to describe a
 regular poster who continually posts messages with no apparent grounding
-in reality. Different from a `troll <../T/troll.html>`__, which
+in reality. Different from a `troll <./T.html#troll.html>`__, which
 implies a sort of sly wink on the part of a poster who knows better,
 kooks really believe what they write, to the extent that they believe
 anything.
@@ -1094,8 +1094,8 @@ K
 
 **kremvax**: /krem·vaks/, n.
 
-[from the then-large number of `Usenet <../U/Usenet.html>`__
-`VAXen <../V/VAXen.html>`__ with names of the form "foovax"]
+[from the then-large number of `Usenet <./U.html#Usenet.html>`__
+`VAXen <./V.html#VAXen.html>`__ with names of the form "foovax"]
 Originally, a fictitious Usenet site at the Kremlin, announced on April
 1, 1984 in a posting ostensibly originated there by Soviet leader
 Konstantin Chernenko. The

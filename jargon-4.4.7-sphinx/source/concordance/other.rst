@@ -13,7 +13,7 @@ Other
 par\`tee/) A semi-closed party thrown for hackers at a science-fiction
 convention (esp. the annual World Science Fiction Convention or
 “Worldcon”); one must have a `network
-address <../N/network-address.html>`__ to get in, or at least be in
+address <./N.html#network-address.html>`__ to get in, or at least be in
 company with someone who does. One of the most reliable opportunities
 for hackers to meet face to face with people who might otherwise be
 represented by mere phosphor dots on their screens. Compare
@@ -42,8 +42,8 @@ The status of a website which has been completely removed, usually by
 the administrators of the hosting site as a result of net abuse by the
 website operators. The term is a tongue-in-cheek reference to the
 standard “301 compliant” Murkowski Bill disclaimer used by spammers. See
-also: `spam <../S/spam.html>`__,
-`spamvertize <../S/spamvertize.html>`__.
+also: `spam <./S.html#spam.html>`__,
+`spamvertize <./S.html#spamvertize.html>`__.
 
 
 404
@@ -161,5 +161,5 @@ style <./I.html#indent-style.html>`__.
 feels should be recorded for posterity, perhaps in future editions of
 this lexicon. Sometimes used ironically as a form of protest against the
 recent spate of software and algorithm patents and look and feel
-lawsuits. See also `UN\*X <../U/UN-asterisk-X.html>`__.
+lawsuits. See also `UN\*X <./U.html#UN-asterisk-X.html>`__.
 

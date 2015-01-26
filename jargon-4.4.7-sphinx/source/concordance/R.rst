@@ -10,7 +10,7 @@ rabbit job
 
 [Cambridge] A batch job that does little, if any, real work, but creates
 one or more copies of itself, breeding like rabbits. Compare
-`wabbit <../W/wabbit.html>`__, `fork bomb <./F.html#fork-bomb.html>`__.
+`wabbit <./W.html#wabbit.html>`__, `fork bomb <./F.html#fork-bomb.html>`__.
 
 
 rainbow series
@@ -21,7 +21,7 @@ rainbow series
 
 Any of several series of technical manuals distinguished by cover color.
 The original rainbow series was the NCSC security manuals (see `Orange
-Book <../O/Orange-Book.html>`__). These are now available `via the
+Book <./O.html#Orange-Book.html>`__). These are now available `via the
 web <http://www.radium.ncsc.mil/tpep/library/rainbow/>`__. the term has
 also been commonly applied to the PostScript reference set. Which books
 are meant by “\ *the* rainbow series” unqualified is thus dependent on
@@ -41,11 +41,11 @@ boot up the machine. We'll have to wait for Greg to do his rain dance.”
 2. Any arcane sequence of actions performed with computers or software
 in order to achieve some goal; the term is usually restricted to rituals
 that include both an `incantation <./I.html#incantation.html>`__ or two
-and physical activity or motion. Compare `magic <../M/magic.html>`__,
-`voodoo programming <../V/voodoo-programming.html>`__, `black
+and physical activity or motion. Compare `magic <./M.html#magic.html>`__,
+`voodoo programming <./V.html#voodoo-programming.html>`__, `black
 art <./B.html#black-art.html>`__, `cargo cult
 programming <./C.html#cargo-cult-programming.html>`__, `wave a dead
-chicken <../W/wave-a-dead-chicken.html>`__; see also `casting the
+chicken <./W.html#wave-a-dead-chicken.html>`__; see also `casting the
 runes <./C.html#casting-the-runes.html>`__.
 
 
@@ -89,8 +89,8 @@ hacker speaking); the noun form of sense 2. “I went to the talk, but the
 audience was full of randoms asking bogus questions”.
 
 10. n. (occasional MIT usage) One who lives at Random Hall. See also
-`J. Random <../J/J--Random.html>`__, `some random
-X <../S/some-random-X.html>`__.
+`J. Random <./J.html#J--Random.html>`__, `some random
+X <./S.html#some-random-X.html>`__.
 
 11. [UK] Conversationally, a non sequitur or something similarly
 out-of-the-blue. As in: “Stop being so random!” This sense equates to
@@ -141,13 +141,13 @@ Random Number God
 
 [rec.games.roguelike.angband; often abbreviated ‘RNG’] The malign force
 which lurks behind the random number generator in
-`Angband <../A/Angband.html>`__ (and by extension elsewhere). A dark
+`Angband <./A.html#Angband.html>`__ (and by extension elsewhere). A dark
 god that demands sacrifices and toys with its victims. “I just found a
 really great item; I suppose the RNG is about to punish me...”
 Apparently, Angband's random number generator occasionally gets locked
 in a repetition, so you get something with a 3% chance happening 8 times
 in a row. Improbable, but far too common to be pure chance. Compare
-`Shub-Internet <../S/Shub-Internet.html>`__.
+`Shub-Internet <./S.html#Shub-Internet.html>`__.
 
 random numbers
 ================
@@ -156,7 +156,7 @@ random numbers
 **random numbers**: n.
 
 When one wishes to specify a large but random number of things, and the
-context is inappropriate for `N <../N/N.html>`__, certain numbers are
+context is inappropriate for `N <./N.html#N.html>`__, certain numbers are
 preferred by hacker tradition (that is, easily recognized as
 placeholders). These include the following:
 
@@ -179,7 +179,7 @@ placeholders). These include the following:
 For further enlightenment, study the *Principia Discordia*, *The
 Hitchhiker's Guide to the Galaxy*, *The Joy of Sex*, and the Christian
 Bible (Revelation 13:18). See also
-`Discordianism <../D/Discordianism.html>`__ or consult your pineal
+`Discordianism <./D.html#Discordianism.html>`__ or consult your pineal
 gland. See also `for values of <./F.html#for-values-of.html>`__.
  
 rape
@@ -189,7 +189,7 @@ rape
 
 **rape**: vt.
 
-1. To `screw <../S/screw.html>`__ someone or something, violently; in
+1. To `screw <./S.html#screw.html>`__ someone or something, violently; in
 particular, to destroy a program or information irrecoverably. Often
 used in describing file-system damage. “So-and-so was running a program
 that did absolute disk I/O and ended up raping the master directory.”
@@ -245,7 +245,7 @@ raster burn
 
 Eyestrain brought on by too many hours of looking at low-res, poorly
 tuned, or glare-ridden monitors, esp. graphics monitors. See `terminal
-illness <../T/terminal-illness.html>`__.
+illness <./T.html#terminal-illness.html>`__.
  
 
 rat belt
@@ -266,7 +266,7 @@ rat dance
 
 **rat dance**: n.
 
-[From the `Dilbert <../D/Dilbert.html>`__ comic strip of November 14,
+[From the `Dilbert <./D.html#Dilbert.html>`__ comic strip of November 14,
 1995] A `hacking run <./H.html#hacking-run.html>`__ that produces results
 which, while superficially coherent, have little or nothing to do with
 its original objectives. There are strong connotations that the coding
@@ -274,7 +274,7 @@ process and the objectives themselves were pretty
 `random <random.html>`__. (In the original comic strip, the Ratbert is
 invited to dance on Dilbert's keyboard in order to produce bugs for him
 to fix, and authors a Web browser instead.) Compare `Infinite-Monkey
-Theorem <../I/Infinite-Monkey-Theorem.html>`__.
+Theorem <./I.html#Infinite-Monkey-Theorem.html>`__.
 
 This term seems to have become widely recognized quite rapidly after the
 original strip, a fact which testifies to Dilbert's huge popularity
@@ -379,7 +379,7 @@ steaming or frying. A rav or dumpling can be cooked any way, but a
 potsticker is always the pan-fried kind (so called because it sticks to
 the frying pot and has to be scraped off). “Let's get hot-and-sour soup
 and three orders of ravs.” See also `oriental
-food <../O/oriental-food.html>`__.
+food <./O.html#oriental-food.html>`__.
  
 
 raw mode
@@ -402,7 +402,7 @@ RBL
 **RBL**: /R·B·L/
 
 Abbreviation: “Realtime Blackhole List”. A service that allows people to
-blacklist sites for emitting `spam <../S/spam.html>`__, and makes the
+blacklist sites for emitting `spam <./S.html#spam.html>`__, and makes the
 blacklist available in real time to electronic-mail transport programs
 that know how to use RBL so they can filter out mail from those sites.
 Drastic (and controversial) but effective. There is an `RBL home
@@ -416,13 +416,13 @@ rc file
 
 **rc file**: /R·C fi:l/, n.
 
-[Unix: from runcom files on the `CTSS <../C/CTSS.html>`__ system
+[Unix: from runcom files on the `CTSS <./C.html#CTSS.html>`__ system
 1962-63, via the startup script "/etc/rc"] Script file containing
 startup instructions for an application program (or an entire operating
 system), usually a text file containing commands of the sort that might
 have been invoked manually once the system was running but are to be
 executed automatically each time the system starts up. See also `dot
-file <./D.html#dot-file.html>`__, `profile <../P/profile.html>`__ (sense
+file <./D.html#dot-file.html>`__, `profile <./P.html#profile.html>`__ (sense
 1).
  
 
@@ -460,8 +460,8 @@ read-only user
 Describes a `luser <./L.html#luser.html>`__ who uses computers almost
 exclusively for reading Usenet, bulletin boards, and/or email, rather
 than writing code or purveying useful information. See
-`twink <../T/twink.html>`__, `terminal
-junkie <../T/terminal-junkie.html>`__, `lurker <./L.html#lurker.html>`__.
+`twink <./T.html#twink.html>`__, `terminal
+junkie <./T.html#terminal-junkie.html>`__, `lurker <./L.html#lurker.html>`__.
  
 real estate
 ==============
@@ -471,7 +471,7 @@ real estate
 May be used for any critical resource measured in units of area. Most
 frequently used of chip real estate, the area available for logic on the
 surface of an integrated circuit (see also
-`nanoacre <../N/nanoacre.html>`__). May also be used of floor space in
+`nanoacre <./N.html#nanoacre.html>`__). May also be used of floor space in
 a `dinosaur pen <./D.html#dinosaur-pen.html>`__, or even space on a
 crowded desktop (whether physical or electronic).
 
@@ -494,7 +494,7 @@ real
 **real**: adj.
 
 Not simulated. Often used as a specific antonym to
-`virtual <../V/virtual.html>`__ in any of its jargon senses.
+`virtual <./V.html#virtual.html>`__ in any of its jargon senses.
  
 reality check
 ==================
@@ -504,10 +504,10 @@ reality check
 
 1. The simplest kind of test of software or hardware; doing the
 equivalent of asking it what "2 + 2" is and seeing if you get 4. The
-software equivalent of a `smoke test <../S/smoke-test.html>`__.
+software equivalent of a `smoke test <./S.html#smoke-test.html>`__.
 
 2. The act of letting a `real user <real-user.html>`__ try out
-prototype software. Compare `sanity check <../S/sanity-check.html>`__.
+prototype software. Compare `sanity check <./S.html#sanity-check.html>`__.
 
  
 
@@ -536,11 +536,11 @@ community are likely to issue comments like “System V? Why don't you use
 a *real* operating system?”, people from the commercial/industrial Unix
 sector are known to complain “BSD? Why don't you use a *real* operating
 system?”, and people from IBM object “Unix? Why don't you use a *real*
-operating system?” Only `MS-DOS <../M/MS-DOS.html>`__ is universally
+operating system?” Only `MS-DOS <./M.html#MS-DOS.html>`__ is universally
 considered unreal. See `holy wars <./H.html#holy-wars.html>`__,
 `religious issues <religious-issues.html>`__,
-`proprietary <../P/proprietary.html>`__, `Get a real
-computer! <../G/Get-a-real-computer-.html>`__
+`proprietary <./P.html#proprietary.html>`__, `Get a real
+computer! <./G.html#Get-a-real-computer-.html>`__
  
 
 Real Programmer
@@ -557,7 +557,7 @@ metal <./B.html#bare-metal.html>`__ and is very good at same, remembers the
 binary opcodes for every machine he has ever programmed, thinks that
 HLLs are sissy, and uses a debugger to edit his code because full-screen
 editors are for wimps. Real Programmers aren't satisfied with code that
-hasn't been tuned into a state of `tense <../T/tense.html>`__\ ness
+hasn't been tuned into a state of `tense <./T.html#tense.html>`__\ ness
 just short of rupture. Real Programmers never use comments or write
 documentation: “If it was hard to write”, says the Real Programmer, “it
 should be hard to understand.” Real Programmers can make machines do
@@ -568,7 +568,7 @@ live on junk food and coffee, hang line-printer art on their walls, and
 terrify the crap out of other programmers — because someday, somebody
 else might have to try to understand their code in order to change it.
 Their successors generally consider it a `Good
-Thing <../G/Good-Thing.html>`__ that there aren't many Real Programmers
+Thing <./G.html#Good-Thing.html>`__ that there aren't many Real Programmers
 around any more. For a famous (and somewhat more positive) portrait of a
 Real Programmer, see `The Story of Mel' <../story-of-mel.html>`__ in
 Appendix A. The term itself was popularized by a letter to the editor in
@@ -625,7 +625,7 @@ usage.
 
 2. A non-hacker. Someone using the system for an explicit purpose (a
 research project, a course, etc.) other than pure exploration. See
-`user <../U/user.html>`__. Hackers who are also students may also be
+`user <./U.html#user.html>`__. Hackers who are also students may also be
 real users. “I need this fixed so I can do a problem set. I'm not
 complaining out of randomness, but as a real user.” See also
 `luser <./L.html#luser.html>`__.
@@ -639,8 +639,8 @@ Real World
 **Real World**: n.
 
 1. Those institutions at which ‘programming’ may be used in the same
-sentence as ‘FORTRAN’, ‘\ `COBOL <../C/COBOL.html>`__\ ’, ‘RPG’,
-‘\ `IBM <../I/IBM.html>`__\ ’, ‘DBASE’, etc. Places where programs do
+sentence as ‘FORTRAN’, ‘\ `COBOL <./C.html#COBOL.html>`__\ ’, ‘RPG’,
+‘\ `IBM <./I.html#IBM.html>`__\ ’, ‘DBASE’, etc. Places where programs do
 such commercially necessary but intellectually uninspiring things as
 generating payroll checks and invoices.
 
@@ -661,8 +661,8 @@ boundary between university and the Real World; check your notions of
 reality before passing. This joke is funnier because the Cambridge
 ‘campus’ is actually coextensive with the center of Cambridge town. See
 also `fear and loathing <./F.html#fear-and-loathing.html>`__,
-`mundane <../M/mundane.html>`__, and
-`uninteresting <../U/uninteresting.html>`__.
+`mundane <./M.html#mundane.html>`__, and
+`uninteresting <./U.html#uninteresting.html>`__.
 
 |image0|
 
@@ -677,7 +677,7 @@ reaper
 
 **reaper**: n.
 
-A `prowler <../P/prowler.html>`__ that removes files. A file removed
+A `prowler <./P.html#prowler.html>`__ that removes files. A file removed
 in this way is said to have been reaped.
  
 
@@ -707,7 +707,7 @@ rectangle slinger
 
 **rectangle slinger**: n.
 
-See `polygon pusher <../P/polygon-pusher.html>`__.
+See `polygon pusher <./P.html#polygon-pusher.html>`__.
 
  
 
@@ -718,7 +718,7 @@ recursion
 **recursion**: n.
 
 See `recursion <recursion.html>`__. See also `tail
-recursion <../T/tail-recursion.html>`__.
+recursion <./T.html#tail-recursion.html>`__.
  
 
 recursive acronym
@@ -734,14 +734,14 @@ acronyms/abbreviations. The original of the breed may have been TINT
 (“TINT Is Not TECO”). The classic examples were two MIT editors called
 EINE (“EINE Is Not EMACS”) and ZWEI (“ZWEI Was EINE Initially”). More
 recently, there is a Scheme compiler called LIAR (Liar Imitates Apply
-Recursively), and `GNU <../G/GNU.html>`__ (q.v., sense 1) stands for
+Recursively), and `GNU <./G.html#GNU.html>`__ (q.v., sense 1) stands for
 “GNU's Not Unix!” — and a company with the name Cygnus, which expands to
 “Cygnus, Your GNU Support” (though Cygnus people say this is a
 `backronym <./B.html#backronym.html>`__). The GNU recursive acronym may
 have been patterned on XINU, “XINU Is Not Unix” — a particularly nice
 example because it is a mirror image, a backronym, and a recursive
-acronym. See also `mung <../M/mung.html>`__,
-`EMACS <../E/EMACS.html>`__.
+acronym. See also `mung <./M.html#mung.html>`__,
+`EMACS <./E.html#EMACS.html>`__.
 
  
 
@@ -753,10 +753,10 @@ red wire
 
 [IBM] Patch wires installed by programmers who have no business mucking
 with the hardware. It is said that the only thing more dangerous than a
-hardware guy with a code patch is a `softy <../S/softy.html>`__ with a
+hardware guy with a code patch is a `softy <./S.html#softy.html>`__ with a
 soldering iron.... Compare `blue wire <./B.html#blue-wire.html>`__,
-`yellow wire <../Y/yellow-wire.html>`__, `purple
-wire <../P/purple-wire.html>`__.
+`yellow wire <./Y.html#yellow-wire.html>`__, `purple
+wire <./P.html#purple-wire.html>`__.
  
 
 regexp
@@ -851,7 +851,7 @@ relay rape
 **relay rape**: n.
 
 The hijacking of a third party's unsecured mail server to deliver
-`spam <../S/spam.html>`__.
+`spam <./S.html#spam.html>`__.
  
 
 religion of CHI
@@ -863,8 +863,8 @@ religion of CHI
 
 [Case Western Reserve University] Yet another hackish parody religion
 (see also `Church of the
-SubGenius <../C/Church-of-the-SubGenius.html>`__,
-`Discordianism <../D/Discordianism.html>`__). In the mid-70s, the
+SubGenius <./C.html#Church-of-the-SubGenius.html>`__,
+`Discordianism <./D.html#Discordianism.html>`__). In the mid-70s, the
 canonical “Introduction to Programming” courses at CWRU were taught in
 Algol, and student exercises were punched on cards and run on a Univac
 1108 system using a homebrew operating system named CHI. The religion
@@ -888,7 +888,7 @@ wars <./H.html#holy-wars.html>`__, such as “What is the best operating
 system (or editor, language, architecture, shell, mail reader, news
 reader)?”, “What about that Heinlein guy, eh?”, “What should we add to
 the new Jargon File?” See `holy wars <./H.html#holy-wars.html>`__; see
-also `theology <../T/theology.html>`__, `bigot <./B.html#bigot.html>`__,
+also `theology <./T.html#theology.html>`__, `bigot <./B.html#bigot.html>`__,
 and compare `rathole <rathole.html>`__.
 
 This term is a prime example of `ha ha only
@@ -896,7 +896,7 @@ serious <./H.html#ha-ha-only-serious.html>`__. People actually develop the
 most amazing and religiously intense attachments to their tools, even
 when the tools are intangible. The most constructive thing one can do
 when one stumbles into the crossfire is mumble `Get a
-life! <../G/Get-a-life-.html>`__ and leave — unless, of course, one's
+life! <./G.html#Get-a-life-.html>`__ and leave — unless, of course, one's
 *own* unassailably rational and obviously correct choices are being
 slammed.
 
@@ -908,15 +908,15 @@ replicator
 **replicator**: n.
 
 Any construct that acts to produce copies of itself; this could be a
-living organism, an idea (see `meme <../M/meme.html>`__), a program
-(see `quine <../Q/quine.html>`__, `worm <../W/worm.html>`__,
-`wabbit <../W/wabbit.html>`__, `fork bomb <./F.html#fork-bomb.html>`__,
-and `virus <../V/virus.html>`__), a pattern in a cellular automaton
+living organism, an idea (see `meme <./M.html#meme.html>`__), a program
+(see `quine <./Q.html#quine.html>`__, `worm <./W.html#worm.html>`__,
+`wabbit <./W.html#wabbit.html>`__, `fork bomb <./F.html#fork-bomb.html>`__,
+and `virus <./V.html#virus.html>`__), a pattern in a cellular automaton
 (see `life <./L.html#life.html>`__, sense 1), or (speculatively) a robot
-or `nanobot <../N/nanobot.html>`__. It is even claimed by some that
-`Unix <../U/Unix.html>`__ and `C <../C/C.html>`__ are the symbiotic
+or `nanobot <./N.html#nanobot.html>`__. It is even claimed by some that
+`Unix <./U.html#Unix.html>`__ and `C <./C.html#C.html>`__ are the symbiotic
 halves of an extremely successful replicator; see `Unix
-conspiracy <../U/Unix-conspiracy.html>`__.
+conspiracy <./U.html#Unix-conspiracy.html>`__.
  
 
 reply
@@ -936,7 +936,7 @@ A `bug <./B.html#bug.html>`__ or design error that limits a program's
 capabilities, and which is sufficiently egregious that nobody can quite
 work up enough nerve to describe it as a
 `feature <./F.html#feature.html>`__. Often used (esp. by
-`marketroid <../M/marketroid.html>`__ types) to make it sound as
+`marketroid <./M.html#marketroid.html>`__ types) to make it sound as
 though some crippling bogosity had been intended by the designers all
 along, or was forced upon them by arcane technical constraints of a
 nature no mere user could possibly comprehend (these claims are almost
@@ -1010,14 +1010,14 @@ mostly for `hack value <./H.html#hack-value.html>`__, of more ‘serious’
 designs. Perhaps the most widely distributed retrocomputing utility was
 the pnch(6) or bcd(6) program on V7 and other early Unix versions, which
 would accept up to 80 characters of text argument and display the
-corresponding pattern in `punched card <../P/punched-card.html>`__
+corresponding pattern in `punched card <./P.html#punched-card.html>`__
 code. Other well-known retrocomputing hacks have included the
-programming language `INTERCAL <../I/INTERCAL.html>`__, a
-`JCL <../J/JCL.html>`__-emulating shell for Unix, the
+programming language `INTERCAL <./I.html#INTERCAL.html>`__, a
+`JCL <./J.html#JCL.html>`__-emulating shell for Unix, the
 card-punch-emulating editor named 029, and various elaborate
-`PDP-11 <../P/PDP-11.html>`__ hardware emulators and RT-11 OS
+`PDP-11 <./P.html#PDP-11.html>`__ hardware emulators and RT-11 OS
 emulators written just to keep an old, sourceless
-`Zork <../Z/Zork.html>`__ binary running.
+`Zork <./Z.html#Zork.html>`__ binary running.
 
 A tasty selection of retrocomputing programs are made available at the
 Retrocomputing Museum,
@@ -1030,7 +1030,7 @@ return from the dead
 **return from the dead**: v.
 
 To regain access to the net after a long absence. Compare `person of no
-account <../P/person-of-no-account.html>`__.
+account <./P.html#person-of-no-account.html>`__.
  
 
 RFC
@@ -1063,7 +1063,7 @@ pastiche; the second a parody of the TCP-IP documentation style, and the
 third a deadpan skewering of standards-document legalese, describing
 protocols for transmitting Internet data packets by carrier pigeon
 (since actually implemented; see Appendix A). See also `Infinite-Monkey
-Theorem <../I/Infinite-Monkey-Theorem.html>`__.
+Theorem <./I.html#Infinite-Monkey-Theorem.html>`__.
 
 The RFCs are most remarkable for how well they work — they frequently
 manage to have neither the ambiguities that are usually rife in informal
@@ -1095,7 +1095,7 @@ do, say, etc. Often capitalized, always emphasized in speech as though
 capitalized. Use of this term often implies that in fact reasonable
 people may disagree. “What's the right thing for LISP to do when it sees
 (mod a 0)? Should it return **a**, or give a divide-by-0 error?” Oppose
-`Wrong Thing <../W/Wrong-Thing.html>`__.
+`Wrong Thing <./W.html#Wrong-Thing.html>`__.
  
 rip
 ============== 
@@ -1127,8 +1127,8 @@ RL
 **RL**: //, n.
 
 [MUD community] Real Life. “Firiss laughs in RL” means that Firiss's
-player is laughing. Compare `meatspace <../M/meatspace.html>`__;
-oppose `VR <../V/VR.html>`__.
+player is laughing. Compare `meatspace <./M.html#meatspace.html>`__;
+oppose `VR <./V.html#VR.html>`__.
 
  
 
@@ -1138,7 +1138,7 @@ roach
 **roach**: vt.
 
 [Bell Labs] To destroy, esp. of a data structure. Hardware gets
-`toast <../T/toast.html>`__\ ed or `fried <./F.html#fried.html>`__,
+`toast <./T.html#toast.html>`__\ ed or `fried <./F.html#fried.html>`__,
 software gets roached. Probably derived from '70s and '80s drug slang;
 marijuana smokers used ‘roach’ to refer to the unsmokable remnant of a
 joint, and to ‘roach’ a joint was therefore to destroy it.
@@ -1150,11 +1150,11 @@ robocanceller
 **robocanceller**: /roh·boh·kan´sel·@r/
 
 A program that monitors Usenet feeds, attempting to detect and eliminate
-`spam <../S/spam.html>`__ by sending appropriate cancel messages.
+`spam <./S.html#spam.html>`__ by sending appropriate cancel messages.
 Robocancellers may use the `Breidbart
-Index <../B/Breidbart-Index.html>`__ as a trigger. Programming them is
-not a game for amateurs; see `ARMM <../A/ARMM.html>`__. See also
-`Dave the Resurrector <../D/Dave-the-Resurrector.html>`__.
+Index <./B.html#Breidbart-Index.html>`__ as a trigger. Programming them is
+not a game for amateurs; see `ARMM <./A.html#ARMM.html>`__. See also
+`Dave the Resurrector <./D.html#Dave-the-Resurrector.html>`__.
 
  
 
@@ -1175,7 +1175,7 @@ Said of a system that has demonstrated an ability to recover gracefully
 from the whole range of exceptional inputs and situations in a given
 environment. One step below `bulletproof <./B.html#bulletproof.html>`__.
 Carries the additional connotation of elegance in addition to just
-careful attention to detail. Compare `smart <../S/smart.html>`__,
+careful attention to detail. Compare `smart <./S.html#smart.html>`__,
 oppose `brittle <./B.html#brittle.html>`__.
 
  
@@ -1209,14 +1209,14 @@ important and heavily used application libraries. Nethack, Omega, Larn,
 Angband, and an entire subgenre of computer dungeon games (all known as
 ‘roguelikes’) all took off from the inspiration provided by rogue(6);
 the popular Windows game Diablo, though graphics-intensive, has very
-similar play logic. See also `nethack <../N/nethack.html>`__,
-`moria <../M/moria.html>`__, `Angband <../A/Angband.html>`__.
+similar play logic. See also `nethack <./N.html#nethack.html>`__,
+`moria <./M.html#moria.html>`__, `Angband <./A.html#Angband.html>`__.
 
-2. [Usenet] adj. An `ISP <../I/ISP.html>`__ which permits net abuse
-(usually in the form of `spam <../S/spam.html>`__\ ming) by its
+2. [Usenet] adj. An `ISP <./I.html#ISP.html>`__ which permits net abuse
+(usually in the form of `spam <./S.html#spam.html>`__\ ming) by its
 customers, or which itself engages in such activities. Rogue ISPs are
-sometimes subject to `IDP <../I/IDP.html>`__\ s or
-`UDP <../U/UDP.html>`__\ s. Sometimes deliberately misspelled as
+sometimes subject to `IDP <./I.html#IDP.html>`__\ s or
+`UDP <./U.html#UDP.html>`__\ s. Sometimes deliberately misspelled as
 “rouge”.
  
 
@@ -1239,7 +1239,7 @@ root
 
 **root**: n.
 
-1. [Unix] The `superuser <../S/superuser.html>`__ account (with user
+1. [Unix] The `superuser <./S.html#superuser.html>`__ account (with user
 name ‘root’) that ignores permission bits, user number 0 on a Unix
 system. The term `avatar <./A.html#avatar.html>`__ is also used.
 
@@ -1249,7 +1249,7 @@ directory of the root user, but probably named after the root of an
 
 3. By extension, the privileged system-maintenance login on any OS. See
 `root mode <root-mode.html>`__, `go root <./G.html#go-root.html>`__, see
-also `wheel <../W/wheel.html>`__.
+also `wheel <./W.html#wheel.html>`__.
 
  
 
@@ -1260,7 +1260,7 @@ rootkit
 
 [very common] A kit for maintaining `root <root.html>`__; an automated
 `cracking <./C.html#cracking.html>`__ tool. What `script
-kiddies <../S/script-kiddies.html>`__ use. After a cracker has first
+kiddies <./S.html#script-kiddies.html>`__ use. After a cracker has first
 broken in and gained root access, he or she will install modified
 binaries such as a modified version login with a backdoor, or a version
 of ps that will not report the cracker's processes). This is a rootkit.
@@ -1271,7 +1271,7 @@ root mode
 
 **root mode**: n.
 
-Syn. with `wizard mode <../W/wizard-mode.html>`__ or wheel mode. Like
+Syn. with `wizard mode <./W.html#wizard-mode.html>`__ or wheel mode. Like
 these, it is often generalized to describe privileged states in systems
 other than OSes.
 
@@ -1289,10 +1289,10 @@ forward or back along the alphabet, so that “The butler did it!” becomes
 “Gur ohgyre qvq vg!” Most Usenet news reading and posting programs
 include a rot13 feature. It is used to enclose the text in a sealed
 wrapper that the reader must choose to open — e.g., for posting things
-that might offend some readers, or `spoiler <../S/spoiler.html>`__\ s.
+that might offend some readers, or `spoiler <./S.html#spoiler.html>`__\ s.
 A major advantage of rot13 over rot(\ "N") for other "N" is that it
 is self-inverse, so the same code can be used for encoding and decoding.
-See also `spoiler space <../S/spoiler-space.html>`__, which has partly
+See also `spoiler space <./S.html#spoiler-space.html>`__, which has partly
 displaced rot13 since non-Unix-based newsreaders became common.
 
  
@@ -1305,7 +1305,7 @@ rotary debugger
 [Commodore] Essential equipment for those late-night or early-morning
 debugging sessions. Mainly used as sustenance for the hacker. Comes in
 many decorator colors, such as Sausage, Pepperoni, and Garbage. See
-`ANSI standard pizza <../A/ANSI-standard-pizza.html>`__.
+`ANSI standard pizza <./A.html#ANSI-standard-pizza.html>`__.
 
 RSN
 ==========
@@ -1323,7 +1323,7 @@ RTBM
 
 [Unix] Commonwealth Hackish variant of `RTFM <RTFM.html>`__; expands
 to ‘Read The Bloody Manual’. RTBM is often the entire text of the first
-reply to a question from a `newbie <../N/newbie.html>`__; the *second*
+reply to a question from a `newbie <./N.html#newbie.html>`__; the *second*
 would escalate to “RTFM”.
 
 RTFAQ
@@ -1334,7 +1334,7 @@ RTFAQ
 
 [Usenet: primarily written, by analogy with `RTFM <RTFM.html>`__]
 Abbrev. for ‘Read the FAQ!’, an exhortation that the person addressed
-ought to read the newsgroup's `FAQ list <../F/FAQ-list.html>`__ before
+ought to read the newsgroup's `FAQ list <./F.html#FAQ-list.html>`__ before
 posting questions.
 
 RTFB
@@ -1364,16 +1364,16 @@ RTFM
 
 1. Used by `guru <./G.html#guru.html>`__\ s to brush off questions they
 consider trivial or annoying. Compare `Don't do that
-then! <../D/Don-t-do-that-then-.html>`__.
+then! <./D.html#Don-t-do-that-then-.html>`__.
 
 2. Used when reporting a problem to indicate that you aren't just asking
 out of `randomness <randomness.html>`__. “No, I can't figure out how
 to interface Unix to my toaster, and yes, I have RTFM.” Unlike sense 1,
-this use is considered polite. See also `FM <../F/FM.html>`__,
+this use is considered polite. See also `FM <./F.html#FM.html>`__,
 `RTFAQ <RTFAQ.html>`__, `RTFB <RTFB.html>`__,
-`RTFS <RTFS.html>`__, `STFW <../S/STFW.html>`__,
+`RTFS <RTFS.html>`__, `STFW <./S.html#STFW.html>`__,
 `RTM <RTM.html>`__, all of which mutated from RTFM, and compare
-`UTSL <../U/UTSL.html>`__.
+`UTSL <./U.html#UTSL.html>`__.
 
  
 RTFS
@@ -1417,7 +1417,7 @@ RTI
 The mnemonic for the ‘return from interrupt’ instruction on many
 computers including the 6502 and 6800. The variant RETI is found among
 Z80 hackers. Equivalent to “Now, where was I?” or used to end a
-conversational digression. See `pop <../P/pop.html>`__.
+conversational digression. See `pop <./P.html#pop.html>`__.
  
 RTM
  
@@ -1428,7 +1428,7 @@ RTM
 `RTFM <RTFM.html>`__.
 
 2. Robert Tappan Morris, perpetrator of the great Internet worm of 1988
-(see `Great Worm <../G/Great-Worm.html>`__); villain to many, naive
+(see `Great Worm <./G.html#Great-Worm.html>`__); villain to many, naive
 hacker gone wrong to a few. Morris claimed that the worm that brought
 the Internet to its knees was a benign experiment that got out of
 control as the result of a coding error. After the storm of negative
@@ -1443,7 +1443,7 @@ RTS
 
 Abbreviation for ‘Read The Screen’. Mainly used by hackers in the
 microcomputer world. Refers to what one would like to tell the
-`suit <../S/suit.html>`__ one is forced to explain an extremely simple
+`suit <./S.html#suit.html>`__ one is forced to explain an extremely simple
 application to. Particularly appropriate when the suit failed to notice
 the ‘Press any key to continue’ prompt, and wishes to know ‘why won't it
 do anything’. Also seen as ‘RTFS’ in especially deserving cases.
@@ -1462,7 +1462,7 @@ is discovered. Shorthand for any method of coercion: the originator of
 the term drily noted that it “can take a surprisingly short time and is
 quite computationally inexpensive” relative to other cryptanalysis
 methods. Compare `social
-engineering <../S/social-engineering.html>`__, `brute
+engineering <./S.html#social-engineering.html>`__, `brute
 force <./B.html#brute-force.html>`__.
 
 rude
@@ -1490,12 +1490,12 @@ runes
 
 1. Anything that requires `heavy
 wizardry <./H.html#heavy-wizardry.html>`__ or `black
-art <./B.html#black-art.html>`__ to `parse <../P/parse.html>`__: core
+art <./B.html#black-art.html>`__ to `parse <./P.html#parse.html>`__: core
 dumps, JCL commands, APL, or code in a language you haven't a clue how
 to read. Not quite as bad as `line noise <./L.html#line-noise.html>`__,
 but close. Compare `casting the
 runes <./C.html#casting-the-runes.html>`__, `Great
-Runes <../G/Great-Runes.html>`__.
+Runes <./G.html#Great-Runes.html>`__.
 
 2. Special display characters (for example, the high-half graphics on an
 IBM PC).
@@ -1509,7 +1509,7 @@ runic
 
 **runic**: adj.
 
-Syn. `obscure <../O/obscure.html>`__. VMS fans sometimes refer to Unix
+Syn. `obscure <./O.html#obscure.html>`__. VMS fans sometimes refer to Unix
 as ‘Runix’; Unix fans return the compliment by expanding VMS to ‘Very
 Messy Syntax’ or ‘Vachement Mauvais Système’ (French idiom, “Hugely Bad
 System”).
@@ -1520,8 +1520,8 @@ rusty iron
 
 **rusty iron**: n.
 
-Syn. `tired iron <../T/tired-iron.html>`__. It has been claimed that
-this is the inevitable fate of `water MIPS <../W/water-MIPS.html>`__.
+Syn. `tired iron <./T.html#tired-iron.html>`__. It has been claimed that
+this is the inevitable fate of `water MIPS <./W.html#water-MIPS.html>`__.
 
  
 

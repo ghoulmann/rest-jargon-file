@@ -125,7 +125,7 @@ Zero-One-Infinity Rule
 “Allow none of `foo <F.html#foo>`__, one of
 `foo <F.html#foo>`__, or any number of `foo <F.html#foo>`__.”
 A rule of thumb for software design, which instructs one to not place
-`random <../R/random.html>`__ limits on the number of instances of a
+`random <./R.html#random.html>`__ limits on the number of instances of a
 given entity (such as: windows in a window system, letters in an OS's
 filenames, etc.). Specifically, one should either disallow the entity
 entirely, allow exactly one instance (an “exception”), or allow as many
@@ -217,7 +217,7 @@ zombie
 1. [Unix] A process that has died but has not yet relinquished its
 process table slot (because the parent process hasn't executed a wait(2)
 for it yet). These can be seen in ps(1) listings occasionally. Compare
-`orphan <../O/orphan.html>`__.
+`orphan <./O.html#orphan.html>`__.
 
 2. A machine, especially someone's `home box <./H.html#home-box.html>`__,
 that has been cracked and is being used as part of a second-stage attack
@@ -249,7 +249,7 @@ that just yet; I think I've used up my quota of zorch with him for the
 week.”
 
 5. [MIT] n. Energy, drive, or ability. “I think I'll
-`punt <../P/punt.html>`__ that change for now; I've been up for 30
+`punt <./P.html#punt.html>`__ that change for now; I've been up for 30
 hours and I've run out of zorch.”
 
 6. [MIT] v. To flunk an exam or course.
@@ -270,11 +270,11 @@ Zork
 **Zork**: /zork/, n.
 
 The second of the great early experiments in computer fantasy gaming;
-see `ADVENT <../A/ADVENT.html>`__. Originally written on MIT-DM during
+see `ADVENT <./A.html#ADVENT.html>`__. Originally written on MIT-DM during
 1977-1979, later distributed with BSD Unix (as a patched, sourceless
 RT-11 FORTRAN binary; see
-`retrocomputing <../R/retrocomputing.html>`__) and commercialized as
-‘The Zork Trilogy’ by `Infocom <../I/Infocom.html>`__. The FORTRAN
+`retrocomputing <./R.html#retrocomputing.html>`__) and commercialized as
+‘The Zork Trilogy’ by `Infocom <./I.html#Infocom.html>`__. The FORTRAN
 source was later rewritten for portability and released to Usenet under
 the name “Dungeon”. Both FORTRAN “Dungeon” and translated C versions are
 available at many FTP sites; the commercial Zork trilogy is available at
@@ -291,5 +291,5 @@ zorkmid
 
 The canonical unit of currency in hacker-written games. This originated
 in `Zork <Zork.html>`__ but has spread to
-`nethack <../N/nethack.html>`__ and is referred to in several other
+`nethack <./N.html#nethack.html>`__ and is referred to in several other
 games.

@@ -103,13 +103,13 @@ O
 
 **Ob-**: /ob/, pref.
 
-Obligatory. A piece of `netiquette <../N/netiquette.html>`__
+Obligatory. A piece of `netiquette <./N.html#netiquette.html>`__
 acknowledging that the author has been straying from the newsgroup's
 charter topic. For example, if a posting in alt.sex is a response to a
 part of someone else's posting that has nothing particularly to do with
 sex, the author may append ‘ObSex’ (or ‘Obsex’) and toss off a question
 or vignette about some unusual erotic act. It is considered a sign of
-great `winnitude <../W/winnitude.html>`__ when one's Obs are more
+great `winnitude <./W.html#winnitude.html>`__ when one's Obs are more
 interesting than other people's whole postings.
 
 --------------
@@ -139,7 +139,7 @@ loop of some sort in which the index is off by one.
 from 1.
 
 2. A kind of `off-by-one error <off-by-one-error.html>`__. See also
-`zeroth <../Z/zeroth.html>`__.
+`zeroth <./Z.html#zeroth.html>`__.
 
 --------------
 
@@ -166,7 +166,7 @@ C in competition with the better-known C++ (it is used to write native
 applications on the NeXT machine). Objectionable-C uses a Smalltalk-like
 syntax, but lacks the flexibility of Smalltalk method calls, and (like
 many such efforts) comes frustratingly close to attaining the `Right
-Thing <../R/Right-Thing.html>`__ without actually doing so.
+Thing <./R.html#Right-Thing.html>`__ without actually doing so.
 
 --------------
 
@@ -216,10 +216,10 @@ O
 **octal forty**: /ok´tl for´tee/, n.
 
 Hackish way of saying “I'm drawing a blank.” Octal 40 is the
-`ASCII <../A/ASCII.html>`__ space character, 0100000; by an odd
+`ASCII <./A.html#ASCII.html>`__ space character, 0100000; by an odd
 coincidence, `hex <./H.html#hex.html>`__ 40 (01000000) is the
-`EBCDIC <../E/EBCDIC.html>`__ space character. See
-`wall <../W/wall.html>`__.
+`EBCDIC <./E.html#EBCDIC.html>`__ space character. See
+`wall <./W.html#wall.html>`__.
 
 --------------
 
@@ -270,7 +270,7 @@ O
 **offline**: adv.
 
 Not now or not here. “Let's take this discussion offline.” Specifically
-used on `Usenet <../U/Usenet.html>`__ to suggest that a discussion be
+used on `Usenet <./U.html#Usenet.html>`__ to suggest that a discussion be
 moved off a public newsgroup to email.
 
 --------------
@@ -296,7 +296,7 @@ O
 Describes the behavior of a program that malfunctions and goes
 catatonic, but doesn't actually `crash <./C.html#crash.html>`__ or abort.
 See `glitch <./G.html#glitch.html>`__, `bug <./B.html#bug.html>`__, `deep
-space <./D.html#deep-space.html>`__, `wedged <../W/wedged.html>`__.
+space <./D.html#deep-space.html>`__, `wedged <./W.html#wedged.html>`__.
 
 This term is much older than computing, and is (uncommon) slang
 elsewhere. A trolley is the small wheel that trolls, or runs against,
@@ -376,7 +376,7 @@ O
 
 Tribal elder. A title self-assumed with remarkable frequency by (esp.)
 Usenetters who have been programming for more than about 25 years; often
-appears in `sig block <../S/sig-block.html>`__\ s attached to Jargon
+appears in `sig block <./S.html#sig-block.html>`__\ s attached to Jargon
 File contributions of great archeological significance. This is a term
 of insult in the second or third person but one of pride in first
 person.
@@ -402,8 +402,8 @@ O
 **Old Testament**: n.
 
 [C programmers] The first edition of
-`K&R <../K/K-ampersand-R.html>`__, the sacred text describing
-`Classic C <../C/Classic-C.html>`__.
+`K&R <./K.html#K-ampersand-R.html>`__, the sacred text describing
+`Classic C <./C.html#Classic-C.html>`__.
 
 --------------
 
@@ -435,14 +435,14 @@ most; what's taking them so long?” At IBM, folklore divides the world
 into one-, two-, and three-banana problems. Other cultures have
 different hierarchies and may divide them more finely; at ICL, for
 example, five grapes (a bunch) equals a banana. Their upper limit for
-the in-house `sysape <../S/sysape.html>`__\ s is said to be two
+the in-house `sysape <./S.html#sysape.html>`__\ s is said to be two
 bananas and three grapes (another source claims it's three bananas and
 one grape, but observes “However, this is subject to local variations,
 cosmic rays and ISO”). At a complication level any higher than that, one
 asks the manufacturers to send someone around to check things.
 
 See also `Infinite-Monkey
-Theorem <../I/Infinite-Monkey-Theorem.html>`__.
+Theorem <./I.html#Infinite-Monkey-Theorem.html>`__.
 
 --------------
 
@@ -467,7 +467,7 @@ O
 Used (often sarcastically) of a change to a program that is thought to
 be trivial or insignificant right up to the moment it crashes the
 system. Usually ‘cured’ by another one-line fix. See also `I didn't
-change anything! <../I/I-didn-t-change-anything-.html>`__
+change anything! <./I.html#I-didn-t-change-anything-.html>`__
 
 --------------
 
@@ -490,12 +490,12 @@ O
 **one-liner wars**: n.
 
 A game popular among hackers who code in the language APL (see
-`write-only language <../W/write-only-language.html>`__ and `line
+`write-only language <./W.html#write-only-language.html>`__ and `line
 noise <./L.html#line-noise.html>`__). The objective is to see who can code
 the most interesting and/or useful routine in one line of operators
 chosen from APL's exceedingly `hairy <./H.html#hairy.html>`__ primitive
-set. A similar amusement was practiced among `TECO <../T/TECO.html>`__
-hackers and is now popular among `Perl <../P/Perl.html>`__
+set. A similar amusement was practiced among `TECO <./T.html#TECO.html>`__
+hackers and is now popular among `Perl <./P.html#Perl.html>`__
 aficionados.
 
 Ken Iverson, the inventor of APL, has been credited with a one-liner
@@ -509,7 +509,7 @@ to "N" inclusive. It looks like this:
                                                                           
 +--------------------------------------------------------------------------+
 
-Here's a `Perl <../P/Perl.html>`__ program that prints primes:
+Here's a `Perl <./P.html#Perl.html>`__ program that prints primes:
 
 +--------------------------------------------------------------------------+
 | .. code:: programlisting                                                 |
@@ -549,7 +549,7 @@ title of Larry Niven & Jerry Pournelle's 1993 SF novel “The Gripping
 Hand” which involved a species of hostile aliens with three arms (the
 same species, in fact, referenced in `juggling
 eggs <./J.html#juggling-eggs.html>`__). As with
-`TANSTAAFL <../T/TANSTAAFL.html>`__ and `con <./C.html#con_.html>`__,
+`TANSTAAFL <./T.html#TANSTAAFL.html>`__ and `con <./C.html#con_.html>`__,
 this usage became one of the naturalized imports from SF fandom
 frequently observed among hackers.
 
@@ -651,7 +651,7 @@ Mozilla release to describe software distributed in source under
 licenses guaranteeing anybody rights to freely use, modify, and
 redistribute, the code. The intent was to be able to sell the hackers'
 ways of doing software to industry and the mainstream by avoiding the
-negative connotations (to `suit <../S/suit.html>`__\ s) of the term
+negative connotations (to `suit <./S.html#suit.html>`__\ s) of the term
 “\ `free software <./F.html#free-software.html>`__\ ”. For discussion of
 the follow-on tactics and their consequences, see the `Open Source
 Initiative <http://www.opensource.org>`__ site.
@@ -665,7 +665,7 @@ used to do most of our work in closed-source environments. Until the
 late 1990s open source was a sporadic exception that usually had to live
 on top of a closed-source operating system and alongside closed-source
 tools; entire open-source environments like
-`Linux <../L/Linux.html>`__ and the \*BSD systems didn't even exist in
+`Linux <./L.html#Linux.html>`__ and the \*BSD systems didn't even exist in
 a usable form until around 1993 and weren't taken very seriously by
 anyone but a pioneering few until about five years later.
 
@@ -718,13 +718,13 @@ default interface to the user between applications. The facilities an
 operating system provides and its general design philosophy exert an
 extremely strong influence on programming style and on the technical
 cultures that grow up around its host machines. Hacker folklore has been
-shaped primarily by the `Unix <../U/Unix.html>`__,
-`ITS <../I/ITS.html>`__, `TOPS-10 <../T/TOPS-10.html>`__,
-`TOPS-20 <../T/TOPS-20.html>`__/`TWENEX <../T/TWENEX.html>`__,
-`WAITS <../W/WAITS.html>`__, `CP/M <../C/CP-M.html>`__,
-`MS-DOS <../M/MS-DOS.html>`__, and `Multics <../M/Multics.html>`__
+shaped primarily by the `Unix <./U.html#Unix.html>`__,
+`ITS <./I.html#ITS.html>`__, `TOPS-10 <./T.html#TOPS-10.html>`__,
+`TOPS-20 <./T.html#TOPS-20.html>`__/`TWENEX <./T.html#TWENEX.html>`__,
+`WAITS <./W.html#WAITS.html>`__, `CP/M <./C.html#CP-M.html>`__,
+`MS-DOS <./M.html#MS-DOS.html>`__, and `Multics <./M.html#Multics.html>`__
 operating systems (most importantly by ITS and Unix). See also
-`timesharing <../T/timesharing.html>`__.
+`timesharing <./T.html#timesharing.html>`__.
 
 --------------
 
@@ -747,7 +747,7 @@ O
 **operator headspace**
 
 [common] More fully, “operator headspace error”. Synonym for `pilot
-error <../P/pilot-error.html>`__ — a dumb move, especially one pulled
+error <./P.html#pilot-error.html>`__ — a dumb move, especially one pulled
 by someone who ought to know better. Often used reflexively.
 
 --------------
@@ -772,13 +772,13 @@ O
 
 1. In England and Ireland, common verbal abbreviation for ‘operator’, as
 in system operator. Less common in the U.S., where
-`sysop <../S/sysop.html>`__ seems to be preferred.
+`sysop <./S.html#sysop.html>`__ seems to be preferred.
 
 2. [IRC] Someone who is endowed with privileges on
-`IRC <../I/IRC.html>`__, not limited to a particular channel. These
+`IRC <./I.html#IRC.html>`__, not limited to a particular channel. These
 are generally people who are in charge of the IRC server at their
 particular site. Sometimes used interchangeably with
-`CHOP <../C/CHOP.html>`__. Compare `sysop <../S/sysop.html>`__.
+`CHOP <./C.html#CHOP.html>`__. Compare `sysop <./S.html#sysop.html>`__.
 
 --------------
 
@@ -800,7 +800,7 @@ O
 
 **optical diff**: n.
 
-See `vdiff <../V/vdiff.html>`__.
+See `vdiff <./V.html#vdiff.html>`__.
 
 --------------
 
@@ -822,7 +822,7 @@ O
 
 **optical grep**: n.
 
-See `vgrep <../V/vgrep.html>`__.
+See `vgrep <./V.html#vgrep.html>`__.
 
 --------------
 
@@ -859,7 +859,7 @@ describes this extremely well:
     just found the last bug.”.
 
 See also `Lubarsky's Law of Cybernetic
-Entomology <../L/Lubarskys-Law-of-Cybernetic-Entomology.html>`__.
+Entomology <./L.html#Lubarskys-Law-of-Cybernetic-Entomology.html>`__.
 
 --------------
 
@@ -943,11 +943,11 @@ overlap heavily with hackerdom, most notably science-fiction fandom) has
 never been satisfactorily explained, but is sufficiently intense that
 one can assume the target of a hackish dinner expedition to be the best
 local Chinese place and be right at least three times out of four. See
-also `ravs <../R/ravs.html>`__,
+also `ravs <./R.html#ravs.html>`__,
 `great-wall <./G.html#great-wall.html>`__, `stir-fried
-random <../S/stir-fried-random.html>`__, `laser
+random <./S.html#stir-fried-random.html>`__, `laser
 chicken <./L.html#laser-chicken.html>`__, `Yu-Shiang Whole
-Fish <../Y/Yu-Shiang-Whole-Fish.html>`__. Thai, Indian, Korean,
+Fish <./Y.html#Yu-Shiang-Whole-Fish.html>`__. Thai, Indian, Korean,
 Burmese, and Vietnamese cuisines are also quite popular.
 
 --------------
@@ -1000,7 +1000,7 @@ O
 **orphan**: n.
 
 [Unix] A process whose parent has died; one inherited by init(1).
-Compare `zombie <../Z/zombie.html>`__.
+Compare `zombie <./Z.html#zombie.html>`__.
 
 --------------
 
@@ -1027,8 +1027,8 @@ irrelevant to. Used in a generalization of its mathematical meaning to
 describe sets of primitives or capabilities that, like a vector basis in
 geometry, span the entire ‘capability space’ of the system and are in
 some sense non-overlapping or mutually independent. For example, in
-architectures such as the `PDP-11 <../P/PDP-11.html>`__ or
-`VAX <../V/VAX.html>`__ where all or nearly all registers can be used
+architectures such as the `PDP-11 <./P.html#PDP-11.html>`__ or
+`VAX <./V.html#VAX.html>`__ where all or nearly all registers can be used
 interchangeably in any role with respect to any instruction, the
 register set is said to be orthogonal. Or, in logic, the set of
 operators not and or is orthogonal, but the set nand, or, and not is not
@@ -1068,11 +1068,11 @@ informed hackers rated them superior to Microsoft Windows (an
 endorsement which, however, could easily be construed as damning with
 faint praise). In the mid-1990s IBM put OS/2 on life support, refraining
 from killing it outright purely for internal political reasons; by 1999
-the success of `Linux <../L/Linux.html>`__ had effectively ended any
+the success of `Linux <./L.html#Linux.html>`__ had effectively ended any
 possibility of a renaissance. See
-`monstrosity <../M/monstrosity.html>`__,
+`monstrosity <./M.html#monstrosity.html>`__,
 `cretinous <./C.html#cretinous.html>`__, `second-system
-effect <../S/second-system-effect.html>`__.
+effect <./S.html#second-system-effect.html>`__.
 
 --------------
 
@@ -1122,7 +1122,7 @@ O
 
 Written-only acronym for “Open Source Software” (see `open
 source <open-source.html>`__). This is a rather ugly
-`TLA <../T/TLA.html>`__, and the principals in the open-source
+`TLA <./T.html#TLA.html>`__, and the principals in the open-source
 movement don't use it, but it has (perhaps inevitably) spread through
 the trade press like kudzu.
 
@@ -1149,7 +1149,7 @@ O
 [Usenet: common] Abbreviation for “off-topic”. This is used to respond
 to a question that is inappropriate for the newsgroup that the
 questioner posted to. Often used in an HTML-style modifier or with
-adverbs. See also `TAN <../T/TAN.html>`__.
+adverbs. See also `TAN <./T.html#TAN.html>`__.
 
 --------------
 
@@ -1208,7 +1208,7 @@ characters, such as the ESC that leads control sequences for many
 terminals, or the level shift indicators in the old 5-bit Baudot codes.
 
 3. In personal communication, using methods other than email, such as
-telephones or `snail-mail <../S/snail-mail.html>`__.
+telephones or `snail-mail <./S.html#snail-mail.html>`__.
 
 --------------
 
@@ -1232,7 +1232,7 @@ O
 
 To operate a CPU or other digital logic device at a rate higher than it
 was designed for, under the assumption that the manufacturer put some
-`slop <../S/slop.html>`__ into the specification to account for
+`slop <./S.html#slop.html>`__ into the specification to account for
 manufacturing tolerances. Overclocking something can result in
 intermittent `crash <./C.html#crash.html>`__\ es, and can even burn things
 out, since power dissipation is directly proportional to
@@ -1307,14 +1307,14 @@ O
 1. [techspeak] Term for a frequent consequence of data arriving faster
 than it can be consumed, esp. in serial line communications. For
 example, at 9600 baud there is almost exactly one character per
-millisecond, so if a `silo <../S/silo.html>`__ can hold only two
+millisecond, so if a `silo <./S.html#silo.html>`__ can hold only two
 characters and the machine takes longer than 2 msec to get to service
 the interrupt, at least one character will be lost.
 
 2. Also applied to non-serial-I/O communications. “I forgot to pay my
 electric bill due to mail overrun.” “Sorry, I got four phone calls in 3
 minutes last night and lost your message to overrun.” When
-`thrash <../T/thrash.html>`__\ ing at tasks, the next person to make a
+`thrash <./T.html#thrash.html>`__\ ing at tasks, the next person to make a
 request might be told “Overrun!” Compare `firehose
 syndrome <./F.html#firehose-syndrome.html>`__.
 
@@ -1347,20 +1347,20 @@ core <./F.html#fandango-on-core.html>`__ produced by scribbling past the
 end of an array (C implementations typically have no checks for this
 error). This is relatively benign and easy to spot if the array is
 static; if it is auto, the result may be to `smash the
-stack <../S/smash-the-stack.html>`__ — often resulting in
+stack <./S.html#smash-the-stack.html>`__ — often resulting in
 `heisenbug <./H.html#heisenbug.html>`__\ s of the most diabolical
 subtlety. The term overrun screw is used esp. of scribbles beyond the
 end of arrays allocated with malloc(3); this typically trashes the
 allocation header for the next block in the
 `arena <./A.html#arena.html>`__, producing massive lossage within malloc
 and often a core dump on the next operation to use stdio(3) or malloc(3)
-itself. See `spam <../S/spam.html>`__, `overrun <overrun.html>`__;
-see also `memory leak <../M/memory-leak.html>`__, `memory
-smash <../M/memory-smash.html>`__, `aliasing
+itself. See `spam <./S.html#spam.html>`__, `overrun <overrun.html>`__;
+see also `memory leak <./M.html#memory-leak.html>`__, `memory
+smash <./M.html#memory-smash.html>`__, `aliasing
 bug <./A.html#aliasing-bug.html>`__, `precedence
-lossage <../P/precedence-lossage.html>`__, `fandango on
+lossage <./P.html#precedence-lossage.html>`__, `fandango on
 core <./F.html#fandango-on-core.html>`__, `secondary
-damage <../S/secondary-damage.html>`__.
+damage <./S.html#secondary-damage.html>`__.
 
 --------------
 
@@ -1436,7 +1436,7 @@ has recently (in 1991) started to go mainstream (most notably in the
 term ‘trendoid’ for victims of terminal hipness). This is probably
 traceable to the popularization of the term
 `droid <./D.html#droid.html>`__ in *Star Wars* and its sequels. (See also
-`windoid <../W/windoid.html>`__.)
+`windoid <./W.html#windoid.html>`__.)
 
 Coinages in both forms have been common in science fiction for at least
 fifty years, and hackers (who are often SF fans) have probably been
