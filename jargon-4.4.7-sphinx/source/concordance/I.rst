@@ -5,11 +5,11 @@ I
 
 IANAL
 
-`Prev <I-for-one-welcome-our-new-X-overlords>`__ 
+`Prev <#i-for-one-welcome-our-new-X-overlords>`__ 
 
 I
 
- `Next <IBM>`__
+ `Next <#iBM>`__
 
  
 
@@ -21,18 +21,18 @@ advice.
  
 
 +    --+  + ----------+
-| `Prev <I-for-one-welcome-our-new-X-overlords>`__    | `Up <../I>`__         |  `Next <IBM>`__   |
+| `Prev <#i-for-one-welcome-our-new-X-overlords>`__    | `Up <../I>`__         |  `Next <#iBM>`__   |
 +    --+  + ----------+
 | I for one welcome our new X overlords                    | `Home <../index>`__   |  IBM                   |
 +    --+  + ----------+
 
 IBM
 
-`Prev <IANAL>`__ 
+`Prev <#iANAL>`__ 
 
 I
 
- `Next <ICBM-address>`__
+ `Next <#iCBM-address>`__
 
  
 
@@ -45,7 +45,7 @@ From hackerdom's beginnings in the mid-1960s to the early 1990s, IBM was
 regarded with active loathing. Common expansions of the corporate name
 included: Inferior But Marketable; It's Better Manually; Insidious Black
 Magic; It's Been Malfunctioning; Incontinent Bowel Movement; and a
-near-`infinite <infinite>`__ number of even less complimentary
+near-`infinite <#infinite>`__ number of even less complimentary
 expansions (see also `fear and
 loathing <./F.html#fear-and-loathing>`__). What galled hackers about
 most IBM machines above the PC level wasn't so much that they were
@@ -75,18 +75,18 @@ IBM's formerly beleaguered hacker underground.
  
 
 + ------------+  +  -----+
-| `Prev <IANAL>`__    | `Up <../I>`__         |  `Next <ICBM-address>`__   |
+| `Prev <#iANAL>`__    | `Up <../I>`__         |  `Next <#iCBM-address>`__   |
 + ------------+  +  -----+
 | IANAL                    | `Home <../index>`__   |  ICBM address                   |
 + ------------+  +  -----+
 
 ICBM address
 
-`Prev <IBM>`__ 
+`Prev <#iBM>`__ 
 
 I
 
- `Next <ice>`__
+ `Next <#ice>`__
 
  
 
@@ -104,18 +104,18 @@ real missile address would include target elevation.)
  
 
 + ----------+  + ----------+
-| `Prev <IBM>`__    | `Up <../I>`__         |  `Next <ice>`__   |
+| `Prev <#iBM>`__    | `Up <../I>`__         |  `Next <#ice>`__   |
 + ----------+  + ----------+
 | IBM                    | `Home <../index>`__   |  ice                   |
 + ----------+  + ----------+
 
 ice
 
-`Prev <ICBM-address>`__ 
+`Prev <#iCBM-address>`__ 
 
 I
 
- `Next <idiot>`__
+ `Next <#idiot>`__
 
  
 
@@ -141,18 +141,18 @@ strong cryptography.
  
 
 +  -----+  + ------------+
-| `Prev <ICBM-address>`__    | `Up <../I>`__         |  `Next <idiot>`__   |
+| `Prev <#iCBM-address>`__    | `Up <../I>`__         |  `Next <#idiot>`__   |
 +  -----+  + ------------+
 | ICBM address                    | `Home <../index>`__   |  ID10T error             |
 +  -----+  + ------------+
 
 idempotent
 
-`Prev <idiot>`__ 
+`Prev <#idiot>`__ 
 
 I
 
- `Next <IDP>`__
+ `Next <#iDP>`__
 
  
 
@@ -173,7 +173,7 @@ times.
  
 
 + ------------+  + ----------+
-| `Prev <idiot>`__    | `Up <../I>`__         |  `Next <IDP>`__   |
+| `Prev <#idiot>`__    | `Up <../I>`__         |  `Next <#iDP>`__   |
 + ------------+  + ----------+
 | ID10T error              | `Home <../index>`__   |  IDP                   |
 + ------------+  + ----------+
@@ -184,7 +184,7 @@ I didn't change anything!
 
 I
 
- `Next <I-see-no-X-here->`__
+ `Next <#i-see-no-X-here->`__
 
  
 
@@ -205,18 +205,18 @@ completely.
  
 
 + -----------+  +  ---------+
-| `Prev <../I>`__    | `Up <../I>`__         |  `Next <I-see-no-X-here->`__   |
+| `Prev <../I>`__    | `Up <../I>`__         |  `Next <#i-see-no-X-here->`__   |
 + -----------+  +  ---------+
 | I                       | `Home <../index>`__   |  I see no X here.                   |
 + -----------+  +  ---------+
 
 ID10T error
 
-`Prev <ice>`__ 
+`Prev <#ice>`__ 
 
 I
 
- `Next <idempotent>`__
+ `Next <#idempotent>`__
 
  
 
@@ -231,43 +231,43 @@ Users never twig.
  
 
 + ----------+  +  ---+
-| `Prev <ice>`__    | `Up <../I>`__         |  `Next <idempotent>`__   |
+| `Prev <#ice>`__    | `Up <../I>`__         |  `Next <#idempotent>`__   |
 + ----------+  +  ---+
 | ice                    | `Home <../index>`__   |  idempotent                   |
 + ----------+  +  ---+
 
 IDP
 
-`Prev <idempotent>`__ 
+`Prev <#idempotent>`__ 
 
 I
 
- `Next <If-you-want-X--you-know-where-to-find-it->`__
+ `Next <#if-you-want-X--you-know-where-to-find-it->`__
 
  
 
 **IDP**: /I·D·P/, v.,n.
 
 [Usenet] Abbreviation for `Internet Death
-Penalty <Internet-Death-Penalty>`__. Common (probably now more so
+Penalty <#internet-Death-Penalty>`__. Common (probably now more so
 than the full form), and frequently verbed. Compare
 `UDP <./U.html#UDP>`__.
 
  
 
 +  ---+  +    ------+
-| `Prev <idempotent>`__    | `Up <../I>`__         |  `Next <If-you-want-X--you-know-where-to-find-it->`__   |
+| `Prev <#idempotent>`__    | `Up <../I>`__         |  `Next <#if-you-want-X--you-know-where-to-find-it->`__   |
 +  ---+  +    ------+
 | idempotent                    | `Home <../index>`__   |  If you want X, you know where to find it.                   |
 +  ---+  +    ------+
 
 ifdef out
 
-`Prev <If-you-want-X--you-know-where-to-find-it->`__ 
+`Prev <#if-you-want-X--you-know-where-to-find-it->`__ 
 
 I
 
- `Next <IIRC>`__
+ `Next <#iIRC>`__
 
  
 
@@ -279,18 +279,18 @@ Syn. for `condition out <./C.html#condition-out>`__, specific to
  
 
 +    ------+  + -----------+
-| `Prev <If-you-want-X--you-know-where-to-find-it->`__    | `Up <../I>`__         |  `Next <IIRC>`__   |
+| `Prev <#if-you-want-X--you-know-where-to-find-it->`__    | `Up <../I>`__         |  `Next <#iIRC>`__   |
 +    ------+  + -----------+
 | If you want X, you know where to find it.                    | `Home <../index>`__   |  IIRC                   |
 +    ------+  + -----------+
 
 I for one welcome our new X overlords
 
-`Prev <I-see-no-X-here->`__ 
+`Prev <#i-see-no-X-here->`__ 
 
 I
 
- `Next <IANAL>`__
+ `Next <#iANAL>`__
 
  
 
@@ -308,18 +308,18 @@ race of giant space ants.
  
 
 +  ---------+  + ------------+
-| `Prev <I-see-no-X-here->`__    | `Up <../I>`__         |  `Next <IANAL>`__   |
+| `Prev <#i-see-no-X-here->`__    | `Up <../I>`__         |  `Next <#iANAL>`__   |
 +  ---------+  + ------------+
 | I see no X here.                    | `Home <../index>`__   |  IANAL                   |
 +  ---------+  + ------------+
 
 If you want X, you know where to find it.
 
-`Prev <IDP>`__ 
+`Prev <#iDP>`__ 
 
 I
 
- `Next <ifdef-out>`__
+ `Next <#ifdef-out>`__
 
  
 
@@ -339,18 +339,18 @@ discussions of graphics software (see `X <./X.html#X>`__).
  
 
 + ----------+  +  --+
-| `Prev <IDP>`__    | `Up <../I>`__         |  `Next <ifdef-out>`__   |
+| `Prev <#iDP>`__    | `Up <../I>`__         |  `Next <#ifdef-out>`__   |
 + ----------+  +  --+
 | IDP                    | `Home <../index>`__   |  ifdef out                   |
 + ----------+  +  --+
 
 IIRC
 
-`Prev <ifdef-out>`__ 
+`Prev <#ifdef-out>`__ 
 
 I
 
- `Next <ill-behaved>`__
+ `Next <#ill-behaved>`__
 
  
 
@@ -361,18 +361,18 @@ Common abbreviation for “If I Recall Correctly”.
  
 
 +  --+  +  ----+
-| `Prev <ifdef-out>`__    | `Up <../I>`__         |  `Next <ill-behaved>`__   |
+| `Prev <#ifdef-out>`__    | `Up <../I>`__         |  `Next <#ill-behaved>`__   |
 +  --+  +  ----+
 | ifdef out                    | `Home <../index>`__   |  ill-behaved                   |
 +  --+  +  ----+
 
 ill-behaved
 
-`Prev <IIRC>`__ 
+`Prev <#iIRC>`__ 
 
 I
 
- `Next <IMHO>`__
+ `Next <#iMHO>`__
 
  
 
@@ -401,18 +401,18 @@ or files that are theoretically private to another application.
  
 
 + -----------+  + -----------+
-| `Prev <IIRC>`__    | `Up <../I>`__         |  `Next <IMHO>`__   |
+| `Prev <#iIRC>`__    | `Up <../I>`__         |  `Next <#iMHO>`__   |
 + -----------+  + -----------+
 | IIRC                    | `Home <../index>`__   |  IMHO                   |
 + -----------+  + -----------+
 
 IMHO
 
-`Prev <ill-behaved>`__ 
+`Prev <#ill-behaved>`__ 
 
 I
 
- `Next <Imminent-Death-Of-The-Net-Predicted->`__
+ `Next <#imminent-Death-Of-The-Net-Predicted->`__
 
  
 
@@ -427,18 +427,18 @@ Not-So-Humble Opinion) and IMAO (In My Arrogant Opinion).
  
 
 +  ----+  +    -+
-| `Prev <ill-behaved>`__    | `Up <../I>`__         |  `Next <Imminent-Death-Of-The-Net-Predicted->`__   |
+| `Prev <#ill-behaved>`__    | `Up <../I>`__         |  `Next <#imminent-Death-Of-The-Net-Predicted->`__   |
 +  ----+  +    -+
 | ill-behaved                    | `Home <../index>`__   |  Imminent Death Of The Net Predicted!                   |
 +  ----+  +    -+
 
 Imminent Death Of The Net Predicted!
 
-`Prev <IMHO>`__ 
+`Prev <#iMHO>`__ 
 
 I
 
- `Next <in-the-extreme>`__
+ `Next <#in-the-extreme>`__
 
  
 
@@ -461,18 +461,18 @@ etc., etc.
  
 
 + -----------+  +  -------+
-| `Prev <IMHO>`__    | `Up <../I>`__         |  `Next <in-the-extreme>`__   |
+| `Prev <#iMHO>`__    | `Up <../I>`__         |  `Next <#in-the-extreme>`__   |
 + -----------+  +  -------+
 | IMHO                    | `Home <../index>`__   |  in the extreme                   |
 + -----------+  +  -------+
 
 incantation
 
-`Prev <in-the-extreme>`__ 
+`Prev <#in-the-extreme>`__ 
 
 I
 
- `Next <include>`__
+ `Next <#include>`__
 
  
 
@@ -490,18 +490,18 @@ forced into text space.”
  
 
 +  -------+  +  +
-| `Prev <in-the-extreme>`__    | `Up <../I>`__         |  `Next <include>`__   |
+| `Prev <#in-the-extreme>`__    | `Up <../I>`__         |  `Next <#include>`__   |
 +  -------+  +  +
 | in the extreme                    | `Home <../index>`__   |  include                   |
 +  -------+  +  +
 
 include
 
-`Prev <incantation>`__ 
+`Prev <#incantation>`__ 
 
 I
 
- `Next <include-war>`__
+ `Next <#include-war>`__
 
  
 
@@ -521,18 +521,18 @@ standard `disclaimer <./D.html#disclaimer>`__ file.
  
 
 +  ----+  +  ----+
-| `Prev <incantation>`__    | `Up <../I>`__         |  `Next <include-war>`__   |
+| `Prev <#incantation>`__    | `Up <../I>`__         |  `Next <#include-war>`__   |
 +  ----+  +  ----+
 | incantation                    | `Home <../index>`__   |  include war                   |
 +  ----+  +  ----+
 
 include war
 
-`Prev <include>`__ 
+`Prev <#include>`__ 
 
 I
 
- `Next <indent-style>`__
+ `Next <#indent-style>`__
 
  
 
@@ -547,18 +547,18 @@ file <./K.html#kill-file>`__.
  
 
 +  +  +  -----+
-| `Prev <include>`__    | `Up <../I>`__         |  `Next <indent-style>`__   |
+| `Prev <#include>`__    | `Up <../I>`__         |  `Next <#indent-style>`__   |
 +  +  +  -----+
 | include                    | `Home <../index>`__   |  indent style                   |
 +  +  +  -----+
 
 Indent-o-Meter
 
-`Prev <indent-style>`__ 
+`Prev <#indent-style>`__ 
 
 I
 
- `Next <index-of-X>`__
+ `Next <#index-of-X>`__
 
  
 
@@ -573,18 +573,18 @@ had undergone. The full story is at
  
 
 +  -----+  +  ---+
-| `Prev <indent-style>`__    | `Up <../I>`__         |  `Next <index-of-X>`__   |
+| `Prev <#indent-style>`__    | `Up <../I>`__         |  `Next <#index-of-X>`__   |
 +  -----+  +  ---+
 | indent style                    | `Home <../index>`__   |  index of X                   |
 +  -----+  +  ---+
 
 indent style
 
-`Prev <include-war>`__ 
+`Prev <#include-war>`__ 
 
 I
 
- `Next <Indent-o-Meter>`__
+ `Next <#indent-o-Meter>`__
 
  
 
@@ -667,18 +667,18 @@ wars <./H.html#holy-wars>`__.
  
 
 +  ----+  +  -------+
-| `Prev <include-war>`__    | `Up <../I>`__         |  `Next <Indent-o-Meter>`__   |
+| `Prev <#include-war>`__    | `Up <../I>`__         |  `Next <#indent-o-Meter>`__   |
 +  ----+  +  -------+
 | include war                    | `Home <../index>`__   |  Indent-o-Meter                   |
 +  ----+  +  -------+
 
 index of X
 
-`Prev <Indent-o-Meter>`__ 
+`Prev <#indent-o-Meter>`__ 
 
 I
 
- `Next <infant-mortality>`__
+ `Next <#infant-mortality>`__
 
  
 
@@ -689,18 +689,18 @@ See `coefficient of X <./C.html#coefficient-of-X>`__.
  
 
 +  -------+  +  ---------+
-| `Prev <Indent-o-Meter>`__    | `Up <../I>`__         |  `Next <infant-mortality>`__   |
+| `Prev <#indent-o-Meter>`__    | `Up <../I>`__         |  `Next <#infant-mortality>`__   |
 +  -------+  +  ---------+
 | Indent-o-Meter                    | `Home <../index>`__   |  infant mortality                   |
 +  -------+  +  ---------+
 
 infant mortality
 
-`Prev <index-of-X>`__ 
+`Prev <#index-of-X>`__ 
 
 I
 
- `Next <infinite>`__
+ `Next <#infinite>`__
 
  
 
@@ -721,18 +721,18 @@ period <./B.html#burn-in-period>`__.
  
 
 +  ---+  +  -+
-| `Prev <index-of-X>`__    | `Up <../I>`__         |  `Next <infinite>`__   |
+| `Prev <#index-of-X>`__    | `Up <../I>`__         |  `Next <#infinite>`__   |
 +  ---+  +  -+
 | index of X                    | `Home <../index>`__   |  infinite                   |
 +  ---+  +  -+
 
 infinite
 
-`Prev <infant-mortality>`__ 
+`Prev <#infant-mortality>`__ 
 
 I
 
- `Next <infinite-loop>`__
+ `Next <#infinite-loop>`__
 
  
 
@@ -751,18 +751,18 @@ program.” See also `semi <./S.html#semi>`__.
  
 
 +  ---------+  +  ------+
-| `Prev <infant-mortality>`__    | `Up <../I>`__         |  `Next <infinite-loop>`__   |
+| `Prev <#infant-mortality>`__    | `Up <../I>`__         |  `Next <#infinite-loop>`__   |
 +  ---------+  +  ------+
 | infant mortality                    | `Home <../index>`__   |  infinite loop                   |
 +  ---------+  +  ------+
 
 infinite loop
 
-`Prev <infinite>`__ 
+`Prev <#infinite>`__ 
 
 I
 
- `Next <Infinite-Monkey-Theorem>`__
+ `Next <#infinite-Monkey-Theorem>`__
 
  
 
@@ -778,24 +778,24 @@ loop in under 2 seconds!”
  
 
 +  -+  +   --+
-| `Prev <infinite>`__    | `Up <../I>`__         |  `Next <Infinite-Monkey-Theorem>`__   |
+| `Prev <#infinite>`__    | `Up <../I>`__         |  `Next <#infinite-Monkey-Theorem>`__   |
 +  -+  +   --+
 | infinite                    | `Home <../index>`__   |  Infinite-Monkey Theorem                   |
 +  -+  +   --+
 
 Infinite-Monkey Theorem
 
-`Prev <infinite-loop>`__ 
+`Prev <#infinite-loop>`__ 
 
 I
 
- `Next <infinity>`__
+ `Next <#infinity>`__
 
  
 
 **Infinite-Monkey Theorem**: n.
 
-“If you put an `infinite <infinite>`__ number of monkeys at
+“If you put an `infinite <#infinite>`__ number of monkeys at
 typewriters, eventually one will bash out the script for Hamlet.” (One
 may also hypothesize a small number of monkeys and a very long period of
 time.) This theorem asserts nothing about the intelligence of the one
@@ -839,18 +839,18 @@ Monkey Protocol Suite).
  
 
 +  ------+  +  -+
-| `Prev <infinite-loop>`__    | `Up <../I>`__         |  `Next <infinity>`__   |
+| `Prev <#infinite-loop>`__    | `Up <../I>`__         |  `Next <#infinity>`__   |
 +  ------+  +  -+
 | infinite loop                    | `Home <../index>`__   |  infinity                   |
 +  ------+  +  -+
 
 infinity
 
-`Prev <Infinite-Monkey-Theorem>`__ 
+`Prev <#infinite-Monkey-Theorem>`__ 
 
 I
 
- `Next <inflate>`__
+ `Next <#inflate>`__
 
  
 
@@ -869,18 +869,18 @@ mathematician's usage of infinity.
  
 
 +   --+  +  +
-| `Prev <Infinite-Monkey-Theorem>`__    | `Up <../I>`__         |  `Next <inflate>`__   |
+| `Prev <#infinite-Monkey-Theorem>`__    | `Up <../I>`__         |  `Next <#inflate>`__   |
 +   --+  +  +
 | Infinite-Monkey Theorem                    | `Home <../index>`__   |  inflate                   |
 +   --+  +  +
 
 inflate
 
-`Prev <infinity>`__ 
+`Prev <#infinity>`__ 
 
 I
 
- `Next <Infocom>`__
+ `Next <#infocom>`__
 
  
 
@@ -892,18 +892,18 @@ hackers, used primarily by MS-DOS/Windows types.
  
 
 +  -+  +  +
-| `Prev <infinity>`__    | `Up <../I>`__         |  `Next <Infocom>`__   |
+| `Prev <#infinity>`__    | `Up <../I>`__         |  `Next <#infocom>`__   |
 +  -+  +  +
 | infinity                    | `Home <../index>`__   |  Infocom                   |
 +  -+  +  +
 
 Infocom
 
-`Prev <inflate>`__ 
+`Prev <#inflate>`__ 
 
 I
 
- `Next <initgame>`__
+ `Next <#initgame>`__
 
  
 
@@ -933,24 +933,24 @@ it is even possible to play these games in your
  
 
 +  +  +  -+
-| `Prev <inflate>`__    | `Up <../I>`__         |  `Next <initgame>`__   |
+| `Prev <#inflate>`__    | `Up <../I>`__         |  `Next <#initgame>`__   |
 +  +  +  -+
 | inflate                    | `Home <../index>`__   |  initgame                   |
 +  +  +  -+
 
 initgame
 
-`Prev <Infocom>`__ 
+`Prev <#infocom>`__ 
 
 I
 
- `Next <insanely-great>`__
+ `Next <#insanely-great>`__
 
  
 
 **initgame**: /in·it´gaym/, n.
 
-[IRC] An `IRC <IRC>`__ version of the trivia game “Botticelli”,
+[IRC] An `IRC <#iRC>`__ version of the trivia game “Botticelli”,
 in which one user changes his `nick <./N.html#nick>`__ to the
 initials of a famous person or other named entity, and the others on the
 channel ask yes or no questions, with the one to guess the person
@@ -966,18 +966,18 @@ of some radio talk shows in the U.S. We had it first! -- ESR]
  
 
 +  +  +  -------+
-| `Prev <Infocom>`__    | `Up <../I>`__         |  `Next <insanely-great>`__   |
+| `Prev <#infocom>`__    | `Up <../I>`__         |  `Next <#insanely-great>`__   |
 +  +  +  -------+
 | Infocom                    | `Home <../index>`__   |  insanely great                   |
 +  +  +  -------+
 
 insanely great
 
-`Prev <initgame>`__ 
+`Prev <#initgame>`__ 
 
 I
 
- `Next <installfest>`__
+ `Next <#installfest>`__
 
  
 
@@ -991,18 +991,18 @@ imaginable only to someone possessing the most puissant of
  
 
 +  -+  +  ----+
-| `Prev <initgame>`__    | `Up <../I>`__         |  `Next <installfest>`__   |
+| `Prev <#initgame>`__    | `Up <../I>`__         |  `Next <#installfest>`__   |
 +  -+  +  ----+
 | initgame                    | `Home <../index>`__   |  installfest                   |
 +  -+  +  ----+
 
 installfest
 
-`Prev <insanely-great>`__ 
+`Prev <#insanely-great>`__ 
 
 I
 
- `Next <INTERCAL>`__
+ `Next <#iNTERCAL>`__
 
  
 
@@ -1018,18 +1018,18 @@ the user's machine.
  
 
 +  -------+  +  -+
-| `Prev <insanely-great>`__    | `Up <../I>`__         |  `Next <INTERCAL>`__   |
+| `Prev <#insanely-great>`__    | `Up <../I>`__         |  `Next <#iNTERCAL>`__   |
 +  -------+  +  -+
 | insanely great                    | `Home <../index>`__   |  INTERCAL                   |
 +  -------+  +  -+
 
 INTERCAL
 
-`Prev <installfest>`__ 
+`Prev <#installfest>`__ 
 
 I
 
- `Next <InterCaps>`__
+ `Next <#interCaps>`__
 
  
 
@@ -1073,18 +1073,18 @@ rumored to exist. See also `Befunge <./B.html#Befunge>`__.
  
 
 +  ----+  +  --+
-| `Prev <installfest>`__    | `Up <../I>`__         |  `Next <InterCaps>`__   |
+| `Prev <#installfest>`__    | `Up <../I>`__         |  `Next <#interCaps>`__   |
 +  ----+  +  --+
 | installfest                    | `Home <../index>`__   |  InterCaps                   |
 +  ----+  +  --+
 
 InterCaps
 
-`Prev <INTERCAL>`__ 
+`Prev <#iNTERCAL>`__ 
 
 I
 
- `Next <interesting>`__
+ `Next <#interesting>`__
 
  
 
@@ -1096,18 +1096,18 @@ I
  
 
 +  -+  +  ----+
-| `Prev <INTERCAL>`__    | `Up <../I>`__         |  `Next <interesting>`__   |
+| `Prev <#iNTERCAL>`__    | `Up <../I>`__         |  `Next <#interesting>`__   |
 +  -+  +  ----+
 | INTERCAL                    | `Home <../index>`__   |  interesting                   |
 +  -+  +  ----+
 
 interesting
 
-`Prev <InterCaps>`__ 
+`Prev <#interCaps>`__ 
 
 I
 
- `Next <Internet>`__
+ `Next <#internet>`__
 
  
 
@@ -1122,18 +1122,18 @@ interesting times”. Oppose `trivial <./T.html#trivial>`__,
  
 
 +  --+  +  -+
-| `Prev <InterCaps>`__    | `Up <../I>`__         |  `Next <Internet>`__   |
+| `Prev <#interCaps>`__    | `Up <../I>`__         |  `Next <#internet>`__   |
 +  --+  +  -+
 | InterCaps                    | `Home <../index>`__   |  Internet                   |
 +  --+  +  -+
 
 Internet Death Penalty
 
-`Prev <Internet>`__ 
+`Prev <#internet>`__ 
 
 I
 
- `Next <Internet-Exploder>`__
+ `Next <#internet-Exploder>`__
 
  
 
@@ -1149,18 +1149,18 @@ confused.
  
 
 +  -+  +  ----------+
-| `Prev <Internet>`__    | `Up <../I>`__         |  `Next <Internet-Exploder>`__   |
+| `Prev <#internet>`__    | `Up <../I>`__         |  `Next <#internet-Exploder>`__   |
 +  -+  +  ----------+
 | Internet                    | `Home <../index>`__   |  Internet Exploder                   |
 +  -+  +  ----------+
 
 Internet Exploder
 
-`Prev <Internet-Death-Penalty>`__ 
+`Prev <#internet-Death-Penalty>`__ 
 
 I
 
- `Next <Internet-Exploiter>`__
+ `Next <#internet-Exploiter>`__
 
  
 
@@ -1176,18 +1176,18 @@ web browser (also “Internet Exploiter”). Compare
  
 
 +   -+  +  -----------+
-| `Prev <Internet-Death-Penalty>`__    | `Up <../I>`__         |  `Next <Internet-Exploiter>`__   |
+| `Prev <#internet-Death-Penalty>`__    | `Up <../I>`__         |  `Next <#internet-Exploiter>`__   |
 +   -+  +  -----------+
 | Internet Death Penalty                    | `Home <../index>`__   |  Internet Exploiter                   |
 +   -+  +  -----------+
 
 Internet Exploiter
 
-`Prev <Internet-Exploder>`__ 
+`Prev <#internet-Exploder>`__ 
 
 I
 
- `Next <interrupt>`__
+ `Next <#interrupt>`__
 
  
 
@@ -1195,7 +1195,7 @@ I
 
 Another common name-of-insult for Internet Explorer, Microsoft's
 overweight Web Browser; more hostile than `Internet
-Exploder <Internet-Exploder>`__. Reflects widespread hostility to
+Exploder <#internet-Exploder>`__. Reflects widespread hostility to
 Microsoft and a sense that it is seeking to hijack, monopolize, and
 corrupt the Internet. Compare `Exploder <./E.html#Exploder>`__ and
 the less pejorative `Netscrape <./N.html#Netscrape>`__.
@@ -1203,18 +1203,18 @@ the less pejorative `Netscrape <./N.html#Netscrape>`__.
  
 
 +  ----------+  +  --+
-| `Prev <Internet-Exploder>`__    | `Up <../I>`__         |  `Next <interrupt>`__   |
+| `Prev <#internet-Exploder>`__    | `Up <../I>`__         |  `Next <#interrupt>`__   |
 +  ----------+  +  --+
 | Internet Exploder                    | `Home <../index>`__   |  interrupt                   |
 +  ----------+  +  --+
 
 Internet
 
-`Prev <interesting>`__ 
+`Prev <#interesting>`__ 
 
 I
 
- `Next <Internet-Death-Penalty>`__
+ `Next <#internet-Death-Penalty>`__
 
  
 
@@ -1279,18 +1279,18 @@ network <./T.html#the-network>`__.
  
 
 +  ----+  +   -+
-| `Prev <interesting>`__    | `Up <../I>`__         |  `Next <Internet-Death-Penalty>`__   |
+| `Prev <#interesting>`__    | `Up <../I>`__         |  `Next <#internet-Death-Penalty>`__   |
 +  ----+  +   -+
 | interesting                    | `Home <../index>`__   |  Internet Death Penalty                   |
 +  ----+  +   -+
 
 interrupt
 
-`Prev <Internet-Exploiter>`__ 
+`Prev <#internet-Exploiter>`__ 
 
 I
 
- `Next <interrupts-locked-out>`__
+ `Next <#interrupts-locked-out>`__
 
  
 
@@ -1307,18 +1307,18 @@ interrupt <./P.html#priority-interrupt>`__.
  
 
 +  -----------+  +   +
-| `Prev <Internet-Exploiter>`__    | `Up <../I>`__         |  `Next <interrupts-locked-out>`__   |
+| `Prev <#internet-Exploiter>`__    | `Up <../I>`__         |  `Next <#interrupts-locked-out>`__   |
 +  -----------+  +   +
 | Internet Exploiter                    | `Home <../index>`__   |  interrupts locked out                   |
 +  -----------+  +   +
 
 interrupts locked out
 
-`Prev <interrupt>`__ 
+`Prev <#interrupt>`__ 
 
 I
 
- `Next <intertwingled>`__
+ `Next <#intertwingled>`__
 
  
 
@@ -1334,18 +1334,18 @@ set” and “interrupts masked out” are also heard. See also
  
 
 +  --+  +  ------+
-| `Prev <interrupt>`__    | `Up <../I>`__         |  `Next <intertwingled>`__   |
+| `Prev <#interrupt>`__    | `Up <../I>`__         |  `Next <#intertwingled>`__   |
 +  --+  +  ------+
 | interrupt                    | `Home <../index>`__   |  intertwingled                   |
 +  --+  +  ------+
 
 intertwingled
 
-`Prev <interrupts-locked-out>`__ 
+`Prev <#interrupts-locked-out>`__ 
 
 I
 
- `Next <intro>`__
+ `Next <#intro>`__
 
  
 
@@ -1358,18 +1358,18 @@ composed of one another's components.
  
 
 +   +  + ------------+
-| `Prev <interrupts-locked-out>`__    | `Up <../I>`__         |  `Next <intro>`__   |
+| `Prev <#interrupts-locked-out>`__    | `Up <../I>`__         |  `Next <#intro>`__   |
 +   +  + ------------+
 | interrupts locked out                    | `Home <../index>`__   |  intro                   |
 +   +  + ------------+
 
 in the extreme
 
-`Prev <Imminent-Death-Of-The-Net-Predicted->`__ 
+`Prev <#imminent-Death-Of-The-Net-Predicted->`__ 
 
 I
 
- `Next <incantation>`__
+ `Next <#incantation>`__
 
  
 
@@ -1382,18 +1382,18 @@ compare `highly <./H.html#highly>`__.
  
 
 +    -+  +  ----+
-| `Prev <Imminent-Death-Of-The-Net-Predicted->`__    | `Up <../I>`__         |  `Next <incantation>`__   |
+| `Prev <#imminent-Death-Of-The-Net-Predicted->`__    | `Up <../I>`__         |  `Next <#incantation>`__   |
 +    -+  +  ----+
 | Imminent Death Of The Net Predicted!                    | `Home <../index>`__   |  incantation                   |
 +    -+  +  ----+
 
 intro
 
-`Prev <intertwingled>`__ 
+`Prev <#intertwingled>`__ 
 
 I
 
- `Next <IRC>`__
+ `Next <#iRC>`__
 
  
 
@@ -1412,18 +1412,18 @@ generally dictated by `compo <./C.html#compo>`__ rules. See also
  
 
 +  ------+  + ----------+
-| `Prev <intertwingled>`__    | `Up <../I>`__         |  `Next <IRC>`__   |
+| `Prev <#intertwingled>`__    | `Up <../I>`__         |  `Next <#iRC>`__   |
 +  ------+  + ----------+
 | intertwingled                    | `Home <../index>`__   |  IRC                   |
 +  ------+  + ----------+
 
 IRC
 
-`Prev <intro>`__ 
+`Prev <#intro>`__ 
 
 I
 
- `Next <iron>`__
+ `Next <#iron>`__
 
  
 
@@ -1444,18 +1444,18 @@ jargon, represented in this lexicon by entries marked ‘[IRC]’. See also
  
 
 + ------------+  + -----------+
-| `Prev <intro>`__    | `Up <../I>`__         |  `Next <iron>`__   |
+| `Prev <#intro>`__    | `Up <../I>`__         |  `Next <#iron>`__   |
 + ------------+  + -----------+
 | intro                    | `Home <../index>`__   |  iron                   |
 + ------------+  + -----------+
 
 Iron Age
 
-`Prev <iron>`__ 
+`Prev <#iron>`__ 
 
 I
 
- `Next <iron-box>`__
+ `Next <#iron-box>`__
 
  
 
@@ -1473,18 +1473,18 @@ days <./E.html#elder-days>`__.
  
 
 + -----------+  +  -+
-| `Prev <iron>`__    | `Up <../I>`__         |  `Next <iron-box>`__   |
+| `Prev <#iron>`__    | `Up <../I>`__         |  `Next <#iron-box>`__   |
 + -----------+  +  -+
 | iron                    | `Home <../index>`__   |  iron box                   |
 + -----------+  +  -+
 
 iron box
 
-`Prev <Iron-Age>`__ 
+`Prev <#iron-Age>`__ 
 
 I
 
- `Next <ironmonger>`__
+ `Next <#ironmonger>`__
 
  
 
@@ -1506,18 +1506,18 @@ pot <./H.html#honey-pot>`__.
  
 
 +  -+  +  ---+
-| `Prev <Iron-Age>`__    | `Up <../I>`__         |  `Next <ironmonger>`__   |
+| `Prev <#iron-Age>`__    | `Up <../I>`__         |  `Next <#ironmonger>`__   |
 +  -+  +  ---+
 | Iron Age                    | `Home <../index>`__   |  ironmonger                   |
 +  -+  +  ---+
 
 iron
 
-`Prev <IRC>`__ 
+`Prev <#iRC>`__ 
 
 I
 
- `Next <Iron-Age>`__
+ `Next <#iron-Age>`__
 
  
 
@@ -1533,18 +1533,18 @@ See also `dinosaur <./D.html#dinosaur>`__.
  
 
 + ----------+  +  -+
-| `Prev <IRC>`__    | `Up <../I>`__         |  `Next <Iron-Age>`__   |
+| `Prev <#iRC>`__    | `Up <../I>`__         |  `Next <#iron-Age>`__   |
 + ----------+  +  -+
 | IRC                    | `Home <../index>`__   |  Iron Age                   |
 + ----------+  +  -+
 
 ironmonger
 
-`Prev <iron-box>`__ 
+`Prev <#iron-box>`__ 
 
 I
 
- `Next <ISO-standard-cup-of-tea>`__
+ `Next <#iSO-standard-cup-of-tea>`__
 
  
 
@@ -1557,18 +1557,18 @@ pusher <./P.html#polygon-pusher>`__.
  
 
 +  -+  +   --+
-| `Prev <iron-box>`__    | `Up <../I>`__         |  `Next <ISO-standard-cup-of-tea>`__   |
+| `Prev <#iron-box>`__    | `Up <../I>`__         |  `Next <#iSO-standard-cup-of-tea>`__   |
 +  -+  +   --+
 | iron box                    | `Home <../index>`__   |  ISO standard cup of tea                   |
 +  -+  +   --+
 
 I see no X here.
 
-`Prev <I-didn-t-change-anything->`__ 
+`Prev <#i-didn-t-change-anything->`__ 
 
 I
 
- `Next <I-for-one-welcome-our-new-X-overlords>`__
+ `Next <#i-for-one-welcome-our-new-X-overlords>`__
 
  
 
@@ -1584,18 +1584,18 @@ not present at your location in the game.
  
 
 +   ----+  +    --+
-| `Prev <I-didn-t-change-anything->`__    | `Up <../I>`__         |  `Next <I-for-one-welcome-our-new-X-overlords>`__   |
+| `Prev <#i-didn-t-change-anything->`__    | `Up <../I>`__         |  `Next <#i-for-one-welcome-our-new-X-overlords>`__   |
 +   ----+  +    --+
 | I didn't change anything!                    | `Home <../index>`__   |  I for one welcome our new X overlords                   |
 +   ----+  +    --+
 
 ISO standard cup of tea
 
-`Prev <ironmonger>`__ 
+`Prev <#ironmonger>`__ 
 
 I
 
- `Next <ISP>`__
+ `Next <#iSP>`__
 
  
 
@@ -1627,18 +1627,18 @@ tea.* —ESR]
  
 
 +  ---+  + ----------+
-| `Prev <ironmonger>`__    | `Up <../I>`__         |  `Next <ISP>`__   |
+| `Prev <#ironmonger>`__    | `Up <../I>`__         |  `Next <#iSP>`__   |
 +  ---+  + ----------+
 | ironmonger                    | `Home <../index>`__   |  ISP                   |
 +  ---+  + ----------+
 
 ISP
 
-`Prev <ISO-standard-cup-of-tea>`__ 
+`Prev <#iSO-standard-cup-of-tea>`__ 
 
 I
 
- `Next <Itanic>`__
+ `Next <#itanic>`__
 
  
 
@@ -1656,18 +1656,18 @@ advertising. Compare `NSP <./N.html#NSP>`__.
  
 
 +   --+  + -------------+
-| `Prev <ISO-standard-cup-of-tea>`__    | `Up <../I>`__         |  `Next <Itanic>`__   |
+| `Prev <#iSO-standard-cup-of-tea>`__    | `Up <../I>`__         |  `Next <#itanic>`__   |
 +   --+  + -------------+
 | ISO standard cup of tea                    | `Home <../index>`__   |  Itanic                   |
 +   --+  + -------------+
 
 Itanic
 
-`Prev <ISP>`__ 
+`Prev <#iSP>`__ 
 
 I
 
- `Next <ITS>`__
+ `Next <#iTS>`__
 
  
 
@@ -1682,18 +1682,18 @@ the semiconductor industry.
  
 
 + ----------+  + ----------+
-| `Prev <ISP>`__    | `Up <../I>`__         |  `Next <ITS>`__   |
+| `Prev <#iSP>`__    | `Up <../I>`__         |  `Next <#iTS>`__   |
 + ----------+  + ----------+
 | ISP                    | `Home <../index>`__   |  ITS                   |
 + ----------+  + ----------+
 
 ITS
 
-`Prev <Itanic>`__ 
+`Prev <#itanic>`__ 
 
 I
 
- `Next <IWBNI>`__
+ `Next <#iWBNI>`__
 
  
 
@@ -1726,18 +1726,18 @@ intense). See also `holy wars <./H.html#holy-wars>`__,
  
 
 + -------------+  + ------------+
-| `Prev <Itanic>`__    | `Up <../I>`__         |  `Next <IWBNI>`__   |
+| `Prev <#itanic>`__    | `Up <../I>`__         |  `Next <#iWBNI>`__   |
 + -------------+  + ------------+
 | Itanic                    | `Home <../index>`__   |  IWBNI                   |
 + -------------+  + ------------+
 
 IWBNI
 
-`Prev <ITS>`__ 
+`Prev <#iTS>`__ 
 
 I
 
- `Next <IYFEG>`__
+ `Next <#iYFEG>`__
 
  
 
@@ -1749,14 +1749,14 @@ Abbreviation for ‘It Would Be Nice If’. Compare
  
 
 + ----------+  + ------------+
-| `Prev <ITS>`__    | `Up <../I>`__         |  `Next <IYFEG>`__   |
+| `Prev <#iTS>`__    | `Up <../I>`__         |  `Next <#iYFEG>`__   |
 + ----------+  + ------------+
 | ITS                    | `Home <../index>`__   |  IYFEG                   |
 + ----------+  + ------------+
 
 IYFEG
 
-`Prev <IWBNI>`__ 
+`Prev <#iWBNI>`__ 
 
 I
 
@@ -1773,7 +1773,7 @@ anyone. See `JEDR <./J.html#JEDR>`__.
  
 
 + ------------+  + -----------+
-| `Prev <IWBNI>`__    | `Up <../I>`__         |  `Next <../J>`__   |
+| `Prev <#iWBNI>`__    | `Up <../I>`__         |  `Next <../J>`__   |
 + ------------+  + -----------+
 | IWBNI                    | `Home <../index>`__   |  J                      |
 + ------------+  + -----------+

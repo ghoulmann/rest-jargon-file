@@ -171,7 +171,7 @@ also `ELIZA effect <./E.html#ELIZA-effect>`__.
 
 .. image:: ./_static/73-10-31.png
 
-This is `ad-hockery <A.html#ad-hockery>`__ in action.
+This is `ad-hockery <#a.html#ad-hockery>`__ in action.
 
 (The next cartoon in the Crunchly saga is
 `74-08-18 <./W.html#water-MIPS>`__. The previous one
@@ -351,7 +351,7 @@ pointers address (are aliases for) a given hunk of storage, it may
 happen that the storage is freed or reallocated (and thus moved) through
 one alias and then referenced through another, which may lead to subtle
 (and possibly intermittent) lossage depending on the state and the
-allocation history of the malloc `arena <arena>`__. Avoidable by
+allocation history of the malloc `arena <#arena>`__. Avoidable by
 use of allocation strategies that never alias allocated core, or by use
 of higher-level languages, such as `LISP <./L#LISP>`__, which
 employ a garbage collector (see `GC <./G.html#GC>`__). Also called a
@@ -528,7 +528,7 @@ despite the fact that the first Amigas had a substantial technological
 lead on the IBM XTs of the time. Instead, it acquired a small but
 zealous population of enthusiastic hackers who dreamt of one day
 unseating the clones (see `Amiga Persecution
-Complex <Amiga-Persecution-Complex>`__). The traits of this
+Complex <#amiga-Persecution-Complex>`__). The traits of this
 culture are both spoofed and illuminated in `The BLAZE Humor
 Viewer <http://www.blazemonger.com/BM/>`__. The strength of the Amiga
 platform seeded a small industry of companies building software and
@@ -571,7 +571,7 @@ amper
 **amper**: n.
 
 Common abbreviation for the name of the ampersand (‘&’, ASCII 0100110)
-character. See `ASCII <ASCII>`__ for other synonyms.
+character. See `ASCII <#aSCII>`__ for other synonyms.
 
 
 amp off
@@ -651,7 +651,7 @@ World <./R/Real-World>`__ use angle brackets which are either
 taller and slimmer (the ISO lang 〈 and rang 〉 characters), or
 significantly smaller (single or double guillemets) than the less-than
 and greater-than signs. See `broket <./B.html#broket>`__,
-`ASCII <ASCII>`__.
+`ASCII <#aSCII>`__.
 
 
 angry fruit salad
@@ -752,7 +752,7 @@ propensity of America Online users to utter contentless “Me, too!”
 postings. The number of exclamation points following varies from zero to
 five or so. The pseudo-HTML
 
-    `<AOL>Me, too!</AOL>`
+    `<#aOL>Me, too!</AOL>`
 
 is also frequently seen. See also `September that never
 ended <./S.html#September-that-never-ended>`__.
@@ -799,7 +799,7 @@ sbrk(2) and used by malloc(3) as dynamic storage. So named from a
 **malloc: corrupt arena** message emitted when some early versions
 detected an impossible value in the free block list. See `overrun
 screw <./O.html#overrun-screw>`__, `aliasing
-bug <aliasing-bug>`__, `memory leak <./M.html#memory-leak>`__,
+bug <#aliasing-bug>`__, `memory leak <./M.html#memory-leak>`__,
 `memory smash <./M.html#memory-smash>`__, `smash the
 stack <./S.html#smash-the-stack>`__.
 
@@ -882,8 +882,8 @@ asbestos
 [common] Used as a modifier to anything intended to protect one from
 `flame <./F.html#flame>`__\ s; also in other highly
 `flame <./F.html#flame>`__-suggestive usages. See, for example,
-`asbestos longjohns <asbestos-longjohns>`__ and `asbestos cork
-award <asbestos-cork-award>`__.
+`asbestos longjohns <#asbestos-longjohns>`__ and `asbestos cork
+award <#asbestos-cork-award>`__.
 
 
 asbestos longjohns
@@ -894,7 +894,7 @@ asbestos longjohns
 Notional garments donned by `Usenet <./U/Usenet>`__ posters just
 before emitting a remark they expect will elicit
 `flamage <./F.html#flamage>`__. This is the most common of the
-`asbestos <asbestos>`__ coinages. Also asbestos underwear,
+`asbestos <#asbestos>`__ coinages. Also asbestos underwear,
 asbestos overcoat, etc.
 
 ASCII art
@@ -1060,10 +1060,10 @@ Char.      Notes
  #         Common: number sign; pound; pound sign; hash; sharp; `crunch <./C.html#crunch>`__ ; hex; [mesh]. Rare: grid; cross­hatch; oc­to­thorpe; flash; <square>, pig-pen; tic­tac­toe; scratchmark; thud; thump; `splat <./S.html#splat>`__ .                                                                             
  $         Common: dollar; <dollar sign>. Rare: currency symbol; buck; cash; bling; string (from BASIC); escape (when used as the echo of ASCII ESC); ding; cache; [big money].                                                                                                                                           
  %         Common: percent; <percent sign>; mod; grapes. Rare: [double-oh-seven].                                                                                                                                                                                                                                         
- &         Common: <ampersand>; amp; amper; and, and sign. Rare: address (from C); reference (from C++); andpersand; bitand; background (from sh(1) ); pretzel. [INTERCAL called this ampersand ; what could be sillier?]                                                                                                 
- '         Common: single quote; quote; <apostrophe>. Rare: prime; glitch; tick; irk; pop; [spark]; <closing single quotation mark>; <acute accent>.                                                                                                                                                                      
+ &         Common: <#ampersand>; amp; amper; and, and sign. Rare: address (from C); reference (from C++); andpersand; bitand; background (from sh(1) ); pretzel. [INTERCAL called this ampersand ; what could be sillier?]                                                                                                 
+ '         Common: single quote; quote; <#apostrophe>. Rare: prime; glitch; tick; irk; pop; [spark]; <closing single quotation mark>; <#acute accent>.                                                                                                                                                                      
  ( )       Common: l/r paren; l/r parenthesis; left/right; o­pen­/­close; par­en/the­sis; o/c paren; o/c par­en­the­sis; l/r paren­the­sis; l/r ba­na­na. Rare: so/al­ready; lparen/rparen; <opening/closing parenthesis>; o/c round bracket, l/r round bracket, [wax/wane]; par­en­this­ey/un­par­en­this­ey; l/r ear.                       
- \*        Common: star; [ `splat <./S.html#splat>`__ ]; <asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster; times; twinkle; glob (see `glob <./G.html#glob>`__ ); `Nathan Hale <./N.html#Nathan-Hale>`__ .                                                                                                 
+ \*        Common: star; [ `splat <./S.html#splat>`__ ]; <#asterisk>. Rare: wildcard; gear; dingle; mult; spider; aster; times; twinkle; glob (see `glob <./G.html#glob>`__ ); `Nathan Hale <./N.html#Nathan-Hale>`__ .                                                                                                 
  \+        Common: <plus>; add. Rare: cross; [intersection].                                                                                                                                                                                                                                                              
  ,         Common: <comma>. Rare: <cedilla>; [tail].                                                                                                                                                                                                                                                                      
  \-        Common: dash; <hyphen>; <minus>. Rare: [worm]; option; dak; bithorpe.                                                                                                                                                                                                                                          
@@ -1108,7 +1108,7 @@ characters.
 
 The ‘swung dash’ or ‘approximation’ sign (∼) is not quite the same as
 tilde ~ in typeset material, but the ASCII tilde serves for both
-(compare `angle brackets <angle-brackets>`__).
+(compare `angle brackets <#angle-brackets>`__).
 
 Some other common usages cause odd overlaps. The "#", "$", ">",
 and "&" characters, for example, are all pronounced “hex” in different

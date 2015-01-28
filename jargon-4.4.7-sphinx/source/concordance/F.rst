@@ -151,7 +151,7 @@ FAQL
 
 **FAQL**: /fa´kl/, n.
 
-Syn. `FAQ list <FAQ-list>`__.
+Syn. `FAQ list <#FAQ-list>`__.
 
 
 FAQ list
@@ -159,7 +159,7 @@ FAQ list
 
 **FAQ list**: /F·A·Q list/, /fak list/, n.
 
-[common; Usenet] Syn `FAQ <FAQ>`__, sense 2.
+[common; Usenet] Syn `FAQ <#FAQ>`__, sense 2.
 
 
 faradize
@@ -312,7 +312,7 @@ expense of coherence, concision, or `taste <./T.html#taste>`__.
 
 2. Alternately, a mythical being that induces otherwise rational
 programmers to perpetrate such crocks. See also `feeping
-creaturism <feeping-creaturism>`__, `creeping
+creaturism <#Feeping-creaturism>`__, `creeping
 featurism <./C.html#creeping-featurism>`__.
 
 
@@ -356,7 +356,7 @@ it is good or not is immaterial (but if bad, it is also a
 
 3. A surprising property or behavior; in particular, one that is
 purposely inconsistent because it works better that way — such an
-inconsistency is therefore a `feature <feature>`__ and not a
+inconsistency is therefore a `feature <#Feature>`__ and not a
 `bug <./B.html#bug>`__. This kind of feature is sometimes called a
 `miswart <./M.html#miswart>`__; see that entry for a classic example.
 
@@ -373,11 +373,11 @@ happens to be in your way.
 sometimes means the author of the program did not consider the
 particular case, and that the program responded in a way that was
 unexpected but not strictly incorrect. A standard joke is that a bug can
-be turned into a `feature <feature>`__ simply by documenting it
+be turned into a `feature <#Feature>`__ simply by documenting it
 (then theoretically no one can complain about it because it's in the
 manual), or even by simply declaring it to be good. “That's not a bug,
 that's a feature!” is a common catchphrase. See also `feetch
-feetch <feetch-feetch>`__, `creeping
+feetch <#Feetch-feetch>`__, `creeping
 featurism <./C.html#creeping-featurism>`__,
 `wart <./W.html#wart>`__, `green
 lightning <./G.html#green-lightning>`__.
@@ -460,7 +460,7 @@ feeper
 **feeper**: /fee´pr/, n.
 
 The device in a terminal or workstation (usually a loudspeaker of some
-kind) that makes the `feep <feep>`__ sound.
+kind) that makes the `feep <#Feep>`__ sound.
 
 
 feep
@@ -490,7 +490,7 @@ feeping creature
 
 **feeping creature**: n.
 
-[from `feeping creaturism <feeping-creaturism>`__] An unnecessary
+[from `feeping creaturism <#Feeping-creaturism>`__] An unnecessary
 feature; a bit of `chrome <./C.html#chrome>`__ that, in the speaker's
 judgment, is the camel's nose for a whole horde of new features.
 
@@ -651,7 +651,7 @@ field servoid
 **field servoid**: /fee´ld ser´voyd/, n.
 
 [play on ‘android’] Representative of a field service organization (see
-`field circus <field-circus>`__). This has many of the
+`field circus <#Field-circus>`__). This has many of the
 implications of `droid <./D.html#droid>`__.
 
 
@@ -779,7 +779,7 @@ for Y <./H.html#Hacking-X-for-Y>`__).
 4. Any picture (composed of ASCII characters) depicting ‘the finger’,
 see `See figure 1 <./S.html#See-figure-1>`__. Originally a humorous
 component of one's plan file to deter the curious fingerer (sense 2), it
-has entered the arsenal of some `flamer <flamer>`__\ s.
+has entered the arsenal of some `flamer <#Flamer>`__\ s.
 
 
 finger-pointing syndrome
@@ -899,7 +899,7 @@ data, with a bunch of modems and public network ports on it but just one
 carefully watched connection back to the rest of the cluster. The
 special precautions may include threat monitoring, callback, and even a
 complete `iron box <./I.html#iron-box>`__ keyable to particular
-incoming IDs or activity patterns. Syn. `flytrap <flytrap>`__,
+incoming IDs or activity patterns. Syn. `flytrap <#Flytrap>`__,
 `Venus flytrap <./V.html#Venus-flytrap>`__. See also `wild
 side <./W.html#wild-side>`__.
 
@@ -954,7 +954,7 @@ fish
 
 1. Another `metasyntactic
 variable <./M.html#metasyntactic-variable>`__. See
-`foo <foo>`__. Derived originally from the Monty Python skit in
+`foo <#Foo>`__. Derived originally from the Monty Python skit in
 the middle of *The Meaning of Life* entitled *Find the Fish*.
 
 2. A pun for microfiche. A microfiche file cabinet may be referred to as
@@ -1033,7 +1033,7 @@ flag day
 A software change that is neither forward- nor backward-compatible, and
 which is costly to make and costly to reverse. “Can we install that
 without causing a flag day for all users?” This term has nothing to do
-with the use of the word `flag <flag>`__ to mean a variable that
+with the use of the word `flag <#Flag>`__ to mean a variable that
 has two values. It came into use when a change was made to the
 definition of the ASCII character set during the development of
 `Multics <./M.html#Multics>`__. The change was scheduled for Flag Day
@@ -1089,9 +1089,9 @@ flamage
 
 [very common] Flaming verbiage, esp. high-noise, low-signal postings to
 `Usenet <./U.html#Usenet>`__ or other electronic
-`fora <fora>`__. Often in the phrase the usual flamage. Flaming
+`fora <#Fora>`__. Often in the phrase the usual flamage. Flaming
 is the act itself; flamage the content; a flame is a single flaming
-message. See `flame <flame>`__, also
+message. See `flame <#Flame>`__, also
 `dahmum <./D.html#dahmum>`__.
 
 flame bait
@@ -1100,7 +1100,7 @@ flame bait
 **flame bait**: n.
 
 [common] A posting intended to trigger a `flame
-war <flame-war>`__, or one that invites flames in reply. See also
+war <#Flame-war>`__, or one that invites flames in reply. See also
 `troll <./T.html#troll>`__.
 
 flame
@@ -1145,7 +1145,7 @@ flame on
 
 **flame on**: interj.
 
-1. To begin to `flame <flame>`__. The punning reference to Marvel
+1. To begin to `flame <#Flame>`__. The punning reference to Marvel
 Comics's Human Torch is no longer widely recognized.
 
 2. To continue to flame. See `rave <./R.html#rave>`__,
@@ -1157,7 +1157,7 @@ flamer
 
 **flamer**: n.
 
-[common] One who habitually `flame <flame>`__\ s. Said esp. of
+[common] One who habitually `flame <#Flame>`__\ s. Said esp. of
 obnoxious `Usenet <./U.html#Usenet>`__ personalities.
 
 
@@ -1194,7 +1194,7 @@ flarp
 
 [Rutgers University] Yet another `metasyntactic
 variable <./M.html#metasyntactic-variable>`__ (see
-`foo <foo>`__). Among those who use it, it is associated with a
+`foo <#Foo>`__). Among those who use it, it is associated with a
 legend that any program not containing the word flarp somewhere will not
 work. The legend is discreetly silent on the reliability of programs
 which *do* contain the magic word.
@@ -1224,7 +1224,7 @@ and uses only ASCII-standard control characters (that is, has no
 embedded codes specific to a particular text formatter markup language,
 or output device, and no `meta <./M.html#meta>`__-characters). Syn.
 `plain-ASCII <./P.html#plain-ASCII>`__. Compare
-`flat-file <flat-file>`__.
+`flat-file <#Flat-file>`__.
 
 
 flat-file
@@ -1232,10 +1232,10 @@ flat-file
 
 **flat-file**: adj.
 
-A `flatten <flatten>`__\ ed representation of some database or
+A `flatten <#Flatten>`__\ ed representation of some database or
 tree or network structure as a single file from which the structure
 could implicitly be rebuilt, esp. one in
-`flat-ASCII <flat-ASCII>`__ form. See also
+`flat-ASCII <#Flat-ASCII>`__ form. See also
 `sharchive <./S.html#sharchive>`__.
 
 
@@ -1246,7 +1246,7 @@ flat
 
 1. [common] Lacking any complex internal structure. “That `bitty
 box <./B.html#bitty-box>`__ has only a flat filesystem, not a
-hierarchical one.” The verb form is `flatten <flatten>`__.
+hierarchical one.” The verb form is `flatten <#Flatten>`__.
 
 2. Said of a memory architecture (like that of the
 `VAX <./V.html#VAX>`__ or 680x0) that is one big linear address space
@@ -1269,7 +1269,7 @@ flatten
 
 [common] To remove structural information, esp. to filter something with
 an implicit tree structure into a simple sequence of leaves; also tends
-to imply mapping to `flat-ASCII <flat-ASCII>`__. “This code
+to imply mapping to `flat-ASCII <#Flat-ASCII>`__. “This code
 flattens an expression with parentheses into an equivalent
 `canonical <./C.html#canonical>`__ form.”
 
@@ -1279,7 +1279,7 @@ flavorful
 
 **flavorful**: adj.
 
-Full of `flavor <flavor>`__ (sense 2); esthetically pleasing. See
+Full of `flavor <#Flavor>`__ (sense 2); esthetically pleasing. See
 `random <./R.html#random>`__ and `losing <./L.html#losing>`__ for
 antonyms. See also the entries for `taste <./T.html#taste>`__ and
 `elegant <./E.html#elegant>`__.
@@ -1294,7 +1294,7 @@ flavor
 “Linux is a flavor of Unix” See `vanilla <./V.html#vanilla>`__.
 
 2. The attribute that causes something to be
-`flavorful <flavorful>`__. Usually used in the phrase “yields
+`flavorful <#Flavorful>`__. Usually used in the phrase “yields
 additional flavor”. “This convention yields additional flavor by
 allowing one to print text either right-side-up or upside-down.” See
 `vanilla <./V.html#vanilla>`__. This usage was certainly reinforced
@@ -1358,7 +1358,7 @@ flower key
 
 **flower key**: n.
 
-[Mac users] See `feature key <feature-key>`__.
+[Mac users] See `feature key <#Feature-key>`__.
 flush
 =========
 
@@ -1389,7 +1389,7 @@ usage confusing, and vice versa.
 
 .. image:: ../_static/crunchly-5678.png
 
-Crunchly gets `flush <flush>`__\ ed.
+Crunchly gets `flush <#Flush>`__\ ed.
 
 (The next cartoon in the Crunchly saga is
 `76-05-01 <./S.html#Stone-Age.html#crunchly76-05-01>`__. The previous
@@ -1421,7 +1421,7 @@ flytrap
 
 **flytrap**: n.
 
-[rare] See `firewall machine <firewall-machine>`__.
+[rare] See `firewall machine <#Firewall-machine>`__.
 
 
 FM
@@ -1541,12 +1541,12 @@ foobar
 
 [very common] Another widely used `metasyntactic
 variable <./M.html#metasyntactic-variable>`__; see
-`foo <foo>`__ for etymology. Probably originally propagated
+`foo <#Foo>`__ for etymology. Probably originally propagated
 through DECsystem manuals by Digital Equipment Corporation
 (`DEC <./D.html#DEC>`__) in 1960s and early 1970s; confirmed
 sightings there go back to 1972. Hackers do *not* generally use this to
-mean `FUBAR <FUBAR>`__ in either the slang or jargon sense. See
-also `Fred Foobar <Fred-Foobar>`__. In RFC1639, “FOOBAR” was made
+mean `FUBAR <#FUBAR>`__ in either the slang or jargon sense. See
+also `Fred Foobar <#Fred-Foobar>`__. In RFC1639, “FOOBAR” was made
 an abbreviation for “FTP Operation Over Big Address Records”, but this
 was an obvious `backronym <./B.html#backronym>`__. It has been
 plausibly suggested that “foobar” spread among early computer engineers
@@ -1575,13 +1575,13 @@ variable <./M.html#metasyntactic-variable>`__\ s used in syntax
 examples. See also `bar <./B.html#bar>`__, `baz <./B.html#baz>`__,
 `qux <./Q.html#qux>`__, `quux <./Q.html#quux>`__,
 `garply <./G.html#garply>`__, `waldo <./W.html#waldo>`__,
-`fred <fred>`__, `plugh <./P.html#plugh>`__,
+`fred <#Fred>`__, `plugh <./P.html#plugh>`__,
 `xyzzy <./X.html#xyzzy>`__, `thud <./T.html#thud>`__.
 
 When ‘foo’ is used in connection with ‘bar’ it has generally traced to
-the WWII-era Army slang acronym `FUBAR <FUBAR>`__ (‘Fucked Up
+the WWII-era Army slang acronym `FUBAR <#FUBAR>`__ (‘Fucked Up
 Beyond All Repair’ or ‘Fucked Up Beyond All Recognition’), later
-modified to `foobar <foobar>`__. Early versions of the Jargon
+modified to `foobar <#Foobar>`__. Early versions of the Jargon
 File interpreted this change as a post-war bowdlerization, but it it now
 seems more likely that FUBAR was itself a derivative of ‘foo’ perhaps
 influenced by German *furchtbar* (terrible) — ‘foobar’ may actually have
@@ -1712,7 +1712,7 @@ other senses, i.e., to describe a person with a native incapacity to
 reason correctly, or a clown. Indeed, in hackish experience many fools
 are capable of reasoning all too effectively in executing their errors.
 See also `cretin <./C.html#cretin>`__, `loser <./L.html#loser>`__,
-`fool file <fool-file>`__.
+`fool file <#Fool-file>`__.
 
 The Algol 68-R compiler used to initialize its storage to the character
 string "F00LF00LF00LF00L..." because as a pointer or as a floating point
@@ -1796,7 +1796,7 @@ fora
 
 **fora**: pl.n.
 
-Plural of `forum <forum>`__.
+Plural of `forum <#Forum>`__.
 
 
 
@@ -1879,7 +1879,7 @@ folklore.
 
 2. [Unix; uncommon; prob.: influenced by a mainstream expletive]
 Terminally slow, or dead. Originated when one system was slowed to a
-snail's pace by an inadvertent `fork bomb <fork-bomb>`__.
+snail's pace by an inadvertent `fork bomb <#Fork-bomb>`__.
 
 
 fork
@@ -2110,7 +2110,7 @@ fred
 
 1. The personal name most frequently used as a `metasyntactic
 variable <./M.html#metasyntactic-variable>`__ (see
-`foo <foo>`__). Allegedly popular because it's easy for a
+`foo <#Foo>`__). Allegedly popular because it's easy for a
 non-touch-typist to type on a standard QWERTY keyboard. In Great
 Britain, ‘fred’, ‘jim’ and ‘sheila’ are common metasyntactic variables
 because their uppercase versions were *official* names given to the 3
@@ -2170,12 +2170,12 @@ and distributed by users' groups, or via electronic mail, local bulletin
 boards, `Usenet <./U.html#Usenet>`__, or other electronic media. As
 the culture of the Internet has displaced the older BBS world, this term
 has lost ground to both `open source <./O.html#open-source>`__ and
-`free software <free-software>`__; it has increasingly tended to
+`free software <#Free-software>`__; it has increasingly tended to
 be restricted to software distributed in binary rather than source-code
 form. At one time, freeware was a trademark of Andrew Fluegelman, the
 author of the well-known MS-DOS comm program PC-TALK III. It wasn't
 enforced after his mysterious disappearance and presumed death in 1984.
-See `shareware <./S.html#shareware>`__, `FRS <FRS>`__.
+See `shareware <./S.html#shareware>`__, `FRS <#FRS>`__.
 
 freeze
 =======================
@@ -2205,9 +2205,9 @@ used of hardware brought down by a power glitch (see
 a short, or some other electrical event. (Sometimes this literally
 happens to electronic circuits! In particular, resistors can burn out
 and transformers can melt down, emitting noxious smoke — see
-`friode <friode>`__, `SED <./S.html#SED>`__ and
+`friode <#Friode>`__, `SED <./S.html#SED>`__ and
 `LER <./L.html#LER>`__. However, this term is also used
-metaphorically.) Compare `frotzed <frotzed>`__.
+metaphorically.) Compare `frotzed <#Frotzed>`__.
 
 2. [common] Of people, exhausted. Said particularly of those who
 continue to work in such a state. Often used as an explanation or
@@ -2233,7 +2233,7 @@ friode
 **friode**: /fri:´ohd/, n.
 
 [TMRC] A reversible (that is, fused or blown) diode. Compare
-`fried <fried>`__; see also `SED <./S.html#SED>`__,
+`fried <#Fried>`__; see also `SED <./S.html#SED>`__,
 `LER <./L.html#LER>`__.
 
 
@@ -2258,9 +2258,9 @@ frob
 “FROB = a protruding arm or trunnion”; by metaphoric extension, a frob
 is any random small thing; an object that you can comfortably hold in
 one hand; something you can frob (sense 2). See
-`frobnitz <frobnitz>`__.
+`frobnitz <#Frobnitz>`__.
 
-2. vt. Abbreviated form of `frobnicate <frobnicate>`__.
+2. vt. Abbreviated form of `frobnicate <#Frobnicate>`__.
 
 3. [from the `MUD <./M.html#MUD>`__ world] A command on some MUDs
 that changes a player's experience level (this can be used to make
@@ -2274,8 +2274,8 @@ frobnicate
 
 **frobnicate**: /frob´ni·kayt/, vt.
 
-[Poss. derived from `frobnitz <frobnitz>`__, and usually
-abbreviated to `frob <frob>`__, but frobnicate is recognized as
+[Poss. derived from `frobnitz <#Frobnitz>`__, and usually
+abbreviated to `frob <#Frob>`__, but frobnicate is recognized as
 the official full form.:] To manipulate or adjust, to tweak. One
 frequently frobs bits or other 2-state devices. Thus: “Please frob the
 light switch” (that is, flip it), but also “Stop frobbing that clasp;
@@ -2300,7 +2300,7 @@ frobnitz
 
 [TMRC] An unspecified physical object, a widget. Also refers to
 electronic black boxes. This rare form is usually abbreviated to frotz,
-or more commonly to `frob <frob>`__. Also used are frobnule
+or more commonly to `frob <#Frob>`__. Also used are frobnule
 (/frob´n[y]ool/) and frobule (/frob´yool/). Starting perhaps in 1979,
 frobozz /fr@-boz´/ (plural: frobbotzim /fr@-bot´zm/) has also become
 very popular, largely through its exposure as a name via
@@ -2345,7 +2345,7 @@ frog
 
 1. interj. Term of disgust (we seem to have a lot of them).
 
-2. Used as a name for just about anything. See `foo <foo>`__.
+2. Used as a name for just about anything. See `foo <#Foo>`__.
 
 3. n. Of things, a crock.
 
@@ -2377,7 +2377,7 @@ frotzed
 **frotzed**: /frotst/, adj.
 
 To be `down <./D.html#down>`__ because of hardware problems. Compare
-`fried <fried>`__. A machine that is merely frotzed may be
+`fried <#Fried>`__. A machine that is merely frotzed may be
 fixable without replacing parts, but a fried machine is more seriously
 damaged.
 
@@ -2386,7 +2386,7 @@ frotz
 
 **frotz**: /frots/
 
-1. n. See `frobnitz <frobnitz>`__.
+1. n. See `frobnitz <#Frobnitz>`__.
 
 2. mumble frotz: An interjection of mildest disgust. The word ‘frotzen’
 is live in this sense in some eastern German dialects; the safe bet is
@@ -2408,7 +2408,7 @@ FRS
 [obs.] Abbreviation for “Freely Redistributable Software” which entered
 general use on the Internet in 1995 after years of low-level confusion
 over what exactly to call software written to be passed around and
-shared (contending terms including `freeware <freeware>`__,
+shared (contending terms including `freeware <#Freeware>`__,
 `shareware <./S.html#shareware>`__, and sourceware were never
 universally felt to be satisfactory for various subtle reasons). The
 first formal conference on freely redistributable software was held in
@@ -2427,13 +2427,13 @@ fry
 
 1. vi. To fail. Said especially of smoke-producing hardware failures.
 More generally, to become non-working. Usage: never said of software,
-only of hardware and humans. See `fried <fried>`__, `magic
+only of hardware and humans. See `fried <#Fried>`__, `magic
 smoke <./M.html#magic-smoke>`__.
 
 2. vt. To cause to fail; to `roach <./R.html#roach>`__,
 `toast <./T.html#toast>`__, or `hose <./H.html#hose>`__ a piece of
 hardware. Never used of software or humans, but compare
-`fried <fried>`__.
+`fried <#Fried>`__.
 
 
 fscking
@@ -2463,8 +2463,8 @@ FUBAR
 
 The Failed UniBus Address Register in a `VAX <./V.html#VAX>`__. A
 good example of how jargon can occasionally be snuck past the
-`suit <./S.html#suit>`__\ s; see `foobar <foobar>`__, and
-`foo <foo>`__ for a fuller etymology.
+`suit <./S.html#suit>`__\ s; see `foobar <#Foobar>`__, and
+`foo <#Foo>`__ for a fuller etymology.
 
 fuck me harder
 ====================
@@ -2563,7 +2563,7 @@ FUD wars
 
 **FUD wars**: /fuhd worz/, n.
 
-1, [from `FUD <FUD>`__] Historically, political posturing engaged
+1, [from `FUD <#FUD>`__] Historically, political posturing engaged
 in by hardware and software vendors ostensibly committed to
 standardization but actually willing to fragment the market to protect
 their own shares. The Unix International vs.: OSF conflict about Unix
@@ -2601,7 +2601,7 @@ fum
 
 [XEROX PARC] At PARC, often the third of the standard `metasyntactic
 variable <./M.html#metasyntactic-variable>`__\ s (after
-`foo <foo>`__ and `bar <./B.html#bar>`__). Competes with
+`foo <#Foo>`__ and `bar <./B.html#bar>`__). Competes with
 `baz <./B.html#baz>`__, which is more common outside PARC.
 
 functino
@@ -2665,7 +2665,7 @@ furrfu
 notably silly postings repeating urban myths on the Usenet newsgroup
 "alt.folklore.urban", after some posters complained that “Sheesh!” as
 a response to `newbie <./N.html#newbie>`__\ s was being overused. See
-also `FOAF <FOAF>`__.
+also `FOAF <#FOAF>`__.
 
 
 -fu

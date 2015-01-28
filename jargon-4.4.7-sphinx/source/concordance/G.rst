@@ -86,7 +86,7 @@ garbage collect
 
 **garbage collect**: vi.
 
-(also garbage collection, n.) See `GC <GC>`__.
+(also garbage collection, n.) See `GC <#gC>`__.
 
 
 
@@ -224,7 +224,7 @@ GECOS
 
 **GECOS**: /jee´kohs/, n.
 
-See `GCOS <GCOS>`__.
+See `GCOS <#gCOS>`__.
 
 
 gedanken
@@ -312,7 +312,7 @@ inventor) by previous “bear”, “smurf” and “twink”
 style-and-sexual-preference codes from lesbian and gay
 `newsgroup <./N.html#newsgroup>`__\ s. It has in turn spawned
 imitators; there is now even a “Saturn geek code” for owners of the
-Saturn car. See also `geek <geek>`__.
+Saturn car. See also `geek <#geek>`__.
 
 
 
@@ -352,9 +352,9 @@ implied reference to ‘gay pride’ is not accidental).
 
 See also `propeller head <./P.html#propeller-head>`__,
 `clustergeeking <./C.html#clustergeeking>`__, `geek
-out <geek-out>`__, `wannabee <./W.html#wannabee>`__, `terminal
+out <#geek-out>`__, `wannabee <./W.html#wannabee>`__, `terminal
 junkie <./T.html#terminal-junkie>`__, `spod <./S.html#spod>`__,
-`weenie <./W.html#weenie>`__, `geek code <geek-code>`__,
+`weenie <./W.html#weenie>`__, `geek code <#geek-code>`__,
 `alpha geek <./A.html#alpha-geek>`__.
 
 
@@ -368,7 +368,7 @@ To temporarily enter techno-nerd mode while in a non-hackish context,
 for example at parties held near computer equipment. Especially used
 when you need to do or say something highly technical and don't have
 time to explain: “Pardon me while I geek out for a moment.” See
-`geek <geek>`__; see also `propeller
+`geek <#geek>`__; see also `propeller
 head <./P.html#propeller-head>`__.
 
 
@@ -396,7 +396,7 @@ General Public Virus
 
 **General Public Virus**: n.
 
-Pejorative name for some versions of the `GNU <GNU>`__ project
+Pejorative name for some versions of the `GNU <#gNU>`__ project
 `copyleft <./C.html#copyleft>`__ or General Public License (GPL),
 which requires that any tools or `app <./A.html#app>`__\ s
 incorporating copylefted code must be source-distributed on the same
@@ -434,7 +434,7 @@ gen
 
 **gen**: /jen/, n.,v.
 
-Short for `generate <generate>`__, used frequently in both spoken
+Short for `generate <#generate>`__, used frequently in both spoken
 and written contexts.
 
 
@@ -448,7 +448,7 @@ Genius From Mars Technique
 approach and come up with a totally unexpected new algorithm. An attack
 on a problem from an offbeat angle that no one has ever thought of
 before, but that in retrospect makes total sense. Compare
-`grok <grok>`__, `zen <./Z.html#zen>`__.
+`grok <#grok>`__, `zen <./Z.html#zen>`__.
 
 
 
@@ -479,7 +479,7 @@ Get a life!
 **Get a life!**: imp.
 
 Hacker-standard way of suggesting that the person to whom it is directed
-has succumbed to terminal geekdom (see `geek <geek>`__). Often
+has succumbed to terminal geekdom (see `geek <#geek>`__). Often
 heard on `Usenet <./U.html#Usenet>`__, esp. as a way of suggesting
 that the target is taking some obscure issue of
 `theology <./T.html#theology>`__ too seriously. This exhortation was
@@ -619,10 +619,10 @@ gillion
 
 **gillion**: /gil´y@n/, /jil´y@n/, n.
 
-[formed from `giga- <giga->`__ by analogy with mega/million and
+[formed from `giga- <#giga->`__ by analogy with mega/million and
 tera/trillion] "10^9". Same as an American billion or a British
 milliard. How one pronounces this depends on whether one speaks
-`giga- <giga->`__ with a hard or soft ‘g’.
+`giga- <#giga->`__ with a hard or soft ‘g’.
 
 
 ginger
@@ -643,7 +643,7 @@ GIPS
 
 [analogy with `MIPS <./M.html#MIPS>`__] Giga-Instructions per Second
 (also possibly ‘Gillions of Instructions per Second’; see
-`gillion <gillion>`__). Compare `KIPS <./K.html#KIPS>`__.
+`gillion <#gillion>`__). Compare `KIPS <./K.html#KIPS>`__.
 
 
 
@@ -673,9 +673,9 @@ gubblick contains many nonsklarkish English flutzpahs, but the overall
 pluggandisp can be glorked [sic] from context” (David Moser, quoted by
 Douglas Hofstadter in his *Metamagical Themas* column in the January
 1981 *Scientific American*). It is conjectured that hacker usage mutated
-the verb to ‘glark’ because `glork <glork>`__ was already an
+the verb to ‘glark’ because `glork <#glork>`__ was already an
 established jargon term (some hackers do report using the original
-term). Compare `grok <grok>`__, `zen <./Z.html#zen>`__.
+term). Compare `grok <#grok>`__, `zen <./Z.html#zen>`__.
 
 
 glassfet
@@ -733,7 +733,7 @@ crashes all the computers. In jargon, though, a hacker who got to the
 middle of a sentence and then forgot how he or she intended to complete
 it might say, “Sorry, I just glitched”.
 
-2. vi. To commit a glitch. See `gritch <gritch>`__.
+2. vi. To commit a glitch. See `gritch <#gritch>`__.
 
 3. vt. [Stanford] To scroll a display screen, esp. several lines at a
 time. `WAITS <./W.html#WAITS>`__ terminals used to do this in order
@@ -753,7 +753,7 @@ many causes of electronic `heisenbug <./H.html#heisenbug>`__\ s).
 .. image:: ../_static/73-06-04.png
 
 
-Coping with a hydraulic `glitch <glitch>`__.
+Coping with a hydraulic `glitch <#glitch>`__.
 
 (The next cartoon in the Crunchly saga is
 `73-07-24 <../O.html#overflow-bit>`__. The previous one
@@ -808,10 +808,10 @@ the system has just crashed.
 2. Used as a name for just about anything. See
 `foo <./F.html#foo>`__.
 
-3. vt. Similar to `glitch <glitch>`__, but usually used
+3. vt. Similar to `glitch <#glitch>`__, but usually used
 reflexively. “My program just glorked itself.”
 
-4. Syn. for `glark <glark>`__, which see.
+4. Syn. for `glark <#glark>`__, which see.
 
 
 
@@ -874,10 +874,10 @@ of high-quality software for free redistribution under the Free Software
 Foundation's imprimatur. The GNU project has a web page at
 `http://www.gnu.org/ <http://www.gnu.org/>`__. See
 `EMACS <./E.html#EMACS>`__, `copyleft <./C.html#copyleft>`__,
-`General Public Virus <General-Public-Virus>`__,
+`General Public Virus <#general-Public-Virus>`__,
 `Linux <./L.html#Linux>`__.
 
-2. Noted Unix hacker John Gilmore "<gnu@toad.com>"}, founder of
+2. Noted Unix hacker John Gilmore "<#gnu@toad.com>"}, founder of
 Usenet's anarchic alt.\* hierarchy.
 
 
@@ -888,10 +888,10 @@ GNUMACS
 **GNUMACS**: /gnoo´maks/, n.
 
 [contraction of ‘GNU EMACS’] Often-heard abbreviated name for the
-`GNU <GNU>`__ project's flagship tool,
+`GNU <#gNU>`__ project's flagship tool,
 `EMACS <./E.html#EMACS>`__. StallMACS, referring to Richard Stallman,
 is less common but also heard. Used esp. in contrast with
-`GOSMACS <GOSMACS>`__ and X Emacs.
+`GOSMACS <#gOSMACS>`__ and X Emacs.
 
 
 goat file
@@ -1008,7 +1008,7 @@ go gold
 
 **go gold**: v.
 
-[common] See `golden <golden>`__.
+[common] See `golden <#golden>`__.
 
 
 
@@ -1055,15 +1055,15 @@ gonk
 
 **gonk**: /gonk/, vi.,n.
 
-1. [prob. back-formed from `gonkulator <gonkulator>`__.] To
+1. [prob. back-formed from `gonkulator <#gonkulator>`__.] To
 prevaricate or to embellish the truth beyond any reasonable recognition.
 In German the term is (mythically) gonken; in Spanish the verb becomes
 gonkar. “You're gonking me. That story you just told me is a bunch of
 gonk.” In German, for example, “Du gonkst mich” (You're pulling my leg).
-See also `gonkulator <gonkulator>`__.
+See also `gonkulator <#gonkulator>`__.
 
 2. [British] To grab some sleep at an odd time; compare `gronk
-out <gronk-out>`__.
+out <#gronk-out>`__.
 
 
 
@@ -1076,7 +1076,7 @@ gonkulator
 [common; from the 1960s *Hogan's Heroes* TV series] A pretentious piece
 of equipment that actually serves no useful purpose. Usually used to
 describe one's least favorite piece of computer hardware. See
-`gonk <gonk>`__.
+`gonk <#gonk>`__.
 
 
 
@@ -1161,7 +1161,7 @@ gopher hole
 
 **gopher hole**: n.
 
-1. Any access to a `gopher <gopher>`__.
+1. Any access to a `gopher <#gopher>`__.
 
 2. [Amateur Packet Radio] The terrestrial analog of a
 `wormhole <./W.html#wormhole>`__ (sense 2), from which this term was
@@ -1263,7 +1263,7 @@ GOSMACS
 
 [contraction of ‘Gosling EMACS’] The first
 `EMACS <./E.html#EMACS>`__-in-C implementation, predating but now
-largely eclipsed by `GNUMACS <GNUMACS>`__. Originally freeware; a
+largely eclipsed by `GNUMACS <#gNUMACS>`__. Originally freeware; a
 commercial version was modestly popular as ‘UniPress EMACS’ during the
 1980s. The author, James Gosling, went on to invent
 `NeWS <./N.html#NeWS>`__ and the programming language Java; the
@@ -1295,7 +1295,7 @@ GPL
 
 Abbreviation for ‘General Public License’ in widespread use; see
 `copyleft <./C.html#copyleft>`__, `General Public
-Virus <General-Public-Virus>`__. Often mis-expanded as ‘GNU Public
+Virus <#general-Public-Virus>`__. Often mis-expanded as ‘GNU Public
 License’.
 
 
@@ -1305,7 +1305,7 @@ GPV
 
 **GPV**: /G·P·V/, n.
 
-Abbrev. for `General Public Virus <General-Public-Virus>`__ in
+Abbrev. for `General Public Virus <#general-Public-Virus>`__ in
 widespread use.
 
 
@@ -1593,7 +1593,7 @@ grind crank
 A mythical accessory to a terminal. A crank on the side of a monitor,
 which when operated makes a zizzing noise and causes the computer to run
 faster. Usually one does not refer to a grind crank out loud, but merely
-makes the appropriate gesture and noise. See `grind <grind>`__.
+makes the appropriate gesture and noise. See `grind <#grind>`__.
 
 Historical note: At least one real machine actually had a grind crank —
 the R1, a research machine built toward the end of the days of the great
@@ -1629,7 +1629,7 @@ source.
 
 3. [common] To run seemingly interminably, esp. (but not necessarily) if
 performing some tedious and inherently useless task. Similar to
-`crunch <./C.html#crunch>`__ or `grovel <grovel>`__. Grinding
+`crunch <./C.html#crunch>`__ or `grovel <#grovel>`__. Grinding
 has a connotation of using a lot of CPU time, but it is possible to
 grind a disk, network, etc. See also `hog <./H.html#hog>`__.
 
@@ -1647,14 +1647,14 @@ gritch
 
 [MIT]
 
-1. n. A complaint (often caused by a `glitch <glitch>`__).
+1. n. A complaint (often caused by a `glitch <#glitch>`__).
 
 2. vi. To complain. Often verb-doubled: “Gritch gritch”.
 
-3. A synonym for `glitch <glitch>`__ (as verb or noun).
+3. A synonym for `glitch <#glitch>`__ (as verb or noun).
 
 Interestingly, this word seems to have a separate history from
-`glitch <glitch>`__, with which it is often confused. Back in the
+`glitch <#glitch>`__, with which it is often confused. Back in the
 early 1960s, when ‘glitch’ was strictly a hardware-tech's term of art,
 the Burton House dorm at M.I.T. maintained a “Gritch Book”, a blank
 volume, into which the residents hand-wrote complaints, suggestions, and
@@ -1684,7 +1684,7 @@ you have deeply entered the world-view and spirit of the language, with
 the implication that it has transformed your view of programming.
 Contrast `zen <./Z.html#zen>`__, which is similar supernal
 understanding experienced as a single brief flash. See also
-`glark <glark>`__.
+`glark <#glark>`__.
 
 2. Used of programs, may connote merely sufficient understanding.
 “Almost all C compilers grok the **void** type these days.”
@@ -1702,7 +1702,7 @@ down.”
 2. Of people, the condition of feeling very tired or (less commonly)
 sick. “I've been chasing that bug for 17 hours now and I am thoroughly
 gronked!” Compare `broken <./B.html#broken>`__, which means about the
-same as `gronk <gronk>`__ used of hardware, but connotes
+same as `gronk <#gronk>`__ used of hardware, but connotes
 depression or mental/emotional problems in people.
 
 
@@ -1743,7 +1743,7 @@ grovel
 1. To work interminably and without apparent progress. Often used
 transitively with ‘over’ or ‘through’. “The file scavenger has been
 groveling through the /usr directories for 10 minutes now.” Compare
-`grind <grind>`__ and `crunch <./C.html#crunch>`__. Emphatic
+`grind <#grind>`__ and `crunch <./C.html#crunch>`__. Emphatic
 form: grovel obscenely.
 
 2. To examine minutely or in complete detail. “The compiler grovels over
@@ -1901,7 +1901,7 @@ Amiga equivalent of panic in Unix (sometimes just called a guru or guru
 event). When the system crashes, a cryptic message of the form “GURU
 MEDITATION #XXXXXXXX.YYYYYYYY” may appear, indicating what the problem
 was. An Amiga guru can figure things out from the numbers. Sometimes a
-`guru <guru>`__ event must be followed by a `Vulcan nerve
+`guru <#guru>`__ event must be followed by a `Vulcan nerve
 pinch <./V.html#Vulcan-nerve-pinch>`__.
 
 This term is (no surprise) an in-joke from the earliest days of the

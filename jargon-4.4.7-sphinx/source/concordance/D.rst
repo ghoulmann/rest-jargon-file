@@ -16,7 +16,7 @@ Quarterman (Addison-Wesley Longman, 1996, ISBN 0-201-54979-4) Either of
 the standard reference books on the internals of
 `BSD <./B.html#BSD>`__ Unix. So called because the covers have a
 picture depicting a little demon (a visual play on
-`daemon <daemon>`__) in sneakers, holding a pitchfork (referring
+`daemon <#Daemon>`__) in sneakers, holding a pitchfork (referring
 to one of the characteristic features of Unix, the fork(2) system call).
 
 
@@ -39,11 +39,11 @@ LPT. They simply enter their implicit requests and let the daemon decide
 what to do with them. Daemons are usually spawned automatically by the
 system, and may either live forever or be regenerated at intervals.
 
-Daemon and `demon <demon>`__ are often used interchangeably, but
+Daemon and `demon <#Demon>`__ are often used interchangeably, but
 seem to have distinct connotations. The term daemon was introduced to
 computing by `CTSS <./C.html#CTSS>`__ people (who pronounced it
 /dee´mon/) and used it to refer to what ITS called a
-`dragon <dragon>`__; the prototype was a program called DAEMON
+`dragon <#Dragon>`__; the prototype was a program called DAEMON
 that automatically made tape backups of the file system. Although the
 meaning and the pronunciation have drifted, we think this glossary
 reflects current (2003) usage.
@@ -60,7 +60,7 @@ systems, is composed. Homeomorphic to `spam <./S.html#spam>`__. The
 term dahmum is derived from the name of a militant
 `OS/2 <./O.html#OS-2>`__ advocate, and originated when an extensively
 cross-posted OS/2-versus-`Linux <./L.html#Linux>`__ debate was fed
-through `Dissociated Press <Dissociated-Press>`__.
+through `Dissociated Press <#Dissociated-Press>`__.
 
 
 dancing frog
@@ -171,7 +171,7 @@ reminiscent of IBM System/360 JCL (which had an elaborate DD ‘Dataset
 Definition’ specification for I/O devices); though the command filled a
 need, the interface design was clearly a prank. The jargon usage is now
 very rare outside Unix sites and now nearly obsolete even there, as
-dd(1) has been `deprecated <deprecated>`__ for a long time
+dd(1) has been `deprecated <#Deprecated>`__ for a long time
 (though it has no exact replacement). The term has been displaced by
 `BLT <./B.html#BLT>`__ or simple English ‘copy’.
 
@@ -194,7 +194,7 @@ Translator’) was also used as the `shell <./S.html#shell>`__ or top
 level command language used to execute other programs.
 
 3. Any one of several specific DDTs (sense 1) supported on early
-`DEC <DEC>`__ hardware and CP/M. The PDP-10 Reference Handbook
+`DEC <#DEC>`__ hardware and CP/M. The PDP-10 Reference Handbook
 (1969) contained a footnote on the first page of the documentation for
 DDT that illuminates the origin of the term:
 
@@ -214,7 +214,7 @@ DDT that illuminates the origin of the term:
 (The ‘tape’ referred to was, incidentally, not magnetic but paper.)
 Sadly, this quotation was removed from later editions of the handbook
 after the `suit <./S.html#suit>`__\ s took over and
-`DEC <DEC>`__ became much more ‘businesslike’.
+`DEC <#DEC>`__ became much more ‘businesslike’.
 
 The history above is known to many old-time hackers. But there's more:
 Peter Samson, compiler of the original `TMRC <./T.html#TMRC>`__
@@ -237,7 +237,7 @@ making it possible to spoof a user's identity if recipients aren't
 careful about verifying keys). In PGP and GPG the key ID is the last
 eight hex digits of (for RSA keys) the product of two primes. The attack
 was demonstrated by creating a key whose ID was 0xdeadbeef (see
-`DEADBEEF <DEADBEEF>`__).
+`DEADBEEF <#DEADBEEF>`__).
 
 DEADBEEF
 ===============
@@ -252,7 +252,7 @@ bug <./B.html#Bohr-bug>`__\ s. As in “Your program is DEADBEEF”
 (meaning gone, aborted, flushed from memory); if you start from an odd
 half-word boundary, of course, you have BEEFDEAD. See also the anecdote
 under `fool <./F.html#fool>`__ and `dead beef
-attack <dead-beef-attack>`__.
+attack <#Dead-beef-attack>`__.
 
 
 dead code
@@ -271,7 +271,7 @@ code so a maintainer can think about what it means. (Sometimes it simply
 means that an *extremely* defensive programmer has inserted `can't
 happen <./C.html#can-t-happen>`__ tests which really can't happen —
 yet.) Syn. `grunge <./G.html#grunge>`__. See also
-`dead <dead>`__, and `The Story of
+`dead <#Dead>`__, and `The Story of
 Mel' <../story-of-mel>`__.
 
 
@@ -280,14 +280,14 @@ dead
 
 **dead**: adj.
 
-1. Non-functional; `down <down>`__;
+1. Non-functional; `down <#Down>`__;
 `crash <./C.html#crash>`__\ ed. Especially used of hardware.
 
 2. At XEROX PARC, software that is working but not undergoing continued
 development and support.
 
 3. Useless; inaccessible. Antonym: live. Compare `dead
-code <dead-code>`__.
+code <#Dead-code>`__.
 
 
 deadlock
@@ -307,7 +307,7 @@ situations where a program can never run simply because it never gets
 high enough priority. Another common flavor is constipation, in which
 each process is trying to send stuff to the other but all buffers are
 full because nobody is reading anything.) See `deadly
-embrace <deadly-embrace>`__.
+embrace <#Deadly-embrace>`__.
 
 2. Also used of deadlock-like interactions between humans, as when two
 people meet in a narrow corridor, and each tries to be polite by moving
@@ -322,9 +322,9 @@ deadly embrace
 
 **deadly embrace**: n.
 
-Same as `deadlock <deadlock>`__, though usually used only when
+Same as `deadlock <#Deadlock>`__, though usually used only when
 exactly two processes are involved. This is the more popular term in
-Europe, while `deadlock <deadlock>`__ predominates in the United
+Europe, while `deadlock <#Deadlock>`__ predominates in the United
 States.
 
 
@@ -365,7 +365,7 @@ Death Square
 
 The corporate logo of Novell, the people who acquired USL after AT&T let
 go of it (Novell eventually sold the Unix group to SCO). Coined by
-analogy with `Death Star <Death-Star>`__, because many people
+analogy with `Death Star <#Death-Star>`__, because many people
 believed Novell was bungling the lead in Unix systems exactly as AT&T
 did for many years.
 
@@ -411,7 +411,7 @@ Death <./B.html#Blue-Screen-of-Death>`__, `Ping O'
 Death <./P.html#Ping-O--Death>`__, `Spinning Pizza of
 Death <./S.html#Spinning-Pizza-of-Death>`__, `click of
 death <./C.html#click-of-death>`__. Compare `Doom, X
-of <Doom--X-of>`__.
+of <#Doom--X-of>`__.
 
 
 decay
@@ -511,7 +511,7 @@ available to hackers at large (compare `black
 art <./B.html#black-art>`__); one that could only have been composed
 by a true `wizard <./W.html#wizard>`__. Compiler optimization
 techniques and many aspects of `OS <./O.html#OS>`__ design used to be
-`deep magic <deep-magic>`__; many techniques in cryptography,
+`deep magic <#Deep-magic>`__; many techniques in cryptography,
 signal processing, graphics, and AI still are. Compare `heavy
 wizardry <./H.html#heavy-wizardry>`__. Esp.: found in comments of the
 form “Deep magic begins here...”. Compare `voodoo
@@ -622,7 +622,7 @@ deletia
 [USENET; common] In an email reply, material omitted from the quote of
 the original. Usually written rather than spoken; often appears as a
 pseudo-tag or ellipsis in the body of the reply, as “[deletia]” or
-“<deletia>” or “<snip>”.
+“<#Deletia>” or “<snip>”.
 
 
 
@@ -663,17 +663,17 @@ the speed of my program!” “What was the delta on program size?” “About
 30 percent.” (He doubled the speed of his program, but increased its
 size by only 30 percent.)
 
-2. [Unix] A `diff <diff>`__, especially a `diff <diff>`__
+2. [Unix] A `diff <#Diff>`__, especially a `diff <#Diff>`__
 stored under the set of version-control tools called SCCS (Source Code
 Control System) or RCS (Revision Control System).
 
 3. n. A small quantity, but not as small as
 `epsilon <./E.html#epsilon>`__. The jargon usage of
-`delta <delta>`__ and `epsilon <./E.html#epsilon>`__ stems
+`delta <#Delta>`__ and `epsilon <./E.html#epsilon>`__ stems
 from the traditional use of these letters in mathematics for very small
 numerical quantities, particularly in ‘epsilon-delta’ proofs in limit
 theory (as in the differential calculus). The term
-`delta <delta>`__ is often used, once
+`delta <#Delta>`__ is often used, once
 `epsilon <./E.html#epsilon>`__ has been mentioned, to mean a quantity
 that is slightly bigger than `epsilon <./E.html#epsilon>`__ but still
 very small. “The cost isn't epsilon, but it's delta” means that the cost
@@ -730,10 +730,10 @@ demoeffect
 
 **demoeffect**: n.
 
-[`demoscene <demoscene>`__\ ]
+[`demoscene <#Demoscene>`__\ ]
 
 1. What among hackers is called a `display
-hack <display-hack>`__. Classical effects include “plasma”
+hack <#Display-hack>`__. Classical effects include “plasma”
 (colorful mess), “keftales” ("x*x+y*y" and other similar patterns,
 usually combined with color-cycling), realtime fractals, realtime 3d
 graphics, etc. Historically, demo effects have cheated as much as
@@ -743,7 +743,7 @@ three common tricks, but use of special hardware to fake effects is a
 `Good Thing <./G.html#Good-Thing>`__ on the demoscene (though this is
 becoming less common as platforms like the Amiga fade away).
 
-2. [Finland] Opposite of `dancing frog <dancing-frog>`__. The
+2. [Finland] Opposite of `dancing frog <#Dancing-frog>`__. The
 crash that happens when you demonstrate a perfectly good prototype to a
 client. Plagues most often CS students and small businesses, but there
 is a well-known case involving Bill Gates demonstrating a brand new
@@ -754,7 +754,7 @@ demogroup
 
 **demogroup**: n.
 
-[`demoscene <demoscene>`__\ ] A group of `demo <demo>`__
+[`demoscene <#Demoscene>`__\ ] A group of `demo <#Demo>`__
 (sense 4) composers. Job titles within a group include coders (the ones
 who write programs), graphicians (the ones who painstakingly pixelate
 the fine art), musicians (the music composers),
@@ -786,14 +786,14 @@ portions, or to a special version of a program (frequently with some
 features crippled) which is distributed at little or no cost to the user
 for enticement purposes.
 
-4. [`demoscene <demoscene>`__\ ] A sequence of
-`demoeffect <demoeffect>`__\ s (usually) combined with
+4. [`demoscene <#Demoscene>`__\ ] A sequence of
+`demoeffect <#Demoeffect>`__\ s (usually) combined with
 self-composed music and hand-drawn (“pixelated”) graphics. These days
 (1997) usually built to attend a `compo <./C.html#compo>`__. Often
 called eurodemos outside Europe, as most of the
-`demoscene <demoscene>`__ activity seems to have gathered in
+`demoscene <#Demoscene>`__ activity seems to have gathered in
 northern Europe and especially Scandinavia. See also
-`intro <./I.html#intro>`__, `dentro <dentro>`__.
+`intro <./I.html#intro>`__, `dentro <#Dentro>`__.
 
 
 demo mode
@@ -802,7 +802,7 @@ demo mode
 **demo mode**: n.
 
 1. [Sun] The state of being `heads down <./H.html#heads-down>`__ in
-order to finish code in time for a `demo <demo>`__, usually due
+order to finish code in time for a `demo <#Demo>`__, usually due
 yesterday.
 
 2. A mode in which video games sit by themselves running through a
@@ -833,13 +833,13 @@ demon
 
 **demon**: n.
 
-1. Often used equivalently to `daemon <daemon>`__ — especially in
+1. Often used equivalently to `daemon <#Daemon>`__ — especially in
 the `Unix <./U.html#Unix>`__ world, where the latter spelling and
 pronunciation is considered mildly archaic.
 
 2. [MIT; now probably obsolete] A portion of a program that is not
 invoked explicitly, but that lies dormant waiting for some condition(s)
-to occur. See `daemon <daemon>`__. The distinction is that demons
+to occur. See `daemon <#Daemon>`__. The distinction is that demons
 are usually processes within a program, while daemons are usually
 programs running on an operating system.
 
@@ -858,7 +858,7 @@ demoparty
 
 **demoparty**: n.
 
-[`demoscene <demoscene>`__\ ] Aboveground descendant of the
+[`demoscene <#Demoscene>`__\ ] Aboveground descendant of the
 `copyparty <./C.html#copyparty>`__, with emphasis shifted away from
 software piracy and towards `compo <./C.html#compo>`__\ s. Smaller
 demoparties, for 100 persons or less, are held quite often, sometimes
@@ -880,7 +880,7 @@ demoscene
 Scandinavia and northern Europe. Demoscene folklore recounts that when
 old-time `warez d00dz <./W.html#warez-d00dz>`__ cracked some piece of
 software they often added an advertisement in the beginning, usually
-containing colorful `display hack <display-hack>`__\ s with
+containing colorful `display hack <#Display-hack>`__\ s with
 greetings to other cracking groups. The demoscene was born among people
 who decided building these display hacks is more interesting than
 hacking — or anyway safer. Around 1990 there began to be very serious
@@ -888,11 +888,11 @@ police pressure on cracking groups, including raids with SWAT teams
 crashing into bedrooms to confiscate computers. Whether in response to
 this or for esthetic reasons, crackers of that period began to build
 self-contained display hacks of considerable elaboration and beauty
-(within the culture such a hack is called a `demo <demo>`__). As
-more of these `demogroup <demogroup>`__\ s emerged, they started
+(within the culture such a hack is called a `demo <#Demo>`__). As
+more of these `demogroup <#Demogroup>`__\ s emerged, they started
 to have `compo <./C.html#compo>`__\ s at copying parties (see
 `copyparty <./C.html#copyparty>`__), which later evolved to
-standalone events (see `demoparty <demoparty>`__). The demoscene
+standalone events (see `demoparty <#Demoparty>`__). The demoscene
 has retained some traits from the `warez
 d00dz <./W.html#warez-d00dz>`__, including their style of handles and
 group names and some of their jargon.
@@ -919,11 +919,11 @@ dentro
 
 **dentro**: /den´troh/
 
-[`demoscene <demoscene>`__\ ] Combination of
-`demo <demo>`__ (sense 4) and `intro <./I.html#intro>`__.
+[`demoscene <#Demoscene>`__\ ] Combination of
+`demo <#Demo>`__ (sense 4) and `intro <./I.html#intro>`__.
 Other name mixings include intmo, dentmo etc. and are used usually when
 the authors are not quite sure whether the program is a
-`demo <demo>`__ or an `intro <./I.html#intro>`__.
+`demo <#Demo>`__ or an `intro <./I.html#intro>`__.
 Special-purpose coinages like wedtro (some member of a group got
 married), invtro (invitation intro) etc. have also been sighted.
 
@@ -950,7 +950,7 @@ years. This term appears with distressing frequency in standards
 documents when the committees writing the documents realize that large
 amounts of extant (and presumably happily working) code depend on the
 feature(s) that have passed out of favor. See also `dusty
-deck <dusty-deck>`__.
+deck <#Dusty-deck>`__.
 
 [Usage note: don't confuse this word with ‘depreciated’, or the verb
 form ‘deprecate’ with ‘depreciate’. They are different words; see any
@@ -1073,7 +1073,7 @@ die horribly
 
 The software equivalent of `crash and
 burn <./C.html#crash-and-burn>`__, and the preferred emphatic form of
-`die <die>`__. “The converter choked on an FF in its input and
+`die <#Die>`__. “The converter choked on an FF in its input and
 died horribly”.
 
 die
@@ -1135,7 +1135,7 @@ company; the strips present a lacerating satire of insane working
 conditions and idiotic `management <./M.html#management>`__ practices
 all too readily recognized by hackers. Adams, who spent nine years in
 `cube <./C.html#cube>`__ 4S700R at Pacific Bell (not
-`DEC <DEC>`__ as often reported), often remarks that he has never
+`DEC <#DEC>`__ as often reported), often remarks that he has never
 been able to come up with a fictional management blunder that his
 correspondents didn't quickly either report to have actually happened or
 top with a similar but even more bizarre incident. In 1996 Adams
@@ -1243,7 +1243,7 @@ dirty power
 **dirty power**: n.
 
 Electrical mains voltage that is unfriendly to the delicate innards of
-computers. Spikes, `drop-outs <drop-outs>`__, average voltage
+computers. Spikes, `drop-outs <#Drop-outs>`__, average voltage
 significantly higher or lower than nominal, or just plain noise can all
 cause problems of varying subtlety and severity (these are collectively
 known as `power hit <./P.html#power-hit>`__\ s).
@@ -1323,7 +1323,7 @@ dispress
 **dispress**: vt.
 
 [contraction of ‘Dissociated Press’ due to eight-character MS-DOS
-filenames] To apply the `Dissociated Press <Dissociated-Press>`__
+filenames] To apply the `Dissociated Press <#Dissociated-Press>`__
 algorithm to a block of text. The resultant output is also referred to
 as a 'dispression'.
 
@@ -1375,7 +1375,7 @@ distribution
 1. A software source tree packaged for distribution; but see
 `kit <./K.html#kit>`__. Since about 1996 unqualified use of this term
 often implies ‘\ `Linux <./L.html#Linux>`__ distribution’. The short
-form `distro <distro>`__ is often used for this sense.
+form `distro <#Distro>`__ is often used for this sense.
 
 2. A vague term encompassing mailing lists and Usenet newsgroups (but
 not `BBS <./B.html#BBS>`__ `fora <./F.html#fora>`__); any
@@ -1390,7 +1390,7 @@ distro
 
 **distro**: n.
 
-Synonym for `distribution <distribution>`__, sense 1.
+Synonym for `distribution <#Distribution>`__, sense 1.
 
 
 disusered
@@ -1438,7 +1438,7 @@ pressed trees that accompany most modern software or hardware products
 read paper documentation and (too) often resist writing it; they prefer
 theirs to be terse and on-line. A common comment on this predilection is
 “You can't `grep <./G.html#grep>`__ dead trees”. See `drool-proof
-paper <drool-proof-paper>`__, `verbiage <./V.html#verbiage>`__,
+paper <#Drool-proof-paper>`__, `verbiage <./V.html#verbiage>`__,
 `treeware <./T.html#treeware>`__.
 
 
@@ -1527,7 +1527,7 @@ uniquely, others *are* special code that does something that
 normally-resident programs don't or can't. (For example, AT&T's “Unix
 PC” would only come up in `root mode <./R.html#root-mode>`__ with a
 special boot disk.) Also called a key disk. See
-`dongle <dongle>`__.
+`dongle <#Dongle>`__.
 
 
 dongle
@@ -1556,7 +1556,7 @@ industry has moved away from copy-protection schemes in general.
 2. By extension, any physical electronic key or transferable ID required
 for a program to function. Common variations on this theme have used
 parallel or even joystick ports. See
-`dongle-disk <dongle-disk>`__.
+`dongle-disk <#Dongle-disk>`__.
 
 3. An adaptor cable mating a special edge-type connector on a PCMCIA or
 on-board Ethernet card to a standard 8p8c Ethernet jack. This usage
@@ -1596,7 +1596,7 @@ Doom, X of
 **Doom, X of**
 
 [common] A construction similar to ‘\ `Death, X
-of <Death--X-of>`__, but derived rather from the Cracks of Doom in
+of <#Death--X-of>`__, but derived rather from the Cracks of Doom in
 J.R.R. Tolkien’s *Lord of the Rings* trilogy. The connotations are
 slightly different; a Foo of Death is mainly being held up to ridicule,
 but one would have to take a Foo of Doom a bit more seriously.
@@ -1778,7 +1778,7 @@ DPer
 
 Data Processor. Hackers are absolutely amazed that
 `suit <./S.html#suit>`__\ s use this term self-referentially.
-*Computers* process data, not people! See `DP <DP>`__.
+*Computers* process data, not people! See `DP <#DP>`__.
 
 DP
 ========
@@ -1787,9 +1787,9 @@ DP
 
 1. Data Processing. Listed here because, according to hackers, use of
 the term marks one immediately as a `suit <./S.html#suit>`__. See
-`DPer <DPer>`__.
+`DPer <#DPer>`__.
 
-2. Common abbrev for `Dissociated Press <Dissociated-Press>`__.
+2. Common abbrev for `Dissociated Press <#Dissociated-Press>`__.
 
 
 Dragon Book
@@ -1818,7 +1818,7 @@ dragon
 
 **dragon**: n.
 
-[MIT] A program similar to a `daemon <daemon>`__, except that it
+[MIT] A program similar to a `daemon <#Daemon>`__, except that it
 is not invoked at all, but is instead used by the system to perform
 various secondary tasks. A typical example would be an accounting
 program, which keeps track of who is logged in, accumulates load-average
@@ -1827,7 +1827,7 @@ logged in, where they were, what they were running, etc., along with
 some random picture (such as a unicorn, Snoopy, or the Enterprise),
 which was generated by the ‘name dragon’. Usage: rare outside MIT —
 under Unix and most other OSes this would be called a background demon
-or `daemon <daemon>`__. The best-known Unix example of a dragon
+or `daemon <#Daemon>`__. The best-known Unix example of a dragon
 is cron(1). At SAIL, they called this sort of thing a phantom.
 
 
@@ -1883,7 +1883,7 @@ DRECNET
 
 [from Yiddish/German ‘dreck’, meaning filth] Deliberate distortion of
 DECNET, a networking protocol used in the `VMS <./V.html#VMS>`__
-community. So called because `DEC <DEC>`__ helped write the
+community. So called because `DEC <#DEC>`__ helped write the
 Ethernet specification and then (either stupidly or as a malignant
 customer-control tactic) violated that spec in the design of DRECNET in
 a way that made it incompatible. See also `connector
@@ -1981,7 +1981,7 @@ drool-proof paper
 **drool-proof paper**: n.
 
 Documentation that has been obsessively `dumbed
-down <dumbed-down>`__, to the point where only a
+down <#Dumbed-down>`__, to the point where only a
 `cretin <./C.html#cretin>`__ could bear to read it, is said to have
 succumbed to the ‘drool-proof paper syndrome’ or to have been ‘written
 on drool-proof paper’. For example, this is an actual quote from Apple's
@@ -1995,11 +1995,11 @@ drop-ins
 
 **drop-ins**: n.
 
-[prob.: by analogy with `drop-outs <drop-outs>`__] Spurious
+[prob.: by analogy with `drop-outs <#Drop-outs>`__] Spurious
 characters appearing on a terminal or console as a result of line noise
 or a system malfunction of some sort. Esp.: used when these are
 interspersed with one's own typed input. Compare
-`drop-outs <drop-outs>`__, sense 2.
+`drop-outs <#Drop-outs>`__, sense 2.
 
 drop on the floor
 ===================
@@ -2033,7 +2033,7 @@ mind just seems to shut down for a couple of beats. See
 
 |image0|
 
-A really serious case of `drop-outs <drop-outs>`__.
+A really serious case of `drop-outs <#Drop-outs>`__.
 
 (The next cartoon in the Crunchly saga is
 `73-05-21 <./F.html#fascist.html#crunchly73-05-21>`__. The previous one is
@@ -2301,7 +2301,7 @@ dusty deck
 **dusty deck**: n.
 
 Old software (especially applications) which one is obliged to remain
-compatible with, or to maintain (`DP <DP>`__ types call this
+compatible with, or to maintain (`DP <#DP>`__ types call this
 legacy code, a term hackers consider smarmy and excessively reverent).
 The term implies that the software in question is a holdover from
 card-punch days. Used esp. when referring to old scientific and

@@ -12,7 +12,7 @@ hack attack
 
 [poss. by analogy with ‘Big Mac Attack’ from ads for the McDonald's
 fast-food chain; the variant big hack attack is reported] Nearly
-synonymous with `hacking run <hacking-run>`__, though the latter
+synonymous with `hacking run <#hacking-run>`__, though the latter
 more strongly implies an all-nighter.
 
 hacked off
@@ -47,7 +47,7 @@ beginning to crowd out normal tissue (compare `critical
 mass <./C.html#critical-mass>`__). Not all programs that are hacked
 become hacked up; if modifications are done with some eye to coherence
 and continued maintainability, the software may emerge better for the
-experience. Contrast `hack up <hack-up>`__.
+experience. Contrast `hack up <#hack-up>`__.
 
 
 
@@ -113,7 +113,7 @@ computers and computer networks in particular.
 2. One who programs enthusiastically (even obsessively) or who enjoys
 programming rather than just theorizing about programming.
 
-3. A person capable of appreciating `hack value <hack-value>`__.
+3. A person capable of appreciating `hack value <#hack-value>`__.
 
 4. A person who is good at programming quickly.
 
@@ -135,9 +135,9 @@ The term ‘hacker’ also tends to connote membership in the global
 community defined by the net (see `the
 network <./T.html#the-network>`__. For discussion of some of the
 basics of this culture, see the `How To Become A
-Hacker <http://www.catb.org/~esr/faqs/hacker-howto>`__ FAQ. It also
+Hacker <#http://www.catb.org/~esr/faqs/hacker-howto>`__ FAQ. It also
 implies that the person described is seen to subscribe to some version
-of the hacker ethic (see `hacker ethic <hacker-ethic>`__).
+of the hacker ethic (see `hacker ethic <#hacker-ethic>`__).
 
 It is better to be described as a hacker by others than to describe
 oneself that way. Hackers consider themselves something of an elite (a
@@ -190,10 +190,10 @@ high camp and slapstick is especially favored.
 
 6. References to the symbol-object antinomies and associated ideas in
 Zen Buddhism and (less often) Taoism. See `has the X
-nature <has-the-X-nature>`__,
+nature <#has-the-X-nature>`__,
 `Discordianism <./D.html#Discordianism>`__,
 `zen <./Z.html#zen>`__, `ha ha only
-serious <ha-ha-only-serious>`__, `koan <./K.html#koan>`__.
+serious <#ha-ha-only-serious>`__, `koan <./K.html#koan>`__.
 
 See also `filk <./F.html#filk>`__,
 `retrocomputing <./R.html#retrocomputing>`__, and the Portrait of J.
@@ -239,15 +239,15 @@ sense: “What are you doing?” “I'm hacking TECO.” In a general
 (time-extended) sense: “What do you do around here?” “I hack TECO.” More
 generally, “I hack foo” is roughly equivalent to “foo is my major
 interest (or project)”. “I hack solid-state physics.” See `Hacking X
-for Y <Hacking-X-for-Y>`__.
+for Y <#hacking-X-for-Y>`__.
 
-5. vt. To pull a prank on. See sense 2 and `hacker <hacker>`__
+5. vt. To pull a prank on. See sense 2 and `hacker <#hacker>`__
 (sense 5).
 
 6. vi. To interact with a computer in a playful and exploratory rather
 than goal-directed way. “Whatcha up to?” “Oh, just hacking.”
 
-7. n. Short for `hacker <hacker>`__.
+7. n. Short for `hacker <#hacker>`__.
 
 8. See `nethack <./N.html#nethack>`__.
 
@@ -317,7 +317,7 @@ hackish
 
 **hackish**: /hak´ish/, adj.
 
-(also `hackishness <hackishness>`__ n.)
+(also `hackishness <#hackishness>`__ n.)
 
 1. Said of something that is or involves a hack.
 
@@ -334,7 +334,7 @@ hackishness
 **hackishness**: n.
 
 The quality of being or involving a hack. This term is considered mildly
-silly. Syn. `hackitude <hackitude>`__.
+silly. Syn. `hackitude <#hackitude>`__.
 
 
 hackitude
@@ -344,7 +344,7 @@ hackitude
 
 **hackitude**: n.
 
-Syn. `hackishness <hackishness>`__; this word is considered
+Syn. `hackishness <#hackishness>`__; this word is considered
 sillier.
 
 
@@ -378,7 +378,7 @@ turning one's eyes away from the screen) to avoid being interrupted. One
 may read, type, and interact with the computer for quite some time
 before further acknowledging the other's presence (of course, he or she
 is reciprocally free to leave without a word). The understanding is that
-you might be in `hack mode <hack-mode>`__ with a lot of delicate
+you might be in `hack mode <#hack-mode>`__ with a lot of delicate
 `state <./S.html#state>`__ (sense 2) in your head, and you dare not
 `swap <./S.html#swap>`__ that context out until you have reached a
 good point to pause. See also `juggling
@@ -391,9 +391,9 @@ hack on
 
 **hack on**: vt.
 
-[very common] To `hack <hack>`__; implies that the subject is
+[very common] To `hack <#hack>`__; implies that the subject is
 some pre-existing hunk of code that one is evolving, as opposed to
-something one might `hack up <hack-up>`__.
+something one might `hack up <#hack-up>`__.
 
 
 
@@ -414,11 +414,11 @@ hack up
 
 **hack up**: vt.
 
-To `hack <hack>`__, but generally implies that the result is a
+To `hack <#hack>`__, but generally implies that the result is a
 hack in sense 1 (a quick hack). Contrast this with `hack
-on <hack-on>`__. To hack up on implies a
+on <#hack-on>`__. To hack up on implies a
 `quick-and-dirty <./Q.html#quick-and-dirty>`__ modification to an
-existing system. Contrast `hacked up <hacked-up>`__; compare
+existing system. Contrast `hacked up <#hacked-up>`__; compare
 `kluge up <./K.html#kluge-up>`__, `monkey
 up <./M.html#monkey-up>`__, `cruft
 together <./C.html#cruft-together>`__.
@@ -460,7 +460,7 @@ themselves; to take it either too lightly or too seriously marks a
 person as an outsider, a `wannabee <./W.html#wannabee>`__, or in
 `larval stage <./L.html#larval-stage>`__. For further enlightenment
 on this subject, consult any Zen master. See also `hacker
-humor <hacker-humor>`__, and `koan <./K.html#koan>`__.
+humor <#hacker-humor>`__, and `koan <./K.html#koan>`__.
 
 
 hairball
@@ -489,7 +489,7 @@ hair
 
 **hair**: n.
 
-[back-formation from `hairy <hairy>`__] The complications that
+[back-formation from `hairy <#hairy>`__] The complications that
 make something hairy. “Decoding `TECO <./T.html#TECO>`__ commands
 requires a certain amount of hair.” Often seen in the phrase infinite
 hair, which connotes extreme complexity. Also in hairiferous (tending to
@@ -514,7 +514,7 @@ hairy.”
 3. Of people, high-powered, authoritative, rare, expert, and/or
 incomprehensible. Hard to explain except in context: “He knows this
 hairy lawyer who says there's nothing to worry about.” See also
-`hirsute <hirsute>`__.
+`hirsute <#hirsute>`__.
 
 There is a theorem in simplicial homology theory which states that any
 continuous tangent field on a 2-sphere is null at least in a point.
@@ -611,7 +611,7 @@ HAKMEM also contains some rather more complicated mathematical and
 technical items, but these examples show some of its fun flavor.
 
 An HTML transcription of the entire document is available at
-`http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html <http://www.inwap.com/pdp10/hbaker/hakmem/hakmem>`__.
+`http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html <#http://www.inwap.com/pdp10/hbaker/hakmem/hakmem>`__.
 
 
 
@@ -654,7 +654,7 @@ Halloween Documents
 A pair of Microsoft internal strategy memoranda leaked to ESR in late
 1998 that confirmed everybody's paranoia about the current `Evil
 Empire <./E.html#Evil-Empire>`__. `These
-documents <http://www.opensource.org/halloween/>`__ praised the
+documents <#http://www.opensource.org/halloween/>`__ praised the
 technical excellence of `Linux <./L.html#Linux>`__ and outlined a
 counterstrategy of attempting to lock in customers by “de-commoditizing”
 Internet protocols and services. They were extensively cited on the
@@ -689,7 +689,7 @@ hamster
 
 1. [Fairchild] A particularly slick little piece of code that does one
 thing well; a small, self-contained hack. The image is of a hamster
-`happily <happily>`__ spinning its exercise wheel.
+`happily <#happily>`__ spinning its exercise wheel.
 
 2. A tailless mouse; that is, one with an infrared link to a receiver on
 the machine, as opposed to the conventional cable.
@@ -713,8 +713,8 @@ hand-hacking
 
 **hand-hacking**: n.
 
-1. [rare] The practice of translating `hot spot <hot-spot>`__\ s
-from an `HLL <HLL>`__ into hand-tuned assembler, as opposed to
+1. [rare] The practice of translating `hot spot <#hot-spot>`__\ s
+from an `HLL <#hLL>`__ into hand-tuned assembler, as opposed to
 trying to coerce the compiler into generating better code. Both the term
 and the practice are becoming uncommon. See `tune <./T.html#tune>`__,
 `by hand <./B.html#by-hand>`__; syn. with v.
@@ -734,7 +734,7 @@ HAND
 
 [Usenet: very common] Abbreviation: Have A Nice Day. Typically used to
 close a `Usenet <./U.html#Usenet>`__ posting, but also used to
-informally close emails; often preceded by `HTH <HTH>`__.
+informally close emails; often preceded by `HTH <#hTH>`__.
 
 
 handle
@@ -840,7 +840,7 @@ hang
 
 1. [very common] To wait for an event that will never occur. “The system
 is hanging because it can't read from the crashed drive”. See
-`wedged <./W.html#wedged>`__, `hung <hung>`__.
+`wedged <./W.html#wedged>`__, `hung <#hung>`__.
 
 2. To wait for some event to occur; to hang around until something
 happens. “The program displays a menu and then hangs until you type a
@@ -872,7 +872,7 @@ Law <./S.html#Sturgeons-Law>`__, `Ninety-Ninety
 Rule <./N.html#Ninety-Ninety-Rule>`__.
 
 At
-`http://www.statusq.org/2001/11/26.html <http://www.statusq.org/2001/11/26>`__
+`http://www.statusq.org/2001/11/26.html <#http://www.statusq.org/2001/11/26>`__
 it is claimed that Hanlon's Razor was coined by one Robert J. Hanlon of
 Scranton, PA. However, a curiously similar remark (“You have attributed
 conditions to villainy that simply result from stupidity.”) appears in
@@ -945,7 +945,7 @@ hardwired
 
 **hardwired**: adj.
 
-1. In software, syn. for `hardcoded <hardcoded>`__.
+1. In software, syn. for `hardcoded <#hardcoded>`__.
 
 2. By extension, anything that is not modifiable, especially in the
 sense of customizable to one's particular needs or tastes.
@@ -966,7 +966,7 @@ hash functions; in jargon, it is used for human associative memory as
 well. Thus, two things ‘in the same hash bucket’ are more difficult to
 discriminate, and may be confused. “If you hash English words only by
 length, you get too many common grammar words in the first couple of
-hash buckets.” Compare `hash collision <hash-collision>`__.
+hash buckets.” Compare `hash collision <#hash-collision>`__.
 
 
 hash collision
@@ -981,7 +981,7 @@ was once on the phone with a friend about to move out to Berkeley. When
 asked what he expected Berkeley to be like, the friend replied: “Well, I
 have this mental picture of naked women throwing Molotov cocktails, but
 I think that's just a collision in my hash tables.” Compare `hash
-bucket <hash-bucket>`__.
+bucket <#hash-bucket>`__.
 
 
 
@@ -1037,7 +1037,7 @@ heads down
 
 Concentrating, usually so heavily and for so long that everything
 outside the focus area is missed. See also `hack
-mode <hack-mode>`__ and `larval
+mode <#hack-mode>`__ and `larval
 stage <./L.html#larval-stage>`__, although this mode is hardly
 confined to fledgling hackers.
 
@@ -1135,7 +1135,7 @@ Hed Rat
 Unflattering spoonerism of Red Hat, a popular
 `Linux <./L.html#Linux>`__ distribution. Compare
 `Macintrash <./M.html#Macintrash>`__.
-`sun-stools <./S.html#sun-stools>`__, `HP-SUX <HP-SUX>`__,
+`sun-stools <./S.html#sun-stools>`__, `HP-SUX <#hP-SUX>`__,
 `Slowlaris <./S.html#Slowlaris>`__.
 
 
@@ -1179,7 +1179,7 @@ hello sailor!
 **hello sailor!**: interj.
 
 Occasional West Coast equivalent of `hello
-world <hello-world>`__; seems to have originated at SAIL, later
+world <#hello-world>`__; seems to have originated at SAIL, later
 associated with the game `Zork <./Z.html#Zork>`__ (which also
 included “hello, aviator” and “hello, implementor”). Originally from the
 traditional hooker's greeting to a swabbie fresh off the boat, of
@@ -1208,13 +1208,13 @@ hello world
 
 2. Any of the minimal programs that emit this message (a representative
 sample in various languages can be found at
-`http://www.latech.edu/~acm/helloworld/ <http://www.latech.edu/~acm/helloworld/>`__).
+`http://www.latech.edu/~acm/helloworld/ <#http://www.latech.edu/~acm/helloworld/>`__).
 Traditionally, the first program a C coder is supposed to write in a new
 environment is one that just prints “hello, world” to standard output
 (and indeed it is the first example program in
 `K&R <./K.html#K-ampersand-R>`__). Environments that generate an
 unreasonably large executable for this trivial test or which require a
-`hairy <hairy>`__ compiler-linker invocation to generate it are
+`hairy <#hairy>`__ compiler-linker invocation to generate it are
 considered to `lose <./L.html#lose>`__ (see `X <./X.html#X>`__).
 
 3. Greeting uttered by a hacker making an entrance or requesting
@@ -1254,7 +1254,7 @@ hex
 
 **hex**: n.
 
-1. Short for `hexadecimal <hexadecimal>`__, base 16.
+1. Short for `hexadecimal <#hexadecimal>`__, base 16.
 
 2. A 6-pack of anything (compare `quad <./Q.html#quad>`__, sense 2).
 Neither usage has anything to do with `magic <./M.html#magic>`__ or
@@ -1281,7 +1281,7 @@ HHOK
 
 **HHOK**
 
-See `ha ha only serious <ha-ha-only-serious>`__.
+See `ha ha only serious <#ha-ha-only-serious>`__.
 
 
 
@@ -1291,7 +1291,7 @@ HHOS
 
 **HHOS**
 
-See `ha ha only serious <ha-ha-only-serious>`__.
+See `ha ha only serious <#ha-ha-only-serious>`__.
 
 
 h
@@ -1410,7 +1410,7 @@ hirsute
 
 **hirsute**: adj.
 
-Occasionally used humorously as a synonym for `hairy <hairy>`__.
+Occasionally used humorously as a synonym for `hairy <#hairy>`__.
 
 
 
@@ -1562,7 +1562,7 @@ home machine
 
 **home machine**: n.
 
-1. Syn. `home box <home-box>`__.
+1. Syn. `home box <#home-box>`__.
 
 2. The machine that receives your email. These senses might be distinct,
 for example, for a hacker who owns one computer at home, but reads email
@@ -1580,7 +1580,7 @@ in `RL <./R.html#RL>`__ are private, but home pages are designed to
 be very public.
 
 2. By extension, a WWW repository for information and links related to a
-project or organization. Compare `home box <home-box>`__.
+project or organization. Compare `home box <#home-box>`__.
 
 
 honey pot
@@ -1618,7 +1618,7 @@ variable to 5 would make the program print numbers in base 5. The
 variable is a simple hook. An even more flexible program might examine
 the variable and treat a value of 16 or less as the base to use, but
 treat any other number as the address of a user-supplied routine for
-printing a number. This is a `hairy <hairy>`__ but powerful hook;
+printing a number. This is a `hairy <#hairy>`__ but powerful hook;
 one can then write a routine to print numbers as Roman numerals, say, or
 as Hebrew characters, and plug it into the program through the hook.
 Often the difference between a good program and a superb one is that the
@@ -1654,7 +1654,7 @@ horked
 
 Broken. Confused. Trashed. Now common; seems to be post-1995. There is
 an entertaining web page of `related
-definitions <http://www.syddware.com/hork>`__, few of which seem to
+definitions <#http://www.syddware.com/hork>`__, few of which seem to
 be in live use but many of which would be in the recognition vocabulary
 of anyone familiar with the adjective.
 
@@ -1670,7 +1670,7 @@ Humorous: also implies a condition thought to be relatively easy to
 reverse. Probably derived from the Canadian slang ‘hoser’ popularized by
 the Bob and Doug Mackenzie skits on SCTV, but this usage predated SCTV
 by years in hackerdom (it was certainly already live at CMU in the
-1970s). See `hose <hose>`__. It is also widely used of people in
+1970s). See `hose <#hose>`__. It is also widely used of people in
 the mainstream sense of ‘in an extremely unfortunate situation’.
 
 Once upon a time, a Cray that had been experiencing periodic
@@ -1690,7 +1690,7 @@ hose
 
 1. vt. [common] To make non-functional or greatly degraded in
 performance. “That big ray-tracing program really hoses the system.” See
-`hosed <hosed>`__.
+`hosed <#hosed>`__.
 
 2. n. A narrow channel through which data flows under pressure.
 Generally denotes data paths that represent performance bottlenecks.
@@ -1718,7 +1718,7 @@ hotlink
 
 **hotlink**: /hot´link/, n.
 
-A `hot spot <hot-spot>`__ on a World Wide Web page; an area,
+A `hot spot <#hot-spot>`__ on a World Wide Web page; an area,
 which, when clicked or selected, chases a URL. Also spelled ‘hot link’.
 Use of this term focuses on the link's role as an immediate part of your
 display, as opposed to the timeless sense of logical connection
@@ -1739,10 +1739,10 @@ execution time; if one were to graph instruction visits versus code
 addresses, one would typically see a few huge spikes amidst a lot of
 low-level noise. Such spikes are called hot spots and are good
 candidates for heavy optimization or
-`hand-hacking <hand-hacking>`__. The term is especially used of
+`hand-hacking <#hand-hacking>`__. The term is especially used of
 tight loops and recursions in the code's central algorithm, as opposed
 to (say) initial set-up costs or large but infrequent I/O operations.
-See `tune <./T.html#tune>`__, `hand-hacking <hand-hacking>`__.
+See `tune <./T.html#tune>`__, `hand-hacking <#hand-hacking>`__.
 
 2. The active location of a cursor on a bit-map display. “Put the
 mouse's hot spot on the ‘ON’ widget and click the left button.”
@@ -1752,7 +1752,7 @@ some action. World Wide Web pages now provide the
 `canonical <./C.html#canonical>`__ examples; WWW browsers present
 hypertext links as hot spots which, when clicked on, point the browser
 at another document (these are specifically called
-`hotlink <hotlink>`__\ s).
+`hotlink <#hotlink>`__\ s).
 
 4. In a massively parallel computer with shared memory, the one location
 that all 10,000 processors are trying to read or write at once (perhaps
@@ -1806,7 +1806,7 @@ HTH
 
 [Usenet: very common] Abbreviation: Hope This Helps (e.g. following a
 response to a technical question). Often used just before
-`HAND <HAND>`__. See also `YHBT <./Y.html#YHBT>`__.
+`HAND <#hAND>`__. See also `YHBT <./Y.html#YHBT>`__.
 
 
 huff
@@ -1830,9 +1830,9 @@ hung
 [from ‘hung up’; common] Equivalent to `wedged <./W.html#wedged>`__,
 but more common at Unix/C sites. Not generally used of people. Syn. with
 `locked up <./L.html#locked-up>`__, `wedged <./W.html#wedged>`__;
-compare `hosed <hosed>`__. See also `hang <hang>`__. A
+compare `hosed <#hosed>`__. See also `hang <#hang>`__. A
 hun
- `Next <hack-mode>`__
+ `Next <#hack-mode>`__
 
  g state is distinguished from `crash <./C.html#crash>`__\ ed or
 `down <./D.html#down>`__, where the program or system is also

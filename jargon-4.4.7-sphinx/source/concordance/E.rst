@@ -8,7 +8,7 @@ Easter egg
 
 E
 
- `Next <Easter-egging>`__
+ `Next <#easter-egging>`__
 
  
 
@@ -32,18 +32,18 @@ of the developers' names, political exhortations, snatches of music, and
  
 
 + -----------+  +  ------+
-| `Prev <../E>`__    | `Up <../E>`__         |  `Next <Easter-egging>`__   |
+| `Prev <../E>`__    | `Up <../E>`__         |  `Next <#easter-egging>`__   |
 + -----------+  +  ------+
 | E                       | `Home <../index>`__   |  Easter egging                   |
 + -----------+  +  ------+
 
 Easter egging
 
-`Prev <Easter-egg>`__ 
+`Prev <#easter-egg>`__ 
 
 E
 
- `Next <eat-flaming-death>`__
+ `Next <#eat-flaming-death>`__
 
  
 
@@ -59,18 +59,18 @@ debugging <./S.html#shotgun-debugging>`__.
  
 
 +  ---+  +  ----------+
-| `Prev <Easter-egg>`__    | `Up <../E>`__         |  `Next <eat-flaming-death>`__   |
+| `Prev <#easter-egg>`__    | `Up <../E>`__         |  `Next <#eat-flaming-death>`__   |
 +  ---+  +  ----------+
 | Easter egg                    | `Home <../index>`__   |  eat flaming death                   |
 +  ---+  +  ----------+
 
 eat flaming death
 
-`Prev <Easter-egging>`__ 
+`Prev <#easter-egging>`__ 
 
 E
 
- `Next <EBCDIC>`__
+ `Next <#eBCDIC>`__
 
  
 
@@ -85,16 +85,16 @@ Next World, You're On Your Own* a character won the right to scream “Eat
 flaming death, fascist media pigs” in the middle of Oscar night on a
 game show; this may have been an influence). Used in humorously
 overblown expressions of hostility. “Eat flaming death,
-`EBCDIC <EBCDIC>`__ users!”
+`EBCDIC <#eBCDIC>`__ users!”
 
 |image0|
 
-IPM tells us to `eat flaming death <eat-flaming-death>`__.
+IPM tells us to `eat flaming death <#eat-flaming-death>`__.
 
  
 
 +  ------+  + -------------+
-| `Prev <Easter-egging>`__    | `Up <../E>`__         |  `Next <EBCDIC>`__   |
+| `Prev <#easter-egging>`__    | `Up <../E>`__         |  `Next <#eBCDIC>`__   |
 +  ------+  + -------------+
 | Easter egging                    | `Home <../index>`__   |  EBCDIC                   |
 +  ------+  + -------------+
@@ -102,11 +102,11 @@ IPM tells us to `eat flaming death <eat-flaming-death>`__.
 .. |image0| image:: ../_static/eat-flaming-death.png
 EBCDIC
 
-`Prev <eat-flaming-death>`__ 
+`Prev <#eat-flaming-death>`__ 
 
 E
 
- `Next <ECP>`__
+ `Next <#eCP>`__
 
  
 
@@ -127,24 +127,24 @@ established ASCII standard. Today, IBM claims to be an open-systems
 company, but IBM's own description of the EBCDIC variants and how to
 convert between them is still internally classified top-secret,
 burn-before-reading. Hackers blanch at the very *name* of EBCDIC and
-consider it a manifestation of purest `evil <evil>`__. See also
+consider it a manifestation of purest `evil <#evil>`__. See also
 `fear and loathing <./F.html#fear-and-loathing>`__.
 
  
 
 +  ----------+  + ----------+
-| `Prev <eat-flaming-death>`__    | `Up <../E>`__         |  `Next <ECP>`__   |
+| `Prev <#eat-flaming-death>`__    | `Up <../E>`__         |  `Next <#eCP>`__   |
 +  ----------+  + ----------+
 | eat flaming death                    | `Home <../index>`__   |  ECP                   |
 +  ----------+  + ----------+
 
 ECP
 
-`Prev <EBCDIC>`__ 
+`Prev <#eBCDIC>`__ 
 
 E
 
- `Next <ed>`__
+ `Next <#ed>`__
 
  
 
@@ -155,18 +155,18 @@ See `spam <./S.html#spam>`__ and `velveeta <./V.html#velveeta>`__.
  
 
 + -------------+  + ---------+
-| `Prev <EBCDIC>`__    | `Up <../E>`__         |  `Next <ed>`__   |
+| `Prev <#eBCDIC>`__    | `Up <../E>`__         |  `Next <#ed>`__   |
 + -------------+  + ---------+
 | EBCDIC                    | `Home <../index>`__   |  ed                   |
 + -------------+  + ---------+
 
 ed
 
-`Prev <ECP>`__ 
+`Prev <#eCP>`__ 
 
 E
 
- `Next <egg>`__
+ `Next <#egg>`__
 
  
 
@@ -187,18 +187,18 @@ consistent (because nearly non-existent) user interface).
  
 
 + ----------+  + ----------+
-| `Prev <ECP>`__    | `Up <../E>`__         |  `Next <egg>`__   |
+| `Prev <#eCP>`__    | `Up <../E>`__         |  `Next <#egg>`__   |
 + ----------+  + ----------+
 | ECP                    | `Home <../index>`__   |  egg                   |
 + ----------+  + ----------+
 
 egg
 
-`Prev <ed>`__ 
+`Prev <#ed>`__ 
 
 E
 
- `Next <egosurf>`__
+ `Next <#egosurf>`__
 
  
 
@@ -217,18 +217,18 @@ the code.
  
 
 + ---------+  +  +
-| `Prev <ed>`__    | `Up <../E>`__         |  `Next <egosurf>`__   |
+| `Prev <#ed>`__    | `Up <../E>`__         |  `Next <#egosurf>`__   |
 + ---------+  +  +
 | ed                    | `Home <../index>`__   |  egosurf                   |
 + ---------+  +  +
 
 egosurf
 
-`Prev <egg>`__ 
+`Prev <#egg>`__ 
 
 E
 
- `Next <eighty-column-mind>`__
+ `Next <#eighty-column-mind>`__
 
  
 
@@ -241,18 +241,18 @@ name in a fanzine.
  
 
 + ----------+  +  -----------+
-| `Prev <egg>`__    | `Up <../E>`__         |  `Next <eighty-column-mind>`__   |
+| `Prev <#egg>`__    | `Up <../E>`__         |  `Next <#eighty-column-mind>`__   |
 + ----------+  +  -----------+
 | egg                    | `Home <../index>`__   |  eighty-column mind                   |
 + ----------+  +  -----------+
 
 eighty-column mind
 
-`Prev <egosurf>`__ 
+`Prev <#egosurf>`__ 
 
 E
 
- `Next <El-Camino-Bignum>`__
+ `Next <#el-Camino-Bignum>`__
 
  
 
@@ -286,18 +286,18 @@ the the GNU site at
  
 
 +  +  +  ---------+
-| `Prev <egosurf>`__    | `Up <../E>`__         |  `Next <El-Camino-Bignum>`__   |
+| `Prev <#egosurf>`__    | `Up <../E>`__         |  `Next <#el-Camino-Bignum>`__   |
 +  +  +  ---------+
 | egosurf                    | `Home <../index>`__   |  El Camino Bignum                   |
 +  +  +  ---------+
 
 El Camino Bignum
 
-`Prev <eighty-column-mind>`__ 
+`Prev <#eighty-column-mind>`__ 
 
 E
 
- `Next <elder-days>`__
+ `Next <#elder-days>`__
 
  
 
@@ -338,18 +338,18 @@ located near Moffett Field — where they keep all those complex planes.
  
 
 +  -----------+  +  ---+
-| `Prev <eighty-column-mind>`__    | `Up <../E>`__         |  `Next <elder-days>`__   |
+| `Prev <#eighty-column-mind>`__    | `Up <../E>`__         |  `Next <#elder-days>`__   |
 +  -----------+  +  ---+
 | eighty-column mind                    | `Home <../index>`__   |  elder days                   |
 +  -----------+  +  ---+
 
 elder days
 
-`Prev <El-Camino-Bignum>`__ 
+`Prev <#el-Camino-Bignum>`__ 
 
 E
 
- `Next <elegant>`__
+ `Next <#elegant>`__
 
  
 
@@ -360,23 +360,23 @@ The heroic age of hackerdom (roughly, pre-1980); the era of the
 `ITS <./I.html#ITS>`__, and the ARPANET. This term has been rather
 consciously adopted from J. R. R. Tolkien's fantasy epic *The Lord of
 the Rings*. Compare `Iron Age <./I.html#Iron-Age>`__; see also
-`elvish <elvish>`__ and `Great Worm <./G.html#Great-Worm>`__.
+`elvish <#elvish>`__ and `Great Worm <./G.html#Great-Worm>`__.
 
  
 
 +  ---------+  +  +
-| `Prev <El-Camino-Bignum>`__    | `Up <../E>`__         |  `Next <elegant>`__   |
+| `Prev <#el-Camino-Bignum>`__    | `Up <../E>`__         |  `Next <#elegant>`__   |
 +  ---------+  +  +
 | El Camino Bignum                    | `Home <../index>`__   |  elegant                   |
 +  ---------+  +  +
 
 elegant
 
-`Prev <elder-days>`__ 
+`Prev <#elder-days>`__ 
 
 E
 
- `Next <elephantine>`__
+ `Next <#elephantine>`__
 
  
 
@@ -396,18 +396,18 @@ nothing left to take away.”
  
 
 +  ---+  +  ----+
-| `Prev <elder-days>`__    | `Up <../E>`__         |  `Next <elephantine>`__   |
+| `Prev <#elder-days>`__    | `Up <../E>`__         |  `Next <#elephantine>`__   |
 +  ---+  +  ----+
 | elder days                    | `Home <../index>`__   |  elephantine                   |
 +  ---+  +  ----+
 
 elephantine
 
-`Prev <elegant>`__ 
+`Prev <#elegant>`__ 
 
 E
 
- `Next <elevator-controller>`__
+ `Next <#elevator-controller>`__
 
  
 
@@ -430,18 +430,18 @@ more pejorative `monstrosity <./M.html#monstrosity>`__. See also
  
 
 +  +  +  ------------+
-| `Prev <elegant>`__    | `Up <../E>`__         |  `Next <elevator-controller>`__   |
+| `Prev <#elegant>`__    | `Up <../E>`__         |  `Next <#elevator-controller>`__   |
 +  +  +  ------------+
 | elegant                    | `Home <../index>`__   |  elevator controller                   |
 +  +  +  ------------+
 
 elevator controller
 
-`Prev <elephantine>`__ 
+`Prev <#elephantine>`__ 
 
 E
 
- `Next <elite>`__
+ `Next <#elite>`__
 
  
 
@@ -460,18 +460,18 @@ wars <./H.html#holy-wars>`__.
  
 
 +  ----+  + ------------+
-| `Prev <elephantine>`__    | `Up <../E>`__         |  `Next <elite>`__   |
+| `Prev <#elephantine>`__    | `Up <../E>`__         |  `Next <#elite>`__   |
 +  ----+  + ------------+
 | elephantine                    | `Home <../index>`__   |  elite                   |
 +  ----+  + ------------+
 
 elite
 
-`Prev <elevator-controller>`__ 
+`Prev <#elevator-controller>`__ 
 
 E
 
- `Next <ELIZA-effect>`__
+ `Next <#eLIZA-effect>`__
 
  
 
@@ -496,18 +496,18 @@ A true hacker would be more likely to use ‘wizardly’. Oppose
  
 
 +  ------------+  +  -----+
-| `Prev <elevator-controller>`__    | `Up <../E>`__         |  `Next <ELIZA-effect>`__   |
+| `Prev <#elevator-controller>`__    | `Up <../E>`__         |  `Next <#eLIZA-effect>`__   |
 +  ------------+  +  -----+
 | elevator controller                    | `Home <../index>`__   |  ELIZA effect                   |
 +  ------------+  +  -----+
 
 ELIZA effect
 
-`Prev <elite>`__ 
+`Prev <#elite>`__ 
 
 E
 
- `Next <elvish>`__
+ `Next <#elvish>`__
 
  
 
@@ -538,18 +538,18 @@ original Eliza are available at
  
 
 + ------------+  + -------------+
-| `Prev <elite>`__    | `Up <../E>`__         |  `Next <elvish>`__   |
+| `Prev <#elite>`__    | `Up <../E>`__         |  `Next <#elvish>`__   |
 + ------------+  + -------------+
 | elite                    | `Home <../index>`__   |  elvish                   |
 + ------------+  + -------------+
 
 elvish
 
-`Prev <ELIZA-effect>`__ 
+`Prev <#eLIZA-effect>`__ 
 
 E
 
- `Next <EMACS>`__
+ `Next <#eMACS>`__
 
  
 
@@ -559,11 +559,11 @@ E
 beautiful Celtic half-uncial hand of the *Book of Kells*. Invented and
 described by J. R. R. Tolkien in *The Lord of The Rings* as an
 orthography for his fictional ‘elvish’ languages, this system (which is
-both visually and phonetically `elegant <elegant>`__) has long
+both visually and phonetically `elegant <#elegant>`__) has long
 fascinated hackers (who tend to be intrigued by artificial languages in
 general). It is traditional for graphics printers, plotters, window
 systems, and the like to support a Feanorian typeface as one of their
-demo items. See also `elder days <elder-days>`__.
+demo items. See also `elder days <#elder-days>`__.
 
 2. By extension, any odd or unreadable typeface produced by a graphics
 device.
@@ -573,18 +573,18 @@ device.
  
 
 +  -----+  + ------------+
-| `Prev <ELIZA-effect>`__    | `Up <../E>`__         |  `Next <EMACS>`__   |
+| `Prev <#eLIZA-effect>`__    | `Up <../E>`__         |  `Next <#eMACS>`__   |
 +  -----+  + ------------+
 | ELIZA effect                    | `Home <../index>`__   |  EMACS                   |
 +  -----+  + ------------+
 
 EMACS
 
-`Prev <elvish>`__ 
+`Prev <#elvish>`__ 
 
 E
 
- `Next <email>`__
+ `Next <#email>`__
 
  
 
@@ -623,18 +623,18 @@ malloc()s All Computer Storage’, and ‘EMACS Makes A Computer Slow’ (see
  
 
 + -------------+  + ------------+
-| `Prev <elvish>`__    | `Up <../E>`__         |  `Next <email>`__   |
+| `Prev <#elvish>`__    | `Up <../E>`__         |  `Next <#email>`__   |
 + -------------+  + ------------+
 | elvish                    | `Home <../index>`__   |  email                   |
 + -------------+  + ------------+
 
 email
 
-`Prev <EMACS>`__ 
+`Prev <#eMACS>`__ 
 
 E
 
- `Next <emoticon>`__
+ `Next <#emoticon>`__
 
  
 
@@ -668,18 +668,18 @@ second, and ‘E-mail’ and ‘Email’ are a distant third and fourth.
  
 
 + ------------+  +  -+
-| `Prev <EMACS>`__    | `Up <../E>`__         |  `Next <emoticon>`__   |
+| `Prev <#eMACS>`__    | `Up <../E>`__         |  `Next <#emoticon>`__   |
 + ------------+  +  -+
 | EMACS                    | `Home <../index>`__   |  emoticon                   |
 + ------------+  +  -+
 
 emoticon
 
-`Prev <email>`__ 
+`Prev <#email>`__ 
 
 E
 
- `Next <EMP>`__
+ `Next <#eMP>`__
 
  
 
@@ -713,7 +713,7 @@ the left.) The first two listed are by far the most frequently
 encountered. Hyphenless forms of them are common on CompuServe, GEnie,
 and BIX; see also `bixie <./B.html#bixie>`__. On
 `Usenet <./U.html#Usenet>`__, smiley is often used as a generic term
-synonymous with `emoticon <emoticon>`__, as well as specifically
+synonymous with `emoticon <#emoticon>`__, as well as specifically
 for the happy-face emoticon.
 
 The invention of the original smiley and frowney emoticons is generally
@@ -737,18 +737,18 @@ that you've gone over the line.
  
 
 + ------------+  + ----------+
-| `Prev <email>`__    | `Up <../E>`__         |  `Next <EMP>`__   |
+| `Prev <#email>`__    | `Up <../E>`__         |  `Next <#eMP>`__   |
 + ------------+  + ----------+
 | email                    | `Home <../index>`__   |  EMP                   |
 + ------------+  + ----------+
 
 EMP
 
-`Prev <emoticon>`__ 
+`Prev <#emoticon>`__ 
 
 E
 
- `Next <empire>`__
+ `Next <#empire>`__
 
  
 
@@ -759,18 +759,18 @@ See `spam <./S.html#spam>`__.
  
 
 +  -+  + -------------+
-| `Prev <emoticon>`__    | `Up <../E>`__         |  `Next <empire>`__   |
+| `Prev <#emoticon>`__    | `Up <../E>`__         |  `Next <#empire>`__   |
 +  -+  + -------------+
 | emoticon                    | `Home <../index>`__   |  empire                   |
 +  -+  + -------------+
 
 empire
 
-`Prev <EMP>`__ 
+`Prev <#eMP>`__ 
 
 E
 
- `Next <engine>`__
+ `Next <#engine>`__
 
  
 
@@ -798,18 +798,18 @@ The Empire resource site is at
  
 
 + ----------+  + -------------+
-| `Prev <EMP>`__    | `Up <../E>`__         |  `Next <engine>`__   |
+| `Prev <#eMP>`__    | `Up <../E>`__         |  `Next <#engine>`__   |
 + ----------+  + -------------+
 | EMP                    | `Home <../index>`__   |  engine                   |
 + ----------+  + -------------+
 
 engine
 
-`Prev <empire>`__ 
+`Prev <#empire>`__ 
 
 E
 
- `Next <English>`__
+ `Next <#english>`__
 
  
 
@@ -832,18 +832,18 @@ computer that he designed in 1844 the Analytical Engine.
  
 
 + -------------+  +  +
-| `Prev <empire>`__    | `Up <../E>`__         |  `Next <English>`__   |
+| `Prev <#empire>`__    | `Up <../E>`__         |  `Next <#english>`__   |
 + -------------+  +  +
 | empire                    | `Home <../index>`__   |  English                   |
 + -------------+  +  +
 
 English
 
-`Prev <engine>`__ 
+`Prev <#engine>`__ 
 
 E
 
- `Next <enhancement>`__
+ `Next <#enhancement>`__
 
  
 
@@ -868,18 +868,18 @@ truth-in-advertising laws.
  
 
 + -------------+  +  ----+
-| `Prev <engine>`__    | `Up <../E>`__         |  `Next <enhancement>`__   |
+| `Prev <#engine>`__    | `Up <../E>`__         |  `Next <#enhancement>`__   |
 + -------------+  +  ----+
 | engine                    | `Home <../index>`__   |  enhancement                   |
 + -------------+  +  ----+
 
 enhancement
 
-`Prev <English>`__ 
+`Prev <#english>`__ 
 
 E
 
- `Next <ENQ>`__
+ `Next <#eNQ>`__
 
  
 
@@ -895,18 +895,18 @@ declaring the bug itself to be a feature.
  
 
 +  +  + ----------+
-| `Prev <English>`__    | `Up <../E>`__         |  `Next <ENQ>`__   |
+| `Prev <#english>`__    | `Up <../E>`__         |  `Next <#eNQ>`__   |
 +  +  + ----------+
 | English                    | `Home <../index>`__   |  ENQ                   |
 +  +  + ----------+
 
 ENQ
 
-`Prev <enhancement>`__ 
+`Prev <#enhancement>`__ 
 
 E
 
- `Next <EOD>`__
+ `Next <#eOD>`__
 
  
 
@@ -925,18 +925,18 @@ usage of **FOO?** listed under `talk mode <./T.html#talk-mode>`__.
  
 
 +  ----+  + ----------+
-| `Prev <enhancement>`__    | `Up <../E>`__         |  `Next <EOD>`__   |
+| `Prev <#enhancement>`__    | `Up <../E>`__         |  `Next <#eOD>`__   |
 +  ----+  + ----------+
 | enhancement                    | `Home <../index>`__   |  EOD                   |
 +  ----+  + ----------+
 
 EOD
 
-`Prev <ENQ>`__ 
+`Prev <#eNQ>`__ 
 
 E
 
- `Next <EOF>`__
+ `Next <#eOF>`__
 
  
 
@@ -949,18 +949,18 @@ arguments or attacks.
  
 
 + ----------+  + ----------+
-| `Prev <ENQ>`__    | `Up <../E>`__         |  `Next <EOF>`__   |
+| `Prev <#eNQ>`__    | `Up <../E>`__         |  `Next <#eOF>`__   |
 + ----------+  + ----------+
 | ENQ                    | `Home <../index>`__   |  EOF                   |
 + ----------+  + ----------+
 
 EOF
 
-`Prev <EOD>`__ 
+`Prev <#eOD>`__ 
 
 E
 
- `Next <EOL>`__
+ `Next <#eOL>`__
 
  
 
@@ -983,23 +983,23 @@ an end-of-file condition.
 something that can be modeled as a sequential read and can't go further.
 “Yeah, I looked for a list of 360 mnemonics to post as a joke, but I hit
 EOF pretty fast; all the library had was a `JCL <./J.html#JCL>`__
-manual.” See also `EOL <EOL>`__.
+manual.” See also `EOL <#eOL>`__.
 
  
 
 + ----------+  + ----------+
-| `Prev <EOD>`__    | `Up <../E>`__         |  `Next <EOL>`__   |
+| `Prev <#eOD>`__    | `Up <../E>`__         |  `Next <#eOL>`__   |
 + ----------+  + ----------+
 | EOD                    | `Home <../index>`__   |  EOL                   |
 + ----------+  + ----------+
 
 EOL
 
-`Prev <EOF>`__ 
+`Prev <#eOF>`__ 
 
 E
 
- `Next <EOU>`__
+ `Next <#eOU>`__
 
  
 
@@ -1008,23 +1008,23 @@ E
 [End Of Line] Syn. for `newline <./N.html#newline>`__, derived
 perhaps from the original CDC6600 Pascal. Now rare, but widely
 recognized and occasionally used for brevity. Used in the example entry
-under `BNF <./B.html#BNF>`__. See also `EOF <EOF>`__.
+under `BNF <./B.html#BNF>`__. See also `EOF <#eOF>`__.
 
  
 
 + ----------+  + ----------+
-| `Prev <EOF>`__    | `Up <../E>`__         |  `Next <EOU>`__   |
+| `Prev <#eOF>`__    | `Up <../E>`__         |  `Next <#eOU>`__   |
 + ----------+  + ----------+
 | EOF                    | `Home <../index>`__   |  EOU                   |
 + ----------+  + ----------+
 
 EOU
 
-`Prev <EOL>`__ 
+`Prev <#eOL>`__ 
 
 E
 
- `Next <epoch>`__
+ `Next <#epoch>`__
 
  
 
@@ -1043,18 +1043,18 @@ front of a `tube <./T.html#tube>`__ or flatscreen today.
  
 
 + ----------+  + ------------+
-| `Prev <EOL>`__    | `Up <../E>`__         |  `Next <epoch>`__   |
+| `Prev <#eOL>`__    | `Up <../E>`__         |  `Next <#epoch>`__   |
 + ----------+  + ------------+
 | EOL                    | `Home <../index>`__   |  epoch                   |
 + ----------+  + ------------+
 
 epoch
 
-`Prev <EOU>`__ 
+`Prev <#eOU>`__ 
 
 E
 
- `Next <epsilon>`__
+ `Next <#epsilon>`__
 
  
 
@@ -1081,18 +1081,18 @@ for that long.
  
 
 + ----------+  +  +
-| `Prev <EOU>`__    | `Up <../E>`__         |  `Next <epsilon>`__   |
+| `Prev <#eOU>`__    | `Up <../E>`__         |  `Next <#epsilon>`__   |
 + ----------+  +  +
 | EOU                    | `Home <../index>`__   |  epsilon                   |
 + ----------+  +  +
 
 epsilon
 
-`Prev <epoch>`__ 
+`Prev <#epoch>`__ 
 
 E
 
- `Next <epsilon-squared>`__
+ `Next <#epsilon-squared>`__
 
  
 
@@ -1115,28 +1115,28 @@ to get it there: “My program is within epsilon of working.”
  
 
 + ------------+  +  --------+
-| `Prev <epoch>`__    | `Up <../E>`__         |  `Next <epsilon-squared>`__   |
+| `Prev <#epoch>`__    | `Up <../E>`__         |  `Next <#epsilon-squared>`__   |
 + ------------+  +  --------+
 | epoch                    | `Home <../index>`__   |  epsilon squared                   |
 + ------------+  +  --------+
 
 epsilon squared
 
-`Prev <epsilon>`__ 
+`Prev <#epsilon>`__ 
 
 E
 
- `Next <era>`__
+ `Next <#era>`__
 
  
 
 **epsilon squared**: n.
 
-A quantity even smaller than `epsilon <epsilon>`__, as small in
+A quantity even smaller than `epsilon <#epsilon>`__, as small in
 comparison to epsilon as epsilon is to something normal; completely
 negligible. If you buy a supercomputer for a million dollars, the cost
 of the thousand-dollar terminal to go with it is
-`epsilon <epsilon>`__, and the cost of the ten-dollar cable to
+`epsilon <#epsilon>`__, and the cost of the ten-dollar cable to
 connect them is epsilon squared. Compare `lost in the
 underflow <./L.html#lost-in-the-underflow>`__, `lost in the
 noise <./L.html#lost-in-the-noise>`__.
@@ -1144,44 +1144,44 @@ noise <./L.html#lost-in-the-noise>`__.
  
 
 +  +  + ----------+
-| `Prev <epsilon>`__    | `Up <../E>`__         |  `Next <era>`__   |
+| `Prev <#epsilon>`__    | `Up <../E>`__         |  `Next <#era>`__   |
 +  +  + ----------+
 | epsilon                    | `Home <../index>`__   |  era                   |
 +  +  + ----------+
 
 era
 
-`Prev <epsilon-squared>`__ 
+`Prev <#epsilon-squared>`__ 
 
 E
 
- `Next <Eric-Conspiracy>`__
+ `Next <#eric-Conspiracy>`__
 
  
 
 **era**: n.
 
-Syn. `epoch <epoch>`__. Webster's Unabridged makes these words
+Syn. `epoch <#epoch>`__. Webster's Unabridged makes these words
 almost synonymous, but era more often connotes a span of time rather
 than a point in time, whereas the reverse is true for
-`epoch <epoch>`__. The `epoch <epoch>`__ usage is
+`epoch <#epoch>`__. The `epoch <#epoch>`__ usage is
 recommended.
 
  
 
 +  --------+  +  --------+
-| `Prev <epsilon-squared>`__    | `Up <../E>`__         |  `Next <Eric-Conspiracy>`__   |
+| `Prev <#epsilon-squared>`__    | `Up <../E>`__         |  `Next <#eric-Conspiracy>`__   |
 +  --------+  +  --------+
 | epsilon squared                    | `Home <../index>`__   |  Eric Conspiracy                   |
 +  --------+  +  --------+
 
 Eric Conspiracy
 
-`Prev <era>`__ 
+`Prev <#era>`__ 
 
 E
 
- `Next <Eris>`__
+ `Next <#eris>`__
 
  
 
@@ -1204,18 +1204,18 @@ full details.
  
 
 + ----------+  + -----------+
-| `Prev <era>`__    | `Up <../E>`__         |  `Next <Eris>`__   |
+| `Prev <#era>`__    | `Up <../E>`__         |  `Next <#eris>`__   |
 + ----------+  + -----------+
 | era                    | `Home <../index>`__   |  Eris                   |
 + ----------+  + -----------+
 
 Eris
 
-`Prev <Eric-Conspiracy>`__ 
+`Prev <#eric-Conspiracy>`__ 
 
 E
 
- `Next <erotics>`__
+ `Next <#erotics>`__
 
  
 
@@ -1234,18 +1234,18 @@ including hackerdom. See `Discordianism <./D.html#Discordianism>`__,
  
 
 +  --------+  +  +
-| `Prev <Eric-Conspiracy>`__    | `Up <../E>`__         |  `Next <erotics>`__   |
+| `Prev <#eric-Conspiracy>`__    | `Up <../E>`__         |  `Next <#erotics>`__   |
 +  --------+  +  +
 | Eric Conspiracy                    | `Home <../index>`__   |  erotics                   |
 +  --------+  +  +
 
 erotics
 
-`Prev <Eris>`__ 
+`Prev <#eris>`__ 
 
 E
 
- `Next <error-33>`__
+ `Next <#error-33>`__
 
  
 
@@ -1258,18 +1258,18 @@ maybe because good electronics excites them and makes them warm.
  
 
 + -----------+  +  -+
-| `Prev <Eris>`__    | `Up <../E>`__         |  `Next <error-33>`__   |
+| `Prev <#eris>`__    | `Up <../E>`__         |  `Next <#error-33>`__   |
 + -----------+  +  -+
 | Eris                    | `Home <../index>`__   |  error 33                   |
 + -----------+  +  -+
 
 error 33
 
-`Prev <erotics>`__ 
+`Prev <#erotics>`__ 
 
 E
 
- `Next <eurodemo>`__
+ `Next <#eurodemo>`__
 
  
 
@@ -1284,18 +1284,18 @@ of some other project (be it a research effort or not).
  
 
 +  +  +  -+
-| `Prev <erotics>`__    | `Up <../E>`__         |  `Next <eurodemo>`__   |
+| `Prev <#erotics>`__    | `Up <../E>`__         |  `Next <#eurodemo>`__   |
 +  +  +  -+
 | erotics                    | `Home <../index>`__   |  eurodemo                   |
 +  +  +  -+
 
 eurodemo
 
-`Prev <error-33>`__ 
+`Prev <#error-33>`__ 
 
 E
 
- `Next <evil>`__
+ `Next <#evil>`__
 
  
 
@@ -1306,24 +1306,24 @@ a `demo <./D.html#demo>`__, sense 4
  
 
 +  -+  + -----------+
-| `Prev <error-33>`__    | `Up <../E>`__         |  `Next <evil>`__   |
+| `Prev <#error-33>`__    | `Up <../E>`__         |  `Next <#evil>`__   |
 +  -+  + -----------+
 | error 33                    | `Home <../index>`__   |  evil                   |
 +  -+  + -----------+
 
 evil and rude
 
-`Prev <evil>`__ 
+`Prev <#evil>`__ 
 
 E
 
- `Next <Evil-Empire>`__
+ `Next <#evil-Empire>`__
 
  
 
 **evil and rude**: adj.
 
-Both `evil <evil>`__ and `rude <./R.html#rude>`__, but with
+Both `evil <#evil>`__ and `rude <./R.html#rude>`__, but with
 the additional connotation that the rudeness was due to malice rather
 than incompetence. Thus, for example: Microsoft's Windows NT is evil
 because it's a competent implementation of a bad design; it's rude
@@ -1337,18 +1337,18 @@ sense of ‘evil’.
  
 
 + -----------+  +  ----+
-| `Prev <evil>`__    | `Up <../E>`__         |  `Next <Evil-Empire>`__   |
+| `Prev <#evil>`__    | `Up <../E>`__         |  `Next <#evil-Empire>`__   |
 + -----------+  +  ----+
 | evil                    | `Home <../index>`__   |  Evil Empire                   |
 + -----------+  +  ----+
 
 Evil Empire
 
-`Prev <evil-and-rude>`__ 
+`Prev <#evil-and-rude>`__ 
 
 E
 
- `Next <exa->`__
+ `Next <#exa->`__
 
  
 
@@ -1366,18 +1366,18 @@ search for ‘Evil Empire’ pages on the Web.
  
 
 +  ------+  + -----------+
-| `Prev <evil-and-rude>`__    | `Up <../E>`__         |  `Next <exa->`__   |
+| `Prev <#evil-and-rude>`__    | `Up <../E>`__         |  `Next <#exa->`__   |
 +  ------+  + -----------+
 | evil and rude                    | `Home <../index>`__   |  exa-                   |
 +  ------+  + -----------+
 
 evil
 
-`Prev <eurodemo>`__ 
+`Prev <#eurodemo>`__ 
 
 E
 
- `Next <evil-and-rude>`__
+ `Next <#evil-and-rude>`__
 
  
 
@@ -1395,23 +1395,23 @@ Glue <./B.html#Blue-Glue>`__ interface but decided it was too evil to
 deal with.” “\ `TECO <./T.html#TECO>`__ is neat, but it can be pretty
 evil if you're prone to typos.” Often pronounced with the first syllable
 lengthened, as /eeee'vil/. Compare `evil and
-rude <evil-and-rude>`__.
+rude <#evil-and-rude>`__.
 
  
 
 +  -+  +  ------+
-| `Prev <eurodemo>`__    | `Up <../E>`__         |  `Next <evil-and-rude>`__   |
+| `Prev <#eurodemo>`__    | `Up <../E>`__         |  `Next <#evil-and-rude>`__   |
 +  -+  +  ------+
 | eurodemo                    | `Home <../index>`__   |  evil and rude                   |
 +  -+  +  ------+
 
 exa-
 
-`Prev <Evil-Empire>`__ 
+`Prev <#evil-Empire>`__ 
 
 E
 
- `Next <examining-the-entrails>`__
+ `Next <#examining-the-entrails>`__
 
  
 
@@ -1422,18 +1422,18 @@ E
  
 
 +  ----+  +   -+
-| `Prev <Evil-Empire>`__    | `Up <../E>`__         |  `Next <examining-the-entrails>`__   |
+| `Prev <#evil-Empire>`__    | `Up <../E>`__         |  `Next <#examining-the-entrails>`__   |
 +  ----+  +   -+
 | Evil Empire                    | `Home <../index>`__   |  examining the entrails                   |
 +  ----+  +   -+
 
 examining the entrails
 
-`Prev <exa->`__ 
+`Prev <#exa->`__ 
 
 E
 
- `Next <EXCH>`__
+ `Next <#eXCH>`__
 
  
 
@@ -1450,18 +1450,18 @@ art <./B.html#black-art>`__.
  
 
 + -----------+  + -----------+
-| `Prev <exa->`__    | `Up <../E>`__         |  `Next <EXCH>`__   |
+| `Prev <#exa->`__    | `Up <../E>`__         |  `Next <#eXCH>`__   |
 + -----------+  + -----------+
 | exa-                    | `Home <../index>`__   |  EXCH                   |
 + -----------+  + -----------+
 
 EXCH
 
-`Prev <examining-the-entrails>`__ 
+`Prev <#examining-the-entrails>`__ 
 
 E
 
- `Next <excl>`__
+ `Next <#excl>`__
 
  
 
@@ -1478,18 +1478,18 @@ usually written in lowercase).
  
 
 +   -+  + -----------+
-| `Prev <examining-the-entrails>`__    | `Up <../E>`__         |  `Next <excl>`__   |
+| `Prev <#examining-the-entrails>`__    | `Up <../E>`__         |  `Next <#excl>`__   |
 +   -+  + -----------+
 | examining the entrails                    | `Home <../index>`__   |  excl                   |
 +   -+  + -----------+
 
 excl
 
-`Prev <EXCH>`__ 
+`Prev <#eXCH>`__ 
 
 E
 
- `Next <EXE>`__
+ `Next <#eXE>`__
 
  
 
@@ -1501,18 +1501,18 @@ Abbreviation for ‘exclamation point’. See `bang <./B.html#bang>`__,
  
 
 + -----------+  + ----------+
-| `Prev <EXCH>`__    | `Up <../E>`__         |  `Next <EXE>`__   |
+| `Prev <#eXCH>`__    | `Up <../E>`__         |  `Next <#eXE>`__   |
 + -----------+  + ----------+
 | EXCH                    | `Home <../index>`__   |  EXE                   |
 + -----------+  + ----------+
 
 exec
 
-`Prev <EXE>`__ 
+`Prev <#eXE>`__ 
 
 E
 
- `Next <exercise--left-as-an>`__
+ `Next <#exercise--left-as-an>`__
 
  
 
@@ -1535,18 +1535,18 @@ used. To a hacker, an ‘exec’ is always a program, never a person.
  
 
 + ----------+  +  -------------+
-| `Prev <EXE>`__    | `Up <../E>`__         |  `Next <exercise--left-as-an>`__   |
+| `Prev <#eXE>`__    | `Up <../E>`__         |  `Next <#exercise--left-as-an>`__   |
 + ----------+  +  -------------+
 | EXE                    | `Home <../index>`__   |  exercise, left as an                   |
 + ----------+  +  -------------+
 
 EXE
 
-`Prev <excl>`__ 
+`Prev <#excl>`__ 
 
 E
 
- `Next <exec>`__
+ `Next <#exec>`__
 
  
 
@@ -1560,18 +1560,18 @@ executables don't have any required suffix.
  
 
 + -----------+  + -----------+
-| `Prev <excl>`__    | `Up <../E>`__         |  `Next <exec>`__   |
+| `Prev <#excl>`__    | `Up <../E>`__         |  `Next <#exec>`__   |
 + -----------+  + -----------+
 | excl                    | `Home <../index>`__   |  exec                   |
 + -----------+  + -----------+
 
 exercise, left as an
 
-`Prev <exec>`__ 
+`Prev <#exec>`__ 
 
 E
 
- `Next <Exon>`__
+ `Next <#exon>`__
 
  
 
@@ -1587,18 +1587,18 @@ of humor or a vast faith in the capabilities of their audiences.
  
 
 + -----------+  + -----------+
-| `Prev <exec>`__    | `Up <../E>`__         |  `Next <Exon>`__   |
+| `Prev <#exec>`__    | `Up <../E>`__         |  `Next <#exon>`__   |
 + -----------+  + -----------+
 | exec                    | `Home <../index>`__   |  Exon                   |
 + -----------+  + -----------+
 
 Exon
 
-`Prev <exercise--left-as-an>`__ 
+`Prev <#exercise--left-as-an>`__ 
 
 E
 
- `Next <Exploder>`__
+ `Next <#exploder>`__
 
  
 
@@ -1617,18 +1617,18 @@ Use of Exon's name as an expletive outlived the CDA controversy itself.
  
 
 +  -------------+  +  -+
-| `Prev <exercise--left-as-an>`__    | `Up <../E>`__         |  `Next <Exploder>`__   |
+| `Prev <#exercise--left-as-an>`__    | `Up <../E>`__         |  `Next <#exploder>`__   |
 +  -------------+  +  -+
 | exercise, left as an                    | `Home <../index>`__   |  Exploder                   |
 +  -------------+  +  -+
 
 Exploder
 
-`Prev <Exon>`__ 
+`Prev <#exon>`__ 
 
 E
 
- `Next <exploit>`__
+ `Next <#exploit>`__
 
  
 
@@ -1644,18 +1644,18 @@ called upon to create.
  
 
 + -----------+  +  +
-| `Prev <Exon>`__    | `Up <../E>`__         |  `Next <exploit>`__   |
+| `Prev <#exon>`__    | `Up <../E>`__         |  `Next <#exploit>`__   |
 + -----------+  +  +
 | Exon                    | `Home <../index>`__   |  exploit                   |
 + -----------+  +  +
 
 exploit
 
-`Prev <Exploder>`__ 
+`Prev <#exploder>`__ 
 
 E
 
- `Next <external-memory>`__
+ `Next <#external-memory>`__
 
  
 
@@ -1672,18 +1672,18 @@ Death <./P.html#Ping-O--Death>`__ is a famous exploit.
  
 
 +  -+  +  --------+
-| `Prev <Exploder>`__    | `Up <../E>`__         |  `Next <external-memory>`__   |
+| `Prev <#exploder>`__    | `Up <../E>`__         |  `Next <#external-memory>`__   |
 +  -+  +  --------+
 | Exploder                    | `Home <../index>`__   |  external memory                   |
 +  -+  +  --------+
 
 external memory
 
-`Prev <exploit>`__ 
+`Prev <#exploit>`__ 
 
 E
 
- `Next <eye-candy>`__
+ `Next <#eye-candy>`__
 
  
 
@@ -1696,14 +1696,14 @@ nonvolatile disk storage on computers.
  
 
 +  +  +  --+
-| `Prev <exploit>`__    | `Up <../E>`__         |  `Next <eye-candy>`__   |
+| `Prev <#exploit>`__    | `Up <../E>`__         |  `Next <#eye-candy>`__   |
 +  +  +  --+
 | exploit                    | `Home <../index>`__   |  eye candy                   |
 +  +  +  --+
 
 eyeball search
 
-`Prev <eye-candy>`__ 
+`Prev <#eye-candy>`__ 
 
 E
 
@@ -1722,18 +1722,18 @@ tool. Also called a `vgrep <./V.html#vgrep>`__; compare
  
 
 +  --+  + -----------+
-| `Prev <eye-candy>`__    | `Up <../E>`__         |  `Next <../F>`__   |
+| `Prev <#eye-candy>`__    | `Up <../E>`__         |  `Next <../F>`__   |
 +  --+  + -----------+
 | eye candy                    | `Home <../index>`__   |  F                      |
 +  --+  + -----------+
 
 eye candy
 
-`Prev <external-memory>`__ 
+`Prev <#external-memory>`__ 
 
 E
 
- `Next <eyeball-search>`__
+ `Next <#eyeball-search>`__
 
  
 
@@ -1751,7 +1751,7 @@ appear to be live among hackers.
  
 
 +  --------+  +  -------+
-| `Prev <external-memory>`__    | `Up <../E>`__         |  `Next <eyeball-search>`__   |
+| `Prev <#external-memory>`__    | `Up <../E>`__         |  `Next <#eyeball-search>`__   |
 +  --------+  +  -------+
 | external memory                    | `Home <../index>`__   |  eyeball search                   |
 +  --------+  +  -------+
